@@ -1,6 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
-from getVotes import calculate_agreement, setup_driver, teardown_driver
+from functions.getVotes import calculate_agreement, setup_driver, teardown_driver
 from classes.member import Member
 
 
