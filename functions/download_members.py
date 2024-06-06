@@ -51,25 +51,13 @@ def scrape(driver):
                 #Save member
                 new_member.save()
                 members_dict[member_id] = new_member
-                
-                
 
-            
-                
     return members_dict
 
 def download_members():
     driver = setup_driver()
     try:
         members= scrape(driver)
-
-
-        # Sort the list from high to low based on the 'agreement' key
-        sorted_agreements = sorted(members, key=lambda x: x['agreement'], reverse=True)
-
-        # Print the names and agreements
-        for member in sorted_agreements:
-            print(f"Name: {member['name']}, Agreement: {member['agreement']:.2f}%")
             
     finally:
         teardown_driver(driver)

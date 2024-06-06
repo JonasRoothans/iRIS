@@ -5,6 +5,8 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from bs4 import BeautifulSoup
+from classes.vote import Vote
+from datetime import datetime
 import json
 
 def setup_driver():
@@ -68,6 +70,18 @@ def calculate_agreement(driver, url):
                         corresponding_votes_count += 1
                     else:
                         other_count += 1
+
+                    #Save this information to the Vote Object
+                    v = Vote(int(vote_id))
+                    if v.description is None:
+                        v.description=vote_data['title']
+                    if v.result is None:
+                        v.result=vote_data['result']
+                    if v.url is None:
+                        v.url = vote_data['url']
+                    if v.date is None:
+                        v.date = vote_data['date']['date'][0:10]
+                    v.add_membervote(int(member_id),vote)
 
                 # Calculate the percentage of corresponding votes
                 percentage_corresponding_votes = (corresponding_votes_count / total_votes_count) * 100 if total_votes_count > 0 else 0

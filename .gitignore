@@ -23,6 +23,7 @@ var/
 wheels/
 share/python-wheels/
 xmls/
+json/
 *.egg-info/
 .installed.cfg
 .idea/
