@@ -18,7 +18,7 @@ class Member:
                  role: Optional[str] = None,
                  url: Optional[str] = None):
         if speaker_id is not None and name is None and party is None and role is None and url is None:
-            self.load_from_xml(speaker_id)
+            self.load_from_json(speaker_id)
         else:
             self.speaker_id = speaker_id
             self.name = name
@@ -29,7 +29,8 @@ class Member:
     def load_from_xml(self, speaker_id: int):
         file_path = f'xmls/members/{speaker_id}.xml'
         if not os.path.exists(file_path):
-            raise FileNotFoundError(f"No XML file found for speaker_id {speaker_id}")
+            self.name = f'Unknown id: {speaker_id}'
+            return
 
         tree = ET.parse(file_path)
         root = tree.getroot()
@@ -42,7 +43,8 @@ class Member:
     def load_from_json(self, speaker_id: int):
         file_path = f'json/members/{speaker_id}.json'
         if not os.path.exists(file_path):
-            raise FileNotFoundError(f"No JSON file found for speaker_id {speaker_id}")
+            self.name = f'Unknown id: {speaker_id}'
+            return
         with open(file_path, 'r') as file:
             data = json.load(file)
             self.speaker_id = data['speaker_id']
