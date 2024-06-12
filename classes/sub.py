@@ -5,6 +5,8 @@ import requests
 import re
 from bs4 import BeautifulSoup
 from classes.member import Member
+import json
+import os
 
 @dataclass
 class Speech:
@@ -34,19 +36,116 @@ class Speech:
 @dataclass
 class Sub:
     meeting_id: Optional[int] = None
-    video_id: Optional[int] = None
+    video_url: Optional[int] = None
     title: Optional[str] = None
     text: Optional[Dict[int,str]] = None
     speaker: Optional[Dict[int,Speech]] = None
     api: Optional[str] = None
     meeting_url: Optional[str] = None
+    date: Optional[str] = None
+
+    def __init__(self, meeting_id:Optional[int] = None,
+                 video_url:Optional[int] = None,
+                 title:Optional[int] = None,
+                 text:Optional[Dict[int,str]] = None,
+                 speaker:Optional[Dict[int,Speech]] = None,
+                 api:Optional[str] = None,
+                 meeting_url:Optional[str] = None,
+                 date:Optional[str] = None):
+        if meeting_id is not None and video_url is None and title is None and text is None and speaker is None and api is None and meeting_url is None and date is None:
+            self.load_from_json(meeting_id)
+
+    def load_from_json(self, meeting_id: int):
+        file_path = f'json/subs/{meeting_id}.json'
+        if os.path.exists(file_path):
+            #print(f'Loading JSON for subs {meeting_id}')
+            with open(file_path, 'r') as file:
+                data = json.load(file)
+                self.meeting_id = data['meeting_id']
+                self.video_url = data['video_url']
+                self.title = data['title']
+                self.text = data['text']
+                self.speaker = data['speaker']
+                self.api = data['api']
+                self.meeting_url = data['meeting_url']
+                self.date = data['date']
+
+            for timestamp in self.speaker:
+                s = Speech(None, None, None, None, None)
+                for property in self.speaker[timestamp]:
+                    setattr(s, property, self.speaker[timestamp][property])
+                self.speaker[timestamp] = s
+
+        return True
+
+
+
 
     def __post_init__(self):
         self.text = {}
         self.speaker = {}
 
+    def serialize(self):
+        all_text = ''
+        for timestamp in self.text:
+            all_text += ' ' + self.text[timestamp]
+        return all_text
+
+    def contains_keyword(self, keyword: str):
+        first = True
+        for timestamp in self.text:
+            if keyword in self.text[timestamp]:
+                if first:
+                    print(self.date)
+                    first = False
+                speaker = self._find_speaker_at_timestamp(timestamp)
+                #speaker.print(None)
+
+                all_keys = list(self.text.keys())
+                match = all_keys.index(timestamp)
+                #print(self.text[all_keys[match - 1]])
+                print(f'{Member(speaker.speaker_id).name}: {self.text[all_keys[match]]}')
+                #print(self.text[all_keys[match + 1]])
+
+
+    def save(self):
+        print(f"Saving subs: {self.meeting_id}")
+        if self.meeting_id is None:
+            print("Meeting ID must be set to save the subs.")
+            return
+
+        directory_path = 'json/subs'
+        os.makedirs(directory_path, exist_ok=True)
+        file_path = os.path.join(directory_path, f"{self.meeting_id}.json")
+        with open(file_path, 'w', encoding='utf-8') as f:
+            json.dump(self.to_dict(), f, ensure_ascii=False, indent=4)
+
+
+    def to_dict(self):
+        dict = self.__dict__
+        if 'speaker' in dict:
+            for key in dict["speaker"]:
+                dict["speaker"][key] = dict["speaker"][key].__dict__
+        else:
+            dict['speaker'] = None
+
+
+        return dict
+
+    def _find_speaker_at_timestamp(self,timestamp: int):
+        all_keys = self.speaker.keys()
+        speaker_timestamp = 0
+        for n in all_keys:
+            if int(speaker_timestamp) < int(n) < int(timestamp):
+                speaker_timestamp = n
+
+        return self.speaker[speaker_timestamp]
+
 
     def add_srt(self, srt_url: str):
+        if srt_url is None:
+            print('No SRT url provided')
+            return None
         response = requests.get(srt_url)
         response.raise_for_status()
         srt_content = response.text
@@ -58,17 +157,36 @@ class Sub:
         for match in matches:
             index,start_time,end_time,speech = match
             start_seconds = self._convert_to_seconds(start_time)
+            if self.text is None:
+                self.text = {}
             self.text[start_seconds] = speech.replace('\n',' ').replace('...',' ')
 
+    def _get_meta_info_from_api(self, data ):
+        self.meeting_id = data['event'][0]['@attributes']['id']
+        self.title = data['event'][0]['title']
+        self.date  = data['event'][0]['@attributes']['date']
+        if 'media' in data['event'][0]:
+            self.video_url = data['event'][0]['media']['video'][0]['download']
+        else:
+            self.video_url = None
+            print(f'No video for:{self.meeting_id}')
 
 
     def add_speakers_from_eventAPI(self,event_api: str):
-        response = requests.get(event_api)
-        response.raise_for_status()
-        data = response.json()
+        print(event_api)
+        try:
+            response = requests.get(event_api)
+            response.raise_for_status()
+            data = response.json()
+        except:
+            print('INVALID')
+            return
 
         #add api for future reference to the object
         self.api = event_api
+
+        #add meeting,  video id and date
+        self._get_meta_info_from_api(data)
 
         #add speakers
         for agenda_item in data['event'][0]['agenda']['agendaitem']:
@@ -88,7 +206,8 @@ class Sub:
                     start_time = start_time,
                     url = url,
                     topic = topic)
-
+                if self.speaker is None:
+                    self.speaker = {}
                 self.speaker[start_time] = speech
 
         #add text
@@ -130,7 +249,7 @@ class Sub:
         if script_tag:
             script_content = script_tag.string
         else:
-            raise ValueError("Script tag containing subtitles information not found.")
+            return None
 
         # Step 4: Use regular expressions to find the subtitles file URL
         pattern = re.compile(r'subtitles_file\s*:\s*"([^"]+)"')
@@ -153,6 +272,6 @@ class Sub:
     def _convert_to_seconds(self,time_str:str)->int:
         hours,minutes,seconds = time_str.split(':')
         seconds, milliseconds = seconds.split(',')
-        return int(hours*3600) + int(minutes)*60 + int(seconds)
+        return int(hours)*3600 + int(minutes)*60 + int(seconds)
 
 
