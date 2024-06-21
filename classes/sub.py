@@ -233,12 +233,6 @@ class Sub:
 
             t += 1
 
-
-
-
-
-
-
     def _extract_srt_url_from_api(self):
         response_meeting = requests.get(self.meeting_url)
         response_meeting.raise_for_status()
@@ -262,12 +256,6 @@ class Sub:
         else:
             print("Subtitles file URL not found.")
             return None
-
-
-
-
-
-
 
     def _convert_to_seconds(self,time_str:str)->int:
         hours,minutes,seconds = time_str.split(':')

@@ -107,7 +107,8 @@ class Vote:
 
 
     def add_membervote(self, member_id: int, vote: str):
-        self.member_votes[member_id] = vote
+        if member_id not in self.member_votes:
+            self.member_votes[member_id] = vote
         self.save()
 
     def print_details(self):

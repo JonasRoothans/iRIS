@@ -11,10 +11,6 @@ def import_all_functions_from(directory):
 
 
 
-
-
-
-
 if __name__ == "__main__":
     # Import all functions from the functions directory
     import_all_functions_from("functions")
@@ -28,6 +24,10 @@ if __name__ == "__main__":
     votes = get_votes()
     for vote in votes:
         print(vote)
+
+
+    #---DOWNLOAD SUBTITLES----#
+    downloadSubs()
 
 
         
