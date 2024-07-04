@@ -49,4 +49,9 @@ Raadsvergaderingen: https://api.notubiz.nl/events/meetings/1147888
 sprekers etc op een avond: https://api.notubiz.nl/events/1146933
 
 Ondertiteling: https://api.notubiz.nl/media/subtitles?folder=Eindhoven&file=S_16_01_24_NC_EINDHOVEN_RAA.srt
+
+document:https://api.notubiz.nl/document/13701962/2  laatste getal is definitie versie. eerdere versies vereisen een token
+
+motie gegevens: https://raadsinformatie.eindhoven.nl/modules/6/moties_en_toezeggingen/955625
+
 """

@@ -3,10 +3,13 @@ import matplotlib.pyplot as plt
 
 
 def plot_pca_scatter(sorted_data, sorted_member_names):
-    names = []
-    for name in sorted_member_names:
-        x = name.split()
-        names.append(x[0])
+    if len(sorted_data) > 35:
+        names = []
+        for name in sorted_member_names:
+            x = name.split()
+            names.append(x[0])
+    else:
+        names = sorted_member_names
 
     # Perform PCA on the data
     pca = PCA(n_components=2)

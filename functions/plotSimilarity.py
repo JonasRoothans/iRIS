@@ -46,6 +46,5 @@ def plot_similarity_matrix(sorted_data, sorted_member_names):
     cbar = fig.colorbar(cax, ax=ax1, orientation='vertical')
     cbar.set_label('Similarity (%)')
 
-
     # Display the plot
     plt.show()
