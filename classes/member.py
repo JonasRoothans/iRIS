@@ -26,6 +26,13 @@ class Member:
             self.role = role
             self.url = url
 
+    def __str__(self):
+        return self.name
+
+
+    def __repr__(self):
+        return f'Member(name={self.name})'
+
     def load_from_xml(self, speaker_id: int):
         file_path = f'xmls/members/{speaker_id}.xml'
         if not os.path.exists(file_path):

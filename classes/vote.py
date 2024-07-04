@@ -20,6 +20,9 @@ class Vote:
                  member_votes: Optional[Dict[int, str]] = None):
         if isinstance(vote_id, str) and vote_id.startswith('vote_'):
             vote_id = int(vote_id.replace('vote_', ''))
+        if isinstance(vote_id,str) and vote_id.endswith('.json'):
+            vote_id = int(os.path.splitext(vote_id)[0])
+
 
         self.vote_id = vote_id
         self.date = date
@@ -32,6 +35,15 @@ class Vote:
             print(f'Calling for Vote {vote_id}')
             self.load_from_json(vote_id)
             #self.load_from_xml(vote_id)
+
+    def __eq__(self,other):
+        if isinstance(other,Vote):
+            return self.vote_id==other.vote_id
+        return False
+
+    def __hash__(self):
+        return hash((self.vote_id,self.date))
+
 
     def load_from_json(self,vote_id:int):
         file_path = f'json/votes/{vote_id}.json'
@@ -110,6 +122,15 @@ class Vote:
         if member_id not in self.member_votes:
             self.member_votes[member_id] = vote
         self.save()
+
+    def vote_as_int_for_member(self, member:int) -> Optional[int]:
+        if self.member_votes[member] == 'voor':
+            return 1
+        elif self.member_votes[member] == 'afwezig':
+            return None
+        else:
+            return -1
+
 
     def print_details(self):
         print(f"Vote ID: {self.vote_id}")
