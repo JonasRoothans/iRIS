@@ -7,20 +7,23 @@ import json
 @dataclass
 class Member:
     speaker_id: Optional[int] = None
+    person_id: Optional[int] = None
     name: Optional[str] = None
     party: Optional[str] = None
     role: Optional[str] = None
     url: Optional[str] = None
 
     def __init__(self, speaker_id: Optional[int] = None,
+                 person_id: Optional[int] = None,
                  name: Optional[str] = None,
                  party: Optional[str] = None,
                  role: Optional[str] = None,
                  url: Optional[str] = None):
-        if speaker_id is not None and name is None and party is None and role is None and url is None:
+        if speaker_id is not None and person_id is None and name is None and party is None and role is None and url is None:
             self.load_from_json(speaker_id)
         else:
             self.speaker_id = speaker_id
+            self.person_id = person_id
             self.name = name
             self.party = party
             self.role = role
@@ -33,20 +36,6 @@ class Member:
     def __repr__(self):
         return f'Member(name={self.name})'
 
-    def load_from_xml(self, speaker_id: int):
-        file_path = f'xmls/members/{speaker_id}.xml'
-        if not os.path.exists(file_path):
-            self.name = f'Unknown id: {speaker_id}'
-            return
-
-        tree = ET.parse(file_path)
-        root = tree.getroot()
-        self.speaker_id = speaker_id
-        self.name = root.find("Name").text
-        self.party = root.find("Party").text
-        self.role = root.find("Role").text
-        self.url = root.find("URL").text
-
     def load_from_json(self, speaker_id: int):
         file_path = f'json/members/{speaker_id}.json'
         if not os.path.exists(file_path):
@@ -55,6 +44,7 @@ class Member:
         with open(file_path, 'r') as file:
             data = json.load(file)
             self.speaker_id = data['speaker_id']
+            self.person_id = data['person_id']
             self.name = data['name']
             self.party = data['party']
             self.role = data['role']
@@ -62,6 +52,7 @@ class Member:
 
     def print_details(self):
         print(f"Speaker ID: {self.speaker_id}")
+        print(f"Person ID: {self.person_id}")
         print(f"Name: {self.name}")
         print(f"Party: {self.party}")
         print(f"Role: {self.role}")
@@ -79,27 +70,18 @@ class Member:
         os.makedirs(directory_path, exist_ok=True)
 
         #Settings
-        save_as_json = True
-        save_as_xml = False
 
-        if save_as_xml:
-            # Create XML structure
-            member_element = ET.Element("Member")
-            ET.SubElement(member_element, "SpeakerID").text = str(self.speaker_id)
-            ET.SubElement(member_element, "Name").text = self.name or ""
-            ET.SubElement(member_element, "Party").text = self.party or ""
-            ET.SubElement(member_element, "Role").text = self.role or ""
-            ET.SubElement(member_element, "URL").text = self.url or ""
+        directory_path_speaker = 'json/members/speaker'
+        directory_path_person =  'json/members/person'
+        os.makedirs(directory_path_speaker, exist_ok=True)
+        file_path = os.path.join(directory_path_speaker, f"{self.speaker_id}.json")
+        with open(file_path, 'w', encoding='utf-8') as f:
+            json.dump(self.__dict__, f, ensure_ascii=False, indent=4)
 
-            # Create a tree from the XML structure and write it to a file
-            file_path = os.path.join(directory_path, f"{self.speaker_id}.xml")
-            tree = ET.ElementTree(member_element)
-            tree.write(file_path, encoding='utf-8', xml_declaration=True)
-        if save_as_json:
-            directory_path = 'json/members'
-            os.makedirs(directory_path, exist_ok=True)
-            file_path = os.path.join(directory_path, f"{self.speaker_id}.json")
-            with open(file_path, 'w', encoding='utf-8') as f:
+        if self.person_id is not None:
+            os.makedirs(directory_path_person, exist_ok=True)
+            file_path_person = os.path.join(directory_path_person, f"{self.person_id}.json")
+            with open(file_path_person, 'w', encoding='utf-8') as f:
                 json.dump(self.__dict__, f, ensure_ascii=False, indent=4)
 
 

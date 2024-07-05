@@ -1,9 +1,8 @@
 from classes.sub import Sub
 from datetime import datetime
 import requests
-import json
 
-def download_subs():
+def download_subtitles():
     #Settings
     starting_date = "2022-04-01"
     ending_date = datetime.today().strftime('%Y-%m-%d')
@@ -40,15 +39,8 @@ def download_subs():
         print("done")
 
 
-    api = ""
-    #https://api.notubiz.nl/events?organisation_id=686&gremia_ids[]=1011&date_from=2024-01-01%2000:00:00&date_to=2024-03-31%2023:59:59&version=1.10.8&page=1
-    s = Sub(1147937)
-    print('Done')
-    #s = Sub()
-    #s.add_speakers_from_eventAPI('https://api.notubiz.nl/events/1147937?format=json')
-    #s.save()
-    #s.contains_keyword('hondenbelasting')
+
 
 
 if __name__ == "__main__":
-    main()
+    print("Nested code only runs in the top-level code environment")

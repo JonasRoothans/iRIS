@@ -1,11 +1,11 @@
 import os
 import importlib
 
-def import_all_functions_from(directory):
-    for filename in os.listdir(directory):
+def import_all_download_functions():
+    for filename in os.listdir('functions/download'):
         if filename.endswith(".py") and filename != "__init__.py":
             module_name = filename[:-3]
-            module = importlib.import_module(f"functions.{module_name}")
+            module = importlib.import_module(f"functions.download.{module_name}")
             globals().update({name: obj for name, obj in module.__dict__.items() if callable(obj)})
             print(f"Imported: {module_name}")
 
@@ -13,10 +13,13 @@ def import_all_functions_from(directory):
 
 if __name__ == "__main__":
     # Import all functions from the functions directory
-    import_all_functions_from("functions")
+    import_all_download_functions()
+
+    #--start up chrome driver
+    driver = setup_driver()
 
     #----DOWNLOAD MEMBERS---#
-    members = download_members()
+    members = download_members(driver)
     for member in members:
         print(member)
 
@@ -28,6 +31,9 @@ if __name__ == "__main__":
 
     #---DOWNLOAD SUBTITLES----#
     downloadSubs()
+
+    #--Tear down driver
+    teardown_driver(driver)
 
 
         

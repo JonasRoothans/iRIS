@@ -10,6 +10,20 @@ from datetime import datetime
 import json
 
 
+def setup_driver():
+    # Set up Selenium options
+    chrome_options = Options()
+    chrome_options.add_argument('--headless')  # Run headless Chrome
+    chrome_options.add_argument('--disable-gpu')
+
+    # Specify the path to the ChromeDriver
+    chromedriver_path = 'chrome/chromedriver'
+
+    # Initialize the WebDriver
+    service = ChromeService(executable_path=chromedriver_path)
+    driver = webdriver.Chrome(service=service, options=chrome_options)
+    return driver
+
 
 def calculate_agreement(driver, url):
     driver.get(url)
@@ -30,8 +44,8 @@ def calculate_agreement(driver, url):
         script_tag = soup.find('script', id='vote_data')
 
         # Find the ID
-        member_id =soup.find('h2',class_='lid_header')['data-role_id']
-        
+        member_id = soup.find('h2', class_='lid_header')['data-role_id']
+
         # Extract the JSON data from the script tag
         if script_tag:
             json_data = script_tag.string
@@ -50,7 +64,7 @@ def calculate_agreement(driver, url):
                     total_votes_count += 1
                     vote = vote_data['vote']
                     result = vote_data['result']
-                    
+
                     # Check if vote is 'voor' and result is 'aangenomen'
                     if vote == 'voor' and result == 'aangenomen':
                         corresponding_votes_count += 1
@@ -59,20 +73,21 @@ def calculate_agreement(driver, url):
                     else:
                         other_count += 1
 
-                    #Save this information to the Vote Object
+                    # Save this information to the Vote Object
                     v = Vote(int(vote_id))
                     if v.description is None:
-                        v.description=vote_data['title']
+                        v.description = vote_data['title']
                     if v.result is None:
-                        v.result=vote_data['result']
+                        v.result = vote_data['result']
                     if v.url is None:
                         v.url = vote_data['url']
                     if v.date is None:
                         v.date = vote_data['date']['date'][0:10]
-                    v.add_membervote(int(member_id),vote)
+                    v.add_membervote(int(member_id), vote)
 
                 # Calculate the percentage of corresponding votes
-                percentage_corresponding_votes = (corresponding_votes_count / total_votes_count) * 100 if total_votes_count > 0 else 0
+                percentage_corresponding_votes = (
+                                                             corresponding_votes_count / total_votes_count) * 100 if total_votes_count > 0 else 0
             else:
                 percentage_corresponding_votes = 0
 
@@ -82,3 +97,5 @@ def calculate_agreement(driver, url):
         return None
 
 
+def teardown_driver(driver):
+    driver.quit()

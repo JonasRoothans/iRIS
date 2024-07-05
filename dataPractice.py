@@ -2,8 +2,7 @@ import numpy as np
 from classes.vote import Vote
 
 import matplotlib.colors as mcolors
-from functions.plotPCA import plot_pca_scatter
-from classes.memberManager import MemberManager
+from functions.analysis.plotPCA import plot_pca_scatter
 from classes.voteManager import VoteManager
 
 
