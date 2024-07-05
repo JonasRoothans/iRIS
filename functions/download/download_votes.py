@@ -10,19 +10,6 @@ from datetime import datetime
 import json
 
 
-def setup_driver():
-    # Set up Selenium options
-    chrome_options = Options()
-    chrome_options.add_argument('--headless')  # Run headless Chrome
-    chrome_options.add_argument('--disable-gpu')
-
-    # Specify the path to the ChromeDriver
-    chromedriver_path = 'chrome/chromedriver'
-
-    # Initialize the WebDriver
-    service = ChromeService(executable_path=chromedriver_path)
-    driver = webdriver.Chrome(service=service, options=chrome_options)
-    return driver
 
 
 def calculate_agreement(driver, url):
@@ -96,6 +83,3 @@ def calculate_agreement(driver, url):
         print(f"Error processing {url}: {e}")
         return None
 
-
-def teardown_driver(driver):
-    driver.quit()

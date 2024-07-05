@@ -24,6 +24,7 @@ wheels/
 share/python-wheels/
 xmls/
 json/
+private/
 *.egg-info/
 .installed.cfg
 .idea/
