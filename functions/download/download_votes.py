@@ -1,19 +1,62 @@
-from selenium import webdriver
-from selenium.webdriver.common.by import By
-from selenium.webdriver.chrome.service import Service as ChromeService
-from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
 from bs4 import BeautifulSoup
 from classes.vote import Vote
-from datetime import datetime
+from classes.member import Member
+from classes.module import Module
+from functions.download import web
 import json
+import os
+import re
+def get_module_from_meeting_url(meeting_url,vote_title,vote_id):
+    #remove newline characters:
+    vote_title = vote_title.replace('\n', '').replace('\r', '')
+    soup_meeting = web.visitPage('https://raadsinformatie.eindhoven.nl'+meeting_url)
+
+    # Find all `li` elements with the class `module_item`
+    for module_item in soup_meeting.find_all('li', class_='module_item'):
+        # Check if this item has the target vote title in the `data-title` attribute
+        if module_item.find('a').text.replace('\n', '').replace('\r', '') == vote_title:
+            # Extract the required data
+            m = Module(module_item['data-module_item_id'])
+            if m.url is None:
+                m.url  = module_item.find('a')['href']
+            if m.type is None:
+                m.type =  module_item.find('span', class_='module_item_type').text.strip()
+            break
+
+    if 'm' not in vars():
+        if 'amendement' in vote_title.lower():
+            m = Module(f'a_{vote_id}')
+            if m.type is None:
+                m.type = 'Amendement'
+        elif 'raadsvoorstel' in vote_title.lower():
+            m = Module(f'r_{vote_id}')
+            if m.type is None:
+                m.type = 'Raadsvoorstellen'
+        elif 'initiatiefvoorstel' in vote_title.lower():
+            m = Module(f'i_{vote_id}')
+            if m.type is None:
+                m.type = 'Initiatiefvoorstel'
+        elif 'motie' in vote_title.lower():
+            m = Module(f'm_{vote_id}')
+            if m.type is None:
+                m.type = 'Moties en toezeggingen'
+
+        else:
+            print(f"Module for vote with title '{vote_title}' not found.")
+            m = Module()
+            return m
+
+        if m.url is None:
+            m.url = meeting_url
+    m.title = vote_title
+    m.vote_id = vote_id
+    m.save()
+    return m
 
 
 
+def update_vote_per_member(driver, url):
 
-def calculate_agreement(driver, url):
-    driver.get(url)
 
     # Initialize counters
     total_votes_count = 0
@@ -21,11 +64,7 @@ def calculate_agreement(driver, url):
     other_count = 0
 
     try:
-        # Extract the page source after JavaScript has run
-        page_source = driver.page_source
-
-        # Parse the rendered HTML with BeautifulSoup
-        soup = BeautifulSoup(page_source, 'html.parser')
+        soup = web.visitPageWithDriver(driver,url)
 
         # Find the script tag containing the JSON data
         script_tag = soup.find('script', id='vote_data')
@@ -60,8 +99,18 @@ def calculate_agreement(driver, url):
                     else:
                         other_count += 1
 
+
+
                     # Save this information to the Vote Object
                     v = Vote(int(vote_id))
+                    if v.module_id is None:
+                        # -- get module
+                        try:
+                            m = get_module_from_meeting_url(vote_data['url'], vote_data['title'], int(vote_id))
+                        except Exception as e:
+                            print(f"Error loading module {vote_data['url']}:{e}")
+                            m = Module()
+                        v.module_id = m.module_id
                     if v.description is None:
                         v.description = vote_data['title']
                     if v.result is None:
@@ -82,4 +131,17 @@ def calculate_agreement(driver, url):
     except Exception as e:
         print(f"Error processing {url}: {e}")
         return None
+
+def download_votes(driver):
+    #--get all members
+    folder_path = './json/members/person'
+    member_ids = os.listdir(folder_path)
+    for member_id in member_ids:
+        member = Member(member_id)
+        print(member.name)
+        update_vote_per_member(driver, member.url)
+
+
+
+    #-- loop over members
 

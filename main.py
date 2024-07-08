@@ -19,12 +19,12 @@ if __name__ == "__main__":
     driver = setup_driver()
 
     #----DOWNLOAD MEMBERS---#
-    members = download_members(driver)
-    for member in members:
-        print(member)
+    #members = download_members(driver)
+   # for member in members:
+     #   print(member)
 
     #----DOWNLOAD VOTES----#
-    votes = get_votes()
+    votes = download_votes(driver)
     for vote in votes:
         print(vote)
 

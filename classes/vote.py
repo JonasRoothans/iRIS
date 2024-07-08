@@ -6,6 +6,7 @@ from typing import Dict, Optional, Union
 
 class Vote:
     vote_id: Optional[int] = None
+    module_id: Optional[int] = None
     date: Optional[str] = None
     description: Optional[str] = None
     result: Optional[str] = None
@@ -13,6 +14,7 @@ class Vote:
     member_votes: Optional[Dict[int, str]] = None
 
     def __init__(self, vote_id: Optional[Union[int, str]] = None,
+                 module_id: Optional[int] = None,
                  date: Optional[str] = None,
                  description: Optional[str] = None,
                  result: Optional[str] = None,
@@ -25,14 +27,15 @@ class Vote:
 
 
         self.vote_id = vote_id
+        self.module_id =module_id
         self.date = date
         self.description = description
         self.result = result
         self.url = url
         self.member_votes = member_votes if member_votes is not None else {}
 
-        if vote_id is not None and date is None and description is None and result is None and not member_votes:
-            print(f'Calling for Vote {vote_id}')
+        if vote_id is not None and module_id is None and date is None and description is None and result is None and not member_votes:
+            #print(f'Calling for Vote {vote_id}')
             self.load_from_json(vote_id)
             #self.load_from_xml(vote_id)
 
@@ -48,10 +51,11 @@ class Vote:
     def load_from_json(self,vote_id:int):
         file_path = f'json/votes/{vote_id}.json'
         if os.path.exists(file_path):
-            print(f'Loading JSON for Vote {vote_id}')
+            #print(f'Loading JSON for Vote {vote_id}')
             with open(file_path, 'r') as file:
                 data = json.load(file)
                 self.vote_id = data['vote_id']
+                self.module_id = data['module_id']
                 self.date = data['date']
                 self.description = data['description']
                 self.result = data['result']
@@ -134,6 +138,7 @@ class Vote:
 
     def print_details(self):
         print(f"Vote ID: {self.vote_id}")
+        print(f"Model ID: {self.module_id}")
         print(f"Date: {self.date}")
         print(f"Description: {self.description}")
         print(f"Result: {self.result}")
@@ -143,7 +148,7 @@ class Vote:
             print(f"  Member ID: {member_id}, Vote: {vote}")
 
     def __repr__(self):
-        return (f"Vote(vote_id={self.vote_id}, date={self.date}, description={self.description}, "
+        return (f"Vote(vote_id={self.vote_id}, module = {self.module_id}, date={self.date}, description={self.description}, "
                 f"result={self.result}, member_votes={self.member_votes})")
 
 # Example usage

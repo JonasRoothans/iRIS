@@ -37,10 +37,16 @@ class Member:
         return f'Member(name={self.name})'
 
     def load_from_json(self, speaker_id: int):
-        file_path = f'json/members/{speaker_id}.json'
+        if speaker_id[-5:] == '.json':
+            speaker_id = speaker_id[0:-5]
+
+
+        file_path = f'json/members/speaker/{speaker_id}.json'
         if not os.path.exists(file_path):
-            self.name = f'Unknown id: {speaker_id}'
-            return
+            file_path = f'json/members/person/{speaker_id}.json'
+            if not os.path.exists(file_path):
+                self.name = f'Unknown id: {speaker_id}'
+                return
         with open(file_path, 'r') as file:
             data = json.load(file)
             self.speaker_id = data['speaker_id']

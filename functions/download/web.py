@@ -25,7 +25,7 @@ def teardown_driver(driver):
     driver.quit()
 
 def visitPage(url):
-    print(f"Scraping: {url}")
+    #print(f"Scraping: {url}")
     response = requests.get(url)
     response.raise_for_status()  # Check that the request was successful
 
