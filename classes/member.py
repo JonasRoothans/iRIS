@@ -65,7 +65,7 @@ class Member:
         print(f"URL: {self.url}")
 
     def save(self):
-        print(f"Saving member: {self.speaker_id}")
+        print(f"Saving member: {self.speaker_id} ({self.name})")
         if self.speaker_id is None:
             raise ValueError("Speaker ID must be set to save the Member.")
 

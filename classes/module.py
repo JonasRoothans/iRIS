@@ -5,25 +5,16 @@ import json
 
 @dataclass
 class Module:
-    module_id: Optional[int] = None
-    vote_id:Optional[int] = None
-    title: Optional[str] = None
-    url: Optional[str] = None
-    type: Optional[str] = None
+    def __init__(self, module_id=None):
+        self.module_id = None
+        self.vote_id = None
+        self.title = None
+        self.url = None
+        self.type = None
 
-    def __init__(self, module_id: Optional[int] = None,
-                 vote_id: Optional[int] = None,
-                 title: Optional[str] = None,
-                 url: Optional[str] = None,
-                 type: Optional[str] = None):
-        if module_id is not None and vote_id is None and title is None and url is None and type is None:
+        if module_id is not None:
             self.load_from_json(module_id)
-        else:
-            self.module_id = module_id
-            self.vot_id = vote_id
-            self.title = title
-            self.url = url
-            self.type = type
+
 
     def __str__(self):
         return self.title
@@ -33,18 +24,23 @@ class Module:
         return f'Member(name={self.title})'
 
     def load_from_json(self, module_id: int):
-        if module_id[-5:] == '.json':
-            module_id = module_id[0:-5]
+        if isinstance(module_id,str):
+            if module_id[-5:] == '.json':
+                module_id = module_id[0:-5]
 
 
         file_path = f'json/modules/{module_id}.json'
         if not os.path.exists(file_path):
             self.title = f'Unknown id: {module_id}'
-            if module_id[0] in ('a','r','i','m'): #prefix in case it's an amendement. Because for some reason that's not a module.
+            if module_id[0] in ('a','r','i','m','o'): #prefix in case it's an amendement. Because for some reason that's not a module.
                 self.module_id = module_id
+            elif module_id[0] =='x':
+                uid = int(0)
+                while os.path.exists(f'json/modules/{uid : 05d}.json'):
+                    uid+=1
+                self.module_id = f'x_{uid : 05d}'
             else:
                 self.module_id = int(module_id)
-
             return
         with open(file_path, 'r') as file:
             data = json.load(file)

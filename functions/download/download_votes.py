@@ -20,7 +20,12 @@ def get_module_from_meeting_url(meeting_url,vote_title,vote_id):
             if m.url is None:
                 m.url  = module_item.find('a')['href']
             if m.type is None:
-                m.type =  module_item.find('span', class_='module_item_type').text.strip()
+                m.type =  module_item.find('span', class_='module_item_type').text.strip().split()[0]
+                #-- Some rules to overpower "raadvoorstel"
+                if 'initiatiefvoorstel' in vote_title.lower():
+                    m.type = 'Initiatiefvoorstel'
+                if 'ordevoorstel' in vote_title.lower():
+                    m.type = 'Ordevoorstel'
             break
 
     if 'm' not in vars():
@@ -28,6 +33,10 @@ def get_module_from_meeting_url(meeting_url,vote_title,vote_id):
             m = Module(f'a_{vote_id}')
             if m.type is None:
                 m.type = 'Amendement'
+        if 'ordevoorstel' in vote_title.lower():
+            m = Module(f'o_{vote_id}')
+            if m.type is None:
+                m.type = 'Ordevoorstel'
         elif 'raadsvoorstel' in vote_title.lower():
             m = Module(f'r_{vote_id}')
             if m.type is None:
@@ -39,13 +48,11 @@ def get_module_from_meeting_url(meeting_url,vote_title,vote_id):
         elif 'motie' in vote_title.lower():
             m = Module(f'm_{vote_id}')
             if m.type is None:
-                m.type = 'Moties en toezeggingen'
+                m.type = 'Moties'
 
         else:
             print(f"Module for vote with title '{vote_title}' not found.")
-            m = Module()
-            return m
-
+            m = Module('x')
         if m.url is None:
             m.url = meeting_url
     m.title = vote_title
@@ -121,6 +128,11 @@ def update_vote_per_member(driver, url):
                         v.date = vote_data['date']['date'][0:10]
                     v.add_membervote(int(member_id), vote)
 
+                    if v.date < "2022-01-01":
+                        print('reached time horizon')
+                        break
+
+
                 # Calculate the percentage of corresponding votes
                 percentage_corresponding_votes = (
                                                              corresponding_votes_count / total_votes_count) * 100 if total_votes_count > 0 else 0
@@ -134,7 +146,7 @@ def update_vote_per_member(driver, url):
 
 def download_votes(driver):
     #--get all members
-    folder_path = './json/members/person'
+    folder_path = './json/members/speaker'
     member_ids = os.listdir(folder_path)
     for member_id in member_ids:
         member = Member(member_id)

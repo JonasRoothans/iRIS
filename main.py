@@ -24,9 +24,7 @@ if __name__ == "__main__":
      #   print(member)
 
     #----DOWNLOAD VOTES----#
-    votes = download_votes(driver)
-    for vote in votes:
-        print(vote)
+    download_votes(driver)
 
 
     #---DOWNLOAD SUBTITLES----#

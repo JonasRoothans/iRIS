@@ -3,6 +3,7 @@ import xml.etree.ElementTree as ET
 import json
 from datetime import datetime
 from typing import Dict, Optional, Union
+from classes.module import Module
 
 class Vote:
     vote_id: Optional[int] = None
@@ -134,7 +135,11 @@ class Vote:
             return None
         else:
             return -1
-
+    def get_module(self):
+        if self.module_id:
+            return Module(self.module_id)
+        else:
+            return Module
 
     def print_details(self):
         print(f"Vote ID: {self.vote_id}")

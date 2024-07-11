@@ -171,7 +171,7 @@ class VoteManager:
         # Display the plot
         plt.show()
 
-    def show_party_votes(self,custom_cmap=None,weight=None):
+    def show_party_votes(self,custom_cmap=None,weight=None,fig_title=''):
         # Prepend the conclusion_vector to the sorted_data
         sorted_data = np.vstack((self.voting_result, self.votes_by_party))
 
@@ -196,12 +196,21 @@ class VoteManager:
         # Define the y-tick positions and labels
         ax1.set_yticks(np.arange(len(ylabels)))
         ax1.set_yticklabels(ylabels)
+        ax1.set_title(fig_title)
+
+        def format_coord(x,y):
+            title = self.votes[int(np.round(x))].description
+            date = self.votes[int(np.round(x))].date
+            return f'{date}:{title.strip()}'
+
+
+        ax1.format_coord = format_coord
 
         # Display the plot
         plt.show()
 
 
-    def show_party_similarity(self):
+    def show_party_similarity(self,fig_title):
         n_parties = len(self.party_manager.party_legend)
         similarities = np.zeros((n_parties,n_parties))
         similarities[:] = np.nan
@@ -230,10 +239,12 @@ class VoteManager:
         ax.set_yticks(np.arange(len(party_names)))
         ax.set_xticklabels(party_names, rotation=45, ha='right')
         ax.set_yticklabels(party_names)
+        ax.set_title(fig_title)
 
         # Set axis labels
         ax.set_xlabel('Party')
         ax.set_ylabel('Party')
 
         plt.show()
+
 

@@ -35,8 +35,17 @@ for vote_id in vote_manager.all():
     vote = Vote(vote_id)
 
     #Only this political cycle
+    if not vote.date:
+        continue
     if vote.date < "2022-04-01":
         continue
+
+    if vote.get_module().type != 'Raadsvoorstellen':#'Amendement': #Moties en toezeggingen':#Raadsvoorstellen
+        continue
+
+
+    fig_title = 'Raadsvoorstellen'
+
     v_index = vote_manager.addvote(vote)
 vote_manager.finalize() #strip redundant zeros and convert to ndarray
 
@@ -52,8 +61,8 @@ vote_manager.sort_parties(happiness_party,'Party Happiness')
 
 #Make a diagram
 #vote_manager.show_member_votes(custom_cmap=custom_cmapRG)
-#vote_manager.show_party_votes(custom_cmap=custom_cmapRG,weight='Party Happiness')
-#vote_manager.show_party_similarity()
+vote_manager.show_party_votes(custom_cmap=custom_cmapRG,weight='Party Happiness',fig_title=fig_title)
+vote_manager.show_party_similarity(fig_title)
 
 
 
@@ -66,4 +75,4 @@ data = np.vstack((conclusions, party_votes))
 labels = vote_manager.party_manager.party_legend
 labels.insert(0, 'conclusion')
 
-plot_pca_scatter(data,labels)
+plot_pca_scatter(data,labels,fig_title)
