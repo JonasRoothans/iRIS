@@ -1,4 +1,8 @@
 from selenium import webdriver
+from selenium import webdriver
+from selenium.webdriver.chrome.service import Service as ChromeService
+from webdriver_manager.chrome import ChromeDriverManager
+
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service as ChromeService
 from selenium.webdriver.chrome.options import Options
@@ -7,6 +11,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from bs4 import BeautifulSoup
 import requests
 
+
 def setup_driver():
     # Set up Selenium options
     chrome_options = Options()
@@ -14,11 +19,12 @@ def setup_driver():
     chrome_options.add_argument('--disable-gpu')
 
     # Specify the path to the ChromeDriver
-    chromedriver_path = 'chrome/chromedriver'
+    chromedriver_path = 'functions/download/chrome/chromedriver'
 
     # Initialize the WebDriver
-    service = ChromeService(executable_path=chromedriver_path)
-    driver = webdriver.Chrome(service=service, options=chrome_options)
+    #service = ChromeService(executable_path=chromedriver_path)
+    #driver = webdriver.Chrome(service=service, options=chrome_options)
+    driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()))
     return driver
 
 def teardown_driver(driver):

@@ -54,6 +54,11 @@ def scrape(driver):
                 new_member.save()
                 members_dict[member_id] = new_member
 
+            #----DEBUG
+            #print('DEBUG MODE: CONTINUING AFTER FIRST MEMBER')
+            #return
+            #------
+
     return members_dict
 
 
@@ -65,5 +70,6 @@ def download_members(driver):
 
 if __name__ == "__main__":
     print("Nested code only runs in the top-level code environment")
+
 
 

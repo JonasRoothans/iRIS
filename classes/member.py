@@ -34,16 +34,18 @@ class Member:
 
 
     def __repr__(self):
-        return f'Member(name={self.name})'
+        return f'Member({self.name}, {self.party})'
 
-    def load_from_json(self, speaker_id: int):
-        if speaker_id[-5:] == '.json':
-            speaker_id = speaker_id[0:-5]
+    def load_from_json(self, speaker_id):
+        if isinstance(speaker_id,str):
+            if speaker_id[-5:] == '.json':
+                speaker_id = speaker_id[0:-5]
 
 
-        file_path = f'json/members/speaker/{speaker_id}.json'
+
+        file_path = f'{os.getcwd()}/json/members/speaker/{speaker_id}.json'
         if not os.path.exists(file_path):
-            file_path = f'json/members/person/{speaker_id}.json'
+            file_path = f'{os.getcwd()}/json/members/person/{speaker_id}.json'
             if not os.path.exists(file_path):
                 self.name = f'Unknown id: {speaker_id}'
                 return

@@ -10,11 +10,14 @@ def get_module_from_meeting_url(meeting_url,vote_title,vote_id):
     #remove newline characters:
     vote_title = vote_title.replace('\n', '').replace('\r', '')
     soup_meeting = web.visitPage('https://raadsinformatie.eindhoven.nl'+meeting_url)
-
+    vote_title_without_brackets = re.sub(r'\([^)]*\)', '', vote_title).strip()
     # Find all `li` elements with the class `module_item`
     for module_item in soup_meeting.find_all('li', class_='module_item'):
         # Check if this item has the target vote title in the `data-title` attribute
-        if module_item.find('a').text.replace('\n', '').replace('\r', '') == vote_title:
+        data_title_without_brackets = re.sub(r'\([^)]*\)', '', module_item['data-title']).strip()
+        if module_item.find('a').text.replace('\n', '').replace('\r', '') == vote_title or \
+                module_item.find('a').text.replace('\n', '').replace('\r', '') == vote_title.replace('Motie','') or \
+                data_title_without_brackets == vote_title_without_brackets:
             # Extract the required data
             m = Module(module_item['data-module_item_id'])
             if m.url is None:
@@ -33,7 +36,7 @@ def get_module_from_meeting_url(meeting_url,vote_title,vote_id):
             m = Module(f'a_{vote_id}')
             if m.type is None:
                 m.type = 'Amendement'
-        if 'ordevoorstel' in vote_title.lower():
+        elif 'ordevoorstel' in vote_title.lower():
             m = Module(f'o_{vote_id}')
             if m.type is None:
                 m.type = 'Ordevoorstel'
@@ -128,9 +131,11 @@ def update_vote_per_member(driver, url):
                         v.date = vote_data['date']['date'][0:10]
                     v.add_membervote(int(member_id), vote)
 
-                    if v.date < "2022-01-01":
-                        print('reached time horizon')
-                        break
+                    #------DEBUG
+                    #if total_votes_count == 20:
+                     #   print('DEBUG MODE: CONTINUE AFTER 20 VOTES')
+                     #   break
+                    #-----
 
 
                 # Calculate the percentage of corresponding votes
@@ -152,6 +157,12 @@ def download_votes(driver):
         member = Member(member_id)
         print(member.name)
         update_vote_per_member(driver, member.url)
+
+
+        # DEBUG----
+        #print('DEBUG MODE WILL CONTINUE AFTER FIRST MEMBER')
+        #return
+        #-----
 
 
 
