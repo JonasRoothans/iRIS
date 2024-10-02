@@ -2,6 +2,7 @@
 from functions.download import web
 from classes.module import Module
 from datetime import date
+import re
 
 
 
@@ -47,6 +48,14 @@ def get_raadsvoorstellen_from_page(html):
                     m.meeting_url = data_field.find('a')['href']
                 except:
                     m.meeting_url = None
+
+                #if a meeting date is given, use that one.
+                try:
+                    date_pattern = r"\b\d{2}-\d{2}-\d{4}\b"
+                    match = re.search(date_pattern,value)
+                    m.date = match.group()
+                except:
+                    print('no meeting found')
             elif data_id == 45:
                 m.type = value
             elif data_id == 36:
@@ -61,7 +70,10 @@ def get_raadsvoorstellen_from_page(html):
                 except:
                     m.attachment = None
             elif data_id==71 and m.vote_id is None:
+                m.result = value
                 print(f'no votes registered for {m.title}')
+
+
         m.linkToOtherFiles() #this will add ids where possible.
         m.save()
 

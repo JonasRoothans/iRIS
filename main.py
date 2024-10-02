@@ -1,4 +1,4 @@
-from functions.download import download_subtitles, download_votes, download_members, download_moties, download_raadsvoorstellen, web
+from functions.download import download_subtitles, download_votes, download_members, download_moties, download_raadsvoorstellen, download_amendementen,web
 
 if __name__ == "__main__":
     #--start up chrome driver
@@ -10,9 +10,10 @@ if __name__ == "__main__":
      #   print(member)
 
     #----DOWNLOAD VOTES----#
-   # download_votes.download_votes(driver) #this will also make modules
-    #download_moties.download_moties(driver) #this will add detail to the modules
-    download_raadsvoorstellen.download_raadsvoorstellen(driver)
+    #download_votes.download_votes(driver) #this will also make modules
+    download_moties.download_moties(driver) #this will add detail to the modules
+    # download_raadsvoorstellen.download_raadsvoorstellen(driver)
+    #download_amendementen.download_amendementen(driver)
 
 
     #---DOWNLOAD SUBTITLES----#

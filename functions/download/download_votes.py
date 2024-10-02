@@ -6,6 +6,9 @@ from functions.download import web
 import json
 import os
 import re
+from datetime import datetime
+
+
 def get_module_from_meeting_url(meeting_url,vote_title,vote_id):
     #remove newline characters:
     vote_title = vote_title.replace('\n', '').replace('\r', '')
@@ -58,6 +61,7 @@ def get_module_from_meeting_url(meeting_url,vote_title,vote_id):
             m = Module('x')
         if m.url is None:
             m.url = meeting_url
+    m.meeting_url = meeting_url
     m.title = vote_title
     m.vote_id = vote_id
     m.save()
@@ -97,6 +101,16 @@ def update_vote_per_member(driver, url):
             # Iterate over recent votes
             if recent_votes:
                 for vote_id, vote_data in recent_votes.items():
+
+                    #check if vote is within timeframe:
+                    date = datetime.strptime(vote_data['date']['date'][0:10],'%Y-%m-%d')
+                    reference_date = datetime.strptime('2022-03-15','%Y-%m-%d')
+                    if date < reference_date:
+                        print('vote out of scope')
+                        continue
+
+
+
                     total_votes_count += 1
                     vote = vote_data['vote']
                     result = vote_data['result']
@@ -121,15 +135,24 @@ def update_vote_per_member(driver, url):
                             print(f"Error loading module {vote_data['url']}:{e}")
                             m = Module()
                         v.module_id = m.module_id
+                    else:
+                        m = Module(v.module_id)
                     if v.description is None:
                         v.description = vote_data['title']
                     if v.result is None:
                         v.result = vote_data['result']
+
                     if v.url is None:
                         v.url = vote_data['url']
                     if v.date is None:
                         v.date = vote_data['date']['date'][0:10]
+
+
+                    m.date = v.date
+                    m.result = v.result
+                    m.save()
                     v.add_membervote(int(member_id), vote)
+
 
                     #------DEBUG
                     #if total_votes_count == 20:

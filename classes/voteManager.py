@@ -36,7 +36,7 @@ class VoteManager:
 
     def all(self):
         # Get all vote ids
-        folder_path = './json/votes'
+        folder_path = f'{os.getcwd()}/json/votes'
         return os.listdir(folder_path)
 
     def addvote(self,vote:Vote):

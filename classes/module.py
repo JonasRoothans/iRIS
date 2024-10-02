@@ -25,6 +25,7 @@ class Module:
         self.attachment = None
         self.parent = None
         self.children = []
+        self.toezegging = None
 
         if module_id is not None:
             self.load_from_json(module_id)
@@ -36,6 +37,11 @@ class Module:
 
     def __repr__(self):
         return f'Module(name={self.title})'
+
+    def __eq__(self,other):
+        if isinstance(other,Module):
+            return self.module_id == other.module_id
+        return False
 
     def load_from_json(self, module_id: str):
         if isinstance(module_id,str):
@@ -55,6 +61,8 @@ class Module:
                     while os.path.exists(f'json/modules/{uid:05d}.json'):
                         uid+=1
                     self.module_id = f'x_{uid:05d}'
+                else:
+                    self.module_id = int(module_id)
             else:
                 self.module_id = int(module_id)
             return
@@ -78,6 +86,8 @@ class Module:
             self.attachment = data['attachment']
             self.parent = data['parent']
             self.children = data['children']
+            if 'toezegging' in data:
+                self.toezegging = data['toezegging']
 
     def print_details(self):
         print(f"Module ID: {self.module_id}")
@@ -116,8 +126,8 @@ class Module:
         if self.meeting_url is not None:
             if self.meeting_url[0] == '/':
                 self.meeting_url = f'https://raadsinformatie.eindhoven.nl{self.meeting_url}'
-        if self.parent_id==self.module_id:
-            self.parent_id = None
+        if self.parent==self.module_id:
+            self.parent= None
 
 
 
@@ -182,7 +192,24 @@ class Module:
         try:
             agenda_item = self.meeting_url.split('#')[1]
             soup = web.visitPage(self.meeting_url)
-            parent_id = int(soup.find('li', id=agenda_item).find('ul', class_='module_items').contents[1].attrs['data-module_item_id'])
+
+        #backup:
+            parent_id = int(soup.find('li', id=agenda_item).find('ul', class_='module_items').contents[1].attrs[
+                                'data-module_item_id'])
+            parent_title = soup.find('li', id=agenda_item).find('ul', class_='module_items').contents[1].attrs[
+                'data-title']
+            parent_url = soup.find('li', id=agenda_item).find('ul', class_='module_items').contents[1].find('a')['href']
+
+        #optimization:
+            module_list = soup.find('li', id=agenda_item).find('ul', class_='module_items').find_all('li')
+            for module_candidate in module_list:
+                if module_candidate is not None:
+                    module_candidate_name = module_candidate.attrs['data-title']
+                    if 'voorstel' in module_candidate_name:
+                        parent_title = module_candidate_name
+                        parent_id = int(module_candidate.attrs['data-module_item_id'])
+                        parent_url = module_candidate.find('a')['href']
+                        break
 
             if parent_id is not None:
                 if parent_id == self.module_id:
@@ -192,9 +219,21 @@ class Module:
 
                 #add child to parent
                 parent = Module(parent_id)
-                if self.module_id not in parent.children:
-                    parent.children.append(self.module_id)
-                    print(f' + connected {self.title} to parent: {parent.title}')
+                parent.children.append(self.module_id) #duplicates can be fixed later
+                print(f' + connected {self.title} to parent: {parent.title}')
+                parent.title = parent_title
+                parent.url = parent_url
+                if len(self.children):
+                    for child in self.children:
+                        print('child')
+                        grandchild = Module(child)
+                        parent.children.append(grandchild.module_id)
+                        grandchild.parent = parent
+                        parent.save()
+                        grandchild.save()
+                self.children = []
+
+
 
                 #exchange poho between parent and child
                 if parent.poho is not None and self.poho is None:
@@ -203,6 +242,7 @@ class Module:
                     parent.poho = self.poho
 
                 parent.save()
+                self.save()
         except:
             parent_id = None
         return parent_id
@@ -225,7 +265,7 @@ class Module:
                     self.party_list.append(m.party)
 
         #--- connect to votes
-        if self.vote_id is None:
+        if self.vote_id is None and self.type != 'Toezegging':
             folder_path = f'{os.getcwd()}/json/votes'
             votes = [v for v in os.listdir(folder_path) if v.endswith('.json')]
             sorted_files = sorted(votes, key=lambda x: int(x.split('.')[0]), reverse=True)
@@ -238,11 +278,34 @@ class Module:
                     v.save()
                 elif v.date < self.date:
                     break
+        if self.result is None:
+            if self.vote_id is not None:
+                v = Vote(vote_id)
+                if v.result is not None:
+                    self.result = v.result
 
 
         #-- discover hierarchy
         self.add_parent()
         self.add_children()
+
+    def clean(self):
+        if self.title is None:
+            self.title = ''
+        if self.date is None:
+            self.date = ''
+        if self.type is None:
+            self.type = ''
+
+        new_children = list(set(self.children))
+        removed_items = len(self.children)-len(new_children)
+        if removed_items:
+            self.children = new_children
+            print('removed duplicate children')
+            self.save()
+
+
+        return self
 
 
 
