@@ -69,12 +69,11 @@ class Module:
             else:
                 self.module_id = int(module_id)
             return
-        with open(file_path, 'r') as file:
-            try:
-                data = json.load(file)
-            except:
-                print(f'FILE CORRUPTED ---------> {file}')
-                return
+        with open(file_path, 'r', encoding="utf-8") as file:
+            data = json.load(file)
+            #except:
+            #    print(f'FILE CORRUPTED ---------> {file}')
+            #    return
             self.module_id = data['module_id']
             self.vote_id = data['vote_id']
             self.member_id = data['member_id']
