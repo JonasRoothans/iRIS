@@ -3,6 +3,7 @@ from dataclasses import dataclass
 from typing import Optional
 import xml.etree.ElementTree as ET
 import json
+from functions.support import cwdpath
 
 @dataclass
 class Member:
@@ -43,9 +44,9 @@ class Member:
 
 
 
-        file_path = f'{os.getcwd()}/json/members/speaker/{speaker_id}.json'
+        file_path = cwdpath(os.path.join('json','members','speaker',f'{speaker_id}.json'))
         if not os.path.exists(file_path):
-            file_path = f'{os.getcwd()}/json/members/person/{speaker_id}.json'
+            file_path = cwdpath(os.path.join('json','members','person',f'{speaker_id}.json'))
             if not os.path.exists(file_path):
                 self.name = f'Unknown id: {speaker_id}'
                 return
@@ -72,15 +73,15 @@ class Member:
             raise ValueError("Speaker ID must be set to save the Member.")
 
          # Define the directory path
-        directory_path = 'xmls/members'
+        directory_path = cwdpath(os.path.join('json','members'))
 
         # Ensure the directory exists
         os.makedirs(directory_path, exist_ok=True)
 
         #Settings
 
-        directory_path_speaker = 'json/members/speaker'
-        directory_path_person =  'json/members/person'
+        directory_path_speaker = cwdpath(os.path.join('json','members','speaker'))
+        directory_path_person =  cwdpath(os.path.join('json','members','person'))
         os.makedirs(directory_path_speaker, exist_ok=True)
         file_path = os.path.join(directory_path_speaker, f"{self.speaker_id}.json")
         with open(file_path, 'w', encoding='utf-8') as f:

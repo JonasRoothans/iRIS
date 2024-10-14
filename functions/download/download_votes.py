@@ -7,6 +7,7 @@ import json
 import os
 import re
 from datetime import datetime
+from functions.support import cwdpath
 
 
 def get_module_from_meeting_url(meeting_url,vote_title,vote_id):
@@ -183,7 +184,7 @@ def download_votes(driver,fromDate):
 
 
     #--get all members
-    folder_path = './json/members/speaker'
+    folder_path = cwdpath(os.path.join('json','members','speaker'))
     member_ids = os.listdir(folder_path)
     for member_id in member_ids:
         member = Member(member_id)

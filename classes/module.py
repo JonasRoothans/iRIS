@@ -1,6 +1,7 @@
 import os
 from dataclasses import dataclass
 from classes.member import Member
+from functions.support import cwdpath
 
 from typing import Optional
 import json
@@ -51,7 +52,7 @@ class Module:
                 module_id = module_id[0:-5]
 
 
-        file_path = f'{os.getcwd()}/json/modules/{module_id}.json'
+        file_path = cwdpath(os.path.join('json','modules',f'{module_id}.json'))
         if not os.path.exists(file_path):
             self.title = f'Unknown id: {module_id}'
             print(f'New module created: {module_id}')
@@ -60,7 +61,7 @@ class Module:
                     self.module_id = module_id
                 elif module_id[0] =='x':
                     uid = int(0)
-                    while os.path.exists(f'json/modules/{uid:05d}.json'):
+                    while os.path.exists(cwdpath(os.path.join('json','modules',f'{uid:05d}.json'))):
                         uid+=1
                     self.module_id = f'x_{uid:05d}'
                 else:
@@ -133,7 +134,7 @@ class Module:
 
 
          # Define the directory path
-        directory_path = f'{os.getcwd()}/json/modules'
+        directory_path = cwdpath(os.path.join('json','modules'))
 
         # Ensure the directory exists
         os.makedirs(directory_path, exist_ok=True)
@@ -307,7 +308,7 @@ class Module:
         if len(self.member_id)==0 and self.member is not None:
             #search through all members for a match
             # Get all vote ids
-            folder_path = f'{os.getcwd()}/json/members/person'
+            folder_path = cwdpath(os.path.join('json','members','person'))
             members = os.listdir(folder_path)
             print(self.title)
             for member_id in members:
@@ -319,7 +320,7 @@ class Module:
 
         #--- connect to votes
         if self.vote_id is None and self.type != 'Toezegging':
-            folder_path = f'{os.getcwd()}/json/votes'
+            folder_path = cwdpath(os.path.join('json','votes'))
             votes = [v for v in os.listdir(folder_path) if v.endswith('.json')]
             sorted_files = sorted(votes, key=lambda x: int(x.split('.')[0]), reverse=True)
             for vote_id in sorted_files:

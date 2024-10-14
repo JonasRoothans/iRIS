@@ -2,6 +2,7 @@ import os
 import glob
 from classes.module import Module
 from functions.download import web
+from functions.support import cwdpath
 
 def list_files_with_prefix(directory, prefix):
     full_paths =  glob.glob(os.path.join(directory, f'{prefix}*'))
@@ -9,7 +10,7 @@ def list_files_with_prefix(directory, prefix):
     return filenames
 
 def find_module_with_title(title):
-    folder_path = f'{os.getcwd()}/json/modules'
+    folder_path = cwdpath(os.path.join('json','modules'))
     modules = os.listdir(folder_path)
     for module_id in modules:
         if module_id.startswith('.'):
@@ -48,7 +49,7 @@ def find_attachment_from(id, soup, real_title):
 
 
 def download_amendementen(driver):
-    files = list_files_with_prefix(f'{os.getcwd()}/json/modules', 'a_')
+    files = list_files_with_prefix(cwdpath(os.path.join('json','modules')), 'a_')
     for file in files:
         m = Module(file)
         if m.meeting_url is not None:

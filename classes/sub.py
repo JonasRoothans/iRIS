@@ -7,6 +7,7 @@ from bs4 import BeautifulSoup
 from classes.member import Member
 import json
 import os
+from functions.support import cwdpath
 
 @dataclass
 class Speech:
@@ -56,7 +57,7 @@ class Sub:
             self.load_from_json(meeting_id)
 
     def load_from_json(self, meeting_id: int):
-        file_path = f'json/subs/{meeting_id}.json'
+        file_path = cwdpath(os.path.join('json','subs',f'{meeting_id}.json'))
         if os.path.exists(file_path):
             #print(f'Loading JSON for subs {meeting_id}')
             with open(file_path, 'r') as file:
@@ -114,7 +115,7 @@ class Sub:
             print("Meeting ID must be set to save the subs.")
             return
 
-        directory_path = 'json/subs'
+        directory_path = cwdpath(os.path.join('json','subs'))
         os.makedirs(directory_path, exist_ok=True)
         file_path = os.path.join(directory_path, f"{self.meeting_id}.json")
         with open(file_path, 'w', encoding='utf-8') as f:

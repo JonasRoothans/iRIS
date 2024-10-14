@@ -2,6 +2,7 @@ import numpy as np
 import os
 from classes.module import Module
 from datetime import datetime
+from functions.support import cwdpath
 
 class ModuleManager:
     def __init__(self):
@@ -9,7 +10,7 @@ class ModuleManager:
 
     def all(self):
         # Get all vote ids
-        folder_path = f'{os.getcwd()}/json/modules'
+        folder_path = cwdpath(os.path.join('json','modules'))
         fnames = os.listdir(folder_path)
         fnames = [fn for fn in fnames if not fn.startswith('.')]
         return fnames

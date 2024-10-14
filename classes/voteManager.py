@@ -7,6 +7,7 @@ from classes.partyManager import PartyManager
 from datetime import datetime
 from typing import List
 import matplotlib.pyplot as plt
+from functions.support import cwdpath
 
 
 class VoteManager:
@@ -36,7 +37,7 @@ class VoteManager:
 
     def all(self):
         # Get all vote ids
-        folder_path = f'{os.getcwd()}/json/votes'
+        folder_path = cwdpath(os.path.join('json','votes'))
         return os.listdir(folder_path)
 
     def addvote(self,vote:Vote):
