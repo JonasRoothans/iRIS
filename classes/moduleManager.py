@@ -10,7 +10,9 @@ class ModuleManager:
     def all(self):
         # Get all vote ids
         folder_path = f'{os.getcwd()}/json/modules'
-        return os.listdir(folder_path)
+        fnames = os.listdir(folder_path)
+        fnames = [fn for fn in fnames if not fn.startswith('.')]
+        return fnames
 
     def addall(self):
         for m_id in self.all():

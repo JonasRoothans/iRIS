@@ -5,8 +5,30 @@ from datetime import date
 import re
 
 
+def getMostRelevantPDF(m,driver):
 
-def get_raadsvoorstellen_from_page(html):
+
+    if not m.url:
+        return None
+    soup = web.visitPageAndWaitForPolitiekPortaal(driver,m.url)
+    spans = soup.find('politiek-portaal').find_all('span')
+    url= None
+    for span in spans:
+        if 'Hoofddocument' in span.get_text():
+            path = span.parent.find('a')['href']
+            url = f'https://raadsinformatie.eindhoven.nl{path}'
+            print('Hoofddocument gevonden')
+        if 'Raadsbesluit' in span.get_text():
+            path = span.parent.find('a')['href']
+            url = f'https://raadsinformatie.eindhoven.nl{path}'
+            print('Raadsbesluit gevonden')
+            return url
+    if url is None:
+        print('Geen document gevonden')
+    return url
+
+
+def get_raadsvoorstellen_from_page(html,driver):
     rows = html.find_all('td', class_='js_expandable')
     count= 0
     for row in rows:
@@ -22,6 +44,7 @@ def get_raadsvoorstellen_from_page(html):
 
 
         m = Module(module_id)
+        m.type = 'Raadsvoorstel'
         if m.url is None:
             m.url = row.parent.find('td',class_='item_actions').find('a')['href']
 
@@ -45,7 +68,11 @@ def get_raadsvoorstellen_from_page(html):
                 m.poho = value
             elif data_id == 54:
                 try:
-                    m.meeting_url = data_field.find('a')['href']
+                    for a in data_field.find_all('a'):
+                        if 'http' in a ['href']:
+                            m.meeting_url =a['href']
+                            break
+
                 except:
                     m.meeting_url = None
 
@@ -73,18 +100,19 @@ def get_raadsvoorstellen_from_page(html):
                 m.result = value
                 print(f'no votes registered for {m.title}')
 
-
+        m.pdf_url = getMostRelevantPDF(m,driver)
         m.linkToOtherFiles() #this will add ids where possible.
         m.save()
 
 
-def download_raadsvoorstellen(driver):
+def download_raadsvoorstellen(driver, fromDate):
  #---- get pages
     print('RIS query for all raadsvoorstellen, this takes a while')
 
 
     today = date.today().strftime('%d-%m-%Y')
-    url = f"https://raadsinformatie.eindhoven.nl/modules/19/Raadsvoorstellen?module_filter%5Bselect%5D%5B71%5D=none&module_filter%5Bselect%5D%5B52%5D=none&module_filter%5Brange%5D%5B15%5D%5Bfrom%5D=01-01-2022&module_filter%5Brange%5D%5B15%5D%5Bto%5D=P{today}&module_filter%5Brange%5D%5B15%5D%5Bdata_type%5D=datetime&module_filter%5Brange%5D%5B95%5D%5Bdata_type%5D=datetime&module_filter%5Bcheckbox%5D%5B98%5D=0&module_filter%5Bcheckbox%5D%5B97%5D=0&section="
+    beginHere = fromDate.strftime('%d-%m-%Y')
+    url = f"https://raadsinformatie.eindhoven.nl/modules/19/Raadsvoorstellen?module_filter%5Bselect%5D%5B71%5D=none&module_filter%5Bselect%5D%5B52%5D=none&module_filter%5Brange%5D%5B15%5D%5Bfrom%5D={beginHere}&module_filter%5Brange%5D%5B15%5D%5Bto%5D=P{today}&module_filter%5Brange%5D%5B15%5D%5Bdata_type%5D=datetime&module_filter%5Brange%5D%5B95%5D%5Bdata_type%5D=datetime&module_filter%5Bcheckbox%5D%5B98%5D=0&module_filter%5Bcheckbox%5D%5B97%5D=0&section="
     #url = "https://raadsinformatie.eindhoven.nl/modules/19/Raadsvoorstellen/view?month=7&year=2024&week=all&module_filter%5Bselect%5D%5B71%5D=none&module_filter%5Bselect%5D%5B52%5D=none&module_filter%5Brange%5D%5B15%5D%5Bdata_type%5D=datetime&module_filter%5Brange%5D%5B95%5D%5Bdata_type%5D=datetime&module_filter%5Bcheckbox%5D%5B98%5D=0&module_filter%5Bcheckbox%5D%5B97%5D=0&section="
     #driver = web.setup_driver()
 
@@ -93,7 +121,7 @@ def download_raadsvoorstellen(driver):
     print('RIS query complete')
 
     #---- process page 1
-    get_raadsvoorstellen_from_page(soup)
+    get_raadsvoorstellen_from_page(soup,driver)
 
     #--- loop remaning pages <<VOLGENS MIJ STAAN ALLE HITS AL OP DE EERSTE PAGINA, ALLEEN NOG NIET ZICHTBAAR>>
     #pages = soup.find_all('li',class_='page')

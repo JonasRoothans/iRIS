@@ -4,7 +4,7 @@ import requests
 
 def download_subtitles():
     #Settings
-    starting_date = "2022-04-01"
+    starting_date = "2024-09-01"
     ending_date = datetime.today().strftime('%Y-%m-%d')
     organisation = 686
     gremia = 1011

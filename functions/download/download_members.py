@@ -3,7 +3,9 @@ from functions.download import web
 import re
 
 
-def scrape(driver):
+
+def main(driver):
+
     #Send a request to the website's main page
     url = 'https://raadsinformatie.eindhoven.nl/leden'
     soup = web.visitPage(url)
@@ -24,15 +26,21 @@ def scrape(driver):
         for member_link in member_links:
             counter += 1
 
-            # make a member object
-            new_member = Member()
+            #--load member_url to get the speaker_id
             member_url = member_link.get('href')
             member_name = member_link.find('span', class_='naam').get_text()
             member_function = member_link.find('span', class_='functie').get_text()
-
-            #--load member_url to get the speaker_id
             soup_member  = web.visitPageWithDriver(driver,member_url) #this is needed to get the javascript things
             member_id  = soup_member.find('h2',class_='lid_header')['data-role_id']
+
+            # make a member object
+            new_member = Member(member_id)
+
+            if 'Unknown id' not in new_member.name:
+                #ID already exists.
+                continue
+
+
 
             #get the person_id
             try:
@@ -60,11 +68,6 @@ def scrape(driver):
             #------
 
     return members_dict
-
-
-def download_members(driver):
-    members = scrape(driver)
-    return members
 
 
 

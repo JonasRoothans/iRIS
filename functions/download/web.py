@@ -44,3 +44,30 @@ def visitPageWithDriver(driver,url):
     page_source = driver.page_source
     soup = BeautifulSoup(page_source, 'html.parser')
     return soup
+
+def visitPageAndWaitForPolitiekPortaal(driver,url):
+    driver.get(url)
+    try:
+        # Here we wait up to 30 seconds for an element in 'politiek-portaal' to contain the dynamic content
+        WebDriverWait(driver, 30).until(
+            EC.presence_of_element_located((By.CSS_SELECTOR, "politiek-portaal "))
+        )
+
+        # Wait for the text 'Hoofddocument' within 'politiek-portaal' for an additional assurance it's loaded
+        WebDriverWait(driver, 30).until(
+            EC.presence_of_element_located((By.XPATH, "//*[contains(text(), 'Hoofddocument')]"))
+        )
+
+        print("Page loaded, and 'Hoofddocument' is present")
+
+        # Now that the content is fully loaded, retrieve the page source
+        page_source = driver.page_source
+
+        # Use BeautifulSoup to parse the fully rendered HTML content
+        soup = BeautifulSoup(page_source, 'html.parser')
+        return soup
+    finally:
+        print('.')
+
+
+

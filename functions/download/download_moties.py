@@ -24,6 +24,7 @@ def get_moties_from_page(html):
         print(count)
         count += 1
 
+
         data_fields = row.find_all('dd')
         try:
             module_id = row.parent['data-id']
@@ -50,7 +51,7 @@ def get_moties_from_page(html):
             elif data_id==1:
                 m.title = value
             elif data_id == 61:
-                m.toezegging = value
+                m.text = value
             elif data_id == 23:
                 m.poho = value
             elif data_id == 54:
@@ -68,24 +69,27 @@ def get_moties_from_page(html):
                 m.result = value
             elif data_id == 2:
                 try:
-                    m.attachment = data_field.a['href']
+                    m.pdf_url = data_field.a['href']
                 except:
-                    m.attachment = None
+                    m.pdf_url = None
 
 
 
 
         m.linkToOtherFiles() #this will add ids where possible.
+        if m.date is None:
+            print('stophier')
         m.save()
     return False #false, because it has not reached the limit.
 
 
-def download_moties(driver):
+def download_moties(driver, fromDate):
  #---- get pages
     print('RIS query for all motions, this takes a while')
     today = date.today().strftime('%d-%m-%Y')
+    beginHere = fromDate.strftime('%d-%m-%Y')
     #url = "https://raadsinformatie.eindhoven.nl/modules/6/Moties/view?month=all&year=all&week=all&module_filter%5Bselect%5D%5B45%5D=none&module_filter%5Bselect%5D%5B26%5D=none&module_filter%5Brange%5D%5B15%5D%5Bdata_type%5D=datetime&module_filter%5Brange%5D%5B28%5D%5Bdata_type%5D=datetime&module_filter%5Brange%5D%5B17%5D%5Bdata_type%5D=datetime&module_filter%5Brange%5D%5B16%5D%5Bdata_type%5D=datetime&module_filter%5Brange%5D%5B39%5D%5Bdata_type%5D=datetime&module_filter%5Bcheckbox%5D%5B17%5D=0&module_filter%5Bcheckbox%5D%5B21%5D=0&module_filter%5Bcheckbox%5D%5B20%5D=0&section="
-    url = f'https://raadsinformatie.eindhoven.nl/modules/6/Moties?module_filter%5Bselect%5D%5B45%5D=none&module_filter%5Bselect%5D%5B26%5D=none&module_filter%5Brange%5D%5B15%5D%5Bfrom%5D=01-03-2022&module_filter%5Brange%5D%5B15%5D%5Bto%5D={today}&module_filter%5Brange%5D%5B15%5D%5Bdata_type%5D=datetime&module_filter%5Brange%5D%5B28%5D%5Bdata_type%5D=datetime&module_filter%5Brange%5D%5B17%5D%5Bdata_type%5D=datetime&module_filter%5Brange%5D%5B16%5D%5Bdata_type%5D=datetime&module_filter%5Brange%5D%5B39%5D%5Bdata_type%5D=datetime&module_filter%5Bcheckbox%5D%5B17%5D=0&module_filter%5Bcheckbox%5D%5B21%5D=0&module_filter%5Bcheckbox%5D%5B20%5D=0&section=&sort=&sort_dir=asc'
+    url = f'https://raadsinformatie.eindhoven.nl/modules/6/Moties?module_filter%5Bselect%5D%5B45%5D=none&module_filter%5Bselect%5D%5B26%5D=none&module_filter%5Brange%5D%5B15%5D%5Bfrom%5D={beginHere}&module_filter%5Brange%5D%5B15%5D%5Bto%5D={today}&module_filter%5Brange%5D%5B15%5D%5Bdata_type%5D=datetime&module_filter%5Brange%5D%5B28%5D%5Bdata_type%5D=datetime&module_filter%5Brange%5D%5B17%5D%5Bdata_type%5D=datetime&module_filter%5Brange%5D%5B16%5D%5Bdata_type%5D=datetime&module_filter%5Brange%5D%5B39%5D%5Bdata_type%5D=datetime&module_filter%5Bcheckbox%5D%5B17%5D=0&module_filter%5Bcheckbox%5D%5B21%5D=0&module_filter%5Bcheckbox%5D%5B20%5D=0&section=&sort=&sort_dir=asc'
 
 
 

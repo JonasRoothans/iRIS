@@ -25,7 +25,9 @@ class Module:
         self.attachment = None
         self.parent = None
         self.children = []
-        self.toezegging = None
+        self.text = None
+        self.pdf_url = None
+        self.pdf_text = None
 
         if module_id is not None:
             self.load_from_json(module_id)
@@ -67,7 +69,11 @@ class Module:
                 self.module_id = int(module_id)
             return
         with open(file_path, 'r') as file:
-            data = json.load(file)
+            try:
+                data = json.load(file)
+            except:
+                print(f'FILE CORRUPTED ---------> {file}')
+                return
             self.module_id = data['module_id']
             self.vote_id = data['vote_id']
             self.member_id = data['member_id']
@@ -79,6 +85,8 @@ class Module:
             self.member = data['member']
             self.party = data['party']
             self.result = data['result']
+            if not self.result:
+                self.result = ''
             if 'date' in data:
                 self.date = data['date']
             if 'meeting_url' in data:
@@ -86,14 +94,25 @@ class Module:
             self.attachment = data['attachment']
             self.parent = data['parent']
             self.children = data['children']
-            if 'toezegging' in data:
-                self.toezegging = data['toezegging']
+            if 'text' in data:
+                self.text = data['text']
+            if 'pdf_url' in data:
+                self.pdf_url = data['pdf_url']
+            if 'pdf_text' in data:
+                self.pdf_text = data['pdf_text']
 
     def print_details(self):
         print(f"Module ID: {self.module_id}")
         print(f"Title: {self.title}")
         print(f"URL: {self.url}")
         print(f"Type: {self.type}")
+
+    def uniqueChildren(self):
+        new_children = list(set(self.children))
+        removed_items = len(self.children) - len(new_children)
+        if removed_items:
+            self.children = new_children
+
 
     def save(self):
         print(f"Saving module: {self.title}")
@@ -128,19 +147,39 @@ class Module:
                 self.meeting_url = f'https://raadsinformatie.eindhoven.nl{self.meeting_url}'
         if self.parent==self.module_id:
             self.parent= None
+        if self.type == 'Raadsvoorstellen':
+            self.type = 'Raadsvoorstel'
+        if self.type is None and 'Raadsvoorstel' in self.title:
+            self.type = 'Raadsvoorstel'
+        if self.date is None:
+            if self.children:
+                for child in self.children:
+                    childDate = Module(child).date
+                    if childDate is not None:
+                        self.date = childDate
+        self.uniqueChildren()
+
 
 
 
         file_path = os.path.join(directory_path, f"{self.module_id}.json")
         with open(file_path, 'w', encoding='utf-8') as f:
             json.dump(self.__dict__, f, ensure_ascii=False, indent=4)
+            f.flush() #some files were truncated, hopefully this helps
+
+        try:
+            Module(self.module_id)
+        except:
+            print('It cannot load itself?!')
+            print('stop')
 
     def add_children(self):
         from functions.download import web
         if self.url is None:
             return None
-        if self.type == 'Motie' or self.type == 'Amendement' or self.type == "Toezegging" or self.type == "Vrije motie":
-            return None
+        if self.type:
+            if self.type.lower() == 'motie' or self.type.lower() == 'amendement' or self.type.lower() == "toezegging" or self.type.lower() == "vrije motie":
+                return None
 
         #children can only be found via the agenda
         #use the value behind the '#ai' as an indicator for the active agenda item
@@ -181,29 +220,30 @@ class Module:
         from functions.download import web
         if self.meeting_url is None:
             return None
-        if self.type == 'Raadsvoorstellen':
+        if self.type == 'Raadsvoorstellen' or self.type == 'Raadsvoorstel':
             return None
-        if 'Vrije Motie' in self.title:
+        if 'vrije motie' in self.title.lower() and self.type.lower() != 'toezegging':
             return None
 
         #parent can only be found via the agenda
         #use the value behind the '#ai' as an indicator for the active agenda item
 
-        try:
-            agenda_item = self.meeting_url.split('#')[1]
-            soup = web.visitPage(self.meeting_url)
+        parent_id = None
+        agenda_item = self.meeting_url.split('#')[1]
+        soup = web.visitPage(self.meeting_url)
 
-        #backup:
-            parent_id = int(soup.find('li', id=agenda_item).find('ul', class_='module_items').contents[1].attrs[
-                                'data-module_item_id'])
-            parent_title = soup.find('li', id=agenda_item).find('ul', class_='module_items').contents[1].attrs[
-                'data-title']
-            parent_url = soup.find('li', id=agenda_item).find('ul', class_='module_items').contents[1].find('a')['href']
+    #backup:
+        parent_id = int(soup.find('li', id=agenda_item).find('ul', class_='module_items').contents[1].attrs[
+                            'data-module_item_id'])
+        parent_title = soup.find('li', id=agenda_item).find('ul', class_='module_items').contents[1].attrs[
+            'data-title']
+        parent_url = soup.find('li', id=agenda_item).find('ul', class_='module_items').contents[1].find('a')['href']
 
-        #optimization:
-            module_list = soup.find('li', id=agenda_item).find('ul', class_='module_items').find_all('li')
-            for module_candidate in module_list:
-                if module_candidate is not None:
+    #optimization:
+        module_list = soup.find('li', id=agenda_item).find('ul', class_='module_items').find_all('li')
+        for module_candidate in module_list:
+            if module_candidate is not None:
+                if 'data-title' in module_candidate.attrs:
                     module_candidate_name = module_candidate.attrs['data-title']
                     if 'voorstel' in module_candidate_name:
                         parent_title = module_candidate_name
@@ -211,40 +251,53 @@ class Module:
                         parent_url = module_candidate.find('a')['href']
                         break
 
-            if parent_id is not None:
-                if parent_id == self.module_id:
-                    print('! parent id and module id are similar.')
-                #add parent
-                self.parent = parent_id
+        if parent_id is not None:
+            if parent_id == self.module_id:
+                print('! parent id and module id are similar. Adding agenda-item as parent')
+                li = soup.find('li', id=agenda_item)
+                if 'data-title' in li.attrs:
+                    #make agenda item module:
+                    aimodule = Module(agenda_item)
+                    aimodule.title = li['data-title']
+                    aimodule.meeting_url = self.meeting_url
+                    aimodule.type = 'Agenda'
+                    aimodule.date = self.date
+                    aimodule.poho = self.poho
+                    aimodule.save()
+                    parent_id = agenda_item
 
-                #add child to parent
-                parent = Module(parent_id)
-                parent.children.append(self.module_id) #duplicates can be fixed later
-                print(f' + connected {self.title} to parent: {parent.title}')
-                parent.title = parent_title
-                parent.url = parent_url
-                if len(self.children):
-                    for child in self.children:
-                        print('child')
-                        grandchild = Module(child)
-                        parent.children.append(grandchild.module_id)
-                        grandchild.parent = parent
-                        parent.save()
+            #add parent
+            self.parent = parent_id
+
+            #add child to parent
+            parent = Module(parent_id)
+            parent.children.append(self.module_id) #duplicates can be fixed later
+            print(f' + connected {self.title} to parent: {parent.title}')
+            parent.title = parent_title
+            parent.url = parent_url
+            if len(self.children):
+                for child in self.children:
+                    print('child')
+                    grandchild = Module(child)
+                    parent.children.append(grandchild.module_id)
+                    grandchild.parent = parent
+                    parent.save()
+                    try:
                         grandchild.save()
-                self.children = []
+                    except:
+                        print('debug')
+            self.children = []
 
 
 
-                #exchange poho between parent and child
-                if parent.poho is not None and self.poho is None:
-                    self.poho = parent.poho
-                if parent.poho is None and self.poho is not None:
-                    parent.poho = self.poho
+            #exchange poho between parent and child
+            if parent.poho is not None and self.poho is None:
+                self.poho = parent.poho
+            if parent.poho is None and self.poho is not None:
+                parent.poho = self.poho
 
-                parent.save()
-                self.save()
-        except:
-            parent_id = None
+            parent.save()
+            self.save()
         return parent_id
 
 
@@ -297,13 +350,8 @@ class Module:
         if self.type is None:
             self.type = ''
 
-        new_children = list(set(self.children))
-        removed_items = len(self.children)-len(new_children)
-        if removed_items:
-            self.children = new_children
-            print('removed duplicate children')
-            self.save()
 
+        self.uniqueChildren()
 
         return self
 

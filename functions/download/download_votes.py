@@ -14,6 +14,7 @@ def get_module_from_meeting_url(meeting_url,vote_title,vote_id):
     vote_title = vote_title.replace('\n', '').replace('\r', '')
     soup_meeting = web.visitPage('https://raadsinformatie.eindhoven.nl'+meeting_url)
     vote_title_without_brackets = re.sub(r'\([^)]*\)', '', vote_title).strip()
+
     # Find all `li` elements with the class `module_item`
     for module_item in soup_meeting.find_all('li', class_='module_item'):
         # Check if this item has the target vote title in the `data-title` attribute
@@ -69,7 +70,7 @@ def get_module_from_meeting_url(meeting_url,vote_title,vote_id):
 
 
 
-def update_vote_per_member(driver, url):
+def update_vote_per_member(driver, url,fromDate):
 
 
     # Initialize counters
@@ -104,8 +105,8 @@ def update_vote_per_member(driver, url):
 
                     #check if vote is within timeframe:
                     date = datetime.strptime(vote_data['date']['date'][0:10],'%Y-%m-%d')
-                    reference_date = datetime.strptime('2022-03-15','%Y-%m-%d')
-                    if date < reference_date:
+                    print(vote_data['date']['date'][0:10])
+                    if date < fromDate:
                         print('vote out of scope')
                         continue
 
@@ -147,9 +148,12 @@ def update_vote_per_member(driver, url):
                     if v.date is None:
                         v.date = vote_data['date']['date'][0:10]
 
-
+                    #sync data.
                     m.date = v.date
                     m.result = v.result
+                    m.meeting_url = v.url
+                    m.title = v.description
+                    m.vote_id = v.vote_id
                     m.save()
                     v.add_membervote(int(member_id), vote)
 
@@ -172,14 +176,19 @@ def update_vote_per_member(driver, url):
         print(f"Error processing {url}: {e}")
         return None
 
-def download_votes(driver):
+
+
+def download_votes(driver,fromDate):
+
+
+
     #--get all members
     folder_path = './json/members/speaker'
     member_ids = os.listdir(folder_path)
     for member_id in member_ids:
         member = Member(member_id)
         print(member.name)
-        update_vote_per_member(driver, member.url)
+        update_vote_per_member(driver, member.url,fromDate)
 
 
         # DEBUG----
