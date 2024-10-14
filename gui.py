@@ -7,6 +7,7 @@ import tkinter as tk
 from tkinter import ttk
 from classes.module import Module
 from PIL import Image, ImageTk
+from functions.support import cwdpath
 
 
 # Function to create the tree structure based on the JSON data
@@ -363,19 +364,20 @@ def create_gui():
     tree.pack(fill="both", expand=True)
 
     # Load images (small colored dots) beforehand
-    icon_doc = tk.PhotoImage(file=f"{os.getcwd()}/Presentation/icon/16x16/Text.png")  # 16x16 image of green dot
-    icon_script = tk.PhotoImage(file=f"{os.getcwd()}/Presentation/icon/16x16/Script.png")  # 16x16 image of green dot
-    icon_none = tk.PhotoImage(file=f"{os.getcwd()}/Presentation/icon/16x16/Question.png")  # 16x16 image of green dot
-    icon_yes = tk.PhotoImage(file=f"{os.getcwd()}/Presentation/icon/16x16/Yes.png")  # 16x16 image of green dot
-    icon_no  =  tk.PhotoImage(file=f"{os.getcwd()}/Presentation/icon/16x16/No.png")  # 16x16 image of green dot
-    icon_toezegging =  tk.PhotoImage(file=f"{os.getcwd()}/Presentation/icon/16x16/Comment.png")  # 16x16 image of green dot
-    icon_agenda = tk.PhotoImage(file=f"{os.getcwd()}/Presentation/icon/16x16/Calendar.png")  # 16x16 image of green dot
-    icon_gone = tk.PhotoImage(file=f"{os.getcwd()}/Presentation/icon/16x16/Smile.png")  # 16x16 image of green dot
-    icon_trash = tk.PhotoImage(file=f"{os.getcwd()}/Presentation/icon/16x16/Trash.png")  # 16x16 image of green dot
-    icon_error = tk.PhotoImage(file=f"{os.getcwd()}/Presentation/icon/16x16/Warning.png")  # 16x16 image of green dot
-    icon_notes = tk.PhotoImage(file=f"{os.getcwd()}/Presentation/icon/16x16/Notes.png")  # 16x16 image of green dot
-    icon_modified =  tk.PhotoImage(file=f"{os.getcwd()}/Presentation/icon/16x16/Modify.png")  # 16x16 image of green dot
-    icon_orde =  tk.PhotoImage(file=f"{os.getcwd()}/Presentation/icon/16x16/Wrench.png")  # 16x16 image of green dot
+
+    icon_doc = tk.PhotoImage(file=cwdpath(os.path.join('Presentation','icon','16x16',"Text.png")))  # 16x16 image of green dot
+    icon_script = tk.PhotoImage(file=cwdpath(os.path.join('Presentation','icon','16x16',"Script.png")))  # 16x16 image of green dot
+    icon_none = tk.PhotoImage(file=cwdpath(os.path.join('Presentation','icon','16x16',"Question.png")))  # 16x16 image of green dot
+    icon_yes = tk.PhotoImage(file=cwdpath(os.path.join('Presentation','icon','16x16',"Yes.png")))  # 16x16 image of green dot
+    icon_no  =  tk.PhotoImage(file=cwdpath(os.path.join('Presentation','icon','16x16',"No.png")))  # 16x16 image of green dot
+    icon_toezegging =  tk.PhotoImage(file=cwdpath(os.path.join('Presentation','icon','16x16',"Comment.png"))) # 16x16 image of green dot
+    icon_agenda = tk.PhotoImage(file=cwdpath(os.path.join('Presentation','icon','16x16',"Calendar.png")))  # 16x16 image of green dot
+    icon_gone = tk.PhotoImage(file=cwdpath(os.path.join('Presentation','icon','16x16',"Smile.png")))  # 16x16 image of green dot
+    icon_trash = tk.PhotoImage(file=cwdpath(os.path.join('Presentation','icon','16x16',"Trash.png")))  # 16x16 image of green dot
+    icon_error = tk.PhotoImage(file=cwdpath(os.path.join('Presentation','icon','16x16',"Warning.png")))  # 16x16 image of green dot
+    icon_notes = tk.PhotoImage(file=cwdpath(os.path.join('Presentation','icon','16x16',"Notes.png"))) # 16x16 image of green dot
+    icon_modified =  tk.PhotoImage(file=cwdpath(os.path.join('Presentation','icon','16x16',"Modify.png")))  # 16x16 image of green dot
+    icon_orde =  tk.PhotoImage(file=cwdpath(os.path.join('Presentation','icon','16x16',"Wrench.png")))  # 16x16 image of green dot
 
 
     # Load data into Treeview (hierarchical structure)
