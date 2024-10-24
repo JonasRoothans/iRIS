@@ -66,8 +66,21 @@ def visitPageAndWaitForPolitiekPortaal(driver,url):
         # Use BeautifulSoup to parse the fully rendered HTML content
         soup = BeautifulSoup(page_source, 'html.parser')
         return soup
-    finally:
-        print('.')
+    except:
+        # Wait for the text 'Hoofddocument' within 'politiek-portaal' for an additional assurance it's loaded
+        WebDriverWait(driver, 30).until(
+            EC.presence_of_element_located((By.XPATH, "//*[contains(text(), 'Raadsbesluit')]"))
+        )
+
+        print("Page loaded, and 'Raadsbesluit' is present")
+
+        # Now that the content is fully loaded, retrieve the page source
+        page_source = driver.page_source
+
+        # Use BeautifulSoup to parse the fully rendered HTML content
+        soup = BeautifulSoup(page_source, 'html.parser')
+        return soup
+
 
 
 

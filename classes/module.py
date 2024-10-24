@@ -2,6 +2,7 @@ import os
 from dataclasses import dataclass
 from classes.member import Member
 from functions.support import cwdpath
+from datetime import datetime
 
 from typing import Optional
 import json
@@ -74,7 +75,7 @@ class Module:
                 data = json.load(file)
             except:
                 print(f'FILE CORRUPTED ---------> {file}')
-                return
+                return None
             self.module_id = data['module_id']
             self.vote_id = data['vote_id']
             self.member_id = data['member_id']
@@ -101,6 +102,8 @@ class Module:
                 self.pdf_url = data['pdf_url']
             if 'pdf_text' in data:
                 self.pdf_text = data['pdf_text']
+
+            return self
 
     def print_details(self):
         print(f"Module ID: {self.module_id}")
@@ -158,6 +161,9 @@ class Module:
                     childDate = Module(child).date
                     if childDate is not None:
                         self.date = childDate
+        else:
+            if self.date[4]=='-' or self.date.startswith('-'):
+                self.date = datetime.strptime(self.date, "%Y-%m-%d").strftime("%d-%m-%Y")
         self.uniqueChildren()
 
 
@@ -168,9 +174,7 @@ class Module:
             json.dump(self.__dict__, f, ensure_ascii=False, indent=4)
             f.flush() #some files were truncated, hopefully this helps
 
-        try:
-            Module(self.module_id)
-        except:
+        if Module(self.module_id) is None:
             print('It cannot load itself?!')
             print('stop')
 
@@ -194,6 +198,8 @@ class Module:
         except:
             return
 
+
+
         for element in other_elements_in_block:
             try:
                 child_id = int(element.attrs['data-module_item_id'])
@@ -214,7 +220,13 @@ class Module:
                     childModule.save()
                 else:
                     if childModule.parent is not self.module_id:
-                        print(f'!! CONFLICTING HIERARCHY FOR MODULE {self.module_id} and {child_id}')
+                        if '(VM' in childModule.title:
+                            childModule.parent = None
+                            childModule.save()
+                            self.children.remove(child_id)
+                            self.save()
+                        else:
+                            print(f'!! CONFLICTING HIERARCHY FOR MODULE {self.module_id} and {child_id}')
 
 
     def add_parent(self):
@@ -230,10 +242,15 @@ class Module:
         #use the value behind the '#ai' as an indicator for the active agenda item
 
         parent_id = None
-        agenda_item = self.meeting_url.split('#')[1]
+        try:
+            agenda_item = self.meeting_url.split('#')[1]
+        except:
+            return
         soup = web.visitPage(self.meeting_url)
 
     #backup:
+        if soup.find('li', id=agenda_item) is None:
+            return
         parent_id = int(soup.find('li', id=agenda_item).find('ul', class_='module_items').contents[1].attrs[
                             'data-module_item_id'])
         parent_title = soup.find('li', id=agenda_item).find('ul', class_='module_items').contents[1].attrs[
@@ -281,7 +298,7 @@ class Module:
                     print('child')
                     grandchild = Module(child)
                     parent.children.append(grandchild.module_id)
-                    grandchild.parent = parent
+                    grandchild.parent = parent.module_id
                     parent.save()
                     try:
                         grandchild.save()

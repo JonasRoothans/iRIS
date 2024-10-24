@@ -25,6 +25,7 @@ def get_moties_from_page(html):
         count += 1
 
 
+
         data_fields = row.find_all('dd')
         try:
             module_id = row.parent['data-id']

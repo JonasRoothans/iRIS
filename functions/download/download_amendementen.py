@@ -37,8 +37,11 @@ def extract_real_title(title):
     return real_title
 
 def find_attachment_from(id, soup, real_title):
-    ancestor = soup.find('div', id=f'chart_{id}').find_parent('div', class_='agenda_item_content')
-    docs = ancestor.find('ul',class_='documents').find_all('li')
+    try:
+        ancestor = soup.find('div', id=f'chart_{id}').find_parent('div', class_='agenda_item_content')
+        docs = ancestor.find('ul',class_='documents').find_all('li')
+    except:
+        return None
     for doc in docs:
         if real_title in doc.find('span', class_='document_title').get_text():
             return doc.find('a')['href']

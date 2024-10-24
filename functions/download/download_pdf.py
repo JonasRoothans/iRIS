@@ -1,8 +1,11 @@
 from pypdf import PdfReader
 from classes.moduleManager import ModuleManager
 from classes.module import Module
+from classes.member import Member
 import requests
 import io
+import os
+from functions.support import cwdpath
 
 
 def getPDF(url):
@@ -21,7 +24,16 @@ def readPDF(pdf):
     return text
 
 def extractInfoFromPDF(module):
-    #bijv. de eerste indiener
+    #Connect members
+    folder_path = cwdpath(os.path.join('json', 'members', 'person'))
+    members = os.listdir(folder_path)
+    for member_id in members:
+        m = Member(member_id)
+        if m.name in module.pdf_text:
+            if m.person_id not in module.member_id:
+                print(f'---added {m.name} to {module.title}')
+                module.member_id.append(int(m.person_id))
+                module.party_list.append(m.party)
     return
 
 
@@ -33,9 +45,13 @@ def download_pdf():
         module = Module(m)
         if module.pdf_url:
             pdf = getPDF(module.pdf_url)
-            text = readPDF(pdf)
+            try:
+                text = readPDF(pdf)
+            except:
+                text = ''
+                print('stop')
 
-            module.pdf_text = text
+            module.pdf_text = text[0:10000]
             extractInfoFromPDF(module) #doet nog niks
 
             module.save()

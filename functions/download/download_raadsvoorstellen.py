@@ -11,6 +11,8 @@ def getMostRelevantPDF(m,driver):
     if not m.url:
         return None
     soup = web.visitPageAndWaitForPolitiekPortaal(driver,m.url)
+    if soup is None:
+        return
     spans = soup.find('politiek-portaal').find_all('span')
     url= None
     for span in spans:
@@ -19,9 +21,13 @@ def getMostRelevantPDF(m,driver):
             url = f'https://raadsinformatie.eindhoven.nl{path}'
             print('Hoofddocument gevonden')
         if 'Raadsbesluit' in span.get_text():
-            path = span.parent.find('a')['href']
-            url = f'https://raadsinformatie.eindhoven.nl{path}'
-            print('Raadsbesluit gevonden')
+            try:
+                path = span.parent.find('a')['href']
+                url = f'https://raadsinformatie.eindhoven.nl{path}'
+                print('Raadsbesluit gevonden')
+            except:
+                print('raadsbesluit gevonden, maar kan de link niet achterhalen')
+
             return url
     if url is None:
         print('Geen document gevonden')
@@ -35,6 +41,8 @@ def get_raadsvoorstellen_from_page(html,driver):
         print(count)
         count += 1
 
+        if count < 336:
+            continue
         data_fields = row.find_all('dd')
         try:
             module_id = row.parent['data-id']

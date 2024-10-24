@@ -11,10 +11,10 @@ def get_settings():
         return json.load(settings_path)
     else:
         settings = {}
-        settings['last_update_votes'] = '2024-04-01'
-        settings['last_update_moties'] = '2024-04-01'
-        settings['last_update_raadsvoorstellen'] = '2024-04-01'
-        settings['last_update_amendementen'] = '2024-04-01'
+        settings['last_update_votes'] = '2020-04-01'
+        settings['last_update_moties'] = '2020-04-01'
+        settings['last_update_raadsvoorstellen'] = '2020-04-01'
+        settings['last_update_amendementen'] = '2020-04-01'
         settings['buffer_months'] = 3
         return settings
 
@@ -33,7 +33,7 @@ def get_startDate(settings,method):
 
 if __name__ == "__main__":
     #--start up chrome driver
-    #driver = web.setup_driver()
+    driver = web.setup_driver()
     settings = get_settings()
 
     #----DOWNLOAD MEMBERS---#
