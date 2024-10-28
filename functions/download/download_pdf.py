@@ -51,7 +51,7 @@ def download_pdf():
                 text = ''
                 print('stop')
 
-            module.pdf_text = text[0:10000]
+            module.pdf_text = text
             extractInfoFromPDF(module) #doet nog niks
 
             module.save()

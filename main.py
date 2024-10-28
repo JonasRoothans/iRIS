@@ -37,25 +37,25 @@ if __name__ == "__main__":
     settings = get_settings()
 
     #----DOWNLOAD MEMBERS---#
-    #download_members.main(driver)
+    download_members.main(driver)
 
     # ----DOWNLOAD VOTES and make module placeholders---#
-    #download_votes.download_votes(driver, get_startDate(settings,'last_update_votes'))
-    #settings['last_update_votes'] = date.today().strftime('%Y-%m-%d')
+    download_votes.download_votes(driver, get_startDate(settings,'last_update_votes'))
+    settings['last_update_votes'] = date.today().strftime('%Y-%m-%d')
 
     # --- DOWNLOAD moties --- #
-    #download_moties.download_moties(driver, get_startDate(settings,'last_update_moties'))
-    #settings['last_update_moties'] = date.today().strftime('%Y-%m-%d')
-    #web.teardown_driver(driver)
+    download_moties.download_moties(driver, get_startDate(settings,'last_update_moties'))
+    settings['last_update_moties'] = date.today().strftime('%Y-%m-%d')
+    web.teardown_driver(driver)
 
-    #driver = web.setup_driver()
-    #download_raadsvoorstellen.download_raadsvoorstellen(driver,get_startDate(settings,'last_update_raadsvoorstellen'))
-    #settings['last_update_raadsvoorstellen'] = date.today().strftime('%Y-%m-%d')
-    #web.teardown_driver(driver)
+    driver = web.setup_driver()
+    download_raadsvoorstellen.download_raadsvoorstellen(driver,get_startDate(settings,'last_update_raadsvoorstellen'))
+    settings['last_update_raadsvoorstellen'] = date.today().strftime('%Y-%m-%d')
+    web.teardown_driver(driver)
 
-    #driver = web.setup_driver()
-    #download_amendementen.download_amendementen(driver)
-    #web.teardown_driver(driver)
+    driver = web.setup_driver()
+    download_amendementen.download_amendementen(driver)
+    web.teardown_driver(driver)
 
     download_pdf.download_pdf()
 

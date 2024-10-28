@@ -41,8 +41,8 @@ def get_raadsvoorstellen_from_page(html,driver):
         print(count)
         count += 1
 
-        if count < 336:
-            continue
+        #if count < 336:
+         #   continue
         data_fields = row.find_all('dd')
         try:
             module_id = row.parent['data-id']
