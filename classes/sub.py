@@ -145,8 +145,8 @@ class Sub:
 
     def add_srt(self, srt_url: str):
         if srt_url is None:
-            print('No SRT url provided')
-            return None
+            srt_url = self._extract_srt_url_from_api()
+
         response = requests.get(srt_url)
         response.raise_for_status()
         srt_content = response.text
@@ -172,6 +172,21 @@ class Sub:
             self.video_url = None
             print(f'No video for:{self.meeting_id}')
 
+    def getAPImeta(self,event_api):
+        try:
+            response = requests.get(event_api)
+            response.raise_for_status()
+            data = response.json()
+        except:
+            print('INVALID')
+            return
+
+        # add api for future reference to the object
+        self.api = event_api
+
+        # add meeting,  video id and date
+        self._get_meta_info_from_api(data)
+
 
     def add_speakers_from_eventAPI(self,event_api: str):
         print(event_api)
@@ -183,11 +198,7 @@ class Sub:
             print('INVALID')
             return
 
-        #add api for future reference to the object
-        self.api = event_api
 
-        #add meeting,  video id and date
-        self._get_meta_info_from_api(data)
 
         #add speakers
         for agenda_item in data['event'][0]['agenda']['agendaitem']:
@@ -216,7 +227,7 @@ class Sub:
 
         meeting_url =data['event'][0]['url']
         self.meeting_url = meeting_url
-        srt_url = self._extract_srt_url_from_api()
+
         self.add_srt(srt_url)
 
     def print(self, n: int):

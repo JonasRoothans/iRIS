@@ -38,6 +38,11 @@ class VoteManager:
     def all(self):
         # Get all vote ids
         folder_path = cwdpath(os.path.join('json','votes'))
+
+        # Check if the folder exists, create it if it doesn't
+        if not os.path.exists(folder_path):
+            os.makedirs(folder_path)
+
         return os.listdir(folder_path)
 
     def addvote(self,vote:Vote):
@@ -85,7 +90,26 @@ class VoteManager:
         self.votes = [self.votes[i] for i in sorted_indices]
         self.votes_by_member = self.votes_by_member[:, sorted_indices]
         self.votes_by_party = self.votes_by_party[:,sorted_indices]
-        self.voting_result = [self.voting_result[i] for i in sorted_indices]
+        self.voting_result = [self.voting_result[i] for i in sorted_indices]\
+
+
+    def getVotesOfPartiesForVoteID(self,id):
+        idx = -1
+        for vote in self.votes:
+            idx+=1
+            if vote.vote_id==id:
+                idxP = -1
+                output = {}
+                for party in self.party_manager.party_legend:
+                    idxP +=1
+                    output[party] = self.votes_by_party[idxP][idx]
+
+
+                return output
+
+
+
+
 
     @staticmethod
     def calculate_similarity(row1: List[int], row2: List[int]) -> float:

@@ -95,6 +95,11 @@ class Vote:
         else:
             return Module
 
+    def get_percentage(self):
+        values = self.member_votes.values()
+        return sum([value == 'voor' for value in values]) / len(values) *100
+
+
     def print_details(self):
         print(f"Vote ID: {self.vote_id}")
         print(f"Model ID: {self.module_id}")

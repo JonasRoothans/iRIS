@@ -1,7 +1,7 @@
 import numpy as np
 import os
 from classes.module import Module
-from datetime import datetime
+from datetime import datetime, date
 from functions.support import cwdpath
 
 class ModuleManager:
@@ -11,9 +11,27 @@ class ModuleManager:
     def all(self):
         # Get all vote ids
         folder_path = cwdpath(os.path.join('json','modules'))
+
+        # Check if the folder exists, create it if it doesn't
+        if not os.path.exists(folder_path):
+            os.makedirs(folder_path)
+
         fnames = os.listdir(folder_path)
         fnames = [fn for fn in fnames if not fn.startswith('.')]
         return fnames
+
+    def add2022(self):
+        for m_id in self.all():
+            if m_id[0] == '.':
+                continue
+            if Module(m_id).get_date() is None:
+                print('?;')
+            if Module(m_id).get_date() < date(2022,4,22):
+                continue
+            try:
+                self.addmodule(m_id)
+            except:
+                print(f'{m_id} skipped')
 
     def addall(self):
         for m_id in self.all():

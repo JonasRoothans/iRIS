@@ -1,6 +1,8 @@
 from classes.member import Member
 from functions.download import web
 import re
+from functions.download import web
+
 
 
 
@@ -31,10 +33,21 @@ def main(driver):
             member_name = member_link.find('span', class_='naam').get_text()
             member_function = member_link.find('span', class_='functie').get_text()
             soup_member  = web.visitPageWithDriver(driver,member_url) #this is needed to get the javascript things
-            member_id  = soup_member.find('h2',class_='lid_header')['data-role_id']
+            try:
+                member_id  = soup_member.find('h2',class_='lid_header')['data-role_id']
+            except:
+                member_id = int(member_url.split('lid/')[1].split('/')[0])
+
+
 
             # make a member object
             new_member = Member(member_id)
+            try:
+                new_member.img = soup_member.find(id='pasfoto').find('img')['src']
+            except:
+                soup_member  = web.visitPageWithDriver(driver,member_url)
+                new_member.img = soup_member.find(id='pasfoto').find('img')['src']
+            new_member.save()
 
             if 'Unknown id' not in new_member.name:
                 #ID already exists.
@@ -58,6 +71,7 @@ def main(driver):
                 new_member.party = party_name
                 new_member.url = member_url
 
+
                 # Save member
                 new_member.save()
                 members_dict[member_id] = new_member
@@ -73,6 +87,8 @@ def main(driver):
 
 if __name__ == "__main__":
     print("Nested code only runs in the top-level code environment")
+    driver = web.setup_driver()
+    main(driver)
 
 
 

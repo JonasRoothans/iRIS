@@ -1,8 +1,13 @@
 import os
 from dataclasses import dataclass
 from classes.member import Member
+from classes.meeting import Meeting
 from functions.support import cwdpath
 from datetime import datetime
+from functions.download import web
+import re
+import yake
+
 
 from typing import Optional
 import json
@@ -30,6 +35,17 @@ class Module:
         self.text = None
         self.pdf_url = None
         self.pdf_text = None
+        self.bst = None
+        self.related = None
+        self.videostarttime = None
+        self.videolink = None
+        self.keywords = {}
+        self.svz = None
+        self.afgedaan = None
+        self.eersteIndiener = None
+        self.lastScrapeDate = None
+        self.meeting_id = []
+
 
         if module_id is not None:
             self.load_from_json(module_id)
@@ -46,6 +62,39 @@ class Module:
         if isinstance(other,Module):
             return self.module_id == other.module_id
         return False
+
+
+    def extract_keywords(self):
+        innertext = self.text or ""
+        title = self.title or ""
+        pdf = self.pdf_text or ""
+
+
+
+        text = title + " " + pdf + " " + innertext
+        self.keywords = {}
+        language = "nl"
+        max_ngram_size = 2
+        deduplication_threshold = 0.5
+        deduplication_algo = 'seqm'
+        windowSize = 1
+        numOfKeywords = 100
+
+        custom_kw_extractor = yake.KeywordExtractor(lan=language, n=max_ngram_size, dedupLim=deduplication_threshold,
+                                                    dedupFunc=deduplication_algo, windowsSize=windowSize,
+                                                    top=numOfKeywords,
+                                                    features=None)
+        keywords = custom_kw_extractor.extract_keywords(text)
+        for kw in keywords:
+            if kw[0] in title:
+                bonus = 1
+            else:
+                bonus = 0
+            if kw[1]<0.5:
+                self.keywords[kw[0]] = 1-kw[1]+bonus
+
+
+
 
     def load_from_json(self, module_id: str):
         if isinstance(module_id,str):
@@ -81,6 +130,7 @@ class Module:
             self.member_id = data['member_id']
             self.party_list = data['party_list']
             self.poho_id = data['poho_id']
+            self.poho = data['poho']
             self.title = data['title']
             self.url = data['url']
             self.type = data['type']
@@ -102,6 +152,33 @@ class Module:
                 self.pdf_url = data['pdf_url']
             if 'pdf_text' in data:
                 self.pdf_text = data['pdf_text']
+            if 'bst' in data:
+                self.bst = data['bst']
+            if 'related' in data:
+                self.related = data['related']
+            if 'videostarttime' in data:
+                self.videostarttime = data['videostarttime']
+            if 'videolink' in data:
+                self.videolink = data['videolink']
+            if 'keywords' in data:
+                self.keywords = data['keywords']
+            if 'svz' in data:
+                self.svz = data['svz']
+            if 'afgedaan' in data:
+                self.afgedaan = data['afgedaan']
+            if 'eersteIndiener' in data:
+                self.eersteIndiener = data['eersteIndiener']
+            if 'lastScrapeDate' in data:
+                self.lastScrapeDate = data['lastScrapeDate']
+            if 'meeting_id' in data:
+                if isinstance(data['meeting_id'],int):
+                    self.meeting_id = [data['meeting_id']]
+                else:
+                    self.meeting_id = data['meeting_id']
+            else:
+                if self.meeting_url and isinstance(self.meeting_url,dict):
+                    self.meeting_id = list(self.meeting_url.keys())
+
 
             return self
 
@@ -143,28 +220,10 @@ class Module:
         os.makedirs(directory_path, exist_ok=True)
 
         # Cleaning:
-        if self.url is not None:
-            if self.url[0] == '/':
-                self.url = f'https://raadsinformatie.eindhoven.nl{self.url}'
-        if self.meeting_url is not None:
-            if self.meeting_url[0] == '/':
-                self.meeting_url = f'https://raadsinformatie.eindhoven.nl{self.meeting_url}'
-        if self.parent==self.module_id:
-            self.parent= None
-        if self.type == 'Raadsvoorstellen':
-            self.type = 'Raadsvoorstel'
-        if self.type is None and 'Raadsvoorstel' in self.title:
-            self.type = 'Raadsvoorstel'
-        if self.date is None:
-            if self.children:
-                for child in self.children:
-                    childDate = Module(child).date
-                    if childDate is not None:
-                        self.date = childDate
-        else:
-            if self.date[4]=='-' or self.date.startswith('-'):
-                self.date = datetime.strptime(self.date, "%Y-%m-%d").strftime("%d-%m-%Y")
-        self.uniqueChildren()
+        self.clean()
+
+
+
 
 
 
@@ -188,7 +247,7 @@ class Module:
 
         #children can only be found via the agenda
         #use the value behind the '#ai' as an indicator for the active agenda item
-        if '#' not in self.meeting_url:
+        if self.meeting_url and '#' not in self.meeting_url or self.meeting_url is None:
             return
         agenda_item = self.meeting_url.split('#')[1]
         soup = web.visitPage(self.meeting_url)
@@ -270,6 +329,8 @@ class Module:
                         break
 
         if parent_id is not None:
+            if 'vragenhalfuur' in soup.find('li', id=agenda_item).find('ul', class_='module_items').parent.text.lower():
+                    parent_title = 'Vragenhalfuur'
             if parent_id == self.module_id:
                 print('! parent id and module id are similar. Adding agenda-item as parent')
                 li = soup.find('li', id=agenda_item)
@@ -363,16 +424,234 @@ class Module:
     def clean(self):
         if self.title is None:
             self.title = ''
-        if self.date is None:
-            self.date = ''
-        if self.type is None:
-            self.type = ''
+
+
 
 
         self.uniqueChildren()
+        if self.url and self.url == self.meeting_url:
+            if '/vergadering/' in self.url:
+                self.url = ''
+        if self.url is not None and self.url != '':
+            if self.url[0] == '/':
+                self.url = f'https://raadsinformatie.eindhoven.nl{self.url}'
+        if self.meeting_url is not None:
+            if isinstance(self.meeting_url,dict):
+                for room in self.meeting_url:
+                    if self.meeting_url[room].startswith('/'):
+                        self.meeting_url[room] = f'https://raadsinformatie.eindhoven.nl{self.meeting_url}'
+            else:
+                if self.meeting_url.startswith('/'):
+                    id = int(self.meeting_url.split('vergadering/')[1].split('/')[0])
+                    value = f'https://raadsinformatie.eindhoven.nl{self.meeting_url}'
+                    self.meeting_url = {}
+                    self.meeting_url[id] = value
+
+        if self.meeting_url and not self.meeting_id and 'vergadering' in self.meeting_url:
+            Meeting(self.meeting_url).save()
+        if self.parent==self.module_id:
+            self.parent= None
+        if self.type == 'Raadsvoorstellen':
+            self.type = 'Raadsvoorstel'
+        if self.type is None and 'Raadsvoorstel' in self.title:
+            self.type = 'Raadsvoorstel'
+        if self.member_id:
+            self.member_id = list(set(self.member_id))
+        if self.party_list:
+            self.party_list = list(set(self.party_list))
+        if self.meeting_id:
+            self.meeting_id = list(set(self.meeting_id))
+
+        if self.date is None:
+            if self.children:
+                for child in self.children:
+                    childDate = Module(child).date
+                    if childDate is not None:
+                        self.date = childDate
+        else:
+            if self.date[4]=='-' or self.date.startswith('-'):
+                self.date = datetime.strptime(self.date, "%Y-%m-%d").strftime("%d-%m-%Y")
+        self.uniqueChildren()
+
+        #-- Wel een POHO naam, maar geen POHO id
+        if not self.poho_id and self.poho:
+            poho = Member()
+            poho = poho.getPohoByName(self.poho)
+            self.poho_id = poho.speaker_id
+
+        #-- ALs er geen formele POHO is, maar een POHO wel wordt genoemd
+        if not self.poho and self.text:
+            match = re.search(r"Wethouder (.*?) ", self.text)
+
+            if match:
+                name = match.group(1)  # Extract the name that was matched
+                poho = Member()
+                poho = poho.getPohoByName(name)
+                if poho.role:
+                    self.poho_id = poho.speaker_id
+                    self.poho = poho.name
+
+        #geen video maar wel children met een video
+        if not self.videolink:
+            if self.children:
+                for child in self.children:
+                    childModule = Module(child)
+                    if childModule.videolink:
+                        self.videolink = childModule.videolink
+                        self.videostarttime = childModule.videostarttime
+                        break
 
         return self
 
+
+    def updateScrapeDate(self):
+        self.lastScrapeDate = datetime.now().strftime ("%d-%m-%Y")
+
+    def get_date(self):
+        try:
+            return datetime.strptime(self.date,'%d-%m-%Y').date()
+        except:
+            print('stop')
+
+    def connectToMeeting(self):
+        id = int(self.meeting_url.split('vergadering/')[1].split('/')[0].split('#')[0])
+        if isinstance(self.meeting_id,int):
+            self.meeting_id = [self.meeting_id]
+        if self.meeting_id is None or id not in self.meeting_id:
+            self.meeting_id.append(id)
+        MeetingObj = Meeting(id)
+        if MeetingObj.meeting_url is None:
+            MeetingObj.meeting_url = f'https://raadsinformatie.eindhoven.nl/{id}'
+            MeetingObj.save()
+
+    def addMeetingLink(self,link):
+        #videoLink should be a dictionary
+        if not (isinstance(self.meeting_url, dict)):
+            self.meeting_url = {}
+        if not (isinstance(self.videostarttime, dict)):
+            self.videostarttime = {}
+
+        #get Meeting
+        MeetingObj = Meeting(link)
+
+        # get sub id
+        submeetingid = int(link.split('/')[-1].split('#')[0])
+
+        #Update Module:
+        self.meeting_url[submeetingid] = link
+
+        if MeetingObj.agenda:
+            self.videostarttime[submeetingid] = MeetingObj.getStartTimeFromURLWithId(link)
+
+            #Update Meeting:
+            MeetingObj.addModuleToAgenda(self)
+
+
+
+
+
+
+
+
+
+
+    def getvideostarttime(self):
+        try:
+            MeetingObj = Meeting(self.meeting_url)
+            if MeetingObj.meeting_id not in self.meeting_id:
+                self.meeting_id.append(MeetingObj.meeting_id)
+
+            if not isinstance(self.videostarttime, dict):
+                self.videostarttime = {}
+
+            if MeetingObj.meeting_id not in self.videostarttime:
+                self.videostarttime[MeetingObj.meeting_id] = MeetingObj.getStartTimeFromURLWithId(self.meeting_url)
+                print('added videolink')
+
+        except:
+            self.videostarttime = None
+            self.videolink = None
+        self.save()
+
+    def getMeetingUrl(self):
+        #Ik kies nu gewoon de eerste, hier kan meer slimmigheid komen
+        if isinstance(self.meeting_url,dict) and len(self.meeting_url)>0:
+            meeting_ids = list(self.meeting_url.keys())
+            return self.meeting_url[meeting_ids[0]]
+
+    def chooseVideolink(self):
+        #ik kies nu gewoon de eerste
+        index = 0
+        if self.meeting_id:
+            meeting = Meeting(self.meeting_id[index])
+            if meeting.date:
+                room = meeting.whichRoom(self.meeting_id[index])
+                url  = meeting.video_url[room]
+                if url:
+                    return url.replace('http','https')
+        if self.videostarttime and isinstance(self.videostarttime,dict):
+            keys = list(self.videostarttime.keys())
+            meeting = Meeting(int(keys[0]))
+            if meeting.date:
+                room = meeting.whichRoom(int(keys[0]))
+                if room:
+                    url = meeting.video_url[room]
+                    if url:
+                        return url.replace('http','https')
+        return ''
+
+
+    def chooseVideostarttime(self):
+        if self.videostarttime and isinstance(self.videostarttime,dict):
+            index = 0
+            key = list(self.videostarttime.keys())
+            return self.videostarttime[key[index]]
+        if self.videostarttime and isinstance(self.videostarttime,int):
+            return self.videostarttime
+        else:
+            return 0
+
+
+    def getPdfUrlFromMeetingUrl(self):
+        if not self.meeting_url:
+            return
+        if self.type =='Agenda' or self.type=='Raadsvoorstel' or self.type=='Ordevoorstel':
+            return
+        if isinstance(self.meeting_url,dict):
+            key = list(self.meeting_url.keys())[0]
+            url = self.meeting_url[key]
+        else:
+            url = self.meeting_url
+        soup = web.visitPage(url)
+
+        if '-' in self.title:
+            lastPartOfTitle = self.title.split('-')[-1]
+        else:
+            #splits op A1, A3 etc.
+            match = re.findall(r'(A\d+)', self.title)
+
+            if match:
+                lastPartOfTitle = match[-1]  # Take the last occurrence if found
+            else:
+                lastPartOfTitle = self.title
+
+
+        for documents in soup.findAll('span','document_title'):
+            if lastPartOfTitle in documents.text:
+                if 'href' in documents.parent.attrs:
+                    self.pdf_url = documents.parent['href']
+                    return
+                else:
+                    sublink = documents.parent.find('a')
+                    if sublink and 'href' in sublink.attrs:
+                        self.pdf_url = sublink['href']
+                        return
+
+
+
+
+
+        print(f'no pdf was found for {self.module_id} {self.title}')
 
 
 

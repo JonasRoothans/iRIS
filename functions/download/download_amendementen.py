@@ -3,6 +3,7 @@ import glob
 from classes.module import Module
 from functions.download import web
 from functions.support import cwdpath
+from datetime import datetime
 
 def list_files_with_prefix(directory, prefix):
     full_paths =  glob.glob(os.path.join(directory, f'{prefix}*'))
@@ -51,12 +52,23 @@ def find_attachment_from(id, soup, real_title):
 
 
 
-def download_amendementen(driver):
+def download_amendementen(driver,start_date):
     files = list_files_with_prefix(cwdpath(os.path.join('json','modules')), 'a_')
     for file in files:
         m = Module(file)
+        date_format = '%d-%m-%Y'
+        if datetime.strptime(m.date,date_format) < start_date:
+            continue
         if m.meeting_url is not None:
-            soup = web.visitPageWithDriver(driver,m.meeting_url)
+            if isinstance(m.meeting_url,dict):
+                #Ik neem aan dat er 1 key is, want een amendement is alleen op de raadsvergadering
+                key = list(m.meeting_url.keys())[0]
+                url = m.meeting_url[key]
+            else:
+                url = m.meeting_url
+
+
+            soup = web.visitPageWithDriver(driver,url)
             span = soup.find('span',string = m.title)
 
             title = soup.find('div',id=f'chart_{m.vote_id}').find_parent('li').find_parent('li').attrs['data-title']
@@ -70,6 +82,7 @@ def download_amendementen(driver):
                 print(f'{m.title} connected to: {title}')
             m.pdf_url = find_attachment_from(m.vote_id, soup, extract_real_title(m.title))
             m.type = 'Amendement'
+            m.updateScrapeDate()
             m.save()
 
 

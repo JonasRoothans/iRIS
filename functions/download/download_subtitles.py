@@ -7,7 +7,7 @@ def download_subtitles():
     starting_date = "2024-09-01"
     ending_date = datetime.today().strftime('%Y-%m-%d')
     organisation = 686
-    gremia = 1011
+    gremia = 1011 #12330 is raadsavond
     page = 1
     pages = 1
 
@@ -30,7 +30,8 @@ def download_subtitles():
             event_api = 'https://'+event['self']+'?format=json'
 
             s = Sub()
-            s.add_speakers_from_eventAPI(event_api)
+            s.getAPImeta(event_api)
+
             s.save()
 
 
@@ -43,4 +44,5 @@ def download_subtitles():
 
 
 if __name__ == "__main__":
+    download_subtitles()
     print("Nested code only runs in the top-level code environment")

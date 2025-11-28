@@ -1,0 +1,942 @@
+ body {
+                            background-color: #fafafa;
+                            font-family: 'Roboto', sans-serif;
+                            margin:0;
+                            padding:0;
+                            }
+
+                        #raadsvergaderingvideo {
+                            margin:auto;
+                            }
+
+                        .panel {
+                            background-color: rgba(128,128,200,0.2);
+                            margin: 5px;
+                            border: 1px solid rgba(0, 0, 0, 0.1);
+                            border-radius: 5px; /* Rounded corners */
+                            box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Subtle shadow */
+                            padding: 20px; /* Optional padding */
+                            background-color: #ffffff; /* Optional background for visibility */
+                            position:relative;
+                            transform: translateY(0px);
+                            transition: transform 0.2s, box-shadow 0.2s;
+                        }
+
+                        .panel:hover{
+                        box-shadow: 0px 10px 12px rgba(0, 0, 0, 0.2);
+                         transform: translateY(-8px);
+                        }
+
+
+
+                        h1 {
+                            font-size: 30px;
+                            font-weight:700;
+                            margin-bottom: 10px;
+                            margin-top: 20px;
+                            line-height:48px;
+                            margin-left:20px;
+                        }
+                        p {
+                            margin: 5px 0;
+                        }
+
+                        .links {
+                            margin:10px;
+                            font-size: 15px;
+                            background-color:#fafafa;
+                            color:#484848;
+                            text-align: right;
+                        }
+
+                        a {
+                            color:#484848;
+                            margin:5px;
+                            }
+
+                        a {
+                            text-decoration:none !important;
+                        }
+
+                        a:hover {
+                            background-color: rgba(200,200,200,0.5); /* Uses the current text color */
+                             /* Makes it a very light shade of the text color */
+                            }
+
+                        #textwrap a{
+                        margin:0px;
+                        }
+
+
+                        #dark {
+                        background-color:gray;
+                            }
+
+
+                        #child {
+                            background-color: rgba(256,256,256,1);
+                            }
+
+                        #master {
+                            max-width:900px;
+                            margin:auto;
+                            }
+
+                        .children {
+                                max-width:800px;
+                                margin:auto;
+                                }
+                        .horizontal {
+                            display: flex;
+                            gap: 10px;
+                            justify-content:center;
+                            align-items:center;
+                            }
+
+                        .type {
+                            font-weight: bold;
+                            color: #333333;
+                            margin-right: 10px;
+                            margin-bottom: 10px;
+                            padding:5px;
+                            font-size: 0.8em;
+                            border-radius: 5px;
+                            /*background-color:white !important;*/
+                            width:100%;
+                            }
+
+                        .ingetrokkennatoezegging {
+                            color:#77cc77;
+                            }
+                        .ingetrokken{
+                            color:#999999;
+                            }
+                        .raadsvoorstel{
+                            color: #999999;
+                            /*background-color:#999999;*/
+                            }
+
+                        .raadsvraag{
+                            color:#f3b43f;
+                            }
+
+                        .unknown {
+                            color:#555555;}
+
+                        .aangenomen {
+                            color:#77cc77;
+                            }
+
+                        .afgerond {
+                            color:#77cc77;
+                            }
+
+                        .verworpen {
+                            color:#ff9999;
+                            }
+
+                        .toezegging {
+                            color:#88bbff;
+                            /*background-color:#88bbff;*/
+                            }
+
+                        .brief {
+                            color:#aa88ff;
+                            /*background-color:#aa88ff;*/
+                            }
+
+                        .title {
+                            color: #333333;
+                            font-size: 1.2em;
+                            margin-top:10px;
+                            display: block;
+                            }
+
+                        .date {
+                            color: #ffffff;
+                            background-color: #333333;
+                            padding:5px;
+                            font-size: 0.8em;
+                            }
+
+                        .collapsible {
+                            /* max-height: 25px; Initial collapsed height */
+                            overflow: hidden; /* Ensure text is clipped when collapsed */
+                            cursor: pointer;
+                        }
+
+                        .collapsible + .expanded {
+                            cursor: auto;
+                             transform: translateY(0px);
+
+                        }
+
+                        p {
+                            margin-top:20px;
+                            }
+
+                        .collapsible.expanded {
+                            /* max-height: 500px;  Fully expanded height */
+                            flex: 1 0 100%;
+                            max-width:80%;
+                            overflow: hidden;
+                            margin-top:20px;
+                            margin-bottom:20px;
+                            background-color:white;
+                             }
+
+                        /* Special expanded behavior for the element with id "child" */
+                        #child.collapsible.expanded {
+                            max-width: 100%; /* Override the max-width specifically for #child */
+                        }
+
+                        .scrollable {
+                            max-height: 80vh; /* Set maximum height for the div */
+                            max-width: 600px;
+                            margin:auto;
+                            overflow-y: auto; /* Add a vertical scroll bar when content overflows */
+                            padding: 10px; /* Add some padding inside the div */
+                            border: 0px solid #ccc; /* Optional: border for better visibility */
+                            background-color: #ffffff; /* Optional: background color for visibility */
+                            color: #6f6f71;
+                            font-size: 14px;
+                            font-weight: 400;
+                            }
+
+                        .hidden-content {
+                            display:none !important;
+                            }
+
+                        .hidden-content.show {
+                            display: block !important;
+                            }
+                        .hidden-content.showflex{
+                            display:flex !important;
+                            }
+
+                        #kwlist{
+                            margin-left:40%;
+                            }
+
+                        .wrapper {
+                            display:flex;
+                            flex-wrap: wrap;
+                            gap: 10px;
+                            margin-top: 180px;
+                            /*align-items:center;*/
+                            justify-content:center;
+                            }
+
+                        .wrapper-no-margin{
+                            display:flex;
+                            flex-wrap: wrap;
+                            gap: 10px;
+                            margin-top: 10px;
+                            /*align-items:center;*/
+                            justify-content:center;
+                        }
+
+                        .gewijzigd{
+                            background-color:rgba(243,180,63,0.5);
+                            padding:5px;
+                            margin-top:5px;
+                            border-radius: 20px; /* Rounded corners */
+                            display:block;
+                            text-align:center;
+                            transition: background-color 0.3s;
+                        }
+
+                        .gewijzigd:hover {
+                            background-color:rgba(94,67,243,0.5);
+                            transition: background-color 0s
+                            }
+
+
+                        .splash-screen-background {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    backdrop-filter: blur(10px); /* Blurs everything behind this */
+    background-color: rgba(255, 255, 255, 0.6); /* Adds semi-transparent white */
+    z-index: 999; /* Ensures this background is above everything else */
+}
+
+.splash {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); /* Centers the div */
+    width: 300px; /* Set a fixed width for elegance */
+    padding: 20px; /* Adds internal spacing */
+    color: #000; /* Ensure text is black or readable */
+    background-color: #fff; /* White splash div */
+    border-radius: 20px; /* Rounded corners */
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2); /* Add subtle shadow for elegance */
+    text-align: center; /* Center-align text */
+    z-index: 1000; /* Ensure the splash is above the blur background */
+}
+
+
+
+                        .wrapper-no-margin h1 {
+                            flex-basis: 100%; /* Make the h1 take 100% of the container width */
+                            text-align: center; /* Center the text horizontally */
+                            margin-bottom: 20px; /* Add spacing below the h1 for visual clarity */
+                        }
+
+                        #photos {
+                        margin-top:10px;
+                        padding:auto;
+                        }
+
+                        #parentcontainer{
+                        margin:30px;
+                        background-color:rgba(243,180,63,0.5);
+                        padding:20px;
+                        }
+
+                        #parent:hover{
+                        background-color:rgba(243,180,63,1);
+                        transition: background-color 0.1s ease-in;
+                        }
+
+                        #relatedcontainer{
+                        background-color:rgba(94,67,243,0.5);
+                        }
+
+
+                            #vote_box {
+                                display: flex !important;            /* Use flexbox to align child elements in a row */
+                                width: 100%;              /* Ensure the container (`#vote_box`) spans the full width */
+                                padding:5px;
+                            }
+
+                            #vote {
+                                /*padding: 10px;            /* Add padding */
+                                flex-grow: 1;             /* Allow each `#vote` div to grow proportionally based on content */
+                                text-align: center;       /* Center-align text inside the vote divs */
+                                font-size:8pt;
+                                border: 1px white solid;
+                                color: white;
+                                display: grid; /* Establish Grid container */
+                                place-items: center;
+                            }
+
+
+                        .box {
+                            flex: 1 1 300px; /* Default: Take up 50% of the viewport width */
+                            max-width: 300px; /* Dynamically adjust width */
+                            padding: 10px;
+
+                            }
+
+                        .keywords {
+                            display:none;
+                            }
+
+
+
+
+
+
+                        .box.focus {
+                            max-width:80vw;
+                            }
+
+                        @media screen and (max-width: 1000px) {
+                            .box {
+                                flex: 1 1 calc(50% - 40px); /* Divide into 2 per row */
+                                max-width: calc(50% - 40px); /* Account for horizontal gap */
+
+                            }
+                        }
+
+
+
+                        .date_box {
+                            width: 100%;               /* Full width */
+                            /*position: relative;        /* Enables absolute positioning inside the div */
+                            /*background-color: lightgray; /* Example background color (optional) */
+                            /*border: 1px solid black;   /* Optional border for visibility */
+                            flex-wrap:wrap;
+                            display:flex;
+                            margin-top:20px;
+                        }
+                        .date_box_header {
+                            width:100%;
+                            position: sticky;          /* Sticky positioning keeps the header at the top */
+                            top: 86px;                    /* Stick to the top of the viewport */
+                            background: rgba(255,255,255, 0.95);
+                            padding: 10px;             /* Add some space around the text */
+                            font-size: 30px;           /* Style the font */
+                            z-index:8;
+                            /*border-bottom: 1px solid gray; /* Optional border below header */
+                            }
+
+                        .wrapper h1 {
+                            flex-basis: 100%; /* Span full width */
+                            margin: 0;
+                            font-size: 1.8em;
+                            text-align: center;
+                            }
+                        }
+                        .highlight {
+                            color: #330000; /* Change this to your preferred color */
+                            font-weight: bold; /* Make the keyword stand out */
+                        }
+
+                        #yellowtext {
+                        color: rgba(243,180,63,1);}
+
+                        #purpletext{
+                        color:rgba(0,0,0,0.6);
+                        }
+
+
+
+                        /* Styling a header or container for the search box */
+    .search-header {
+      background-color: #f3f3f3; /* Light background to differentiate */
+      padding: 20px; /* Space inside the container */
+      text-align: center; /* Center everything */
+      position:sticky;
+      top:0;
+      margin-top:0px;
+      z-index:10;
+    }
+
+    #larger {
+        font-size:1.2rem;
+    }
+
+    .full-screen-loader{
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw !important;
+  height: 100vh !important;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+  background-color: white;
+
+}
+
+.full-screen-loader .logo {
+  max-width: 200px;
+  margin-bottom: 20px;
+}
+
+
+    .last-update {
+            position: absolute; /* Use 'fixed' to ensure the div stays in the top-right corner even during scrolling */
+            top:150px;
+            bottom: 10px;       /* Margin from the top */
+            right: 15px;     /* Margin from the right */
+            font-size:12px;
+            height:40px;
+    }
+
+    #hide-during-loading {
+    opacity:0;
+    }
+    #hide-during-loading2{
+    opacity:0;
+    }
+
+    /* Styling the search input field */
+    #searchbox {
+      width: calc(100% - 40px); /* Make it nearly full-width with some margins */
+      max-width: 800px; /* Optional: Keep a max width for very large screens */
+      font-size: 1rem; /* Large font for prominence */
+      padding: 10px 15px; /* Add internal space for better UX */
+      border: 2px solid #ccc; /* Subtle border */
+      border-radius: 20px; /* Rounded edges */
+      outline: none; /* Remove default focus outline */
+      box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1); /* Slight shadow for depth */
+      transition: border-color 0.3s, box-shadow 0.3s; /* Smooth hovering */
+    }
+
+    /* Styling the search input on focus */
+    #searchbox:focus {
+      border-color: #5320d0; /* Highlight border on focus */
+      box-shadow: 0 0 8px rgba(83, 32, 208, 0.5); /* Add glow effect */
+    }
+
+    /* Optional: Styling the placeholder text */
+    #searchbox::placeholder {
+      color: #aaa; /* Lighter grey for placeholder text */
+      font-style: default; /* Italicize placeholder */
+    }
+
+    /* Add some spacing to elements following the searchbox */
+    .search-header + * {
+      margin-top: 30px;
+    }
+
+
+  #jump-link {
+    margin: auto;                      /* Centers the element horizontally */
+    margin-top: 20px;                  /* Adds some spacing above the element */
+    background-color: #593aed;          /* Background color of the button */
+    color: white;                     /* Text color */
+    padding: 10px;                     /* Creates spacing inside the button */
+    text-align: center;                /* Centers the text inside the button */
+    display: inline-block;             /* Makes it behave like a button */
+    border-radius: 5px;                /* Rounded edges */
+    cursor: pointer;                   /* Changes the cursor to a hand icon */
+    text-decoration: none;             /* Removes underline from the link */
+}
+#jump-link:hover {
+background-color:#7041cd;
+transition: background-color 0.2s ease}
+
+.back-to-top {
+    position: sticky;
+    bottom: 20px; /* Stick at the bottom of the viewport when user scrolls */
+    right: 20px; /* Adds margin from the right side of the viewport */
+    margin-top: 500vh; /* Start positioned 20% below the viewport height */
+    background-color: #FFFFFF; /* Background color */
+    color: black; /* Text color */
+    padding: 10px 20px; /* Padding for the button */
+    border-radius: 5px; /* Rounded corners */
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2); /* Optional shadow for good visibility */
+    text-decoration: none; /* Remove underline from link */
+    pointer-events: auto; /* Ensure the button is clickable */
+    z-index: 15; /* Lower z-index than .header */
+    display: inline-block;
+}
+
+
+/* Header styling */
+.header {
+    display: flex; /* Flexbox for easy centering */
+    flex-direction: column;
+    justify-content: center; /* Center the child horizontally */
+    align-items: center; /* Center the child vertically */
+    height:200px;
+    background-color: #ffffff; /* Optional background color */
+    border-bottom: 2px solid #ccc; /* Optional border below header */
+    transition: height 0.3s ease; /* Smooth animation */
+    position: relative; /* Needed for absolute positioning of child elements */
+}
+
+/* Styling for the logo image */
+.center-logo {
+    max-height: 100px;
+    max-width: 100%;
+    padding:100px;
+}
+
+
+iframe {
+width:80vw;
+height:80vh;}
+
+.member img {
+       width: calc(0.7*180px);
+        height: calc(0.7*240px);
+       border-radius: 5px; /* Rounded edges */
+       margin-bottom:5px;
+   }
+   #grote-foto {
+   width:180px;
+   height:240px;
+   border-radius:20px;}
+
+   h3 {
+   margin-left:50px;
+   font-size:1rem;
+   margin-bottom:0px;
+   }
+
+
+ #textwrap {
+    max-width: calc(0.7*180px);
+    font-size: 0.8rem;
+    text-align: center;
+    margin-top:-5px;}
+
+ #laatstecheck{
+ text-align:right;
+ font-size:12px;}
+
+.close-container {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  gap: 10px;
+}
+
+.close-button {
+  display: none;
+  background: #f44336;
+  color: white;
+  border: none;
+  border-radius: 3px;
+  padding: 5px 10px;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.fav {
+  background: none;
+  color: #444;
+  border: none;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.fav:hover {
+  color: gold;
+}
+.favoriet {
+color:gold;
+}
+
+.filterfavs {
+  cursor: pointer;
+  /* Make transformations smooth */
+  transition: transform 0.3s ease-in-out;
+  display: inline-block; /* Needed for transform to work correctly */
+}
+
+/* Animate when the mouse hovers over it */
+.filterfavs:hover {
+  transform: rotate(72deg);
+  color:gold;
+}
+
+.collapsible.expanded .close-button {
+  display: inline-block;}
+
+.slachthuis-ad {
+    width: 320px;
+    height: 128px;
+    border-radius: 5px; /* Rounded corners */
+    overflow: hidden; /* Clip overflowing content */
+    margin: 5px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    padding: 0px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Subtle shadow */
+    position: relative; /* Necessary for child positioning */
+}
+
+.slachthuis-ad a{
+margin:0px;}
+
+.ad-door {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: 2;
+    transition: transform 0.5s ease-in-out; /* Smooth "door-going-up" animation */
+}
+
+.ad-gif {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: 1;
+    display: none; /* Initially hidden */
+}
+
+.slachthuis-ad:hover .ad-door {
+    transform: translateY(-100%); /* Moves the door up */
+}
+
+/* When user stops hovering, door instantly resets */
+.slachthuis-ad .ad-door:not(:hover) {
+    transition: transform 0s; /* Instantly snap back down */
+}
+
+.slachthuis-ad:hover .ad-gif {
+    display: block; /* Reveals the GIF */
+}
+
+.blinking-ad {
+        width: 320px;
+        height: 128px;
+        border-radius: 5px; /* Rounded corners */
+        overflow: hidden; /* Clip overflowing content */
+        margin: 5px;
+        border: 1px solid rgba(0, 0, 0, 0.1);
+        box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Subtle shadow */
+        padding: 0px;
+        transform: translateY(0px);
+        transition: transform 0.2s, box-shadow 0.2s;
+
+
+    }
+    .blinking-ad a {
+        display: block; /* Make the whole div clickable */
+        width: 100%;
+        height: 100%;
+        text-decoration: none; /* No underline for the link */
+        margin:0px;
+    }
+
+    .blinking-ad:hover {
+        box-shadow: 0px 10px 12px rgba(0, 0, 0, 0.2);
+        transform: translateY(-8px);
+    }
+
+
+    .blinking-ad img {
+        width: 100%;
+        height: 100%;
+        border-radius: 5px; /* Rounded edges for the GIF */
+    }
+
+ #splash  {
+    background-color: #e0e0e0; /* Light gray background */
+    color: #333; /* Darker gray text */
+    border: none; /* Remove default border */
+    border-radius: 12px; /* Rounded edges */
+    padding: 10px 20px; /* Internal spacing */
+    margin: 10px 5px; /* External spacing */
+    font-size: 16px; /* Readable text size */
+    cursor: pointer; /* Pointer cursor on hover */
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Subtle drop shadow for nice aesthetics */
+    transition: background-color 0.3s, transform 0.1s; /* Smooth animations for hover effects */
+}
+
+#splash:hover {
+    background-color: #d6d6d6; /* Slightly darker gray for hover */
+    transform: scale(1.05); /* Slight zoom effect */
+}
+
+#splash:active{
+    background-color: #bababa; /* Even darker for active (clicking) effect */
+    transform: scale(0.95); /* Slight shrink during click */
+}
+
+    .attachments {
+    list-style: none; /* Remove default bullet */
+    padding: 0; /* Remove default padding */
+    margin: 0; /* Remove default margin */
+}
+
+.attachments li {
+    display: flex; /* Use flexbox for better alignment */
+    align-items: center; /* Center icon and text vertically */
+    margin-bottom: 8px; /* Optional spacing between items */
+}
+
+.pdf-icon {
+    margin-right: 8px; /* Add spacing between the icon and text */
+    vertical-align: middle; /* Ensure icon aligns with text */
+}
+
+/* Container spans the entire page */
+#animal-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none; /* Prevent interference with clicks */
+    z-index: 9999; /* Ensure emojis are on top of everything */
+}
+
+/* Individual animal emojis */
+.animal {
+    position: absolute; /* Positioned relative to the page */
+    font-size: 48px; /* Make emojis large and visible */
+    transform-origin: center; /* Rotate around the emoji's center */
+    transition: transform 0.2s ease; /* Smooth rotation */
+    pointer-events: none; /* Prevent interaction with emojis */
+}
+
+/* Bottom sliding box */
+#bottom-box {
+    position: fixed;
+    bottom: -100px; /* Initially hidden below the viewport */
+    left: 0;
+    width: 100%;
+    background-color: #333;
+    color: #fff;
+    font-size: 16px;
+    text-align: center;
+    line-height: 1.5;
+    padding: 10px; /* Little margin */
+    box-shadow: 0px -2px 5px rgba(0, 0, 0, 0.2);
+    transition: bottom 0.5s ease; /* Smooth sliding animation */
+    z-index: 9999; /* Ensure it's above everything */
+}
+
+/* Box is visible */
+#bottom-box.visible {
+    bottom: 0; /* Slide into view */
+}
+
+/* General container for the chart */
+        .chart {
+            display: flex;
+            flex-direction: column;
+            gap: 5px; /* Space between rows */
+            font-family: Arial, sans-serif;
+            width: 800px;
+            margin: auto;
+            margin-top:20px;
+
+        }
+
+        .photo-container {
+    position: relative; /* Enable positioning child elements (span) relative to this container */
+    /*display: inline-block; /* Keep the images inline */
+    width: 150px; /* Set a fixed width (or adjust as needed) */
+    height: auto; /* Maintain the aspect ratio of the image */
+    overflow: hidden;
+    cursor: pointer; /* Show pointer cursor for interactivity */
+    border-radius: 20px; /* Rounded edges */
+
+}
+
+/* The image */
+img#index-foto {
+    display: block; /* Avoid extra space under the image due to inline-block behavior */
+    width: 100%; /* Make image take full width of container */
+    height: auto; /* Maintain the aspect ratio */
+    transition: opacity 0.3s ease; /* Smooth fade-out of the image on hover */
+}
+
+/* The info text (initially at the bottom) */
+.photo-info {
+    position: absolute; /* Positioned relative to the container */
+    bottom: 0; /* Start at the bottom of the image */
+    left: 0; /* Stretch across the image horizontally */
+    right: 0;
+    background-color: #4c20bf; /* Use the solid background color passed in via "style" */
+    color: white; /* Text color */
+    text-align: center; /* Center the text horizontally */
+    padding: 5px; /* Add padding for readability */
+    font-size: 14px; /* Adjust font size as necessary */
+    z-index: 1; /* Ensure text is above the image */
+    transition: all 0.3s ease; /* Smooth background and positional animations */
+}
+
+/* Hover state: Cover the entire image */
+.photo-container:hover .photo-info {
+    top: 50%; /* Center text vertically */
+    bottom: auto; /* Remove the original bottom positioning */
+    transform: translateY(-50%); /* Center text vertically using transform */
+    /*background-color: rgba(76, 32, 191, 0.5); Semi-transparent background */
+
+}
+
+/* Hover state: Fade the image (optional) */
+.photo-container:hover img#index-foto {
+    opacity: 0.2; /* Dim the image under the semi-transparent background */
+}
+
+.photo-backgroundcolor {
+        position:absolute;
+        bottom:0;
+        left:0;
+        right:0;
+        top:0;
+        z-index:-5;
+
+
+}
+
+.menu {position: absolute; /* Absolute position relative to the header */
+    bottom: 10px; /* Place the menu a few pixels above the header's bottom edge */
+
+    line-height: 1.5; /* Adjust spacing between links */
+    display: flex;
+    gap: 10px; /* Add space between menu items */
+
+
+    }
+
+        /* Each row (party + bar) */
+        .row {
+            display: flex;
+            align-items: center;
+        }
+
+        /* Left column for party names */
+        .party-name {
+            flex: 0 0 100px; /* Fixed width for party names */
+            text-align: right;
+            margin-right: 10px; /* Spacing between name and bar */
+
+        }
+
+        /* Right side bar container */
+        .bar-container {
+            display: flex;
+            flex-grow: 1; /* Take up remaining space */
+            height: 20px; /* Height of the bar */
+            background-color: #f0f0f0; /* Light background for the entire bar */
+            position: relative;
+            overflow: hidden; /* Ensure nothing overflows */
+        }
+
+        /* Segments in the stacked bar */
+        .bar-segment {
+            height: 100%; /* Take full height of the bar */
+            pointer-events: auto; /* Ensure clicks are enabled */
+            cursor: pointer;      /* Optional: Show a pointer cursor for clickable elements */
+
+        }
+
+        /* Specific colors for each segment */
+        .graph_ingetrokken {
+            background-color: #e9b656; /* Red */
+        }
+        .graph_toezegging {
+            background-color: #5034de; /* Orange */
+        }
+        .graph_aangenomen {
+            background-color: #18c023; /* Green */
+        }
+        .graph_verworpen {
+            background-color: #c01818; /* Blue */
+        }
+
+        /* Show percentage in segments */
+        .bar-segment span {
+            color: white; /* Text overlay color */
+            font-size: 12px;
+            text-align: center;
+            line-height: 20px;
+            display: block;
+            text-shadow: 0 0 3px black;
+        }
+
+        .bar-segment:hover {
+        opacity:0.5;}
+
+
+ /* Adjust to 1 per row (Mobile or small screens) */
+                        @media screen and (pointer:coarse) {
+                            .box {
+                                flex: 1 1 100%; /* Take the full width */
+                                max-width: 100%; /* Full width of the parent container */
+                                font-size: 1rem;
+                            }
+                            #searchbox{
+                                font-size: 2rem;
+                                }
+
+                            span {
+                                font-size:2rem;
+                                }
+                            .title {
+                            display:block;}
+
+                            .back-to-top {
+                            font-size:2rem;}
+
+
+                        }

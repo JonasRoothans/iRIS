@@ -18,6 +18,7 @@ def setup_driver():
     chrome_options.add_argument('--headless')  # Run headless Chrome
     chrome_options.add_argument('--disable-gpu')
 
+
     # Specify the path to the ChromeDriver
     chromedriver_path = 'functions/download/chrome/chromedriver'
 
@@ -33,7 +34,8 @@ def teardown_driver(driver):
 def visitPage(url):
     #print(f"Scraping: {url}")
     response = requests.get(url)
-    response.raise_for_status()  # Check that the request was successful
+    if not response.ok:
+        print(f"{url}: did not load correctly")
 
     #Parse the HTML content of the main page
     soup = BeautifulSoup(response.content, 'html.parser')
@@ -45,20 +47,33 @@ def visitPageWithDriver(driver,url):
     soup = BeautifulSoup(page_source, 'html.parser')
     return soup
 
-def visitPageAndWaitForPolitiekPortaal(driver,url):
+def visitPageAndWaitForPolitiekPortaal(driver, url):
     driver.get(url)
     try:
-        # Here we wait up to 30 seconds for an element in 'politiek-portaal' to contain the dynamic content
+        # Wait for the element with the `politiek-portaal` selector to ensure the dynamic content is starting to load
         WebDriverWait(driver, 30).until(
-            EC.presence_of_element_located((By.CSS_SELECTOR, "politiek-portaal "))
+            EC.presence_of_element_located((By.CSS_SELECTOR, "politiek-portaal"))
         )
 
-        # Wait for the text 'Hoofddocument' within 'politiek-portaal' for an additional assurance it's loaded
+        # Wait for the text 'Hoofddocument' within 'politiek-portaal' for assurance the content is fully loaded
         WebDriverWait(driver, 30).until(
             EC.presence_of_element_located((By.XPATH, "//*[contains(text(), 'Hoofddocument')]"))
         )
 
-        print("Page loaded, and 'Hoofddocument' is present")
+        # Wait until the 'loading-text' class is no longer present in the DOM
+        WebDriverWait(driver, 30).until(
+            EC.invisibility_of_element_located((By.CLASS_NAME, "text-loading"))
+        )
+
+        WebDriverWait(driver,30).until(
+            EC.presence_of_element_located((By.CLASS_NAME,'modules-public-app-history-documents'))
+        )
+
+        #WebDriverWait(driver, 30).until(
+        #    EC.presence_of_element_located((By.TAG_NAME, 'shared-timeline'))
+        #)
+
+        print("Page loaded, 'Hoofddocument' is present, and 'loading-text' is no longer visible.")
 
         # Now that the content is fully loaded, retrieve the page source
         page_source = driver.page_source
@@ -66,18 +81,117 @@ def visitPageAndWaitForPolitiekPortaal(driver,url):
         # Use BeautifulSoup to parse the fully rendered HTML content
         soup = BeautifulSoup(page_source, 'html.parser')
         return soup
-    except:
-        # Wait for the text 'Hoofddocument' within 'politiek-portaal' for an additional assurance it's loaded
+
+    except Exception as e:
+        print(f"An error occurred: {e}")
+
+        # Wait for the text 'Raadsbesluit' as a fallback
         WebDriverWait(driver, 30).until(
             EC.presence_of_element_located((By.XPATH, "//*[contains(text(), 'Raadsbesluit')]"))
         )
 
-        print("Page loaded, and 'Raadsbesluit' is present")
+        # Wait until the 'loading-text' class is no longer visible (fallback case)
+        WebDriverWait(driver, 30).until(
+            EC.invisibility_of_element_located((By.CLASS_NAME, "loading-text"))
+        )
+
+        print("Page loaded, 'Raadsbesluit' is present, and 'loading-text' is no longer visible.")
+
+        # Now retrieve the page source
+        page_source = driver.page_source
+
+        # Parse the HTML content using BeautifulSoup
+        soup = BeautifulSoup(page_source, 'html.parser')
+        return soup
+
+def visitPageAndWaitForVraag(driver, url):
+    driver.get(url)
+    try:
+
+        # Wait until the 'loading-text' class is no longer present in the DOM
+        WebDriverWait(driver, 30).until(
+            EC.presence_of_element_located((By.CLASS_NAME, "list-item"))
+        )
+
+        print("Page loaded, 'Vraag' is present")
 
         # Now that the content is fully loaded, retrieve the page source
         page_source = driver.page_source
 
         # Use BeautifulSoup to parse the fully rendered HTML content
+        soup = BeautifulSoup(page_source, 'html.parser')
+        return soup
+
+    except Exception as e:
+        print(f"An error occurred: {e}")
+
+        # Wait until the 'loading-text' class is no longer present in the DOM
+        WebDriverWait(driver, 30).until(
+            EC.presence_of_element_located((By.CLASS_NAME, "list-item"))
+        )
+
+        print("Page loaded, 'Raadsbesluit' is present, and 'loading-text' is no longer visible.")
+
+        # Now retrieve the page source
+        page_source = driver.page_source
+
+        # Parse the HTML content using BeautifulSoup
+        soup = BeautifulSoup(page_source, 'html.parser')
+        return soup
+
+
+def visitPageAndWaitMetaInfo(driver, url):
+
+    try:
+        visitPage(url)
+    except:
+        return None
+
+
+    driver.get(url)
+    try:
+        # Wait for the element with the `politiek-portaal` selector to ensure the dynamic content is starting to load
+        WebDriverWait(driver, 30).until(
+            EC.presence_of_element_located((By.CSS_SELECTOR, "politiek-portaal"))
+        )
+
+        WebDriverWait(driver,30).until(
+            EC.presence_of_element_located((By.ID,'module-item-details'))
+        )
+
+        # Wait until the 'loading-text' class is no longer present in the DOM
+        WebDriverWait(driver, 30).until(
+            EC.invisibility_of_element_located((By.CLASS_NAME, "text-loading"))
+        )
+
+
+
+        # Now that the content is fully loaded, retrieve the page source
+        page_source = driver.page_source
+
+        # Use BeautifulSoup to parse the fully rendered HTML content
+        soup = BeautifulSoup(page_source, 'html.parser')
+        return soup
+
+    except Exception as e:
+        print(f"An error occurred: {e}")
+
+        # Wait for the text 'Raadsbesluit' as a fallback
+        WebDriverWait(driver, 30).until(
+            EC.presence_of_element_located((By.XPATH, "//*[contains(text(), 'Raadsbesluit')]"))
+        )
+
+        # Wait until the 'loading-text' class is no longer visible (fallback case)
+        WebDriverWait(driver, 30).until(
+            EC.invisibility_of_element_located((By.CLASS_NAME, "loading-text"))
+        )
+
+        print("Page loaded, 'Raadsbesluit' is present, and 'loading-text' is no longer visible.")
+
+        # Now retrieve the page source
+        page_source = driver.page_source
+
+        # Parse the HTML content using BeautifulSoup
         soup = BeautifulSoup(page_source, 'html.parser')
         return soup
 
