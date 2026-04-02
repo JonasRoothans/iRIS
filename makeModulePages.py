@@ -328,6 +328,8 @@ def makeDivForModule(m,id_,cls_,doc=None):
         elif 'raadsvraag' in m.type.lower():
             new_class = 'raadsvraag'
             a(span(m.type, cls='type raadsvraag'), href=f'{m.module_id}.html',target="_blank")
+        elif 'vraag' in m.type.lower():
+            a(span(m.type, cls='type rondvraag'), href=f'{m.module_id}.html', target="_blank")
 
         else:
             new_class = 'unknown'
@@ -343,11 +345,20 @@ def makeDivForModule(m,id_,cls_,doc=None):
 
 
         if m.title:
-            titel = m.title.replace('Raadsvoorstel', '').replace('Collegebrief','').replace('Raadsinformatiebrief','').replace('Burgemeesterbrief','').replace('aan de raad over','').replace('aan de leden van de raad over','').replace('Beantwoording raadsvragen -','').replace('Ingekomen raadsvragen -','').replace('Beantwoording raadsvragen','').replace('Ingekomen Raadsvragen -','').replace('Ingekomen vervolg raadsvragen -','')
-            if not 'estemmingsplan' in titel and '(' in titel and ')' in titel.split('(')[1]:
-                texta = titel.split('(')[0] or ''
-                textb = titel.split(')')[1] or ''
-                titel = f'{texta} {textb}'
+            if 'Vragenhalfuur' in m.title.split('-')[0] or 'Rondvraag' in m.title.split('-')[0]:
+                if '-' in m.title:
+                    titel = m.title.split('-')[1]
+                else:
+                    titel = m.title
+
+
+            else:
+                titel = m.title.replace('Raadsvoorstel', '').replace('Collegebrief','').replace('Raadsinformatiebrief','').replace('Burgemeesterbrief','').replace('aan de raad over','').replace('aan de leden van de raad over','').replace('Beantwoording raadsvragen -','').replace('Ingekomen raadsvragen -','').replace('Beantwoording raadsvragen','').replace('Ingekomen Raadsvragen -','').replace('Ingekomen vervolg raadsvragen -','')
+                if not 'estemmingsplan' in titel and '(' in titel and ')' in titel.split('(')[1]:
+                    texta = titel.split('(')[0] or ''
+                    textb = titel.split(')')[1] or ''
+                    titel = f'{texta} {textb}'
+
             span(raw(fancy(titel)), escape=False, cls='title')
 
         if 'gewijzigd' in id_:
