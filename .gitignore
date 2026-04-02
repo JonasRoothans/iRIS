@@ -166,3 +166,4 @@ cython_debug/
 
 *.json
 *.html
+/Presentation/htmls/Cyberduck.app

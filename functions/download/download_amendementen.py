@@ -71,7 +71,11 @@ def download_amendementen(driver,start_date):
             soup = web.visitPageWithDriver(driver,url)
             span = soup.find('span',string = m.title)
 
-            title = soup.find('div',id=f'chart_{m.vote_id}').find_parent('li').find_parent('li').attrs['data-title']
+            try:
+                title = soup.find('div',id=f'chart_{m.vote_id}').find_parent('li').find_parent('li').attrs['data-title']
+            except:
+                title = ''
+
             module_id = find_module_with_title(title)
             m.parent = module_id
             parent = Module(m.parent)

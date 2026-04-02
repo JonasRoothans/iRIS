@@ -10,11 +10,75 @@ from classes.vote import Vote
 from classes.member import Member
 from PIL import Image, ImageTk
 from functions.support import cwdpath
+import threading
+import time
+import queue
 
+class JsonSearcher:
+    def __init__(self):
+        self.current_thread = None
+        self.stop_event = threading.Event()
+        self.result_queue = queue.Queue()
+
+    def search(self,query):
+        global just_added_item_after_search, pdf_texts
+        global should_be_shown_based_on_keyword
+
+
+        self.stop_event.clear()
+        matching_items = []
+        for item in all_items:
+            if self.stop_event.is_set():
+                print(f"Search stopped for query: {query}")
+                return  # Stop if flagged
+
+            item_text = tree.item(item, 'text').lower()
+            description_text = tree.item(item, 'values')[2].lower()
+            pdf = pdf_texts[item]
+            if match(query, item_text, description_text, pdf):
+                parent = all_items_parents[item]
+                matching_items.append(item)
+                #tree.reattach(item, parent, 'end')
+                tree.item(item, tags=('highlight',))
+                should_be_shown_based_on_keyword[item] = True
+                if parent != '':
+                    matching_items.append(item)
+                    #tree.reattach(parent, all_items_parents[parent], 'end')
+                    tree.item(item, tags=('highlightchild',))
+                    should_be_shown_based_on_keyword[parent] = True
+
+                    siblings = tree.get_children(parent)
+                    for sibling in siblings:
+                        matching_items.append(sibling)
+                        #tree.reattach(sibling, parent, 'end')
+                        if 'highlightchild' not in tree.item(sibling)['tags']:
+                            tree.item(sibling, tags=('child',))
+                        just_added_item_after_search.append(sibling)
+                        should_be_shown_based_on_keyword[sibling] = True
+
+            elif item not in just_added_item_after_search:
+                #tree.detach(item)
+                tree.item(item, tags=())
+                should_be_shown_based_on_keyword[item] = False
+
+            update_tree(matching_items)
+
+
+    def start_search(self, query):
+        if self.current_thread and self.current_thread.is_alive():
+            # If a search is currently running, stop it:
+            self.stop_event.set()
+
+
+            # Start new search in a thread
+        self.stop_event.clear()
+        self.current_thread = threading.Thread(target=self.search, args=(query,))
+        self.current_thread.start()
 
 # Function to create the tree structure based on the JSON data
 def load_data_into_treeview(tree, parent_node, module):
     global icon_doc
+    global current_display
     # Create a row for the parent with status color.
     # if module.result:
     #     if module.result.lower() == 'aangenomen':
@@ -66,7 +130,11 @@ def load_data_into_treeview(tree, parent_node, module):
         tags=determine_tag(module),
         values=(module.date, label, wrapText(context), module.pdf_url, module.meeting_url, module.url)
     )
+
+
+
     all_items.append(node_id)
+    current_display = all_items
     all_items_parents[node_id]  = parent_node
     modules[node_id] = module.module_id
     if module.pdf_text is not None:
@@ -115,6 +183,8 @@ def determine_icon(module):
         icon = icon_toezegging
     elif module.type == 'Agenda':
         icon = icon_agenda
+    elif module.type == 'Raadsinformatiebrief' or module.type == 'Collegebrief' or module.type == 'Nieuwsbrief' or module.type == 'Burgemeesterbrief':
+        icon = icon_brief
     elif isinstance(module.module_id,str):
         if module.module_id.startswith('o'):
             icon = icon_orde
@@ -365,49 +435,36 @@ def filterTypes(event):
                 if not value_o.get():
                     tree.detach(item)
 
+def update_tree(results):
+    global current_display
+    """Update the TreeView with search results."""
+    # 1. Detach items that are not part of the new match set
+    for item in current_display:
+        if item not in results:
+            tree.detach(item)
 
+    # 2. Attach new items that are part of the result set
+    for item in results:
+        if item not in current_display:
+            tree.reattach(item, all_items_parents[item], 'end')
 
+    # Update current display
+    current_display = results
 
-def search(event):
-    global just_added_item_after_search, pdf_texts
-    global should_be_shown_based_on_keyword
+def search_query_change(event):
+    global just_added_item_after_search
+    global last_search_time
     typed = search_entry.get().lower()
-    if len(typed)<3:
+    if len(typed) < 3:
         reset()
         just_added_item_after_search = []
         return
-    else:
 
+    current_time = time.time()
+    if current_time - last_search_time >= 0.3: #s
+        last_search_time = current_time
+        searcher.start_search(typed)
 
-        for item in all_items:
-            item_text = tree.item(item,'text').lower()
-            description_text = tree.item(item,'values')[2].lower()
-            pdf = pdf_texts[item]
-            if match(typed,item_text,description_text,pdf):
-                parent = all_items_parents[item]
-                tree.reattach(item, parent,'end')
-                tree.item(item,tags=('highlight',))
-                should_be_shown_based_on_keyword[item] = True
-                if parent != '':
-                    tree.reattach(parent, all_items_parents[parent], 'end')
-                    tree.item(item, tags=('highlightchild',))
-                    should_be_shown_based_on_keyword[parent] = True
-
-                    siblings = tree.get_children(parent)
-                    for sibling in siblings:
-                        tree.reattach(sibling,parent,'end')
-                        if 'highlightchild' not in tree.item(sibling)['tags']:
-                            tree.item(sibling, tags=('child',))
-                        just_added_item_after_search.append(sibling)
-                        should_be_shown_based_on_keyword[sibling] = True
-
-            elif item not in just_added_item_after_search:
-                tree.detach(item)
-                tree.item(item, tags=())
-                should_be_shown_based_on_keyword[item] = False
-
-        #filterTypes()
-        print(typed)
 
 
 
@@ -428,6 +485,7 @@ def create_gui():
     global icon_notes
     global icon_modified
     global icon_orde
+    global icon_brief
 
     global all_items
     global all_items_parents
@@ -447,6 +505,14 @@ def create_gui():
     global value_r
     global value_i
     global value_o
+
+    global root
+    global searcher
+    global last_search_time
+    global current_display
+    searcher = JsonSearcher()
+    last_search_time = time.time()
+    current_display = []
 
     modules = {}
     all_items = []
@@ -563,6 +629,8 @@ def create_gui():
         file=cwdpath(os.path.join('Presentation', 'icon', '16x16', "Modify.png")))  # 16x16 image of green dot
     icon_orde = tk.PhotoImage(
         file=cwdpath(os.path.join('Presentation', 'icon', '16x16', "Wrench.png")))  # 16x16 image of green dot
+    icon_brief = tk.PhotoImage(
+        file=cwdpath(os.path.join('Presentation', 'icon', '16x16', "Mail.png")))  # 16x16 image of green dot
 
 
 
@@ -627,7 +695,7 @@ def create_gui():
 
     #Binds
     root.bind('<F1>', handle_f1_event)
-    search_entry.bind('<KeyRelease>',search)
+    search_entry.bind('<KeyRelease>',search_query_change)
     tree.bind('<<TreeviewSelect>>', on_item_selected)
 
     # Run the application loop

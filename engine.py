@@ -416,7 +416,7 @@ class Iris:
             self.root.after(0, self.popup.start_task,tag)
             if tag=='Stemmen':
                 print('Stemmen')  # todo: weghalen
-                #download_votes.download_votes(driver, start_date)
+                download_votes.download_votes(driver, start_date)
 
             if tag =='Meetings':
                 print('Meetings')

@@ -26,18 +26,18 @@ def readPDF(pdf):
 def extractInfoFromPDF(module):
     if not module.pdf_text:
         return
-    if not ('motie' in module.type.lower() or 'amendement' in module.type.lower() or 'raadsvraag' in module.type.lower()):
+    if not ('motie' in module.type.lower() or 'amendement' in module.type.lower() or 'raadsvraag' in module.type.lower() or 'vraag' in module.type.lower()):
         return
     #Connect members
     folder_path = cwdpath(os.path.join('json', 'members', 'person'))
     members = os.listdir(folder_path)
-    textblock = module.pdf_text.replace(' ','').replace('\n','').replace('ş','s').lower()
+    textblock = module.pdf_text.replace(' ','').replace('\n','').replace('ş','s').replace('ë','e').lower()
     first_index = 100000000000
     for member_id in members:
         m = Member(member_id)
-        name = m.name.replace(' ','').lower().replace('ş','s')
+        name = m.name.replace(' ','').lower().replace('ş','s').replace('ë','e')
         if name in textblock:
-            first_index_new = textblock.find(m.name.lower().replace(' ','').replace('ş','s'))
+            first_index_new = textblock.find(m.name.lower().replace(' ','').replace('ş','s').replace('ë','e'))
             if first_index_new < first_index:
                 module.eersteIndiener = int(m.person_id)
                 module.party_list.append(m.party)

@@ -1,0 +1,934 @@
+ body {
+                            background-color: #343434;
+                            font-family: 'Roboto', sans-serif;
+                            margin:0;
+                            padding:0;
+                            }
+
+                        #raadsvergaderingvideo {
+                            margin-right:15px;
+                            }
+
+                        #stickyvideo {
+                        display:flex;
+                        width:100vw;
+                        position:sticky;
+                        top:0;
+                        justify-content:center;
+                            align-items:center;
+                            z-index:5;
+                            /*background-color:#343434;*/
+                            padding:20px;
+                        /*background-color: rgba(52, 52, 52, 0.8);*/ /* Semi-transparent dark background */
+    backdrop-filter: blur(10px); /* Blur everything behind the sticky video */
+                        }
+
+                        /* Style for the speaker box */
+/* Style for the speaker box */
+#speakingbox {
+    position: relative;
+    top: 100px;
+    width: 300px;
+    background-color: #232323; /* Slightly darker background */
+    left: 0px; /* Hide off-screen to the right */
+    color: white; /* Light text for readability */
+    padding: 10px; /* Space inside the container */
+    border-radius: 10px; /* Rounded corners */
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5); /* Subtle shadow for depth */
+    margin-bottom: 20px; /* Space below the box */
+    font-family: Arial, sans-serif; /* Clean font */
+    opacity: 0; /* Fully hidden by default */
+    transition: transform 0.3s ease, opacity 0.3s ease; /* Smooth transition */
+    z-index: 5; /* Ensure it appears on top of other elements */
+}
+
+#speakingbox.visible {
+    transform: translateY(-100px); /* Bring the box back into view */
+    opacity: 1; /* Make the box fully visible */
+}
+
+/* Style for the topic box (subjectbox) */
+#subjectbox {
+    position: relative;
+    top:100px;
+    background-color: #343434; /* Slightly lighter background for contrast */
+    color: white; /* Light text for readability */
+    padding: 10px;
+    border-radius: 10px; /* Rounded corners */
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5); /* Subtle shadow for depth */
+    width: 300px; /* Fixed width */
+    font-family: Arial, sans-serif;
+    opacity:0;
+    transition: transform 0.3s ease, opacity 0.3s ease; /* Smooth transition */
+}
+
+#subjectbox.visible {
+    transform:translateY(-100px);
+    opacity: 1;
+    }
+
+/* Title inside both boxes */
+#speakingbox h1, #subjectbox h1 {
+    font-size: 18px;
+    margin-bottom: 10px;
+    text-align: center; /* Center align title */
+    color: #FFC107; /* Accent color for titles */
+}
+
+#speakingboxhidden {
+x-off}
+
+/* Container for speaker info */
+#speaker-container, #subject-container {
+    display: flex; /* Use flexbox for layout */
+    align-items: center; /* Center vertically */
+    gap: 10px; /* Space between photo and text */
+}
+
+/* Styling for photos (speaker & subject) */
+#speaker-photo, #subject-poho {
+    width: 60px; /* Fixed size for the photo */
+    height: 80px; /* Ensure aspect ratio */
+    border-radius: 20%; /* Circle photo */
+    border: 2px solid #FFC107; /* Accent border */
+    object-fit: cover; /* Ensures photo fits correctly */
+}
+
+.vergadering{
+    box-shadow: 0 0 20px rgba(255, 193, 8, 0.5);
+    transition: box-shadow 0.2s smooth;
+    }
+
+.vergadering:hover{
+    box-shadow: 0 0 20px rgba(255, 193, 8, 1);
+    transition: box-shadow 0.2s smooth;
+}
+.avond{
+    box-shadow: 0 0 20px rgba(83, 32, 208, 0.5);
+}
+.avond:hover{
+box-shadow: 0 0 20px rgba(149, 52, 239, 1);
+}
+
+/* Speaker and subject info formatting */
+#speaker-info, #subject-info {
+    display: flex;
+    flex-direction: column; /* Stack name and party/title vertically */
+    gap: 5px;
+}
+
+/* Speaker name formatting */
+#speaker-name, #subject-title {
+    font-size: 16px; /* Slightly larger font */
+    font-weight: bold; /* Make these stand out */
+    color: #FFFFFF; /* White text */
+    text-decoration: none; /* Remove underline */
+}
+
+/* Party and description formatting */
+#speaker-party, #subject-info {
+    font-size: 14px; /* Smaller font for secondary information */
+    color: #B3B3B3; /* Gray text for secondary info */
+}
+
+/* Hover effect for links */
+#speaker-name:hover, #subject-title:hover {
+    color: #FFC107; /* Accent color on hover */
+    text-decoration: underline; /* Underline to signify interactivity */
+}
+
+#info-container {
+    display: flex; /* Use flexbox for vertical stacking */
+    flex-direction: column; /* Stacks the two boxes vertically */
+    gap: 5px; /* Space between speakerbox and subjectbox */
+}
+
+
+                        .panel {
+                            margin: 5px;
+                            border: 1px solid rgba(0, 0, 0, 0.1);
+                            border-radius: 5px; /* Rounded corners */
+                            padding: 20px; /* Optional padding */
+                            background-color: #232323; /* Optional background for visibility */
+                            position:relative;
+                            color:#dddddd;
+                        }
+                        h1 {
+                            font-size: 30px;
+                            font-weight:700;
+                            margin-bottom: 10px;
+                            margin-top: 20px;
+                            line-height:48px;
+                            margin-left:20px;
+                        }
+                        p {
+                            margin: 5px 0;
+                        }
+
+                        .links {
+                            margin:10px;
+                            font-size: 15px;
+                            background-color:#fafafa;
+                            color:#484848;
+                            text-align: right;
+                        }
+
+                        a {
+                            color:#484848;
+                            margin:5px;
+                            }
+
+                        a {
+                            text-decoration:none !important;
+                        }
+
+                        a:hover {
+                            background-color: rgba(200,200,200,0.5); /* Uses the current text color */
+                             /* Makes it a very light shade of the text color */
+                            }
+
+                        #textwrap a{
+                        margin:0px;
+                        }
+
+
+                        #dark {
+                        background-color:gray;
+                            }
+
+
+                        #child {
+                            background-color: rgba(256,256,256,1);
+                            }
+
+                        #master {
+                            max-width:900px;
+                            margin:auto;
+                            }
+
+                        .children {
+                                max-width:800px;
+                                margin:auto;
+                                }
+                        .horizontal {
+                            display: flex;
+                            gap: 10px;
+                            justify-content:center;
+                            align-items:center;
+                            }
+
+                        .type {
+                            font-weight: bold;
+                            color: #333333;
+                            margin-right: 10px;
+                            margin-bottom: 10px;
+                            padding:5px;
+                            font-size: 0.8em;
+                            border-radius: 5px;
+                            /*background-color:white !important;*/
+                            width:100%;
+                            }
+
+                        .ingetrokkennatoezegging {
+                            color:#77cc77;
+                            }
+                        .ingetrokken{
+                            color:#999999;
+                            }
+                        .raadsvoorstel{
+                            color: #999999;
+                            /*background-color:#999999;*/
+                            }
+
+                        .raadsvraag{
+                            color:#f3b43f;
+                            }
+
+                        .unknown {
+                            color:#555555;}
+
+                        .aangenomen {
+                            color:#77cc77;
+                            }
+
+                        .afgerond {
+                            color:#77cc77;
+                            }
+
+                        .verworpen {
+                            color:#ff9999;
+                            }
+
+                        .toezegging {
+                            color:#88bbff;
+                            /*background-color:#88bbff;*/
+                            }
+
+                        .brief {
+                            color:#aa88ff;
+                            /*background-color:#aa88ff;*/
+                            }
+
+                        .title {
+                            color: #eeeeee;
+                            font-size: 1.2em;
+                            margin-top:10px;
+                            display: block;
+                            }
+
+                        .date {
+                            color: #ffffff;
+                            background-color: #333333;
+                            padding:5px;
+                            font-size: 0.8em;
+                            }
+
+                        .collapsible {
+                            /* max-height: 25px; Initial collapsed height */
+                            overflow: hidden; /* Ensure text is clipped when collapsed */
+                            transition: max-height 0.3s ease; /* Smooth animation */
+                            cursor: pointer;
+                            transition: background-color 0.5s ease-in-out;
+                        }
+
+                        .collapsible + .expanded {
+                            cursor: auto;
+
+                        }
+
+                        p {
+                            margin-top:20px;
+                            }
+
+                        .collapsible.expanded {
+                            /* max-height: 500px;  Fully expanded height */
+                            flex: 1 0 100%;
+                            max-width:80%;
+                            overflow: hidden;
+                            margin-top:20px;
+                            margin-bottom:20px;
+                            background-color:white;
+                             }
+
+                        /* Special expanded behavior for the element with id "child" */
+                        #child.collapsible.expanded {
+                            max-width: 100%; /* Override the max-width specifically for #child */
+                        }
+
+                        .scrollable {
+                            max-height: 80vh; /* Set maximum height for the div */
+                            max-width: 600px;
+                            margin:auto;
+                            overflow-y: auto; /* Add a vertical scroll bar when content overflows */
+                            padding: 10px; /* Add some padding inside the div */
+                            border: 0px solid #ccc; /* Optional: border for better visibility */
+                            background-color: #ffffff; /* Optional: background color for visibility */
+                            color: #6f6f71;
+                            font-size: 14px;
+                            font-weight: 400;
+                            }
+
+                        .hidden-content {
+                            display:none !important;
+                            }
+
+                        .hidden-content.show {
+                            display: block;
+                            }
+                        .hidden-content.showflex{
+                            display:flex;
+                            }
+
+                        #kwlist{
+                            margin-left:40%;
+                            }
+
+                        .wrapper {
+                            display:flex;
+                            flex-wrap: wrap;
+                            gap: 10px;
+                            margin-top: 180px;
+                            /*align-items:center;*/
+                            justify-content:center;
+                            }
+
+                        .wrapper-no-margin{
+                            display:flex;
+                            flex-wrap: wrap;
+                            gap: 10px;
+                            margin-top: 10px;
+                            /*align-items:center;*/
+                            justify-content:center;
+                        }
+
+                        .gewijzigd{
+                            background-color:rgba(243,180,63,0.5);
+                            padding:5px;
+                            margin-top:5px;
+                            border-radius: 20px; /* Rounded corners */
+                            display:block;
+                            text-align:center;
+                            transition: background-color 0.3s;
+                        }
+
+                        .gewijzigd:hover {
+                            background-color:rgba(94,67,243,0.5);
+                            transition: background-color 0s
+                            }
+
+
+                        #s231116{
+                        background-color:rgba(94,67,243,0.5);
+                        }
+
+                        #s00000{
+                        background-color:rgba(240,67,243,0.5);
+                        }
+
+                        .wrapper-no-margin h1 {
+                            flex-basis: 100%; /* Make the h1 take 100% of the container width */
+                            text-align: center; /* Center the text horizontally */
+                            margin-bottom: 20px; /* Add spacing below the h1 for visual clarity */
+                        }
+
+                        #photos {
+                        margin-top:10px;
+                        padding:auto;
+                        }
+
+                        #parentcontainer{
+                        margin:30px;
+                        background-color:rgba(243,180,63,0.5);
+                        padding:20px;
+                        }
+
+                        #parent:hover{
+                        background-color:rgba(243,180,63,1);
+                        transition: background-color 0.1s ease-in;
+                        }
+
+                        #relatedcontainer{
+                        background-color:rgba(94,67,243,0.5);
+                        }
+
+
+                            #vote_box {
+                                display: flex !important;            /* Use flexbox to align child elements in a row */
+                                width: 100%;              /* Ensure the container (`#vote_box`) spans the full width */
+                                padding:5px;
+                            }
+
+                            #vote {
+                                /*padding: 10px;            /* Add padding */
+                                flex-grow: 1;             /* Allow each `#vote` div to grow proportionally based on content */
+                                text-align: center;       /* Center-align text inside the vote divs */
+                                font-size:8pt;
+                                border: 1px white solid;
+                                color: white;
+                                display: grid; /* Establish Grid container */
+                                place-items: center;
+                            }
+
+
+                        .box {
+                            flex: 1 1 300px; /* Default: Take up 50% of the viewport width */
+                            max-width: 300px; /* Dynamically adjust width */
+                            padding: 10px;
+
+                            }
+
+                        .keywords {
+                            display:none;
+                            }
+
+
+
+
+
+
+                        .box.focus {
+                            max-width:80vw;
+                            }
+
+                        @media screen and (max-width: 1000px) {
+                            .box {
+                                flex: 1 1 calc(50% - 40px); /* Divide into 2 per row */
+                                max-width: calc(50% - 40px); /* Account for horizontal gap */
+
+                            }
+                        }
+
+
+
+                        .date_box {
+                            width: 100%;               /* Full width */
+                            /*position: relative;        /* Enables absolute positioning inside the div */
+                            /*background-color: lightgray; /* Example background color (optional) */
+                            /*border: 1px solid black;   /* Optional border for visibility */
+                            flex-wrap:wrap;
+                            display:flex;
+                            margin-top:20px;
+                        }
+                        .date_box_header {
+                            width:100%;
+                            position: sticky;          /* Sticky positioning keeps the header at the top */
+                            top: 86px;                    /* Stick to the top of the viewport */
+                            background: rgba(0,0,0, 0.4);
+                            padding: 10px;             /* Add some space around the text */
+                            font-size: 30px;           /* Style the font */
+                            z-index:8;
+                            color:#999;
+                            backdrop-filter: blur(10px);
+                            /*border-bottom: 1px solid gray; /* Optional border below header */
+                            }
+
+                        .wrapper h1 {
+                            flex-basis: 100%; /* Span full width */
+                            margin: 0;
+                            font-size: 1.8em;
+                            text-align: center;
+                            }
+                        }
+                        .highlight {
+                            color: #330000; /* Change this to your preferred color */
+                            font-weight: bold; /* Make the keyword stand out */
+                        }
+
+                        #yellowtext {
+                        color: rgba(243,180,63,1);}
+
+                        #purpletext{
+                        color:rgba(0,0,0,0.6);
+                        }
+
+                        /* Container for the fixed button */
+        .fixed-button-container {
+            position: fixed; /* Makes the button stay in a fixed position */
+            bottom: 20px;    /* Distance from the bottom edge */
+            right: 20px;     /* Distance from the right edge */
+        }
+
+        /* Styling for the button */
+        .fixed-button-container button {
+            background-color: rgba(83, 32, 208, 0.5); /* Button background color */
+            color: white;             /* Text color */
+            border: none;             /* Remove border */
+            border-radius: 50px;      /* Rounded edges (circle-like appearance) */
+            padding: 10px 20px;       /* Adjust padding for size */
+            font-size: 16px;          /* Font size */
+            cursor: pointer;          /* Pointer cursor for button hover */
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+            transition: background-color 0.2s; /* Smooth hover effect */
+        }
+
+        /* Hover effect */
+        .fixed-button-container button:hover {
+            background-color: rgba(83, 32, 208, 1); /* Darker blue on hover */
+        }
+
+
+
+                        /* Styling a header or container for the search box */
+.search-header {
+    backdrop-filter: blur(10px);
+    color: white;
+    padding: 20px; /* Space inside */
+    text-align: center; /* Center content */
+    position: sticky;
+    top: 0;
+    margin-top: 0;
+    z-index: 10;
+    transition: transform 0.3s ease, opacity 0.3s ease; /* Smooth sliding and fading */
+}
+
+.search-header.hidden {
+    transform: translateY(-100%); /* Slide up out of view */
+    opacity: 0; /* Fade out */
+}
+
+    #larger {
+        font-size:1.2rem;
+    }
+
+    .full-screen-loader{
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw !important;
+  height: 100vh !important;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+  background-color: white;
+
+}
+
+.full-screen-loader .logo {
+  max-width: 200px;
+  margin-bottom: 20px;
+}
+
+
+    .last-update {
+            position: absolute; /* Use 'fixed' to ensure the div stays in the top-right corner even during scrolling */
+            top:150px;
+            bottom: 10px;       /* Margin from the top */
+            right: 15px;     /* Margin from the right */
+            font-size:12px;
+            height:40px;
+    }
+
+    #hide-during-loading {
+    opacity:0;
+    }
+    #hide-during-loading2{
+    opacity:0;
+    }
+
+    /* Styling the search input field */
+    #searchbox {
+      width: calc(100% - 40px); /* Make it nearly full-width with some margins */
+      max-width: 800px; /* Optional: Keep a max width for very large screens */
+      font-size: 1rem; /* Large font for prominence */
+      padding: 10px 15px; /* Add internal space for better UX */
+      border: 2px solid #555; /* Subtle border */
+      border-radius: 20px; /* Rounded edges */
+      outline: none; /* Remove default focus outline */
+      box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1); /* Slight shadow for depth */
+      transition: border-color 0.3s, box-shadow 0.3s; /* Smooth hovering */
+      background-color:#777777;
+      color: #fff
+    }
+
+    /* Styling the search input on focus */
+    #searchbox:focus {
+      border-color: #5320d0; /* Highlight border on focus */
+      box-shadow: 0 0 20px rgba(83, 32, 208, 0.5); /* Add glow effect */
+    }
+
+    /* Optional: Styling the placeholder text */
+    #searchbox::placeholder {
+      color: #ddd; /* Lighter grey for placeholder text */
+      font-style: default; /* Italicize placeholder */
+    }
+
+    /* Add some spacing to elements following the searchbox */
+    .search-header + * {
+      margin-top: 30px;
+    }
+
+
+  #jump-link {
+    margin: auto;                      /* Centers the element horizontally */
+    margin-top: 20px;                  /* Adds some spacing above the element */
+    background-color: #593aed;          /* Background color of the button */
+    color: white;                     /* Text color */
+    padding: 10px;                     /* Creates spacing inside the button */
+    text-align: center;                /* Centers the text inside the button */
+    display: inline-block;             /* Makes it behave like a button */
+    border-radius: 5px;                /* Rounded edges */
+    cursor: pointer;                   /* Changes the cursor to a hand icon */
+    text-decoration: none;             /* Removes underline from the link */
+}
+#jump-link:hover {
+background-color:#7041cd;
+transition: background-color 0.2s ease}
+
+.back-to-top {
+    position: sticky;
+    bottom: 20px; /* Stick at the bottom of the viewport when user scrolls */
+    right: 20px; /* Adds margin from the right side of the viewport */
+    margin-top: 500vh; /* Start positioned 20% below the viewport height */
+    background-color: #FFFFFF; /* Background color */
+    color: black; /* Text color */
+    padding: 10px 20px; /* Padding for the button */
+    border-radius: 5px; /* Rounded corners */
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2); /* Optional shadow for good visibility */
+    text-decoration: none; /* Remove underline from link */
+    pointer-events: auto; /* Ensure the button is clickable */
+    z-index: 15; /* Lower z-index than .header */
+    display: inline-block;
+}
+
+
+/* Header styling */
+.header {
+    display: flex; /* Flexbox for easy centering */
+    flex-direction: column;
+    justify-content: center; /* Center the child horizontally */
+    align-items: center; /* Center the child vertically */
+    height:200px;
+    background-color: #000; /* Optional background color */
+    transition: height 0.3s ease; /* Smooth animation */
+    position: relative; /* Needed for absolute positioning of child elements */
+}
+
+/* Styling for the logo image */
+.center-logo {
+    max-height: 100px;
+    max-width: 100%;
+    padding:100px;
+}
+
+
+iframe {
+width:80vw;
+height:80vh;}
+
+.member img {
+       width: calc(0.7*180px);
+        height: calc(0.7*240px);
+       border-radius: 5px; /* Rounded edges */
+       margin-bottom:5px;
+   }
+   #grote-foto {
+   width:180px;
+   height:240px;
+   border-radius:20px;}
+
+   h3 {
+   margin-left:50px;
+   font-size:1rem;
+   margin-bottom:0px;
+   }
+
+#link-container {
+    overflow-y: auto;
+    /*max-height: 400px;*/
+    display: flex;          /* Enable flexbox for the container */
+    flex-wrap: wrap;        /* Allow items to wrap naturally (like text) */
+    gap: 0;                 /* Remove gap; use margin on links for spacing */
+    padding: 10px;          /* Optional padding inside the container */
+    background-color: #343434; /* Optional background color */
+    margin-top:10px !important;
+}
+
+
+.jump-link {
+    display: inline;        /* Make links wrap like regular inline text */
+    white-space: normal;    /* Allow text to wrap naturally */
+    padding: 5px 10px;      /* Add spacing inside the link */
+    cursor: pointer;        /* Show hand cursor on hover */
+    text-decoration: none;  /* Remove underline for links */
+    color: white;           /* Default text color */
+    opacity:0.7; /* Background color for links */
+    border-radius: 5px;     /* Rounded edges for links */
+    margin: 2px;            /* Add spacing between links */
+    transition: background-color 0.25s; /* Smooth hover effect */
+}
+
+.jump-link:hover {
+    opacity:1; /* Highlight link on hover */
+}
+
+.jump-link:active {
+    background-color: orange !important;} /* Highlight link on click */
+
+#link-container .jump-link.highlight {
+    opacity: 1 !important;
+    box-shadow: 0 0 10px 5px rgba(255, 165, 0, 0.8); /* Glow effect */
+    border-radius: 5px;             /* Rounded edges */
+    transition: box-shadow 0.3s ease, background-color 0.3s ease;
+}
+
+
+
+
+
+
+
+
+ #textwrap {
+    max-width: calc(0.7*180px);
+    font-size: 0.8rem;
+    text-align: center;
+    margin-top:-5px;}
+
+ #laatstecheck{
+ text-align:right;
+ font-size:12px;}
+
+ .close-button {
+  display: none; /* Hidden when collapsed */
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background: #f44336;
+  color: white;
+  border: none;
+  border-radius: 3px;
+  padding: 5px 10px;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+/* X button visible only when expanded */
+.collapsible.expanded .close-button {
+  display: block;
+}
+
+/* General container for the chart */
+        .chart {
+            display: flex;
+            flex-direction: column;
+            gap: 5px; /* Space between rows */
+            font-family: Arial, sans-serif;
+            width: 800px;
+            margin: auto;
+            margin-top:20px;
+
+        }
+
+        .photo-container {
+    position: relative; /* Enable positioning child elements (span) relative to this container */
+    /*display: inline-block; /* Keep the images inline */
+    width: 150px; /* Set a fixed width (or adjust as needed) */
+    height: auto; /* Maintain the aspect ratio of the image */
+    overflow: hidden;
+    cursor: pointer; /* Show pointer cursor for interactivity */
+    border-radius: 20px; /* Rounded edges */
+
+}
+
+/* The image */
+img#index-foto {
+    display: block; /* Avoid extra space under the image due to inline-block behavior */
+    width: 100%; /* Make image take full width of container */
+    height: auto; /* Maintain the aspect ratio */
+    transition: opacity 0.3s ease; /* Smooth fade-out of the image on hover */
+}
+
+/* The info text (initially at the bottom) */
+.photo-info {
+    position: absolute; /* Positioned relative to the container */
+    bottom: 0; /* Start at the bottom of the image */
+    left: 0; /* Stretch across the image horizontally */
+    right: 0;
+    background-color: #4c20bf; /* Use the solid background color passed in via "style" */
+    color: white; /* Text color */
+    text-align: center; /* Center the text horizontally */
+    padding: 5px; /* Add padding for readability */
+    font-size: 14px; /* Adjust font size as necessary */
+    z-index: 1; /* Ensure text is above the image */
+    transition: all 0.3s ease; /* Smooth background and positional animations */
+}
+
+/* Hover state: Cover the entire image */
+.photo-container:hover .photo-info {
+    top: 50%; /* Center text vertically */
+    bottom: auto; /* Remove the original bottom positioning */
+    transform: translateY(-50%); /* Center text vertically using transform */
+    /*background-color: rgba(76, 32, 191, 0.5); Semi-transparent background */
+
+}
+
+/* Hover state: Fade the image (optional) */
+.photo-container:hover img#index-foto {
+    opacity: 0.2; /* Dim the image under the semi-transparent background */
+}
+
+.photo-backgroundcolor {
+        position:absolute;
+        bottom:0;
+        left:0;
+        right:0;
+        top:0;
+        z-index:-5;
+
+
+}
+
+.menu {position: absolute; /* Absolute position relative to the header */
+    bottom: 10px; /* Place the menu a few pixels above the header's bottom edge */
+
+    line-height: 1.5; /* Adjust spacing between links */
+    display: flex;
+    gap: 10px; /* Add space between menu items */
+
+
+    }
+
+        /* Each row (party + bar) */
+        .row {
+            display: flex;
+            align-items: center;
+        }
+
+        /* Left column for party names */
+        .party-name {
+            flex: 0 0 100px; /* Fixed width for party names */
+            text-align: right;
+            margin-right: 10px; /* Spacing between name and bar */
+
+        }
+
+        /* Right side bar container */
+        .bar-container {
+            display: flex;
+            flex-grow: 1; /* Take up remaining space */
+            height: 20px; /* Height of the bar */
+            background-color: #f0f0f0; /* Light background for the entire bar */
+            position: relative;
+            overflow: hidden; /* Ensure nothing overflows */
+        }
+
+        /* Segments in the stacked bar */
+        .bar-segment {
+            height: 100%; /* Take full height of the bar */
+            pointer-events: auto; /* Ensure clicks are enabled */
+            cursor: pointer;      /* Optional: Show a pointer cursor for clickable elements */
+
+        }
+
+        /* Specific colors for each segment */
+        .graph_ingetrokken {
+            background-color: #e9b656; /* Red */
+        }
+        .graph_toezegging {
+            background-color: #5034de; /* Orange */
+        }
+        .graph_aangenomen {
+            background-color: #18c023; /* Green */
+        }
+        .graph_verworpen {
+            background-color: #c01818; /* Blue */
+        }
+
+        /* Show percentage in segments */
+        .bar-segment span {
+            color: white; /* Text overlay color */
+            font-size: 12px;
+            text-align: center;
+            line-height: 20px;
+            display: block;
+            text-shadow: 0 0 3px black;
+        }
+
+        .bar-segment:hover {
+        opacity:0.5;}
+
+
+ /* Adjust to 1 per row (Mobile or small screens) */
+                        @media screen and (pointer:coarse) {
+                            .box {
+                                flex: 1 1 100%; /* Take the full width */
+                                max-width: 100%; /* Full width of the parent container */
+                                font-size: 1rem;
+                            }
+                            #searchbox{
+                                font-size: 2rem;
+                                }
+
+                            span {
+                                font-size:2rem;
+                                }
+                            .title {
+                            display:block;}
+
+                            .back-to-top {
+                            font-size:2rem;}
+
+
+                        }

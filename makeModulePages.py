@@ -954,7 +954,7 @@ def makeMemberIndex(members):
                     a(img(src=m.img, alt=f"{m.name}'s photo", id='index-foto',partij=m.party),href=f'{m.person_id}.html',style='margin:0;')
                     a(span(f"{m.name} ({m.role} {m.party})", cls='photo-info',style=f'background-color:{party_color};'),href=f'{m.person_id}.html',style='margin:0;')
 
-        script(src="search.js")
+        script(src="searchmember.js")
     with open(f'{os.getcwd()}/Presentation/htmls/raad.html', 'w') as f:
         f.write(doc.render())
 
@@ -1826,7 +1826,7 @@ if 1:
     mm.sort_chronological()
     makeIndex(mm)
 
-if 0:
+if 1:
     mm = ModuleManager()
     mm.addall()
     mm.sort_chronological()
@@ -1857,7 +1857,7 @@ if 0:
     makeIndex(mm)
 
 
-if 0:
+if 1:
     mm = ModuleManager()
     mm.add2022()
     mm.sort_chronological()
@@ -1889,7 +1889,7 @@ if 0:
                 makeMemberPage(Member(member_id), mm)
 
 
-    if 0:
+    if 1:
         makeAnalysisPagePartij(mm,'GroenLinks')
         makeAnalysisPagePartij(mm, 'FVD')
         makeAnalysisPagePartij(mm, 'SP')
@@ -1897,7 +1897,7 @@ if 0:
         makeAnalysisPage(mm)
 
 
-    if 0: makeRaadsvoorstelPage(mm)
+    if 1: makeRaadsvoorstelPage(mm)
 
     if 0:
         counter =0
@@ -1907,17 +1907,17 @@ if 0:
             #keywords = list(module.keywords.keys())
                 makePage(module)
 if 0:
-    makePage(Module(920652))
+    makePage(Module(931176))
 
 
 
-if 0:
+if 1:
     MeMa = MeetingManager()
     MeMa.addall()
     MeMa.sort_chronological()
     #makeMeetingPage(MeMa.meetings[8],'Raadzaal')
     makeMeetingIndex(MeMa)
-if 0:
+if 1:
 
     count = 0
     for meeting in MeMa.meetings:

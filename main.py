@@ -1,4 +1,4 @@
-from functions.download import download_subtitles, download_votes, download_members, download_moties, download_raadsvoorstellen, download_amendementen,download_pdf, web
+from functions.download import download_brieven, download_subtitles, download_votes, download_members, download_moties, download_raadsvoorstellen, download_amendementen,download_pdf, web
 import json
 import os
 from datetime import datetime, date
@@ -15,6 +15,7 @@ def get_settings():
         settings['last_update_moties'] = '2020-04-01'
         settings['last_update_raadsvoorstellen'] = '2020-04-01'
         settings['last_update_amendementen'] = '2020-04-01'
+        settings['last_update_brieven'] = '2020-04-01'
         settings['buffer_months'] = 3
         return settings
 
@@ -36,31 +37,37 @@ if __name__ == "__main__":
     driver = web.setup_driver()
     settings = get_settings()
 
-    #----DOWNLOAD MEMBERS---#
-    download_members.main(driver)
+    if 0:
+        #----DOWNLOAD MEMBERS---#
+        download_members.main(driver)
 
-    # ----DOWNLOAD VOTES and make module placeholders---#
-    download_votes.download_votes(driver, get_startDate(settings,'last_update_votes'))
-    settings['last_update_votes'] = date.today().strftime('%Y-%m-%d')
+        # ----DOWNLOAD VOTES and make module placeholders---#
+        download_votes.download_votes(driver, get_startDate(settings,'last_update_votes'))
+        settings['last_update_votes'] = date.today().strftime('%Y-%m-%d')
 
-    # --- DOWNLOAD moties --- #
-    download_moties.download_moties(driver, get_startDate(settings,'last_update_moties'))
-    settings['last_update_moties'] = date.today().strftime('%Y-%m-%d')
-    web.teardown_driver(driver)
+        # --- DOWNLOAD moties --- #
+        download_moties.download_moties(driver, get_startDate(settings,'last_update_moties'))
+        settings['last_update_moties'] = date.today().strftime('%Y-%m-%d')
+        web.teardown_driver(driver)
 
-    driver = web.setup_driver()
-    download_raadsvoorstellen.download_raadsvoorstellen(driver,get_startDate(settings,'last_update_raadsvoorstellen'))
-    settings['last_update_raadsvoorstellen'] = date.today().strftime('%Y-%m-%d')
-    web.teardown_driver(driver)
+        driver = web.setup_driver()
+        download_raadsvoorstellen.download_raadsvoorstellen(driver,get_startDate(settings,'last_update_raadsvoorstellen'))
+        settings['last_update_raadsvoorstellen'] = date.today().strftime('%Y-%m-%d')
+        web.teardown_driver(driver)
 
-    driver = web.setup_driver()
-    download_amendementen.download_amendementen(driver)
-    web.teardown_driver(driver)
+        driver = web.setup_driver()
+        download_amendementen.download_amendementen(driver)
+        web.teardown_driver(driver)
 
-    download_pdf.download_pdf()
+
+        driver = web.setup_driver()
+        download_brieven.download_brieven(driver,get_startDate(settings,'last_update_brieven'))
+        web.teardown_driver(driver)
+
+        download_pdf.download_pdf()
 
     #---DOWNLOAD SUBTITLES----#
-    #download_subtitles.download_subtitles()
+    download_subtitles.download_subtitles()
 
     #--Tear down driver
 

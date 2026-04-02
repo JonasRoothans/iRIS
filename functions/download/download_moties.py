@@ -24,8 +24,7 @@ def get_moties_from_page(html):
         print(count)
         count += 1
 
-        if count<435:
-            continue #todo:debug
+
 
 
 
@@ -50,40 +49,83 @@ def get_moties_from_page(html):
                 print(f'skipping datafield')
                 continue
 
-            if data_id==15:
-                m.date = value
-            elif data_id==1:
-                m.title = value
-            elif data_id == 61:
-                m.text = value
-            elif data_id == 23:
-                m.poho = value
-            elif data_id == 54:
-                    link = data_field.find('a')
-                    if link and link['href']:
-                        m.addMeetingLink(link['href'])
-            elif data_id == 45:
-                m.type = value
-            elif data_id == 36:
-                m.member = value #WILL BE PARSED INSIDE MODULE VIA m.parse()
-            elif data_id == 37:
-                m.party == value #SAME ^^
-            elif data_id == 62:
-                m.result = value
-            elif data_id == 2:
+
+            #Convert data-id to key
+            data_id_to_key  = {
+                1: 'title',
+                2: '@pdfurl',
+                15: 'date',
+                17: 'afgedaan',
+                21: '',
+                23: 'poho',
+                24: '',
+                27: '',
+                28: '',
+                35: '',
+                36: 'member',
+                37: 'party',
+                41: 'svz',
+                45: 'type',
+                49: '',
+                54: '@link',
+                61: 'text',
+                62: 'result',
+            }
+
+            if data_id in data_id_to_key:
+                key = data_id_to_key[data_id]
+            else:
+                key = ''
+
+
+        #Based on the key: update the object.
+            if key=='@pdfurl':
                 try:
                     m.pdf_url = data_field.a['href']
                 except:
                     m.pdf_url = None
-            elif data_id == 41:
-                m.svz == value
-            elif data_id == 17:
-                m.afgedaan = value
+            elif key=='@link':
+                link = data_field.find('a')
+                if link and link['href']:
+                    m.addMeetingLink(link['href'])
+            else:
+                setattr(m,key,value)
+
+            if 0:
+                    if data_id==15:
+                        m.date = value
+                    elif data_id==1:
+                        m.title = value
+                    elif data_id == 61:
+                        m.text = value
+                    elif data_id == 23:
+                        m.poho = value
+                    elif data_id == 54:
+                            link = data_field.find('a')
+                            if link and link['href']:
+                                m.addMeetingLink(link['href'])
+                    elif data_id == 45:
+                        m.type = value
+                    elif data_id == 36:
+                        m.member = value #WILL BE PARSED INSIDE MODULE VIA m.parse()
+                    elif data_id == 37:
+                        m.party == value #SAME ^^
+                    elif data_id == 62:
+                        m.result = value
+                    elif data_id == 2:
+                        try:
+                            m.pdf_url = data_field.a['href']
+                        except:
+                            m.pdf_url = None
+                    elif data_id == 41:
+                        m.svz == value
+                    elif data_id == 17:
+                        m.afgedaan = value
 
 
 
 
-
+        #More actions on the module object.
         m.linkToOtherFiles() #this will add ids where possible.
         if m.date is None:
             print('stophier')

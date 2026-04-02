@@ -1,0 +1,190 @@
+
+                body {
+                    background-color: #fafafa;
+                    font-family: 'Roboto', sans-serif;
+
+                #raadsvergaderingvideo {
+                    margin:auto;
+                    }
+
+                .panel {
+                    background-color: rgba(128,128,200,0.2);
+                    margin: 5px;
+                    border: 1px solid rgba(0, 0, 0, 0.1);
+                    border-radius: 5px; /* Rounded corners */
+                    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Subtle shadow */
+                    padding: 20px; /* Optional padding */
+                    background-color: #ffffff; /* Optional background for visibility */
+                }
+                h1 {
+                    font-size: 22px;
+                    font-weight:700;
+                    margin-bottom: 10px;
+                    margin-top: 20px;
+                    line-height:48px;
+                }
+                p {
+                    margin: 5px 0;
+                }
+
+                .links {
+                    margin:10px;
+                    font-size: 15px;
+                    background-color:#fafafa;
+                    color:#484848;
+                    text-align: right;
+                }
+
+                a {
+                    color:#484848;
+                    margin:5px;
+                    }
+
+
+                #parent {
+                    background-color: rgba(200,200,200,0.5);
+                    }
+                #child {
+                    background-color: rgba(256,256,256,1);
+                    }
+
+                #master {
+                    max-width:900px;
+                    margin:auto;
+                    }
+
+                .children {
+                        max-width:800px;
+                        margin:auto;
+                        }
+                .horizontal {
+                    display: flex;
+                    gap: 10px;
+                    }
+
+                .type {
+                    font-weight: bold;
+                    color: #333333;
+                    margin-right: 10px;
+                    margin-bottom: 10px;
+                    padding:5px;
+                    font-size: 0.8em;
+                    }
+
+                .ingetrokken {
+                    background-color:#88ee88;
+                    }
+
+                .aangenomen {
+                    background-color:#88ff88;
+                    }
+
+                .afgerond {
+                    background-color:#88ff88;
+                    }
+
+                .verworpen {
+                    background-color:#ff8888;
+                    }
+
+                .toezegging {
+                    background-color:#8888ff;
+                    }
+
+                .title {
+                    color: #333333;
+                    font-size: 1.2em;
+                    margin-top:10px;
+                    display: inline-block;
+                    }
+
+                .date {
+                    color: #ffffff;
+                    background-color: #333333;
+                    padding:5px;
+                    font-size: 0.8em;
+                    }
+
+                .collapsible {
+                    /* max-height: 25px; Initial collapsed height */
+                    overflow: hidden; /* Ensure text is clipped when collapsed */
+                    transition: max-height 0.3s ease; /* Smooth animation */
+                    cursor: pointer;
+                }
+
+                p {
+                    margin-top:20px;
+                    }
+
+                .collapsible.expanded {
+                    /* max-height: 500px;  Fully expanded height */
+                    overflow: hidden;
+                     }
+
+                .scrollable {
+                    max-height: 300px; /* Set maximum height for the div */
+                    max-width: 600px;
+                    margin:auto;
+                    overflow-y: auto; /* Add a vertical scroll bar when content overflows */
+                    padding: 10px; /* Add some padding inside the div */
+                    border: 0px solid #ccc; /* Optional: border for better visibility */
+                    background-color: #ffffff; /* Optional: background color for visibility */
+                    color: #6f6f71;
+                    font-size: 14px;
+                    font-weight: 400;
+                    }
+
+                .hidden-content {
+                    display:none;
+                    }
+
+                .hidden-content.show {
+                    display: block;
+                    width:100%;
+                    }
+
+                .wrapper {
+                    display:flex;
+                    flex-wrap: wrap;
+                    gap: 10px;
+                    }
+
+                #vote_box {
+                    display: flex !important;            /* Use flexbox to align child elements in a row */
+                    width: 100%;              /* Ensure the container (`#vote_box`) spans the full width */
+                }
+
+                #vote {
+                    /*padding: 10px;            /* Add padding */
+                    flex-grow: 1;             /* Allow each `#vote` div to grow proportionally based on content */
+                    text-align: center;       /* Center-align text inside the vote divs */
+                }
+
+
+
+                .box {
+                    flex: 1 1 300px;
+                    max-width: 300px;
+                    padding: 10px;
+                    }
+
+                @media screen or (max-width: 900px) {
+                    .box {
+                        max-width: 45vw; /* Set max-width to half of the viewport width */
+                    }
+
+
+
+                .wrapper h1 {
+                    flex-basis: 100%; /* Span full width */
+                    margin: 0;
+                    font-size: 1.8em;
+                    text-align: center;
+                    }
+                }
+                .highlight {
+                    color: #330000; /* Change this to your preferred color */
+                    font-weight: bold; /* Make the keyword stand out */
+                }
+
+

@@ -1,4 +1,5 @@
 from datetime import datetime
+from classes.module import Module
 from classes.meeting import Meeting
 from classes.meetingManager import MeetingManager
 import requests
@@ -192,11 +193,40 @@ def download_meetings(fromDate):
                         m.agenda['Raadzaal'] = {}
                     m.agenda['Raadzaal'][key] = value
 
+                    if 'Vragenhalfuur' in value['title']:
+                        for doc in ai['documents']['document']:
+                            id = doc['@attributes']['id']
+                            title = doc['title']
+                            url = doc['url']
+                            date = doc['@attributes']['last_modified'][0:10]
+
+                            mv = Module(id)
+                            mv.pdf_url = url
+                            mv.date = date
+                            mv.meeting_url = m.meeting_url
+                            mv.meeting_id.append(event['id'])
+                            if not mv.videostarttime:
+                                mv.videostarttime = {}
+                            mv.videostarttime[event['id']] = key
+                            mv.type = 'Vraag'
+                            mv.title = title
+                            mv.save()
+
+                            if id not in m.agenda['Raadzaal'][key]['module_id']:
+                                m.agenda['Raadzaal'][key]['module_id'].append(id)
+
+
+
+
+
+
+
+
             elif gremium == 12330:
                 if 'rooms' in api_info['event'][0]:
                     for room in api_info['event'][0]['rooms']['room']:
                         for event in room['events']['event']:
-                            if 'media' in event:
+                            if 'media' in event and 'video' in event['media']:
                                 httpstreamer = event['media']['video'][0]['httpstreamer']
                                 httpname = event['media']['video'][0]['httpstreamname']
                                 location = event['location']
@@ -223,6 +253,31 @@ def download_meetings(fromDate):
                                         m.agenda[location] = {}
 
                                     m.agenda[location][key] = value
+
+                                    if 'Rondvragen' in value['title']:
+                                        if 'documents' in ai:
+                                            for doc in ai['documents']['document']:
+                                                id = doc['@attributes']['id']
+                                                title = doc['title']
+                                                url = doc['url']
+                                                date = doc['@attributes']['last_modified'][0:10]
+
+                                                mv = Module(id)
+                                                mv.pdf_url = url
+                                                mv.date = date
+                                                mv.meeting_url = m.meeting_url
+                                                mv.meeting_id.append(event['@attributes']['id'])
+                                                if not mv.videostarttime:
+                                                    mv.videostarttime = {}
+                                                mv.videostarttime[event['@attributes']['id']] = key
+                                                mv.type = 'Vraag'
+                                                mv.title = title
+                                                mv.save()
+
+                                                if id not in m.agenda[location][key]['module_id']:
+                                                    m.agenda[location][key]['module_id'].append(id)
+
+
 
             #Add subtitles:
             if location and not m.subtitles:
