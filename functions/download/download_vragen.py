@@ -13,24 +13,34 @@ def getMostRelevantPDF(m,driver):
     if soup is None:
         return
     spans = soup.find('politiek-portaal').find_all('span')
+    links  = soup.find('politiek-portaal').find_all('a')
     url= None
-    for span in spans:
-        if 'Vraag' in span.get_text():
-            path = span.parent.find('a')['href']
+    for link in links:
+        if 'Ingekomen' in link.get_text():
+            path = link['href']
             url = f'https://raadsinformatie.eindhoven.nl{path}'
             print('Vraag')
-        if 'antwoord' in span.get_text():
-            try:
-                path = span.parent.find('a')['href']
-                url = f'https://raadsinformatie.eindhoven.nl{path}'
-                print('Antwoord')
-            except:
-                print('raadsbesluit gevonden, maar kan de link niet achterhalen')
+            if isinstance(m.attachment,str) or m.attachment is None:
+                m.attachment = {}
+            m.attachment[url] = 'Vraag'
 
-            return url
+        if 'Beantwoording' in link.get_text():
+            #try:
+
+            path = link['href']
+            url = f'https://raadsinformatie.eindhoven.nl{path}'
+            print('Antwoord')
+            if isinstance(m.attachment,str) or m.attachment is None:
+                m.attachment = {}
+            m.attachment[url] = 'Antwoord'
+
+            #except:
+             #   print('raadsbesluit gevonden, maar kan de link niet achterhalen')
+
+            return m
     if url is None:
         print('Geen document gevonden')
-    return url
+    return m
 
 
 
@@ -78,7 +88,7 @@ def get_vragen_from_page(html,driver):
                 m.member = value #WILL BE PARSED INSIDE MODULE VIA m.parse()
             elif data_id == 37:
                 m.party == value #SAME ^^
-        m.pdf_url = getMostRelevantPDF(m, driver)
+        m = getMostRelevantPDF(m, driver)
         m.linkToOtherFiles()  # this will add ids where possible.
         m.updateScrapeDate()
         m.save()
@@ -88,7 +98,7 @@ def get_vragen_from_page(html,driver):
 
 def download_vragen(driver,fromDate):
  #---- get pages
-    print('RIS query for all raadsvoorstellen, this takes a while')
+    print('RIS query voor alle raadsvragen, dat kan even duren.')
 
 
     today = date.today().strftime('%d-%m-%Y')

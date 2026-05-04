@@ -134,6 +134,8 @@ def verwijderOpOm(line):
         return f' {line}'
 
 def getInhoudFromPDF(m):
+    if 'amendement' in m.type.lower():
+        print('stop maar')
     hiddenclass = 'hidden-content'
     with div(id='inhoud') as inhoud:
         if m.pdf_text:
@@ -142,7 +144,24 @@ def getInhoudFromPDF(m):
                 with p() as besluit_p:
                     # Find the positions of the start and end markers
                     start = m.pdf_text.find("Doelstelling")  # Start after 'besluit:'
-                    end = m.pdf_text.find("Argumenten")  # End position before 'Aldus vastgesteld'
+                    ends = list()
+                    ends.append(m.pdf_text.find("Argumenten"))  # End position before 'Aldus vastgesteld'
+                    ends.append(m.pdf_text.find("Uw raad voor te stellen"))
+                    ends.append(m.pdf_text.find("Voorstel"))
+
+                    end = -1
+                    for e in ends:
+                        if e != -1:
+                            if e>start:
+                                if end==-1:
+                                    end = e
+                                elif e<end:
+                                    end = e
+
+
+
+
+
 
                     # Als het een ontwerpraadsbesluit is:
                     if start != -1 and end != -1 and start < end:
@@ -151,6 +170,9 @@ def getInhoudFromPDF(m):
                         if 'Voorstel' in m.pdf_text.split('Doelstelling')[1].split('Argumenten')[0]:
                             doelstelling_text = m.pdf_text.split('Doelstelling')[1].split('Voorstel')[0]
                             voorstel_text = m.pdf_text.split('Voorstel')[1].split('Argumenten')[0]
+                        elif 'Uw raad voor te stellen' in m.pdf_text.split('Doelstelling')[1].split('Argumenten')[0]:
+                            doelstelling_text = m.pdf_text.split('Doelstelling')[1].split('Uw raad voor te stellen')[0]
+                            voorstel_text = m.pdf_text.split('Uw raad voor te stellen')[1].split('Argumenten')[0]
                         else:
                             doelstelling_text = m.pdf_text.split('Doelstelling')[1].split('Argumenten')[0]
                             voorstel_text = ''
@@ -185,8 +207,8 @@ def getInhoudFromPDF(m):
                                     if indexend == -1:
                                         indexend = voorstel_text.find(f'{counter + 1}) ')
                                     li(voorstel_text[index + 2:indexend])
-                    if 'Collegebrief' in m.pdf_text:
-                        p('Die je kun je het beste even zelf lezen:')
+                    if 'Collegebrief' in m.type:
+                        p('Die kun je het beste even zelf lezen:')
                         a('Lees de brief hier', href=m.pdf_url)
                         return
 
@@ -216,6 +238,30 @@ def getInhoudFromPDF(m):
                                 if indexend == -1:
                                     indexend = voorstel_text.find(f'{counter + 1}) ')
                                 li(voorstel_text[index + 2:indexend])
+
+                    if 'amendement' in m.type.lower():
+                        txt = m.pdf_text.replace('  ', ' ')
+                        if 'De indieners stellen voor' in txt:
+                            text_to_dominate_lists(txt.split('De indieners stellen voor')[1])
+                        elif 'stellen daarom voor' in txt:
+                            text_to_dominate_lists(txt.split('stellen daarom voor')[1])
+                        elif 'De indieners stellen de raad voor' in txt:
+                            text_to_dominate_lists(txt.split('De indieners stellen de raad voor')[1])
+                        elif 'stelt voor' in txt:
+                            text_to_dominate_lists(txt.split('stelt voor')[1])
+                        elif 'stellen voor' in txt:
+                            text_to_dominate_lists(txt.split('stellen voor')[1])
+                        elif 'luidende' in txt:
+                            text_to_dominate_lists(txt.split('luidende')[1])
+                        elif 'stellen zij een aanpassing' in txt:
+                            text_to_dominate_lists(txt.split('stellen zij een aanpassing')[1])
+                        elif 'aan te passen' in txt:
+                            text_to_dominate_lists(txt.split('aan te passen')[1])
+                        elif 'college van burgemeester en wethouders op om' in txt:
+                            text_to_dominate_lists(txt.split('college van burgemeester en wethouders op om')[1])
+
+                        else:
+                            print('what else?')
                     if 'motie' in m.type.lower():
                         sentences = re.split(r'[;:]', m.pdf_text)
                         s = 0
@@ -225,12 +271,31 @@ def getInhoudFromPDF(m):
 
                         if 'De raad roept' in txt:
                             text_to_dominate_lists(txt.split('De raad roept')[1])
-                        if 'oept het college op' in txt:
-                            text_to_dominate_lists(txt.split('oept het college op')[1])
-                        if 'draagt het college van' in txt:
-                            text_to_dominate_lists(txt.split('draagt het college van')[1])
-                        if 'roepen het college' in txt:
+                        elif 'oept het college' in txt:
+                            text_to_dominate_lists(txt.split('oept het college')[1])
+                        elif 'raagt het college van' in txt:
+                            text_to_dominate_lists(txt.split('raagt het college van')[1])
+                        elif 'raagt het college op' in txt:
+                            text_to_dominate_lists(txt.split('raagt het college op')[1])
+                        elif 'ragen het college' in txt:
+                            text_to_dominate_lists(txt.split('ragen het college')[1])
+                        elif 'erzoekt het college' in txt:
+                            text_to_dominate_lists(txt.split('erzoekt het college')[1])
+                        elif 'roepen het college' in txt:
                             text_to_dominate_lists(txt.split('roepen het college')[1])
+                        elif 'raad spreekt uit' in txt:
+                            text_to_dominate_lists(txt.split('raad spreekt uit')[1])
+                        elif 'verzoeken het college' in txt:
+                            text_to_dominate_lists(txt.split('verzoeken het college')[1])
+                        elif 'stellen voor' in txt:
+                            text_to_dominate_lists(txt.split('stellen voor')[1])
+                        elif 'en wethouders op' in txt:
+                            text_to_dominate_lists(txt.split('en wethouders op')[1])
+                        elif 'roepen op om' in txt:
+                            text_to_dominate_lists(txt.split('roepen op om')[1])
+
+                        else:
+                            print('what else')
 
                         if 0:
 

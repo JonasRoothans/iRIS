@@ -150,6 +150,11 @@
                             /*background-color:#aa88ff;*/
                             }
 
+                        .burgerlink{
+                            display: inline-block;
+                            width: 100%;
+                            }
+
                         .title {
                             color: #333333;
                             font-size: 1.2em;
@@ -217,6 +222,13 @@
                             }
                         .hidden-content.showflex{
                             display:flex !important;
+                            }
+
+                        .hamburgermenu {
+                            display:none;}
+
+                        .hamburgermenu.show{
+                            display:block;
                             }
 
                         #kwlist{
@@ -602,6 +614,19 @@ height:80vh;}
 .fav:hover {
   color: gold;
 }
+
+.hamburger{
+  background: none;
+  color: #444;
+  border: none;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.hamburger:hover {
+  color:#aa88ff;
+}
+
 .favoriet {
 color:gold;
 }

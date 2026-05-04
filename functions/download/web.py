@@ -16,7 +16,11 @@ def setup_driver():
     # Set up Selenium options
     chrome_options = Options()
     chrome_options.add_argument('--headless')  # Run headless Chrome
-    chrome_options.add_argument('--disable-gpu')
+    #chrome_options.add_argument('--disable-gpu')
+    chrome_options.add_argument("--no-sandbox")
+    chrome_options.add_argument("--disable-dev-shm-usage")
+
+
 
 
     # Specify the path to the ChromeDriver
@@ -25,7 +29,8 @@ def setup_driver():
     # Initialize the WebDriver
     #service = ChromeService(executable_path=chromedriver_path)
     #driver = webdriver.Chrome(service=service, options=chrome_options)
-    driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()))
+    driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()),
+                              options=chrome_options)
     return driver
 
 def teardown_driver(driver):
@@ -33,6 +38,9 @@ def teardown_driver(driver):
 
 def visitPage(url):
     #print(f"Scraping: {url}")
+    if url.startswith('#'):
+        print(f'invalid url: {url}')
+        return ''
     response = requests.get(url)
     if not response.ok:
         print(f"{url}: did not load correctly")
@@ -85,15 +93,6 @@ def visitPageAndWaitForPolitiekPortaal(driver, url):
     except Exception as e:
         print(f"An error occurred: {e}")
 
-        # Wait for the text 'Raadsbesluit' as a fallback
-        WebDriverWait(driver, 30).until(
-            EC.presence_of_element_located((By.XPATH, "//*[contains(text(), 'Raadsbesluit')]"))
-        )
-
-        # Wait until the 'loading-text' class is no longer visible (fallback case)
-        WebDriverWait(driver, 30).until(
-            EC.invisibility_of_element_located((By.CLASS_NAME, "loading-text"))
-        )
 
         print("Page loaded, 'Raadsbesluit' is present, and 'loading-text' is no longer visible.")
 

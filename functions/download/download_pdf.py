@@ -58,11 +58,17 @@ def download_pdf(start_date):
         if module.get_date() < start_date.date():
             continue
 
-        if not module.pdf_url and not module.type=='Toezegging':
+
+
+        if not module.attachment and not module.type=='Toezegging':
             module.getPdfUrlFromMeetingUrl()
-        if module.pdf_url and not module.pdf_text:
-            pdf = getPDF(module.pdf_url)
+        if module.attachment and not module.pdf_text:
+            if isinstance(module.attachment,str):
+                firstAttachment = module.attachment
+            else:
+                firstAttachment =list(module.attachment.keys())[0]
             try:
+                pdf = getPDF(firstAttachment)
                 text = readPDF(pdf)
             except:
                 text = ''

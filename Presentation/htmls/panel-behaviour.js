@@ -1,12 +1,13 @@
 document.addEventListener('DOMContentLoaded', function () {
     const collapsibleDivs = document.querySelectorAll('.collapsible');
     const closeButtons = document.querySelectorAll('.close-button');
+    const hamburgers= document.querySelectorAll('.hamburger');
 
     // Add click event to collapsible divs
     collapsibleDivs.forEach(function (div) {
         div.addEventListener('click', function (event) {
             // Prevent the collapse/expand functionality if the click is on a link or close button
-            if (event.target.tagName === 'A' || event.target.closest('a') || event.target.classList.contains('close-button')) {
+            if (event.target.tagName === 'A' || event.target.closest('a') || event.target.classList.contains('close-button') || event.target.classList.contains('hamburgermenu')) {
                 event.stopPropagation(); // Stop the click from bubbling to the parent div
                 return;
             }
@@ -62,6 +63,20 @@ document.addEventListener('DOMContentLoaded', function () {
             });
         });
     });
+
+    //Click event to hamburgermenu
+    hamburgers.forEach(function(hamb) {
+        hamb.addEventListener('click',function(event){
+        event.stopPropagation();
+
+        const menu = hamb.parentElement.parentElement.getElementsByClassName('hamburgermenu')[0]
+        if (menu.classList.contains('show')){
+                menu.classList.remove('show')
+                } else {
+                menu.classList.add('show')}
+
+        })
+    })
 
     // Add click event to close buttons
     closeButtons.forEach(function (btn) {

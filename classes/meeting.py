@@ -65,20 +65,47 @@ class Meeting:
             MeMa.addall()
             found_match = 0
             for parentmeeting in MeMa.meetings:
-                if meeting_id in list(parentmeeting.meeting_subid.values()):
+                if int(meeting_id) in list(parentmeeting.meeting_subid.values()):
                     file_path = cwdpath(os.path.join('json', 'meetings', f'{parentmeeting.meeting_id}.json'))
                     if os.path.exists(file_path):
                         found_match = 1
+
+
+                        #write ref file for quick reference in the future
+                        directory_path = cwdpath(os.path.join('json', 'meetings'))
+                        file_path = os.path.join(directory_path, f"{meeting_id}.json")
+                        with open(file_path, 'w', encoding='utf-8') as f:
+                            output = {}
+                            output['ref'] = parentmeeting.meeting_id
+                            json.dump(output, f, ensure_ascii=False, indent=4)
+
+
                         break #subid was found
 
             if not found_match:
                 self.title = f'Vergadering: {meeting_id}'
                 print(f'New meeting created: {meeting_id}')
                 self.meeting_id = int(meeting_id)
+
+                # write ref file for quick reference in the future
+                directory_path = cwdpath(os.path.join('json', 'meetings'))
+                file_path = os.path.join(directory_path, f"{meeting_id}.json")
+                with open(file_path, 'w', encoding='utf-8') as f:
+                    output = {}
+                    output['ref'] = None
+                    json.dump(output, f, ensure_ascii=False, indent=4)
+
                 return
         with open(file_path, 'r') as file:
             try:
                 data = json.load(file)
+                if 'ref' in data:
+                    id = data['ref']
+                    if id is None:
+                        return
+                    file_path = cwdpath(os.path.join('json', 'meetings', f'{id}.json'))
+                    with open(file_path, 'r') as file2:
+                        data = json.load(file2)
             except:
                 print(f'FILE CORRUPTED ---------> {file}')
                 return None
@@ -224,6 +251,8 @@ class Meeting:
 
     def addModuleToAgenda(self,module):
         for id in module.meeting_url:
+            if not self.meeting_subid:
+                continue
             if int(id) not in list(self.meeting_subid.values()):
                 continue
             if not '#ai' in module.meeting_url[id]:
@@ -307,7 +336,10 @@ class Meeting:
             for room in dict['speakers']:
                 speakers_in_room= {}
                 for key in dict['speakers'][room]:
-                    speakers_in_room[key] = dict["speakers"][room][key].__dict__
+                    if not isinstance(dict["speakers"][room][key],Dict):
+                        speakers_in_room[key] = dict["speakers"][room][key].__dict__
+                    else:
+                        speakers_in_room[key] = dict["speakers"][room][key]
                 dict["speakers"][room] = speakers_in_room
 
         else:

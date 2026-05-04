@@ -46,7 +46,7 @@ class MeetingManager:
             return self.meetings.index(m)
 
         if m.date is None: #still none? then skip
-            print(f'Meeting {m_id} ({m.title}) could not be added because a date is missing')
+            #print(f'Meeting {m_id} ({m.title}) could not be added because a date is missing')
             return None
         if m.date[4]=='-': #dash in this position indicates it starts with YYYY
             m.date = datetime.strptime(m.date[0:10], '%Y-%m-%d').strftime('%d-%m-%Y')

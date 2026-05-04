@@ -3,6 +3,7 @@ from functions.download import web
 from classes.module import Module
 from classes.meeting import Meeting
 from datetime import date
+from datetime import datetime
 import re
 
 
@@ -34,6 +35,8 @@ def getInfoFromModulePage(m,driver):
     m.pdf_url =  url
     #zoek de bijlages and meeting urls
     linkbox =  soup.find('div', class_='modules-public-app-history-documents')
+    if not linkbox:
+        return
     if linkbox:
         links = linkbox.findAll('a')
         if isinstance(m.attachment,str):
@@ -73,10 +76,6 @@ def get_raadsvoorstellen_from_page(html,driver):
         print(count)
         count += 1
 
-        if count<435:
-            continue
-            #todo: verwijder
-
 
 
         data_fields = row.find_all('dd')
@@ -87,7 +86,9 @@ def get_raadsvoorstellen_from_page(html,driver):
             continue
 
 
+
         m = Module(module_id)
+
         m.type = 'Raadsvoorstel'
         if m.url is None:
             m.url = row.parent.find('td',class_='item_actions').find('a')['href']
@@ -137,15 +138,18 @@ def get_raadsvoorstellen_from_page(html,driver):
             elif data_id == 62:
                 m.result = value
             elif data_id == 2:
+                if m.attachment is None:
+                    m.attachment = {}
                 try:
-                    m.attachment = data_field.a['href']
+                    m.attachment[data_field.a['href']] = data_field.text.strip()
                 except:
-                    m.attachment = None
+                    m.attachment = {}
             elif data_id==71 and m.vote_id is None:
                 m.result = value
                 print(f'no votes registered for {m.title}')
 
         print('Extracting data from module page')
+
         getInfoFromModulePage(m,driver)
 
         print('Linking json files')

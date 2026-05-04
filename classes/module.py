@@ -623,6 +623,9 @@ class Module:
         else:
             url = self.meeting_url
         soup = web.visitPage(url)
+        if isinstance(soup,str):
+            print('aborting this one. see ya')
+            return
 
         if '-' in self.title:
             lastPartOfTitle = self.title.split('-')[-1]

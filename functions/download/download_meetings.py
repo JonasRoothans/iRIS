@@ -194,26 +194,29 @@ def download_meetings(fromDate):
                     m.agenda['Raadzaal'][key] = value
 
                     if 'Vragenhalfuur' in value['title']:
-                        for doc in ai['documents']['document']:
-                            id = doc['@attributes']['id']
-                            title = doc['title']
-                            url = doc['url']
-                            date = doc['@attributes']['last_modified'][0:10]
+                        if 'documents' in ai:
+                            for doc in ai['documents']['document']:
+                                id = doc['@attributes']['id']
+                                title = doc['title']
+                                url = doc['url']
+                                date = doc['@attributes']['last_modified'][0:10]
 
-                            mv = Module(id)
-                            mv.pdf_url = url
-                            mv.date = date
-                            mv.meeting_url = m.meeting_url
-                            mv.meeting_id.append(event['id'])
-                            if not mv.videostarttime:
-                                mv.videostarttime = {}
-                            mv.videostarttime[event['id']] = key
-                            mv.type = 'Vraag'
-                            mv.title = title
-                            mv.save()
+                                mv = Module(id)
+                                mv.pdf_url = url
+                                mv.date = date
+                                if isinstance(mv.meeting_url, str):
+                                    mv.meeting_url = {}
+                                mv.meeting_url[event['id']] = m.meeting_url
+                                mv.meeting_id.append(event['id'])
+                                if not mv.videostarttime:
+                                    mv.videostarttime = {}
+                                mv.videostarttime[event['id']] = key
+                                mv.type = 'Vraag'
+                                mv.title = title
+                                mv.save()
 
-                            if id not in m.agenda['Raadzaal'][key]['module_id']:
-                                m.agenda['Raadzaal'][key]['module_id'].append(id)
+                                if id not in m.agenda['Raadzaal'][key]['module_id']:
+                                    m.agenda['Raadzaal'][key]['module_id'].append(id)
 
 
 
@@ -265,7 +268,9 @@ def download_meetings(fromDate):
                                                 mv = Module(id)
                                                 mv.pdf_url = url
                                                 mv.date = date
-                                                mv.meeting_url = m.meeting_url
+                                                if isinstance(mv.meeting_url,str):
+                                                    mv.meeting_url = {}
+                                                mv.meeting_url[event['@attributes']['id']] = m.meeting_url
                                                 mv.meeting_id.append(event['@attributes']['id'])
                                                 if not mv.videostarttime:
                                                     mv.videostarttime = {}
@@ -282,6 +287,8 @@ def download_meetings(fromDate):
             #Add subtitles:
             if location and not m.subtitles:
                 m.subtitles = {}
+                m.subtitles[location] = None
+            if location and location not in m.subtitles:
                 m.subtitles[location] = None
             if location and not m.subtitles[location]:
                 srt_url = get_srt_url(m)

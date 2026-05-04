@@ -51,6 +51,7 @@ def download_updates(driver, fromDate):
         if m.get_date() > fromDate.date():
             update(m,driver)
 
+
 def download_update(driver,id):
     m = Module(id)
     update(m,driver)
