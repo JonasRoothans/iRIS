@@ -20,10 +20,37 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Run scraper
-        run: python scraper.py
+      - name: Scrape votes
+        run: python scraper.py votes
 
-      - name: Generate search index and HTML pages
+      - name: Scrape meetings
+        run: python scraper.py meetings
+
+      - name: Scrape moties
+        run: python scraper.py moties
+
+      - name: Scrape raadsvoorstellen
+        run: python scraper.py raadsvoorstellen
+
+      - name: Scrape amendementen
+        run: python scraper.py amendementen
+
+      - name: Scrape brieven
+        run: python scraper.py brieven
+
+      - name: Scrape vragen
+        run: python scraper.py vragen
+
+      - name: Download PDFs
+        run: python scraper.py pdf
+
+      - name: Download updates
+        run: python scraper.py updates
+
+      - name: Keyword analysis
+        run: python scraper.py keywords
+
+      - name: Generate HTML
         run: python build.py
 
       - name: Commit updated files
@@ -31,5 +58,5 @@ jobs:
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add data/ public/
-          git diff --staged --quiet || git commit -m "Daily update"
+          git diff --staged --quiet || git commit -m "Daily update $(date +'%Y-%m-%d')"
           git push
