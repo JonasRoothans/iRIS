@@ -1,0 +1,49 @@
+{
+    "module_id": 1112880,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Raadsbrief openbaar maken actieplan 'Zo werkt arbeidsmigratie voor iedereen'",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/8/Raadsbrieven/1112880",
+    "type": "Raadsbrief",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "10-12-2025",
+    "meeting_url": null,
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": "8086913_07a",
+    "related": [
+        {
+            "id": 1122434,
+            "weight": 1.2970285951793739
+        },
+        {
+            "id": 1112868,
+            "weight": 1.2682751264420535
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Raadsbrief openbaar": 1.9505961599793435,
+        "maken actieplan": 1.9505961599793435,
+        "openbaar maken": 1.9029960071342575,
+        "werkt arbeidsmigratie": 1.9029960071342575,
+        "iedereen": 1.8416830712200127,
+        "maken": 1.702634417439785,
+        "werkt": 1.702634417439785
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": null,
+    "meeting_id": []
+}

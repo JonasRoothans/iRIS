@@ -1,0 +1,145 @@
+{
+    "module_id": 953414,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Overzicht met een tijdlijn en welke trajecten- Regionale verdringing op de woningmarkt terugdringen (Agenderingsverzoek GroenLinks)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/moties_en_toezeggingen/953414?parent_event=1147967",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "18-06-2024",
+    "meeting_url": {
+        "1147967": "https://raadsinformatie.eindhoven.nl/vergadering/1147967#ai_8506557"
+    },
+    "attachment": null,
+    "parent": "ai_8506557",
+    "children": [],
+    "text": "Wethouder Verhees zegt toe om de raad een overzicht te sturen, met een tijdlijn, welke trajecten er lopen, op welke schaal, en wanneer de raad betrokken wordt. Hierbij neemt ze de aantallen t.b.v. de woondeal mee.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": "ai_8506557",
+            "weight": 4.218354157072385
+        },
+        {
+            "id": 953415,
+            "weight": 3.7842945031536392
+        },
+        {
+            "id": 15306707,
+            "weight": 0.32318771970695537
+        },
+        {
+            "id": 955604,
+            "weight": 0.29861067385881485
+        },
+        {
+            "id": 1089477,
+            "weight": 0.2933067645891752
+        },
+        {
+            "id": 1021300,
+            "weight": 0.2374332854252351
+        },
+        {
+            "id": 775220,
+            "weight": 0.23023312891220885
+        },
+        {
+            "id": 1126669,
+            "weight": 0.2162058420494822
+        },
+        {
+            "id": 1125838,
+            "weight": 0.21122842267178046
+        },
+        {
+            "id": 1023853,
+            "weight": 0.2094452648977328
+        },
+        {
+            "id": 850874,
+            "weight": 0.20586153750559608
+        },
+        {
+            "id": 1128291,
+            "weight": 0.18264515349085242
+        },
+        {
+            "id": 1061833,
+            "weight": 0.17707414929872237
+        },
+        {
+            "id": "a_8569201",
+            "weight": 0.15725160863993112
+        },
+        {
+            "id": 1037936,
+            "weight": 0.14859783963142048
+        },
+        {
+            "id": 909641,
+            "weight": 0.14691245609741208
+        },
+        {
+            "id": 831605,
+            "weight": 0.14519297990411884
+        },
+        {
+            "id": 861841,
+            "weight": 0.14337020648142634
+        },
+        {
+            "id": 920515,
+            "weight": 0.14128450483888894
+        },
+        {
+            "id": 1123568,
+            "weight": 0.12001953629710696
+        },
+        {
+            "id": 1052610,
+            "weight": 0.09879246924880025
+        }
+    ],
+    "videostarttime": {
+        "1147967": 649
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_18.06.24_Eindhoven_CIE.mp4/playlist.m3u8",
+    "keywords": {
+        "Wethouder Verhees": 0.9962958048076553,
+        "Agenderingsverzoek GroenLinks": 1.9941842498566382,
+        "Regionale verdringing": 1.992361753290431,
+        "Verhees zegt": 0.9905348589155759,
+        "woningmarkt terugdringen": 1.9850905283112645,
+        "raad betrokken": 0.9832538284374811,
+        "Regionale": 1.945377610026298,
+        "tijdlijn": 1.9406590280757494,
+        "trajecten": 1.9406590280757494,
+        "raad": 0.9406590280757493,
+        "Overzicht": 1.9271918513818425,
+        "terugdringen": 1.894143724489843,
+        "GroenLinks": 1.894143724489843,
+        "sturen": 0.894143724489843,
+        "lopen": 0.894143724489843,
+        "schaal": 0.894143724489843,
+        "Hierbij neemt": 0.8832407953424289,
+        "woondeal mee": 0.8832407953424289,
+        "woningmarkt": 1.8612227301086786,
+        "zegt": 0.8612227301086787,
+        "aantallen": 0.7086314530113307,
+        "mee": 0.7086314530113307,
+        "neemt": 0.6411698562841174
+    },
+    "svz": null,
+    "afgedaan": "03-09-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

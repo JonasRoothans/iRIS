@@ -1,0 +1,127 @@
+{
+    "module_id": 15092254,
+    "vote_id": null,
+    "member_id": [
+        80968
+    ],
+    "party_list": [
+        "SP"
+    ],
+    "poho_id": [],
+    "title": "Rondvraag 3 - Informatie over afvalcontainers (SP)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "28-01-2025",
+    "meeting_url": {
+        "1256305": "https://raadsinformatie.eindhoven.nl/vergadering/1256304/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://api.notubiz.nl/document/15092254/1",
+    "pdf_text": " \n \n \nRondvraag  “Informatie over afvalcontainers”  \n \n                    28 januari 2025  \n \nGeachte college,  \n \nMensen met medische beperkingen zoals bijvoorbeeld een chronische ziekte \nhebben naast andere moeilijkheden vaak ook te maken met extra kosten vanwege \nhun ziekte.  \nSoms zijn medische redenen er de oorzaak van dat  huishoudens meer afval \nproduceren dan andere .  \nGelukkig heeft de gemeente Eindhoven het zo geregeld dat een extra \nafvalcontainer niet tot extra kosten hoeft te leiden wanneer deze nodig is vanwege \nhandicap of ziekte.  \nDat vindt onze fractie fijn en passend in een stad met het motto ‘iedereen doet \nmee’.  \n \nWij zijn benieuwd naar de voorlichting en communicatie die hierover is geweest  en \nnog zal plaatsvinden.  Vandaar onze vra gen:  \n \n1. Op welke wijze zijn/worden mensen die als gevolg van een medische \nbeperking  extra afvalcontainers nodig hebben  geïnformeerd over het feit \ndat zij  hiervoor niet extra hoeven te betalen?  \n2. Op welke wijze zijn /worden betrokken organisaties en hulpverleners \nhierover geïnformeerd?  \n \nTe denken valt aan ondersteuners op zowel financieel gebied als in het dagelijkse \nleven. Bijvoorbeeld: WIJ Eindhoven, thuiszorgorganisaties, huisarts praktijken,  \nGGD,  WMO -consulenten,  Humanitas , de Voedselbank enz. enz.  \n \n \nHet lid van de raad,  \nJannie Visscher, SP  \n \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 12943387,
+            "weight": 0.786824761341021
+        },
+        {
+            "id": 877845,
+            "weight": 0.30636561002748913
+        },
+        {
+            "id": 1125026,
+            "weight": 0.11022181411545053
+        },
+        {
+            "id": 1007170,
+            "weight": 0.10355752125762586
+        },
+        {
+            "id": 16029243,
+            "weight": 0.09233377052171869
+        },
+        {
+            "id": 1086869,
+            "weight": 0.08537689073019254
+        },
+        {
+            "id": 1133048,
+            "weight": 0.08514206255534797
+        },
+        {
+            "id": 850351,
+            "weight": 0.0835137588773155
+        },
+        {
+            "id": 862747,
+            "weight": 0.07500448812458525
+        },
+        {
+            "id": 808723,
+            "weight": 0.07128565586362348
+        },
+        {
+            "id": 12471553,
+            "weight": 0.06715841867170604
+        },
+        {
+            "id": 1091279,
+            "weight": 0.05768197012703274
+        }
+    ],
+    "videostarttime": {
+        "1256305": 9938
+    },
+    "videolink": null,
+    "keywords": {
+        "Geachte college": 0.9873402997390458,
+        "Informatie": 1.9747848124895282,
+        "Rondvraag": 1.9741231403347257,
+        "Geachte": 0.9306100132506465,
+        "extra kosten": 0.9197367658040326,
+        "extra": 0.9132301408752752,
+        "chronische ziekte": 0.9029811514126885,
+        "medische beperkingen": 0.8812719339978871,
+        "ziekte": 0.8719623903555356,
+        "januari": 0.8675989180095441,
+        "afvalcontainers": 1.8664553090222011,
+        "medische": 0.8463528917342661,
+        "kosten": 0.8405873765777852,
+        "college": 0.8198380426895682,
+        "kosten hoeft": 0.8060440815178771,
+        "Eindhoven": 0.7983654047736393,
+        "Gelukkig": 0.7943028889690761,
+        "Jannie Visscher": 0.7868493366187544,
+        "Mensen": 0.785251029998844,
+        "naast": 0.7697587076727899,
+        "moeilijkheden": 0.7697587076727899,
+        "maken": 0.7697587076727899,
+        "gemeente Eindhoven": 0.7413877918406864,
+        "wijze": 0.7262569083639515,
+        "nodig": 0.6973908977794562,
+        "hierover": 0.6759583444844732,
+        "geïnformeerd": 0.6666665995042004,
+        "afval produceren": 0.6493575702770776,
+        "GGD": 0.6488809881128594,
+        "WMO": 0.6488809881128594,
+        "Humanitas": 0.6488809881128594,
+        "Jannie": 0.580834071409098,
+        "Soms": 0.5671451919784845,
+        "beperking extra": 0.5642498808073896,
+        "Voedselbank": 0.5404878949226131
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 80968,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1256305
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "module_id": 881601,
+    "vote_id": null,
+    "member_id": [
+        42090
+    ],
+    "party_list": [
+        "LPF "
+    ],
+    "poho_id": [],
+    "title": "Beantwoording raadsvragen Goed voorbeeld doet goed volgen (LPF)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/4/Raadsvragen/881601",
+    "type": "Raadsvraag",
+    "member": "Rudy Reker",
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "29-09-2023",
+    "meeting_url": null,
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/13267517/1?connection_type=17&connection_id=9807978": "Vraag",
+        "https://raadsinformatie.eindhoven.nl/document/13394912/2?connection_type=17&connection_id=9886558": "Antwoord"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/13267517/1?connection_type=17&connection_id=9807978",
+    "pdf_text": " \n \n29 september  2023  \n \n \nGoed voorbeeld doet goed volgen  \n \nGeacht college,  \n \nOngetwijfeld heeft ook u vanuit de media vernomen dat wethouder Vincent Karremans uit \nRotterdam een nieuw wapen in de strijd heeft geworpen om het gebruik van drugs in zijn stad  \ntegen te gaan. ‘Gebruikers van drugs beseffen onvoldoende  dat ze daarmee de drug smaffia \nsponseren.’  \nOok in onze stad Eindhoven mogen wij niet lijdzaam toezien hoe drugs onze jeugd de vernieling in \nhelpt , waarbij de drug smaffia de lachende derde is.  \n \nDat brengt mij tot de volgende vragen : \n \n- Heeft het college iets van deze anti -drugs  campagne meegekregen?  \n  \n- Is het college bereid om ook in onze stad deze anti -drugs campagne over te nemen?  \n \n- Zo ja, wanneer kunnen wij daarvan de resultaten verwachten?  \n \n- Hoe denkt het college erover om deze campagne in de gehele Brainportregio uit te rollen?  \n \n \nRudy Reker  \n \n \n \n \n",
+    "bst": "23bst01488",
+    "related": [
+        {
+            "id": 13641519,
+            "weight": 0.5493818953090512
+        },
+        {
+            "id": 12896406,
+            "weight": 0.438539342253889
+        },
+        {
+            "id": 891821,
+            "weight": 0.38758138431699435
+        },
+        {
+            "id": 892411,
+            "weight": 0.31832557100169956
+        },
+        {
+            "id": 991663,
+            "weight": 0.3030373550724063
+        },
+        {
+            "id": 850256,
+            "weight": 0.2899019486601249
+        },
+        {
+            "id": 1093575,
+            "weight": 0.23764227010521102
+        },
+        {
+            "id": 15634380,
+            "weight": 0.13646684311427795
+        },
+        {
+            "id": 815678,
+            "weight": 0.12983261069755106
+        },
+        {
+            "id": "a_7349640",
+            "weight": 0.12156411995331919
+        },
+        {
+            "id": 12321433,
+            "weight": 0.11345376845535242
+        },
+        {
+            "id": 873713,
+            "weight": 0.11299876282523631
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Goed voorbeeld": 1.9958425203731107,
+        "Vincent Karremans": 0.9945742542209585,
+        "volgen Geacht": 0.989125142021786,
+        "raadsvragen Goed": 1.9864992030984405,
+        "wethouder Vincent": 0.9848210380659538,
+        "Goed": 1.9836382190123762,
+        "Geacht college": 0.9664461213977258,
+        "Beantwoording raadsvragen": 1.9632026237510554,
+        "media vernomen": 0.9567820111089412,
+        "nieuw wapen": 0.9567820111089412,
+        "LPF": 1.9427864498328276,
+        "Ongetwijfeld": 0.9346595069904247,
+        "drugs": 0.9297998618309549,
+        "volgen": 1.9267780174645712,
+        "Geacht": 0.9265393579743728,
+        "Vincent": 0.9265393579743728,
+        "Rotterdam": 0.9265393579743728,
+        "drug smaffia": 0.9189075993312561,
+        "drugs campagne": 0.8950868244667529,
+        "college": 0.8895171428381602,
+        "stad Eindhoven": 0.8665761349777242,
+        "stad": 0.862952496814313,
+        "september": 0.8539184022047177,
+        "gaan": 0.8256274089864691,
+        "Gebruikers": 0.8046371342025412,
+        "drugs beseffen": 0.8023307923618062,
+        "smaffia sponseren.’": 0.7977424206087105,
+        "media": 0.7964623560074977,
+        "nieuw": 0.7964623560074977,
+        "wapen": 0.7964623560074977,
+        "strijd": 0.7964623560074977,
+        "geworpen": 0.7964623560074977,
+        "anti": 0.7934433803782855,
+        "beseffen onvoldoende": 0.716138487646155,
+        "Rudy Reker": 0.6675678522491099,
+        "gehele Brainportregio": 0.6267048080967126,
+        "Reker": 0.6172994716332418,
+        "campagne meegekregen": 0.6107592690284978,
+        "college bereid": 0.6021763517685639,
+        "lijdzaam toezien": 0.5337374753813369,
+        "lachende derde": 0.5337374753813369,
+        "daarmee": 0.5297875041715139
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 42090,
+    "lastScrapeDate": "02-04-2026",
+    "meeting_id": []
+}

@@ -1,0 +1,120 @@
+{
+    "module_id": 1134425,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230656,
+    "title": "Makkelijker melden (Vraag V4 Vragenhalfuur)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1134425",
+    "type": "Toezegging",
+    "member": "",
+    "party": "",
+    "poho": "J. Dijsselbloem (Burgemeester)",
+    "result": "",
+    "date": "10-02-2026",
+    "meeting_url": {
+        "1374859": "https://raadsinformatie.eindhoven.nl/vergadering/1374859#ai_9410433"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": "Burgemeester Dijsselbloem zegt toe actie te ondernemen om de vindbaarheid van de Stop Intimidatie-app te bevorderen.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 16590021,
+            "weight": 2.3599563122459726
+        },
+        {
+            "id": 834595,
+            "weight": 0.2638460692631716
+        },
+        {
+            "id": 949477,
+            "weight": 0.23737237217238485
+        },
+        {
+            "id": 776905,
+            "weight": 0.16616680027251257
+        },
+        {
+            "id": 12876589,
+            "weight": 0.16181906698168286
+        },
+        {
+            "id": 974304,
+            "weight": 0.15616281647166969
+        },
+        {
+            "id": 1035123,
+            "weight": 0.1555215633967955
+        },
+        {
+            "id": 853371,
+            "weight": 0.15501740676707526
+        },
+        {
+            "id": 1085536,
+            "weight": 0.1531444796325012
+        },
+        {
+            "id": 1019862,
+            "weight": 0.14239086218813732
+        },
+        {
+            "id": 845410,
+            "weight": 0.1251016002794884
+        },
+        {
+            "id": 949479,
+            "weight": 0.1036736004531925
+        },
+        {
+            "id": 13540297,
+            "weight": 0.10355190562326774
+        },
+        {
+            "id": 1036407,
+            "weight": 0.09998978913898927
+        },
+        {
+            "id": 1037336,
+            "weight": 0.09774654779321049
+        },
+        {
+            "id": 974126,
+            "weight": 0.08477079990309595
+        },
+        {
+            "id": 15393301,
+            "weight": 0.0745106262749322
+        }
+    ],
+    "videostarttime": {
+        "1374859": 1020
+    },
+    "videolink": null,
+    "keywords": {
+        "Burgemeester Dijsselbloem": 0.9950748962302097,
+        "Stop Intimidatie-app": 0.9925553183866472,
+        "Makkelijker melden": 1.990760667672852,
+        "Dijsselbloem zegt": 0.986202801796007,
+        "Vraag": 1.9696036283675864,
+        "Vragenhalfuur": 1.9696036283675864,
+        "Burgemeester": 0.9429876123096684,
+        "Stop": 0.9140368224837344,
+        "melden": 1.9043195497355658,
+        "bevorderen": 0.9043195497355658,
+        "zegt": 0.8416830712200127,
+        "actie": 0.8416830712200127,
+        "ondernemen": 0.8416830712200127,
+        "vindbaarheid": 0.8416830712200127
+    },
+    "svz": "",
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "08-04-2026",
+    "meeting_id": []
+}

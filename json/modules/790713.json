@@ -1,0 +1,131 @@
+{
+    "module_id": 790713,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": null,
+    "title": "Masterplan Mobiliteit",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/790713",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Esselbrugge (Wethouder)",
+    "result": "",
+    "date": "01-11-2022",
+    "meeting_url": {
+        "1034745": "https://raadsinformatie.eindhoven.nl/vergadering/1034745#ai_7087454"
+    },
+    "attachment": null,
+    "parent": "ai_7087454",
+    "children": [],
+    "text": "Eind 2023 komt een Masterplan Binnenstedelijke Mobiliteit naar de raad, dit betreft een Visie 2050 (vanuit het perspectief vaan de reiziger) met een concrete actieagenda. In aanloop daar naartoe komt een Startnotitie naar de raad (wordt opgesteld in Q1), met een nieuwe doorrekening van klimaatdoelstellingen i.r.t. mobiliteit.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": "a_7593085",
+            "weight": 0.22386320530359324
+        },
+        {
+            "id": "a_7585337",
+            "weight": 0.22095707229738648
+        },
+        {
+            "id": 13910001,
+            "weight": 0.14620170171415517
+        },
+        {
+            "id": 925501,
+            "weight": 0.0652605499935533
+        },
+        {
+            "id": 844331,
+            "weight": 0.06281849216241928
+        },
+        {
+            "id": 790692,
+            "weight": 0.06062995573167026
+        },
+        {
+            "id": 836481,
+            "weight": 0.05226734481441389
+        },
+        {
+            "id": 863856,
+            "weight": 0.05087638611373836
+        },
+        {
+            "id": 1015799,
+            "weight": 0.04763762140681797
+        },
+        {
+            "id": 791820,
+            "weight": 0.04742946897632852
+        },
+        {
+            "id": 1125664,
+            "weight": 0.04671517316609761
+        },
+        {
+            "id": 1013484,
+            "weight": 0.04671462384897282
+        },
+        {
+            "id": 1133030,
+            "weight": 0.046540621099870366
+        },
+        {
+            "id": 956511,
+            "weight": 0.04563408034482677
+        },
+        {
+            "id": 863894,
+            "weight": 0.0449908628745396
+        },
+        {
+            "id": 1105348,
+            "weight": 0.04465755155811289
+        },
+        {
+            "id": 11875831,
+            "weight": 0.039091555489864795
+        },
+        {
+            "id": 856558,
+            "weight": 0.038801094882051
+        }
+    ],
+    "videostarttime": {
+        "1034745": 17716
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_01.11.22_NC_Eindhoven_CIE.mp4/playlist.m3u8",
+    "keywords": {
+        "Masterplan Binnenstedelijke": 0.9929877334130479,
+        "Mobiliteit Eind": 0.9895742376575801,
+        "Binnenstedelijke Mobiliteit": 0.9871036752900937,
+        "concrete actieagenda": 0.9834838779696068,
+        "perspectief vaan": 0.9782786752523929,
+        "Masterplan": 1.9496775935369262,
+        "Eind": 0.9439294641356525,
+        "Visie": 0.9439294641356525,
+        "raad": 0.9346888599316531,
+        "naartoe komt": 0.9148625989169098,
+        "komt": 0.89459948329385,
+        "reiziger": 0.8885662138530757,
+        "betreft": 0.8541934864672924,
+        "vaan": 0.8541934864672924,
+        "concrete": 0.8541934864672924,
+        "nieuwe doorrekening": 0.8392012049671523,
+        "Startnotitie": 0.794813569244435,
+        "klimaatdoelstellingen": 0.696596130635728,
+        "aanloop": 0.6278115251495062,
+        "opgesteld": 0.6278115251495062,
+        "nieuwe": 0.6278115251495062
+    },
+    "svz": null,
+    "afgedaan": "06-02-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

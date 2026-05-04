@@ -1,0 +1,134 @@
+{
+    "module_id": 826271,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 231116,
+    "title": "Veiligheid - Raadsvoorstel Beleidskader veiligheid 2023-2026",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/826271",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "J. Dijsselbloem (Burgemeester)",
+    "result": "",
+    "date": "28-02-2023",
+    "meeting_url": {
+        "1059677": "https://raadsinformatie.eindhoven.nl/vergadering/1059677#ai_7356813"
+    },
+    "attachment": null,
+    "parent": 817517,
+    "children": [],
+    "text": "Burgemeester Dijsselbloem zegt toe:\n\néén keer per jaar de raad een rapportage te geven en in debat te gaan over:\n\nstand van zaken over subjectieve en objectieve veiligheid;",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 826266,
+            "weight": 1.0694508566384133
+        },
+        {
+            "id": 826275,
+            "weight": 0.9676802468031167
+        },
+        {
+            "id": 826277,
+            "weight": 0.9675532271420804
+        },
+        {
+            "id": 826273,
+            "weight": 0.9671368864536208
+        },
+        {
+            "id": 826276,
+            "weight": 0.9668464889885826
+        },
+        {
+            "id": 826265,
+            "weight": 0.9659386103351454
+        },
+        {
+            "id": 817517,
+            "weight": 0.8227608952944576
+        },
+        {
+            "id": 921456,
+            "weight": 0.4260632341209465
+        },
+        {
+            "id": 861380,
+            "weight": 0.39605452352247805
+        },
+        {
+            "id": "a_7462821",
+            "weight": 0.1307796650914724
+        },
+        {
+            "id": 1060105,
+            "weight": 0.0979721305279258
+        },
+        {
+            "id": 12943387,
+            "weight": 0.08795174499731116
+        },
+        {
+            "id": 931176,
+            "weight": 0.08628004235853959
+        },
+        {
+            "id": 931941,
+            "weight": 0.08579963724770205
+        },
+        {
+            "id": 1042265,
+            "weight": 0.08019140597885845
+        },
+        {
+            "id": 956636,
+            "weight": 0.06858801469302647
+        },
+        {
+            "id": 1080146,
+            "weight": 0.06529472323075614
+        },
+        {
+            "id": 955579,
+            "weight": 0.05657762894474527
+        }
+    ],
+    "videostarttime": {
+        "1059677": 9665
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_28.02.23_NC_Eindhoven_Raadsvergadering.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Beleidskader": 1.9960969245719173,
+        "Burgemeester Dijsselbloem": 0.9946231790899371,
+        "2023-2026 Burgemeester": 0.9898729891180464,
+        "Dijsselbloem zegt": 0.9898729891180464,
+        "één keer": 0.987185422156542,
+        "Beleidskader veiligheid": 1.983349953077725,
+        "keer per": 0.9808462601667136,
+        "per jaar": 0.9808462601667136,
+        "veiligheid 2023-2026": 1.9683265914500359,
+        "Raadsvoorstel": 1.9468361029879022,
+        "Veiligheid": 1.925350935336946,
+        "één": 0.9077072856008547,
+        "stand": 0.9077072856008547,
+        "2023-2026": 1.8629096324543886,
+        "zegt": 0.8629096324543886,
+        "keer": 0.8629096324543886,
+        "per": 0.8629096324543886,
+        "jaar": 0.8629096324543886,
+        "raad": 0.8629096324543886,
+        "rapportage": 0.8629096324543886,
+        "debat": 0.8629096324543886,
+        "gaan": 0.8629096324543886,
+        "zaken": 0.8629096324543886,
+        "subjectieve": 0.8629096324543886
+    },
+    "svz": null,
+    "afgedaan": "05-03-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

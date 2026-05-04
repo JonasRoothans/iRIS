@@ -1,0 +1,142 @@
+{
+    "module_id": 1045737,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Leefbaarheid alle wijken - Raadsvoorstel Kadernota 2026",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1045737",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "13-05-2025",
+    "meeting_url": {
+        "1256605": "https://raadsinformatie.eindhoven.nl/vergadering/1256605#ai_9262973"
+    },
+    "attachment": null,
+    "parent": 1034468,
+    "children": [],
+    "text": "Wethouder Verhees zegt toe de raad te informeren over de nieuwe werkwijze van de sector Gebieden en Wijken, die in 2025 start, en de planning. De wethouder is het eens met de voorkeur om te starten in jaren 60-70 wijken zoals Woensel Noord.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1039133,
+            "weight": 0.19817805195701602
+        },
+        {
+            "id": 984525,
+            "weight": 0.19753255657949106
+        },
+        {
+            "id": 15429507,
+            "weight": 0.19749638250811136
+        },
+        {
+            "id": 1036316,
+            "weight": 0.15742635245035863
+        },
+        {
+            "id": 980028,
+            "weight": 0.14265888254387085
+        },
+        {
+            "id": 16400317,
+            "weight": 0.14265658636501163
+        },
+        {
+            "id": 1083889,
+            "weight": 0.13788455948383405
+        },
+        {
+            "id": 1032099,
+            "weight": 0.13608485795665495
+        },
+        {
+            "id": 1045968,
+            "weight": 0.13058907923078147
+        },
+        {
+            "id": 862733,
+            "weight": 0.1301763381497018
+        },
+        {
+            "id": 827455,
+            "weight": 0.10123777273171615
+        },
+        {
+            "id": 1000397,
+            "weight": 0.0982609443148735
+        },
+        {
+            "id": 1020312,
+            "weight": 0.09711148770399988
+        },
+        {
+            "id": 804106,
+            "weight": 0.09179315094766902
+        },
+        {
+            "id": 825037,
+            "weight": 0.08698218205992635
+        },
+        {
+            "id": 797702,
+            "weight": 0.08579031481336237
+        },
+        {
+            "id": 1117280,
+            "weight": 0.08500802794634352
+        },
+        {
+            "id": 956832,
+            "weight": 0.057184190881121075
+        },
+        {
+            "id": 1059969,
+            "weight": 0.05689725332715129
+        },
+        {
+            "id": 1088041,
+            "weight": 0.053940455453589865
+        }
+    ],
+    "videostarttime": {
+        "1256605": 13274
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_13.05.25_NC_01-EINDHOVEN-RAA.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Kadernota": 1.9972134516346856,
+        "Verhees zegt": 0.9917752818129493,
+        "sector Gebieden": 0.9917752818129493,
+        "Wethouder Verhees": 0.9896478434024893,
+        "nieuwe werkwijze": 0.9832037976254215,
+        "Woensel Noord": 0.9681578092265237,
+        "Kadernota": 1.9472856272869348,
+        "wijken": 1.9368162294940494,
+        "60-70 wijken": 0.9313910623658674,
+        "start": 0.9233971611139538,
+        "Leefbaarheid": 1.8985415814486857,
+        "planning": 0.8985415814486857,
+        "zegt": 0.8714747102518636,
+        "raad": 0.8714747102518636,
+        "informeren": 0.8714747102518636,
+        "nieuwe": 0.8714747102518636,
+        "sector": 0.8714747102518636,
+        "jaren 60-70": 0.870403411438046,
+        "Noord": 0.8380343614153569,
+        "voorkeur": 0.6612844783154153,
+        "jaren": 0.6612844783154153,
+        "60-70": 0.6612844783154153
+    },
+    "svz": "Lopend, dit is in voorbereiding.",
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": [
+        1256605
+    ]
+}

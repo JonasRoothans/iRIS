@@ -1,0 +1,98 @@
+{
+    "module_id": 11799212,
+    "vote_id": null,
+    "member_id": [
+        45186
+    ],
+    "party_list": [
+        "CDA"
+    ],
+    "poho_id": [],
+    "title": "5. Rondvraag CDA Hoe maken we hospiteren mogelijk en makkelijker",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "06-09-2022",
+    "meeting_url": {
+        "1013073": "https://raadsinformatie.eindhoven.nl/vergadering/1013065/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://api.notubiz.nl/document/11799212/1",
+    "pdf_text": "Rondvraag van de fractie CDA\nHoe maken we hospiteren mogelijk en makkelijker?\nEindhoven, 06-09-2022\nGeacht college,\nEen van de ideeën om eenzaamheid te bestrijden en tegelijkertijd iets te doen aan het tekort\naan betaalbare studio’s en kamers voor studenten, is het mogelijk maken van hospiteren. Het\nCDA Eindhoven was erg blij dat vanaf deze zomer in onze gemeente hospiteren mogelijk is\nzonder speciale vergunning. Dit geldt zowel voor huiseigenaren als voor huurders van\nwoningcorporaties. Helaas heeft het CDA Eindhoven signalen ontvangen dat\nwoningcorporaties zeggen dat dit niet mogelijk is of voor slechts 6 maanden zonder dat huur\ngevraagd kan worden.\nDaarom hebben we de volgende vragen:\n- Bent u op de hoogte van deze signalen? En wat gaat u doen om dit recht te zetten, zodat dit\nop korte termijn dit hersteld wordt?\n- Bent u met ons eens dat zodra er een match is voor hospita en studenten het fijner en veiliger\nis om een student langer dan 6 maanden te hospiteren?\nNamens de fractie CDA,\nMiriam Frosi, raadslid CDA",
+    "bst": null,
+    "related": [
+        {
+            "id": 11803221,
+            "weight": 1.239776517180912
+        },
+        {
+            "id": "ai_6962205",
+            "weight": 1.07984670466173
+        },
+        {
+            "id": 787362,
+            "weight": 0.06084843546396542
+        },
+        {
+            "id": 1007610,
+            "weight": 0.05985654050838878
+        },
+        {
+            "id": 862349,
+            "weight": 0.05654220572290917
+        },
+        {
+            "id": 12324230,
+            "weight": 0.0563510058966812
+        },
+        {
+            "id": 12326423,
+            "weight": 0.0521471841350459
+        },
+        {
+            "id": 922219,
+            "weight": 0.050764118740201945
+        },
+        {
+            "id": 13644517,
+            "weight": 0.049951199368874356
+        },
+        {
+            "id": 12716065,
+            "weight": 0.04805540711947082
+        }
+    ],
+    "videostarttime": {
+        "1013073": 1521
+    },
+    "videolink": null,
+    "keywords": {
+        "CDA": 1.9379486881423917,
+        "CDA Eindhoven": 0.9067896398342393,
+        "hospiteren": 1.9026633555642658,
+        "Rondvraag CDA": 1.8737750080740998,
+        "fractie CDA": 0.8632463460209879,
+        "maken": 1.8544977339001218,
+        "makkelijker Rondvraag": 0.8426393826640219,
+        "studenten": 0.6572161168261075,
+        "woningcorporaties": 0.6572161168261075,
+        "signalen": 0.6532659346577583,
+        "raadslid CDA": 0.627487652098984,
+        "Eindhoven signalen": 0.5862306592081721,
+        "Frosi": 0.5479132307097023,
+        "Miriam Frosi": 0.508426182049557
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 45186,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1013073
+    ]
+}

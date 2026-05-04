@@ -1,0 +1,106 @@
+{
+    "module_id": 891724,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230013,
+    "title": "Upgrade station Strijp S - Raadsvoorstel Vaststellen Begroting 2024",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/891724",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Steenbakkers (Wethouder)",
+    "result": "",
+    "date": "31-10-2023",
+    "meeting_url": {
+        "1153547": "https://raadsinformatie.eindhoven.nl/vergadering/1153547#ai_7885375"
+    },
+    "attachment": null,
+    "parent": 879979,
+    "children": [],
+    "text": "Wethouder Steenbakkers zegt toe de raad mondeling te informeren over de (tijds)plannen voor upgrade station Strijp S i.c.m. het ondergronds brengen van de Beukenlaan.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1064274,
+            "weight": 2.7689108246661895
+        },
+        {
+            "id": 975678,
+            "weight": 0.4620565860966082
+        },
+        {
+            "id": 926576,
+            "weight": 0.39319823390964886
+        },
+        {
+            "id": 836589,
+            "weight": 0.37170696186647967
+        },
+        {
+            "id": 12076667,
+            "weight": 0.32638627829629785
+        },
+        {
+            "id": 851550,
+            "weight": 0.3177239396944235
+        },
+        {
+            "id": 918527,
+            "weight": 0.3143258452594844
+        },
+        {
+            "id": 1144514,
+            "weight": 0.26173268240200825
+        },
+        {
+            "id": 1037456,
+            "weight": 0.2209160463111493
+        },
+        {
+            "id": 826122,
+            "weight": 0.21418048230388778
+        },
+        {
+            "id": 1009635,
+            "weight": 0.19928337395795273
+        },
+        {
+            "id": 891735,
+            "weight": 0.14366760626742445
+        }
+    ],
+    "videostarttime": {
+        "1153547": null
+    },
+    "videolink": null,
+    "keywords": {
+        "station Strijp": 1.9970660229257766,
+        "Raadsvoorstel Vaststellen": 1.996125834475464,
+        "Vaststellen Begroting": 1.996125834475464,
+        "Wethouder Steenbakkers": 0.9961258344754639,
+        "Upgrade station": 1.9928028033195078,
+        "Steenbakkers zegt": 0.989974343833986,
+        "raad mondeling": 0.9810979661980729,
+        "ondergronds brengen": 0.9810979661980729,
+        "Strijp": 1.9712511894739073,
+        "station": 1.9492698825821644,
+        "Begroting": 1.9470450518920317,
+        "Wethouder": 0.9470450518920318,
+        "Beukenlaan": 0.9470450518920318,
+        "tijds": 0.9462843614303056,
+        "Upgrade": 1.9300704606131007,
+        "plannen": 0.9083351803487221,
+        "zegt": 0.8637965672861532,
+        "raad": 0.8637965672861532,
+        "informeren": 0.8637965672861532,
+        "brengen": 0.8637965672861532
+    },
+    "svz": "Toezegging is uitgevoerd tijdens begrotingsbehandeling op 7 november 2023. VOORSTEL: AFVOEREN.",
+    "afgedaan": "14-11-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

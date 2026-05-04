@@ -1,0 +1,76 @@
+{
+    "module_id": 837691,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230022,
+    "title": "deelmobiliteit - Agenderingsverzoek Volt over Visie deelvervoer",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/837691",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Esselbrugge (Wethouder)",
+    "result": "",
+    "date": "18-04-2023",
+    "meeting_url": {
+        "1013485": "https://raadsinformatie.eindhoven.nl/vergadering/1013485"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": "Wethouder Esselbrugge zegt toe:\n\nBij de aanbesteding voor de nieuwe vergunningen neemt zij het voorstel om de minimumleeftijd voor het gebruik van deelmobiliteit te verhogen van 16 naar 18 jaar mee",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 837694,
+            "weight": 3.7061826870323804
+        },
+        {
+            "id": 837695,
+            "weight": 2.968916737699164
+        },
+        {
+            "id": 847787,
+            "weight": 0.24390304967394774
+        },
+        {
+            "id": 975722,
+            "weight": 0.24219632421441423
+        }
+    ],
+    "videostarttime": {
+        "1013485": null
+    },
+    "videolink": null,
+    "keywords": {
+        "Agenderingsverzoek Volt": 1.9963929530145514,
+        "Wethouder Esselbrugge": 0.9950069942505203,
+        "jaar mee": 0.992560439550801,
+        "Visie deelvervoer": 1.9908899454951228,
+        "deelvervoer Wethouder": 0.9908899454951228,
+        "Esselbrugge zegt": 0.9908899454951228,
+        "nieuwe vergunningen": 0.9833217925455495,
+        "vergunningen neemt": 0.9833217925455495,
+        "Volt": 1.9295145440476715,
+        "Visie": 1.9295145440476715,
+        "Wethouder": 0.9295145440476714,
+        "deelmobiliteit": 1.916576880323619,
+        "jaar": 0.9140661760036124,
+        "mee": 0.9140661760036124,
+        "zegt": 0.8719195253013416,
+        "aanbesteding": 0.8719195253013416,
+        "nieuwe": 0.8719195253013416,
+        "neemt": 0.8719195253013416,
+        "voorstel": 0.8719195253013416,
+        "minimumleeftijd": 0.8719195253013416,
+        "gebruik": 0.8719195253013416,
+        "verhogen": 0.8719195253013416
+    },
+    "svz": "Het genoemde punt is meegenomen in de Nadere regels Deelvervoer. Zie de rib van 17 mei 2023: continueringsaanp...  Lees verder ",
+    "afgedaan": "13-06-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

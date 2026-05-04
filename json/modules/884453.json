@@ -1,0 +1,315 @@
+{
+    "module_id": 884453,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230019,
+    "title": "Raadsvoorstel Zienswijze wijzigingsvoorstellen gemeenschappelijke regelingen MRE, GGD BZO, ODZOB, VRBZO en GRWRE",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/19/raadsvoorstellen/884453?parent_event=1165167",
+    "type": "Raadsvoorstel",
+    "member": null,
+    "party": null,
+    "poho": "M. van Lanschot (Wethouder)",
+    "result": "Afgerond",
+    "date": "28-11-2023",
+    "meeting_url": {
+        "1013527": "https://raadsinformatie.eindhoven.nl/vergadering/1013527#ai_7949552",
+        "1165167": "https://raadsinformatie.eindhoven.nl/vergadering/1165167#ai_7968114"
+    },
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/13322689/2/23bst01319+Raadsvoorstel+Zienswijzen+wijzigingsvoorstellen+gemeenschappelijke+regelingen?connection_type=17&connection_id=9838997": "Raadsvoorstel Zienswijzen wijzigingsvoorstellen gemeenschappelijke regelingen",
+        "http://raadsinformatie.eindhoven.nl/document/13529472/2?connection_type=16&connection_id=884453": " Nadere toelichting bij raadsvoorstel Zienswijze wijzigingsvoorstellen regelingen MRE, GGD, BZO, ODZOB, VRBZO en GRWRE ",
+        "http://raadsinformatie.eindhoven.nl/document/13322704/3?connection_type=16&connection_id=884453": " Raadsvoorstel Zienswijzen wijzigingsvoorstellen gemeenschappelijke regelingen ",
+        "http://raadsinformatie.eindhoven.nl/document/13322671/5?connection_type=16&connection_id=884453": " 23bst01319 - Bijlage 1 - reactiebrief MRE ontwerp gewijzigde GR MRE 2024 ",
+        "http://raadsinformatie.eindhoven.nl/document/13322669/5?connection_type=16&connection_id=884453": " 23bst01319 - Bijlage 2 - zienswijze brief - Ontwerp gewijzigde GR GGD ZBO ",
+        "http://raadsinformatie.eindhoven.nl/document/13322670/5?connection_type=16&connection_id=884453": " 23bst01319 - Bijlage 3 - zienswijze brief - Ontwerp gewijzigde GR ODZOB ",
+        "http://raadsinformatie.eindhoven.nl/document/13322668/7?connection_type=16&connection_id=884453": " 23bst01319 - Bijlage 4 - zienswijzebrief VRBZO - Ontwerp gewijzigde GR VRBZO ",
+        "http://raadsinformatie.eindhoven.nl/document/13322667/5?connection_type=16&connection_id=884453": " 23bst01319 - Bijlage 5 - zienswijzebrief GRWRE ",
+        "http://raadsinformatie.eindhoven.nl/document/13322676/4?connection_type=16&connection_id=884453": " Bijlage 6.1 - MRE - Aanbieding ontwerp gewijzigde Gemeenschappelijke Regeling MRE 2024 ",
+        "http://raadsinformatie.eindhoven.nl/document/13322675/2?connection_type=16&connection_id=884453": " Bijlage 6.2 - MRE - Ontwerp gewijzigde Gemeenschappelijke Regeling MRE 2024 ",
+        "http://raadsinformatie.eindhoven.nl/document/13322679/2?connection_type=16&connection_id=884453": " Bijlage 6.3 - MRE - Overzicht Gemeenschappelijke Regeling MRE 2021 (WAS) met voorgestelde wijzigingen (WORDT) ",
+        "http://raadsinformatie.eindhoven.nl/document/13322672/2?connection_type=16&connection_id=884453": " Bijlage 6.4 - MRE - Ontwerp gewijzigd Statuut Overlegorganen MRE 2024 ",
+        "http://raadsinformatie.eindhoven.nl/document/13322674/4?connection_type=16&connection_id=884453": " Bijlage 7.1 - GGD - Aanbiedingsbrief aan gemeenten ",
+        "http://raadsinformatie.eindhoven.nl/document/13322685/2?connection_type=16&connection_id=884453": " Bijlage 7.2 - GGD - Gemeenschappelijke Regeling GGD Brabant-Zuidoost 2023 ",
+        "http://raadsinformatie.eindhoven.nl/document/13322673/2?connection_type=16&connection_id=884453": " Bijlage 7.3 - GGD - Was - Wordt Aanpassing Gemeenschappelijke Regeling GGD BZO ",
+        "http://raadsinformatie.eindhoven.nl/document/13322677/6?connection_type=16&connection_id=884453": " Bijlage 8.1 - ODZOB - Aanbiedingsbrief aanpassing gemeenschappelijke regeling ODZOB ",
+        "http://raadsinformatie.eindhoven.nl/document/13322683/2?connection_type=16&connection_id=884453": " Bijlage 8.2 - ODZOB - GR ODZOB 2024 ",
+        "http://raadsinformatie.eindhoven.nl/document/13322688/2?connection_type=16&connection_id=884453": " Bijlage 8.3 - ODZOB - GR ODZOB Was Wordt ",
+        "http://raadsinformatie.eindhoven.nl/document/13322680/2?connection_type=16&connection_id=884453": " Bijlage 9.1 - VRBZO - Aanbiedingsbrief GR VRBZO ",
+        "http://raadsinformatie.eindhoven.nl/document/13322686/2?connection_type=16&connection_id=884453": " Bijlage 9.2 - VRBZO - Gemeenschappelijke regeling 2024 - integraal ",
+        "http://raadsinformatie.eindhoven.nl/document/13322682/2?connection_type=16&connection_id=884453": " Bijlage 9.3 - VRBZO - Was-wordt GR VRBZO 2024 ",
+        "http://raadsinformatie.eindhoven.nl/document/13322678/4?connection_type=16&connection_id=884453": " Bijlage 10.1 - GRWRE - aanbiedingsbrief GRWRE ",
+        "http://raadsinformatie.eindhoven.nl/document/13322687/2?connection_type=16&connection_id=884453": " Bijlage 10.2 - GRWRE - Concept vernieuwde regeling GRWRE ",
+        "http://raadsinformatie.eindhoven.nl/document/13322684/2?connection_type=16&connection_id=884453": " Bijlage 10.3 - GRWRE - Toelichting herziening GRWRE ",
+        "http://raadsinformatie.eindhoven.nl/document/13322690/2?connection_type=16&connection_id=884453": " Bijlage 11 - Regionaal afstemmingskader Wgr 4GR ",
+        "http://raadsinformatie.eindhoven.nl/document/13322681/2?connection_type=16&connection_id=884453": " Bijlage 12 - Totaalverzicht voorgestelde wijzigingen m.b.t. archief gemeenschappelijke regelingen ",
+        "http://raadsinformatie.eindhoven.nl/document/13445231/1?connection_type=16&connection_id=884453": " 20231031 Matrix zienswijzen wijziging Gemeenschappelijke Regelingen GGD ODZOB MRE VRBZO ",
+        "http://raadsinformatie.eindhoven.nl/document/13506901/1?connection_type=16&connection_id=884453": " Behandeladvies Raadsvoorstel zienswijzen wijzigingsvoorstellen GR'en ",
+        "http://raadsinformatie.eindhoven.nl/document/13517093/2?connection_type=16&connection_id=884453": " Commissieadvies Raadsvoorstel Zienswijze wijzigingsvoorstellen gemeenschappelijke regelingen MRE, GGD BZO, ODZOB, VRBZO en GRWRE "
+    },
+    "parent": null,
+    "children": [
+        898115,
+        897838,
+        "a_8038134",
+        "a_8041789"
+    ],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/13546598/1?connection_type=17&connection_id=10029819",
+    "pdf_text": " \n  \n gemeente Eindhoven  \nInboeknummer      23bst01319  \nDossiernummer     23.41.751  \nB&W b eslisdatum 10 oktober  2023  \n \n \n \nRaadsvoorstel Zienswijze wijziging svoo rstellen gemeenschappelijke regelingen MRE, \nGGD  BZO , ODZOB , VRBZO  en GRWRE  \n \n \nInleiding  \nPer 1 juli 2022 is de Wet gemeenschappelijke regeling (Wgr)  gewijzigd. Het doel van deze \nwijziging  is versterking van de democratische legitimiteit van gemeenschappelijke \nregelingen en de kaderstellende en controlerende rol  en de inhoudelijke betrokkenheid \nvan gemeenteraden. De wijzigingen moeten voor 1 juli 2024 in alle gemeenschappelijke \nregelingen zijn geïmplementeerd.  \n \nConcreet en in hoofdzaak houden de wijzigingen in de Wgr in dat in de \ngemeenschappelijke regeling bepalingen moeten worden opgenomen over:  \n• besluiten waarover (aanvullend op de wettelijke verplichting) zienswijze kan \nworden ingediend door gemeenteraden;  \n• de wijze van invulling actieve informatieplicht bestuur richting raden;  \n• of en zo ja hoe participatie (betrokkenheid/inspraak) bij besluiten van de \ngemeenschappelijke regeling voor burgers en belanghebbenden wordt \nvormgegeven;  \n• evaluatie van de regeling;  \n• de wijze waarop uittreding zal worden vormgegeven.  \nOok dienen de termijnen voor begroting en jaarrekenin g te worden aangepast. In de \ngewijzigde Wgr krijgen gemeenteraden ook de mogelijkheid om een gemeenschappelijke \nadviescommissie in de stellen die :  \n- het algemeen bestuur van advies kan voorzien ; \n- de besluitvorming van de raden van de deelnemende gemeenten me t betrekking \ntot de regeling kan voorbereiden of ; \n- de raden van advies kan voorzien.  \nOp deze manier kunnen raden eerder en nauwer betrokken worden bij voorgenomen \nbesluiten door het bestuur van de regeling. Alle raden van de deelnemende gemeenten \ndienen in  te stemmen met de instelling van een gemeenschappelijke adviescommissie.   \n Inboeknummer 23bst01319  \n \n 2 \nVerder wordt het mogelijk om samen met de andere gemeenteraden van de deelnemende \ngemeenten , op voorstel van een van de gemeenteraden van de deelnemende gemeenten , \neen gezamenlijke onderzoekscommissie in  te stellen die onderzoek uit kan voeren naar \nhet gevoerde bestuur van een openbaar lichaam (bedrijfsvoeringsorganisatie of \ngemeenschappelijk orgaan) .  \n \nDe wetswijziging heeft tot gevolg dat de gemeenschappelijke regelingen aangepast \nmoet en worden. Hiertoe hebben de Algemeen Besturen (AB’s) van de \ngemeenschappelijke regelingen Metropool Regio Eindhoven (MRE ), GGD  Brabant -\nZuidoost (GGD  BZO), Omgevingsdienst Zuid oost-Brabant ( ODZOB ), Veiligheidsregio \nBrabant -Zuidoost (VRBZO) en Werkvoorzieningschap Regio Eindhoven (GRWRE /Ergon) \nwijzigingsvoorstellen , waarin de wetswijziging is verwerkt,  voorgelegd aan de colleges  en \nraden van de  aan gemeenschappelijke regelingen  deelnemende gemeenten . \nVoor de gemeenschappelijke regelingen MRE, GGD BZO, ODZOB, VRBZO (hierna 4GR) \ngeldt dat dezelfde 21 gemeenten in de regio Zuidoost Brabant hieraan deelnemen. Deze  \n4GR hebben op het gebied van planning en control reeds een samenwerking. Bij de start \nvan het  proces van de wijziging van de GR’en hebben zij afspraken gemaakt over \nalgemeen te hanteren uitgangspunten en is de planning op elkaar afgestemd.  \nVoor die uniformiteit hebben de AB’s van de 4GR een aantal uitgangspunten benoemd en \nvastgelegd in een afste mmingskader (bijlage 11).  Er is geen afstemming geweest tussen \nde 4GR en de GRWRE  (regeling met vijf deelnemende gemeenten) . Dit is ook niet \ngebruikelijk.  Echter om dat de zienswijzeprocedure voor de GRWRE nagenoeg gelijk loopt, \nmaakt deze eveneens onderdee l uit van dit raadsvoorstel.  \n \nHet college vraagt in dit voorstel aan de raad om een zienswijze naar voren te brengen op \ndeze wijzigingsvoorstellen, zodat deze betrokken kunnen worden bij het opstellen van de \ndefinitieve voorstellen tot wijziging van de re gelingen. Vaststelling van de definitieve \nregelingen door de 21 colleges , na toestemming van de 21 raden, is voorzien  in de eerste \nhelft van 2024.  \n \nWettelijke taak   \nWet gemeenschappelijke regeling  \nKerntaak gekoppeld aan het werkprogramma van het college  \n \nOnvermijdelijk  \n \nDoelstelling  \nHet leveren van zien swijzen op de wijzigingsvoorstellen van de gemeenschappelijke \nregelingen MRE, GGD BZO, ODZOB, VRBZO en GRWRE/Ergon . \n \nVoorstel  \n1. Kennisnemen van  de ontwerp gemeenschappelijke regeling MRE 2024  en toelichting \ndaarop  (bijlage n 6.1 t/m 6.4) en instemmen met de concept reactiebrief op de ontwerp  \ngemeenschappelijke regeling MRE 2024 (bijlage 1) ;  \n Inboeknummer 23bst01319  \n \n 3 \n2. Kennisnemen van de ontwerp gemeenschappelijke regeling GGD  BZO en toelichting \ndaarop  (bijlage n 7.1 t/m 7.3) en instemmen met de concept zienswijzebrief op de \nontwerp gemeenschappelijke regeling GGD BZO (bijlage 2) ; \n3. Kennisnemen van de ontwerp gemeenschappelijke regeling ODZOB en toelichting \ndaarop (bijlagen 8.1 t/m 8.3) en instemmen met de concept zienswijzebrief op de \nontwerp  gemeenschappelijke regeling ODZOB (bijlage 3) ; \n4. Kennisnemen van de ontwerp gemeenschappelijke regeling VR BZO 2024 en \ntoelichting daarop (bijlagen 9.1 t/m 9.3)  en instemmen met de concept zienswijzebrief \nop de ontwerp  gemeenschappelijke regeling VRBZO 2024 (bijlage 4) ; \n5. Kennisnemen van de ontwerp gemeenschappelijke regeling GRWRE/Ergon en \ntoelichting daarop (bi jlagen 10.1 t/m 10.3)  en instemmen met de concept \nzienswijzebrie f op de ontwerp gemeenschappelijke regeling GRWRE/Ergon (bijlage \n5).  \n \n \nArgumenten  \n \n1.1 – 5.1   Er wordt op vergelijkbare wijze invulling gegeven aan de actieve \ninformatieplicht en – aanvullen d op de wettelijk verplichte besluiten – de \nmogelijk te bieden voor raden om zienswijzen op besluiten te geven.  \nBij de MRE ligt deze bevoegdheid bij het DB (voorafgaand aan besluitvorming door het AB \nen indien er geen sprake is van participatie door inwoners/belanghebbenden; zie ook \nvolgende argument). Bij de andere GR ’en ligt het bij het AB om onderwerpen als ‘majeur’ te  \nduiden en een zienswijze aan de raden van de deelnemende gemeenten te vragen. De \ntermijnen hiervoor (drie maanden c.q. 12 weken) zijn identiek in de verschillende \nregelingen.  \n \n1.2 -5.2  Er wordt op verschillende wijze invulling gegeven aan de uit de wet \nvoorvloeiende verplichting om in de gemeenschappelijke regeling vast te \nleggen of, en zo ja op welke wijze, burgers de mogelijkheid krijgen tot inspraak \nover bepaalde onderwerpen die bij de gemeenschappelijke regeling zijn \nbelegd.  \nGRWRE en ODZOB hebben  expliciet opgenomen dat zij die mogelijkheid niet bieden. Bij \nVRBZO en GGD wordt het aan het Algemeen Bestuur gelaten of en voor welke besluiten \nzij burgers willen betrekken. Bij de MRE ligt het initiatief hiervoor bij het DB en indien \ndeelnemers bezwaren  hiertegen hebben, wordt het aan het AB voorgelegd.   \n \n1.3 -5.3   De GR’en  voldoen niet aan de door de Archiefwet en/o f provincie  gestelde \nvoorwaarden  \nVoor alle  GR’en  geldt dat de artikelen over archiefbescheiden , in zowel de vigerende als \nde nu voorliggende Gemeenschappelijke Regeling en, niet voldoen aan de  Archiefwet \nen/of  door de provincie gestelde voorwaarden . Voorgesteld wordt om  dit mee te nemen in \nde (technische) aanpassing van de GR’en  en in de reactie/ zienswijzebrieven het verzoek \nop te nemen om hiervoor aan te sluiten bij de bepalingen zoals genoemd in de  \n Inboeknummer 23bst01319  \n \n 4 \nhandreiking inrichting informatie en archiefbeheer bij samenwerkingsverbanden, opgesteld \ndoor de werkgroep van het LOPAI, de Koninklij ke Vereniging Archiefsector Nederland \n(KVAN) en het Kennisnetwerk Informatie en Archief (KIA).  \n \nEen totaal overzicht van wat er per GR  dient te worde n aangepast vindt u in bijlage 12.  \n \nSamengevat wordt u voorgesteld om in de reactie/ zienswijzebrieven het  volgende \nverzoek op te nemen : \n \nMRE:  \n- Het woord ‘zorg’ te verwijderen in de artikelen die gaan over het overdragen van ‘de \nzorg voor en het beheer van archiefbescheiden’ van gemeenten aan de MRE  (Bijlage 6.2 \nen 6.3, artikel 4 lid 3 onder b , artikel 5 lid 3 onder a, artikel 17 lid 1 onder j en artikel 43 lid \n1) \n- Artikelen opnemen over verantwoording en terbeschikkingstelling  \n \nGGD:  \n- Een artikel opnemen over verantwoording  \n- Het artikel over terbeschikkingstelling aanpassen  (Bijlage  7.2 en 7.3, artikel  44) \n \nODZOB:  \n- Artikelen opnemen over verantwoording en opheffing  (Bijlage 8.2 en 8.3, artikel 8.4 en \n9.4) \n \nVRBZO:  \n- Arikelen opnemen over archiefbeheer, verantwoording en terbeschikkingstelling.  \n- De artikelen over de archiefbewaarplaats en toezicht concreter maken.  (Bijlage 9.2 en \n9.3, artikel 34 lid 5 t/m 7 ) \n- Een artikel opnemen over archiefbeheer en – zorg na opheffing   \n(Bijlage 9.2 en 9.3, artikel 36)  \n \nGRWRE/Ergon  \n- Artikelen opnemen over archiefbeheer, de archiefbewaarplaats, toezicht, \nverantwoording en terbeschikkingstelling.  \n- Het artikel over opheffing concreter maken met het toewijzen van archiefbeheer - en \nzorg na opheffing  (Bijlage  10.2 en 10.3 , artikel 27 lid 3)  \n \n1.4 – 5.4  De u ittredingsregeling is op verschillende manieren uitgewerkt en  verdient \nnader onderzoek naar haalbaarheid en harmonisatie tussen de 4 grote GR’en   \nDe GR dient bepalingen te hebben omtrent de voorwaarden waaronder kan worden \nuitgetreden en de gevolgen van uittreding. Dit was al het geval voor GR’en  die voor \nonbepaalde  tijd zijn getroffen, maar deze verplichting geldt door de wetswijziging ook voor \nGR’en  van bepaalde tijd. Daarnaast schrijft de wet voor waarover afspraken gemaakt \nmoeten worden . Volgens de wetgever laat de praktijk zien dat veel problemen worden \nervaren ten gevolge van de uittreding  omdat in de GR vaak wordt volstaan met de \nafspraak dat in geval van uittreding het (algemeen) bestuur de uittreedvoorwaarden \nvaststelt.  De nieuwe wetgeving is om die reden aangescherpt. In de GR ’en moeten i n  \n Inboeknummer 23bst01319  \n \n 5 \nieder geval afspraken worden gemaakt over de gevolgen voor het vermogen van de \nrechtspersoon  en de deelnemende gemeente(n) , waarbij moet worden gedacht aan \nafspraken over personeel, contracten, huisvesting en investeringen.  In de voorgestelde \nwijzigingen van de GR’en  is hier uitvoering aan gegeven, maar niet op  een eenduidige \nmanier. De voorwaarden waaronder uitgetreden kan worden verschilt namelijk per GR. \nOnduidelijk  is of die voorstellen financieel haalbaar en uitvoerbaar zijn voor gemeenten en \nof er geen nadere har monisatie van de voorwaarden  op dit onderdeel  tussen de GR’en  \nkan plaatsvinden.  U wordt voorgesteld om in de zienswijze op de ontwerpregelingen MRE, \nGGD, ODZOB en VRBZO hiertoe een oproep te doen , naar voorbeeld van de wijze \nwaarop de kaders voor P&C instr umenten en reservevorming voor deze 4 GR’en  \neenduidig zijn vastgesteld.    \n \nDe voor de GRWRE/Ergon voorgestelde uittredingsregeling verschilt ook van de andere \nvoorgestelde regelingen. In artikel 36 is uitgewerkt welke proces stappen worden \ndoorlopen bij het  uittreden van één van de deelnemende gemeenten.  De regeling is niet \ninhoudelijk uitgewerkt.  Indien een gemeente besluit om uit te treden, zal een \nuittredingsplan worden opgesteld, waarbij een externe deskundige word t ingeschakeld.  De \nzienswijzen van de raden op de uittreding worden verwerkt bij het opstellen van het \nuittredingsplan. Om die reden, en omdat de GRWRE/Ergon een regeling is van 5 \ngemeente n (en niet van de 21)  wordt u voorgesteld om in deze zienswijze hier geen \nopmerking  over op te nemen.  \n \n1.5   Reactie van de raad op het wijzigingsvoorstel  GR MRE  is gewenst  \nDe GR MRE  is een regeling van colleges en gemeenteraden, waarop, wettelijk gezien , de \nzienswijze -procedure niet van toepassing is . De reden hier van is dat de betrokkenheid van \nde raden bij de totstandkoming van de regeling voldoende gewaarborgd is. Het Algemeen \nBestuur  MRE  heeft toch besloten vooruitlopend op de vaststelling van de gewijzigde \nregeling door de raden en colleges in 2024 aan te sluit en bij de procedures van de GGD  \nBZO, ODZOB en VRBZO  en de raad o m een reactie  te vragen .  \n \n1.6 De voorgestelde wijzigingen voor de MRE  geven geen aanleiding  tot een  zienswijze , \nm.u.v. het uittredingsartikel  \nIn bijlage 6.3 vindt u een totaal overzicht van de voorgestelde wijzigingen die in de GR zijn \naangebracht. Het moment van de verplichte aanpassing van de GR volgend uit de \nwijzigingen in de Wgr is tevens benut om enkele technische aanpassingen door te voeren. \nDe voorgestelde wijzigingen geven geen aanleiding  tot een zienswijze. Uitzondering \nhierop is het voorgestelde artikel 47 m.b.t. de uittreding  (zie argument 1.4 – 5.4). Waar er \nin de nu vigerende GR regeling enkel procesafspraken stonden ten aanzien van uittreding \nis er in de nieuwe regeling een procedure afgesproken .  \n \n2.5  De voorgestelde wijzigingen  voor de GGD BZO geven geen aanleiding  tot een \nzienswijze, m.u.v. het uittredings artikel   \nIn bijlage  7.3 vindt u een totaal overzicht van de voorgestelde wijzigingen die in de GR zijn \naangebracht. In de nieuwe Wgr is bepaald  dat in de GR moet worden geregeld welke  \n Inboeknummer 23bst01319  \n \n 6 \nvoorgenomen besluiten (naast begroting ed.) het bestuur voor een zienswijze aan  de \nraden wil vo orleggen. In de voorgestelde wijziging van de GR  is een be paling opgenomen \nwaarin de colleges en raden van de deelnemende gemeenten in de gelegenheid worden \ngesteld om hun zienswijzen kenbaar te maken op het ontwerp van de meerjarige \nbeleidsvisie voordat z ij deze visie vaststelt  (artikel 25). Deze en ook de andere \nvoorgestelde wijzigingen geven verder geen aanleiding tot een zienswijze. Uitzondering \nhierop  is het voorgestelde artikel 47 m.b.t. de uittreding (zie argument 1.4 – 5.4). Waar er \nin de nu vigerende GR regeling enkel procesafspraken stonden ten aanzien van uittreding \nis er in de nieuwe regeling een procedure afgesproken.  \n \n3.5 De voorgestelde wijzigingen voor de ODZOB geven geen aanleiding tot een \nzienswijze, m.u.v. het uit tredingsartikel  \nIn bijlage  8.3. vindt u een totaaloverzicht van de voorgestelde wijzigingen die in de GR zijn \naangebracht. Het moment van de verplichte aanpassing van de GR volgend uit de \nwijzigingen in de Wgr is benut om ook enkele andere aanpassingen doo r te voeren . De \nvoorgestelde wijzig ingen  geven geen aanleiding tot een zienswijze. Uitzondering hierop is \nhet voorgestelde artikel 9.2 m.b.t. de uittreding (zie argument 1.4 – 5.4). Waar er in de nu \nvigerende GR regeling enkel procesafspraken stonden ten aanzien van uittreding is er in \nde nieuwe regeling een procedure afgesproken.  \n \n3.6 De gehanteerde  stemverhouding  voor de ODZOB geeft , vanwege ervaren \nproblemen in de praktijk , aanleiding voor een zienswijze.  \nIn zowel de vigerende als de nu voorliggende Gemeenschappelijke Regeling ODZOB is \ndezelfde bepaling opgenomen omtrent de stemverhouding bij besluiten die zien op:  \na. het vaststellen van de begroting;  \nb. de wijziging van de be groting; en  \nc. het vaststellen van de jaarrekening.  \nDeze bepaling houdt in dat bij deze besluiten een gekwalificeerde meerderheid  nodig is , \nwaarbij de meerderheid van stemmen tevens tenminste de helft van de omzet \nvertegenwoordigt welke de omgevingsdienst in het voorgaande jaar heeft gerealiseerd.  \nIn de praktijk neemt de  provincie circa 33% van de jaarlijkse omzet van de ODZOB op \nzich. De bijdrage van Eindhoven, als dee lnemer met de hoogste bijdrage na de provincie \nNoord -Brabant, is jaarlijk s circa 7% a 8%. Dit betekent dat het in de praktijk vrijwel \nonmogelijk is een meerderheid over deze besluiten te krijgen, zonder dat de provincie \nNoord -Brabant hier mee instemt. Gemeentelijke belangen, die inhoudelijk verschillen van \nde provinciale belang en, kunnen daarmee zeer lastig overgebracht worden . Uit een \ninventarisatie in den lande is gebleken dat een dergelijke stemverhouding, buiten de \nprovincie Noord -Brabant, ook niet gebruikelijk is . Om die reden wordt u voorgesteld om in \nuw zienswijze het AB van de ODZOB te verzoeken om de stemverhouding in de nieuwe \nGemeenschappelijke Regeling te wijzigen. Er zijn diverse wijzen waarop dat kan . In de \nconcept zienswijzebrief (bijlage 3) zijn  twee mogelijke en passende opties als voorbeeld \nopgenomen.   \n  \n Inboeknummer 23bst01319  \n \n 7 \n4.5  De voorgestelde wijzigingen voor de VRBZO geven geen aanleiding voor een \nzienswijze, m.u.v. de uittredingsregeling  \nIn bijlage  9.3 vindt u een totaal overzicht van de voorgestelde wijzigingen die specifiek in \nde Gemeenschappelijke Regeling VRBZO 2024 zijn aangebracht. In de nieuwe Wgr is \nbepaald dat in de GR moet worden geregeld welke voorgenomen besluiten (naast \nbegroting) het bestuur voor een zienswijze aan de gemeenteraden wil voorleggen. Naar \naanleiding hiervan zijn in het wijzigingsvoorstel  van de GR, op basis van artikel 11, 2 \nonderwerpen opgenomen waarin de gemeenteraden van de deelnemende gemeenten in \nde gelegenheid worden gesteld om hun zienswijzen kenbaar te maken. Dit betreft de \nzienswijze op de vaststelling van het beleidsplan (op basis van artik el 14 van de Wet \nVeiligheidsregio’s) en de zienswijze op de vaststelling van het risicoprofiel (op basis van \nartikel 15 van de Wet Veiligheidsregio’s).  Er wordt u voorgesteld om hier in uw zienswijze \nakkoord op te geven. De andere voorgestelde wijzigingen geven geen aanleiding voor een \nzienswijze . Uitzondering hierop is het voorgestelde artikel 35 m.b.t. de uittreding (zie \nargument 1.4 – 5.4 ). Waar er in de nu vigerende GR regeling enkel procesafspraken \nstonden ten aanzien van uittreding is er in de nieuwe  regeling een procedure afgesproken . \n \n5.5   De voorgestelde  wijzigingen  voor de GRWRE/Ergon geven geen aanleiding voor \neen zienswijze  \nIn bijlage  10.3 vindt u een toelichting op de voorgestelde wijzigingen die in de GR zijn \naangebracht . In de nieuwe Wgr is bepaald dat in de GR moet worden geregeld welke \nvoorgenomen besluiten het bestuur voor een zienswijze aan de gemeenteraden wil \nvoorleggen.  In de voorgestelde aanpassing van GRWRE is hierover  een bepaling \nopgenomen  (artikel 11).  Hierin staat  dat dat het Algemeen Bestuur beslist  waarover de \nraden om een zienswijze wordt gevraagd , alvorens een besluit genomen wordt, als het \nAlgemeen Bestuur da t aanwezig acht . Het gaat hier du s hier om  een (extra)  ziens wijze \nvoor besluiten  van het bestuur , naast  de wettelijk verplichte  zienswijze en de  zienswijze \ndie de GR voorschrijft , zoals  bij uittreding van een deelnemende gemeente . \n \nHet moment van de verplichte aanpassing van de GR volgend uit de wijzigingen in de Wgr \nis tevens benut om enkele technische aanpassingen door te voeren. Zo is er een \ntechnische wijziging doorgevoerd in de samenstelling van zowel het Algemeen als \nDagelijks bestuur . De voorgestelde wijzigingen geven geen aanleiding tot een zienswijze.  \n \nKanttekeningen  \nEr zijn geen kanttekeningen . \n \nPersonele consequenties  \nAan het geven van de zienswijzen als zodanig zijn geen personele consequenties \nverbonden.  \n \nFinanciële consequenties  \nAan het geven van de ziens wijzen als zodanig zijn geen financiële consequenties  \nverbonden .   \n Inboeknummer 23bst01319  \n \n 8 \nCommunicatie  \nZie planning en uitvoering.  \n \nPlanning en uitvoering  \n- De gestelde deadline voor het indienen van een zienswijze voor de GRWRE is eind \n2023. Voor de MRE, GGD BZO, ODZOB en VRBZO is  15 november  als deadline \ngesteld . Aangezien uw raad pas 28 november over dit voorstel kan besluiten hebben \nwij aan de voorkant afgestemd dat uw reactie/ zienswijzen wel worden  \nbetrokken in de behandeling en besluitvorming. Dit kan a angezien de vergaderingen \nvan de Algemeen Besturen allen na uw besluitvorming plaatsvindt.  \n- De definitieve ontwerpvoorstel len word en naar verwachting februari/ maart 2024  door \nde Algemeen Besturen van  de GR’en ter besluitvorming vrijgegeven aan de colleges \nen raden van de deelnemende gemeenten . \n- Naar verwachting worden de definitieve ontwerpvoorstellen  in de raadscyclus van mei \n2024  ter instemming voorgelegd aan uw raad, voordat het college besluit tot het \ntreffen van de regeling . Dit is wette lijk verplicht ( artikel 1, vierde  en vijfde  lid Wgr).  \n- Na instemming van  alle raden  van de aan de GR ’en deelnemende gemeenten  met de \ndefinitieve ontwerpvoorstellen, nemen de colleges van de aan de GR ’en  \ndeelnemende gemeenten definitieve besluiten . Bij een  eensluidend e besluiten worden \nde GR ’en definitief aangepast en op de gebruikelijke wijze bekend gemaakt  in het \ngemeenteblad  en geregistreerd  (GR-register) . De datum van inwerkingtreding  (na \nbekendmaking)  staat in de regelingen zelf.   \n- Uiterlijk 1 juli 2024 zullen alle GR’en aan de gewijzigde Wgr moeten zijn aangepast en \nbekend gemaakt in het gemeenteblad  (art. V.  Wet van 15 december 2021 tot wijziging \nvan de Wet gemeenschappelijke regelingen en enige andere wetten in verband met \nhet versterken van de democratische legitimatie van gemeenschappelijke regelingen).  \n \nEvaluatie  \nN.v.t.  \n \nBijlage(n)  \nAls bijlage(n) bij dit voorstel behoren:  \n1. Concept reactiebrief MRE ontwerp gewijzigde GR MRE 2024  \n2. Concept zienswijzebrief ontwerp gemeenschappelijke regeling GGD BZO  \n3. Concept zienswijzebrief ontwerp gemeenschappelijke regeling ODZOB  \n4. Concept zienswijzebrief ontwerp gemeenschappelijke regeling VRBZO 2024  \n5. Concept zienswijzebrief ont werp gemeenschappelijke regeling GRWRE/Ergon  \n6.1 Bijlage MRE - Aanbieding ontwerp gewijzigde Gemeenschappelijke Regeling \nMRE 2024  \n6.2  Bijlage MRE - Ontwerp gewijzigde Gemeenschappelijke Regeling MRE 2024  \n6.3  Bijlage MRE - Overzicht Gemeenschappelijke Regeli ng MRE 2021 (WAS) met  \nvoorgestelde wijzigingen (WORDT)  \n6.4  Bijlage MRE – Ontwerp gewijzigd Statuut Overlegorganen MRE 2024  \n7.1 Bijlage GGD - Aanbiedingsbrief aan gemeenten - wijziging gemeenschappelijke   \n Inboeknummer 23bst01319  \n \n 9 \nregeling GGDBZO  \n7.2 Bijlage GGD - Gemeenschappelijke Regeling GGD Brabant -Zuidoost 2023  \n7.3 Bijlage GGD - Was - Wordt Aanpassing Gemeenschappelijke Regeling GGD \nBZO \n8.1 Bijlage ODZOB - Aanbiedingsbrief aanpassing gemeenschappelijke regeling \nODZOB  \n8.2 Bijlage ODZOB - GR ODZOB 2024  \n8.3 Bijlage ODZOB - GR ODZOB Was Wordt  \n9.1 Bijlage VRBZO - Aanbiedingsbrief GR VRBZO  \n9.2 Bijlage VRBZO - Gemeenschappelijke regeling 2024 – integraal  \n9.3 Bijlage VRBZO - Was-wordt GR VRBZO 2024  \n10.1 Bijlage GRWRE - aanbiedingsbrief GRWRE  \n10.2 Bijlage GRWRE - Concept vernieuwde regeling GRWRE  \n10.3 Bijlage GRWRE - Toelichting herziening GRWRE  \n11 Bijlage Regionaal afstemmingskader Wgr  4GR \n12 Totaalverzicht voorgestelde wijzigingen m.b.t. archief gemeenscha ppelijke \nregelingen  \n \n \nEen ontwerpraadsbesluit bieden wij u hierbij ter vaststelling aan.  \n \nBurgemeester en wethouders van Eindhoven,  \n \n \n \n \n, secretaris.  \n   \n Inboeknummer 23bst01319  \n \n 10 \nOntwerp Raadsbesluit  \n \nDe raad van de gemeente Eindhoven;  \ngezien het voorstel van burgemeester en wethouders van ; \n \n \nbesluit:  \n \n1. Kennisnemen van de ontwerp gemeenschappelijke regeling MRE 2024 en \ntoelichting daarop (bijlagen 6.1 t/m 6.4) en instemmen met d e concept reactiebrief \nop de ontwerp  gemeenschappelijke regeling MRE 2024 (bijlage 1) ; \n2. Kennisnemen van de ontwerp gemeenschappelijke regeling GGD BZO en \ntoelichting daarop (bijlagen 7.1 t/m 7.3) en instemmen met de concept \nzienswijzebrief op de ontwerp gem eenschappelijke regeling GGD BZO (bijlage 2) ; \n3. Kennisnemen van de ontwerp gemeenschappelijke regeling ODZOB en toelichting \ndaarop (bijlagen 8.1 t/m 8.3) en instemmen met de concept zienswijzebrief op de \nontwerp  gemeenschappelijke regeling ODZOB (bijlage 3) ; \n4. Kennisnemen van de ontwerp gemeenschappelijke regeling VRBZO 2024 en \ntoelichting daarop (bijlagen 9.1 t/m 9.3) en instemmen met de concept \nzienswijzebrief op de ontwerp  gemeenschappelijke regeling VRBZO 2024 (bijlage \n4); \n5. Kennisnemen van de ontwerp gemeens chappelijke regeling GRWRE/Ergon en \ntoelichting daarop (bijlagen 10.1 t/m 10.3) en instemmen met de concept \nzienswijzebrief op  de ontwerp gemeenschappelijke regeling GRWRE/Ergon \n(bijlage 5) .  \n \n \nAldus vastgesteld in de openbare vergadering van  \n \n \n \n \n, griffier.  \n ",
+    "bst": "23bst01319",
+    "related": [
+        {
+            "id": 900681,
+            "weight": 1.995643848494379
+        },
+        {
+            "id": 938342,
+            "weight": 0.9996371206767685
+        },
+        {
+            "id": 1104821,
+            "weight": 0.6174228647152306
+        },
+        {
+            "id": 1125842,
+            "weight": 0.41997804955586954
+        },
+        {
+            "id": 804097,
+            "weight": 0.4188856325228807
+        },
+        {
+            "id": 909758,
+            "weight": 0.4180041377647849
+        },
+        {
+            "id": 1037397,
+            "weight": 0.3775355893304012
+        },
+        {
+            "id": 1022809,
+            "weight": 0.3457286768889658
+        },
+        {
+            "id": 853544,
+            "weight": 0.23676408296149423
+        },
+        {
+            "id": 15169664,
+            "weight": 0.23624921874918212
+        },
+        {
+            "id": 932415,
+            "weight": 0.2083700179160359
+        },
+        {
+            "id": 999545,
+            "weight": 0.1899407394373753
+        },
+        {
+            "id": 827895,
+            "weight": 0.16852691620249574
+        },
+        {
+            "id": 1013545,
+            "weight": 0.1496091669486421
+        },
+        {
+            "id": "r_7006014",
+            "weight": 0.14317942437051628
+        },
+        {
+            "id": 834947,
+            "weight": 0.1398610116577186
+        },
+        {
+            "id": 892522,
+            "weight": 0.13667775164166715
+        },
+        {
+            "id": 920652,
+            "weight": 0.10677599943474654
+        },
+        {
+            "id": 1041885,
+            "weight": 0.09233589116641552
+        },
+        {
+            "id": 949024,
+            "weight": 0.0874369583354735
+        },
+        {
+            "id": 1037784,
+            "weight": 0.087435620818503
+        },
+        {
+            "id": 831978,
+            "weight": 0.08595919134322824
+        },
+        {
+            "id": 1078957,
+            "weight": 0.08446615423221535
+        },
+        {
+            "id": 913551,
+            "weight": 0.0840140347080353
+        },
+        {
+            "id": 1054433,
+            "weight": 0.0828018419990042
+        },
+        {
+            "id": 1133049,
+            "weight": 0.08181875989354506
+        },
+        {
+            "id": 1146306,
+            "weight": 0.07926394757686198
+        },
+        {
+            "id": 1146310,
+            "weight": 0.07523148244207756
+        },
+        {
+            "id": 1078521,
+            "weight": 0.07245962922761633
+        },
+        {
+            "id": 833196,
+            "weight": 0.06912042396106526
+        },
+        {
+            "id": 1093599,
+            "weight": 0.06693589768251977
+        },
+        {
+            "id": 1104190,
+            "weight": 0.06275741710590114
+        },
+        {
+            "id": 1023254,
+            "weight": 0.06209756195432159
+        },
+        {
+            "id": 1084503,
+            "weight": 0.06160663265025639
+        },
+        {
+            "id": 1036340,
+            "weight": 0.05473764941238143
+        }
+    ],
+    "videostarttime": {
+        "1013527": 10883,
+        "1165167": 9780
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_28.11.23_NC_Eindhoven_Raa.mp4/playlist.m3u8",
+    "keywords": {
+        "gemeenschappelijke regeling": 1.9994149492285709,
+        "ontwerp gemeenschappelijke": 0.9980966438949221,
+        "GGD BZO": 1.9978627145204912,
+        "regeling": 1.9973664918651535,
+        "bijlage": 0.9969838576425541,
+        "MRE": 1.9956825609186053,
+        "ODZOB": 1.9944048404833767,
+        "GRWRE": 1.9940352542856317,
+        "GGD": 1.993345036616088,
+        "VRBZO": 1.9924652226491677,
+        "voorgestelde wijzigingen": 0.9923112227030199,
+        "Zienswijze": 1.9904674501790631,
+        "ontwerp": 0.9903710587074015,
+        "GRWRE Inleiding": 0.9887734893877841,
+        "voorgestelde": 0.9875014071021925,
+        "artikel": 0.984880096295399,
+        "wijzigingen": 0.9838304430332815,
+        "deelnemende gemeenten": 0.9837914371265248,
+        "Wgr": 0.9804122227114872,
+        "algemeen bestuur": 0.9796000819142249,
+        "concept zienswijzebrief": 0.9787511498892679,
+        "Ergon": 0.9787332751861055,
+        "concept": 0.9765218845724166,
+        "raden": 0.9764167841299625,
+        "gemeenten": 0.9759236172025104,
+        "bestuur": 0.975794777580848,
+        "GGD Brabant": 0.975359284737852,
+        "algemeen": 0.9751694010055871,
+        "besluiten": 0.9713926429343314,
+        "Inboeknummer": 0.9702072630143104,
+        "uittreding": 0.9675103669657239,
+        "toelichting": 0.9613585474465436,
+        "Wet": 0.9612162111680495,
+        "GR’en": 0.9585054913476816,
+        "Inleiding Per": 0.9509054875002614,
+        "nieuwe Wgr": 0.9486614321380509,
+        "MRE ligt": 0.9469309770469948,
+        "Kennisnemen": 0.9467069566329227,
+        "instemmen": 0.9465506844118207,
+        "Eindhoven": 0.946403182379935,
+        "zienswijzebrief ontwerp": 0.944765718093041,
+        "aanbiedingsbrief GRWRE": 0.9273030203111635,
+        "wijze": 1.9268942729445238,
+        "colleges": 0.9226405865173324,
+        "Wet Veiligheidsregio": 0.9226108006656972,
+        "ontwerp gewijzigde": 0.9222056701644201,
+        "Overlegorganen MRE": 0.9219049796167955,
+        "aanpassing": 0.9205784828035047,
+        "Raadsvoorstel Zienswijze": 1.915123368209198,
+        "Bijlage Regionaal": 0.9147836850340985,
+        "lid": 0.9109643090779884,
+        "opgenomen": 0.908841837781914,
+        "gewijzigde Wgr": 0.9052717072016682,
+        "GRWRE gemeente": 0.895995218117279,
+        "vigerende": 0.8899740009458709,
+        "vindt": 0.8896605828127145,
+        "definitieve": 0.8894453464282904,
+        "provincie": 0.88865733779466,
+        "raad": 0.8885001496068239,
+        "reactiebrief MRE": 0.8880764613226125,
+        "Zuidoost": 0.8865885739485854,
+        "overzicht": 0.8829577903298786,
+        "reactie": 0.8823660761660514,
+        "terbeschikkingstelling GGD": 0.8797318999724846,
+        "Artikelen opnemen": 0.8754800209648808,
+        "voorgenomen besluiten": 0.8705187411223241,
+        "procedure": 0.8681575168790192,
+        "gemeente Eindhoven": 0.8657830849627453,
+        "aangepast": 0.8638831097400197,
+        "verantwoording": 0.8630162166023847,
+        "archiefbeheer": 0.8629448962052839,
+        "gemaakt": 0.8628076695989292,
+        "voorwaarden": 0.8624432399819644,
+        "Regio": 0.8611118770219518,
+        "argument": 0.8609438499862151,
+        "regeling bepalingen": 0.8601902465884151,
+        "Vaststelling": 0.8591488461855031,
+        "Noord": 0.8504915669494946,
+        "VRBZO hiertoe": 0.8483430315092654,
+        "herziening GRWRE": 0.8474160177058248,
+        "ODZOB geeft": 0.8454428192563819,
+        "Veiligheidsregio Brabant": 0.8391287223815953,
+        "vernieuwde regeling": 0.8288708950551833,
+        "lid Wgr": 0.8283580269125972,
+        "opheffing": 0.8170249530086976,
+        "afspraken": 0.8162767864627885,
+        "totaal": 0.8157168377933885,
+        "planning": 0.8153766189493583,
+        "waarop": 0.8153485543031523,
+        "hierop": 0.8145912996449489,
+        "juli": 0.8145593529753692,
+        "stonden": 0.8144729697826882,
+        "aanzien": 0.8144729697826882,
+        "praktijk": 0.8130314561486826,
+        "technische": 0.8129863406968688,
+        "stemverhouding": 0.811647874785683,
+        "consequenties": 0.8101001573180324,
+        "Ontwerp Raadsbesluit": 0.8070590688738869,
+        "Zienswijze wijziging": 1.80423590771884,
+        "Per": 0.7988574679852821
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": "10-04-2026",
+    "meeting_id": []
+}

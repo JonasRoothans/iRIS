@@ -1,0 +1,92 @@
+{
+    "module_id": "a_7748857",
+    "vote_id": 7748857,
+    "member_id": [
+        42090,
+        194500
+    ],
+    "party_list": [
+        "LPF ",
+        "FVD"
+    ],
+    "poho_id": [],
+    "title": "Aangekondigd amendement A3 Goedgekeurde partijen (FvD, LPF)",
+    "url": "https://raadsinformatie.eindhoven.nl/vergadering/1102274/Aangekondigd%20amendement%20A3%20Goedgekeurde%20partijen%20%28FvD%2C%20LPF%29 11-07-2023#voting_7748857",
+    "type": "Amendement",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "verworpen",
+    "date": "11-07-2023",
+    "meeting_url": {
+        "1102274": "https://raadsinformatie.eindhoven.nl/vergadering/1102274/Aangekondigd%20amendement%20A3%20Goedgekeurde%20partijen%20%28FvD%2C%20LPF%29 11-07-2023#voting_7748857"
+    },
+    "attachment": null,
+    "parent": 813886,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/12990301/2/Verworpen+amendement+A3+Goedgekeurde+partijen+%28FvD%2C+LPF%29?connection_type=1&connection_id=7650320",
+    "pdf_text": " \n \n \nAmendement  Goedgekeurde partijen        A3 \n \nDe indiener s van dit amendement ste llen de gemeenteraad voor om in de \nvergadering van 11 juli 2023 een besluit te nemen.  \n \nZij hebben het voorstel  Zo werken we in Eindhoven: De sociale 7  van het college \ngelezen.  \n \nNa het gesprek in de vergadering van 4 juli 2023 stellen zij een aanpassing van \nhet besluit voor.  \n \nDe indiener s hoorden  dat: \n• Het huidige voorstel de privacy van inwoners niet genoeg  kan waarborgen.  \n \nDe indieners vinden dat:  \n• Privacy prioriteit moet zijn in het sociaal domein .  \n \nDe indieners  stellen voor het ontwerp raadsbesluit als volgt aan te passen : \n \nPunt 6:  \n• Alle partijen die mij ondersteunen kennen mijn plan en dragen bij aan de \ndoelen van mijn plan . \n \nTe wijzigen naar:  \n \n• Alle door mij goedgekeurde  partijen die mij ondersteunen kennen mijn plan \nen dragen bij aan de doelen van mijn plan . \n \nEindhoven, 11 juli 2023  \n \nDe leden  van de raad  \nNicolas Knoester (F vD), voorsteller  \nRudy Reker (LPF), voorsteller  \n \nDit amendement is verworpen in de vergadering van  11 juli 2023 . \n \nJ. Jongbloed , griffier . \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 997724,
+            "weight": 0.21161482422159725
+        },
+        {
+            "id": 1009118,
+            "weight": 0.18799556658753894
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Goedgekeurde partijen": 1.9774645276883642,
+        "ste llen": 0.9691353983190557,
+        "juli": 0.9546633199961911,
+        "Aangekondigd amendement": 1.9532114626296888,
+        "amendement ste": 0.9476011499522268,
+        "partijen": 1.9280913860178805,
+        "LPF": 1.9159588186567047,
+        "vergadering": 0.913047751035005,
+        "plan": 0.9101054784719618,
+        "Eindhoven": 0.8918434012082114,
+        "Nicolas Knoester": 0.8820367830138633,
+        "Rudy Reker": 0.8820367830138633,
+        "FvD": 1.8619217115880193,
+        "ondersteunen kennen": 0.856968995219308,
+        "indiener": 0.845123076973024,
+        "nemen": 0.8446652422162689,
+        "besluit": 0.8424976395223329,
+        "indieners stellen": 0.8376687334476842,
+        "ste": 0.82696676598962,
+        "llen": 0.82696676598962,
+        "gemeenteraad": 0.82696676598962,
+        "privacy": 0.825526633602518,
+        "voorsteller Rudy": 0.8126889065045367,
+        "college gelezen": 0.8037783001011556,
+        "voorstel": 0.7994025920898783,
+        "kennen": 0.7641862404297013,
+        "dragen": 0.7641862404297013,
+        "doelen": 0.7641862404297013,
+        "raad Nicolas": 0.7504941081910634,
+        "Privacy prioriteit": 0.7368857018601738,
+        "huidige voorstel": 0.7070534842318732,
+        "Punt": 0.7044880394005704,
+        "Knoester": 0.6845581890583001,
+        "Reker": 0.6845581890583001,
+        "Jongbloed": 0.6845581890583001,
+        "Rudy": 0.6654971397420127,
+        "sociale": 0.610239785023539,
+        "gelezen": 0.610239785023539,
+        "werken": 0.5791398058581453,
+        "college": 0.5791398058581453
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194500,
+    "lastScrapeDate": "19-08-2025",
+    "meeting_id": [
+        1102274
+    ]
+}

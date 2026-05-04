@@ -1,0 +1,76 @@
+{
+    "module_id": "r_8748177",
+    "vote_id": 8748177,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Raadsvoorstel Gewijzigde vaststelling bestemmingsplan II Vredeoord (VB terrein)",
+    "url": "https://raadsinformatie.eindhoven.nl/vergadering/1148334/Raadsvoorstel%20Gewijzigde%20vaststelling%20bestemmingsplan%20II%20Vredeoord%20%28VB%20terrein%29 26-11-2024#voting_8748177",
+    "type": "Raadsvoorstel",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "aangenomen",
+    "date": "26-11-2024",
+    "meeting_url": {
+        "1148334": "https://raadsinformatie.eindhoven.nl/vergadering/1148334/Raadsvoorstel%20Gewijzigde%20vaststelling%20bestemmingsplan%20II%20Vredeoord%20%28VB%20terrein%29 26-11-2024#voting_8748177"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1123634,
+            "weight": 0.4222449252630574
+        },
+        {
+            "id": 977708,
+            "weight": 0.4165354768296798
+        },
+        {
+            "id": 987699,
+            "weight": 0.4161940951982373
+        },
+        {
+            "id": 991140,
+            "weight": 0.19982750382664288
+        },
+        {
+            "id": 991152,
+            "weight": 0.1996279285084118
+        },
+        {
+            "id": 991221,
+            "weight": 0.17171802026907484
+        },
+        {
+            "id": "a_8288826",
+            "weight": 0.14958104258177327
+        },
+        {
+            "id": 1117265,
+            "weight": 0.13728586034779372
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Raadsvoorstel Gewijzigde": 1.9765416191248102,
+        "Gewijzigde vaststelling": 1.955011371234592,
+        "Vredeoord": 1.9140368224837343,
+        "vaststelling bestemmingsplan": 1.9029960071342575,
+        "Gewijzigde": 1.8552226942577967,
+        "terrein": 1.8416830712200127
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1148334
+    ]
+}

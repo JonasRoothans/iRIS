@@ -1,0 +1,107 @@
+{
+    "module_id": 942563,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230022,
+    "title": "Initiatiefvoorstel Fossielvrije Reclame",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/942563",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Esselbrugge (Wethouder)",
+    "result": "",
+    "date": "07-05-2024",
+    "meeting_url": {
+        "1147927": "https://raadsinformatie.eindhoven.nl/vergadering/1147927#ai_8333847"
+    },
+    "attachment": null,
+    "parent": 920652,
+    "children": [
+        "a_8389213",
+        "a_8389212"
+    ],
+    "text": "Wethouder Esselbrugge zegt toe met de exploitanten in gesprek te gaan over stappen die zij zelf bereid zijn te zetten ten aanzien van het bevorderen van fossielvrije reclame-uitingen. Zij zal de raad over de uitkomst van deze gesprekken informeren.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 926404,
+            "weight": 1.4286634178592283
+        },
+        {
+            "id": "a_10115166",
+            "weight": 0.6418865801776683
+        },
+        {
+            "id": 937101,
+            "weight": 0.3036067144277907
+        },
+        {
+            "id": 11798963,
+            "weight": 0.26503669487183457
+        },
+        {
+            "id": 909638,
+            "weight": 0.2366644374948609
+        },
+        {
+            "id": 1139962,
+            "weight": 0.15538674292970275
+        },
+        {
+            "id": 1126046,
+            "weight": 0.08161102904128267
+        },
+        {
+            "id": 1050953,
+            "weight": 0.08139621624692826
+        },
+        {
+            "id": 1126057,
+            "weight": 0.08081107981293527
+        },
+        {
+            "id": 920652,
+            "weight": 0.07739408013105063
+        },
+        {
+            "id": 883872,
+            "weight": 0.06454798960788358
+        },
+        {
+            "id": 1052186,
+            "weight": 0.054985571336267525
+        }
+    ],
+    "videostarttime": {
+        "1147927": 2883
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_07.05.24_NC_Eindhoven_Raadsvergadering.mp4/playlist.m3u8",
+    "keywords": {
+        "Reclame Wethouder": 0.9933393251366106,
+        "Wethouder Esselbrugge": 0.9933393251366106,
+        "Fossielvrije Reclame": 1.9893639672626127,
+        "Esselbrugge zegt": 0.9860538639637113,
+        "Initiatiefvoorstel Fossielvrije": 1.9848655043562182,
+        "Reclame": 1.918657490715698,
+        "gesprekken informeren": 0.8519299195770867,
+        "zegt": 0.830908628357279,
+        "exploitanten": 0.830908628357279,
+        "gesprek": 0.830908628357279,
+        "gaan": 0.830908628357279,
+        "stappen": 0.830908628357279,
+        "bereid": 0.830908628357279,
+        "zetten": 0.830908628357279,
+        "aanzien": 0.830908628357279,
+        "bevorderen": 0.830908628357279,
+        "raad": 0.5859003282472138,
+        "uitkomst": 0.5859003282472138
+    },
+    "svz": "NIET vastgesteld raadsbesluit Initiatiefvoorstel Fossielvrije Reclame.pdf\nHet initiatiefvoorstel Fossielvrije ...  Lees verder ",
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

@@ -1,0 +1,79 @@
+{
+    "module_id": 979709,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Nadere toelichting - Raadsvoorstel Vaststelling gebiedsvisie Groots Gestel",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/979709",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "15-10-2024",
+    "meeting_url": {
+        "1148137": "https://raadsinformatie.eindhoven.nl/vergadering/1148137#ai_8692729"
+    },
+    "attachment": null,
+    "parent": 968648,
+    "children": [],
+    "text": "Wethouder Verhees zegt toe met een nadere toelichting te komen over de inzet van het warmtenet en de zeer lage temperatuur voorziening",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 979710,
+            "weight": 1.149802962878001
+        },
+        {
+            "id": 991435,
+            "weight": 0.3280871911975236
+        },
+        {
+            "id": 991683,
+            "weight": 0.32561025789330283
+        },
+        {
+            "id": 991544,
+            "weight": 0.31752566084372763
+        },
+        {
+            "id": 991438,
+            "weight": 0.3069802664673701
+        }
+    ],
+    "videostarttime": {
+        "1148137": 629
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_15.10.24_Eindhoven_mening.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Vaststelling": 1.994201771396904,
+        "Groots Gestel": 1.991353636495227,
+        "Gestel Wethouder": 0.9913536364952268,
+        "Wethouder Verhees": 0.9913536364952268,
+        "Vaststelling gebiedsvisie": 1.9828279410325553,
+        "gebiedsvisie Groots": 1.9828279410325553,
+        "Verhees zegt": 0.9828279410325554,
+        "Nadere toelichting": 1.9794977842034276,
+        "temperatuur voorziening": 0.9792553434604431,
+        "lage temperatuur": 0.9656088964038692,
+        "Raadsvoorstel": 1.9377359758067199,
+        "Vaststelling": 1.9074135822027776,
+        "Groots": 1.9074135822027776,
+        "Gestel": 1.9074135822027776,
+        "Nadere": 1.9007663163238446,
+        "voorziening": 0.8885427134598362,
+        "zegt": 0.8176605385115817,
+        "komen": 0.8176605385115817,
+        "inzet": 0.8176605385115817,
+        "warmtenet": 0.8176605385115817,
+        "lage": 0.8176605385115817
+    },
+    "svz": null,
+    "afgedaan": "19-11-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

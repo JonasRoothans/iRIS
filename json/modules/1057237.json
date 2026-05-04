@@ -1,0 +1,110 @@
+{
+    "module_id": 1057237,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230019,
+    "title": "Testen door inwoners - Raadsvoorstel Zesde wijziging ASV Eindhoven",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1057237",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. van Lanschot (Wethouder)",
+    "result": "",
+    "date": "19-06-2025",
+    "meeting_url": {
+        "1256618": "https://raadsinformatie.eindhoven.nl/vergadering/1256618#ai_9403683"
+    },
+    "attachment": null,
+    "parent": 1047421,
+    "children": [],
+    "text": "Wethouder Van Lanschot heeft toegezegd dat:\nhierbij wordt het testen door inwoners meegenomen;",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1057230,
+            "weight": 3.4018689960794752
+        },
+        {
+            "id": 1057232,
+            "weight": 3.400253461581188
+        },
+        {
+            "id": 1057242,
+            "weight": 3.3970470150233743
+        },
+        {
+            "id": 1047421,
+            "weight": 3.357593786188814
+        },
+        {
+            "id": 12424218,
+            "weight": 0.7503543947991455
+        },
+        {
+            "id": 822613,
+            "weight": 0.7303850133325998
+        },
+        {
+            "id": 826203,
+            "weight": 0.56736676385316
+        },
+        {
+            "id": 791741,
+            "weight": 0.48182277936545076
+        },
+        {
+            "id": 776965,
+            "weight": 0.34171398218117643
+        },
+        {
+            "id": 835450,
+            "weight": 0.30531248577257925
+        },
+        {
+            "id": 1114088,
+            "weight": 0.2758265778328718
+        },
+        {
+            "id": 997118,
+            "weight": 0.17999580610931668
+        },
+        {
+            "id": 775301,
+            "weight": 0.17830449629123632
+        },
+        {
+            "id": 1112893,
+            "weight": 0.17488187203204852
+        }
+    ],
+    "videostarttime": {
+        "1256618": 13215
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/19.06.25 Eindhoven Meningsvorming.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Zesde": 1.9940823475428064,
+        "ASV Eindhoven": 1.9911911740168406,
+        "Eindhoven Wethouder": 0.9911911740168406,
+        "Zesde wijziging": 1.9823410414915972,
+        "wijziging ASV": 1.9823410414915972,
+        "inwoners meegenomen": 0.9763039931918857,
+        "Zesde": 1.906555320515322,
+        "ASV": 1.906555320515322,
+        "Wethouder": 0.9065553205153221,
+        "Lanschot": 0.9065553205153221,
+        "Testen": 1.8982008816438842,
+        "inwoners": 1.8982008816438842,
+        "hierbij": 0.8863079377134112,
+        "toegezegd": 0.8143015634365182
+    },
+    "svz": null,
+    "afgedaan": "Q1 2027 (start Q4 2026)",
+    "eersteIndiener": null,
+    "lastScrapeDate": "02-10-2025",
+    "meeting_id": [
+        1256618
+    ]
+}

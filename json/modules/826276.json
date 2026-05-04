@@ -1,0 +1,138 @@
+{
+    "module_id": 826276,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 231116,
+    "title": "Beleid Bodycams - Raadsvoorstel Beleidskader veiligheid 2023-2026",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/826276",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "J. Dijsselbloem (Burgemeester)",
+    "result": "",
+    "date": "28-02-2023",
+    "meeting_url": {
+        "1059677": "https://raadsinformatie.eindhoven.nl/vergadering/1059677#ai_7356813"
+    },
+    "attachment": null,
+    "parent": 817517,
+    "children": [],
+    "text": "Burgemeester Dijsselbloem zegt toe:\n\ndat het beleid voor bodycams begin tweede kwartaal 2023 naar de raad komt.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 826277,
+            "weight": 1.085518483145603
+        },
+        {
+            "id": 826266,
+            "weight": 0.9698749908619035
+        },
+        {
+            "id": 826271,
+            "weight": 0.9668464889885826
+        },
+        {
+            "id": 826275,
+            "weight": 0.9656358043505526
+        },
+        {
+            "id": 826273,
+            "weight": 0.9650938198919713
+        },
+        {
+            "id": 826265,
+            "weight": 0.9638985531631119
+        },
+        {
+            "id": 817517,
+            "weight": 0.8217237429055575
+        },
+        {
+            "id": 921456,
+            "weight": 0.42541349997701394
+        },
+        {
+            "id": 861380,
+            "weight": 0.3956733642103257
+        },
+        {
+            "id": 851994,
+            "weight": 0.3745953270592745
+        },
+        {
+            "id": 785515,
+            "weight": 0.18913234794978673
+        },
+        {
+            "id": 1124907,
+            "weight": 0.17292488492009092
+        },
+        {
+            "id": 1061195,
+            "weight": 0.1651769029554822
+        },
+        {
+            "id": "a_7462821",
+            "weight": 0.13065380391774703
+        },
+        {
+            "id": 1131248,
+            "weight": 0.12102094617824752
+        },
+        {
+            "id": 993565,
+            "weight": 0.11926482186934075
+        },
+        {
+            "id": 15039359,
+            "weight": 0.11006339107669887
+        },
+        {
+            "id": 891735,
+            "weight": 0.10463549689606462
+        },
+        {
+            "id": 955541,
+            "weight": 0.10459487697366146
+        },
+        {
+            "id": 1020983,
+            "weight": 0.09790649136268521
+        }
+    ],
+    "videostarttime": {
+        "1059677": 9665
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_28.02.23_NC_Eindhoven_Raadsvergadering.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Beleidskader": 1.9941758988404281,
+        "Burgemeester Dijsselbloem": 0.9913184023286293,
+        "Beleidskader veiligheid": 1.9827229906989854,
+        "2023-2026 Burgemeester": 0.9827229906989855,
+        "Dijsselbloem zegt": 0.9827229906989855,
+        "tweede kwartaal": 0.9790789728388827,
+        "raad komt": 0.9790789728388827,
+        "bodycams begin": 0.9678579211372041,
+        "veiligheid 2023-2026": 1.9653249501666379,
+        "begin tweede": 0.9653249501666379,
+        "Beleid Bodycams": 1.952945423008721,
+        "Raadsvoorstel": 1.9375857016068663,
+        "komt": 0.8880602594649631,
+        "Beleid": 1.8679085709800167,
+        "veiligheid": 1.816934477864523,
+        "2023-2026": 1.816934477864523,
+        "zegt": 0.8169344778645228,
+        "begin": 0.8169344778645228,
+        "tweede": 0.8169344778645228,
+        "raad": 0.8169344778645228
+    },
+    "svz": null,
+    "afgedaan": "28-03-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

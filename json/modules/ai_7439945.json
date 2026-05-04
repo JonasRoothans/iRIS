@@ -1,0 +1,42 @@
+{
+    "module_id": "ai_7439945",
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Controles - Agenderingsverzoek Uitvoeringspraktijk woonoverlast – meldpunt (SP en 50PLUS).",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/moties_en_toezeggingen/831530?parent_event=1059806",
+    "type": "Agenda",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "28-03-2023",
+    "meeting_url": "https://raadsinformatie.eindhoven.nl/vergadering/1059806#ai_7439945",
+    "attachment": null,
+    "parent": null,
+    "children": [
+        831530,
+        831542
+    ],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [],
+    "videostarttime": 14598,
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_28.03.23_NC_eindhoven_raa.mp4/playlist.m3u8",
+    "keywords": {
+        "Agenderingsverzoek Uitvoeringspraktijk": 1.9873976398760465,
+        "Uitvoeringspraktijk woonoverlast": 1.9765416191248102,
+        "Controles": 1.9550880231213545,
+        "meldpunt": 1.9550880231213545,
+        "Agenderingsverzoek": 1.9140368224837343,
+        "woonoverlast": 1.8416830712200127
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": null,
+    "meeting_id": []
+}

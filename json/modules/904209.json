@@ -1,0 +1,68 @@
+{
+    "module_id": 904209,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Centrale meldpunt - Woonoverlast door woningsplitsing en kamerverhuur (agenderingsverzoek SP, LPF, VVD, 50PLUS en VOLT)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/904209",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "12-12-2023",
+    "meeting_url": {
+        "1044903": "https://raadsinformatie.eindhoven.nl/vergadering/1044903#ai_8016064"
+    },
+    "attachment": null,
+    "parent": "ai_8016064",
+    "children": [],
+    "text": "Wethouder Verhees zegt toe de raad in het eerste kwartaal van 2024 bij te praten over de stand van zaken van het centrale meldpunt.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": "ai_8016064",
+            "weight": 1.9863833748854969
+        },
+        {
+            "id": 966052,
+            "weight": 0.2614530073817938
+        },
+        {
+            "id": 1075892,
+            "weight": 0.15954437837119573
+        }
+    ],
+    "videostarttime": {
+        "1044903": 17150
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_12.12.23_NC_EINDHOVEN_CIE.mp4/playlist.m3u8",
+    "keywords": {
+        "Wethouder Verhees": 0.9962420823737148,
+        "Centrale meldpunt": 1.9956023917305217,
+        "Verhees zegt": 0.9903774059002022,
+        "meldpunt": 1.9676411803190503,
+        "LPF": 1.966437683229075,
+        "VVD": 1.966437683229075,
+        "Woonoverlast": 1.94789233482645,
+        "VOLT": 1.94789233482645,
+        "Centrale": 1.9326417401769547,
+        "kamerverhuur": 1.9108445850790092,
+        "agenderingsverzoek": 1.9108445850790092,
+        "woningsplitsing": 1.8673471920127542,
+        "zegt": 0.8673471920127543,
+        "raad": 0.8673471920127543,
+        "kwartaal": 0.8673471920127543,
+        "praten": 0.8673471920127543,
+        "stand": 0.8673471920127543,
+        "zaken": 0.8673471920127543
+    },
+    "svz": null,
+    "afgedaan": "04-06-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

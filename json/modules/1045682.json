@@ -1,0 +1,119 @@
+{
+    "module_id": 1045682,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 248564,
+    "title": "Doorontwikkeling van BIC noord - Raadsvoorstel Verkeerscirculatieplan Eindhoven binnen de Ring en Verbeterplan Ring",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1045682",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "R. Strijk (Wethouder)",
+    "result": "",
+    "date": "13-05-2025",
+    "meeting_url": {
+        "1256605": "https://raadsinformatie.eindhoven.nl/vergadering/1256605#ai_9271218"
+    },
+    "attachment": null,
+    "parent": 1035304,
+    "children": [],
+    "text": "Wethouder Strijk zegt toe bij de verdere doorontwikkeling van BIC noord wordt de analyse van de radialen (knelpunten bij Boschdijk) buiten de ring meegenomen.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1045701,
+            "weight": 0.7453960209162039
+        },
+        {
+            "id": 1045703,
+            "weight": 0.6485363155351079
+        },
+        {
+            "id": 1045686,
+            "weight": 0.5672138708613998
+        },
+        {
+            "id": 1045698,
+            "weight": 0.567020183373045
+        },
+        {
+            "id": 1045691,
+            "weight": 0.5665005888520421
+        },
+        {
+            "id": 1045674,
+            "weight": 0.5657275423563943
+        },
+        {
+            "id": 1045676,
+            "weight": 0.5647603610253279
+        },
+        {
+            "id": 1045922,
+            "weight": 0.2211834491713506
+        },
+        {
+            "id": 905845,
+            "weight": 0.18186335725447864
+        },
+        {
+            "id": 997004,
+            "weight": 0.17851090301908001
+        },
+        {
+            "id": 918944,
+            "weight": 0.17021509714324504
+        },
+        {
+            "id": 918921,
+            "weight": 0.16996845416546807
+        },
+        {
+            "id": 1035304,
+            "weight": 0.08997842016079675
+        },
+        {
+            "id": 925585,
+            "weight": 0.08323449307168354
+        },
+        {
+            "id": 944416,
+            "weight": 0.06040197136586465
+        }
+    ],
+    "videostarttime": {
+        "1256605": 628
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_13.05.25_NC_01-EINDHOVEN-RAA.mp4/playlist.m3u8",
+    "keywords": {
+        "BIC noord": 1.9975352548224414,
+        "Raadsvoorstel Verkeerscirculatieplan": 1.9972066521920977,
+        "Verkeerscirculatieplan Eindhoven": 1.9964987236536786,
+        "Wethouder Strijk": 0.9964987236536788,
+        "Verbeterplan Ring": 1.9954362919580548,
+        "Ring Wethouder": 0.9954362919580548,
+        "ring meegenomen": 0.9937305235198685,
+        "Strijk zegt": 0.9936318489617239,
+        "verdere doorontwikkeling": 0.9887255527289387,
+        "BIC": 1.976432557868433,
+        "Ring": 1.9743631369281731,
+        "Raadsvoorstel": 1.9528415698277186,
+        "Boschdijk": 0.9528415698277185,
+        "Eindhoven": 1.9409317328641373,
+        "radialen": 0.9189914535419353,
+        "knelpunten": 0.9189914535419353,
+        "zegt": 0.8928721864863463,
+        "verdere": 0.8928721864863463,
+        "analyse": 0.8928721864863463
+    },
+    "svz": null,
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": [
+        1256605
+    ]
+}

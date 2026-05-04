@@ -1,0 +1,212 @@
+{
+    "meeting_id": 1013066,
+    "meeting_subid": {
+        "Raadzaal": 1013066
+    },
+    "subtitles": {
+        "Raadzaal": null
+    },
+    "speakers": {
+        "Raadzaal": {
+            "598": {
+                "start": 598,
+                "end": 716,
+                "id": 230907
+            },
+            "1225": {
+                "start": 1225,
+                "end": 1274,
+                "id": 230907
+            },
+            "1571": {
+                "start": 1571,
+                "end": 1593,
+                "id": 230907
+            },
+            "1606": {
+                "start": 1606,
+                "end": 1955,
+                "id": 231053
+            },
+            "1965": {
+                "start": 1965,
+                "end": 2001,
+                "id": 230907
+            },
+            "2003": {
+                "start": 2003,
+                "end": 2744,
+                "id": 231054
+            },
+            "2769": {
+                "start": 2769,
+                "end": 2787,
+                "id": 230907
+            },
+            "2803": {
+                "start": 2803,
+                "end": 3298,
+                "id": 231056
+            },
+            "3313": {
+                "start": 3313,
+                "end": 3317,
+                "id": 230907
+            },
+            "3328": {
+                "start": 3328,
+                "end": 4388,
+                "id": 230907
+            },
+            "4809": {
+                "start": 4809,
+                "end": 4818,
+                "id": 230907
+            },
+            "4820": {
+                "start": 4820,
+                "end": 5176,
+                "id": 231058
+            },
+            "5214": {
+                "start": 5214,
+                "end": 5239,
+                "id": 230907
+            },
+            "5242": {
+                "start": 5242,
+                "end": 6398,
+                "id": 230025
+            },
+            "6452": {
+                "start": 6452,
+                "end": 6478,
+                "id": 230907
+            }
+        }
+    },
+    "title": {
+        "Raadzaal": "Vergadering Bijzondere raadsvergadering afscheid J.A. Jorritsma als burgemeester 12-09-2022 Gemeente Eindhoven"
+    },
+    "meeting_url": "https://raadsinformatie.eindhoven.nl/vergadering/1013066/",
+    "video_url": {
+        "Raadzaal": "http://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/12.09.22 Eindhoven Raad Spec.mp4/playlist.m3u8"
+    },
+    "api_url": "api.notubiz.nl/events/1013066",
+    "date": "2022-09-12 19:00:00",
+    "type": "Bijzondere raadsvergadering afscheid J.A. Jorritsma als burgemeester",
+    "agenda": {
+        "Raadzaal": {
+            "678": {
+                "title": "Welkomstwoord door de plaatsvervangend voorzitter van de raad de heer L.L.B. Janssen",
+                "id": 6962184,
+                "module_id": []
+            },
+            "719": {
+                "title": "Toespraak door de heer R. Thijs (namens het college)",
+                "id": 6962188,
+                "module_id": []
+            },
+            "1404": {
+                "title": "Onthulling van het geschilderde portret van de heer J.A. Jorritsma",
+                "id": 6962189,
+                "module_id": []
+            },
+            "1617": {
+                "title": "Toespraak door mevrouw S. van Es (Brainport)",
+                "id": 6962191,
+                "module_id": []
+            },
+            "1991": {
+                "title": "Toespraak door mevrouw P.J.M.G Blanksma (MRE)",
+                "id": 6962192,
+                "module_id": []
+            },
+            "3095": {
+                "title": "Toespraak door de heer W. Paulissen (namens de Veiligheidsdriehoek)",
+                "id": 6962194,
+                "module_id": []
+            },
+            "3339": {
+                "title": "Toespraak door de plaatsvervangend voorzitter van de raad de heer L.L.B. Janssen",
+                "id": 7008583,
+                "module_id": []
+            },
+            "4454": {
+                "title": "Intermezzo (mevrouw I. Penning zingt)",
+                "id": 6962195,
+                "module_id": []
+            },
+            "4843": {
+                "title": "Toespraak door mw. I. Adema, Commissaris van de Koning van de provincie Noord-Brabant",
+                "id": 6962197,
+                "module_id": []
+            },
+            "6239": {
+                "title": "Toespraak door de heer J.A. Jorritsma",
+                "id": 6962198,
+                "module_id": []
+            },
+            "6457": {
+                "title": "Sluiting",
+                "id": 6962157,
+                "module_id": []
+            },
+            "678": {
+                "title": "Welkomstwoord door de plaatsvervangend voorzitter van de raad de heer L.L.B. Janssen",
+                "id": 6962184,
+                "module_id": []
+            },
+            "719": {
+                "title": "Toespraak door de heer R. Thijs (namens het college)",
+                "id": 6962188,
+                "module_id": []
+            },
+            "1404": {
+                "title": "Onthulling van het geschilderde portret van de heer J.A. Jorritsma",
+                "id": 6962189,
+                "module_id": []
+            },
+            "1617": {
+                "title": "Toespraak door mevrouw S. van Es (Brainport)",
+                "id": 6962191,
+                "module_id": []
+            },
+            "1991": {
+                "title": "Toespraak door mevrouw P.J.M.G Blanksma (MRE)",
+                "id": 6962192,
+                "module_id": []
+            },
+            "3095": {
+                "title": "Toespraak door de heer W. Paulissen (namens de Veiligheidsdriehoek)",
+                "id": 6962194,
+                "module_id": []
+            },
+            "3339": {
+                "title": "Toespraak door de plaatsvervangend voorzitter van de raad de heer L.L.B. Janssen",
+                "id": 7008583,
+                "module_id": []
+            },
+            "4454": {
+                "title": "Intermezzo (mevrouw I. Penning zingt)",
+                "id": 6962195,
+                "module_id": []
+            },
+            "4843": {
+                "title": "Toespraak door mw. I. Adema, Commissaris van de Koning van de provincie Noord-Brabant",
+                "id": 6962197,
+                "module_id": []
+            },
+            "6239": {
+                "title": "Toespraak door de heer J.A. Jorritsma",
+                "id": 6962198,
+                "module_id": []
+            },
+            "6457": {
+                "title": "Sluiting",
+                "id": 6962157,
+                "module_id": []
+            }
+        }
+    }
+}

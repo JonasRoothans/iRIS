@@ -1,0 +1,282 @@
+{
+    "module_id": 1019862,
+    "vote_id": null,
+    "member_id": [
+        194500
+    ],
+    "party_list": [
+        "FVD"
+    ],
+    "poho_id": [],
+    "title": "Beantwoording raadsvragen - Beloon ethische hackers (FvD)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/4/Raadsvragen/1019862",
+    "type": "Raadsvraag",
+    "member": "Nicolas Knoester",
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "14-02-2025",
+    "meeting_url": null,
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/15161158/1?connection_type=17&connection_id=11546918": "Vraag",
+        "https://raadsinformatie.eindhoven.nl/document/15195612/1?connection_type=17&connection_id=11588764": "Antwoord"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": " \n \nRaadsvragen - Beloon ethische hackers  \ndatum:  13 februari 2025  \n \n \nGeacht college,  \n \nDe digitale veiligheid van gemeentelijke systemen is van essentieel \nbelang om de kwetsbare  gegevens  van inwoners  te beschermen tegen \ncyberdreigingen. Ethische hackers spelen hierin een cruciale rol door \nkwetsbaarheden tijdig te signaleren en  te melden, waardoor ernstige \nbeveiligingsincidenten kunnen worden voorkomen. In het verleden zijn \nzij van onmisbare waarde geweest voor de gemeente Eindhoven. De \ngemeente mag echter niet afhankelijk zijn van de vrijwilligheid van \nethische hackers en moet proactief beleid voeren om de digitale \nveiligheid te waarborgen.  \n \nOm dit te stimuleren en te erkennen, zou de gemeente een Bug Bounty -\nprogramma kunnen opzetten, waarbij ethische hackers worden beloond \nvoor het verantwoord melden van kwetsbaarheden. Bedrijven als  \nMicrosoft en Google hanteren dergelijke programma ’s al succesvol. \nDaarnaast zou een ' Hall of Fame' op de gemeentelijke website kunnen \nworden ingericht om ethische hackers publieke erkenning te geven. De \ngemeente ’s -Hertogenbosch heeft bijvoorbeeld al een Hall of Fame: \nhttps://www.s -hertogenbosch.nl/hall -of-fame/ . \n \nRaadsvragen:  \n1. Ziet het college mogelijkheden om een Bug Bounty -programma \nop te zetten, eventueel in samenwerking met een extern platform \nzoals HackerOne? Zo ja, gaat het college dit doen?  \n2. Zou het college daarnaast een 'Wall of Fame' op de \ngemeentelijke website kunnen opzetten, waarop ethische \nhackers , die bijdragen aan de veiligheid van de gemeentelijke \ndigitale infrastructuur , erkenning krijgen?  \n \nNicolas Knoester (Forum voor Democratie)  \n",
+    "bst": "7883402 1.4.1.",
+    "related": [
+        {
+            "id": 781364,
+            "weight": 0.26467225528537636
+        },
+        {
+            "id": 1017598,
+            "weight": 0.24005179784150013
+        },
+        {
+            "id": 1140925,
+            "weight": 0.19954909440699747
+        },
+        {
+            "id": 776901,
+            "weight": 0.14819035033970748
+        },
+        {
+            "id": 16590021,
+            "weight": 0.14585146892168205
+        },
+        {
+            "id": 1134425,
+            "weight": 0.14239086218813732
+        },
+        {
+            "id": 973917,
+            "weight": 0.14199827846069812
+        },
+        {
+            "id": 1080239,
+            "weight": 0.12792900712820127
+        },
+        {
+            "id": 1085070,
+            "weight": 0.12621457184394072
+        },
+        {
+            "id": 891429,
+            "weight": 0.11297745819696237
+        },
+        {
+            "id": 1129193,
+            "weight": 0.11134120544397365
+        },
+        {
+            "id": 15622236,
+            "weight": 0.111244380067674
+        },
+        {
+            "id": 1148282,
+            "weight": 0.11011460059730789
+        },
+        {
+            "id": 1148088,
+            "weight": 0.10829646021661211
+        },
+        {
+            "id": 790709,
+            "weight": 0.10615960710884138
+        },
+        {
+            "id": 867137,
+            "weight": 0.08894443415358486
+        },
+        {
+            "id": 862790,
+            "weight": 0.08771173473170335
+        },
+        {
+            "id": 1022082,
+            "weight": 0.08667467613605657
+        },
+        {
+            "id": 1148967,
+            "weight": 0.08338069694676138
+        },
+        {
+            "id": 941316,
+            "weight": 0.08204781812257979
+        },
+        {
+            "id": 1092345,
+            "weight": 0.07828148085421724
+        },
+        {
+            "id": 15517013,
+            "weight": 0.07461027685269908
+        },
+        {
+            "id": 1046816,
+            "weight": 0.07453519808273715
+        },
+        {
+            "id": 891082,
+            "weight": 0.07409501952765636
+        },
+        {
+            "id": "o_9205533",
+            "weight": 0.07266739159051623
+        },
+        {
+            "id": 989740,
+            "weight": 0.0723607483979853
+        },
+        {
+            "id": 891067,
+            "weight": 0.06932711731937669
+        },
+        {
+            "id": 776905,
+            "weight": 0.06524492331817479
+        },
+        {
+            "id": 12876589,
+            "weight": 0.06353779816018386
+        },
+        {
+            "id": 1030763,
+            "weight": 0.06317993713372146
+        },
+        {
+            "id": 974304,
+            "weight": 0.06131688742356878
+        },
+        {
+            "id": 1035123,
+            "weight": 0.0610651012206143
+        },
+        {
+            "id": 853371,
+            "weight": 0.060867145548407206
+        },
+        {
+            "id": 1082448,
+            "weight": 0.0579928346493211
+        },
+        {
+            "id": 999545,
+            "weight": 0.05709301347961961
+        },
+        {
+            "id": 836075,
+            "weight": 0.05557664387476359
+        },
+        {
+            "id": 834883,
+            "weight": 0.05521003856536031
+        },
+        {
+            "id": 1000421,
+            "weight": 0.052543797742607215
+        },
+        {
+            "id": 915421,
+            "weight": 0.052303311645001606
+        },
+        {
+            "id": 1032695,
+            "weight": 0.051112650337538805
+        },
+        {
+            "id": 845410,
+            "weight": 0.04912078889302884
+        },
+        {
+            "id": 1036878,
+            "weight": 0.04880212524952053
+        },
+        {
+            "id": 934077,
+            "weight": 0.045740856841595644
+        },
+        {
+            "id": 831047,
+            "weight": 0.044145163259509894
+        },
+        {
+            "id": 13540297,
+            "weight": 0.04065936234410718
+        },
+        {
+            "id": 977648,
+            "weight": 0.03981632682271726
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Beloon ethische": 1.9918000248362695,
+        "ethische hackers": 1.98128021694307,
+        "Beloon": 1.9753395819117152,
+        "Geacht college": 0.9642454526793868,
+        "essentieel belang": 0.9512286986158965,
+        "hackers": 1.9494086855080455,
+        "Bug Bounty": 0.9484861225921063,
+        "Beantwoording raadsvragen": 1.9430585210983926,
+        "Geacht": 0.9334809797751182,
+        "Fame": 0.9168567644771155,
+        "raadsvragen": 1.9062897013479763,
+        "gemeente": 0.8992040850150954,
+        "digitale veiligheid": 0.889122160555913,
+        "gemeentelijke systemen": 0.8871226270473698,
+        "gemeente Eindhoven": 0.8803672231931184,
+        "Hall": 0.8770072744801031,
+        "college": 0.8702615813404451,
+        "digitale": 0.8579883618132933,
+        "Bug": 0.841535804764901,
+        "FvD": 1.831951644964359,
+        "februari": 0.831951644964359,
+        "programma": 0.8196220446933461,
+        "datum": 0.8083674740817623,
+        "cyberdreigingen": 0.8083674740817623,
+        "hackers spelen": 0.790837244992007,
+        "systemen": 0.7843538173522578,
+        "belang": 0.7843538173522578,
+        "kwetsbare": 0.7843538173522578,
+        "inwoners": 0.7843538173522578,
+        "beschermen": 0.7843538173522578,
+        "melden": 0.7477256755984558,
+        "opzetten": 0.7437657267935304,
+        "Eindhoven": 0.734984267317488,
+        "website": 0.7194552445668749,
+        "waardoor ernstige": 0.7170216076161899,
+        "Daarnaast": 0.6872865195697608,
+        "erkenning": 0.6872865195697608,
+        "cruciale rol": 0.6866481462091445,
+        "ernstige beveiligingsincidenten": 0.6866481462091445,
+        "kwetsbaarheden tijdig": 0.672948232377392,
+        "Google hanteren": 0.6516503860788581,
+        "Microsoft": 0.6209322562689437,
+        "Google": 0.6209322562689437,
+        "Hertogenbosch": 0.6127683354753073,
+        "Knoester": 0.5762762207294103,
+        "Forum": 0.5762762207294103,
+        "Democratie": 0.5762762207294103,
+        "digitale infrastructuur": 0.5718857881034527,
+        "Nicolas Knoester": 0.5698638272057135,
+        "waardoor": 0.5484474029619829,
+        "voorkomen": 0.5484474029619829,
+        "spelen": 0.5115438427893271,
+        "rol": 0.5115438427893271,
+        "tijdig": 0.5115438427893271,
+        "signaleren": 0.5115438427893271,
+        "ernstige": 0.5115438427893271,
+        "verantwoord melden": 0.5000920868885373
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194500,
+    "lastScrapeDate": "02-04-2026",
+    "meeting_id": []
+}

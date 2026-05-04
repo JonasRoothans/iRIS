@@ -1,0 +1,102 @@
+{
+    "module_id": 864019,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230022,
+    "title": "1e kwartaal 2024 informeren - Gebruik talenten asielzoekers (Vrije motie VM1)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/864019",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Toub (Wethouder)",
+    "result": "",
+    "date": "11-07-2023",
+    "meeting_url": null,
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": "Wethouder Toub zegt toe:\n\nde raad in het eerste kwartaal van 2024 over het meenemen van deze suggestie te informeren.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 861565,
+            "weight": 1.2856418461094303
+        },
+        {
+            "id": 935941,
+            "weight": 0.4527464444060028
+        },
+        {
+            "id": 956743,
+            "weight": 0.1996181163006606
+        },
+        {
+            "id": 1029708,
+            "weight": 0.14494388405413294
+        },
+        {
+            "id": 837694,
+            "weight": 0.143640638618891
+        },
+        {
+            "id": 775267,
+            "weight": 0.1132933745465339
+        },
+        {
+            "id": 859504,
+            "weight": 0.10732148051258403
+        },
+        {
+            "id": 849282,
+            "weight": 0.09426210840259489
+        },
+        {
+            "id": 864037,
+            "weight": 0.08977539913680688
+        },
+        {
+            "id": 913896,
+            "weight": 0.08513819275711193
+        },
+        {
+            "id": 845128,
+            "weight": 0.0769145466971019
+        },
+        {
+            "id": 945680,
+            "weight": 0.07131882658893064
+        },
+        {
+            "id": 15563305,
+            "weight": 0.06988844046426214
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Wethouder Toub": 0.9940014963468521,
+        "Vrije motie": 1.992639181459729,
+        "Gebruik talenten": 1.9879342301279241,
+        "Toub zegt": 0.9820078095172579,
+        "talenten asielzoekers": 1.977861676490948,
+        "Gebruik": 1.936580012774709,
+        "Vrije": 1.936580012774709,
+        "informeren": 1.9283770171336205,
+        "Toub": 0.9059801740839759,
+        "motie": 1.8847834394570055,
+        "kwartaal": 1.8633215790545885,
+        "talenten": 1.8120163182304414,
+        "zegt": 0.8120163182304413,
+        "raad": 0.8120163182304413,
+        "meenemen": 0.8120163182304413,
+        "suggestie": 0.8120163182304413
+    },
+    "svz": null,
+    "afgedaan": "14-05-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

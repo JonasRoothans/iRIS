@@ -1,0 +1,112 @@
+{
+    "module_id": "a_8287348",
+    "vote_id": 8287348,
+    "member_id": [
+        194376,
+        90571,
+        194500
+    ],
+    "party_list": [
+        "Volt",
+        "FVD",
+        "CDA"
+    ],
+    "poho_id": [],
+    "title": "Aangekondigd Amendement A8 Brainportnorm aanpassen naam (CDA)",
+    "url": "https://raadsinformatie.eindhoven.nl/vergadering/1147888/Aangekondigd%20Amendement%20A8%20Brainportnorm%20aanpassen%20naam%20%28CDA%29 12-03-2024#voting_8287348",
+    "type": "Amendement",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "verworpen",
+    "date": "12-03-2024",
+    "meeting_url": {
+        "1147888": "https://raadsinformatie.eindhoven.nl/vergadering/1147888/Aangekondigd%20Amendement%20A8%20Brainportnorm%20aanpassen%20naam%20%28CDA%29 12-03-2024#voting_8287348"
+    },
+    "attachment": null,
+    "parent": 913551,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/13909392/2/Verworpen+Amendement+A8+Brainportnorm+Aanpassen+naam+%28CDA%2C+Volt%2C+FvD%29?connection_type=1&connection_id=8172558",
+    "pdf_text": "  \n       \n \nAmendement  Aanpassen naam      A8 \n \nDe indiener van dit amendement  stelt de gemeenteraad voor om in de vergadering van  12 \nmaart 2024  een besluit te nemen.  \n \nZij hebben het voorstel  Actualisatie Beleid verbonden partijen van het college gelezen.  \n \nNa het gesprek in de vergadering van 27 februari 2024  stellen zij een aanpassing van het \nbesluit voor . \n \nDe indieners lazen  dat: \n• Er in het raadsvoorstel wordt gesproken over de zogenaamde Brainportnorm.  \n• Dit raadsvoorstel enkel betrekking heeft op verbonden partijen van de gemeente \nEindhoven.  \n \nDe indieners vinden dat:  \n• De naam ‘Brainportnorm’ feitelijk onjuist is omdat het de norm alleen betrekking heeft \nop de verbonden partijen van de gemeente Eindhoven en niet op de Brainportregio.  \n• Brainport gevormd wordt door heel veel gemeenten, kennisinstellingen, bedrijfsleven \nen maatschappelijke organisaties. De gemeente Eindhoven is daar dus een \nonderdeel van.  \n• Brainportnorm de juiste term zou zijn als dit in de hele Brainportregio wordt \ngehanteerd.  \n \nDe indieners stellen voor het ontwerp raadsbesluit als volgt aan te passen en/of aan te \nvullen:  \nWaar nu sprake is van Brainportnorm in het raadsvoorstel (pagina 4 Beleid Verbonden \npartijen) dit te wijzigen naar Eindhovense norm.   \n \nEindhoven, 12 maart 2024.  \n \nDe leden van de raad , \n \nRemco van Dooren  (CDA Eindhoven ), voorsteller  \nJacco Rubenkamp (Volt), voorsteller  \nNicolas Knoester (FvD),  voorsteller  \n \n \nDit amendement is verworpen in de vergadering van 12 maart 2024.  \n \nJ. Jongbloed , griffier . \n ",
+    "bst": null,
+    "related": [
+        {
+            "id": 923172,
+            "weight": 0.630521945520574
+        },
+        {
+            "id": 923167,
+            "weight": 0.6278085438688198
+        },
+        {
+            "id": 913551,
+            "weight": 0.31175020079011734
+        },
+        {
+            "id": "a_8285028",
+            "weight": 0.30102669892116873
+        },
+        {
+            "id": "a_8285576",
+            "weight": 0.15738995430413874
+        },
+        {
+            "id": 941275,
+            "weight": 0.1116789997117046
+        },
+        {
+            "id": 1046814,
+            "weight": 0.10458339135643525
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "aanpassen naam": 1.988292686982403,
+        "Brainportnorm aanpassen": 1.9811681505487355,
+        "verbonden partijen": 0.977845566105967,
+        "gemeente Eindhoven": 0.9663667348605396,
+        "Beleid verbonden": 0.9568728367191495,
+        "Eindhoven": 0.9498040144622708,
+        "Aangekondigd Amendement": 1.9390758397761458,
+        "Actualisatie Beleid": 0.9384415527905527,
+        "amendement stelt": 0.9339844715337712,
+        "partijen": 0.9262209714362641,
+        "vergadering": 0.9028719741731726,
+        "naam": 1.8985958231784743,
+        "voorstel Actualisatie": 0.8982417463318406,
+        "indieners": 0.8906733773308296,
+        "gemeente": 0.8782743085750071,
+        "maart": 0.8686854491775292,
+        "raadsvoorstel": 0.8685970143988581,
+        "CDA": 1.8579816837921086,
+        "Beleid": 0.8560647869943709,
+        "zogenaamde Brainportnorm": 0.8429433445399994,
+        "Brainportregio": 0.8410619507857494,
+        "voorsteller": 0.8325237277529458,
+        "nemen": 0.8182404995708134,
+        "stelt": 0.8039916911586341,
+        "Jacco Rubenkamp": 0.7935181451209232,
+        "Nicolas Knoester": 0.7935181451209232,
+        "betrekking": 0.7648187642509325,
+        "college gelezen": 0.7505048277543693,
+        "norm": 1.7258113773326182,
+        "Volt": 0.6089459716803176,
+        "Remco": 0.5935893522861677,
+        "Dooren": 0.5935893522861677,
+        "Knoester": 0.5935893522861677,
+        "Jongbloed": 0.5863830861782416,
+        "Jacco": 0.57888954816167,
+        "Nicolas": 0.57888954816167,
+        "gelezen": 0.5644972248893472,
+        "college": 0.5415028534548205
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 90571,
+    "lastScrapeDate": "19-08-2025",
+    "meeting_id": [
+        1147888
+    ]
+}

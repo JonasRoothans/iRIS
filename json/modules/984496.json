@@ -1,0 +1,85 @@
+{
+    "module_id": 984496,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 248564,
+    "title": "MBO aanvalsplan - Raadsvoorstel Begroting 2025",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/984496",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "R. Strijk (Wethouder)",
+    "result": "",
+    "date": "29-10-2024",
+    "meeting_url": {
+        "1148141": "https://raadsinformatie.eindhoven.nl/vergadering/1148141#ai_8729567"
+    },
+    "attachment": null,
+    "parent": 975511,
+    "children": [],
+    "text": "Wethouder Strijk zegt toe dat de raad schriftelijk over de voorgang wordt geïnformeerd.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 851993,
+            "weight": 0.8764189019133154
+        },
+        {
+            "id": 891776,
+            "weight": 0.10698324806910095
+        },
+        {
+            "id": 891771,
+            "weight": 0.10599266983001183
+        },
+        {
+            "id": 984494,
+            "weight": 0.10547152207860773
+        },
+        {
+            "id": 984484,
+            "weight": 0.10290640524932049
+        },
+        {
+            "id": 984479,
+            "weight": 0.10290640524932049
+        },
+        {
+            "id": 1045784,
+            "weight": 0.09775346983380981
+        },
+        {
+            "id": 1148165,
+            "weight": 0.09291314377845282
+        },
+        {
+            "id": 945682,
+            "weight": 0.08575834706408338
+        }
+    ],
+    "videostarttime": {
+        "1148141": null
+    },
+    "videolink": null,
+    "keywords": {
+        "Raadsvoorstel Begroting": 1.9967389880162214,
+        "Wethouder Strijk": 0.9950748962302097,
+        "MBO aanvalsplan": 1.9945151091550533,
+        "Strijk zegt": 0.986202801796007,
+        "raad schriftelijk": 0.9742913828560066,
+        "MBO": 1.9429876123096683,
+        "Begroting": 1.9429876123096683,
+        "geïnformeerd": 0.9043195497355658,
+        "zegt": 0.8416830712200127,
+        "raad": 0.8416830712200127,
+        "voorgang": 0.8416830712200127
+    },
+    "svz": null,
+    "afgedaan": "11-03-2025",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

@@ -1,0 +1,67 @@
+{
+    "module_id": 783805,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230019,
+    "title": "Raadsvoorstel corona-ondersteuning tot en met begroting 2024",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/783805",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. van Lanschot (Wethouder)",
+    "result": "",
+    "date": "27-09-2022",
+    "meeting_url": {
+        "1018979": "https://raadsinformatie.eindhoven.nl/vergadering/1018979#ai_7057431"
+    },
+    "attachment": null,
+    "parent": 778226,
+    "children": [],
+    "text": "Wethouder Van Lanschot zegt toe met een voorstel te komen om een spoedprocedure in te richten (een algemene structurele werkwijze om indien nodig snel te kunnen schakelen op de actualiteit/crisis qua besluitvormingsproces).",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 778226,
+            "weight": 1.9837853311796982
+        },
+        {
+            "id": "a_7151310",
+            "weight": 0.2762993478568599
+        }
+    ],
+    "videostarttime": {
+        "1018979": 5175
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_27.09.22_NC_Eindhoven_meningRZ.mp4/playlist.m3u8",
+    "keywords": {
+        "Lanschot zegt": 0.9922565679365212,
+        "Raadsvoorstel corona-ondersteuning": 1.9910067820787356,
+        "crisis qua": 0.9910067820787357,
+        "qua besluitvormingsproces": 0.9910067820787357,
+        "algemene structurele": 0.9864720047380254,
+        "structurele werkwijze": 0.9864720047380254,
+        "nodig snel": 0.9864720047380254,
+        "Wethouder": 0.9522369003446032,
+        "Raadsvoorstel": 1.9228514046076703,
+        "begroting": 1.9228514046076703,
+        "richten": 0.9228514046076703,
+        "actualiteit": 0.9228514046076703,
+        "zegt": 0.8844689164123877,
+        "komen": 0.8844689164123877,
+        "spoedprocedure": 0.8844689164123877,
+        "algemene": 0.8844689164123877,
+        "werkwijze": 0.8844689164123877,
+        "nodig": 0.8844689164123877,
+        "snel": 0.8844689164123877,
+        "schakelen": 0.8844689164123877,
+        "qua": 0.8844689164123877
+    },
+    "svz": null,
+    "afgedaan": "28-03-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

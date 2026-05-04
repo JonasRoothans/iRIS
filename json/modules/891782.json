@@ -1,0 +1,69 @@
+{
+    "module_id": 891782,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Speerpunten  - Raadsvoorstel Vaststellen Begroting 2024",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/891782",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "31-10-2023",
+    "meeting_url": {
+        "1153547": "https://raadsinformatie.eindhoven.nl/vergadering/1153547#ai_7885375"
+    },
+    "attachment": null,
+    "parent": 879979,
+    "children": [],
+    "text": "Wethouder Verhees (namens Stadsgezant mevrouw Bellemakers ) zegt toe per buurt 3 speerpunten te benoemen.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 998849,
+            "weight": 0.4923201317359924
+        },
+        {
+            "id": 945688,
+            "weight": 0.2349128003385749
+        },
+        {
+            "id": 1020312,
+            "weight": 0.22545403490016436
+        },
+        {
+            "id": 1034753,
+            "weight": 0.18467135107155114
+        }
+    ],
+    "videostarttime": {
+        "1153547": null
+    },
+    "videolink": null,
+    "keywords": {
+        "Wethouder Verhees": 0.9962703813274042,
+        "Raadsvoorstel Vaststellen": 1.994424728299904,
+        "Vaststellen Begroting": 1.994424728299904,
+        "namens Stadsgezant": 0.9901408368728323,
+        "mevrouw Bellemakers": 0.9891477994546558,
+        "Stadsgezant mevrouw": 0.9837202708890308,
+        "per buurt": 0.9807315617039962,
+        "Begroting": 1.9390429634612647,
+        "Verhees": 0.9390429634612648,
+        "Speerpunten": 1.9350458181598165,
+        "namens": 0.8926624605453829,
+        "zegt": 0.8926624605453829,
+        "benoemen": 0.8926624605453829,
+        "mevrouw": 0.8238809620057802,
+        "per": 0.8238809620057802
+    },
+    "svz": null,
+    "afgedaan": "19-09-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

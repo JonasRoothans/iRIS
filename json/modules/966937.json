@@ -1,0 +1,78 @@
+{
+    "module_id": 966937,
+    "vote_id": null,
+    "member_id": [
+        194500
+    ],
+    "party_list": [
+        "FVD"
+    ],
+    "poho_id": [],
+    "title": "Beantwoording raadsvragen - Slimme deurbellen (FvD)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/4/Raadsvragen/966937",
+    "type": "Raadsvraag",
+    "member": "Nicolas Knoester",
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "23-08-2024",
+    "meeting_url": null,
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/14450609/1?connection_type=17&connection_id=10890137": "Vraag",
+        "https://raadsinformatie.eindhoven.nl/document/14556858/1?connection_type=17&connection_id=10972560": "Antwoord"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": " \n \n \nRaadsvragen  - Slimme deurbellen  \n \ndatum:  24 juli 2024  \n \n \nGeacht college,  \n \nZie onderstaand artikel:  \nhttps://www.binnenlandsbestuur.nl/digitaal/motie -over-\ninformatiecampagne -deurbelcameras -aangenomen   \n \nRaadsvragen:  \n1. Is het college bereid om ook in Eindhoven in navolging vam \nAmsterdam inwoners actief te informeren over camera's bij hun \nhuis inzake privacy?  \n2. Zo ja, wanneer en hoe?  \n3. Zo nee, waarom niet?  \n \nNamens de fractie , \nForum voor Democratie  \n \nNicolas Knoester , raadslid  \n",
+    "bst": "",
+    "related": [
+        {
+            "id": 12755975,
+            "weight": 0.3054717772132074
+        },
+        {
+            "id": "a_8510366",
+            "weight": 0.23699275540260806
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Slimme deurbellen": 1.994670500877469,
+        "Beantwoording raadsvragen": 1.9855687744678066,
+        "Slimme": 1.9740281069370513,
+        "raadsvragen": 1.9714821155794073,
+        "Geacht college": 0.9688516749909967,
+        "deurbellen datum": 0.9650589625502918,
+        "onderstaand artikel": 0.9588681758167554,
+        "Geacht": 0.9285131674091902,
+        "FvD": 1.8991289088148782,
+        "juli": 0.8991289088148781,
+        "informatiecampagne": 0.8991289088148781,
+        "deurbelcameras": 0.8991289088148781,
+        "vam Amsterdam": 0.8396324439977486,
+        "Amsterdam inwoners": 0.8396324439977486,
+        "datum": 0.8337192227910333,
+        "artikel": 0.8337192227910333,
+        "aangenomen": 0.8337192227910333,
+        "Nicolas Knoester": 0.823789534698468,
+        "college": 0.7887204290262897,
+        "Democratie Nicolas": 0.779934206475338,
+        "Eindhoven": 0.7341033039682334,
+        "college bereid": 0.7185533992858893,
+        "Forum": 0.6472540685836969,
+        "Knoester": 0.6472540685836969,
+        "navolging vam": 0.6298425892315809,
+        "inwoners actief": 0.6298425892315809,
+        "privacy": 0.590777700463819,
+        "Nicolas": 0.5752976681671644,
+        "raadslid": 0.5573718532786593
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194500,
+    "lastScrapeDate": "02-04-2026",
+    "meeting_id": []
+}

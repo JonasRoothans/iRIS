@@ -1,0 +1,41 @@
+{
+    "module_id": "ai_8065625",
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": null,
+    "title": "in overleg met inwoners - Spooroverlast (Agenderingsverzoek CDA en PvdA)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/moties_en_toezeggingen/913072?parent_event=1146934",
+    "type": "Agenda",
+    "member": null,
+    "party": null,
+    "poho": "M. Esselbrugge (Wethouder)",
+    "result": "",
+    "date": "16-01-2024",
+    "meeting_url": "https://raadsinformatie.eindhoven.nl/vergadering/1146934#ai_8065625",
+    "attachment": null,
+    "parent": null,
+    "children": [
+        913072
+    ],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [],
+    "videostarttime": 12925,
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_16.01.24_NC_EINDHOVEN_CIE.mp4/playlist.m3u8",
+    "keywords": {
+        "Agenderingsverzoek CDA": 1.9873976398760465,
+        "Spooroverlast": 1.9696036283675864,
+        "CDA": 1.8552226942577967,
+        "inwoners": 1.8416830712200127,
+        "PvdA": 1.8416830712200127,
+        "overleg": 1.702634417439785
+    },
+    "svz": "Conform de verzamelbrief: Uitvoering toezeggingen vanuit portefeuille wethouder Strijk, van 18 februari 2025.&...  Lees verder ",
+    "afgedaan": "31-12-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "01-06-2025",
+    "meeting_id": []
+}

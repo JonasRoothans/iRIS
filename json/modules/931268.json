@@ -1,0 +1,104 @@
+{
+    "module_id": 931268,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Coniferen (groene corridor) - Raadsvoorstel gewijzigde vaststelling bestemmingsplan IV Tongelre buiten de Ring 2019 (Rustenburgstraat)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/931268",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "26-03-2024",
+    "meeting_url": {
+        "1147894": "https://raadsinformatie.eindhoven.nl/vergadering/1147894#ai_8252361"
+    },
+    "attachment": null,
+    "parent": 914626,
+    "children": [],
+    "text": "Wethouder Verhees zegt toe nog technisch terug te komen op waarom de coniferen (groene corridor) niet blijven staan.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 826809,
+            "weight": 0.47208934213269477
+        },
+        {
+            "id": 931237,
+            "weight": 0.3886830195240044
+        },
+        {
+            "id": 931270,
+            "weight": 0.38653233305319507
+        },
+        {
+            "id": 914626,
+            "weight": 0.3863468759875146
+        },
+        {
+            "id": 1020311,
+            "weight": 0.3039601112580126
+        },
+        {
+            "id": 879394,
+            "weight": 0.24030771658129815
+        },
+        {
+            "id": 993565,
+            "weight": 0.19262555453787136
+        },
+        {
+            "id": 931203,
+            "weight": 0.18888241060058875
+        },
+        {
+            "id": 931317,
+            "weight": 0.18849832603156053
+        },
+        {
+            "id": 931465,
+            "weight": 0.18726906412229155
+        },
+        {
+            "id": 931241,
+            "weight": 0.18643436290203586
+        },
+        {
+            "id": 13821739,
+            "weight": 0.18482623434271467
+        }
+    ],
+    "videostarttime": {
+        "1147894": 7775
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_26.03.24_NC_Eindhoven_Raad.mp4/playlist.m3u8",
+    "keywords": {
+        "groene corridor": 1.9964641008024682,
+        "Wethouder Verhees": 0.9941055827315848,
+        "Raadsvoorstel gewijzigde": 1.988238613990148,
+        "Verhees zegt": 0.9824362673456088,
+        "blijven staan": 0.9785941784166342,
+        "Rustenburgstraat": 1.9658113115040834,
+        "gewijzigde vaststelling": 1.9645449270800666,
+        "vaststelling bestemmingsplan": 1.9645449270800666,
+        "technisch terug": 0.9645449270800667,
+        "groene": 1.958100897258885,
+        "Ring": 1.9371787111899188,
+        "Coniferen": 1.9300704606131007,
+        "Tongelre": 1.9067214821449987,
+        "staan": 0.8867443150187102,
+        "gewijzigde": 1.8149566162800626,
+        "zegt": 0.8149566162800626,
+        "terug": 0.8149566162800626,
+        "komen": 0.8149566162800626
+    },
+    "svz": null,
+    "afgedaan": "03-09-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

@@ -1,0 +1,179 @@
+{
+    "module_id": 14145227,
+    "vote_id": null,
+    "member_id": [
+        194375
+    ],
+    "party_list": [
+        "Partij voor de Dieren"
+    ],
+    "poho_id": [],
+    "title": "2. Rondvraag - Hitchhikers guide voor Eindhoven (PvdD)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "14-05-2024",
+    "meeting_url": {
+        "1147931": "https://raadsinformatie.eindhoven.nl/vergadering/1147928/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://api.notubiz.nl/document/14145227/1",
+    "pdf_text": " \n \n \nRondvraag   \nHitch hikers guide voor Eindhoven  \n \n \nIn het komische hoorspel Hitch hikers guide to the galaxy wordt een bewoner bruut \nuit zijn huis gezet omdat die gesloopt zal gaan worden.  Tegelijkertijd staat het \nvoortbestaan van de Aarde op het spel.  \n \nWij zien enige overeenkomst met de situatie in Eindhoven, waar na Prinsejagt nu \nook inwoners rond het Kerstroosplein zich in de situatie bevinden waar hun huis \ngesloopt gaat worden.  Hier wordt echter niet gelachen.  \n \nWoonbedrijf dreigt met het starten van een juridische procedure tegen de huidige \nbewoners rond het Kerstroosplein.  Maar bewoners hebben nog geen garantie op \neen nieuwe woning.   \n \n1. Is de wethouder het met ons eens dat een huurbeëindiging te  midden van \neen wooncrisis mensen in grote onzekerheid en paniek brengt ? \n2. Wil de wethouder zich inspannen zodat deze inwoners niet het slachtoffer \nworden van de schaalvergroting van Eindhoven?  \n3. Kan de wethouder ervoor zorgen dat dit patroon zich niet voortzet?  \n \n \nEindhoven,  \n \n \nDe leden van de raad,  \n \nJonas Roothans  \n \n \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 14237061,
+            "weight": 10.377709845781695
+        },
+        {
+            "id": 1036311,
+            "weight": 0.5641432652044739
+        },
+        {
+            "id": 883728,
+            "weight": 0.20553636410564888
+        },
+        {
+            "id": 816349,
+            "weight": 0.1129666620781588
+        },
+        {
+            "id": 883783,
+            "weight": 0.10740037982683297
+        },
+        {
+            "id": "a_9830202",
+            "weight": 0.10057283735227174
+        },
+        {
+            "id": 936504,
+            "weight": 0.09446425659625003
+        },
+        {
+            "id": 12534630,
+            "weight": 0.0903121713438428
+        },
+        {
+            "id": 926816,
+            "weight": 0.08446687244165399
+        },
+        {
+            "id": 875785,
+            "weight": 0.08378622404126708
+        },
+        {
+            "id": 1033061,
+            "weight": 0.07539216076352365
+        },
+        {
+            "id": 1045702,
+            "weight": 0.06425797035779852
+        },
+        {
+            "id": 1044109,
+            "weight": 0.05733276000191535
+        },
+        {
+            "id": 1028150,
+            "weight": 0.05697300990951789
+        },
+        {
+            "id": 950219,
+            "weight": 0.056824369603324355
+        },
+        {
+            "id": 928179,
+            "weight": 0.05633007645329774
+        },
+        {
+            "id": 931465,
+            "weight": 0.054969553058734896
+        },
+        {
+            "id": 904448,
+            "weight": 0.05368274721426207
+        },
+        {
+            "id": 1022992,
+            "weight": 0.05311236655108713
+        },
+        {
+            "id": 931241,
+            "weight": 0.05087706577753289
+        },
+        {
+            "id": 931317,
+            "weight": 0.050808772433378904
+        },
+        {
+            "id": 1132674,
+            "weight": 0.05059972916286844
+        },
+        {
+            "id": 897087,
+            "weight": 0.04745096956977926
+        },
+        {
+            "id": 1123624,
+            "weight": 0.046240750647929325
+        },
+        {
+            "id": 13990892,
+            "weight": 0.04469388657742923
+        },
+        {
+            "id": 991544,
+            "weight": 0.02948712161291107
+        }
+    ],
+    "videostarttime": {
+        "1147931": 1391
+    },
+    "videolink": null,
+    "keywords": {
+        "Hitch hikers": 0.9725866980485424,
+        "Rondvraag Hitch": 0.9628730006237216,
+        "hikers guide": 1.9530491322598413,
+        "Eindhoven": 1.938297118756747,
+        "hoorspel Hitch": 0.9174807558133456,
+        "Hitch": 1.9133537153895828,
+        "guide": 1.9046010218940135,
+        "Kerstroosplein": 0.8542073316382356,
+        "hikers": 1.8500314009302326,
+        "wethouder": 0.834367589590804,
+        "Jonas Roothans": 0.8169978879674601,
+        "huis": 0.7811051497770085,
+        "gesloopt": 0.7811051497770085,
+        "situatie": 0.7634651695289266,
+        "huis gezet": 0.761491264830354,
+        "komische hoorspel": 0.7600755043905341,
+        "the galaxy": 0.7600755043905341,
+        "bewoners": 0.7447257336138622,
+        "Aarde": 0.7241450841166507,
+        "Prinsejagt": 0.6817370358169127,
+        "PvdD": 1.6470894142822141,
+        "Tegelijkertijd staat": 0.6457772547771263,
+        "situatie bevinden": 0.6185178747836096,
+        "Jonas": 0.6066897261364952,
+        "komische": 0.5601144708521419,
+        "the": 0.5601144708521419,
+        "bruut": 0.5601144708521419,
+        "gezet": 0.5601144708521419,
+        "gaan": 0.5601144708521419,
+        "huidige bewoners": 0.5172376922702971,
+        "spel": 0.5098272973584641
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194375,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1147931
+    ]
+}

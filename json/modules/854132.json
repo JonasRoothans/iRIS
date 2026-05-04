@@ -1,0 +1,193 @@
+{
+    "module_id": 854132,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 231116,
+    "title": "Financiële factoren - Commissienotitie 2.0 Camerabeleid art. 151c Gemeentewet",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/854132",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "J. Dijsselbloem (Burgemeester)",
+    "result": "",
+    "date": "06-06-2023",
+    "meeting_url": {
+        "1102751": "https://raadsinformatie.eindhoven.nl/vergadering/1102751#ai_7611637"
+    },
+    "attachment": null,
+    "parent": 845544,
+    "children": [],
+    "text": "Burgemeester Dijsselbloem zegt toe:\n\nschriftelijk terug te komen op welke financiële factoren kunnen spelen bij de afweging tussen het plaatsen van een flexibele of vaste camera, met de kanttekening dat andere afwegingen de overhand zullen hebben;",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 854127,
+            "weight": 0.6988174684815971
+        },
+        {
+            "id": 854130,
+            "weight": 0.6961336832729071
+        },
+        {
+            "id": 854128,
+            "weight": 0.6960568121190729
+        },
+        {
+            "id": 854129,
+            "weight": 0.6934314876309031
+        },
+        {
+            "id": 854133,
+            "weight": 0.6930819867852165
+        },
+        {
+            "id": 854131,
+            "weight": 0.6926380831637446
+        },
+        {
+            "id": 858025,
+            "weight": 0.2620179456433718
+        },
+        {
+            "id": 845544,
+            "weight": 0.2563654673341896
+        },
+        {
+            "id": 1014921,
+            "weight": 0.22941922080049446
+        },
+        {
+            "id": 862409,
+            "weight": 0.22825928858920483
+        },
+        {
+            "id": 863706,
+            "weight": 0.21471768039863195
+        },
+        {
+            "id": 1100375,
+            "weight": 0.1878177270004364
+        },
+        {
+            "id": 1038209,
+            "weight": 0.18666951692673964
+        },
+        {
+            "id": 776858,
+            "weight": 0.16919775916826515
+        },
+        {
+            "id": 955576,
+            "weight": 0.15869645415710126
+        },
+        {
+            "id": 942837,
+            "weight": 0.14057536130393963
+        },
+        {
+            "id": 862085,
+            "weight": 0.09969593895556379
+        },
+        {
+            "id": 904196,
+            "weight": 0.08308377235336814
+        },
+        {
+            "id": 1060110,
+            "weight": 0.08307479476664967
+        },
+        {
+            "id": 906717,
+            "weight": 0.08275987839754809
+        },
+        {
+            "id": 966048,
+            "weight": 0.0810427596696077
+        },
+        {
+            "id": 1000421,
+            "weight": 0.0809930916073417
+        },
+        {
+            "id": 1121877,
+            "weight": 0.07599258894071331
+        },
+        {
+            "id": 793505,
+            "weight": 0.07388756911318957
+        },
+        {
+            "id": 1057251,
+            "weight": 0.07252367655767661
+        },
+        {
+            "id": 920652,
+            "weight": 0.06973560892403412
+        },
+        {
+            "id": 1124788,
+            "weight": 0.06622526164470158
+        },
+        {
+            "id": 966055,
+            "weight": 0.060871340259546616
+        },
+        {
+            "id": "r_7006030",
+            "weight": 0.06048027971831049
+        },
+        {
+            "id": 1029708,
+            "weight": 0.05787290161234012
+        },
+        {
+            "id": "r_7006020",
+            "weight": 0.05250026657340865
+        },
+        {
+            "id": 951029,
+            "weight": 0.046120093813942296
+        },
+        {
+            "id": 984178,
+            "weight": 0.04221212428810689
+        }
+    ],
+    "videostarttime": {
+        "1102751": 2558
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_06.06.23_NC_Eindhoven_RAA.mp4/playlist.m3u8",
+    "keywords": {
+        "Camerabeleid art": 1.9925820745858118,
+        "Financiële factoren": 1.961032924481657,
+        "Commissienotitie": 1.9594539728475473,
+        "Gemeentewet Burgemeester": 0.9537902423622485,
+        "Burgemeester Dijsselbloem": 0.9395254019275777,
+        "Dijsselbloem zegt": 0.8869241667175364,
+        "art": 1.8799465483662279,
+        "factoren": 1.865557124393915,
+        "schriftelijk terug": 0.8415606308369281,
+        "vaste camera": 0.8415606308369281,
+        "Gemeentewet": 1.8150396816375203,
+        "Burgemeester": 0.7611988795131134,
+        "camera": 0.6784998994443776,
+        "zegt": 0.5745890317361327,
+        "terug": 0.5745890317361327,
+        "komen": 0.5745890317361327,
+        "spelen": 0.5745890317361327,
+        "afweging": 0.5745890317361327,
+        "plaatsen": 0.5745890317361327,
+        "flexibele": 0.5745890317361327,
+        "vaste": 0.5745890317361327,
+        "kanttekening": 0.5745890317361327,
+        "overhand": 0.5745890317361327
+    },
+    "svz": null,
+    "afgedaan": "04-07-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

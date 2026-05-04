@@ -1,0 +1,132 @@
+{
+    "module_id": 14958393,
+    "vote_id": null,
+    "member_id": [
+        131155
+    ],
+    "party_list": [
+        "50PLUS"
+    ],
+    "poho_id": [],
+    "title": "Vraag V2 Vragenhalfuur - Ring erop of eronder (50PLUS)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "16-12-2024",
+    "meeting_url": {
+        "1148345": "https://raadsinformatie.eindhoven.nl/vergadering/1148345/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/14958393/1/Vraag+V2+Vragenhalfuur+-+Ring+erop+of+eronder+%2850PLUS%29?connection_type=1&connection_id=7855669",
+    "pdf_text": " \n \n \nVragenhalfuur  - Ring erop of eronder            V2 \n \nEindhoven groeit! Aan alle kanten wordt gewerkt om de stad leefbaar te maken.  \nHet masterplan mobiliteit wordt de komende jaren tot uitvoering gebracht.  \nHet verkeerscirculatieplan , verdeling in  sectoren en nog veel meer. Duidelijk is dat \nde huidige Ring niet meer voldoet.  Deze ring wordt nog meer de levensader voor \nalle auto’s in de stad.  Momenteel vinden bijeenkomsten plaats om ideeën op te \nhalen. Afgelopen week specifiek voor de Ring.  \n \nTijdens deze bijeenkomst viel het 50PLUS op dat alle knelpunten apart als losse \npostzegels bekeken word en. Het moge duidelijk zijn dat  over de gehele ring \nkruisingen aangepakt moet worden. Tijdens deze bijeenkomst ontbrak de vraag of \ner voorkeur is voor een volledige ring onder de grond. Zoals bijv . Maastricht.  \n \nAlle postzegels kosten geld. Hoe veel geld? En wat kost de Ring onder de grond?  \n \nVragen:  \n \n1. Is er gekeken naar de haalbaarheid van de ring zoveel mogelijk onder de \ngrond leggen?  \n2. Wat kosten alle individuele plannen bij elkaar?  \n3. Wat kost het onder de grond leggen van de ring?  \n4. Gaat u deze optie meenemen in de komende bijeenkomsten?  \n \n \nRuud van Acquoij , raadslid 50PLUS  \n \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 13819985,
+            "weight": 0.6025114962493279
+        },
+        {
+            "id": 1035304,
+            "weight": 0.3557145952059717
+        },
+        {
+            "id": 1120812,
+            "weight": 0.325429458664294
+        },
+        {
+            "id": 12395601,
+            "weight": 0.3207277430596805
+        },
+        {
+            "id": 1037298,
+            "weight": 0.2285204986370371
+        },
+        {
+            "id": 940710,
+            "weight": 0.10531468892014058
+        },
+        {
+            "id": 1062480,
+            "weight": 0.10400700271511479
+        },
+        {
+            "id": 1045664,
+            "weight": 0.10168863530102017
+        },
+        {
+            "id": 834493,
+            "weight": 0.09947727897837763
+        },
+        {
+            "id": 1123955,
+            "weight": 0.0762783100657169
+        },
+        {
+            "id": 1055164,
+            "weight": 0.07381227316380937
+        },
+        {
+            "id": "a_7636233",
+            "weight": 0.06954208086584698
+        },
+        {
+            "id": 15038731,
+            "weight": 0.06820278552639818
+        },
+        {
+            "id": 15649289,
+            "weight": 0.06727238509009009
+        },
+        {
+            "id": 1139081,
+            "weight": 0.04565520454317194
+        }
+    ],
+    "videostarttime": {
+        "1148345": 1509
+    },
+    "videolink": null,
+    "keywords": {
+        "Eindhoven groeit": 0.9868650374498446,
+        "Ring erop": 1.980504409124927,
+        "Vragenhalfuur": 1.9775143712206242,
+        "Ring": 1.9701802395006127,
+        "eronder": 1.9427867708019209,
+        "erop": 1.9370754106847055,
+        "groeit": 0.8037458942510376,
+        "grond leggen": 0.7927994958342216,
+        "stad": 0.7584437378942673,
+        "huidige Ring": 0.7557892862729716,
+        "gehele ring": 0.7242952707253681,
+        "ring kruisingen": 0.7242952707253681,
+        "Vraag": 1.7180022036343436,
+        "Duidelijk": 0.705435318862276,
+        "geld": 0.7033895348333408,
+        "bijeenkomst": 0.7033528890615596,
+        "komende": 0.697394494217272,
+        "stad leefbaar": 0.6933060175351053,
+        "postzegels": 0.6876649770595435,
+        "kost": 0.6831018153247447,
+        "leggen": 0.6812645405233153,
+        "Maastricht": 0.5960337878781038,
+        "maken": 0.5411157652036175,
+        "Gaat": 0.5409058196170018,
+        "Acquoij": 0.5377820206216158,
+        "uitvoering gebracht": 0.5291285270362751,
+        "kanten": 0.5141714111343436,
+        "gewerkt": 0.5141714111343436
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 131155,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1148345
+    ]
+}

@@ -1,0 +1,152 @@
+{
+    "module_id": 13820440,
+    "vote_id": null,
+    "member_id": [
+        1
+    ],
+    "party_list": [
+        "D66"
+    ],
+    "poho_id": [],
+    "title": "Vraag V2 Vragenhalfuur - Bouwplannen en verkeersdrukte bij Fourqaan moskee (D66, PvdA)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "19-02-2024",
+    "meeting_url": {
+        "1147873": "https://raadsinformatie.eindhoven.nl/vergadering/1147873/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/13820440/1/Vraag+V2+Vragenhalfuur+-+Bouwplannen+en+verkeersdrukte+bij+Fourqaan+moskee+%28D66%2C+PvdA%29?connection_type=1&connection_id=7853051",
+    "pdf_text": "                         \n \nVragenhalfuur  Bouwplannen en verkeersdrukte Fourqaan moskee  V2 \n20 februari 2024  \n \nIn het Eindhovens Dagblad lazen we dat de Al Fourqaan  moskee op de Otterstraat van \nplan is om overkappingen op hun eigen terrein te plaatsen. Volgens het moskeebestuur \nzou daar geen vergunning voor nodig zijn. De Gemeente Eindhoven geeft aan dat er \ngeen vergunningaanvraag is gedaan en dit wellicht wel zou moeten.  \n \n1. Is het college op de hoogte  van de bouwplannen voor de overkapping van \nde Al Fourqaan moskee ?  \n \n2. Is het college bereid om contact op te nemen met het moskee bestuur om \nduidelijkheid te krijgen danwel geven over de voorgenomen uitbereiding , \nen eventuele escalatie te voorkomen?   \n \nIn het artikel is ook te lezen dat enkele buurtbewoners zich zorgen maken over de drukte \nbij de moskee  -met name op vrijdagen en tijdens de Ramadan - en zich storen aan \nverkeersdrukte en geluidsoverlast die dat met zich mee  kan brengen.  \n \n3. Is het college bereid om met het moskeebestuur en omwonenden in \ngesprek te gaan over verkeerso pstoppingen en geluid  om de \nverkeersoverlast en geluidsoverlast beheersbaar te houden ?  \n \nSommige bewoners klagen dat ze op vrijdag hun auto niet meer kwijt kunnen in hun \neigen wijk  door de moskeebezoekers die veelal met de auto komen.  \n4. Is het college bereid om de inzet van verkeersregelaars  en stewards vanuit \nde moskee , carpoolen naar de moskee, meer inzetten op de fiets in plaats \nvan de auto , mee te nemen in de gesprekken met het moskeebestuur en de \nomwonenden?  \n \nTom Brouwers     Murat Karata ṣ \nRaadslid  D66 Eindhoven    Raadslid PvdA Eindhoven  \n \n \nBron:  \nEindhovens Dagblad  (18 februari 2024)  \nEindhovense buurt vreest uitdijende moskee: nu wordt het kritiek  \nhttps://www.ed.nl/eindhoven/eindhovense -buurt -vreest -uitdijende -moskee -nu-\nwordt -het-kritiek~ae4f0012/  \n  ",
+    "bst": null,
+    "related": [
+        {
+            "id": 1082175,
+            "weight": 1.296678947702708
+        },
+        {
+            "id": 1131328,
+            "weight": 0.49996952045330767
+        },
+        {
+            "id": 794342,
+            "weight": 0.26376074499009056
+        },
+        {
+            "id": 881614,
+            "weight": 0.23603014133656192
+        },
+        {
+            "id": 955448,
+            "weight": 0.2223176812696552
+        },
+        {
+            "id": 12324736,
+            "weight": 0.22108445959465997
+        },
+        {
+            "id": 863090,
+            "weight": 0.21970932898062095
+        },
+        {
+            "id": "a_7349640",
+            "weight": 0.20658984980042586
+        },
+        {
+            "id": 875804,
+            "weight": 0.20473307444252348
+        },
+        {
+            "id": 878954,
+            "weight": 0.16422930783448453
+        },
+        {
+            "id": 883343,
+            "weight": 0.10512617403147283
+        },
+        {
+            "id": 822455,
+            "weight": 0.09770734228788348
+        },
+        {
+            "id": 920184,
+            "weight": 0.09202689207339763
+        },
+        {
+            "id": 837280,
+            "weight": 0.08779154595944706
+        },
+        {
+            "id": 822257,
+            "weight": 0.07307262716240936
+        },
+        {
+            "id": 991306,
+            "weight": 0.059007393778866636
+        }
+    ],
+    "videostarttime": {
+        "1147873": 1682
+    },
+    "videolink": null,
+    "keywords": {
+        "Vragenhalfuur Bouwplannen": 0.990269927315319,
+        "Fourqaan moskee": 1.9896009628767204,
+        "Eindhovens Dagblad": 0.9781889026080476,
+        "moskee": 1.9700070623212644,
+        "Gemeente Eindhoven": 0.9554308174333177,
+        "college bereid": 0.9532453614978648,
+        "verkeersdrukte Fourqaan": 0.9519845744053826,
+        "Dagblad lazen": 0.9506621817766482,
+        "Eindhoven": 0.9459037083746848,
+        "Bouwplannen": 1.934744670194885,
+        "Otterstraat": 0.9341505156400653,
+        "college": 0.9161772573592305,
+        "bereid": 0.87770816419751,
+        "moskeebestuur": 0.8710462592148397,
+        "auto": 0.8479503168091511,
+        "Vraag": 1.8430486211144117,
+        "plaatsen": 0.8303413681102441,
+        "Raadslid": 0.8298560547435336,
+        "Brouwers Murat": 0.8263370983809075,
+        "Murat Karata": 0.8263370983809075,
+        "lazen": 0.8174469224638661,
+        "plan": 1.817446922463866,
+        "overkappingen": 0.8174469224638661,
+        "februari": 0.8085490818409362,
+        "uitdijende moskee": 0.793020084915568,
+        "PvdA": 1.766045747257701,
+        "nemen": 0.7623749537236314,
+        "geluidsoverlast": 0.7623749537236314,
+        "mee": 0.7466772174254592,
+        "omwonenden": 0.7418670731466597,
+        "Gemeente": 0.7370890281209288,
+        "buurt": 0.714123036543893,
+        "vreest": 0.714123036543893,
+        "Ramadan": 0.6800242130250318,
+        "Tom Brouwers": 0.6704435521131409,
+        "Bron": 0.6291319495725457,
+        "Murat": 0.6153357390826195,
+        "Karata": 0.6153357390826195,
+        "auto komen": 0.6109848838273738,
+        "vergunning": 0.5631872102235251,
+        "nodig": 0.5631872102235251,
+        "voorgenomen uitbereiding": 0.5195266231628834,
+        "buurt vreest": 0.5143310164565629,
+        "vreest uitdijende": 0.5143310164565629
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 1,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1147873
+    ]
+}

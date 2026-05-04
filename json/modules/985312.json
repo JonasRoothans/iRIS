@@ -1,0 +1,374 @@
+{
+    "module_id": 985312,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230019,
+    "title": "Raadsvoorstel Turap 2 2024",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/19/raadsvoorstellen/985312?parent_event=1148342",
+    "type": "Raadsvoorstel",
+    "member": null,
+    "party": null,
+    "poho": "M. van Lanschot (Wethouder)",
+    "result": "Afgerond",
+    "date": "17-12-2024",
+    "meeting_url": {
+        "1148345": "https://raadsinformatie.eindhoven.nl/vergadering/1148345#ai_8836071",
+        "1148342": "https://raadsinformatie.eindhoven.nl/vergadering/1148342#ai_8854275"
+    },
+    "attachment": {
+        "http://raadsinformatie.eindhoven.nl/document/14773875/2?connection_type=16&connection_id=985312": " Bijlage 1a - Concernbgw. 2024.200 Turap 2 Opvolg Brainportdeal & Conv Beethoven ",
+        "http://raadsinformatie.eindhoven.nl/document/14773878/2?connection_type=16&connection_id=985312": " Bijlage 1b - Concernbgw. 2024.201 Turap 2 Kassierfunctie Fellenoord BV ",
+        "http://raadsinformatie.eindhoven.nl/document/14773880/2?connection_type=16&connection_id=985312": " Bijlage 1c - Concernbgw. 2024.202 Turap 2 Rechttrekken budgetten MJB 2024 ",
+        "http://raadsinformatie.eindhoven.nl/document/14773881/2?connection_type=16&connection_id=985312": " Bijlage 1d - Concernbgw. 2024.203 Turap 2 Eigen Kapitaal - Prijsverschillen ",
+        "http://raadsinformatie.eindhoven.nl/document/14773882/2?connection_type=16&connection_id=985312": " Bijlage 1e - Concernbgw. 2024.204 Turap 2 Kapitaallasten ",
+        "http://raadsinformatie.eindhoven.nl/document/14773883/2?connection_type=16&connection_id=985312": " Bijlage 1f - Concernbgw. 2024.205 Turap 2 Zwerfafval ",
+        "http://raadsinformatie.eindhoven.nl/document/14773884/2?connection_type=16&connection_id=985312": " Bijlage 1g - Concernbgw. 2024.206 Turap 2 Uitbreiding Projectleiders ",
+        "http://raadsinformatie.eindhoven.nl/document/14773885/2?connection_type=16&connection_id=985312": " Bijlage 1h - Concernbgw. 2024.207 Turap 2 Beschermd Wonen ",
+        "http://raadsinformatie.eindhoven.nl/document/14773886/2?connection_type=16&connection_id=985312": " Bijlage 1i - Concernbgw. 2024.208 Turap 2 Aanpassing jaren grond(expl) ",
+        "http://raadsinformatie.eindhoven.nl/document/14773887/2?connection_type=16&connection_id=985312": " Bijlage 1j - Concernbgw. 2024.209 Turap 2 Meeropbrengsten Burgerzaken ",
+        "http://raadsinformatie.eindhoven.nl/document/14773889/2?connection_type=16&connection_id=985312": " Bijlage 1k - Concernbgw. 2024.210 Turap 2 Huis naar werk en correctie ",
+        "http://raadsinformatie.eindhoven.nl/document/14773890/2?connection_type=16&connection_id=985312": " Bijlage 1l - Concernbgw. 2024.211 Turap 2 Aframing budg. Strat. investeringen 2024 ",
+        "http://raadsinformatie.eindhoven.nl/document/14773891/2?connection_type=16&connection_id=985312": " Bijlage 1m - Concernbgw. 2024215 Turap 2 terugdraaien kostenverdeling ",
+        "http://raadsinformatie.eindhoven.nl/document/14773892/2?connection_type=16&connection_id=985312": " Bijlage 1n - Concernbgw. 2024216 Turap 2 opboeken kostenverdeling ",
+        "http://raadsinformatie.eindhoven.nl/document/14773893/2?connection_type=16&connection_id=985312": " Bijlage 1o - Concernbgw. 2024217 Turap 2 overige correcties ",
+        "http://raadsinformatie.eindhoven.nl/document/14773894/2?connection_type=16&connection_id=985312": " Bijlage 2 - Toelichting bgw. Turap-2 2024 ",
+        "http://raadsinformatie.eindhoven.nl/document/14773895/2?connection_type=16&connection_id=985312": " Bijlage 3a - Sectorbgw. 124339 ",
+        "http://raadsinformatie.eindhoven.nl/document/14773896/2?connection_type=16&connection_id=985312": "  Bijlage 3b - Sectorbgw. 124343 ",
+        "http://raadsinformatie.eindhoven.nl/document/14773897/2?connection_type=16&connection_id=985312": " Bijlage 3c - Sectorbgw. 124351 ",
+        "http://raadsinformatie.eindhoven.nl/document/14773899/2?connection_type=16&connection_id=985312": " Bijlage 3d - Sectorbgw. 124354 ",
+        "http://raadsinformatie.eindhoven.nl/document/14773901/2?connection_type=16&connection_id=985312": " Bijlage 3e - Sectorbgw. 124356 ",
+        "http://raadsinformatie.eindhoven.nl/document/14773902/2?connection_type=16&connection_id=985312": " Bijlage 3f - Sectorbgw. 124367 ",
+        "http://raadsinformatie.eindhoven.nl/document/14773903/2?connection_type=16&connection_id=985312": " Bijlage 3g - Sectorbgw. 124374 aangepast 2 ",
+        "http://raadsinformatie.eindhoven.nl/document/14773907/2?connection_type=16&connection_id=985312": " Bijlage 3h - Sectorbgw. 124375 ",
+        "http://raadsinformatie.eindhoven.nl/document/14773919/2?connection_type=16&connection_id=985312": " Bijlage 3i - Sectorbgw. 124380 ",
+        "http://raadsinformatie.eindhoven.nl/document/14773920/2?connection_type=16&connection_id=985312": " Bijlage 3j - Sectorbgw. 124381 ",
+        "http://raadsinformatie.eindhoven.nl/document/14773921/2?connection_type=16&connection_id=985312": " Bijlage 3k - Sectorbgw. 124392 ",
+        "http://raadsinformatie.eindhoven.nl/document/14773923/2?connection_type=16&connection_id=985312": " Bijlage 3l - Sectorbgw. 124394 ",
+        "http://raadsinformatie.eindhoven.nl/document/14773925/2?connection_type=16&connection_id=985312": " Bijlage 3m - Sectorbgw. 124401 ",
+        "http://raadsinformatie.eindhoven.nl/document/14773926/2?connection_type=16&connection_id=985312": " Bijlage 3n - Sectorbgw. 124402 ",
+        "http://raadsinformatie.eindhoven.nl/document/14773927/2?connection_type=16&connection_id=985312": " Bijlage 3o - Sectorbgw. 124403 ",
+        "http://raadsinformatie.eindhoven.nl/document/14773929/2?connection_type=16&connection_id=985312": " Bijlage 3p - Sectorbgw. 124404 ",
+        "http://raadsinformatie.eindhoven.nl/document/14773930/2?connection_type=16&connection_id=985312": " Bijlage 3q - Sectorbgw. 124405 ",
+        "http://raadsinformatie.eindhoven.nl/document/14773931/2?connection_type=16&connection_id=985312": " Bijlage 3r - Sectorbgw. 124406 KV 124356 ",
+        "http://raadsinformatie.eindhoven.nl/document/14773932/2?connection_type=16&connection_id=985312": " Bijlage 3s - Sectorbgw. 924145 ",
+        "http://raadsinformatie.eindhoven.nl/document/14773933/2?connection_type=16&connection_id=985312": " Bijlage 3t - Sectorbgw. 924149 ",
+        "http://raadsinformatie.eindhoven.nl/document/14773934/2?connection_type=16&connection_id=985312": " Bijlage 3u - Sectorbgw. 924150 ",
+        "http://raadsinformatie.eindhoven.nl/document/14809073/1?connection_type=16&connection_id=985312": " Behandeladvies Raadsvoorstel Turap-2 2024 ",
+        "http://raadsinformatie.eindhoven.nl/document/14935629/1?connection_type=16&connection_id=985312": " Commissieadvies Raadsvoorstel Turap 2 2024 "
+    },
+    "parent": null,
+    "children": [
+        997125
+    ],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/14970288/1?connection_type=17&connection_id=11318244",
+    "pdf_text": " \n  \n gemeente Eindhoven  \nInboeknummer       24bst01353  \nDossiernummer      24.45.751  \nB&W b eslisdatum   05 november 2024  \n \n \nRaadsvoorstel Turap -2 2024  \n \n \nInleiding  \nIn november  ontving u van ons een raadsinformatiebrief over Turap -2 2024. Hierin  hebben \nwe gemeld dat we een separaat raadsvoorstel met bijbehorende begrotingswijzigingen \naan uw raad voorleggen. Dit voorstel treft u hierbij aan.  \n \nKerntaak gekoppeld aan het werkprogramma van het college  \n \n \nDoelstelling  \nDe begroting bijstellen . \n \nVoorstel  \n1. Voortvloeiend uit de prognose in Turap -2 2024 : \na. De voorfinanciering van € 2,58 miljoen voor de uitvoering van de Brainportdeal \nen het daarmee samenhangende Beethoven convenant te dekken vanuit de \nReserve Strategische Investeringsmiddelen.  \nb. De inrichting van exploitatieproject “Fellenoord kassiersfunctie” vaststellen ter \nfinanciering van de € 101,8 miljoen voor de gebiedsontwikkeling Fellenoord ; \nc. De begroting 2024 te actualiseren, onder andere naar aanleiding van de \norganisatiewijzigingen , en de bijbehorende aangepaste kostenverdeling te \nverwerken ; \nd. Het voordelig resultaat prijsstijgingen van € 1 ,9 miljoen storten in de reserve \nEigen Kapitaal voor inzet in 2025 (conform Kadernota  2025) ; \ne. De rente en afschrijvingslasten 2024 bij te stellen met € 6 miljoen voordelig  ten \ngunste van de algemene middelen ; \nf. De extra inkomsten (€ 1,5 miljoen  in 2024 en € 0,5 miljoen in 2025 ) en uitgaven \n(€ 0,8 miljoen  in 2024 en € 0,5 miljoen in 2025 ) gerelateerd aan het opruimen \nvan zwerfafval in de begroting op te nemen;   \n Inboeknummer 24bst01353  \n \n 2 \ng. De budgetten voor de extra inzet van projectleiders (€ 1,2 miljoen  in de jaren \n2024 tot en met 2028 ) correct  in de begroting te verwerken ; \nh. Het exploitatiebudget voor innovatie beschermd wonen (€ 2 miljoen  in 2024, \n€ 1,5 miljoen in 2025 en € 1 ,1 miljoen in 2026 en 2027 ) toe te voegen aan het \nbudget voor zorgkosten  beschermd wonen en de benodigde middelen voor \ninnovatie op het gebied van beschermd wonen voor ditzelfde bedrag te \nonttrekken vanuit de reserve Innovatie beschermd wonen ; \ni. Wegens vertragingen en verschuiving van projecten naar een ander jaar de \ninkomsten vanuit grondexploitaties neerwaarts bij te stellen met € 9,3 miljoen , \nde uitgavenbudgetten neerwaarts bij te stellen met € 8,0 miljoen  en het saldo te \nmuteren op de onderhandenpositie op de balans ; \nj. De extra inkomsten en uitgaven (€ 1, 0 miljoen) in 2024 gerelateerd aan de \nafgegeven producten burgerzaken in de begroting op te nemen;  \nk. Het projectbudget voor Huis naar Werk op te hogen (€ 1,4 miljoen) conform \neerder genomen B&W besluit (24bst00399)  en een administratieve correctie \n(€ 0,8 miljoen) op de projecten EC door te voeren , dekking komt vanuit \nontvangen interventies (€ 1,7 miljoen), subsidie (€ 0,3 miljoen) en provinciale \nbijdrage (€ 0,2 miljoen) voor Huis naar Werk ; \nl. Het overschot op de strategische kapitaallasten (€ 8,6 miljoen)  te storten in de \nreserve Strategische investeringen.  \n2. De begrotingswijziging en overeenkomstig vast te stellen.  \n \n \nArgumenten  \n1a.1 In 2024 is door het college opdracht gegeven om middelen in te zetten vanuit de \nReserve Strategische Investeringsmiddelen om de Brainportdeal en daarmee \nsamenhangende Beethoven convenant uit te kunnen voeren.  \nOm de uitwerking hiervoor mogelijk te kunnen maken is voorfinanciering nodig vanuit de \nreserve strategische investeringsmiddelen.  \n \nHet b etreft voor 2024 een onttrekking van € 2,58 miljoen euro , verdeeld over de volgende \nposten:  \nI. € 1,35 miljoen voor personeel ; \nII. € 0,5 miljoen opstartkosten voor P&O ; \nIII. € 0,5 miljoen voorbereidingskosten voor het uitvoeren van exploitatieprojecten ; \nIV. € 0,23 miljoen bijdrage aan overhead . \n \n1b.1 In 2022 is door de raad vastgesteld (raadsvoorstel 22bst01480 ) om de Rijksbijdragen \n“woningbouwimpuls” en “versnellingsmiddelen” door te leggen naar de nieuw op te richten \nentiteit Fellenoord BV.  \nDestijds is geen begrotingswijziging opgesteld . Op dit moment is Fellenoord BV opgericht \nen is de uitvoering begonnen. Hiervoor zal dus de BV ook bevoorschot worden  en is de \ntechnische uitwerking van het eerder genomen besluit nodig. Het betreft € 23,3 miljoen \nRijksbijdrage woningbouwimpuls en € 78,5 miljoen Rijksbijdrage versnellingsmiddelen . In  \n Inboeknummer 24bst01353  \n \n 3 \ntotaal gaat het om een bedrag van € 101,8 miljoen  wat op het nieuwe ingeregelde project \nKassiersfunctie Fellenoord zal worden geboekt . \n \n1c.1 De begroting 2024 dient, onder andere door de organisatorische wijzigingen , \ngeactualiseerd te worden. Door deze wijzigingen moet ook de kostenverdeling geupdate \nworden.  \nOp basis van de kostenverdeling worden met name personeel gerelateerde kosten  \ndoorbelast naar de verschillende taakvelden.  \n \n1d.1 Conform afspraken Kadernota 2024  is vastgesteld een bedrag voor prijsstijgingen in \nte zetten voor 2025 . \nMet het vaststellen van deze begrotingswijziging effectueren we de eerder gemaakte \nafspraken.   \n \n1e.1 Jaarlijks actualiseren we de raming van de rente - en afschrijvingslasten bij Turap -2. \nZoals toegelicht in Turap -2 202 4 zijn de investeringen 202 3 achtergebleven op de raming \nwat een voordelig effect heeft op de afschrijvingslasten van 2024 . Daarnaast zien we door \neen technische correctie van de berekende kapitaallasten een aanvullend voordeel in \n2024.  Per saldo verwachten we op de rente en afschrijvingslasten een positieve afwijking \nvan € 6,0 miljoen ten gunste van de algemene middelen . \n \n1f.1 Er zijn extra middelen ontvangen voor het opruimen van z werfafval , voor het \nuitvoeren van de taak zijn ook extra kosten gemaakt.  \nDe hoogte van de vergoeding voor het opruimen van zwerfafval voor 2023 en 2024 waren \nten tijde van het opstellen van de begroting 2024  nog niet vastgesteld, daarom kon hier \neerder geen rekening mee gehouden worden. Middelen worden naar verwachting dit jaar \nontvangen voor het voorgaande jaar (in 2024 wordt de bijdrage voor 2023 ontvangen).  De \nextra inkomsten (€ 1,5 miljoen  in 2024 en € 0,5 miljoen in 2025 ) en uitgaven (€ 0,8 miljoen  \nin 2024 en € 0,5 miljoen in 2025 ) die met deze taak gepaard gaan worden aan de \nbegroting toegevoegd.  \n \n1g.1 Om projecten te versnellen, nieuwe projecten op te kunnen pakken en de \nrealisatiekracht te verhogen wordt ingezet op extra projectleiders, zoals bij begroting 2024 \nis vastgesteld.  \nHet budget van  jaarlijks  € 1,2 miljoen voor de jaren 2024 tot en met 2028 dient nog \nadministratief correct  in de begroting verwerkt  te worden.  \n \n1h.1 Innovatie Beschermd wonen  \nDe budgetten voor innovatie beschermd wonen zijn in eerste instantie vanuit het \nzorgbudget beschermd wonen overgeheveld. Uitgangspunt is echter dat de budgetten \nvanuit de reserve Innovatie beschermd wonen zouden worden bekostigd. Door de \nbegrotingswijziging wordt dit gecorrigeerd.  \n \n  \n Inboeknummer 24bst01353  \n \n 4 \n1i.1 Vertraging zorgt voor een bijstelling van de budgetten voor grondexploitaties in 2024.  \nDe baten en lastenbudgetten worden afgeraamd naar aanleiding van de meest recente \nprognose.   \n \n1j.1 Door een hoger aantal afgegeven reisdocumenten en meer naturalisaties zijn meer \nlegesinkomsten ontvangen.  \nTegenover de hogere inkomsten staan hogere lasten voor de uitvoering en hogere \nafdrachten aan het Rijk. Met de begrotingswijziging worden zowel de baten als de lasten \nopgehoogd met € 1, 0 miljoen.  \n \n1k.1 De projectbudgetten voor Huis naar Werk dienen nog opgehoogd te worden conform \neerder besluit.  \nMet deze begrotingswijziging sluit het projectbudget aan bij het vastgestelde Jaarplan \nHuis naar Werk 2024. De lasten worden opgehoogd met € 1,4 miljoen, dekking komt \nvanuit RMT middelen en resterende middelen vanuit eerder circulaires.  \nHet overige gedeelte van de begrotingswijziging (€ 0,8 miljoen) betreft administratieve \ncorrecties vanuit  voorgaande jaren  die doorwerken in de huidige cijfers.  \n \n1l.1 De investeringen worden momenteel voorbereid en nemen tijd in beslag.  \nDe verwachting is dat deze kosten de komende jaren stap v oor stap ingezet gaan worden. \nDe afspraak is dat het overschot op d e stelpost Strategische kapitaallasten wordt gestort \nin de reserve Strategische investeringen.  \n \n \nKanttekeningen  \nN.v.t.  \n \nPersonele consequenties  \nN.v.t.  \n \nFinanciële consequenties  \nN.v.t.  \n \nCommunicatie  \nN.v.t.  \n \nPlanning en uitvoering  \nN.v.t.  \n \nEvaluatie  \nN.v.t.  \n \nBijlage(n)  \nAls bijlage(n) bij dit voorstel behoren:   \n Inboeknummer 24bst01353  \n \n 5 \n• Begrotingswijziging  \n \nEen ontwerpraadsbesluit bieden wij u hierbij ter vaststelling aan.  \n \nBurgemeester en wethouders van Eindhoven,  \n \n \n \n \n, secretaris.  \n   \n Inboeknummer 24bst01353  \n \n 6 \nOntwerp Raadsbesluit  \n \nDe raad van de gemeente Eindhoven;  \ngezien het voorstel van burgemeester en wethouders van ; \n \n \nbesluit:  \n \n3. Voortvloeiend uit de prognose in Turap -2 2024 : \na. De voorfinanciering van € 2,58 miljoen voor de uitvoering van de Brainportdeal \nen het daarmee samenhangende Beethoven convenant te dekken vanuit de \nReserve Strategische Investeringsmiddelen.  \nb. De inrichting van exploitatieproject “Fellenoord kassiersfunctie” vaststellen ter \nfinanciering van de € 101,8 miljoen voor de gebiedsontwikkeling Fellenoord ; \nc. De begroting 2024 te actualiseren, onder andere naar aanleiding van de \norganisatiewijzigingen, en de bijbehorende aangepaste kostenverdeling te \nverwerken;  \nd. Het voordelig resultaat prijsstijgingen van € 1 ,9 miljoen storten in de reserve \nEigen Kapitaal voor inzet in 2025 (conform Kadernota  2025) ; \ne. De rente en afschrijvingslasten 2024 bij te stellen met € 6 miljoen voordelig ten \ngunste van de algemene middelen;  \nf. De extra inkomsten (€ 1,5 miljoen in 2024 en € 0,5 miljoen in 2025) en uitgaven \n(€ 0,8 miljoen in 2024 en € 0,5 miljoen in 2025) gerelateerd aan het opruimen \nvan zwerfafval in de begroting op te nemen;  \ng. De budgetten voor de extra inzet van projectleiders (€ 1,2 miljoen in de jaren \n2024 tot en met 2028) correct  in de begroting te verwerken ; \nh. Het exploitatiebudget voor innovatie beschermd wonen (€ 2 miljoen in 2024, \n€ 1,5 miljoen in 2025 en € 1,1 miljoen in 2026 en 2027) toe te voegen aan het \nbudget voor zorgkosten beschermd wonen en de benodigde middelen voor \ninnovatie op het gebied van besche rmd wonen voor ditzelfde bedrag te \nonttrekken vanuit de reserve Innovatie beschermd wonen;  \ni. Wegens vertragingen en verschuiving van projecten naar een ander jaar de \ninkomsten vanuit grondexploitaties neerwaarts bij te stellen met € 9,3 miljoen, \nde uitgavenbudgetten neerwaarts bij te stellen met € 8,0 miljoen en het saldo te \nmuteren op de onderhan denpositie op de balans ; \nj. De extra inkomsten en uitgaven (€ 1,0 miljoen) in 2024 gerelateerd aan de \nafgegeven producten burgerzaken in de begroting op te nemen;  \nk. Het projectbudget voor Huis naar Werk op te hogen (€ 1,4 miljoen) conform \neerder genomen B&W besluit (24bst00399)  en een administratieve correctie \n(€ 0,8 miljoen) op de projecten EC door te voeren, dekking komt vanuit \nontvangen interventies (€ 1,7 miljoen), subsidie (€ 0,3 miljoen) en provinciale \nbijdrage (€ 0,2 miljoen) voor Huis naar Werk;  \nl. Het overschot op de strategische kapitaallasten (€ 8,6 miljoen) te storten in de \nreserve Strategische investeringen.   \n Inboeknummer 24bst01353  \n \n 7 \n4. De begrotingswijziging en overeenkomstig vast te stellen.  \n \nAldus vastgesteld in de openbare vergadering van  \n \n \n \n \n, griffier.  \n ",
+    "bst": "24bst01353",
+    "related": [
+        {
+            "id": 1096887,
+            "weight": 1.5257519638564723
+        },
+        {
+            "id": 859504,
+            "weight": 0.39708056412360354
+        },
+        {
+            "id": "a_9977806",
+            "weight": 0.31621555349018815
+        },
+        {
+            "id": 1085088,
+            "weight": 0.25855891064772185
+        },
+        {
+            "id": 787684,
+            "weight": 0.24399847654163062
+        },
+        {
+            "id": 13605955,
+            "weight": 0.24204786038789386
+        },
+        {
+            "id": 1096902,
+            "weight": 0.2331930381798165
+        },
+        {
+            "id": 975511,
+            "weight": 0.23124956726654824
+        },
+        {
+            "id": 893225,
+            "weight": 0.2279858767200484
+        },
+        {
+            "id": 985351,
+            "weight": 0.2262526607518081
+        },
+        {
+            "id": 932548,
+            "weight": 0.22163983713368773
+        },
+        {
+            "id": 1129421,
+            "weight": 0.21631831553587344
+        },
+        {
+            "id": 835436,
+            "weight": 0.20816742243182826
+        },
+        {
+            "id": 955449,
+            "weight": 0.20231112638564522
+        },
+        {
+            "id": 1129612,
+            "weight": 0.2012315709345323
+        },
+        {
+            "id": 1013607,
+            "weight": 0.19722372395761467
+        },
+        {
+            "id": 950253,
+            "weight": 0.1947357171352963
+        },
+        {
+            "id": 771649,
+            "weight": 0.1625016552246398
+        },
+        {
+            "id": 1037377,
+            "weight": 0.15139441127932693
+        },
+        {
+            "id": 984130,
+            "weight": 0.14164176925266195
+        },
+        {
+            "id": 835005,
+            "weight": 0.13908556634644131
+        },
+        {
+            "id": 955623,
+            "weight": 0.12918950054008455
+        },
+        {
+            "id": 1139086,
+            "weight": 0.12035339803901017
+        },
+        {
+            "id": 1014949,
+            "weight": 0.11979591390215781
+        },
+        {
+            "id": 993565,
+            "weight": 0.10700774129478462
+        },
+        {
+            "id": 878028,
+            "weight": 0.10652684536161043
+        },
+        {
+            "id": 1117714,
+            "weight": 0.10205144925384207
+        },
+        {
+            "id": 1027325,
+            "weight": 0.09460552018645275
+        },
+        {
+            "id": 1091329,
+            "weight": 0.08881655967732184
+        },
+        {
+            "id": 1140875,
+            "weight": 0.08801271878983562
+        },
+        {
+            "id": 999856,
+            "weight": 0.08149475932297955
+        },
+        {
+            "id": 786268,
+            "weight": 0.0795610689106302
+        },
+        {
+            "id": 863851,
+            "weight": 0.07702674211796284
+        },
+        {
+            "id": 1085544,
+            "weight": 0.07602402553304553
+        },
+        {
+            "id": 900692,
+            "weight": 0.07507151814162467
+        },
+        {
+            "id": 885825,
+            "weight": 0.07327501797662057
+        },
+        {
+            "id": 968655,
+            "weight": 0.07247308770685436
+        },
+        {
+            "id": 931443,
+            "weight": 0.07245547994589456
+        },
+        {
+            "id": 944353,
+            "weight": 0.06748185909436832
+        },
+        {
+            "id": 1062590,
+            "weight": 0.0666520670930847
+        },
+        {
+            "id": 1053251,
+            "weight": 0.06580548646958462
+        },
+        {
+            "id": 845831,
+            "weight": 0.0643694777305412
+        },
+        {
+            "id": 956636,
+            "weight": 0.06283747293710233
+        },
+        {
+            "id": 915719,
+            "weight": 0.05889599539733699
+        },
+        {
+            "id": 1000502,
+            "weight": 0.05417385266715321
+        },
+        {
+            "id": 977779,
+            "weight": 0.05380302047554238
+        },
+        {
+            "id": 971744,
+            "weight": 0.048272036901645235
+        },
+        {
+            "id": 788340,
+            "weight": 0.04698545666436045
+        }
+    ],
+    "videostarttime": {
+        "1148345": 2859,
+        "1148342": 5240
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_17.12.24_NC_EINDHOVEN-RAA1.mp4/playlist.m3u8",
+    "keywords": {
+        "miljoen": 0.9974475026361428,
+        "Reserve Strategische": 0.9880263210400804,
+        "beschermd wonen": 0.9789077709656115,
+        "innovatie beschermd": 0.9764917710884798,
+        "Reserve": 0.9736720803061493,
+        "begroting": 0.9718695648416803,
+        "Raadsvoorstel Turap": 1.9635423259948002,
+        "miljoen Rijksbijdrage": 0.9633734886554,
+        "wonen": 0.9620489873639035,
+        "innovatie": 0.9620318231600028,
+        "Turap": 1.9613392448903761,
+        "Fellenoord": 0.9611669859709916,
+        "extra": 0.9523037991891493,
+        "middelen": 0.9501462819501473,
+        "Huis": 0.9481925932076338,
+        "Inboeknummer": 0.9479345861545905,
+        "begrotingswijziging": 0.9478304125118068,
+        "miljoen voordelig": 0.9477980899656804,
+        "Werk": 0.947475691361493,
+        "Strategische investeringen": 0.9366223552880752,
+        "stellen": 0.935141648595401,
+        "inkomsten": 0.9334730935843569,
+        "Inleiding": 0.924554465595822,
+        "conform": 0.9127840551014097,
+        "Fellenoord kassiersfunctie": 0.908454422574581,
+        "november ontving": 0.9004703832668016,
+        "ontvangen": 0.9002089897146962,
+        "projecten": 0.8996231682676348,
+        "samenhangende Beethoven": 0.884503190492402,
+        "Beethoven convenant": 0.8837743901944137,
+        "november": 0.8787533172569999,
+        "Brainportdeal": 0.8771918324213643,
+        "Beethoven": 0.8771918324213643,
+        "uitgaven": 0.8768926307089435,
+        "budgetten": 0.8744070620737096,
+        "afschrijvingslasten": 0.8737503953857297,
+        "vastgesteld": 0.8717557047664566,
+        "uitvoering": 0.8713877653161687,
+        "nemen": 0.8694672545362825,
+        "investeringen": 0.8694672545362825,
+        "conform Kadernota": 0.8692578727278453,
+        "besluit": 0.8689631541376011,
+        "jaren": 0.8689517736053142,
+        "gebiedsontwikkeling Fellenoord": 0.8605772610290925,
+        "voorstel": 1.8599395255444007,
+        "miljoen opstartkosten": 0.8475071555215687,
+        "rente": 0.8335482056223695,
+        "opruimen": 0.8332791847488237,
+        "kostenverdeling": 0.8327296310659666,
+        "bedrag": 0.8327296310659666,
+        "verwerken": 0.8325284780821635,
+        "gerelateerd": 0.8316996338424993,
+        "inzet": 0.8298253121137686,
+        "jaar": 0.828558038526632,
+        "neerwaarts": 0.8275153977951952,
+        "kapitaallasten": 0.8272606934128314,
+        "Kassiersfunctie Fellenoord": 0.816908845149162,
+        "algemene middelen": 0.8105844969859285,
+        "Jaarplan Huis": 0.7968011091524945,
+        "separaat raadsvoorstel": 0.796213348845334,
+        "bijbehorende": 0.7894782749569389,
+        "correctie": 0.7701843075844415,
+        "daarmee": 0.7660918084745647,
+        "convenant": 0.7660918084745647,
+        "voorfinanciering": 0.7640072742338639,
+        "raad": 0.7596471431435797,
+        "extra inzet": 0.759624025003139,
+        "gunste": 0.7577277687717369,
+        "algemene": 0.7577277687717369,
+        "prijsstijgingen": 0.7570858107971781,
+        "zwerfafval": 0.7562764219257261,
+        "saldo": 0.7556899834621985,
+        "actualiseren": 0.7555940926192788,
+        "dekking": 0.7535891543402453,
+        "prognose": 0.752671521275392,
+        "komt": 0.7525850018590737,
+        "grondexploitaties": 0.7524727127062232,
+        "overschot": 0.7516837340713982,
+        "administratieve": 0.751362544458527,
+        "lasten": 0.7503984603377238,
+        "opgehoogd": 0.7501456004493319,
+        "hogere": 0.7463055345529368,
+        "gemeente Eindhoven": 0.730818350840443,
+        "Jaarlijks": 0.7042263091689411,
+        "daarmee samenhangende": 0.6795793465641504,
+        "Doelstelling": 0.6620060109856993,
+        "eslisdatum": 0.6303730826025891,
+        "raadsinformatiebrief": 0.6267107022955449,
+        "college": 0.6240825445577388,
+        "Werk dienen": 0.6068078235608976,
+        "versnellingsmiddelen": 0.6050702024285075,
+        "hiervoor": 0.6046723314579505,
+        "nodig": 0.6046723314579505,
+        "personeel": 0.6029217454945728,
+        "woningbouwimpuls": 0.6025199220591251,
+        "Voortvloeiend": 0.600671703721926,
+        "dient": 0.6004523004103198,
+        "exploitatieproject": 0.6001842274042026,
+        "technische": 0.6000307464699632,
+        "raming": 0.5997605776588323
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": "10-04-2026",
+    "meeting_id": []
+}

@@ -1,0 +1,59 @@
+{
+    "module_id": "ai_6962485",
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": null,
+    "title": "Heldere kaders LEV en deelmobiliteitsbeleid (VM1)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/moties_en_toezeggingen/785216?parent_event=1013161",
+    "type": "Agenda",
+    "member": null,
+    "party": null,
+    "poho": "M. Esselbrugge (Wethouder)",
+    "result": "",
+    "date": "11-10-2022",
+    "meeting_url": "https://raadsinformatie.eindhoven.nl/vergadering/1013161#ai_6962485",
+    "attachment": null,
+    "parent": null,
+    "children": [
+        785216,
+        785563,
+        785566
+    ],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 863923,
+            "weight": 0.37656015662384307
+        },
+        {
+            "id": 847787,
+            "weight": 0.3179624162566382
+        },
+        {
+            "id": 16556259,
+            "weight": 0.30157398999792057
+        },
+        {
+            "id": 898110,
+            "weight": 0.29472353956201136
+        }
+    ],
+    "videostarttime": 5076,
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_11.10.22_Eindhoven_raad.mp4/playlist.m3u8",
+    "keywords": {
+        "kaders LEV": 1.955011371234592,
+        "Heldere kaders": 1.9505961599793435,
+        "LEV": 1.8552226942577967,
+        "Heldere": 1.8416830712200127,
+        "deelmobiliteitsbeleid": 1.8416830712200127
+    },
+    "svz": "Collegebrief met Evaluatie op 15 feb naar de raad verzonden.\nRaadslid Brokmann (VOLT) heeft agendaverzoek ing...  Lees verder ",
+    "afgedaan": "Q2/2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "30-05-2025",
+    "meeting_id": []
+}

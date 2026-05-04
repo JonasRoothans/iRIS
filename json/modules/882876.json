@@ -1,0 +1,55 @@
+{
+    "module_id": 882876,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "2.1. Mededelingen - Woningbouwproductie",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/moties_en_toezeggingen/882876?parent_event=1142109",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "03-10-2023",
+    "meeting_url": {
+        "1142109": "https://raadsinformatie.eindhoven.nl/vergadering/1142109#ai_7818784"
+    },
+    "attachment": null,
+    "parent": "ai_7818784",
+    "children": [],
+    "text": "Wethouder Verhees zegt toe:\nDat de cijfers over woningbouwproductie te actualiseren en deze rond 21 oktober 2023 in een collegebrief aan de raad te verstrekken.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": "ai_7818784",
+            "weight": 0.804017000817633
+        },
+        {
+            "id": 1121876,
+            "weight": 0.30941975307321623
+        },
+        {
+            "id": 851550,
+            "weight": 0.2607542813798432
+        }
+    ],
+    "videostarttime": {
+        "1142109": 694
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_03.10.23_EINDHOVEN_RAA.mp4/playlist.m3u8",
+    "keywords": {
+        "Wethouder Verhees": 0.9020988666969059,
+        "Woningbouwproductie Wethouder": 0.8308673457340179,
+        "Verhees zegt": 0.8034660988664175,
+        "Mededelingen": 1.7659230135002129,
+        "oktober": 0.6919169303030258
+    },
+    "svz": null,
+    "afgedaan": "14-11-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

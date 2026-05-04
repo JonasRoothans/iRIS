@@ -1,0 +1,61 @@
+{
+    "module_id": "ai_6962205",
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Rondvraag CDA Hoe maken we hospiteren mogelijk en makkelijker",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/moties_en_toezeggingen/779752?parent_event=1013073",
+    "type": "Agenda",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "06-09-2022",
+    "meeting_url": "https://raadsinformatie.eindhoven.nl/vergadering/1013073#ai_6962205",
+    "attachment": null,
+    "parent": null,
+    "children": [
+        779752
+    ],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 11803221,
+            "weight": 1.7071002091522645
+        },
+        {
+            "id": 11799212,
+            "weight": 1.07984670466173
+        },
+        {
+            "id": 883780,
+            "weight": 0.24694767467650666
+        },
+        {
+            "id": 1139114,
+            "weight": 0.22680935977698558
+        },
+        {
+            "id": 791798,
+            "weight": 0.15880666381909678
+        }
+    ],
+    "videostarttime": 1521,
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/06.09.22 Eindhoven meningsvorming ruw.mp4/playlist.m3u8",
+    "keywords": {
+        "Rondvraag CDA": 1.9765416191248102,
+        "CDA": 1.8552226942577967,
+        "makkelijker": 1.8416830712200127,
+        "maken": 1.702634417439785,
+        "hospiteren": 1.702634417439785
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": null,
+    "meeting_id": []
+}

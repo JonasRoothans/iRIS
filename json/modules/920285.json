@@ -1,0 +1,122 @@
+{
+    "module_id": 920285,
+    "vote_id": null,
+    "member_id": [
+        194500
+    ],
+    "party_list": [
+        "FVD"
+    ],
+    "poho_id": [],
+    "title": "Beantwoording raadsvragen Zwartlakken (FvD)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/4/Raadsvragen/920285",
+    "type": "Raadsvraag",
+    "member": "Nicolas Knoester",
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "19-02-2024",
+    "meeting_url": null,
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/13821586/1?connection_type=17&connection_id=10297390": "Vraag",
+        "https://raadsinformatie.eindhoven.nl/document/13923030/2?connection_type=17&connection_id=10378927": "Antwoord"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/13821586/1?connection_type=17&connection_id=10297390",
+    "pdf_text": " \n \n \nRaadsvragen  Zwartlakken  \n \ndatum:  15 februari 2024  \n \n \nGeacht college,  \n \nZie onderstaand artikel  \n \nZwartlakken maakt meer kapot dan je lief is - \nhttps://ibestuur.nl/artikel/zwartlakken -maakt -meer -kapot -dan-je-lief-is/  \n \n \nRaadsvra ag \n1. Is het college bereid om te starten met privacy by design en te \nstoppen met onnodig zwartlakken conform de laatste \nwetenschappelijke inzichten?  \n \n \nNamens de fracti e, \nForum voor Democratie  \n \nNicolas Knoester , raadslid  \n \n \n \n",
+    "bst": "24bst00241",
+    "related": [
+        {
+            "id": 930390,
+            "weight": 0.3373232215005967
+        },
+        {
+            "id": 16209761,
+            "weight": 0.2701043704789868
+        },
+        {
+            "id": 15313524,
+            "weight": 0.23659877382897251
+        },
+        {
+            "id": 862742,
+            "weight": 0.10640085455379908
+        },
+        {
+            "id": 927716,
+            "weight": 0.044921995045280175
+        },
+        {
+            "id": 988942,
+            "weight": 0.0439554401638267
+        },
+        {
+            "id": 775247,
+            "weight": 0.03669424028633501
+        },
+        {
+            "id": 850176,
+            "weight": 0.035258547084366106
+        },
+        {
+            "id": 1107289,
+            "weight": 0.03439210458007909
+        },
+        {
+            "id": 1132653,
+            "weight": 0.03291243297961529
+        },
+        {
+            "id": 14115505,
+            "weight": 0.028987713949769074
+        },
+        {
+            "id": 1059935,
+            "weight": 0.028078086851634248
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "raadsvragen Zwartlakken": 1.9887780135124853,
+        "Beantwoording raadsvragen": 1.985094206521548,
+        "Geacht college": 0.9779841286491506,
+        "Zwartlakken datum": 0.9691974672756541,
+        "onderstaand artikel": 0.9618549178325593,
+        "raadsvragen": 1.9480650973392022,
+        "Geacht": 0.9358093731058073,
+        "Nicolas Knoester": 0.9134394077437347,
+        "FvD": 1.904652484840942,
+        "februari": 0.904652484840942,
+        "maakt": 0.8970748924144962,
+        "kapot": 0.8970748924144962,
+        "Democratie Nicolas": 0.8942971044969726,
+        "datum": 0.8586030471245725,
+        "college": 0.8322059232654297,
+        "college bereid": 0.8213602226011323,
+        "artikel": 0.808314063108987,
+        "lief": 0.808314063108987,
+        "wetenschappelijke inzichten": 0.803358348543981,
+        "laatste wetenschappelijke": 0.7437551086169887,
+        "Forum": 0.742342937699403,
+        "Knoester": 0.742342937699403,
+        "Nicolas": 0.690810869057298,
+        "raadslid": 0.6521832550883218,
+        "inzichten": 0.6361512023950419,
+        "bereid": 0.5483620228257916,
+        "starten": 0.5483620228257916,
+        "privacy": 0.5483620228257916,
+        "design": 0.5483620228257916,
+        "onnodig": 0.5483620228257916,
+        "conform": 0.5483620228257916,
+        "laatste": 0.5483620228257916,
+        "Namens": 0.5454647561228143
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194500,
+    "lastScrapeDate": "02-04-2026",
+    "meeting_id": []
+}

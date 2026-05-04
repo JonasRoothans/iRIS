@@ -1,0 +1,116 @@
+{
+    "module_id": 848863,
+    "vote_id": null,
+    "member_id": [
+        194500
+    ],
+    "party_list": [
+        "FVD"
+    ],
+    "poho_id": [],
+    "title": "Beantwoording vervolg raadsvragen Transparantie gebruik locatiegegevens (FvD)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/4/Raadsvragen/848863",
+    "type": "Raadsvraag",
+    "member": "Nicolas Knoester",
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "23-05-2023",
+    "meeting_url": null,
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/12779432/1?connection_type=17&connection_id=9402287": "Vraag"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/12779432/1?connection_type=17&connection_id=9402287",
+    "pdf_text": " \n \n \nRaadsvragen van de fractie (s): Forum voor Democratie  \n \n \nVervolg raadsvragen Transparantie gebruik locatiegegevens  \n \ndatum:  20 mei 2023  \n \n \nGeacht college,  \n \n \nInleiding  \nUit de beantwoording door het college ontstaat de indruk dat Resono de \nbrondata beheert en anonimiseert. Toch blijkt ook de gemeente toegang \ntot de \"onderliggende data\" te hebben. Daarnaast ontstaat ook de indruk \nvan oneerlijke concurrentie.  \n \n \nRaadsvragen  \n1. Uit de correspondentie blijkt dat er bewust is aangestuurd op het \nomzeilen van een aanbesteding. Deelt het college de mening dat dit de \ntransparantie en betrouwbaarheid van de gemeente ondermijnt en dus \nniet wenselijk is?  (zie bijlage 1)  \n \n2. Uit de corr espondentie blijkt dat de gemeente de mogelijkheid heeft \nom de onderliggende data ook te downloaden. Hoe en wanneer is deze \nonderliggende data precies gebruikt?  (zie bijlage 2)  \n \nNamens de fractie(s),  \nForum voor Democratie  \n \nNicolas Knoester , raadslid  \n",
+    "bst": "23bst00859",
+    "related": [
+        {
+            "id": 835268,
+            "weight": 6.14276523898291
+        },
+        {
+            "id": 844568,
+            "weight": 1.348982396741364
+        },
+        {
+            "id": 879394,
+            "weight": 0.4265280094623017
+        },
+        {
+            "id": 14580979,
+            "weight": 0.2795662814398757
+        },
+        {
+            "id": 854127,
+            "weight": 0.1713566795431969
+        },
+        {
+            "id": 1144336,
+            "weight": 0.15879946753207855
+        },
+        {
+            "id": 911491,
+            "weight": 0.12046498691916924
+        },
+        {
+            "id": 1076664,
+            "weight": 0.11545379647302774
+        },
+        {
+            "id": 1072794,
+            "weight": 0.07640157816619386
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "gebruik locatiegegevens": 1.9934222535488715,
+        "vervolg raadsvragen": 1.9920222159955912,
+        "Beantwoording vervolg": 1.9903299207758036,
+        "Transparantie gebruik": 1.9868772268027906,
+        "locatiegegevens datum": 0.9799140410495606,
+        "Geacht college": 0.9759562456987073,
+        "raadsvragen Transparantie": 1.9734142630270153,
+        "brondata beheert": 0.9661089443183072,
+        "vervolg": 1.9633797841146565,
+        "gebruik": 1.9456898022474252,
+        "Geacht": 0.9378050439200247,
+        "Inleiding": 0.9378050439200247,
+        "Resono": 0.9332207328277614,
+        "onderliggende data": 0.9169791911455631,
+        "college": 0.874163292061285,
+        "Forum": 0.8733676535273257,
+        "Democratie Nicolas": 0.8680341514150693,
+        "college ontstaat": 0.8618366251998041,
+        "gemeente": 0.8618023009187055,
+        "blijkt": 0.8615961203190757,
+        "FvD": 1.8512953776661898,
+        "mei": 0.8512953776661899,
+        "data": 0.8511527619066431,
+        "indruk": 0.8502003070491858,
+        "ontstaat": 0.8392208500517864,
+        "anonimiseert": 0.8352838587789965,
+        "brondata": 0.8189472359420439,
+        "beheert": 0.8189472359420439,
+        "Nicolas Knoester": 0.809573602021374,
+        "Daarnaast ontstaat": 0.8086667800301699,
+        "fractie": 0.7882720930552747,
+        "gemeente toegang": 0.7803814371718963,
+        "bijlage": 0.7636609678953354,
+        "correspondentie blijkt": 0.6607164122656264,
+        "oneerlijke concurrentie": 0.6418286151391233,
+        "Namens": 0.6090614376609597,
+        "Knoester": 0.6090614376609597,
+        "Nicolas": 0.5908184038251993,
+        "toegang": 0.5656668752928908,
+        "Daarnaast": 0.5005438048565451
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194500,
+    "lastScrapeDate": "02-04-2026",
+    "meeting_id": []
+}

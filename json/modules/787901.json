@@ -1,0 +1,78 @@
+{
+    "module_id": 787901,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Jaarlijkse rapportage - M3: Geen vrijbrief voor woningsplitsing en kamerverhuur",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/787901",
+    "type": "Motie",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "Ingetrokken na toezegging",
+    "date": "24-05-2022",
+    "meeting_url": {
+        "1013429": "https://raadsinformatie.eindhoven.nl/vergadering/1013429#ai_6964479"
+    },
+    "attachment": null,
+    "parent": "ai_6964479",
+    "children": [],
+    "text": "Na gaan of het mogelijk is de uitkomsten van de leefbaarheidstoetsen en de afwegingen per afgegeven vergunning mee te nemen bij de jaarlijkse rapportage.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1139828,
+            "weight": 1.3227816597757232
+        },
+        {
+            "id": 1057248,
+            "weight": 1.2717592442170391
+        },
+        {
+            "id": 775242,
+            "weight": 0.9975578356716912
+        },
+        {
+            "id": 13645065,
+            "weight": 0.7357940985897418
+        },
+        {
+            "id": 13722422,
+            "weight": 0.7352368387048311
+        },
+        {
+            "id": 913758,
+            "weight": 0.6793198667981948
+        }
+    ],
+    "videostarttime": {
+        "1013429": 8133
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/24.05.22 Eindhoven Raad ruw.mp4/playlist.m3u8",
+    "keywords": {
+        "Jaarlijkse rapportage": 1.9967403936109114,
+        "afwegingen per": 0.9871889703643283,
+        "per afgegeven": 0.9871889703643283,
+        "afgegeven vergunning": 0.9871889703643283,
+        "vergunning mee": 0.9871889703643283,
+        "rapportage": 1.9704531966107126,
+        "Jaarlijkse": 1.945197219556577,
+        "vrijbrief": 1.8875323018025538,
+        "woningsplitsing": 1.8875323018025538,
+        "kamerverhuur": 1.8875323018025538,
+        "gaan": 0.8875323018025537,
+        "uitkomsten": 0.8875323018025537,
+        "leefbaarheidstoetsen": 0.8875323018025537,
+        "per": 0.8875323018025537,
+        "mee": 0.8875323018025537,
+        "nemen": 0.8875323018025537
+    },
+    "svz": null,
+    "afgedaan": "17-01-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

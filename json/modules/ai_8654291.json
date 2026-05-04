@@ -1,0 +1,70 @@
+{
+    "module_id": "ai_8654291",
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Motie van Treurnis over opstelling wethouder Verhees inzake de sloopplannen voor Prinsejagt (Motie M3)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/moties_en_toezeggingen/970845?parent_event=1148045",
+    "type": "Agenda",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "10-09-2024",
+    "meeting_url": "https://raadsinformatie.eindhoven.nl/vergadering/1148045#ai_8654291",
+    "attachment": null,
+    "parent": null,
+    "children": [
+        970859,
+        970845,
+        970854
+    ],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 822553,
+            "weight": 1.2390287945272613
+        },
+        {
+            "id": 1036314,
+            "weight": 0.36448703511433955
+        },
+        {
+            "id": 14535216,
+            "weight": 0.3124443534121335
+        },
+        {
+            "id": 991476,
+            "weight": 0.25415913879352436
+        },
+        {
+            "id": 879394,
+            "weight": 0.23712316766041389
+        },
+        {
+            "id": 975793,
+            "weight": 0.19561591085983704
+        }
+    ],
+    "videostarttime": 3224,
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_10.09.24_Eindhoven_raad.mp4/playlist.m3u8",
+    "keywords": {
+        "wethouder Verhees": 1.982608037401596,
+        "opstelling wethouder": 1.965012976221694,
+        "Motie": 1.9517357166330345,
+        "Prinsejagt": 1.9374219093392173,
+        "Treurnis": 1.9070232753949699,
+        "Verhees": 1.9070232753949699,
+        "opstelling": 1.8161405114575309,
+        "sloopplannen": 1.8161405114575309
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": null,
+    "meeting_id": []
+}

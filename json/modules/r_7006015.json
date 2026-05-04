@@ -1,0 +1,150 @@
+{
+    "module_id": "r_7006015",
+    "vote_id": 7006015,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Raadsvoorstel Ontwerpbegroting 2023 & Meerjarenbegroting 2024-2026 GRWRE Ergon",
+    "url": "https://raadsinformatie.eindhoven.nl/vergadering/1013429/Raadsvoorstel%20Ontwerpbegroting%202023%20%26%20Meerjarenbegroting%202024-2026%20GRWRE%20Ergon 24-05-2022#voting_7006015",
+    "type": "Raadsvoorstel",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "aangenomen",
+    "date": "24-05-2022",
+    "meeting_url": {
+        "1013429": "https://raadsinformatie.eindhoven.nl/vergadering/1013429/Raadsvoorstel%20Ontwerpbegroting%202023%20%26%20Meerjarenbegroting%202024-2026%20GRWRE%20Ergon 24-05-2022#voting_7006015"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/11766420/1/Commissieadvies+Raadsvoorstel+Ontwerpbegroting+2023+%26+Meerjarenbegroting+2024-2026+GRWRE+Ergon?connection_type=1&connection_id=6964452",
+    "pdf_text": " \n \n \n   gemeente Eindhoven  \nGriffie Gemeenteraad   \nRaadsnummer  22bst005 41 \nVerzenddatum  11 mei 2022   \n \nCommissie    advies  \n \nBetreft  Meningsvorming: Raadsvoorstel Ontwerpbegroting 2023 & Meerjarenbegroting \n2024-2026 GRWRE Ergon  \n Dit raadsvoorstel is als hamerstuk geagendeerd in de meningsvormende vergadering \nvan 10  mei 2022.  \n \nGeen van de fracties heeft hierover het woord gevoerd.  \nEr is unaniem positief geadviseerd.   \n \n \nDe secretaris van de meningsvorming,  \nI. van Dijk  ",
+    "bst": null,
+    "related": [
+        {
+            "id": "r_7006020",
+            "weight": 1.6415594457424962
+        },
+        {
+            "id": "r_7006030",
+            "weight": 1.6284915703812421
+        },
+        {
+            "id": "r_7006019",
+            "weight": 1.6266177501267334
+        },
+        {
+            "id": "r_7006036",
+            "weight": 1.573719838326286
+        },
+        {
+            "id": 836579,
+            "weight": 0.6215743258956075
+        },
+        {
+            "id": 1049621,
+            "weight": 0.44289053171221593
+        },
+        {
+            "id": 939062,
+            "weight": 0.44174042088931104
+        },
+        {
+            "id": 1037345,
+            "weight": 0.4407124781527545
+        },
+        {
+            "id": 1034728,
+            "weight": 0.4286228791961608
+        },
+        {
+            "id": 1052631,
+            "weight": 0.21396166872324787
+        },
+        {
+            "id": "a_9416484",
+            "weight": 0.21355046907368852
+        },
+        {
+            "id": "a_9414495",
+            "weight": 0.21207120355817236
+        },
+        {
+            "id": 1011381,
+            "weight": 0.18966062289013128
+        },
+        {
+            "id": 776856,
+            "weight": 0.18629108674674613
+        },
+        {
+            "id": 1044098,
+            "weight": 0.17714573489726806
+        },
+        {
+            "id": 957634,
+            "weight": 0.11959626920133005
+        },
+        {
+            "id": 788357,
+            "weight": 0.06063735245234916
+        },
+        {
+            "id": 1036434,
+            "weight": 0.052908750199627895
+        },
+        {
+            "id": 978671,
+            "weight": 0.046036909655115636
+        },
+        {
+            "id": 776901,
+            "weight": 0.04507209907262671
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "GRWRE Ergon": 1.997480652702162,
+        "Meerjarenbegroting 2024-2026": 1.9965352806865588,
+        "Raadsvoorstel Ontwerpbegroting": 1.9964896149121372,
+        "2024-2026 GRWRE": 1.9955453391439928,
+        "Gemeenteraad Raadsnummer": 0.9942646504194836,
+        "Eindhoven Griffie": 0.9927707995613909,
+        "Griffie Gemeenteraad": 0.9927707995613909,
+        "Commissie advies": 0.985517418165065,
+        "Ergon gemeente": 0.9831089993678311,
+        "gemeente Eindhoven": 0.9817037828505955,
+        "advies Betreft": 0.9817037828505955,
+        "Betreft Meningsvorming": 0.9764139095735437,
+        "GRWRE": 1.9679940678962733,
+        "mei": 0.966799181136342,
+        "Ergon": 1.960839810730477,
+        "Raadsvoorstel": 1.953413713763105,
+        "hamerstuk geagendeerd": 0.9529023114113776,
+        "meningsvormende vergadering": 0.9529023114113776,
+        "Verzenddatum": 0.9499798257325417,
+        "Raadsnummer": 0.9326875807055344,
+        "Griffie": 0.9152809691056509,
+        "Betreft": 0.9152809691056509,
+        "advies": 0.7879168347439572,
+        "hamerstuk": 0.7879168347439572,
+        "vergadering": 0.7879168347439572,
+        "woord gevoerd": 0.7651363214365816,
+        "Dijk": 0.6908299179660665,
+        "positief geadviseerd": 0.6105509521264008,
+        "fracties": 0.5168377411135017,
+        "hierover": 0.5168377411135017,
+        "woord": 0.5168377411135017,
+        "unaniem positief": 0.5018650432309142
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1013429
+    ]
+}

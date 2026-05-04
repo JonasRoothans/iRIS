@@ -1,0 +1,172 @@
+{
+    "module_id": 16395091,
+    "vote_id": null,
+    "member_id": [
+        194373
+    ],
+    "party_list": [
+        "Volt"
+    ],
+    "poho_id": [],
+    "title": "Vraag V1 Vragenhalfuur - Veiligheid optoppen - gemeente Eindhoven aan zet (Volt)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "15-12-2025",
+    "meeting_url": {
+        "1256326": "https://raadsinformatie.eindhoven.nl/vergadering/1256326/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/16395091/1/Vraag+V1+Vragenhalfuur+-+Veiligheid+optoppen+-+gemeente+Eindhoven+aan+zet+%28Volt%29?connection_type=1&connection_id=8588275",
+    "pdf_text": " \n \n \nVragenhalfuur - Veiligheid optoppen – gemeente Eindhoven aan zet  \n                     V1 \n \nEindhoven heeft veel woningen bij te creëren. Buiten nieuwbouw, is optoppen één \nvan de andere manieren die Eindhoven gebruikt om woningen extra toe te \nvoegen in de stad. Volt is blij met deze slimme manier van verdichten , mits het \nveilig gebeurd. We zien nu dat er in Rotterdam  problemen ontstaan met de \nveiligheid van een pand dat opgetopt is. Een flatgebouw is volledig ontruimd  \nomdat de veiligheid niet meer gegarandeerd kon worden.  \n \nEr wordt nu gekeken of dat er sprake is van een landelijk probleem, maar volgens \nde Vereniging vo or Bouw - en Woningtoezicht ‘zijn eigenaren en gemeenten in \neerste instantie aan zet’ .  \n \nDat brengt ons tot de volgende vragen:  \n1. Is het college bekend met de problemen bij het optoppen?  \n2. Is het college in gesprek met Aedes, het Rijk , de woningcorporaties in \nEindhoven  of andere partners om de ernst van dit probleem, de oorzaken \nen mogelijke problemen te onderzoeken?  \n3. Hoe pakt het college de controle aan bij de projecten in Eindhoven waarbij \nopgetopt wordt?  \n \n \nEindhoven, 16 december 2025 \n \n \nHet lid van de ra ad, \n \nRobin Brokmann  (Volt)  \n \n \n \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 1129193,
+            "weight": 0.42362048079851244
+        },
+        {
+            "id": 1022809,
+            "weight": 0.24480292852316826
+        },
+        {
+            "id": 924343,
+            "weight": 0.23228721711886444
+        },
+        {
+            "id": "a_9281764",
+            "weight": 0.2115078824096288
+        },
+        {
+            "id": 1030763,
+            "weight": 0.20648631345560783
+        },
+        {
+            "id": "o_9205533",
+            "weight": 0.20639796440321367
+        },
+        {
+            "id": 1031769,
+            "weight": 0.2056793353866142
+        },
+        {
+            "id": 1088041,
+            "weight": 0.18771234527313013
+        },
+        {
+            "id": 835962,
+            "weight": 0.16703346688651854
+        },
+        {
+            "id": 904436,
+            "weight": 0.1666599091293346
+        },
+        {
+            "id": 1043033,
+            "weight": 0.1665517188561528
+        },
+        {
+            "id": 864810,
+            "weight": 0.10811678432307707
+        },
+        {
+            "id": 775221,
+            "weight": 0.09031022313541107
+        },
+        {
+            "id": 14288441,
+            "weight": 0.0737434360705014
+        },
+        {
+            "id": 957736,
+            "weight": 0.07149783595787149
+        },
+        {
+            "id": 1025673,
+            "weight": 0.050650946805409894
+        },
+        {
+            "id": 984221,
+            "weight": 0.04929613733691504
+        },
+        {
+            "id": 920187,
+            "weight": 0.04895523126458162
+        },
+        {
+            "id": 1133046,
+            "weight": 0.04051059040394916
+        },
+        {
+            "id": 776928,
+            "weight": 0.040421363770093394
+        },
+        {
+            "id": 781364,
+            "weight": 0.03490444746493315
+        },
+        {
+            "id": 998895,
+            "weight": 0.03461497674062652
+        },
+        {
+            "id": 845129,
+            "weight": 0.03225278920644541
+        }
+    ],
+    "videostarttime": {
+        "1256326": 3016
+    },
+    "videolink": null,
+    "keywords": {
+        "gemeente Eindhoven": 1.9859378768990372,
+        "Vragenhalfuur": 1.9789840166344161,
+        "Eindhoven": 1.9616169032605342,
+        "Veiligheid optoppen": 1.9613208856995519,
+        "gemeente": 1.9490942027265525,
+        "zet": 1.9490942027265525,
+        "Volt": 1.9310935830114584,
+        "optoppen": 1.9309141187374381,
+        "woningen": 0.8668968286807667,
+        "Eindhoven gebruikt": 0.8624026974745486,
+        "Vraag": 1.8495651868217406,
+        "college": 0.8425580866276684,
+        "creëren": 0.8296259855559805,
+        "problemen": 0.8288473601473936,
+        "Robin Brokmann": 0.8136719865502026,
+        "Rotterdam problemen": 0.8067270665293059,
+        "opgetopt": 0.724736362619919,
+        "Rotterdam": 0.6845530070567909,
+        "Bouw": 0.6544469701248605,
+        "Woningtoezicht": 0.6544469701248605,
+        "Vereniging": 0.6335289243524829,
+        "Aedes": 0.6244051471509059,
+        "Rijk": 0.6244051471509059,
+        "veilig gebeurd": 0.6164699497717232,
+        "Robin": 0.6036884915251055,
+        "nieuwbouw": 0.5836903432322477,
+        "stad": 0.5836903432322477,
+        "slimme manier": 0.5797163918591158,
+        "problemen ontstaan": 0.5613674998586995,
+        "één": 0.549822986377583,
+        "manieren": 0.549822986377583,
+        "gebruikt": 0.549822986377583,
+        "extra": 0.549822986377583,
+        "voegen": 0.549822986377583,
+        "college bekend": 0.54340562174841,
+        "landelijk probleem": 0.5262423032720498
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194373,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1256326
+    ]
+}

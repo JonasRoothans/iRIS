@@ -1,0 +1,105 @@
+{
+    "module_id": 1131050,
+    "vote_id": null,
+    "member_id": [
+        47266,
+        194370
+    ],
+    "party_list": [
+        "Eindhoven voor Elkaar",
+        " Ouderen Appèl - Hart voor Eindhoven"
+    ],
+    "poho_id": [],
+    "title": "Ingekomen raadsvragen aanvullend - Opvang Oekraïners (EVE, OAE)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/4/Raadsvragen/1131050",
+    "type": "Raadsvraag",
+    "member": "Tjeerd Ritmeester en Niek Rennenberg",
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "04-02-2026",
+    "meeting_url": null,
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/16568813/1?connection_type=17&connection_id=12944764": "Vraag"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/16603179/1?connection_type=17&connection_id=12977855",
+    "pdf_text": " \n \nRaadsvragen  fracties EVE, OAE  - Opvang Oekraïners  \n \ndatum:  3 februari 2026  \n \n \nGeacht college,  \n \nInleiding  \n \nAanvullende Raadsvragen:  \nVorige week hebben we raadsvragen gestuurd over de aanbesteding \nopvang Oekraïners. Na contact met verschillende betrokkenen zijn de \nzorgen over deze aanbesteding gegroeid. Dat heeft vooral te maken met \nhoe de aanbesteding is opgesteld, hoe deze is getoetst , en de daaruit \nvolgende resultaten. Om die reden is het voor ons belangrijk zo snel \nmogelijk ook inzage te krijgen in de aanbesteding.  \n \nDit leidt tot de volgende raadsvragen:  \nKunt u ons de aanbesteding en eventueel bijbehorende stukken zo \nsnel mogelijk opsturen/laten inzien?  \n \nNamens de fractie s, \n \nTjeerd Ritmeester, Eindhoven Voor Elkaar (EVE)  \nNiek Rennenberg, Ouderen Appel Eindhoven (OAE)  \n \n",
+    "bst": "",
+    "related": [
+        {
+            "id": 930491,
+            "weight": 0.6472110539634104
+        },
+        {
+            "id": 955064,
+            "weight": 0.6430954986516888
+        },
+        {
+            "id": 929135,
+            "weight": 0.47716562561990433
+        },
+        {
+            "id": 982293,
+            "weight": 0.37286898210720576
+        },
+        {
+            "id": "a_7586976",
+            "weight": 0.21036886059463525
+        },
+        {
+            "id": 1116686,
+            "weight": 0.2065501944812924
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Opvang Oekraïners": 1.9987326146027937,
+        "Inleiding Aanvullende": 0.9952134047449053,
+        "Oekraïners datum": 0.9906942879031291,
+        "Geacht college": 0.9891399681183255,
+        "Vorige week": 0.9870691581631942,
+        "Opvang": 1.977242216662742,
+        "aanbesteding opvang": 0.9748674960317865,
+        "Aanvullende Raadsvragen": 0.9724423265621704,
+        "OAE": 1.9504428526383566,
+        "raadsvragen aanvullend": 1.9356248473947852,
+        "Geacht": 0.9353536796448046,
+        "Inleiding": 0.9353536796448046,
+        "raadsvragen": 1.9272124209251353,
+        "EVE": 1.9269055574665697,
+        "fracties EVE": 0.8765232808636867,
+        "februari": 0.8639466264507052,
+        "Tjeerd Ritmeester": 0.8605728071821381,
+        "Niek Rennenberg": 0.8605728071821381,
+        "Ouderen Appel": 0.8455603798125803,
+        "Appel Eindhoven": 0.8349549753989571,
+        "Ingekomen": 1.83381329973558,
+        "aanvullend": 1.83381329973558,
+        "datum": 0.8338132997355799,
+        "college": 0.8338132997355799,
+        "week": 0.8025290593818206,
+        "gestuurd": 0.8025290593818206,
+        "snel": 0.7747112359126809,
+        "volgende": 0.7382533138724514,
+        "verschillende betrokkenen": 0.7304282053915792,
+        "Tjeerd": 0.6501914245731008,
+        "Elkaar": 0.6501914245731008,
+        "Niek": 0.6501914245731008,
+        "volgende resultaten": 0.6434132422786047,
+        "Appel": 0.6175655122797435,
+        "gegroeid": 0.5909417882794208,
+        "daaruit volgende": 0.590915592563731,
+        "contact": 0.5392041148420879,
+        "betrokkenen": 0.5392041148420879,
+        "zorgen": 0.5392041148420879
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194370,
+    "lastScrapeDate": "08-04-2026",
+    "meeting_id": []
+}

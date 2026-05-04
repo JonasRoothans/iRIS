@@ -1,0 +1,65 @@
+{
+    "module_id": 787055,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230014,
+    "title": "Gerecycled asfalt - Asfaltcentrale Eindhoven - Vraag V2 Vragenhalfuur",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/moties_en_toezeggingen/787055?parent_event=1013161",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "R. Thijs (Wethouder)",
+    "result": "",
+    "date": "17-10-2022",
+    "meeting_url": {
+        "1013161": "https://raadsinformatie.eindhoven.nl/vergadering/1013161#ai_6962481"
+    },
+    "attachment": null,
+    "parent": "ai_6962481",
+    "children": [],
+    "text": "Met de asfaltcentrale te bespreken of zij de omwonenden actief kunnen informeren over het gebruik van gerecycled asfalt.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 785914,
+            "weight": 0.3605532735901059
+        },
+        {
+            "id": 820972,
+            "weight": 0.35010427032386515
+        },
+        {
+            "id": 906873,
+            "weight": 0.3457642132871257
+        },
+        {
+            "id": 933013,
+            "weight": 0.20004787546372937
+        }
+    ],
+    "videostarttime": {
+        "1013161": 896
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_11.10.22_Eindhoven_raad.mp4/playlist.m3u8",
+    "keywords": {
+        "Gerecycled asfalt": 1.990302664722764,
+        "Asfaltcentrale Eindhoven": 1.9884981063336817,
+        "Vraag": 1.9648562517194983,
+        "omwonenden actief": 0.9616805161233911,
+        "asfalt": 1.9554639984965996,
+        "Eindhoven": 1.9357528467089613,
+        "Vragenhalfuur": 1.9357528467089613,
+        "bespreken": 0.8078924985070169,
+        "actief": 0.8078924985070169,
+        "informeren": 0.8078924985070169,
+        "gebruik": 0.8078924985070169
+    },
+    "svz": null,
+    "afgedaan": "07-03-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

@@ -1,0 +1,148 @@
+{
+    "module_id": 1057251,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 248564,
+    "title": "Nadere toelichting over cijfers over reisbesparing - Raadsvoorstel HOV4 vaststellen ontwerp en kredietaanvraag",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1057251",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "R. Strijk (Wethouder)",
+    "result": "",
+    "date": "19-06-2025",
+    "meeting_url": {
+        "1256618": "https://raadsinformatie.eindhoven.nl/vergadering/1256618#ai_9375563"
+    },
+    "attachment": null,
+    "parent": 1047369,
+    "children": [],
+    "text": "Wethouder Strijk zegt toe:\nOm een nadere toelichting te sturen aan de raad over cijfers over reistijdbesparing door wel/geen aftakking naar HTC – ook komt hij hierbij schriftelijk terug op een vraag van CDA over de toekomstberekeningen in bijlage 2.2 op pagina 69;",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1057253,
+            "weight": 0.8885918302890679
+        },
+        {
+            "id": 1062482,
+            "weight": 0.6370617544109607
+        },
+        {
+            "id": 1057250,
+            "weight": 0.6322416564766937
+        },
+        {
+            "id": 1057248,
+            "weight": 0.6246236550537478
+        },
+        {
+            "id": 1047369,
+            "weight": 0.5314183809587971
+        },
+        {
+            "id": "a_9477074",
+            "weight": 0.4843329847736525
+        },
+        {
+            "id": "a_9477053",
+            "weight": 0.2798722279569963
+        },
+        {
+            "id": 1060059,
+            "weight": 0.2422051063806251
+        },
+        {
+            "id": "a_7693706",
+            "weight": 0.21861374629669972
+        },
+        {
+            "id": 1150669,
+            "weight": 0.13137298580021764
+        },
+        {
+            "id": 1117460,
+            "weight": 0.09275965976027534
+        },
+        {
+            "id": 887791,
+            "weight": 0.0888065409839937
+        },
+        {
+            "id": 904196,
+            "weight": 0.0850795528012748
+        },
+        {
+            "id": 1060110,
+            "weight": 0.08507035956122797
+        },
+        {
+            "id": 906717,
+            "weight": 0.08474787849068857
+        },
+        {
+            "id": 966048,
+            "weight": 0.0829895123339557
+        },
+        {
+            "id": 1121877,
+            "weight": 0.07781802992512879
+        },
+        {
+            "id": 854132,
+            "weight": 0.07252367655767661
+        },
+        {
+            "id": 1124788,
+            "weight": 0.06781607870324646
+        },
+        {
+            "id": 966055,
+            "weight": 0.06233354915168958
+        },
+        {
+            "id": "r_7006030",
+            "weight": 0.061933094826805465
+        }
+    ],
+    "videostarttime": {
+        "1256618": 741
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/19.06.25 Eindhoven Meningsvorming.mp4/playlist.m3u8",
+    "keywords": {
+        "Wethouder Strijk": 0.9955879734484242,
+        "kredietaanvraag Wethouder": 0.9910761842207441,
+        "Strijk zegt": 0.9910761842207441,
+        "vaststellen ontwerp": 1.9862484513504268,
+        "Nadere toelichting": 1.9804056069694342,
+        "Raadsvoorstel": 1.9589485579351151,
+        "cijfers": 1.9221156454265051,
+        "Nadere": 1.9029034757348557,
+        "reisbesparing": 1.8983538431521723,
+        "ontwerp": 1.8665467619023945,
+        "zegt": 0.8665467619023944,
+        "hierbij schriftelijk": 0.8617760135185049,
+        "schriftelijk terug": 0.8617760135185049,
+        "HTC": 0.8359583819116263,
+        "CDA": 0.8022312711410353,
+        "bijlage": 0.7178919014790093,
+        "pagina": 0.7178919014790093,
+        "sturen": 0.6515200142362523,
+        "raad": 0.6515200142362523,
+        "aftakking": 0.6515200142362523,
+        "komt": 0.6515200142362523,
+        "hierbij": 0.6515200142362523,
+        "terug": 0.6515200142362523,
+        "toekomstberekeningen": 0.6515200142362523
+    },
+    "svz": "VOORSTEL COLLEGE AFVOEREN: de informatie is gedeeld Beantwoording technische vragen - HOV4 (CDA) Beantwoording...  Lees verder ",
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "02-10-2025",
+    "meeting_id": [
+        1256618
+    ]
+}

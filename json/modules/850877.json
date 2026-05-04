@@ -1,0 +1,91 @@
+{
+    "module_id": 850877,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Faciliteren organisatie wijkactiviteiten door bewoners - Raadsvoorstel Kadernota 2024",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/850877",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "23-05-2023",
+    "meeting_url": {
+        "1096274": "https://raadsinformatie.eindhoven.nl/vergadering/1096274#ai_7491703"
+    },
+    "attachment": null,
+    "parent": 837030,
+    "children": [],
+    "text": "Stadsgezant Bellemakers (o.v.v. wethouder Verhees) zegt toe:\nInventariseert de mogelijkheden samen met Supportpunt en komt hierop terug.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 891746,
+            "weight": 0.3764608848564317
+        },
+        {
+            "id": 956471,
+            "weight": 0.15596327478840535
+        },
+        {
+            "id": 966042,
+            "weight": 0.06706514149325955
+        },
+        {
+            "id": 1061943,
+            "weight": 0.06682425131340056
+        },
+        {
+            "id": 945691,
+            "weight": 0.06257700229910666
+        },
+        {
+            "id": 945678,
+            "weight": 0.06257700229910666
+        },
+        {
+            "id": 945619,
+            "weight": 0.06257700229910666
+        },
+        {
+            "id": 1104134,
+            "weight": 0.05228668879501145
+        },
+        {
+            "id": 1020312,
+            "weight": 0.05147306378501094
+        }
+    ],
+    "videostarttime": {
+        "1096274": 12343
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_23.05.23_Eindhoven_NC_Meningsvorming.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Kadernota": 1.9904913876904107,
+        "Stadsgezant Bellemakers": 0.9904913876904107,
+        "wethouder Verhees": 0.980154148881414,
+        "Faciliteren organisatie": 1.922031089187091,
+        "Kadernota": 1.9029482086059646,
+        "Stadsgezant": 0.9029482086059646,
+        "Bellemakers": 0.9029482086059646,
+        "Verhees": 0.9029482086059646,
+        "organisatie wijkactiviteiten": 1.8504069908205425,
+        "Faciliteren": 1.7994920302806434,
+        "bewoners": 1.7994920302806434,
+        "zegt": 0.7994920302806434,
+        "organisatie": 1.6392688949833367,
+        "Supportpunt": 0.6048624212758096,
+        "hierop terug": 0.5543944983562055,
+        "Inventariseert": 0.5344664897230191,
+        "terug": 0.5344664897230191
+    },
+    "svz": null,
+    "afgedaan": "19-11-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

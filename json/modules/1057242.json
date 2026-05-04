@@ -1,0 +1,90 @@
+{
+    "module_id": 1057242,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230019,
+    "title": "ASV - Raadsvoorstel Zesde wijziging ASV Eindhoven",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1057242",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. van Lanschot (Wethouder)",
+    "result": "",
+    "date": "19-06-2025",
+    "meeting_url": {
+        "1256618": "https://raadsinformatie.eindhoven.nl/vergadering/1256618#ai_9403683"
+    },
+    "attachment": null,
+    "parent": 1047421,
+    "children": [],
+    "text": "Wethouder Van Lanschot heeft toegezegd dat:\nde ASV tweejaarlijks wordt geëvalueerd en aangepast, en indien nodig eerder.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1057230,
+            "weight": 3.4110675127696477
+        },
+        {
+            "id": 1057232,
+            "weight": 3.4094439544866364
+        },
+        {
+            "id": 1057237,
+            "weight": 3.3970470150233743
+        },
+        {
+            "id": 1047421,
+            "weight": 3.366730004272317
+        },
+        {
+            "id": 1114088,
+            "weight": 0.7142679806269702
+        },
+        {
+            "id": 826203,
+            "weight": 0.5675799599634429
+        },
+        {
+            "id": 997118,
+            "weight": 0.18179009599321874
+        },
+        {
+            "id": 775301,
+            "weight": 0.18008192633733036
+        },
+        {
+            "id": 1112893,
+            "weight": 0.17662518361606616
+        }
+    ],
+    "videostarttime": {
+        "1256618": 13215
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/19.06.25 Eindhoven Meningsvorming.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Zesde": 1.9959455105694586,
+        "Eindhoven Wethouder": 0.9944279348668712,
+        "ASV Eindhoven": 1.991939392347867,
+        "Zesde wijziging": 1.9893347775138042,
+        "wijziging ASV": 1.984536598661891,
+        "ASV tweejaarlijks": 0.9845365986618911,
+        "ASV": 1.9641937869296708,
+        "Zesde": 1.925560835136161,
+        "Wethouder": 0.9255608351361612,
+        "Lanschot": 0.9255608351361612,
+        "aangepast": 0.9043927905732586,
+        "toegezegd": 0.8582375840764891,
+        "geëvalueerd": 0.8582375840764891,
+        "nodig": 0.8582375840764891
+    },
+    "svz": null,
+    "afgedaan": "Q2 2027 of eerder indien noodzakelijk",
+    "eersteIndiener": null,
+    "lastScrapeDate": "02-10-2025",
+    "meeting_id": [
+        1256618
+    ]
+}

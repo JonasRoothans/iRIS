@@ -1,0 +1,112 @@
+{
+    "module_id": 878428,
+    "vote_id": null,
+    "member_id": [
+        90571
+    ],
+    "party_list": [
+        "CDA"
+    ],
+    "poho_id": [],
+    "title": "Beantwoording raadsvragen Hallo met de burgemeester van Eindhoven (CDA)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/4/Raadsvragen/878428",
+    "type": "Raadsvraag",
+    "member": "Remco van Dooren",
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "21-09-2023",
+    "meeting_url": null,
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/13183611/1?connection_type=17&connection_id=9768104": "Vraag",
+        "https://raadsinformatie.eindhoven.nl/document/13226683/3?connection_type=17&connection_id=9787577": "Antwoord"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/13183611/1?connection_type=17&connection_id=9768104",
+    "pdf_text": " \n \n \nRaadsvragen  van de fractie CDA  Eindhoven  \n \n \n“Hallo, met de burgemeester van Eindhoven ” \n \ndatum: 20 september 2023  \nGeacht e burgemeester , \n \nInleiding  \nVeel inwoners bellen 14 -040 als zij met de gemeente in contact willen komen. Na het \ninspreken van de woonplaats krijgen ze een keuzemenu te horen waarna ze doorverbonden \nworden naar de juiste afdeling. In sommige gemeenten spreekt de burgemeester dit \nkeuze menu in, zoals in Helmond, Rotterdam of Heusden. Dat leidt tot hele positieve reacties \nonder inwoners. Hoewel het een klein gebaar is, geeft het de gemeente een gezicht en wordt  \nhet contact persoonlijker.  \n \nDaarom hebben wij de volgende vraag aan u:  \n \nRaadsv ragen  \n1. Bent u bereid om het keuzemenu van 14 -040 in te spreken?  \n \nNamens de fractie CDA  Eindhoven , \n \nRemco van Dooren , raadslid  ",
+    "bst": "23bst01341",
+    "related": [
+        {
+            "id": 13160413,
+            "weight": 5.068374776083049
+        },
+        {
+            "id": 979285,
+            "weight": 0.36818758108109817
+        },
+        {
+            "id": 791741,
+            "weight": 0.16688995300725665
+        },
+        {
+            "id": 834595,
+            "weight": 0.1333331250821693
+        },
+        {
+            "id": 926041,
+            "weight": 0.11517833256442378
+        },
+        {
+            "id": 1041664,
+            "weight": 0.11099443789480727
+        },
+        {
+            "id": 1050489,
+            "weight": 0.10968997394644153
+        },
+        {
+            "id": 1118693,
+            "weight": 0.09355654962558027
+        },
+        {
+            "id": 948371,
+            "weight": 0.08662851008825441
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "raadsvragen Hallo": 1.9946224984050995,
+        "Beantwoording raadsvragen": 1.9865997428099895,
+        "CDA Eindhoven": 0.9794110023399896,
+        "willen komen": 0.9719677662932779,
+        "Hallo": 1.968941972425338,
+        "fractie CDA": 0.9476099325489518,
+        "burgemeester": 1.9406895778973525,
+        "Geacht": 0.9381887194017382,
+        "Inleiding": 0.9381887194017382,
+        "inwoners bellen": 0.9364003164509898,
+        "CDA": 1.9244524644758854,
+        "contact willen": 0.9180734537216205,
+        "datum": 0.8696140531680092,
+        "september": 0.8696140531680092,
+        "bellen": 0.8464377011376136,
+        "komen": 0.8464377011376136,
+        "juiste afdeling": 0.8014752795673622,
+        "contact": 0.7867787395657988,
+        "woonplaats krijgen": 0.7750591563234352,
+        "horen waarna": 0.7750591563234352,
+        "keuzemenu": 0.7525957867575745,
+        "Helmond": 0.7499775350377109,
+        "Rotterdam": 0.7499775350377109,
+        "Heusden": 0.7499775350377109,
+        "contact persoonlijker": 0.6846402212852114,
+        "Raadsv": 0.6609997113272958,
+        "Remco": 0.6312065447891748,
+        "Dooren": 0.6312065447891748,
+        "gemeenten spreekt": 0.6252587362136237,
+        "inspreken": 0.5714745674286136,
+        "krijgen": 0.5714745674286136,
+        "waarna": 0.5714745674286136,
+        "doorverbonden": 0.5714745674286136,
+        "juiste": 0.5714745674286136,
+        "positieve reacties": 0.5125947017284329
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 90571,
+    "lastScrapeDate": "02-04-2026",
+    "meeting_id": []
+}

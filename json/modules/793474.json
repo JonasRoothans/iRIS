@@ -1,0 +1,74 @@
+{
+    "module_id": 793474,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230014,
+    "title": "Uitvoeringsprogramma bestuursakkoord - Raadsvoorstel Vaststellen Begroting 2023",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/793474",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "R. Thijs (Wethouder)",
+    "result": "",
+    "date": "08-11-2022",
+    "meeting_url": {
+        "1013582": "https://raadsinformatie.eindhoven.nl/vergadering/1013582#ai_7066629"
+    },
+    "attachment": null,
+    "parent": 794220,
+    "children": [],
+    "text": "Dat het 'uitvoeringsprogramma bestuursakkoord’ in het eerste kwartaal van 2023 naar de raad wordt gestuurd.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 933762,
+            "weight": 0.4949453754321944
+        },
+        {
+            "id": 827645,
+            "weight": 0.487639557879632
+        },
+        {
+            "id": 956461,
+            "weight": 0.23184527379901376
+        },
+        {
+            "id": 943628,
+            "weight": 0.2302630907994786
+        },
+        {
+            "id": 885516,
+            "weight": 0.20681010726441956
+        },
+        {
+            "id": 1081558,
+            "weight": 0.19446716510134443
+        },
+        {
+            "id": 863856,
+            "weight": 0.17536994723885962
+        }
+    ],
+    "videostarttime": {
+        "1013582": 22940
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_08.11.22_NC_Eindhoven_Raad.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Vaststellen": 1.994001496346852,
+        "Vaststellen Begroting": 1.994001496346852,
+        "Uitvoeringsprogramma bestuursakkoord": 1.98321872926443,
+        "Begroting": 1.936580012774709,
+        "bestuursakkoord": 1.8847834394570055,
+        "gestuurd": 0.8847834394570057,
+        "kwartaal": 0.8120163182304413,
+        "raad": 0.8120163182304413
+    },
+    "svz": "Zie rib d.d. 14 maart UPBA.\nVoorstel college: afvoeren...  Lees verder ",
+    "afgedaan": "28-03-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

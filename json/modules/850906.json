@@ -1,0 +1,102 @@
+{
+    "module_id": 850906,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230014,
+    "title": "Schadeloosstelling - Raadsvoorstel Nota Grondbeleid 2023.",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/850906",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "R. Thijs (Wethouder)",
+    "result": "",
+    "date": "23-05-2023",
+    "meeting_url": {
+        "1096275": "https://raadsinformatie.eindhoven.nl/vergadering/1096275#ai_7535362"
+    },
+    "attachment": null,
+    "parent": 832852,
+    "children": [],
+    "text": "Wethouder Thijs zegt toe:\n\nde raad technisch te informeren over de werkwijze bij schadeloosstelling.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 850907,
+            "weight": 1.3258367988846762
+        },
+        {
+            "id": 832852,
+            "weight": 1.309125002236884
+        },
+        {
+            "id": 1125918,
+            "weight": 0.36576369678538423
+        },
+        {
+            "id": 1133065,
+            "weight": 0.36451080005308795
+        },
+        {
+            "id": 790602,
+            "weight": 0.348376332673782
+        },
+        {
+            "id": 819068,
+            "weight": 0.24521186152030539
+        },
+        {
+            "id": 973400,
+            "weight": 0.1422795851850767
+        },
+        {
+            "id": 984501,
+            "weight": 0.06938838935803669
+        },
+        {
+            "id": 796519,
+            "weight": 0.06938838935803669
+        },
+        {
+            "id": 790708,
+            "weight": 0.06867570433305187
+        },
+        {
+            "id": 790707,
+            "weight": 0.06857080412931206
+        },
+        {
+            "id": 984519,
+            "weight": 0.0643107797465193
+        },
+        {
+            "id": 781186,
+            "weight": 0.061018140409457605
+        },
+        {
+            "id": 781185,
+            "weight": 0.06065241282334646
+        }
+    ],
+    "videostarttime": {
+        "1096275": 4207
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_23-05-23_NC_EINDHOVEN-Cie menings.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Nota": 1.99246456812069,
+        "Nota Grondbeleid": 1.99246456812069,
+        "Nota": 1.8958391290780487,
+        "Wethouder Thijs": 0.8798114595223396,
+        "Schadeloosstelling": 1.866351395308914,
+        "Thijs zegt": 0.8264958498000805,
+        "Thijs": 0.7123421717800811,
+        "raad technisch": 0.6409740609546439
+    },
+    "svz": null,
+    "afgedaan": "13-06-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

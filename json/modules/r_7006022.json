@@ -1,0 +1,74 @@
+{
+    "module_id": "r_7006022",
+    "vote_id": 7006022,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Raadsvoorstel Dossier actualisatie projecten RD 01-2022",
+    "url": "https://raadsinformatie.eindhoven.nl/vergadering/1013429/Raadsvoorstel%20Dossier%20actualisatie%20projecten%20RD%2001-2022 24-05-2022#voting_7006022",
+    "type": "Raadsvoorstel",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "aangenomen",
+    "date": "24-05-2022",
+    "meeting_url": {
+        "1013429": "https://raadsinformatie.eindhoven.nl/vergadering/1013429/Raadsvoorstel%20Dossier%20actualisatie%20projecten%20RD%2001-2022 24-05-2022#voting_7006022"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/11766272/1/Gemeenteraad+24-05-2022+Berekening+spreektijden?connection_type=1&connection_id=6964329",
+    "pdf_text": "Geschatte vergaderduur 240 minuten\nVoorzitter (orde, besluiten, ..) 48\nCollege 48\nNetto vergadertijd 144\nVaste voet 1/30\nVariabel deel (totaal) 86,4\nVariabel deel (per zetel) 1,92\nZetels Vast Variabel TotaalTotaal (naar \nboven afgerond)\nGroenLinks 9 4,8 17,28 22,08 23\nCDA 6 4,8 11,52 16,32 17\nVVD 6 4,8 11,52 16,32 17\nPvdA 5 4,8 9,6 14,4 15\nD66 5 4,8 9,6 14,4 15\nSP 3 4,8 5,76 10,56 11\nVolt 3 4,8 5,76 10,56 11\nOuderenappel HvE 3 4,8 5,76 10,56 11\nPartij voor de Dieren 2 4,8 3,84 8,64 9\nLPF 1 4,8 1,92 6,72 7\nForum voor Democratie 1 4,8 1,92 6,72 7\n50PLUS 1 4,8 1,92 6,72 7\nTotaal 45 57,6 86,4 144 150 minuten",
+    "bst": null,
+    "related": [
+        {
+            "id": 835425,
+            "weight": 3.864126264592822
+        },
+        {
+            "id": 881857,
+            "weight": 1.29677066555217
+        },
+        {
+            "id": 792357,
+            "weight": 1.2844555356248613
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Raadsvoorstel Dossier": 1.9877657365724986,
+        "Geschatte vergaderduur": 0.9877657365724987,
+        "Dossier actualisatie": 1.9861694959641534,
+        "01-2022 Geschatte": 0.9861694959641534,
+        "actualisatie projecten": 1.960692148758414,
+        "Dossier": 1.9298536454893607,
+        "Variabel deel": 0.8741870897503222,
+        "projecten": 1.805523312832661,
+        "01-2022": 1.805523312832661,
+        "Vast Variabel": 0.7876179918312766,
+        "minuten": 0.7647941459743433,
+        "deel": 0.7634192008572138,
+        "totaal": 0.7548854075970249,
+        "Zetels Vast": 0.6792380930201518,
+        "CDA": 0.6189806883370839,
+        "Voorzitter": 0.6187966138011516,
+        "orde": 0.6187966138011516,
+        "besluiten": 0.6187966138011516,
+        "VVD": 0.611930304970992,
+        "Variabel TotaalTotaal": 0.6107967445905866,
+        "Vast": 0.5877059758641252,
+        "LPF": 0.578846711368268,
+        "Dieren": 0.5561619474148332,
+        "Democratie": 0.5492037893961538
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1013429
+    ]
+}

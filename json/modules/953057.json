@@ -1,0 +1,119 @@
+{
+    "module_id": 953057,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "De raad aanvullend te informeren - Raadsvoorstel Vaststelling bestemmingsplan \n‘I Achtse Barrier - Heizoom 2015 (Hartje Barrier)’",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/953057",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "18-06-2024",
+    "meeting_url": {
+        "1147967": "https://raadsinformatie.eindhoven.nl/vergadering/1147967#ai_8470396"
+    },
+    "attachment": null,
+    "parent": 942826,
+    "children": [],
+    "text": "Wethouder Verhees zegt toe om de raad nog aanvullend te informeren over het doorlopen participatieproces, de participatieverslagen en de verwachtingen aan de voorkant bij betrokkenen.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 953062,
+            "weight": 1.3492421516043183
+        },
+        {
+            "id": 953056,
+            "weight": 1.3491307386129403
+        },
+        {
+            "id": 955583,
+            "weight": 0.6204542058280784
+        },
+        {
+            "id": 955584,
+            "weight": 0.617883190820212
+        },
+        {
+            "id": 1094272,
+            "weight": 0.5589103492205497
+        },
+        {
+            "id": 942826,
+            "weight": 0.5579980341184846
+        },
+        {
+            "id": 898395,
+            "weight": 0.416288439149134
+        },
+        {
+            "id": 896955,
+            "weight": 0.17396564419744648
+        },
+        {
+            "id": "a_7349640",
+            "weight": 0.15322823061745458
+        },
+        {
+            "id": 893560,
+            "weight": 0.14767800509881296
+        },
+        {
+            "id": 855743,
+            "weight": 0.13223507150352243
+        },
+        {
+            "id": 940742,
+            "weight": 0.12646326566049043
+        },
+        {
+            "id": 958585,
+            "weight": 0.1192937462229025
+        },
+        {
+            "id": 955457,
+            "weight": 0.11894709291029264
+        },
+        {
+            "id": 1057330,
+            "weight": 0.1178736427715438
+        }
+    ],
+    "videostarttime": {
+        "1147967": 22248
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_18.06.24_Eindhoven_CIE.mp4/playlist.m3u8",
+    "keywords": {
+        "Hartje Barrier": 1.9979329970723283,
+        "Raadsvoorstel Vaststelling": 1.9973655545663145,
+        "Wethouder Verhees": 0.9973655545663145,
+        "Vaststelling bestemmingsplan": 1.9955618093672887,
+        "Verhees zegt": 0.9941139370063146,
+        "doorlopen participatieproces": 0.9921005630366831,
+        "raad aanvullend": 1.9905683041133995,
+        "Barrier": 1.9774546124464076,
+        "Heizoom": 1.9654114846155046,
+        "Raadsvoorstel": 1.9542536309318033,
+        "Hartje": 1.9542536309318033,
+        "raad": 1.951668927763233,
+        "informeren": 1.951668927763233,
+        "Vaststelling": 1.942563236814859,
+        "Achtse": 1.942563236814859,
+        "betrokkenen": 0.9230705233594404,
+        "zegt": 0.8981206519081126,
+        "doorlopen": 0.8981206519081126,
+        "participatieverslagen": 0.8981206519081126,
+        "verwachtingen": 0.8981206519081126,
+        "voorkant": 0.8981206519081126
+    },
+    "svz": "De gevraagde info is op maandag 1 juli jl. toegevoegd bij het betreffde agendapunt. Voorstel college; Afvoeren...  Lees verder ",
+    "afgedaan": "03-09-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

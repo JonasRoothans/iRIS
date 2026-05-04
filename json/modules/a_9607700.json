@@ -1,0 +1,60 @@
+{
+    "module_id": "a_9607700",
+    "vote_id": 9607700,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Aangekondigd Amendement A1 - Laat het Begijnhof bruisen! (D66, GL, VVD)",
+    "url": "",
+    "type": "Amendement",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "aangenomen",
+    "date": "09-09-2025",
+    "meeting_url": {
+        "1256323": "https://raadsinformatie.eindhoven.nl/vergadering/1256323/Aangekondigd%20Amendement%20A1%20-%20Laat%20het%20Begijnhof%20bruisen%21%20%28D66%2C%20GL%2C%20VVD%29 09-09-2025#voting_9607700"
+    },
+    "attachment": null,
+    "parent": 1053653,
+    "children": [],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 16557242,
+            "weight": 0.7082174719253688
+        },
+        {
+            "id": 16589004,
+            "weight": 0.6998810557246623
+        },
+        {
+            "id": "a_9607705",
+            "weight": 0.6732572595308414
+        },
+        {
+            "id": 1134422,
+            "weight": 0.6127754129328838
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Aangekondigd Amendement": 1.980154148881414,
+        "Begijnhof bruisen": 1.9672154888785256,
+        "Amendement": 1.9029482086059646,
+        "Laat": 1.9029482086059646,
+        "VVD": 1.8844441020888247,
+        "bruisen": 1.7994920302806434
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-12-2025",
+    "meeting_id": [
+        1256323
+    ]
+}

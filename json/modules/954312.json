@@ -1,0 +1,50 @@
+{
+    "module_id": 954312,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Collegebrief aan de leden van de raad over VNG Jaarcongres 2025 in Brainport Eindhoven",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/8/Raadsinformatiebrieven/954312",
+    "type": "Collegebrief",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "26-06-2024",
+    "meeting_url": null,
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": "24bst00885",
+    "related": [
+        {
+            "id": 1017940,
+            "weight": 1.3281848663721212
+        },
+        {
+            "id": 1048915,
+            "weight": 1.3275460144242077
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "VNG Jaarcongres": 1.9950748962302098,
+        "Brainport Eindhoven": 1.9950748962302098,
+        "Eindhoven": 1.9429876123096683,
+        "VNG": 1.9140368224837343,
+        "Brainport": 1.9140368224837343,
+        "Collegebrief": 1.9043195497355658,
+        "leden": 1.8416830712200127,
+        "raad": 1.8416830712200127
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": null,
+    "meeting_id": []
+}

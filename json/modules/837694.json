@@ -1,0 +1,93 @@
+{
+    "module_id": 837694,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": null,
+    "title": "Blacklist - Agenderingsverzoek Volt over Visie deelvervoer",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/837694",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Esselbrugge (Wethouder)",
+    "result": "",
+    "date": "18-04-2023",
+    "meeting_url": {
+        "1013485": "https://raadsinformatie.eindhoven.nl/vergadering/1013485"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": "Wethouder Esselbrugge zegt toe:\n\nBij de aanbesteding voor de nieuwe vergunningen neemt zij het aandachtspunt overlast van deelmobiliteit mee, en zal zij de suggestie doen om gebruik te maken van een zogenaamde ‘blacklist’.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 837691,
+            "weight": 3.7061826870323804
+        },
+        {
+            "id": 837695,
+            "weight": 2.9705481537424294
+        },
+        {
+            "id": 847787,
+            "weight": 0.2446844280250528
+        },
+        {
+            "id": 975722,
+            "weight": 0.24297223482607472
+        },
+        {
+            "id": 1029708,
+            "weight": 0.15787658103883134
+        },
+        {
+            "id": 864019,
+            "weight": 0.143640638618891
+        },
+        {
+            "id": 775267,
+            "weight": 0.1234020375849623
+        },
+        {
+            "id": 859504,
+            "weight": 0.11689729805380636
+        }
+    ],
+    "videostarttime": {
+        "1013485": null
+    },
+    "videolink": null,
+    "keywords": {
+        "Agenderingsverzoek Volt": 1.9968131692799578,
+        "Wethouder Esselbrugge": 0.9955568117209928,
+        "Visie deelvervoer": 1.9922565679365212,
+        "deelvervoer Wethouder": 0.9922565679365212,
+        "Esselbrugge zegt": 0.9922565679365212,
+        "deelmobiliteit mee": 0.9910067820787357,
+        "nieuwe vergunningen": 0.9864720047380254,
+        "vergunningen neemt": 0.9864720047380254,
+        "aandachtspunt overlast": 0.9864720047380254,
+        "Blacklist": 1.9550880231213545,
+        "Volt": 1.933490348926025,
+        "Visie": 1.933490348926025,
+        "Wethouder": 0.9334903489260249,
+        "mee": 0.9228514046076703,
+        "zogenaamde": 0.9228514046076703,
+        "zegt": 0.8844689164123877,
+        "aanbesteding": 0.8844689164123877,
+        "nieuwe": 0.8844689164123877,
+        "neemt": 0.8844689164123877,
+        "overlast": 0.8844689164123877,
+        "suggestie": 0.8844689164123877,
+        "gebruik": 0.8844689164123877,
+        "maken": 0.8844689164123877
+    },
+    "svz": null,
+    "afgedaan": "13-06-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

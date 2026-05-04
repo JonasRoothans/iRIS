@@ -1,0 +1,71 @@
+{
+    "module_id": "ai_6963330",
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Randvoorwaarde weerstandsvermogen ",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/moties_en_toezeggingen/784925?parent_event=1013296",
+    "type": "Agenda",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "05-07-2022",
+    "meeting_url": "https://raadsinformatie.eindhoven.nl/vergadering/1013296#ai_6963330",
+    "attachment": null,
+    "parent": null,
+    "children": [
+        784925,
+        784927
+    ],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 795268,
+            "weight": 0.3824482818444065
+        },
+        {
+            "id": 1023028,
+            "weight": 0.19931326921308112
+        },
+        {
+            "id": 1124611,
+            "weight": 0.19800831291518994
+        },
+        {
+            "id": 777000,
+            "weight": 0.1586527390125677
+        },
+        {
+            "id": "a_9608739",
+            "weight": 0.15471982315531138
+        },
+        {
+            "id": 853720,
+            "weight": 0.132010820179581
+        },
+        {
+            "id": 1023166,
+            "weight": 0.13101600453736947
+        },
+        {
+            "id": 863560,
+            "weight": 0.12896227656349213
+        }
+    ],
+    "videostarttime": 674,
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/05.07.22 Eindhoven Meningsvormend ruw.mp4/playlist.m3u8",
+    "keywords": {
+        "Randvoorwaarde weerstandsvermogen": 1.9742913828560065,
+        "Randvoorwaarde": 1.8416830712200127
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": null,
+    "meeting_id": []
+}

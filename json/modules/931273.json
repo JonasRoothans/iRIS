@@ -1,0 +1,91 @@
+{
+    "module_id": 931273,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230013,
+    "title": "Welke materialen zijn hergebruikt - Raadsvoorstel Tijdelijke huisvesting Sint-Joriscollege en Helder havo-vwo",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/931273",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Steenbakkers (Wethouder)",
+    "result": "",
+    "date": "26-03-2024",
+    "meeting_url": {
+        "1147894": "https://raadsinformatie.eindhoven.nl/vergadering/1147894#ai_8252337"
+    },
+    "attachment": null,
+    "parent": 920714,
+    "children": [],
+    "text": "Wethouder Steenbakkers zegt toe de raad te informeren over welke materialen zijn hergebruikt, nadat het Sint-Joriscollege uit het pand is.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 920714,
+            "weight": 3.2066795391677516
+        },
+        {
+            "id": 788083,
+            "weight": 1.3241120133208608
+        },
+        {
+            "id": 999856,
+            "weight": 0.7752214036070515
+        },
+        {
+            "id": 989743,
+            "weight": 0.2631041158946293
+        },
+        {
+            "id": 776926,
+            "weight": 0.23645297498609213
+        },
+        {
+            "id": 775265,
+            "weight": 0.19488080503182031
+        },
+        {
+            "id": 791319,
+            "weight": 0.18737873770069816
+        },
+        {
+            "id": 1000404,
+            "weight": 0.18410547108364003
+        },
+        {
+            "id": 1060193,
+            "weight": 0.18368035033921523
+        }
+    ],
+    "videostarttime": {
+        "1147894": 2556
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_26.03.24_NC_Eindhoven_Raad.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Tijdelijke": 1.9939699682206338,
+        "Wethouder Steenbakkers": 0.9910386956327879,
+        "Tijdelijke huisvesting": 1.9818770709856466,
+        "Helder havo-vwo": 1.9818770709856466,
+        "havo-vwo Wethouder": 0.9818770709856466,
+        "Steenbakkers zegt": 0.9818770709856466,
+        "hergebruikt": 1.95668520119124,
+        "huisvesting Sint-Joriscollege": 1.9452048643605142,
+        "materialen": 1.9278568180887317,
+        "Tijdelijke": 1.9057571613491504,
+        "Helder": 1.9057571613491504,
+        "Wethouder": 0.9057571613491504,
+        "huisvesting": 1.811122679823941,
+        "zegt": 0.811122679823941,
+        "raad": 0.811122679823941,
+        "informeren": 0.811122679823941,
+        "pand": 0.811122679823941
+    },
+    "svz": null,
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

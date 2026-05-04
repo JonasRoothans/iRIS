@@ -1,0 +1,92 @@
+{
+    "module_id": 12867053,
+    "vote_id": null,
+    "member_id": [
+        131137
+    ],
+    "party_list": [
+        "PvdA"
+    ],
+    "poho_id": [],
+    "title": "2. Rondvraag - Ringen voor plastic flesjes bij prullenbakken in parken (PvdA)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "13-06-2023",
+    "meeting_url": {
+        "1102756": "https://raadsinformatie.eindhoven.nl/vergadering/1013497/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://api.notubiz.nl/document/12867053/1",
+    "pdf_text": " \n \n \nRondvraag   \nRingen voor plastic flesjes bij prullenbakken in parken      \n \nIn het verleden waren er bij uitgangen van parken,  prullenbakken waar  houders op \ngemonteerd waren om plastic flesjes in te stoppen. Dit voorkwam dat er in het \npark flesjes achterbleven en werd qua statiegeld gegund aan degenen die het \ngoed kunnen gebruiken.  \n \nDe vraag is waarom deze verwijderd zijn en of de wethouder een mogelijkheid ziet \nom ze daar toch weer te plaatsen?  \n \nMet dank voor de beantwoording.  \n \nEindhoven, 1 3 juni 2023.   \n \nHet lid van de raad en/of commissie,   \n \nMevr. Wil van Haalen                                   \nRaadslid gemeente Eindhoven  \n \n \n \n \n \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 856439,
+            "weight": 7.616161925608561
+        },
+        {
+            "id": 850256,
+            "weight": 0.8535939998019896
+        },
+        {
+            "id": 999856,
+            "weight": 0.4422775285583891
+        },
+        {
+            "id": 870858,
+            "weight": 0.31444291914701
+        },
+        {
+            "id": 11766401,
+            "weight": 0.28661886782795154
+        },
+        {
+            "id": 1048223,
+            "weight": 0.2792270007474557
+        },
+        {
+            "id": 1120826,
+            "weight": 0.25966819146294856
+        },
+        {
+            "id": 1133030,
+            "weight": 0.25178034800037924
+        }
+    ],
+    "videostarttime": {
+        "1102756": 9123
+    },
+    "videolink": null,
+    "keywords": {
+        "plastic flesjes": 1.9433715713237194,
+        "Rondvraag Ringen": 0.942772136167648,
+        "flesjes": 1.8940851323210175,
+        "Ringen": 1.8910288149681338,
+        "plastic": 1.8857452372253554,
+        "prullenbakken": 1.8764749708045545,
+        "parken": 1.8503333906390629,
+        "Eindhoven": 0.7860247594816094,
+        "Haalen Raadslid": 0.7495166125180126,
+        "Mevr": 0.6726808646925354,
+        "flesjes achterbleven": 0.657973596586877,
+        "PvdA": 1.6541416538090716,
+        "stoppen": 0.5677437339066209,
+        "Haalen": 0.5524407878291098,
+        "gemeente Eindhoven": 0.5495098640832532,
+        "Raadslid gemeente": 0.5189385334778962
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 131137,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1102756
+    ]
+}

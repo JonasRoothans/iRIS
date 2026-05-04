@@ -1,0 +1,151 @@
+{
+    "module_id": 802336,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230014,
+    "title": "Raadsvoorstel Water en Klimaatadaptatie Aanpak (WKA) 2023-2026",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/802336",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "R. Thijs (Wethouder)",
+    "result": "",
+    "date": "13-12-2022",
+    "meeting_url": {
+        "1044936": "https://raadsinformatie.eindhoven.nl/vergadering/1044936#ai_7179226"
+    },
+    "attachment": null,
+    "parent": 791462,
+    "children": [
+        "a_7270209"
+    ],
+    "text": "Over 2 jaar de raad te informeren via een tussenrapportage over de Water en Klimaatadaptatie Aanpak (WKA) 2023 – 2026, zowel over de uitvoering als inhoudelijk (bijv. inzichten zoals van KNMI). Hierin ook inzicht te geven in het waterneutraal bouwen & wonen en het hergebruik van drink- en regenwater bij woningen in de stad.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 791462,
+            "weight": 2.3930241081819936
+        },
+        {
+            "id": 987241,
+            "weight": 2.3079924751461154
+        },
+        {
+            "id": 803046,
+            "weight": 0.7613931911357856
+        },
+        {
+            "id": 952189,
+            "weight": 0.4936504515790337
+        },
+        {
+            "id": 952160,
+            "weight": 0.47375692971512495
+        },
+        {
+            "id": 893225,
+            "weight": 0.3308479746825559
+        },
+        {
+            "id": 833159,
+            "weight": 0.33035497192110186
+        },
+        {
+            "id": 776848,
+            "weight": 0.32867123423119304
+        },
+        {
+            "id": 929754,
+            "weight": 0.19286461506258054
+        },
+        {
+            "id": 928179,
+            "weight": 0.1702765938904644
+        },
+        {
+            "id": 883374,
+            "weight": 0.14963369550715774
+        },
+        {
+            "id": 12534630,
+            "weight": 0.14496318366629718
+        },
+        {
+            "id": 795654,
+            "weight": 0.14272072837505284
+        },
+        {
+            "id": 1138737,
+            "weight": 0.13914015330328744
+        },
+        {
+            "id": 878254,
+            "weight": 0.12329997880286485
+        },
+        {
+            "id": 881841,
+            "weight": 0.11642109720476077
+        },
+        {
+            "id": 1064220,
+            "weight": 0.10756434913334623
+        },
+        {
+            "id": 1057193,
+            "weight": 0.10450047402180299
+        },
+        {
+            "id": 1085543,
+            "weight": 0.10306422610059522
+        },
+        {
+            "id": 931189,
+            "weight": 0.09600440355254156
+        },
+        {
+            "id": 855743,
+            "weight": 0.09429076006936377
+        },
+        {
+            "id": 1000389,
+            "weight": 0.08671595979338952
+        }
+    ],
+    "videostarttime": {},
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_13.12.22_NC_Eindhoven_raad.mp4/playlist.m3u8",
+    "keywords": {
+        "Klimaatadaptatie Aanpak": 1.998823006258856,
+        "Raadsvoorstel Water": 1.9922789939161443,
+        "WKA": 1.9849043234464174,
+        "bijv. inzichten": 0.9826097784263205,
+        "Aanpak": 1.9787845300793894,
+        "informeren via": 0.9759744345652333,
+        "Water": 1.965670502993325,
+        "KNMI": 0.9427506998306243,
+        "2023-2026": 1.8884072070677136,
+        "jaar": 0.8884072070677136,
+        "zowel": 0.8884072070677136,
+        "inhoudelijk": 0.8884072070677136,
+        "bijv.": 0.8884072070677136,
+        "waterneutraal bouwen": 0.8672509629651661,
+        "raad": 0.8468272854264327,
+        "via": 0.8468272854264327,
+        "tussenrapportage": 0.8468272854264327,
+        "uitvoering": 0.8468272854264327,
+        "bouwen": 0.6962568357722099,
+        "wonen": 0.6962568357722099,
+        "drink": 0.6962568357722099,
+        "stad": 0.6962568357722099,
+        "inzicht": 0.6141742892856232,
+        "hergebruik": 0.6141742892856232,
+        "regenwater": 0.6141742892856232
+    },
+    "svz": "zie collegebrief over tussenrapportage WKA d.d. 13 november. \nVoorstel college: afvoeren\n ...  Lees verder ",
+    "afgedaan": "19-11-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

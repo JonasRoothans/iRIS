@@ -1,0 +1,66 @@
+{
+    "module_id": 984410,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 231116,
+    "title": "Vuurwerk handhaving - Raadsvoorstel Begroting 2025",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/984410",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "J. Dijsselbloem (Burgemeester)",
+    "result": "",
+    "date": "29-10-2024",
+    "meeting_url": {
+        "1148141": "https://raadsinformatie.eindhoven.nl/vergadering/1148141#ai_8729567"
+    },
+    "attachment": null,
+    "parent": 975511,
+    "children": [],
+    "text": "Burgemeester Dijsselbloem zegt toe In de begroting 2025 staat dat er een intensivering van handhaving op vuurwerk komt, geldt dit ook voor 2024.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 945569,
+            "weight": 0.312977677495846
+        },
+        {
+            "id": "a_7636233",
+            "weight": 0.13631018868353928
+        },
+        {
+            "id": 791582,
+            "weight": 0.13425990421639772
+        },
+        {
+            "id": 1121686,
+            "weight": 0.11611041650294665
+        }
+    ],
+    "videostarttime": {
+        "1148141": null
+    },
+    "videolink": null,
+    "keywords": {
+        "Burgemeester Dijsselbloem": 0.9937981617864853,
+        "Raadsvoorstel Begroting": 1.9933689409313486,
+        "Dijsselbloem zegt": 0.9811567217594865,
+        "vuurwerk komt": 0.9649506648418729,
+        "Begroting": 1.9489959647708703,
+        "Burgemeester": 0.9354229743989063,
+        "Vuurwerk handhaving": 1.9120417813139903,
+        "staat": 0.8809068919405885,
+        "komt": 0.8809068919405885,
+        "geldt": 0.8809068919405885,
+        "zegt": 0.8062276582341484,
+        "intensivering": 0.8062276582341484
+    },
+    "svz": null,
+    "afgedaan": "19-11-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

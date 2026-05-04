@@ -1,0 +1,120 @@
+{
+    "module_id": 779516,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Raadsvoorstel  ontheffen van een commissielid van de fractie SP als lid in de Meningsvormende vergadering",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/19/Raadsvoorstellen/779516",
+    "type": "Raadsvoorstel",
+    "member": null,
+    "party": null,
+    "poho": "",
+    "result": "Afgerond",
+    "date": "21-09-2022",
+    "meeting_url": {
+        "1013082": "https://raadsinformatie.eindhoven.nl/vergadering/1013082#ai_7016145"
+    },
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/11811523/1/Raadsvoorstel+ontheffing+commissielid+SP?connection_type=17&connection_id=8621032": "Raadsvoorstel ontheffing commissielid SP"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/11869412/1?connection_type=17&connection_id=8656526",
+    "pdf_text": " \n \n \n  \n   \n \n \n  gemeente Eindhoven  \nRaadsnummer   \nInboeknummer   \nDossiernummer      \n \nRaads voorstel    ontheffen  van een commissielid van de fractie  SP als lid in \nde Meningsvormende vergadering   \n \n  \nRaadsbesluit   \n \nDe raad van de gemeente Eindhoven;  \ngelet op het verzoek van de SP fractie ; \ngelet op het bepaalde in de Gemeentewet;  \ngelet op het bepaalde in de  Verordening op de meningsvormende vergadering gemeente \nEindhoven  2018 ; \n \n \n \nbesluit:  \n \nOnderstaand commissielid te ontheffen van  haar lidmaatschap van de \nMeningsvormende Vergadering:  \n \nL.D.R. Tijsen.  \n \nAldus vastgesteld in de openbare vergadering van 21 september  2022. \n \n \n \nJ. Jongbloed , griffier . \n \n \n ",
+    "bst": "",
+    "related": [
+        {
+            "id": 785553,
+            "weight": 0.9697464694879319
+        },
+        {
+            "id": 785769,
+            "weight": 0.8650873779367632
+        },
+        {
+            "id": 815434,
+            "weight": 0.23822591660358328
+        },
+        {
+            "id": 800580,
+            "weight": 0.22390459077944308
+        },
+        {
+            "id": 780932,
+            "weight": 0.22342187153152174
+        },
+        {
+            "id": 825873,
+            "weight": 0.22114526206001744
+        },
+        {
+            "id": 773075,
+            "weight": 0.20699373494579018
+        },
+        {
+            "id": 780938,
+            "weight": 0.12353068916372548
+        },
+        {
+            "id": 996073,
+            "weight": 0.12263450985659254
+        },
+        {
+            "id": 1115756,
+            "weight": 0.12206695155131439
+        },
+        {
+            "id": 1022971,
+            "weight": 0.06999500974974077
+        },
+        {
+            "id": 776934,
+            "weight": 0.05671356562086802
+        },
+        {
+            "id": 933762,
+            "weight": 0.05586902291023278
+        }
+    ],
+    "videostarttime": {
+        "1013082": 860
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_21.09.22_NC_EINDHOVEN_RAA.mp4/playlist.m3u8",
+    "keywords": {
+        "gemeente Eindhoven": 0.9983730801224003,
+        "Meningsvormende vergadering": 1.9980519435067676,
+        "Eindhoven Raadsnummer": 0.9966974283835257,
+        "Raadsnummer Inboeknummer": 0.9954730541540118,
+        "Dossiernummer Raads": 0.9941475848772887,
+        "Onderstaand commissielid": 0.9931579615329535,
+        "vergadering gemeente": 0.9899494145794314,
+        "Raads voorstel": 0.9847829400369441,
+        "Eindhoven": 0.9836552903612433,
+        "voorstel ontheffen": 0.9803948683809608,
+        "gelet": 0.9745728045868072,
+        "gemeente": 0.9669818170229407,
+        "fractie": 1.9649790380886083,
+        "commissielid": 1.9629384433201804,
+        "ontheffen": 1.9629384433201804,
+        "lid": 1.941940093616878,
+        "bepaalde": 0.9419400936168779,
+        "Onderstaand": 0.9388805750168454,
+        "Inboeknummer": 0.932869195141148,
+        "Raadsbesluit": 0.932869195141148,
+        "Verordening": 0.932869195141148,
+        "Raads": 1.913327962392688,
+        "verzoek": 0.8270610419118475,
+        "lidmaatschap": 0.8270610419118475,
+        "Jongbloed": 0.7124135618514948,
+        "Tijsen": 0.6520820128669793,
+        "september": 0.5626363274835211,
+        "griffier": 0.5121270566623702
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": "10-04-2026",
+    "meeting_id": []
+}

@@ -1,0 +1,103 @@
+{
+    "module_id": 822553,
+    "vote_id": null,
+    "member_id": [
+        133674
+    ],
+    "party_list": [
+        "VVD"
+    ],
+    "poho_id": [],
+    "title": "Motie van treurnis (Vrije motie VM3)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/822553",
+    "type": "Vrije motie",
+    "member": "Lex Janssen",
+    "party": null,
+    "poho": "",
+    "result": "",
+    "date": "14-02-2023",
+    "meeting_url": {
+        "1013452": "https://raadsinformatie.eindhoven.nl/vergadering/1013452#ai_6964789"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": "",
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/12431926/1/Motie+van+treurnis+%28Vrije+motie+VM3%29?connection_type=17&connection_id=9104371",
+    "pdf_text": "Motie \nMotie van treurnis                   VM3  \nDe indieners nemen mee dat: \n-Er in de raad van 14 februari een debat is gevoerd over de motie: ‘Enkel eerlijke antwoorden\nzijn verbinden’\nBetreurt he t optreden van Wethouder Toub \n14 februari 2023 \nLex Janssen (VVD) – Eerste indiener \nDeze vrije motie is ingetrokkken in de vergadering van 14 februari 2023. \nJ. Jongbloed, griffier .",
+    "bst": null,
+    "related": [
+        {
+            "id": 970845,
+            "weight": 1.2625731622759648
+        },
+        {
+            "id": "ai_8654291",
+            "weight": 1.2390287945272613
+        },
+        {
+            "id": 821692,
+            "weight": 1.0858588948392272
+        },
+        {
+            "id": 896950,
+            "weight": 0.2066118030126266
+        },
+        {
+            "id": "a_7346845",
+            "weight": 0.13236459765449476
+        },
+        {
+            "id": "a_7345193",
+            "weight": 0.13225930730790927
+        },
+        {
+            "id": "a_7345195",
+            "weight": 0.12996350282487798
+        },
+        {
+            "id": "a_7151310",
+            "weight": 0.12946305907030103
+        },
+        {
+            "id": 925715,
+            "weight": 0.11365147843201384
+        }
+    ],
+    "videostarttime": {
+        "1013452": 12656
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_14.02.23_NC_Eindhoven_Raadsvergadering .mp4/playlist.m3u8",
+    "keywords": {
+        "Vrije motie": 1.9792009949777576,
+        "nemen mee": 0.9641956318145795,
+        "eerlijke antwoorden": 0.9641956318145795,
+        "Lex Janssen": 0.9626611926261407,
+        "Motie": 1.962493201131096,
+        "Wethouder Toub": 0.9565568961157072,
+        "treurnis": 1.9491562748818185,
+        "indieners nemen": 0.9410355349978962,
+        "februari": 0.9286854129550501,
+        "Vrije": 1.91126781656773,
+        "verbinden’": 0.8511686358238562,
+        "VVD": 0.8413412967892427,
+        "mee": 0.8140787039692177,
+        "raad": 0.8140787039692177,
+        "debat": 0.8140787039692177,
+        "gevoerd": 0.8140787039692177,
+        "eerlijke": 0.8140787039692177,
+        "Toub": 0.8102770327311561,
+        "Lex": 0.8102770327311561,
+        "Jongbloed": 0.74563692662831,
+        "Betreurt": 0.6221675940211543,
+        "griffier": 0.6060467756562746,
+        "optreden": 0.55766625260623,
+        "ingetrokkken": 0.55766625260623,
+        "vergadering": 0.55766625260623
+    },
+    "svz": null,
+    "afgedaan": "14-02-2023",
+    "eersteIndiener": 133674,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

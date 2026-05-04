@@ -1,0 +1,116 @@
+{
+    "module_id": 1045729,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230013,
+    "title": "Toekomstfonds bedrijventerreinen - Raadsvoorstel Kadernota 2026",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1045729",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Steenbakkers (Wethouder)",
+    "result": "",
+    "date": "13-05-2025",
+    "meeting_url": {
+        "1256605": "https://raadsinformatie.eindhoven.nl/vergadering/1256605#ai_9262973"
+    },
+    "attachment": null,
+    "parent": 1034468,
+    "children": [],
+    "text": "Wethouder Steenbakkers zegt toe op zoek te gaan naar extra middelen en het resultaat terug te koppelen aan de raad.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1148967,
+            "weight": 1.2540628709577593
+        },
+        {
+            "id": 1021303,
+            "weight": 0.7300551961362026
+        },
+        {
+            "id": "a_9477764",
+            "weight": 0.6194995106436442
+        },
+        {
+            "id": 1043848,
+            "weight": 0.4975572934893468
+        },
+        {
+            "id": 1148686,
+            "weight": 0.49748125064515264
+        },
+        {
+            "id": 1061943,
+            "weight": 0.49706832096912457
+        },
+        {
+            "id": 1061947,
+            "weight": 0.49697196597289606
+        },
+        {
+            "id": 949456,
+            "weight": 0.4696911441397855
+        },
+        {
+            "id": 984905,
+            "weight": 0.37054856095357513
+        },
+        {
+            "id": 913892,
+            "weight": 0.27518171647943246
+        },
+        {
+            "id": 1063256,
+            "weight": 0.13412489725929413
+        },
+        {
+            "id": 1059754,
+            "weight": 0.13341833342617765
+        },
+        {
+            "id": 1009004,
+            "weight": 0.13178048620772082
+        },
+        {
+            "id": 899726,
+            "weight": 0.1113777474458398
+        },
+        {
+            "id": 1113832,
+            "weight": 0.07801047897384397
+        }
+    ],
+    "videostarttime": {
+        "1256605": 13274
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_13.05.25_NC_01-EINDHOVEN-RAA.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Kadernota": 1.9967389880162214,
+        "Wethouder Steenbakkers": 0.9950748962302097,
+        "Toekomstfonds bedrijventerreinen": 1.990760667672852,
+        "Steenbakkers zegt": 0.986202801796007,
+        "extra middelen": 0.9742913828560066,
+        "resultaat terug": 0.9742913828560066,
+        "Kadernota": 1.9429876123096683,
+        "Wethouder": 0.9429876123096684,
+        "Toekomstfonds": 1.9043195497355658,
+        "raad": 0.9043195497355658,
+        "zegt": 0.8416830712200127,
+        "zoek": 0.8416830712200127,
+        "gaan": 0.8416830712200127,
+        "extra": 0.8416830712200127,
+        "terug": 0.8416830712200127,
+        "koppelen": 0.8416830712200127
+    },
+    "svz": null,
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": [
+        1256605
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "module_id": 1045781,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230019,
+    "title": "Erfgoed - Raadsvoorstel Kadernota 2026",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1045781",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. van Lanschot (Wethouder)",
+    "result": "",
+    "date": "13-05-2025",
+    "meeting_url": {
+        "1256605": "https://raadsinformatie.eindhoven.nl/vergadering/1256605#ai_9262973"
+    },
+    "attachment": null,
+    "parent": 1034468,
+    "children": [],
+    "text": "Wethouder van Lanschot zegt toe om in te zetten op het aanlichten van één extra kerk of ander monument.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1131306,
+            "weight": 0.3504202559729662
+        }
+    ],
+    "videostarttime": {
+        "1256605": 13274
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_13.05.25_NC_01-EINDHOVEN-RAA.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Kadernota": 1.9967389880162214,
+        "Lanschot zegt": 0.986202801796007,
+        "één extra": 0.9742913828560066,
+        "extra kerk": 0.9742913828560066,
+        "Erfgoed": 1.9550880231213545,
+        "Kadernota": 1.9429876123096683,
+        "Wethouder": 0.9429876123096684,
+        "monument": 0.9043195497355658,
+        "zegt": 0.8416830712200127,
+        "zetten": 0.8416830712200127,
+        "aanlichten": 0.8416830712200127,
+        "één": 0.8416830712200127,
+        "kerk": 0.8416830712200127
+    },
+    "svz": null,
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": [
+        1256605
+    ]
+}

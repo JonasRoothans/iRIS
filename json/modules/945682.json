@@ -1,0 +1,175 @@
+{
+    "module_id": 945682,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230022,
+    "title": "Jongerenwerk - Raadsvoorstel Kadernota 2025",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/945682",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Toub (Wethouder)",
+    "result": "",
+    "date": "21-05-2024",
+    "meeting_url": {
+        "1147935": "https://raadsinformatie.eindhoven.nl/vergadering/1147935#ai_8359842"
+    },
+    "attachment": null,
+    "parent": 933747,
+    "children": [],
+    "text": "VOORSTEL COLLEGE: AFVOEREN. De raad is op 9 oktober geïnformeerd middels een collegebrief: 24bst01196 Collegebrief aan de leden van de raad over Uitbreiding jongerenwerk\nWethouder Toub zegt toe de raad schriftelijk te informeren waarvoor de exra middelen worden ingezet.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1000509,
+            "weight": 1.2650526041519319
+        },
+        {
+            "id": 977648,
+            "weight": 1.257125872670959
+        },
+        {
+            "id": 955443,
+            "weight": 0.6287685798178901
+        },
+        {
+            "id": 879558,
+            "weight": 0.48968996856784264
+        },
+        {
+            "id": 1141642,
+            "weight": 0.25316964603634345
+        },
+        {
+            "id": 850886,
+            "weight": 0.2360020723774418
+        },
+        {
+            "id": 850889,
+            "weight": 0.2306448155333505
+        },
+        {
+            "id": 1000421,
+            "weight": 0.21889393147401073
+        },
+        {
+            "id": 1094248,
+            "weight": 0.13002587432731677
+        },
+        {
+            "id": 982996,
+            "weight": 0.10796125935529333
+        },
+        {
+            "id": 1020988,
+            "weight": 0.10491947398616325
+        },
+        {
+            "id": 891776,
+            "weight": 0.08698752361907695
+        },
+        {
+            "id": 891771,
+            "weight": 0.08618208959529734
+        },
+        {
+            "id": 984494,
+            "weight": 0.08575834706408338
+        },
+        {
+            "id": 984496,
+            "weight": 0.08575834706408338
+        },
+        {
+            "id": 984484,
+            "weight": 0.08367266388657138
+        },
+        {
+            "id": 984479,
+            "weight": 0.08367266388657138
+        },
+        {
+            "id": 1045784,
+            "weight": 0.07948283885083501
+        },
+        {
+            "id": 1148165,
+            "weight": 0.07554719486297962
+        },
+        {
+            "id": 885377,
+            "weight": 0.04849086158366971
+        },
+        {
+            "id": 985340,
+            "weight": 0.046952444697622844
+        },
+        {
+            "id": 920920,
+            "weight": 0.04502245257874674
+        },
+        {
+            "id": 926529,
+            "weight": 0.04496086949103131
+        },
+        {
+            "id": 817437,
+            "weight": 0.044744639175515535
+        },
+        {
+            "id": 791741,
+            "weight": 0.04271151698542654
+        },
+        {
+            "id": 950248,
+            "weight": 0.037636055273663885
+        },
+        {
+            "id": 834767,
+            "weight": 0.03411308681911466
+        },
+        {
+            "id": 13775904,
+            "weight": 0.030412630181560495
+        }
+    ],
+    "videostarttime": {
+        "1147935": 11473
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_21.05.24_NC_Eindhoven_Raad.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Kadernota": 1.9964569291458862,
+        "VOORSTEL COLLEGE": 0.9964569291458861,
+        "Uitbreiding jongerenwerk": 0.9575922269769161,
+        "AFVOEREN": 0.9538496033678481,
+        "Kadernota": 1.9405814690233871,
+        "VOORSTEL": 0.940581469023387,
+        "COLLEGE": 0.940581469023387,
+        "Jongerenwerk": 1.905188639270815,
+        "raad": 0.8846162674866419,
+        "Wethouder Toub": 0.8639632191769308,
+        "oktober geïnformeerd": 0.8446964885361696,
+        "Toub zegt": 0.8351839583720214,
+        "geïnformeerd middels": 0.8047568908099711,
+        "raad schriftelijk": 0.7921912655269996,
+        "Uitbreiding": 0.7854554679973224,
+        "Toub": 0.7153295792178125,
+        "informeren waarvoor": 0.6718757853493644,
+        "exra middelen": 0.6718757853493644,
+        "oktober": 0.6673975463086219,
+        "middels": 0.595834039976475,
+        "leden": 0.595834039976475,
+        "ingezet": 0.5793493053663271,
+        "zegt": 0.5029503261256872,
+        "waarvoor": 0.5029503261256872,
+        "exra": 0.5029503261256872
+    },
+    "svz": null,
+    "afgedaan": "19-11-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

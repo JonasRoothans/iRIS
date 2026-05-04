@@ -1,0 +1,109 @@
+{
+    "module_id": 1016897,
+    "vote_id": null,
+    "member_id": [
+        131155
+    ],
+    "party_list": [
+        "50PLUS"
+    ],
+    "poho_id": [],
+    "title": "Beantwoording raadsvragen - Zondagsmis niet missen (50PLUS)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/4/Raadsvragen/1016897",
+    "type": "Raadsvraag",
+    "member": "Ruud van Acquoij",
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "07-02-2025",
+    "meeting_url": null,
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/15135987/1?connection_type=17&connection_id=11513298": "Vraag",
+        "https://raadsinformatie.eindhoven.nl/document/15173348/1?connection_type=17&connection_id=11560851": "Antwoord"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": " \n \n \nRaadsvragen - Zondagsmis niet missen  \n \ndatum:  5-2-2025  \n \n \nGeacht college,  \n \n \nInleiding  \nHet is binnenkort weer Carnaval. Traditioneel op zondagochtend is de \nCarn avalsmis. “De Carnavalsmis  brengt samen en laat grenzen \nvervagen ”, “indrukwekkend ”, “Ameezing ” en zo nog vele kreten staan in \nde media. Jaarlijks komen er steeds meer mensen naar de \nCarnavalsmis  in de Catharinakerk. Zoveel dat ook jaarlijks steeds meer \nmensen teleurgesteld zijn dat de kerk vol is en zij niet binnen kunnen. \nAfgelopen jaar was dat zelfs enorm veel.  \nDe mis wordt wel  live op internet via Studio040  uitgezonden. Kan dat \nniet anders?  \n \nRaadsvragen  \n1. Bent u het met 50PLUS eens dat het ieder jaar opnieuw jammer \nis om mensen teleur te stellen dat de kerk vol is?  \n2. Op het stadhuisplein vlak bij de kerk staat een grote tent  (tijdens \ncarnaval)  met een megascherm. Kan deze niet als extra locatie \ningezet worden om de mensen die niet in de kerk kunnen toch te \nbetrekken bij deze prachtige traditie van Eindhoven?  \n \n \nNamens de fractie(s),  \n \nRuud van Acquoij (50PLUS) , raadslid  \n \n",
+    "bst": "7876051_1.5.2.",
+    "related": [
+        {
+            "id": 925613,
+            "weight": 0.9446788481050922
+        },
+        {
+            "id": 945911,
+            "weight": 0.41849151608319524
+        },
+        {
+            "id": 1015796,
+            "weight": 0.25304343456882084
+        },
+        {
+            "id": 791871,
+            "weight": 0.24393055827401
+        },
+        {
+            "id": 863586,
+            "weight": 0.10113839551174293
+        },
+        {
+            "id": 781122,
+            "weight": 0.10057000506513157
+        },
+        {
+            "id": 1046515,
+            "weight": 0.0870636247567476
+        },
+        {
+            "id": 976632,
+            "weight": 0.08230581603581107
+        },
+        {
+            "id": 920655,
+            "weight": 0.07598522756410625
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Geacht college": 0.9903041532817201,
+        "missen datum": 0.9815693548539798,
+        "Zondagsmis": 1.97800143467926,
+        "Beantwoording raadsvragen": 1.9491787627596167,
+        "missen": 1.941944882860678,
+        "Geacht": 0.9383892360227086,
+        "Inleiding": 0.9383892360227086,
+        "Carn avalsmis": 0.9146549697131144,
+        "kerk": 0.898029174990112,
+        "raadsvragen": 1.896567609884197,
+        "datum": 0.8441385984682588,
+        "college": 0.8441385984682588,
+        "binnenkort": 0.823629455772246,
+        "Carn": 0.7987427958904386,
+        "Ameezing": 0.7705112184884829,
+        "Jaarlijks": 0.7587753555870163,
+        "jaar": 0.7231970509693945,
+        "Catharinakerk": 0.7106627040275377,
+        "grenzen vervagen": 0.664547560529063,
+        "brengt samen": 0.6292901497480106,
+        "laat grenzen": 0.6292901497480106,
+        "vele kreten": 0.6292901497480106,
+        "kreten staan": 0.6292901497480106,
+        "mensen teleurgesteld": 0.616929614634115,
+        "Traditioneel": 0.6092859940009485,
+        "Eindhoven": 0.5961384664350473,
+        "Ruud": 0.5898038696936105,
+        "Acquoij": 0.5898038696936105,
+        "zondagochtend": 0.5734878694041308,
+        "indrukwekkend": 0.5567697002074588,
+        "vervagen": 0.5169876529172577,
+        "media": 0.5169876529172577
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 131155,
+    "lastScrapeDate": "02-04-2026",
+    "meeting_id": []
+}

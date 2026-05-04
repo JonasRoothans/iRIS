@@ -1,0 +1,98 @@
+{
+    "module_id": 966938,
+    "vote_id": null,
+    "member_id": [
+        194500
+    ],
+    "party_list": [
+        "FVD"
+    ],
+    "poho_id": [],
+    "title": "Beantwoording raadsvragen - Angstcultuur onder ambtenaren (FvD)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/4/Raadsvragen/966938",
+    "type": "Raadsvraag",
+    "member": "Nicolas Knoester",
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "23-08-2024",
+    "meeting_url": null,
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/14450848/1?connection_type=17&connection_id=10890168": "Vraag",
+        "https://raadsinformatie.eindhoven.nl/document/14583400/2?connection_type=17&connection_id=10996861": "Antwoord"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": " \n \n \nRaadsvragen - Angstcultuur onder ambtenaren  \n \ndatum:  20 augustus  2024  \n \n \nGeacht college,  \n \nZie onderstaand artikel:  \nhttps://www.binnenlandsbestuur.nl/carriere/verziekte -werksfeer -kostte -\ngemeente -enschede -17-miljoen   \n \nRaadsvragen:  \nFVD wil graag weten of er in Eindhoven vergelijkbare of andere \nproblemen spelen inzake een angstcultuur onder onze ambtenaren.  \n1. Zo ja, wat speelt er en hoe wordt het opgelost?  \n2. Zo nee, hoe weet het college dat? Oftewel hoe en wanneer wordt \nhet onderzocht?  \n3. Graag ontvangt F vD het meest recente onderzoeksrapport.  \n \n \nNamens de fractie , \nForum voor Democratie  \n \nNicolas Knoester , raadslid  \n",
+    "bst": "",
+    "related": [
+        {
+            "id": 880460,
+            "weight": 0.44083933691584143
+        },
+        {
+            "id": 15548500,
+            "weight": 0.28628725514852094
+        },
+        {
+            "id": 904290,
+            "weight": 0.16861220737537974
+        },
+        {
+            "id": 945779,
+            "weight": 0.14688287008873008
+        },
+        {
+            "id": 890164,
+            "weight": 0.12464792350706444
+        },
+        {
+            "id": 1014907,
+            "weight": 0.10425988201973166
+        },
+        {
+            "id": 1117280,
+            "weight": 0.09708525976995132
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Beantwoording raadsvragen": 1.9871148880212097,
+        "Eindhoven vergelijkbare": 0.980060928236485,
+        "raadsvragen": 1.9747674234851684,
+        "Angstcultuur": 1.9696471453425202,
+        "Geacht college": 0.9661658092711136,
+        "ambtenaren datum": 0.9643628246444373,
+        "onderstaand artikel": 0.960641655122152,
+        "FvD": 1.9556530637274685,
+        "problemen spelen": 0.9465086314699395,
+        "Geacht": 0.930828538901247,
+        "Eindhoven": 0.9132430364077815,
+        "graag weten": 0.8956571889856092,
+        "augustus": 0.8855204671726524,
+        "werksfeer": 0.8855204671726524,
+        "kostte": 0.8855204671726524,
+        "gemeente": 0.8855204671726524,
+        "enschede": 0.8855204671726524,
+        "datum": 0.8319474309778226,
+        "artikel": 0.8319474309778226,
+        "Nicolas Knoester": 0.8154516399050447,
+        "graag": 0.7903464286609317,
+        "Democratie Nicolas": 0.7794021288403348,
+        "weten": 0.7746661880423628,
+        "spelen": 0.7746661880423628,
+        "college": 0.7634363800551436,
+        "Forum": 0.6335261082872568,
+        "Knoester": 0.6335261082872568,
+        "opgelost": 0.5876974371162735,
+        "Nicolas": 0.5748772421376257
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194500,
+    "lastScrapeDate": "02-04-2026",
+    "meeting_id": []
+}

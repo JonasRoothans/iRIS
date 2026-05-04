@@ -1,0 +1,216 @@
+{
+    "module_id": 16211434,
+    "vote_id": null,
+    "member_id": [
+        131137,
+        196818
+    ],
+    "party_list": [
+        "PvdA"
+    ],
+    "poho_id": [],
+    "title": "Rondvraag 3- Prinsenvlag in het straatbeeld (PvdA)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "11-11-2025",
+    "meeting_url": {
+        "1256665": "https://raadsinformatie.eindhoven.nl/vergadering/1256664/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://api.notubiz.nl/document/16211434/1",
+    "pdf_text": "Partij van de Arbeid Rondvraag - Prinsenvlag in het straatbeeld Op tientallen plekken in onze stad zijn objecten de afgelopen weken bespoten in de kleuren van de Prinsenvlag. Deze vlag wordt door extreem-rechtse groeperingen gebruikt omdat hij een associatie oproept met de NSB in het interbellum en tijdens de Tweede Wereldoorlog. Veel bespoten objecten in de openbare ruimte zijn geen gemeentelijk eigendom: ze zijn bijvoorbeeld eigendom van Enexis. Dit brengt ons tot de volgende vragen: - Is het college het met de PvdA eens dat deze uitingen geen plaats hebben in het straatbeeld? - Welke mogelijkheden ziet het college om de uitingen te verwijderen, of te laten verwijderen? - Wanneer zijn de uitingen verwijderd uit het straatbeeld? Eindhoven, 11 november 2025 Wil van Haalen, raadslid voor de PvdA Rob van Vliet, commissielid voor de PvdA ",
+    "bst": null,
+    "related": [
+        {
+            "id": 1015020,
+            "weight": 0.522158808913732
+        },
+        {
+            "id": 1014984,
+            "weight": 0.512564520425767
+        },
+        {
+            "id": 1015903,
+            "weight": 0.5124489167132248
+        },
+        {
+            "id": 982310,
+            "weight": 0.49687759273389814
+        },
+        {
+            "id": 775126,
+            "weight": 0.46904208259018365
+        },
+        {
+            "id": 866658,
+            "weight": 0.37110985264277274
+        },
+        {
+            "id": 1125036,
+            "weight": 0.2798913492908584
+        },
+        {
+            "id": 1047759,
+            "weight": 0.2693541495921473
+        },
+        {
+            "id": 946355,
+            "weight": 0.25084569045287347
+        },
+        {
+            "id": 920203,
+            "weight": 0.23467926975699827
+        },
+        {
+            "id": 975164,
+            "weight": 0.23186558807072566
+        },
+        {
+            "id": 781545,
+            "weight": 0.22813795806381917
+        },
+        {
+            "id": 832232,
+            "weight": 0.20244229689806195
+        },
+        {
+            "id": 800580,
+            "weight": 0.18840412203041268
+        },
+        {
+            "id": 1133414,
+            "weight": 0.17997617151306347
+        },
+        {
+            "id": 875659,
+            "weight": 0.17991416169090602
+        },
+        {
+            "id": 1042043,
+            "weight": 0.09812516185008568
+        },
+        {
+            "id": 879839,
+            "weight": 0.09561037102282414
+        },
+        {
+            "id": 1061333,
+            "weight": 0.07969834285582245
+        },
+        {
+            "id": 776848,
+            "weight": 0.07721877791631458
+        },
+        {
+            "id": 994375,
+            "weight": 0.07648733259404353
+        },
+        {
+            "id": 798909,
+            "weight": 0.07580184794527367
+        },
+        {
+            "id": 922219,
+            "weight": 0.07040389838162332
+        },
+        {
+            "id": 800316,
+            "weight": 0.06893100364720542
+        },
+        {
+            "id": 803277,
+            "weight": 0.06883138336948881
+        },
+        {
+            "id": 798673,
+            "weight": 0.06801904637439875
+        },
+        {
+            "id": 1140939,
+            "weight": 0.06780254261179283
+        },
+        {
+            "id": 906504,
+            "weight": 0.06500040363633566
+        },
+        {
+            "id": 884007,
+            "weight": 0.06256383465331479
+        },
+        {
+            "id": 845573,
+            "weight": 0.06236982219452133
+        },
+        {
+            "id": 1000410,
+            "weight": 0.060182722181755986
+        },
+        {
+            "id": 970349,
+            "weight": 0.05430101939969972
+        },
+        {
+            "id": 829344,
+            "weight": 0.05315002335771153
+        },
+        {
+            "id": 946826,
+            "weight": 0.0445040376664038
+        }
+    ],
+    "videostarttime": {
+        "1256665": 1313
+    },
+    "videolink": null,
+    "keywords": {
+        "Arbeid Rondvraag": 0.9956506737127871,
+        "Prinsenvlag": 1.984527557864335,
+        "tientallen plekken": 0.9710169862884542,
+        "Tweede Wereldoorlog": 0.9627600910495813,
+        "weken bespoten": 0.9450677894572524,
+        "Partij": 0.9396334985444014,
+        "Arbeid": 0.9340960883365582,
+        "straatbeeld": 1.9191818721815763,
+        "PvdA": 1.9171619015371277,
+        "bespoten objecten": 0.8934805917757362,
+        "uitingen": 0.8644618766285236,
+        "PvdA Rob": 0.8597152016445612,
+        "objecten": 0.844866761429275,
+        "plekken": 0.832170744367374,
+        "stad": 0.832170744367374,
+        "NSB": 0.8031886397515466,
+        "Tweede": 0.8031886397515466,
+        "extreem-rechtse groeperingen": 0.7956533454021182,
+        "groeperingen gebruikt": 0.7956533454021182,
+        "associatie oproept": 0.7956533454021182,
+        "eigendom": 0.7872598473331314,
+        "college": 0.7833223295384923,
+        "verwijderen": 0.7767638360916056,
+        "Enexis": 0.7546711994986062,
+        "gemeentelijk eigendom": 0.7262809586554906,
+        "uitingen verwijderd": 0.6695165504488416,
+        "openbare ruimte": 0.6575449589473576,
+        "Haalen": 0.6503056549052033,
+        "Vliet": 0.6503056549052033,
+        "Rob": 0.6287152041752395,
+        "volgende vragen": 0.5920867771834168,
+        "vlag": 1.5880846172074514,
+        "gebruikt": 0.5880846172074514,
+        "oproept": 0.5880846172074514,
+        "interbellum": 0.5880846172074514
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 131137,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1256665
+    ]
+}

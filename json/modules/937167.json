@@ -1,0 +1,60 @@
+{
+    "module_id": 937167,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230014,
+    "title": "RIB en nadere toelichting i.v.m. Technische vragen - Raadsvoorstel Verordening bomen 2024",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/937167",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "R. Thijs (Wethouder)",
+    "result": "",
+    "date": "16-04-2024",
+    "meeting_url": {
+        "1147924": "https://raadsinformatie.eindhoven.nl/vergadering/1147924#ai_8309630"
+    },
+    "attachment": null,
+    "parent": 924181,
+    "children": [],
+    "text": "Wethouder Thijs zegt toe dat er een RIB komt met een nadere toelichting over een aantal technische vragen die tijdens de meningsvorming zijn gesteld.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 777029,
+            "weight": 0.1957847776716267
+        }
+    ],
+    "videostarttime": {
+        "1147924": 5235
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_16.04.24_NC_EINDHOVEN_Meningsvorming_CIE.mp4/playlist.m3u8",
+    "keywords": {
+        "nadere toelichting": 1.9519549656222832,
+        "Raadsvoorstel Verordening": 1.9491288399558884,
+        "Wethouder Thijs": 0.9491288399558884,
+        "Verordening bomen": 1.9041399045201186,
+        "RIB": 1.8998623277354911,
+        "RIB komt": 0.8988858285640161,
+        "Technische vragen": 1.8779431155560269,
+        "Thijs zegt": 0.8711810384166024,
+        "nadere": 1.8519575938880863,
+        "vragen": 1.7785191946655141,
+        "Thijs": 0.7511123711851877,
+        "aantal technische": 0.7451312553384006,
+        "bomen": 1.6485371436693197,
+        "gesteld": 0.6485371436693196,
+        "zegt": 0.5414864358727346,
+        "komt": 0.5414864358727346,
+        "aantal": 0.5414864358727346,
+        "meningsvorming": 0.5414864358727346
+    },
+    "svz": null,
+    "afgedaan": "14-05-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

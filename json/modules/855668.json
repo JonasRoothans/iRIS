@@ -1,0 +1,87 @@
+{
+    "module_id": 855668,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230022,
+    "title": "Raadsinformatiebrief  - Commissienotitie 2.0 Inbreng gemeente Eindhoven Sociale Brainport Agenda",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/855668",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Esselbrugge (Wethouder)",
+    "result": "",
+    "date": "13-06-2023",
+    "meeting_url": {
+        "1102756": "https://raadsinformatie.eindhoven.nl/vergadering/1102756#ai_7612209"
+    },
+    "attachment": null,
+    "parent": 837790,
+    "children": [],
+    "text": "De stadsgezant Van Kessel zegt ter aanvulling hierop toe (o.v.v. wethouder Esselbrugge):\n\nde raad te informeren via een raadsinformatiebrief welke inbreng de stadsgezant meeneemt vanuit de meningsvormende vergadering van 13 juni 2023 naar het overleg met de partners binnen Brainport voor Elkaar over de op te stellen Sociale Brainport Agenda.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 837790,
+            "weight": 0.6506810750373432
+        },
+        {
+            "id": 988042,
+            "weight": 0.29509112816370736
+        },
+        {
+            "id": 915841,
+            "weight": 0.26940195650356563
+        },
+        {
+            "id": 1139975,
+            "weight": 0.25330827566836295
+        },
+        {
+            "id": 1020447,
+            "weight": 0.16692372356233853
+        }
+    ],
+    "videostarttime": {
+        "1102756": 10522
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_13.06.23_NC_Eindhoven_Raad.mp4/playlist.m3u8",
+    "keywords": {
+        "Sociale Brainport": 1.9987428877503206,
+        "Brainport Agenda": 1.9987428877503206,
+        "Eindhoven Sociale": 1.9971945072996071,
+        "wethouder Esselbrugge": 0.9966152538515896,
+        "gemeente Eindhoven": 1.9947247644403503,
+        "Kessel zegt": 0.9947247644403502,
+        "Inbreng gemeente": 1.992505140716022,
+        "stadsgezant meeneemt": 0.9912456119178586,
+        "aanvulling hierop": 0.9906345884519238,
+        "informeren via": 0.9906345884519238,
+        "meningsvormende vergadering": 0.9906345884519238,
+        "Sociale": 1.9743229696706193,
+        "Agenda": 1.9743229696706193,
+        "Commissienotitie": 1.9646782130204188,
+        "Inbreng": 1.9613854102776254,
+        "Raadsinformatiebrief": 1.9455367403186972,
+        "Elkaar": 0.9455224398055533,
+        "juni": 0.9434333168568868,
+        "wethouder": 0.9245477122087307,
+        "gemeente": 1.9036749542342477,
+        "zegt": 0.9036749542342477,
+        "hierop": 0.9036749542342477,
+        "raad": 0.9036749542342477,
+        "via": 0.9036749542342477,
+        "meeneemt": 0.9036749542342477,
+        "vergadering": 0.9036749542342477,
+        "overleg": 0.9036749542342477,
+        "partners": 0.9036749542342477,
+        "stellen": 0.9036749542342477
+    },
+    "svz": "Uw raad is op 31 jan/1 feb met een raadsinformatiebrief geïnformeerd.\nVOORSTEL COLLEGE : AFVOEREN...  Lees verder ",
+    "afgedaan": "06-02-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

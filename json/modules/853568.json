@@ -1,0 +1,110 @@
+{
+    "module_id": 853568,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230014,
+    "title": "Gesprek Stg. Mendoo en stg. Roze - Initiatiefvoorstel Blijf van mijn Dier",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/853568",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "R. Thijs (Wethouder)",
+    "result": "",
+    "date": "06-06-2023",
+    "meeting_url": {
+        "1102753": "https://raadsinformatie.eindhoven.nl/vergadering/1102753#ai_7611996"
+    },
+    "attachment": null,
+    "parent": 845128,
+    "children": [],
+    "text": "Wethouder Thijs zegt toe: In gesprek te gaan met stichting Mendoo en stichting Roze om te kijken hoe er invulling kan worden gegeven aan het initiatiefvoorstel.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 853569,
+            "weight": 1.3932796894443866
+        },
+        {
+            "id": 845128,
+            "weight": 1.3854279301345462
+        },
+        {
+            "id": 850988,
+            "weight": 1.3414159937447407
+        },
+        {
+            "id": 16034520,
+            "weight": 0.6318314331824924
+        },
+        {
+            "id": 831310,
+            "weight": 0.39586238449348193
+        },
+        {
+            "id": 863931,
+            "weight": 0.3130569577857278
+        },
+        {
+            "id": 1076225,
+            "weight": 0.30926357859582504
+        },
+        {
+            "id": 979961,
+            "weight": 0.2987503273623854
+        },
+        {
+            "id": 1032681,
+            "weight": 0.2831685256709949
+        },
+        {
+            "id": 1085541,
+            "weight": 0.2774518891355035
+        },
+        {
+            "id": 975678,
+            "weight": 0.24728921170427565
+        },
+        {
+            "id": 983741,
+            "weight": 0.19309439434638334
+        },
+        {
+            "id": 825108,
+            "weight": 0.1738735890191149
+        },
+        {
+            "id": 14454748,
+            "weight": 0.1642649470741954
+        },
+        {
+            "id": 850152,
+            "weight": 0.10990759133629513
+        }
+    ],
+    "videostarttime": {
+        "1102753": 8465
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_06.06.23_NC_Eindhoven_CIE.mp4/playlist.m3u8",
+    "keywords": {
+        "Stg": 1.8810529785179684,
+        "Gesprek Stg": 1.8228102809795441,
+        "Dier Wethouder": 0.8093258411070134,
+        "Wethouder Thijs": 0.8093258411070134,
+        "Mendoo": 1.7775493277252514,
+        "Roze": 1.7116993419925275,
+        "Initiatiefvoorstel": 1.7116993419925275,
+        "stichting": 0.6213853427771718,
+        "Thijs zegt": 0.6181763013535007,
+        "Blijf": 1.5998254589684668,
+        "Dier": 1.5998254589684668,
+        "Thijs": 0.5998254589684668
+    },
+    "svz": "Opdracht is verstrekt. Taakuitvoering start per 1 maart 2024.\nVoorstel college: afvoeren...  Lees verder ",
+    "afgedaan": "26-03-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

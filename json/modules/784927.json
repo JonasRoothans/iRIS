@@ -1,0 +1,50 @@
+{
+    "module_id": 784927,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230019,
+    "title": "Financiële consequenties schaalsprong in kaart brengen",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/784927",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. van Lanschot (Wethouder)",
+    "result": "",
+    "date": "05-07-2022",
+    "meeting_url": {
+        "1013296": "https://raadsinformatie.eindhoven.nl/vergadering/1013296#ai_6963330"
+    },
+    "attachment": null,
+    "parent": "ai_6963330",
+    "children": [],
+    "text": "De raad te informeren over de financiële consequenties van de schaalsprong.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": "a_9418456",
+            "weight": 0.5761361178670857
+        }
+    ],
+    "videostarttime": {
+        "1013296": 674
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/05.07.22 Eindhoven Meningsvormend ruw.mp4/playlist.m3u8",
+    "keywords": {
+        "Financiële consequenties": 1.9875761736109085,
+        "kaart brengen": 1.9780143767070424,
+        "consequenties schaalsprong": 1.9677486916428117,
+        "Financiële": 1.9221456230071197,
+        "schaalsprong": 1.89967275871805,
+        "kaart": 1.85332807295846,
+        "raad": 0.85332807295846,
+        "informeren": 0.85332807295846
+    },
+    "svz": null,
+    "afgedaan": "16-05-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

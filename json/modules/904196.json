@@ -1,0 +1,138 @@
+{
+    "module_id": 904196,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 231116,
+    "title": "Europees Hof voor Rechten van de Mens - Raadsvoorstel Dertiende wijziging APV Eindhoven",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/904196",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "J. Dijsselbloem (Burgemeester)",
+    "result": "",
+    "date": "12-12-2023",
+    "meeting_url": {
+        "1044903": "https://raadsinformatie.eindhoven.nl/vergadering/1044903#ai_8005368"
+    },
+    "attachment": null,
+    "parent": 893837,
+    "children": [],
+    "text": "Burgemeester Dijsselbloem zegt toe:\n\nschriftelijk terug te komen op jurisprudentie uit Zwitserland in relatie tot een uitspraak van het Europees Hof voor Rechten van de Mens;",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 904205,
+            "weight": 3.2004465564694424
+        },
+        {
+            "id": 904202,
+            "weight": 3.2004465564694424
+        },
+        {
+            "id": 893837,
+            "weight": 0.9012099680074931
+        },
+        {
+            "id": "a_8101832",
+            "weight": 0.5749264435194851
+        },
+        {
+            "id": "a_8106473",
+            "weight": 0.5648333127325211
+        },
+        {
+            "id": 13990893,
+            "weight": 0.18832960272806734
+        },
+        {
+            "id": 16128467,
+            "weight": 0.17314742551445642
+        },
+        {
+            "id": 950055,
+            "weight": 0.15733389250744606
+        },
+        {
+            "id": 861841,
+            "weight": 0.15114676387391504
+        },
+        {
+            "id": 942837,
+            "weight": 0.1478320925222947
+        },
+        {
+            "id": 1133033,
+            "weight": 0.13766188571088864
+        },
+        {
+            "id": 1060110,
+            "weight": 0.09745736459159277
+        },
+        {
+            "id": 906717,
+            "weight": 0.09708792739363636
+        },
+        {
+            "id": 966048,
+            "weight": 0.0950735274016051
+        },
+        {
+            "id": 1121877,
+            "weight": 0.08914903091192813
+        },
+        {
+            "id": 1057251,
+            "weight": 0.0850795528012748
+        },
+        {
+            "id": 854132,
+            "weight": 0.08308377235336814
+        },
+        {
+            "id": 1124788,
+            "weight": 0.07769070615714979
+        },
+        {
+            "id": 966055,
+            "weight": 0.07140987127945427
+        },
+        {
+            "id": "r_7006030",
+            "weight": 0.07095110722410283
+        }
+    ],
+    "videostarttime": {
+        "1044903": 13007
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_12.12.23_NC_EINDHOVEN_CIE.mp4/playlist.m3u8",
+    "keywords": {
+        "Europees Hof": 1.99717096217416,
+        "Raadsvoorstel Dertiende": 1.9961091665893167,
+        "APV Eindhoven": 1.9946389960589554,
+        "Eindhoven Burgemeester": 0.9946389960589556,
+        "Burgemeester Dijsselbloem": 0.9946389960589556,
+        "Dertiende wijziging": 1.9899159628320426,
+        "wijziging APV": 1.9899159628320426,
+        "Dijsselbloem zegt": 0.9899159628320426,
+        "schriftelijk terug": 0.9872583068761392,
+        "Hof": 1.9711601499685907,
+        "Rechten": 1.9711601499685907,
+        "Dertiende": 1.9269766007817677,
+        "APV": 1.9269766007817677,
+        "Zwitserland": 0.9269766007817678,
+        "zegt": 0.8632854036423235,
+        "terug": 0.8632854036423235,
+        "komen": 0.8632854036423235,
+        "jurisprudentie": 0.8632854036423235,
+        "relatie": 0.8632854036423235,
+        "uitspraak": 0.8632854036423235
+    },
+    "svz": "COLLEGE: GRAAG AFVOEREN\nDit punt is verwerkt in de nadere toelichting raadsvoorstel dertiende wijziging APV. ...  Lees verder ",
+    "afgedaan": "16-01-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

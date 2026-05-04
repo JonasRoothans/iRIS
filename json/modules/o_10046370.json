@@ -1,0 +1,59 @@
+{
+    "module_id": "o_10046370",
+    "vote_id": 10046370,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Ordevoorstel - Ondergronds Busstation (PvdD)",
+    "url": "",
+    "type": "Ordevoorstel",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "verworpen",
+    "date": "10-02-2026",
+    "meeting_url": {
+        "1374859": "https://raadsinformatie.eindhoven.nl/vergadering/1374859/Ordevoorstel%20-%20Ondergronds%20Busstation%20%28PvdD%29 10-02-2026#voting_405376"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 970349,
+            "weight": 0.6185666425528666
+        },
+        {
+            "id": 1123110,
+            "weight": 0.4651648091882583
+        },
+        {
+            "id": 998551,
+            "weight": 0.3764160259871707
+        },
+        {
+            "id": 16361107,
+            "weight": 0.3370986184832749
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Ondergronds Busstation": 1.9925553183866471,
+        "Ordevoorstel": 1.9550880231213545,
+        "PvdD": 1.9550880231213545,
+        "Ondergronds": 1.9140368224837343,
+        "Busstation": 1.9140368224837343
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1374859
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "module_id": 790689,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230014,
+    "title": "Nieuwe methode monitoring klimaatbegroting",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/moties_en_toezeggingen/790689?parent_event=1034745",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "R. Thijs (Wethouder)",
+    "result": "",
+    "date": "01-11-2022",
+    "meeting_url": {
+        "1034745": "https://raadsinformatie.eindhoven.nl/vergadering/1034745#ai_7087426"
+    },
+    "attachment": null,
+    "parent": "ai_7087426",
+    "children": [],
+    "text": "Een nieuwe methode te ontwikkelen om de klimaatbegroting te monitoren met passende indicatoren in gezamenlijkheid met diverse andere steden.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": "ai_7087426",
+            "weight": 6.144965291021082
+        },
+        {
+            "id": 855034,
+            "weight": 0.2452352185448079
+        },
+        {
+            "id": 918140,
+            "weight": 0.23368633181591816
+        },
+        {
+            "id": 890080,
+            "weight": 0.22086345072663666
+        },
+        {
+            "id": 853737,
+            "weight": 0.2077401751946914
+        },
+        {
+            "id": 900723,
+            "weight": 0.17362305385554885
+        },
+        {
+            "id": 1042220,
+            "weight": 0.17194524573470474
+        },
+        {
+            "id": 1062482,
+            "weight": 0.09132412256057586
+        },
+        {
+            "id": 974304,
+            "weight": 0.08989065943239938
+        },
+        {
+            "id": 877589,
+            "weight": 0.08967642813587498
+        },
+        {
+            "id": 1145711,
+            "weight": 0.07125667307430648
+        },
+        {
+            "id": 1121895,
+            "weight": 0.06981250455259307
+        },
+        {
+            "id": 951155,
+            "weight": 0.06738943123607617
+        },
+        {
+            "id": 791825,
+            "weight": 0.05969928749482341
+        }
+    ],
+    "videostarttime": {
+        "1034745": 10565
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_01.11.22_NC_Eindhoven_CIE.mp4/playlist.m3u8",
+    "keywords": {
+        "Nieuwe methode": 1.97609722301292,
+        "passende indicatoren": 0.9616805161233911,
+        "methode monitoring": 1.9572102337891664,
+        "monitoring klimaatbegroting": 1.9429034957185003,
+        "Nieuwe": 1.8932005948261454,
+        "methode": 1.8932005948261454,
+        "steden": 0.8820239975701671,
+        "ontwikkelen": 0.8078924985070169,
+        "monitoren": 0.8078924985070169,
+        "passende": 0.8078924985070169,
+        "gezamenlijkheid": 0.8078924985070169,
+        "diverse": 0.8078924985070169
+    },
+    "svz": null,
+    "afgedaan": "03-10-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

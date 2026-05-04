@@ -1,0 +1,60 @@
+{
+    "module_id": 885492,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230013,
+    "title": "Raadscommissie - Raadsommissie Knoop XL, Clusterpaspoort Ontwikkelvisie Fellenoord: Cluster 1b",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/885492",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Steenbakkers (Wethouder)",
+    "result": "",
+    "date": "10-10-2023",
+    "meeting_url": {
+        "1142673": "https://raadsinformatie.eindhoven.nl/vergadering/1142673#ai_7877944"
+    },
+    "attachment": null,
+    "parent": "ai_7877944",
+    "children": [],
+    "text": "Wethouder Steenbakkers zegt toe:\nDe Raadscommissie te informeren over de uitkomsten van dit eerste gesprek;",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 885488,
+            "weight": 0.9946389180704567
+        },
+        {
+            "id": 885495,
+            "weight": 0.9940233507860786
+        },
+        {
+            "id": "ai_7877944",
+            "weight": 0.9899755340277231
+        }
+    ],
+    "videostarttime": {},
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_10.10.23_Eindhoven_raadscieknoopXL.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsommissie Knoop": 1.992506208449493,
+        "Clusterpaspoort Ontwikkelvisie": 1.992506208449493,
+        "Ontwikkelvisie Fellenoord": 1.992506208449493,
+        "Wethouder Steenbakkers": 0.9925062084494931,
+        "Steenbakkers zegt": 0.9752842333822055,
+        "Cluster": 1.9597816701440647,
+        "Clusterpaspoort": 1.9284140041807984,
+        "Fellenoord": 1.9284140041807984,
+        "Wethouder": 0.9284140041807986,
+        "Knoop": 1.8960962650357036,
+        "zegt": 0.7678655974725495,
+        "gesprek": 0.6286955374931662
+    },
+    "svz": null,
+    "afgedaan": "16-01-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

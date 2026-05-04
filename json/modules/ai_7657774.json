@@ -1,0 +1,60 @@
+{
+    "module_id": "ai_7657774",
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Meldingsproces - Meldingen van inwoners serieus nemen (Vrije motie VM3)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/moties_en_toezeggingen/862827?parent_event=1119171",
+    "type": "Agenda",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "04-07-2023",
+    "meeting_url": "https://raadsinformatie.eindhoven.nl/vergadering/1119171#ai_7657774",
+    "attachment": null,
+    "parent": null,
+    "children": [
+        862827
+    ],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 831970,
+            "weight": 1.6810128643232218
+        },
+        {
+            "id": 1132392,
+            "weight": 0.394682970522724
+        },
+        {
+            "id": 883783,
+            "weight": 0.33364120441534706
+        },
+        {
+            "id": 862747,
+            "weight": 0.2054592370436567
+        }
+    ],
+    "videostarttime": 9041,
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_04.07.23_NC_EINDHOVEN_CIE.mp4/playlist.m3u8",
+    "keywords": {
+        "Vrije motie": 1.986202801796007,
+        "Meldingsproces": 1.9550880231213545,
+        "serieus nemen": 1.9505961599793435,
+        "Vrije": 1.9140368224837343,
+        "inwoners serieus": 1.9029960071342575,
+        "nemen": 1.8416830712200127,
+        "motie": 1.8416830712200127,
+        "inwoners": 1.702634417439785
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": null,
+    "meeting_id": []
+}

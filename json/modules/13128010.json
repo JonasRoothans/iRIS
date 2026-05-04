@@ -1,0 +1,96 @@
+{
+    "module_id": 13128010,
+    "vote_id": null,
+    "member_id": [
+        1
+    ],
+    "party_list": [
+        "D66"
+    ],
+    "poho_id": [],
+    "title": "2. Rondvraag Inzamelpunten statiegeld (D66)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "12-09-2023",
+    "meeting_url": {
+        "1127249": "https://raadsinformatie.eindhoven.nl/vergadering/1013510/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://api.notubiz.nl/document/13128010/1",
+    "pdf_text": " \nInzamelpunten statiegeld  \nRondvraag 12 september 2023  \n \nVanaf 1 april van dit jaar worden ook frisdrankblikjes ingezameld omdat er statiegeld op \nzit. Inleveren kan “in supermarkten, op treinstations, bij tankstations langs de weg en via \ncateraars”  lezen we op de website van CURE. Ook de website van de Rijksover heid \nverwijst in het algemeen naar de eerdergenoemde inzamelpunten. Voor een welwillende \ninwoner of bezoeker blijft het zo toch redelijk vaag waar je met je statiegeld terecht kunt.  \nWaar we voor andere afvalsoorten kunnen opzoeken waar een inzamelpunt is, kan dat \nvoor statiegeld niet.  \n \nVeel flesjes of blikjes waar statiegeld op zit, belanden nog steeds in het afval of als \nzwerfvuil op straat. Dit leidt bij D66 Eindhoven tot de volgende vragen:  \n  \n1. Wie is er verantwoordelijk voor de informatievoorziening voor de \ninzamelpunten van statiegeld, de gemeente, de Rijksoverheid of een ander \nbestuursorgaan ? \n \n2. Indien de gemeente (deels) verantwoordelijk is voor de \ninformatievoorziening voor de inzamelpunten va n statiegeld, hoe vindt \ndeze informatievoorziening nu plaats? Denkt u dat dit nog steeds \nvoldoende is , gezien de statiegeld verpakkingen die in het afval belanden \nen als zwerfvuil op straat ? \n \n \nTom Brouwers  \nRaadslid  D66 Eindhoven  \n \n \nZie ook:  \nhttps://www.cure -afvalbeheer.nl/nieuws/vanaf -1-april-statiegeld -op-blikjes/   \nhttps://www.rijksoverheid.nl/onderwerpen/afval/vraag -en-antwoord/plastic -afval -inleveren   ",
+    "bst": null,
+    "related": [
+        {
+            "id": 856439,
+            "weight": 0.6269659339032642
+        },
+        {
+            "id": 1047513,
+            "weight": 0.5895907425992264
+        },
+        {
+            "id": 982440,
+            "weight": 0.33651445795391716
+        },
+        {
+            "id": 12482207,
+            "weight": 0.3177263767385785
+        },
+        {
+            "id": 870900,
+            "weight": 0.2391815053167803
+        },
+        {
+            "id": 787672,
+            "weight": 0.20663939561763298
+        }
+    ],
+    "videostarttime": {
+        "1127249": 9271
+    },
+    "videolink": null,
+    "keywords": {
+        "statiegeld": 1.9498639018051398,
+        "Inzamelpunten": 1.9427100140821891,
+        "Rondvraag": 1.8761006183386981,
+        "statiegeld Rondvraag": 0.8741110102173411,
+        "Eindhoven": 0.8354932175149652,
+        "afval": 0.8261433455258481,
+        "informatievoorziening": 0.8225141185647831,
+        "Tom Brouwers": 0.7967221459268485,
+        "Brouwers Raadslid": 0.7967221459268485,
+        "website": 0.7921972919255381,
+        "eerdergenoemde inzamelpunten": 0.7888474801454629,
+        "zit": 0.788251188458548,
+        "Rijksover heid": 0.7598906494909135,
+        "straat": 0.7497649254019001,
+        "Inleveren": 0.7482157122998039,
+        "CURE": 0.7407914235026674,
+        "zwerfvuil": 0.7336536499005454,
+        "gemeente": 0.7334983512480253,
+        "frisdrankblikjes ingezameld": 0.7233418000989476,
+        "belanden": 0.7046906409345624,
+        "verantwoordelijk": 0.6891407808892022,
+        "september": 0.5999408836635929,
+        "Tom": 0.5990622558026061,
+        "Raadslid": 0.5990622558026061,
+        "via cateraars": 0.5818186400648556,
+        "april": 0.5664134978498486,
+        "jaar": 0.5344841699695657,
+        "ingezameld": 0.5344841699695657
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 1,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1127249
+    ]
+}

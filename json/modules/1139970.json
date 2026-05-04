@@ -1,0 +1,72 @@
+{
+    "module_id": 1139970,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230656,
+    "title": "Plan voor de handhavingsaanpak ‘mystery guests’",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1139970",
+    "type": "Toezegging",
+    "member": "",
+    "party": "",
+    "poho": "J. Dijsselbloem (Burgemeester)",
+    "result": "",
+    "date": "03-03-2026",
+    "meeting_url": {
+        "1374925": "https://raadsinformatie.eindhoven.nl/vergadering/1374925#ai_10043049"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": "Burgemeester Dijsselbloem zegt toe: Er bij het plan voor de handhavingsaanpak wordt meegenomen hoe andere gemeentes omgaan met ‘mystery guests’ en welke alternatieven hiervoor mogelijk zijn",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 894796,
+            "weight": 0.2599188705908629
+        },
+        {
+            "id": 955270,
+            "weight": 0.11050613766751279
+        },
+        {
+            "id": 15004793,
+            "weight": 0.10552140290802993
+        },
+        {
+            "id": 982296,
+            "weight": 0.09521891262428155
+        },
+        {
+            "id": 898508,
+            "weight": 0.07768364919968694
+        }
+    ],
+    "videostarttime": {
+        "1374925": 640
+    },
+    "videolink": null,
+    "keywords": {
+        "Burgemeester Dijsselbloem": 0.9907537458746385,
+        "mystery guests’": 1.9898542373824215,
+        "Dijsselbloem zegt": 0.9809914617727951,
+        "guests’ Burgemeester": 0.9786865678340094,
+        "gemeentes omgaan": 0.9605188556847806,
+        "alternatieven hiervoor": 0.9605188556847806,
+        "mystery": 1.9543910147483996,
+        "Plan": 1.8909865681055549,
+        "handhavingsaanpak": 1.8909865681055549,
+        "guests’": 1.8909865681055549,
+        "zegt": 0.8051113452063998,
+        "meegenomen": 0.8051113452063998,
+        "omgaan": 0.8051113452063998,
+        "hiervoor": 0.8051113452063998
+    },
+    "svz": "",
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "08-04-2026",
+    "meeting_id": []
+}

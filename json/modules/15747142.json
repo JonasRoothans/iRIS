@@ -1,0 +1,121 @@
+{
+    "module_id": 15747142,
+    "vote_id": null,
+    "member_id": [
+        80968,
+        194371
+    ],
+    "party_list": [
+        "D66",
+        "SP"
+    ],
+    "poho_id": [],
+    "title": "Vraag V4 Vragenhalfuur - Wachtlijsten zwemlessen voor volwassenen (D66, SP)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "01-07-2025",
+    "meeting_url": {
+        "1256322": "https://raadsinformatie.eindhoven.nl/vergadering/1256322/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/15747142/1/Vraag+V4+Vragenhalfuur+-+Wachtlijsten+zwemlessen+voor+volwassenen+%28D66%2C+SP%29?connection_type=1&connection_id=8588215",
+    "pdf_text": "   \n \nVragenhalfuur  - Wachtlijsten zwemlessen voor volwassenen\n                     V4 \n \nIn de discussie over zwemveiligheid ligt de nadruk vaak op kinderen. \nBegrijpelijk en terecht omdat daar de hoogste urgentie ligt. Maar ook \nonder volwassenen is er grote behoefte aan zwemles, bijvoorbeeld bij \nmensen die in hun jeugd nooit hebben leren zwemmen of bij \nnieuwkomers in Nederland. Toch wordt deze groep zelden genoemd.  \n \nD66 en SP willen daarom specifiek aandacht vragen voor de lange \nwachtlijsten voor zwemlessen voor volwassenen in Eindhoven. Zelf sta \nik al twee jaar op de wachtlijst (sinds augustus 2023) en ik weet dat ik \ndaarin geen uitzondering ben.  \n \nDaarom hebben we de volgende vragen:  \n \n1. Heeft het college inzicht in de lengte van de wachtlijsten voor \nvolwassen zwemlessen in Eindhoven (uitgesplitst naar locatie en \ntype les)?  \n \n2. Wat doet de gemeente op dit moment om ook deze doelgroep \nzwemvaardig te maken?  \n \n3. Zijn er plannen om het aanbod aan volwassen zwemlessen uit te \nbreiden, eventueel in samenwerking met partners als \nzwemscholen, sportfondsen of vrijwilligersorganisaties?  \n \nVoor D66 en SP is het belangrijk dat iedereen, ongeacht leeftijd of \nachtergrond, toegang heeft tot basisvaardigheden als zwemveiligheid.  \n \nNamens de fracties van D66 en SP ,  \n \nAnnelies Becker , raadslid D66  \nJannie Visscher, raadslid SP  \n \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 1062479,
+            "weight": 1.1448173370423997
+        },
+        {
+            "id": 1066501,
+            "weight": 0.8455054775190667
+        },
+        {
+            "id": "a_9477086",
+            "weight": 0.5266816126785774
+        },
+        {
+            "id": 1060107,
+            "weight": 0.5110403900442664
+        },
+        {
+            "id": 1090197,
+            "weight": 0.2607621336273986
+        },
+        {
+            "id": 984409,
+            "weight": 0.25886040757176854
+        },
+        {
+            "id": 1090018,
+            "weight": 0.2564562466600324
+        },
+        {
+            "id": 883125,
+            "weight": 0.21881836644186106
+        },
+        {
+            "id": "a_9477017",
+            "weight": 0.1808557272319873
+        },
+        {
+            "id": 881030,
+            "weight": 0.0802012564714311
+        },
+        {
+            "id": 851544,
+            "weight": 0.07227657540106054
+        },
+        {
+            "id": 1046816,
+            "weight": 0.07121174195016419
+        },
+        {
+            "id": 792202,
+            "weight": 0.06388236104011819
+        },
+        {
+            "id": 974516,
+            "weight": 0.05104094251350672
+        }
+    ],
+    "videostarttime": {
+        "1256322": 915
+    },
+    "videolink": null,
+    "keywords": {
+        "Vragenhalfuur": 1.9796739005261492,
+        "zwemlessen": 1.9132284381883775,
+        "Wachtlijsten": 1.9127231935625224,
+        "volwassenen": 1.897636821785939,
+        "Vraag": 1.8556677831520785,
+        "Eindhoven": 0.8554466401662162,
+        "ligt": 0.7911306472941102,
+        "Annelies Becker": 0.7845269651120946,
+        "Jannie Visscher": 0.7845269651120946,
+        "raadslid": 0.7099259082568212,
+        "zwemveiligheid": 0.7097647243885898,
+        "vragen": 0.7097647243885898,
+        "Nederland": 0.7013959135088166,
+        "urgentie ligt": 0.7007366188453188,
+        "Becker": 0.5789595704703715,
+        "Jannie": 0.5789595704703715,
+        "hoogste urgentie": 0.563175408385798,
+        "discussie": 0.542418730871072,
+        "nadruk": 0.542418730871072
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194371,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1256322
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "module_id": 1057248,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 248564,
+    "title": "Jaarlijkse rapportage - Raadsvoorstel HOV4 vaststellen ontwerp en kredietaanvraag",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1057248",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "R. Strijk (Wethouder)",
+    "result": "",
+    "date": "19-06-2025",
+    "meeting_url": {
+        "1256618": "https://raadsinformatie.eindhoven.nl/vergadering/1256618#ai_9375563"
+    },
+    "attachment": null,
+    "parent": 1047369,
+    "children": [],
+    "text": "Wethouder Strijk zegt toe:\nMet een jaarlijkse rapportage over voortgang van HOV4 aan raad te komen;",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 787901,
+            "weight": 1.2717592442170391
+        },
+        {
+            "id": 1139828,
+            "weight": 1.2658175575849382
+        },
+        {
+            "id": 1062482,
+            "weight": 0.6268491859103821
+        },
+        {
+            "id": 1057251,
+            "weight": 0.6246236550537478
+        },
+        {
+            "id": 1057250,
+            "weight": 0.6221076055942838
+        },
+        {
+            "id": 1057253,
+            "weight": 0.6148088730671737
+        },
+        {
+            "id": 1047369,
+            "weight": 0.42195278703329275
+        },
+        {
+            "id": "a_9477074",
+            "weight": 0.20433682393709848
+        },
+        {
+            "id": "a_9477053",
+            "weight": 0.1963085885834193
+        },
+        {
+            "id": 1060059,
+            "weight": 0.1823444384413152
+        }
+    ],
+    "videostarttime": {
+        "1256618": 741
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/19.06.25 Eindhoven Meningsvorming.mp4/playlist.m3u8",
+    "keywords": {
+        "Wethouder Strijk": 0.988186205918861,
+        "kredietaanvraag Wethouder": 0.9717876599052474,
+        "Strijk zegt": 0.9717876599052474,
+        "vaststellen ontwerp": 1.9574614657633918,
+        "Raadsvoorstel": 1.9572381620404116,
+        "Jaarlijkse rapportage": 1.9107530176977878,
+        "Jaarlijkse": 1.805411087492228,
+        "rapportage": 1.805411087492228,
+        "ontwerp": 1.7460712362053243,
+        "zegt": 0.7460712362053245,
+        "komen": 0.6006307306012711
+    },
+    "svz": null,
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "02-10-2025",
+    "meeting_id": [
+        1256618
+    ]
+}

@@ -1,0 +1,169 @@
+{
+    "module_id": 844060,
+    "vote_id": null,
+    "member_id": [
+        194376,
+        194500,
+        131149,
+        194375
+    ],
+    "party_list": [
+        "Volt",
+        "FVD",
+        "Partij voor de Dieren",
+        "CDA"
+    ],
+    "poho_id": 230023,
+    "title": "Studentenwoningen ongeacht opleidingsniveau (Motie M2)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/844060",
+    "type": "Motie",
+    "member": "Niels Groot, Nicolas Knoester, Jonas Roothans en Jacco Rubenkamp",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "Ingetrokken na toezegging",
+    "date": "09-05-2023",
+    "meeting_url": {
+        "1013486": "https://raadsinformatie.eindhoven.nl/vergadering/1013486#ai_7452120"
+    },
+    "attachment": null,
+    "parent": 826122,
+    "children": [],
+    "text": "Wethouder Verhees zegt toe de motie te omarmen.",
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/12706162/2/Studentenwoningen+ongeacht+opleidingsniveau+%28Motie+M2%29?connection_type=17&connection_id=9351481",
+    "pdf_text": " \n \n \nMotie  Studentenwoningen ongeacht opleidingsniveau          M2 \n \nDe indiener s van d eze motie stellen de gemeenteraad voor om in de vergadering \nvan 09 mei 2023  een besluit te nemen  over studentenwoningen ongeacht \nopleidingsniveau.  \n \nZij hebben het Raadsvoorstel Ontwikkelkader Evoluon (23bst00175) van het \ncollege gelezen.  \n \nNa het gesprek hierover in de vergadering van 11 en 18 april 2023 vragen  zij extra \naandach t voor : \n \nDe indiener s hoorden  dat: \n• Er studentenwoningen komen in de nieuwbouw bij het Evoluon  \n• Er afgelopen mening svormend debat enkel gesproken werd over 'PHD -\nstudenten'  en universitaire studenten , maar niet over MBO -studenten.  \n \nDe indiener s vinden  dat: \n• Dat opleidingstype niet hoort uit te maken voor kans op een \nstudentenwoning  \n \nDe indieners roepen het college van burgemeester en wethouders op om:  \nIn de gesprekken met de ontwikkelaar af te s preken dat er geen onderscheid \ngemaakt wordt van woningtoekenning op basis van opleidingstype of –niveau. \n \nEindhoven, 9 mei 2023 . \n \nDe leden  van de raad,  \nJacco Rubenkamp (Volt) , voorsteller  \nNicolas Knoester (FvD), voorsteller  \nJonas Roothans (PvdD), voorsteller  \nNiels Groot (CDA), voorsteller  \n \nDeze motie is ingetrokken na toezegging wethouder in de vergadering van  9 mei \n2023 . \n \nJ. Jongbloed , griffier . \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 1132658,
+            "weight": 0.2564165523884221
+        },
+        {
+            "id": 837704,
+            "weight": 0.2408359071525228
+        },
+        {
+            "id": 826122,
+            "weight": 0.24080510311414388
+        },
+        {
+            "id": 1098614,
+            "weight": 0.2296054997527169
+        },
+        {
+            "id": 835450,
+            "weight": 0.21212717391985483
+        },
+        {
+            "id": 926664,
+            "weight": 0.2116951192322504
+        },
+        {
+            "id": 975793,
+            "weight": 0.21066908130688464
+        },
+        {
+            "id": 15548500,
+            "weight": 0.2069793208665991
+        },
+        {
+            "id": 791656,
+            "weight": 0.17946098138383004
+        },
+        {
+            "id": 1140921,
+            "weight": 0.16409525292547308
+        },
+        {
+            "id": 944353,
+            "weight": 0.144279524927523
+        },
+        {
+            "id": "a_7584360",
+            "weight": 0.11870230008778276
+        },
+        {
+            "id": "a_7586976",
+            "weight": 0.1181847606831458
+        },
+        {
+            "id": "a_7586690",
+            "weight": 0.11715984695743054
+        },
+        {
+            "id": "a_7584361",
+            "weight": 0.10805454334092195
+        },
+        {
+            "id": 826478,
+            "weight": 0.09845659271749
+        }
+    ],
+    "videostarttime": {
+        "1013486": 8928
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_09.05.23_NC_EINDHOVEN_RAA.mp4/playlist.m3u8",
+    "keywords": {
+        "ongeacht opleidingsniveau": 1.9982432619613948,
+        "Studentenwoningen ongeacht": 1.994846031045903,
+        "ongeacht": 1.974375856928225,
+        "Ontwikkelkader Evoluon": 0.9657890551336142,
+        "Raadsvoorstel Ontwikkelkader": 0.9607224179117912,
+        "eze motie": 0.9541312780320546,
+        "motie stellen": 0.9541312780320546,
+        "Motie Studentenwoningen": 0.9441577311780595,
+        "mei": 0.9262534364679172,
+        "indiener": 0.9220822804537236,
+        "vergadering": 0.917014317479827,
+        "Evoluon": 0.9149215927132035,
+        "Jacco Rubenkamp": 0.8932459428308585,
+        "studenten": 0.8925503735380305,
+        "Nicolas Knoester": 0.8859268849521578,
+        "Jonas Roothans": 0.8859268849521578,
+        "Niels Groot": 0.8859268849521578,
+        "Wethouder Verhees": 0.8687381025542079,
+        "voorsteller Nicolas": 0.8624548608474025,
+        "indieners roepen": 0.8526886614986444,
+        "college gelezen": 0.8441911078410124,
+        "eze": 0.8357504209627025,
+        "gemeenteraad": 0.8357504209627025,
+        "besluit": 0.8357504209627025,
+        "nemen": 0.8357504209627025,
+        "college": 0.8202423053428696,
+        "universitaire studenten": 0.8084946381521153,
+        "Raadsvoorstel": 0.8055953750187963,
+        "PHD": 0.7734874341154828,
+        "Verhees zegt": 0.7626671294868964,
+        "opleidingstype": 0.7606757762707034,
+        "MBO": 0.7564178564734617,
+        "toezegging wethouder": 0.7425211199386061,
+        "Volt": 0.7093854725821934,
+        "CDA": 0.7093854725821934,
+        "Jacco": 0.6894249003095352,
+        "Knoester": 0.6894249003095352,
+        "Groot": 0.6894249003095352,
+        "Jongbloed": 0.6894249003095352,
+        "Nicolas": 0.6703121259949888,
+        "Jonas": 0.6703121259949888,
+        "gesprek hierover": 0.6691342701652118,
+        "extra aandach": 0.6691342701652118,
+        "mening svormend": 0.6691342701652118,
+        "svormend debat": 0.6691342701652118,
+        "gelezen": 0.625036734387967,
+        "onderscheid gemaakt": 0.5679229647025346,
+        "april": 0.5677391779098022,
+        "vragen": 0.5336110389083103,
+        "niveau": 1.517313646863502,
+        "gesprek": 0.5013925397229093,
+        "hierover": 0.5013925397229093,
+        "extra": 0.5013925397229093,
+        "hoorden": 0.5013925397229093,
+        "nieuwbouw": 0.5013925397229093,
+        "mening": 0.5013925397229093,
+        "debat": 0.5013925397229093
+    },
+    "svz": null,
+    "afgedaan": "13-06-2023",
+    "eersteIndiener": 194376,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

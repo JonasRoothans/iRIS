@@ -1,0 +1,40 @@
+{
+    "module_id": "ai_7087609",
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "I-JGZ",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/moties_en_toezeggingen/790749?parent_event=1034744",
+    "type": "Agenda",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "01-11-2022",
+    "meeting_url": "https://raadsinformatie.eindhoven.nl/vergadering/1034744#ai_7087609",
+    "attachment": null,
+    "parent": null,
+    "children": [
+        790754,
+        790755,
+        790756,
+        790749,
+        790751
+    ],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [],
+    "videostarttime": 17721,
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_01.11.22_NC_Eindhoven_Raad.mp4/playlist.m3u8",
+    "keywords": {
+        "I-JGZ": 1.9550880231213545
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": null,
+    "meeting_id": []
+}

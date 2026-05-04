@@ -1,0 +1,161 @@
+{
+    "module_id": 13701962,
+    "vote_id": null,
+    "member_id": [
+        131155
+    ],
+    "party_list": [
+        "50PLUS"
+    ],
+    "poho_id": [],
+    "title": "3. Rondvraag - Muziek of stilte (50PLUS)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "16-01-2024",
+    "meeting_url": {
+        "1146934": "https://raadsinformatie.eindhoven.nl/vergadering/1146933/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://api.notubiz.nl/document/13701962/1",
+    "pdf_text": "1. Philips draait geldkraan muziekverenigingen dicht | Eindhoven | ed.nl   \n  \n \n \nRondvraag  Muziek of stilte ? \n \nInleiding:  \nZoals dat gebruikelijk was door Philips om maatschappelijke verantwoording te \nnemen in allerlei maatschappelijke zaken werden ook verschillende \nmuziekverenigingen gesponsord.  \n \nOp 5 januari 2024 verscheen de kop “Philips draait de geldkraan \nmuziekverenigingen dicht”1 in het ED.  Het gaat om de Philips harmonie, Het \nPhilips Symfonie Orkest en het Philharmonisch Koor.  \n \nBinnen deze regio wordt veel sponsoring overgenomen door het bedrijfsleven. Ook \nde gemeente Eindhoven ondersteunt deze muziekverenigingen. Met het wegvallen \nvan de sponsoring vanuit Philips hebben deze muziekverenigingen nieuwe \nsponsor en nodig.  \n \nAfgelopen zondag was weer het jaarlijkse nieuwjaarsconcert van de Philips \nHarmonie. Een traditie voor Eindhoven die tevens herinnert aan de geschiedenis \nen ontwikkeling van Eindhoven. Een Harmonie van deze tijd met veel nieuwe \njonge talenten.  \n \nHet zou jammer zijn als deze muziekverenigingen moeten inkrimpen of zelfs gaan \nverdwijnen voor Eindhoven.  \n \nVragen:  \n \n1. Bent u net als 50PLUS ook van mening dat dit stukje cultuur ondersteunt \nmoet worden tot in de lengte van jaren?  \n2. U heeft allerlei contacten in het bedrijfsleven zoals  Brainport, Metropool \nregio Eindhoven. Kunt u binnen uw netwerk lobbyen om de weggevallen \nsponsoring van Philips te kunnen opvangen?  \n \nEindhoven, 16-1-2024  \n \n \nDe leden van de raad  en/of commissie , \n \nRuud van Acquoij raadslid  \n",
+    "bst": null,
+    "related": [
+        {
+            "id": "a_7037808",
+            "weight": 1.5911862920885587
+        },
+        {
+            "id": 832867,
+            "weight": 0.7475216458984895
+        },
+        {
+            "id": "a_7037805",
+            "weight": 0.37949806329964286
+        },
+        {
+            "id": 903603,
+            "weight": 0.3407151666903185
+        },
+        {
+            "id": 1038870,
+            "weight": 0.3343112346563395
+        },
+        {
+            "id": 1045929,
+            "weight": 0.31316984651120716
+        },
+        {
+            "id": 1042213,
+            "weight": 0.23537572965753448
+        },
+        {
+            "id": 1028294,
+            "weight": 0.23273055311754615
+        },
+        {
+            "id": 12703162,
+            "weight": 0.20493301466726793
+        },
+        {
+            "id": 898197,
+            "weight": 0.07562383291088051
+        },
+        {
+            "id": 791795,
+            "weight": 0.07121224251760509
+        },
+        {
+            "id": 1029732,
+            "weight": 0.06947677572961718
+        },
+        {
+            "id": 1036434,
+            "weight": 0.06891184706511237
+        },
+        {
+            "id": 868743,
+            "weight": 0.06193023224216576
+        },
+        {
+            "id": 957760,
+            "weight": 0.056896794975157906
+        },
+        {
+            "id": 776928,
+            "weight": 0.05112261976246633
+        },
+        {
+            "id": 833159,
+            "weight": 0.04950312377491321
+        },
+        {
+            "id": 958585,
+            "weight": 0.049420115725663155
+        },
+        {
+            "id": 883277,
+            "weight": 0.045603250063458556
+        },
+        {
+            "id": 1136118,
+            "weight": 0.04271689485133726
+        },
+        {
+            "id": 856604,
+            "weight": 0.04240358692317095
+        },
+        {
+            "id": 801960,
+            "weight": 0.03906477794407366
+        }
+    ],
+    "videostarttime": {
+        "1146934": 10649
+    },
+    "videolink": null,
+    "keywords": {
+        "Philips": 0.9624530416259116,
+        "Eindhoven": 0.9468241360667013,
+        "Philips harmonie": 0.9299470173803348,
+        "Rondvraag Muziek": 0.926387807184176,
+        "muziekverenigingen": 0.9203780492366088,
+        "Muziek": 1.8906083962461835,
+        "harmonie": 0.8636279385225611,
+        "Philharmonisch Koor": 0.8565835276620359,
+        "Symfonie Orkest": 0.8453111949569776,
+        "stilte": 1.8191877074210616,
+        "sponsoring": 0.7974540986857677,
+        "dicht": 0.787309656547405,
+        "ed.nl Rondvraag": 0.7829212667025676,
+        "Inleiding": 0.7501453598763201,
+        "draait": 0.749052741509463,
+        "geldkraan": 0.749052741509463,
+        "maatschappelijke": 0.7371988279828763,
+        "bedrijfsleven": 0.68180613070064,
+        "allerlei": 0.6726214060376929,
+        "nieuwe": 0.6702798613158074,
+        "Eindhoven ondersteunt": 0.6692734438085185,
+        "regio": 0.6661605511854206,
+        "Koor": 0.6573130022842858,
+        "gemeente Eindhoven": 0.634257450567556,
+        "Orkest": 0.6339866175616409,
+        "Metropool regio": 0.5715859662257886,
+        "Brainport": 0.5507977425732136,
+        "Ruud": 0.5417987336852674,
+        "Acquoij": 0.5163944157624194
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 131155,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1146934
+    ]
+}

@@ -1,0 +1,196 @@
+{
+    "module_id": 851550,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230014,
+    "title": "Hoogspanningslijnen (vraag V5 vragenhalfuur)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/851550",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "R. Thijs (Wethouder)",
+    "result": "",
+    "date": "30-05-2023",
+    "meeting_url": {
+        "1013491": "https://raadsinformatie.eindhoven.nl/vergadering/1013491#ai_6964905"
+    },
+    "attachment": null,
+    "parent": "ai_6964905",
+    "children": [],
+    "text": "Wethouder Thijs zegt toe in gesprek te gaan met Tennet om aandacht te vragen voor het bespoedigen van een haalbaarheidsonderzoek naar het ondergronds brengen ofwel verplaatsen van hoogspanningslijnen. Hij zal hier in de mededelingen tijdens de meningsvorming op terugkomen, indien de terugkoppeling langer is zal dit via een raadsinformatiebrief gebeuren.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1064274,
+            "weight": 0.6466107289533046
+        },
+        {
+            "id": 891724,
+            "weight": 0.3177239396944235
+        },
+        {
+            "id": "ai_7818784",
+            "weight": 0.2689138302342531
+        },
+        {
+            "id": 882876,
+            "weight": 0.2607542813798432
+        },
+        {
+            "id": 892430,
+            "weight": 0.19839264726924463
+        },
+        {
+            "id": 891623,
+            "weight": 0.19837686429944956
+        },
+        {
+            "id": 1080458,
+            "weight": 0.1832148223316361
+        },
+        {
+            "id": 864790,
+            "weight": 0.18257966779047663
+        },
+        {
+            "id": 1121876,
+            "weight": 0.178826493190908
+        },
+        {
+            "id": 960626,
+            "weight": 0.12327708678364377
+        },
+        {
+            "id": 956401,
+            "weight": 0.12198713653894593
+        },
+        {
+            "id": 1108464,
+            "weight": 0.11090464099485335
+        },
+        {
+            "id": 1047524,
+            "weight": 0.10193029304081487
+        },
+        {
+            "id": 1088097,
+            "weight": 0.0981348504048771
+        },
+        {
+            "id": 12803430,
+            "weight": 0.08273866659624361
+        },
+        {
+            "id": 970363,
+            "weight": 0.08195987826746054
+        },
+        {
+            "id": 982987,
+            "weight": 0.08090341517858773
+        },
+        {
+            "id": 1139142,
+            "weight": 0.079397922827084
+        },
+        {
+            "id": 775293,
+            "weight": 0.07658386326129347
+        },
+        {
+            "id": 1144068,
+            "weight": 0.07568050906045244
+        },
+        {
+            "id": 888562,
+            "weight": 0.07418056726842874
+        },
+        {
+            "id": 949024,
+            "weight": 0.07303048032930738
+        },
+        {
+            "id": 775122,
+            "weight": 0.07012584377992856
+        },
+        {
+            "id": 793201,
+            "weight": 0.07009208245150024
+        },
+        {
+            "id": 992588,
+            "weight": 0.06783512732715144
+        },
+        {
+            "id": 1117265,
+            "weight": 0.06739377020896982
+        },
+        {
+            "id": 1148681,
+            "weight": 0.06735215735857128
+        },
+        {
+            "id": 1135885,
+            "weight": 0.06663873619193988
+        },
+        {
+            "id": 833997,
+            "weight": 0.06067110339025707
+        },
+        {
+            "id": 899726,
+            "weight": 0.05816528961076866
+        },
+        {
+            "id": 957803,
+            "weight": 0.05729102044496606
+        },
+        {
+            "id": 803327,
+            "weight": 0.05309076862516324
+        },
+        {
+            "id": 822455,
+            "weight": 0.04549182728750575
+        }
+    ],
+    "videostarttime": {
+        "1013491": 729
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_30.05.23_NC_EINDHOVEN_Raadszaal.mp4/playlist.m3u8",
+    "keywords": {
+        "Wethouder Thijs": 0.9951741531468322,
+        "Thijs zegt": 0.986390914057097,
+        "ondergronds brengen": 0.971535822031085,
+        "brengen ofwel": 0.971535822031085,
+        "ofwel verplaatsen": 0.971535822031085,
+        "Hoogspanningslijnen": 1.9451034446870605,
+        "vraag": 1.932973122276493,
+        "vragenhalfuur": 1.932973122276493,
+        "Thijs": 0.9192943901622852,
+        "Tennet": 0.9192943901622852,
+        "raadsinformatiebrief gebeuren": 0.8561124267567837,
+        "zegt": 0.8336377680621004,
+        "gesprek": 0.8336377680621004,
+        "gaan": 0.8336377680621004,
+        "aandacht": 0.8336377680621004,
+        "vragen": 1.8336377680621005,
+        "bespoedigen": 0.8336377680621004,
+        "haalbaarheidsonderzoek": 0.8336377680621004,
+        "ofwel": 0.8336377680621004,
+        "terugkoppeling langer": 0.7986845790861087,
+        "terugkomen": 0.692723073453193,
+        "gebeuren": 0.692723073453193,
+        "mededelingen": 0.5906356718530001,
+        "meningsvorming": 0.5906356718530001,
+        "langer": 0.5906356718530001,
+        "via": 0.5906356718530001
+    },
+    "svz": null,
+    "afgedaan": "12-12-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

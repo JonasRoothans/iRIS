@@ -1,0 +1,84 @@
+{
+    "module_id": 896065,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": null,
+    "title": "30% sociale huurwoningen - Raadsvoorstel Gebiedskader Schellenskwartier",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/896065",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Esselbrugge (Wethouder)",
+    "result": "",
+    "date": "14-11-2023",
+    "meeting_url": {
+        "1044930": "https://raadsinformatie.eindhoven.nl/vergadering/1044930#ai_7948037"
+    },
+    "attachment": null,
+    "parent": 884474,
+    "children": [],
+    "text": "Wethouder Esselbrugge zegt toe dat er in dit gebied worden 30% sociale huurwoningen gerealiseerd.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 896066,
+            "weight": 1.786474573738359
+        },
+        {
+            "id": 884474,
+            "weight": 1.2922563133213947
+        },
+        {
+            "id": "a_8029254",
+            "weight": 0.6090739744277929
+        },
+        {
+            "id": 918984,
+            "weight": 0.4970992407110223
+        },
+        {
+            "id": 918983,
+            "weight": 0.49708496416144304
+        },
+        {
+            "id": 905875,
+            "weight": 0.4966650298115711
+        },
+        {
+            "id": 15643147,
+            "weight": 0.3106831392463702
+        },
+        {
+            "id": "a_8235495",
+            "weight": 0.20753256072516288
+        }
+    ],
+    "videostarttime": {
+        "1044930": 853
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_14.11.23_NC_EINDHOVEN_CIE.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Gebiedskader": 1.994001496346852,
+        "Gebiedskader Schellenskwartier": 1.9910814346458245,
+        "Schellenskwartier Wethouder": 0.9910814346458247,
+        "Wethouder Esselbrugge": 0.9910814346458247,
+        "sociale huurwoningen": 1.9909357425589933,
+        "Esselbrugge zegt": 0.9820078095172579,
+        "huurwoningen gerealiseerd": 0.975551500877935,
+        "sociale": 1.9570184112418672,
+        "Raadsvoorstel": 1.936580012774709,
+        "Gebiedskader": 1.905980174083976,
+        "Wethouder": 0.9059801740839759,
+        "gerealiseerd": 0.8847834394570057,
+        "zegt": 0.8120163182304413,
+        "gebied": 0.8120163182304413
+    },
+    "svz": null,
+    "afgedaan": "16-01-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

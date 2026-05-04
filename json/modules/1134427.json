@@ -1,0 +1,155 @@
+{
+    "module_id": 1134427,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230022,
+    "title": "Hoe staat het met de voorbereidingen voor de nieuwe periode Taxbus vanaf volgende maand? (Vraag V5 Vragenhalfuur)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1134427",
+    "type": "Toezegging",
+    "member": "",
+    "party": "",
+    "poho": "S. Toub (Wethouder)",
+    "result": "",
+    "date": "10-02-2026",
+    "meeting_url": {
+        "1374859": "https://raadsinformatie.eindhoven.nl/vergadering/1374859#ai_9410433"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": "Wethouder Toub zegt toe de raad voor de zomer met een raadsbrief te informeren over het verloop van de overgang naar de nieuwe vervoerder.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 16590308,
+            "weight": 7.267699509537823
+        },
+        {
+            "id": 1150671,
+            "weight": 0.7955116596076018
+        },
+        {
+            "id": 1013595,
+            "weight": 0.6384116249259134
+        },
+        {
+            "id": 1149679,
+            "weight": 0.6357313171917643
+        },
+        {
+            "id": 936504,
+            "weight": 0.2282566805439459
+        },
+        {
+            "id": 1037226,
+            "weight": 0.22424307348751382
+        },
+        {
+            "id": 845823,
+            "weight": 0.21203782103181854
+        },
+        {
+            "id": 1072391,
+            "weight": 0.2095919562024243
+        },
+        {
+            "id": 1117157,
+            "weight": 0.1988479707784878
+        },
+        {
+            "id": 15241402,
+            "weight": 0.18583253204827346
+        },
+        {
+            "id": 925499,
+            "weight": 0.155010969876736
+        },
+        {
+            "id": 819064,
+            "weight": 0.14922279188216747
+        },
+        {
+            "id": 14295462,
+            "weight": 0.14883440142251725
+        },
+        {
+            "id": 782522,
+            "weight": 0.0907750811043448
+        },
+        {
+            "id": 1133037,
+            "weight": 0.08572797942520984
+        },
+        {
+            "id": 889102,
+            "weight": 0.08037643818903935
+        },
+        {
+            "id": 1141642,
+            "weight": 0.07763771248319333
+        },
+        {
+            "id": 984520,
+            "weight": 0.06439304923230776
+        },
+        {
+            "id": 1104185,
+            "weight": 0.06418797490492614
+        },
+        {
+            "id": 845867,
+            "weight": 0.061874226377247564
+        },
+        {
+            "id": 853281,
+            "weight": 0.05592593265170915
+        },
+        {
+            "id": 932415,
+            "weight": 0.054189068236639895
+        },
+        {
+            "id": 777009,
+            "weight": 0.051902161426208335
+        },
+        {
+            "id": "r_7006036",
+            "weight": 0.04017011879067217
+        }
+    ],
+    "videostarttime": {
+        "1374859": 1020
+    },
+    "videolink": null,
+    "keywords": {
+        "periode Taxbus": 1.9930320148561766,
+        "volgende maand": 1.9894410074280215,
+        "nieuwe periode": 1.9806280026890275,
+        "Wethouder Toub": 0.9713130678722198,
+        "Toub zegt": 0.9400523945565247,
+        "Taxbus": 1.9399497931473817,
+        "nieuwe": 1.9175416462360428,
+        "maand": 1.9093257925815124,
+        "staat": 1.8847669531249782,
+        "voorbereidingen": 1.8847669531249782,
+        "periode": 1.8847669531249782,
+        "Vraag": 1.8748708607461824,
+        "Vragenhalfuur": 1.8748708607461824,
+        "Toub": 0.818409378420021,
+        "vervoerder": 0.7427656174102149,
+        "zegt": 0.6885459181812164,
+        "zomer": 0.6885459181812164,
+        "raadsbrief": 0.6885459181812164,
+        "informeren": 0.6885459181812164,
+        "verloop": 0.6885459181812164,
+        "overgang": 0.6885459181812164
+    },
+    "svz": "",
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "08-04-2026",
+    "meeting_id": []
+}

@@ -1,0 +1,75 @@
+{
+    "module_id": 780720,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Raadsvoorstel Vaststelling bestemmingsplan 'III Strijp buiten de  Ring 2019 (div. locaties 't Ven)'",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/780720",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "14-09-2022",
+    "meeting_url": {
+        "1015775": "https://raadsinformatie.eindhoven.nl/vergadering/1015775#ai_6982189"
+    },
+    "attachment": null,
+    "parent": 771650,
+    "children": [],
+    "text": "Wethouder Verhees zegt toe de vraag van SP over het huurcontract technisch te zullen beantwoorden.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 771650,
+            "weight": 2.624568220584234
+        },
+        {
+            "id": 777022,
+            "weight": 0.28526310410616634
+        },
+        {
+            "id": 865876,
+            "weight": 0.19079125600758706
+        },
+        {
+            "id": 776895,
+            "weight": 0.16780000526108874
+        },
+        {
+            "id": 776860,
+            "weight": 0.16588878957769504
+        }
+    ],
+    "videostarttime": {
+        "1015775": 964
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_14.09.22_NC_Eindhoven_cie.mp4/playlist.m3u8",
+    "keywords": {
+        "III Strijp": 1.993564261130758,
+        "Raadsvoorstel Vaststelling": 1.9878556835874357,
+        "Vaststelling bestemmingsplan": 1.9878556835874357,
+        "Wethouder Verhees": 0.9434900188178089,
+        "div": 1.9410006237031718,
+        "III": 1.934111623307328,
+        "Ring": 1.934111623307328,
+        "Vaststelling": 1.9029482086059646,
+        "Raadsvoorstel": 1.8763690867947806,
+        "Verhees zegt": 0.8551230888585668,
+        "locaties": 1.82118245171742,
+        "Ven": 1.8032285321145036,
+        "huurcontract technisch": 0.7233149701764251,
+        "beantwoorden": 0.6711628357364501,
+        "zegt": 0.5344664897230191,
+        "vraag": 0.5344664897230191,
+        "technisch": 0.5344664897230191
+    },
+    "svz": "Vraag beantwoord via nadere toelichting 21 september 2022. VOORSTEL: AFVOEREN.",
+    "afgedaan": "27-09-2022",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

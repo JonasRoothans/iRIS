@@ -1,0 +1,76 @@
+{
+    "module_id": 849322,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230019,
+    "title": "Indicatoren aan beleidsnota’s - Agenderingsverzoek GL en PvdD over Effect- en prestatie-indicatoren.",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/moties_en_toezeggingen/849322?parent_event=1059807",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. van Lanschot (Wethouder)",
+    "result": "",
+    "date": "28-03-2023",
+    "meeting_url": {
+        "1059807": "https://raadsinformatie.eindhoven.nl/vergadering/1059807#ai_7439917"
+    },
+    "attachment": null,
+    "parent": "ai_7439917",
+    "children": [],
+    "text": "Wethouder Van Lanschot zegt toe:\n\nvoor de zomer/begroting terug te komen op het toevoegen van indicatoren aan beleidsnota’s. Daarbij wordt de suggestie voor een pilot met 1 of 2 beleidsnota’s meegenomen;",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 849326,
+            "weight": 1.7137808600063644
+        },
+        {
+            "id": "ai_7439917",
+            "weight": 0.5850765172507632
+        },
+        {
+            "id": 1146302,
+            "weight": 0.28647939409850365
+        },
+        {
+            "id": 1089258,
+            "weight": 0.28008886863593413
+        },
+        {
+            "id": 1117251,
+            "weight": 0.23391335705798413
+        },
+        {
+            "id": 1106242,
+            "weight": 0.19344470848261427
+        }
+    ],
+    "videostarttime": {
+        "1059807": 8762
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_28.03.23_NC_eindhoven_cie.mp4/playlist.m3u8",
+    "keywords": {
+        "Agenderingsverzoek": 1.9313042059455134,
+        "Effect": 1.9313042059455134,
+        "beleidsnota": 1.906114661291367,
+        "Lanschot zegt": 0.8538443479065452,
+        "prestatie-indicatoren": 1.8480766373435502,
+        "PvdD": 1.7813084462304882,
+        "begroting terug": 0.7668652607742612,
+        "Wethouder": 0.6164618130949652,
+        "zomer": 0.6164618130949652,
+        "Daarbij": 0.5245357882784714,
+        "meegenomen": 0.5245357882784714,
+        "zegt": 0.5070670508509671,
+        "terug": 0.5070670508509671,
+        "toevoegen": 0.5070670508509671
+    },
+    "svz": null,
+    "afgedaan": "13-06-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

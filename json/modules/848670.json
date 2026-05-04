@@ -1,0 +1,77 @@
+{
+    "module_id": 848670,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230013,
+    "title": "Nota Kansrijke Oplossingen - Raadsvoorstel Opvolging BO MIRT 2022",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/848670",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Steenbakkers (Wethouder)",
+    "result": "",
+    "date": "16-05-2023",
+    "meeting_url": {
+        "1094703": "https://raadsinformatie.eindhoven.nl/vergadering/1094703#ai_7534663"
+    },
+    "attachment": null,
+    "parent": 833109,
+    "children": [],
+    "text": "Wethouder Steenbakkers zegt toe:\n\ndat de Nota Kansrijke Oplossingen wordt behandeld in de raadscie Knoop XL.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 848671,
+            "weight": 1.988331242167237
+        },
+        {
+            "id": 987078,
+            "weight": 0.7494558907552054
+        },
+        {
+            "id": 998551,
+            "weight": 0.6607035691701006
+        },
+        {
+            "id": 941006,
+            "weight": 0.5164170816084925
+        },
+        {
+            "id": 1020595,
+            "weight": 0.33108784428846055
+        },
+        {
+            "id": 1123110,
+            "weight": 0.3232051753684747
+        },
+        {
+            "id": 1123955,
+            "weight": 0.24677483736035752
+        }
+    ],
+    "videostarttime": {},
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_16.05.23_Eindhoven_raadscieKnoopXL.mp4/playlist.m3u8",
+    "keywords": {
+        "Kansrijke Oplossingen": 1.9960854896766023,
+        "Nota Kansrijke": 1.9947191547003351,
+        "Raadsvoorstel Opvolging": 1.99393559042845,
+        "Wethouder Steenbakkers": 0.9939355904284499,
+        "Steenbakkers zegt": 0.9817340051000278,
+        "raadscie Knoop": 0.9817340051000278,
+        "MIRT": 1.9362031970929363,
+        "Wethouder": 0.9362031970929363,
+        "Nota": 1.93125036359396,
+        "Opvolging": 1.9055147919613478,
+        "Knoop": 0.9055147919613479,
+        "zegt": 0.8101466487076916,
+        "behandeld": 0.8101466487076916
+    },
+    "svz": "Tijdens de raadscie Knoop van 14 november a.s. wordt een technische toelichting gegeven op het proces van de M...  Lees verder ",
+    "afgedaan": "14-11-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

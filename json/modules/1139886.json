@@ -1,0 +1,69 @@
+{
+    "module_id": 1139886,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 248564,
+    "title": "Aanleg HOV3-lijn",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1139886",
+    "type": "Toezegging",
+    "member": "",
+    "party": "",
+    "poho": "R. Strijk (Wethouder)",
+    "result": "",
+    "date": "03-03-2026",
+    "meeting_url": {
+        "1374927": "https://raadsinformatie.eindhoven.nl/vergadering/1374927#ai_10010002"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": "Wethouder Strijk zegt toe: de HOV3-lijn aan te leggen voordat de nieuwe ASML campus / BIC Noord opengaat in 2028.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1133029,
+            "weight": 0.47298430443029366
+        },
+        {
+            "id": 1058731,
+            "weight": 0.19758216445810522
+        },
+        {
+            "id": 1041995,
+            "weight": 0.19463374886701096
+        },
+        {
+            "id": 1133065,
+            "weight": 0.19404354279754152
+        },
+        {
+            "id": 1133235,
+            "weight": 0.18612561685805287
+        }
+    ],
+    "videostarttime": {
+        "1374927": 22244
+    },
+    "videolink": null,
+    "keywords": {
+        "Wethouder Strijk": 0.9943786065225823,
+        "BIC Noord": 0.9943786065225823,
+        "ASML campus": 0.9900247011998896,
+        "Strijk zegt": 0.9835374423226297,
+        "nieuwe ASML": 0.9835374423226297,
+        "Noord opengaat": 0.9835374423226297,
+        "Aanleg": 1.9488434546179718,
+        "BIC": 0.9387707991710162,
+        "ASML": 0.908704180676506,
+        "zegt": 0.8225994208119777,
+        "leggen": 0.8225994208119777
+    },
+    "svz": "",
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "08-04-2026",
+    "meeting_id": []
+}

@@ -1,0 +1,110 @@
+{
+    "module_id": 821750,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Belastingdienst - Raadsvoorstel Startnotitie Pact Woensel Zuid",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/821750",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "07-02-2023",
+    "meeting_url": {
+        "1059802": "https://raadsinformatie.eindhoven.nl/vergadering/1059802#ai_7231191"
+    },
+    "attachment": null,
+    "parent": 804895,
+    "children": [],
+    "text": "Stadsgezant Bellemakers zegt toe (o.v.v. wethouder Verhees):\n\nde (mogelijke) rol van de Belastingdienst toe te lichten in een toekomstige raadsinformatiebrief over de uitvoering van het Pact Woensel Zuid;",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 821751,
+            "weight": 0.4899380945034546
+        },
+        {
+            "id": 821749,
+            "weight": 0.4888760203960679
+        },
+        {
+            "id": 821753,
+            "weight": 0.48275425044292897
+        },
+        {
+            "id": 1139738,
+            "weight": 0.23108906635044876
+        },
+        {
+            "id": 899539,
+            "weight": 0.20750025331380983
+        },
+        {
+            "id": 775126,
+            "weight": 0.19372219579195413
+        },
+        {
+            "id": 950170,
+            "weight": 0.1934587851354396
+        },
+        {
+            "id": 1125111,
+            "weight": 0.19086138792148558
+        },
+        {
+            "id": 803059,
+            "weight": 0.18542059430286917
+        },
+        {
+            "id": 1083911,
+            "weight": 0.1853095965886543
+        },
+        {
+            "id": 920946,
+            "weight": 0.1822436101797241
+        },
+        {
+            "id": 901452,
+            "weight": 0.17164092120200997
+        },
+        {
+            "id": 12876589,
+            "weight": 0.11198554704267827
+        }
+    ],
+    "videostarttime": {
+        "1059802": 7828
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_02.07.23_NC_Eindhoven_MeningsvormingRAA.mp4/playlist.m3u8",
+    "keywords": {
+        "Pact Woensel": 1.9977641037344696,
+        "Woensel Zuid": 1.9977641037344696,
+        "Raadsvoorstel Startnotitie": 1.9960163340142865,
+        "wethouder Verhees": 0.9949197405691284,
+        "Stadsgezant Bellemakers": 0.9945191712312353,
+        "Startnotitie Pact": 1.9943684265193404,
+        "Zuid Stadsgezant": 0.9943684265193404,
+        "Bellemakers zegt": 0.9895880739332463,
+        "toekomstige raadsinformatiebrief": 0.9801328118913514,
+        "Pact": 1.9620750829682998,
+        "Zuid": 1.9620750829682998,
+        "Raadsvoorstel": 1.9462572295845069,
+        "Verhees": 0.9462572295845069,
+        "mogelijke": 0.9448258303128789,
+        "Belastingdienst": 1.9377260098369966,
+        "rol": 0.9059486362580966,
+        "zegt": 0.8604286137142572,
+        "lichten": 0.8604286137142572,
+        "toekomstige": 0.8604286137142572,
+        "uitvoering": 0.8604286137142572
+    },
+    "svz": null,
+    "afgedaan": "13-06-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

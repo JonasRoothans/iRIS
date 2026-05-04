@@ -1,0 +1,105 @@
+{
+    "module_id": 1030768,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Laten we de Kempen het alleen uitzoeken (Vraag V2 Vragenhalfuur)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1030768",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "25-03-2025",
+    "meeting_url": {
+        "1256317": "https://raadsinformatie.eindhoven.nl/vergadering/1256317#ai_8588160"
+    },
+    "attachment": null,
+    "parent": "ai_8588160",
+    "children": [],
+    "text": "Wethouder Verhees zegt toe aan de raad terug te koppelen wat in het bestuur van de Metropoolregio en het portefeuillehouderoverleg Ruimte en Wonen is besproken over het opvangen van de niet door de Eersel gebouwde woningen.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 15306707,
+            "weight": 0.7583465271344013
+        },
+        {
+            "id": 937161,
+            "weight": 0.7333289896418551
+        },
+        {
+            "id": 1036323,
+            "weight": 0.6052660871500096
+        },
+        {
+            "id": 937101,
+            "weight": 0.2973509278291879
+        },
+        {
+            "id": 899212,
+            "weight": 0.28007857178972423
+        },
+        {
+            "id": 935238,
+            "weight": 0.21057478265634755
+        },
+        {
+            "id": 838029,
+            "weight": 0.1395278004607353
+        },
+        {
+            "id": 12802681,
+            "weight": 0.10206180284601185
+        },
+        {
+            "id": 1088202,
+            "weight": 0.08825144447998358
+        },
+        {
+            "id": 1077875,
+            "weight": 0.08773216418570033
+        },
+        {
+            "id": 1072502,
+            "weight": 0.08114411191904444
+        }
+    ],
+    "videostarttime": {
+        "1256317": 1211
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_25.03.25_01-EINDHOVEN-RAA-ONDERTITEL_2025.03.25_205144.mp4/playlist.m3u8",
+    "keywords": {
+        "Wethouder Verhees": 0.9979075081070886,
+        "Verhees zegt": 0.9956411577513588,
+        "portefeuillehouderoverleg Ruimte": 0.9956411577513588,
+        "Eersel gebouwde": 0.9956411577513588,
+        "gebouwde woningen": 0.994619253156395,
+        "raad terug": 0.9928274169521449,
+        "Vraag": 1.9696036283675864,
+        "Vragenhalfuur": 1.9696036283675864,
+        "Kempen": 1.9485723832124922,
+        "Metropoolregio": 0.9485723832124922,
+        "Ruimte": 0.9485723832124922,
+        "Wonen": 0.9485723832124922,
+        "Eersel": 0.9485723832124922,
+        "Laten": 1.936580012774709,
+        "uitzoeken": 1.936580012774709,
+        "zegt": 0.9156109991007653,
+        "terug": 0.9156109991007653,
+        "koppelen": 0.9156109991007653,
+        "bestuur": 0.9156109991007653,
+        "besproken": 0.9156109991007653,
+        "opvangen": 0.9156109991007653
+    },
+    "svz": "Op dit moment zijn we in afwachting van het gesprek binnen de Metropoolregio Eindhoven. Vanzelfsprekend houden...  Lees verder ",
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": [
+        1256317
+    ]
+}

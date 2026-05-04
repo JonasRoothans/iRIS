@@ -1,0 +1,76 @@
+{
+    "module_id": 1030766,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230022,
+    "title": "Ketaminegebruik in Europese steden – Eindhoven bijna koploper (Vraag V1 Vragenhalfuur)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/moties_en_toezeggingen/1030766?parent_event=1256317",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Toub (Wethouder)",
+    "result": "",
+    "date": "25-03-2025",
+    "meeting_url": {
+        "1256317": "https://raadsinformatie.eindhoven.nl/vergadering/1256317#ai_8588160"
+    },
+    "attachment": null,
+    "parent": "ai_8588160",
+    "children": [],
+    "text": "Wethouder Toub zegt toe de raad nader te informeren nadat in mei de Skipmonitor is gepubliceerd. Onderdeel van deze monitor is een specifieke uitvraag over ketaminegebruik onder jongeren.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 15287074,
+            "weight": 1.1524215342299249
+        },
+        {
+            "id": 1092345,
+            "weight": 0.32064580742559595
+        },
+        {
+            "id": 896860,
+            "weight": 0.25983089040512847
+        },
+        {
+            "id": 915636,
+            "weight": 0.254118584333763
+        }
+    ],
+    "videostarttime": {
+        "1256317": 1211
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_25.03.25_01-EINDHOVEN-RAA-ONDERTITEL_2025.03.25_205144.mp4/playlist.m3u8",
+    "keywords": {
+        "Wethouder Toub": 0.9927280104459772,
+        "Europese steden": 1.9853736558352564,
+        "Toub zegt": 0.9763526322110485,
+        "Vraag": 1.9606055135265628,
+        "Vragenhalfuur": 1.9606055135265628,
+        "raad nader": 0.9465082090416147,
+        "Eindhoven": 1.9295790225780718,
+        "Toub": 0.8974809812916287,
+        "Skipmonitor": 0.8974809812916287,
+        "steden": 1.8593870843728357,
+        "koploper": 1.8593870843728357,
+        "gepubliceerd": 0.8593870843728358,
+        "Ketaminegebruik": 1.7802514793942001,
+        "zegt": 0.7746653434761172,
+        "nader": 0.7746653434761172,
+        "informeren": 0.7746653434761172,
+        "mei": 0.7746653434761172,
+        "specifieke uitvraag": 0.6621093467205148,
+        "Onderdeel": 0.6376481613018729,
+        "jongeren": 0.6376481613018729
+    },
+    "svz": null,
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": [
+        1256317
+    ]
+}

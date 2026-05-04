@@ -1,0 +1,88 @@
+{
+    "module_id": 809124,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230013,
+    "title": "Profielschets - Raadsvoorstel Uitvoering gebiedsontwikkeling Fellenoord (Hoe)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/809124",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Steenbakkers (Wethouder)",
+    "result": "",
+    "date": "10-01-2023",
+    "meeting_url": {
+        "1058157": "https://raadsinformatie.eindhoven.nl/vergadering/1058157#ai_7220808"
+    },
+    "attachment": null,
+    "parent": 798901,
+    "children": [],
+    "text": "De profielschets voor de leden van de Raad van Commissarissen (RvC) voor input voor te leggen aan de Raadscommissie.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 966877,
+            "weight": 1.864359618518624
+        },
+        {
+            "id": "a_7349640",
+            "weight": 0.2678014512849081
+        },
+        {
+            "id": 809119,
+            "weight": 0.24250896165408053
+        },
+        {
+            "id": 777008,
+            "weight": 0.11304047710019252
+        },
+        {
+            "id": 919107,
+            "weight": 0.11011340158848332
+        },
+        {
+            "id": 1126821,
+            "weight": 0.10555973110520321
+        },
+        {
+            "id": 776494,
+            "weight": 0.07545824979397403
+        },
+        {
+            "id": 826999,
+            "weight": 0.07112591569478754
+        },
+        {
+            "id": 1092907,
+            "weight": 0.06535635512547751
+        },
+        {
+            "id": 1046814,
+            "weight": 0.059638495916430966
+        }
+    ],
+    "videostarttime": {},
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_10.01.2022_NC_Eindhoven_Meningsvorming.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Uitvoering": 1.9971117958689621,
+        "gebiedsontwikkeling Fellenoord": 1.9948753359715181,
+        "Uitvoering gebiedsontwikkeling": 1.993283488848006,
+        "Fellenoord": 1.9530871150905829,
+        "Commissarissen": 0.953087115090583,
+        "Raadscommissie": 0.953087115090583,
+        "RvC": 0.9485935317369906,
+        "Uitvoering": 1.9386120372534896,
+        "Raad": 1.9386120372534896,
+        "Profielschets": 1.9339339225947139,
+        "leden": 0.8913190745870246,
+        "input": 0.8913190745870246
+    },
+    "svz": null,
+    "afgedaan": "04-07-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

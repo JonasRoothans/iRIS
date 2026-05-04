@@ -1,0 +1,98 @@
+{
+    "module_id": 966042,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 231116,
+    "title": "Meer aanwezigheid politie in wijken - Raadsvoorstel Jaarstukken 2023",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/966042",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "J. Dijsselbloem (Burgemeester)",
+    "result": "",
+    "date": "26-06-2024",
+    "meeting_url": {
+        "1147977": "https://raadsinformatie.eindhoven.nl/vergadering/1147977#ai_8483500"
+    },
+    "attachment": null,
+    "parent": 946916,
+    "children": [],
+    "text": "Burgemeester Dijsselbloem zegt toe dat hij hierop terug komt  zodra de politie dit inzichtelijk maakt.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 945619,
+            "weight": 0.262560403071317
+        },
+        {
+            "id": 850793,
+            "weight": 0.15589533590859098
+        },
+        {
+            "id": 966048,
+            "weight": 0.15532647295318597
+        },
+        {
+            "id": 966038,
+            "weight": 0.14564732073368478
+        },
+        {
+            "id": 966043,
+            "weight": 0.14197269592790507
+        },
+        {
+            "id": 1061943,
+            "weight": 0.11664956141527431
+        },
+        {
+            "id": 945691,
+            "weight": 0.10923549055026358
+        },
+        {
+            "id": 945678,
+            "weight": 0.10923549055026358
+        },
+        {
+            "id": 1104134,
+            "weight": 0.09127254246650902
+        },
+        {
+            "id": 1020312,
+            "weight": 0.08985226466754137
+        },
+        {
+            "id": 850877,
+            "weight": 0.06706514149325955
+        }
+    ],
+    "videostarttime": {
+        "1147977": 762
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_26.06.24_NC_Eindhoven_Cie.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Jaarstukken": 1.9962544760965244,
+        "Burgemeester Dijsselbloem": 0.9944028274550927,
+        "Dijsselbloem zegt": 0.9836335688345734,
+        "inzichtelijk maakt": 0.9805899584790301,
+        "hierop terug": 0.96776056316734,
+        "terug komt": 0.96776056316734,
+        "aanwezigheid politie": 1.9532798096956148,
+        "Jaarstukken": 1.9389136078667915,
+        "Burgemeester": 0.9389136078667913,
+        "wijken": 1.8922607228460988,
+        "maakt": 0.8922607228460988,
+        "politie": 1.8737182748260663,
+        "zegt": 0.8232727580700172,
+        "hierop": 0.8232727580700172,
+        "terug": 0.8232727580700172,
+        "komt": 0.8232727580700172
+    },
+    "svz": null,
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

@@ -1,0 +1,2271 @@
+{
+    "api": "https://api.notubiz.nl/events/1148129?format=json",
+    "meeting_id": 1148129,
+    "title": "Raadsvergadering",
+    "date": "2024-10-01",
+    "video_url": "//eindhoven.raadsinformatie.nl/media/download?file=S_01.10.24_Eindhoven_raad.mp4",
+    "speaker": {
+        "722": {
+            "speech_id": 29488988,
+            "speaker_id": 231116,
+            "start_time": 722,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29488988",
+            "topic": "Aanbieden Initiatiefvoorstel Referendumverordening gemeente Eindhoven 2024"
+        },
+        "828": {
+            "speech_id": 29488989,
+            "speaker_id": 230159,
+            "start_time": 828,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29488989",
+            "topic": "Aanbieden Initiatiefvoorstel Referendumverordening gemeente Eindhoven 2024"
+        },
+        "556": {
+            "speech_id": 29488996,
+            "speaker_id": 231116,
+            "start_time": 556,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29488996",
+            "topic": "Vaststellen van de volgorde van de agenda "
+        },
+        "915": {
+            "speech_id": 29488990,
+            "speaker_id": 231116,
+            "start_time": 915,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29488990",
+            "topic": "Vaststellen van de volgorde van de agenda "
+        },
+        "960": {
+            "speech_id": 29488991,
+            "speaker_id": 229972,
+            "start_time": 960,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29488991",
+            "topic": "Vaststellen van de volgorde van de agenda "
+        },
+        "1066": {
+            "speech_id": 29488992,
+            "speaker_id": 231116,
+            "start_time": 1066,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29488992",
+            "topic": "Vaststellen van de volgorde van de agenda "
+        },
+        "1072": {
+            "speech_id": 29488993,
+            "speaker_id": 230019,
+            "start_time": 1072,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29488993",
+            "topic": "Vaststellen van de volgorde van de agenda "
+        },
+        "1107": {
+            "speech_id": 29488994,
+            "speaker_id": 231116,
+            "start_time": 1107,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29488994",
+            "topic": "Vaststellen van de volgorde van de agenda "
+        },
+        "1140": {
+            "speech_id": 29488995,
+            "speaker_id": 231116,
+            "start_time": 1140,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29488995",
+            "topic": "Vaststellen van de volgorde van de agenda "
+        },
+        "1172": {
+            "speech_id": 29488997,
+            "speaker_id": 229913,
+            "start_time": 1172,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29488997",
+            "topic": "Vaststellen van de volgorde van de agenda "
+        },
+        "1216": {
+            "speech_id": 29488998,
+            "speaker_id": 230151,
+            "start_time": 1216,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29488998",
+            "topic": "Vaststellen van de volgorde van de agenda "
+        },
+        "1323": {
+            "speech_id": 29488999,
+            "speaker_id": 229913,
+            "start_time": 1323,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29488999",
+            "topic": "Vragenhalfuur ex artikel 42 van het Reglement van de orde van de raad"
+        },
+        "1376": {
+            "speech_id": 29489000,
+            "speaker_id": 231116,
+            "start_time": 1376,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489000",
+            "topic": "Vragenhalfuur ex artikel 42 van het Reglement van de orde van de raad"
+        },
+        "1386": {
+            "speech_id": 29489001,
+            "speaker_id": 230014,
+            "start_time": 1386,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489001",
+            "topic": "Vragenhalfuur ex artikel 42 van het Reglement van de orde van de raad"
+        },
+        "1522": {
+            "speech_id": 29489002,
+            "speaker_id": 229913,
+            "start_time": 1522,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489002",
+            "topic": "Vragenhalfuur ex artikel 42 van het Reglement van de orde van de raad"
+        },
+        "1523": {
+            "speech_id": 29489003,
+            "speaker_id": 231116,
+            "start_time": 1523,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489003",
+            "topic": "Vragenhalfuur ex artikel 42 van het Reglement van de orde van de raad"
+        },
+        "1549": {
+            "speech_id": 29489004,
+            "speaker_id": 248169,
+            "start_time": 1549,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489004",
+            "topic": "Vragenhalfuur ex artikel 42 van het Reglement van de orde van de raad"
+        },
+        "1619": {
+            "speech_id": 29489005,
+            "speaker_id": 231116,
+            "start_time": 1619,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489005",
+            "topic": "Vragenhalfuur ex artikel 42 van het Reglement van de orde van de raad"
+        },
+        "1749": {
+            "speech_id": 29489006,
+            "speaker_id": 231116,
+            "start_time": 1749,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489006",
+            "topic": "Vragenhalfuur ex artikel 42 van het Reglement van de orde van de raad"
+        },
+        "1754": {
+            "speech_id": 29489007,
+            "speaker_id": 248169,
+            "start_time": 1754,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489007",
+            "topic": "Vragenhalfuur ex artikel 42 van het Reglement van de orde van de raad"
+        },
+        "1774": {
+            "speech_id": 29489009,
+            "speaker_id": 231116,
+            "start_time": 1774,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489009",
+            "topic": "Vragenhalfuur ex artikel 42 van het Reglement van de orde van de raad"
+        },
+        "1812": {
+            "speech_id": 29489010,
+            "speaker_id": 231116,
+            "start_time": 1812,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489010",
+            "topic": "Vragenhalfuur ex artikel 42 van het Reglement van de orde van de raad"
+        },
+        "1813": {
+            "speech_id": 29489011,
+            "speaker_id": 248169,
+            "start_time": 1813,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489011",
+            "topic": "Vragenhalfuur ex artikel 42 van het Reglement van de orde van de raad"
+        },
+        "1831": {
+            "speech_id": 29489012,
+            "speaker_id": 229972,
+            "start_time": 1831,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489012",
+            "topic": "Vragenhalfuur ex artikel 42 van het Reglement van de orde van de raad"
+        },
+        "1898": {
+            "speech_id": 29489013,
+            "speaker_id": 231116,
+            "start_time": 1898,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489013",
+            "topic": "Vragenhalfuur ex artikel 42 van het Reglement van de orde van de raad"
+        },
+        "1901": {
+            "speech_id": 29489014,
+            "speaker_id": 230023,
+            "start_time": 1901,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489014",
+            "topic": "Vragenhalfuur ex artikel 42 van het Reglement van de orde van de raad"
+        },
+        "2085": {
+            "speech_id": 29489015,
+            "speaker_id": 231116,
+            "start_time": 2085,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489015",
+            "topic": "Vragenhalfuur ex artikel 42 van het Reglement van de orde van de raad"
+        },
+        "2088": {
+            "speech_id": 29489016,
+            "speaker_id": 229972,
+            "start_time": 2088,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489016",
+            "topic": "Vragenhalfuur ex artikel 42 van het Reglement van de orde van de raad"
+        },
+        "2137": {
+            "speech_id": 29489017,
+            "speaker_id": 231116,
+            "start_time": 2137,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489017",
+            "topic": "Vragenhalfuur ex artikel 42 van het Reglement van de orde van de raad"
+        },
+        "2138": {
+            "speech_id": 29489018,
+            "speaker_id": 230023,
+            "start_time": 2138,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489018",
+            "topic": "Vragenhalfuur ex artikel 42 van het Reglement van de orde van de raad"
+        },
+        "2232": {
+            "speech_id": 29489019,
+            "speaker_id": 231116,
+            "start_time": 2232,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489019",
+            "topic": "Vragenhalfuur ex artikel 42 van het Reglement van de orde van de raad"
+        },
+        "2245": {
+            "speech_id": 29489020,
+            "speaker_id": 229972,
+            "start_time": 2245,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489020",
+            "topic": "Vragenhalfuur ex artikel 42 van het Reglement van de orde van de raad"
+        },
+        "2262": {
+            "speech_id": 29489021,
+            "speaker_id": 231116,
+            "start_time": 2262,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489021",
+            "topic": "Motie met gestaakte stemmen - Zet het mes in het aantal landbouwdieren"
+        },
+        "2347": {
+            "speech_id": 29489022,
+            "speaker_id": 230178,
+            "start_time": 2347,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489022",
+            "topic": "Motie met gestaakte stemmen - Zet het mes in het aantal landbouwdieren"
+        },
+        "2367": {
+            "speech_id": 29489023,
+            "speaker_id": 231116,
+            "start_time": 2367,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489023",
+            "topic": "Motie met gestaakte stemmen - Zet het mes in het aantal landbouwdieren"
+        },
+        "2371": {
+            "speech_id": 29489024,
+            "speaker_id": 229913,
+            "start_time": 2371,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489024",
+            "topic": "Motie met gestaakte stemmen - Zet het mes in het aantal landbouwdieren"
+        },
+        "2389": {
+            "speech_id": 29489025,
+            "speaker_id": 231116,
+            "start_time": 2389,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489025",
+            "topic": "Motie met gestaakte stemmen - Zet het mes in het aantal landbouwdieren"
+        },
+        "2392": {
+            "speech_id": 29489026,
+            "speaker_id": 230159,
+            "start_time": 2392,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489026",
+            "topic": "Motie met gestaakte stemmen - Zet het mes in het aantal landbouwdieren"
+        },
+        "2407": {
+            "speech_id": 29489027,
+            "speaker_id": 231116,
+            "start_time": 2407,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489027",
+            "topic": "Motie met gestaakte stemmen - Zet het mes in het aantal landbouwdieren"
+        },
+        "2439": {
+            "speech_id": 29489028,
+            "speaker_id": 231116,
+            "start_time": 2439,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489028",
+            "topic": "Raadsvoorstel Vestiging van een gemeentelijk voorkeursrecht op onroerende zaken in cluster 7 van het gebied Fellenoord, Eindhoven Internationale Knoop XL"
+        },
+        "2480": {
+            "speech_id": 29489029,
+            "speaker_id": 230159,
+            "start_time": 2480,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489029",
+            "topic": "Raadsvoorstel Vestiging van een gemeentelijk voorkeursrecht op onroerende zaken in cluster 7 van het gebied Fellenoord, Eindhoven Internationale Knoop XL"
+        },
+        "2493": {
+            "speech_id": 29489030,
+            "speaker_id": 231116,
+            "start_time": 2493,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489030",
+            "topic": "Raadsvoorstel Vestiging van een gemeentelijk voorkeursrecht op onroerende zaken in cluster 7 van het gebied Fellenoord, Eindhoven Internationale Knoop XL"
+        },
+        "1807": {
+            "speech_id": 29405018,
+            "speaker_id": 248564,
+            "start_time": 1807,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29405018",
+            "topic": "Raadsvoorstel Sharing the Vibes: Samen naar een bruisend Eindhoven"
+        },
+        "2526": {
+            "speech_id": 29489031,
+            "speaker_id": 231116,
+            "start_time": 2526,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489031",
+            "topic": "Raadsvoorstel Sharing the Vibes: Samen naar een bruisend Eindhoven"
+        },
+        "2551": {
+            "speech_id": 29489032,
+            "speaker_id": 230020,
+            "start_time": 2551,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489032",
+            "topic": "Raadsvoorstel Sharing the Vibes: Samen naar een bruisend Eindhoven"
+        },
+        "2630": {
+            "speech_id": 29489033,
+            "speaker_id": 231116,
+            "start_time": 2630,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489033",
+            "topic": "Raadsvoorstel Sharing the Vibes: Samen naar een bruisend Eindhoven"
+        },
+        "2640": {
+            "speech_id": 29489034,
+            "speaker_id": 229914,
+            "start_time": 2640,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489034",
+            "topic": "Raadsvoorstel Sharing the Vibes: Samen naar een bruisend Eindhoven"
+        },
+        "2711": {
+            "speech_id": 29489035,
+            "speaker_id": 231116,
+            "start_time": 2711,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489035",
+            "topic": "Raadsvoorstel Sharing the Vibes: Samen naar een bruisend Eindhoven"
+        },
+        "2719": {
+            "speech_id": 29489036,
+            "speaker_id": 230159,
+            "start_time": 2719,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489036",
+            "topic": "Raadsvoorstel Sharing the Vibes: Samen naar een bruisend Eindhoven"
+        },
+        "2734": {
+            "speech_id": 29489037,
+            "speaker_id": 231116,
+            "start_time": 2734,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489037",
+            "topic": "Raadsvoorstel Sharing the Vibes: Samen naar een bruisend Eindhoven"
+        },
+        "2736": {
+            "speech_id": 29489038,
+            "speaker_id": 229914,
+            "start_time": 2736,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489038",
+            "topic": "Raadsvoorstel Sharing the Vibes: Samen naar een bruisend Eindhoven"
+        },
+        "2757": {
+            "speech_id": 29489039,
+            "speaker_id": 231116,
+            "start_time": 2757,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489039",
+            "topic": "Raadsvoorstel Sharing the Vibes: Samen naar een bruisend Eindhoven"
+        },
+        "2758": {
+            "speech_id": 29489040,
+            "speaker_id": 230159,
+            "start_time": 2758,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489040",
+            "topic": "Raadsvoorstel Sharing the Vibes: Samen naar een bruisend Eindhoven"
+        },
+        "2778": {
+            "speech_id": 29489041,
+            "speaker_id": 231116,
+            "start_time": 2778,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489041",
+            "topic": "Raadsvoorstel Sharing the Vibes: Samen naar een bruisend Eindhoven"
+        },
+        "2781": {
+            "speech_id": 29489042,
+            "speaker_id": 229914,
+            "start_time": 2781,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489042",
+            "topic": "Raadsvoorstel Sharing the Vibes: Samen naar een bruisend Eindhoven"
+        },
+        "2805": {
+            "speech_id": 29489043,
+            "speaker_id": 231116,
+            "start_time": 2805,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489043",
+            "topic": "Raadsvoorstel Sharing the Vibes: Samen naar een bruisend Eindhoven"
+        },
+        "2813": {
+            "speech_id": 29489044,
+            "speaker_id": 230020,
+            "start_time": 2813,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489044",
+            "topic": "Raadsvoorstel Sharing the Vibes: Samen naar een bruisend Eindhoven"
+        },
+        "2872": {
+            "speech_id": 29489045,
+            "speaker_id": 231116,
+            "start_time": 2872,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489045",
+            "topic": "Raadsvoorstel Sharing the Vibes: Samen naar een bruisend Eindhoven"
+        },
+        "2875": {
+            "speech_id": 29489046,
+            "speaker_id": 229920,
+            "start_time": 2875,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489046",
+            "topic": "Raadsvoorstel Sharing the Vibes: Samen naar een bruisend Eindhoven"
+        },
+        "2880": {
+            "speech_id": 29489047,
+            "speaker_id": 229901,
+            "start_time": 2880,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489047",
+            "topic": "Raadsvoorstel Sharing the Vibes: Samen naar een bruisend Eindhoven"
+        },
+        "2940": {
+            "speech_id": 29489048,
+            "speaker_id": 231116,
+            "start_time": 2940,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489048",
+            "topic": "Raadsvoorstel Sharing the Vibes: Samen naar een bruisend Eindhoven"
+        },
+        "2951": {
+            "speech_id": 29489049,
+            "speaker_id": 229901,
+            "start_time": 2951,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489049",
+            "topic": "Raadsvoorstel Sharing the Vibes: Samen naar een bruisend Eindhoven"
+        },
+        "2957": {
+            "speech_id": 29489050,
+            "speaker_id": 231116,
+            "start_time": 2957,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489050",
+            "topic": "Raadsvoorstel Sharing the Vibes: Samen naar een bruisend Eindhoven"
+        },
+        "2960": {
+            "speech_id": 29489051,
+            "speaker_id": 230159,
+            "start_time": 2960,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489051",
+            "topic": "Raadsvoorstel Sharing the Vibes: Samen naar een bruisend Eindhoven"
+        },
+        "2964": {
+            "speech_id": 29489052,
+            "speaker_id": 231116,
+            "start_time": 2964,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489052",
+            "topic": "Raadsvoorstel Sharing the Vibes: Samen naar een bruisend Eindhoven"
+        },
+        "3004": {
+            "speech_id": 29489053,
+            "speaker_id": 231116,
+            "start_time": 3004,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489053",
+            "topic": "Raadsvoorstel Sharing the Vibes: Samen naar een bruisend Eindhoven"
+        },
+        "3041": {
+            "speech_id": 29489054,
+            "speaker_id": 229920,
+            "start_time": 3041,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489054",
+            "topic": "Raadsvoorstel Sharing the Vibes: Samen naar een bruisend Eindhoven"
+        },
+        "3067": {
+            "speech_id": 29489055,
+            "speaker_id": 231116,
+            "start_time": 3067,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489055",
+            "topic": "Raadsvoorstel Sharing the Vibes: Samen naar een bruisend Eindhoven"
+        },
+        "3068": {
+            "speech_id": 29489056,
+            "speaker_id": 229914,
+            "start_time": 3068,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489056",
+            "topic": "Raadsvoorstel Sharing the Vibes: Samen naar een bruisend Eindhoven"
+        },
+        "3094": {
+            "speech_id": 29489057,
+            "speaker_id": 231116,
+            "start_time": 3094,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489057",
+            "topic": "Raadsvoorstel Sharing the Vibes: Samen naar een bruisend Eindhoven"
+        },
+        "3187": {
+            "speech_id": 29489058,
+            "speaker_id": 231116,
+            "start_time": 3187,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489058",
+            "topic": "Raadsvoorstel Sharing the Vibes: Samen naar een bruisend Eindhoven"
+        },
+        "3351": {
+            "speech_id": 29489059,
+            "speaker_id": 231116,
+            "start_time": 3351,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489059",
+            "topic": "Raadsvoorstel Sharing the Vibes: Samen naar een bruisend Eindhoven"
+        },
+        "3362": {
+            "speech_id": 29489060,
+            "speaker_id": 229914,
+            "start_time": 3362,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489060",
+            "topic": "Raadsvoorstel Sharing the Vibes: Samen naar een bruisend Eindhoven"
+        },
+        "3389": {
+            "speech_id": 29489061,
+            "speaker_id": 229920,
+            "start_time": 3389,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489061",
+            "topic": "Raadsvoorstel Sharing the Vibes: Samen naar een bruisend Eindhoven"
+        },
+        "3406": {
+            "speech_id": 29489062,
+            "speaker_id": 229910,
+            "start_time": 3406,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489062",
+            "topic": "Raadsvoorstel Sharing the Vibes: Samen naar een bruisend Eindhoven"
+        },
+        "3408": {
+            "speech_id": 29489063,
+            "speaker_id": 229910,
+            "start_time": 3408,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489063",
+            "topic": "Raadsvoorstel Sharing the Vibes: Samen naar een bruisend Eindhoven"
+        },
+        "3430": {
+            "speech_id": 29489064,
+            "speaker_id": 231116,
+            "start_time": 3430,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489064",
+            "topic": "Raadsvoorstel Sharing the Vibes: Samen naar een bruisend Eindhoven"
+        },
+        "3432": {
+            "speech_id": 29489065,
+            "speaker_id": 230159,
+            "start_time": 3432,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489065",
+            "topic": "Raadsvoorstel Sharing the Vibes: Samen naar een bruisend Eindhoven"
+        },
+        "3458": {
+            "speech_id": 29489066,
+            "speaker_id": 231116,
+            "start_time": 3458,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489066",
+            "topic": "Raadsvoorstel Sharing the Vibes: Samen naar een bruisend Eindhoven"
+        },
+        "3462": {
+            "speech_id": 29489067,
+            "speaker_id": 230172,
+            "start_time": 3462,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489067",
+            "topic": "Raadsvoorstel Sharing the Vibes: Samen naar een bruisend Eindhoven"
+        },
+        "3495": {
+            "speech_id": 29489068,
+            "speaker_id": 231116,
+            "start_time": 3495,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489068",
+            "topic": "Raadsvoorstel Sharing the Vibes: Samen naar een bruisend Eindhoven"
+        },
+        "3546": {
+            "speech_id": 29489069,
+            "speaker_id": 231116,
+            "start_time": 3546,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489069",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "3566": {
+            "speech_id": 29489070,
+            "speaker_id": 229944,
+            "start_time": 3566,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489070",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "3677": {
+            "speech_id": 29489071,
+            "speaker_id": 231116,
+            "start_time": 3677,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489071",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "3703": {
+            "speech_id": 29489072,
+            "speaker_id": 229907,
+            "start_time": 3703,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489072",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "3787": {
+            "speech_id": 29489073,
+            "speaker_id": 231116,
+            "start_time": 3787,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489073",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "3789": {
+            "speech_id": 29489074,
+            "speaker_id": 230159,
+            "start_time": 3789,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489074",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "3817": {
+            "speech_id": 29489075,
+            "speaker_id": 231116,
+            "start_time": 3817,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489075",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "3819": {
+            "speech_id": 29489076,
+            "speaker_id": 229907,
+            "start_time": 3819,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489076",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "3849": {
+            "speech_id": 29489077,
+            "speaker_id": 231116,
+            "start_time": 3849,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489077",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "3855": {
+            "speech_id": 29489078,
+            "speaker_id": 229916,
+            "start_time": 3855,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489078",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "3880": {
+            "speech_id": 29489079,
+            "speaker_id": 231116,
+            "start_time": 3880,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489079",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "3881": {
+            "speech_id": 29489080,
+            "speaker_id": 229907,
+            "start_time": 3881,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489080",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "3904": {
+            "speech_id": 29489081,
+            "speaker_id": 231116,
+            "start_time": 3904,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489081",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "3908": {
+            "speech_id": 29489082,
+            "speaker_id": 229972,
+            "start_time": 3908,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489082",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "3942": {
+            "speech_id": 29489083,
+            "speaker_id": 231116,
+            "start_time": 3942,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489083",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "3943": {
+            "speech_id": 29489084,
+            "speaker_id": 229907,
+            "start_time": 3943,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489084",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "3974": {
+            "speech_id": 29489085,
+            "speaker_id": 231116,
+            "start_time": 3974,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489085",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "3984": {
+            "speech_id": 29489086,
+            "speaker_id": 229916,
+            "start_time": 3984,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489086",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "4003": {
+            "speech_id": 29489087,
+            "speaker_id": 231116,
+            "start_time": 4003,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489087",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "4005": {
+            "speech_id": 29489088,
+            "speaker_id": 229907,
+            "start_time": 4005,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489088",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "4028": {
+            "speech_id": 29489089,
+            "speaker_id": 231116,
+            "start_time": 4028,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489089",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "4059": {
+            "speech_id": 29489090,
+            "speaker_id": 230178,
+            "start_time": 4059,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489090",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "4215": {
+            "speech_id": 29489091,
+            "speaker_id": 231116,
+            "start_time": 4215,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489091",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "4220": {
+            "speech_id": 29489092,
+            "speaker_id": 229916,
+            "start_time": 4220,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489092",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "4250": {
+            "speech_id": 29489094,
+            "speaker_id": 230178,
+            "start_time": 4250,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489094",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "4298": {
+            "speech_id": 29489095,
+            "speaker_id": 231116,
+            "start_time": 4298,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489095",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "4302": {
+            "speech_id": 29489096,
+            "speaker_id": 230115,
+            "start_time": 4302,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489096",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "4381": {
+            "speech_id": 29489097,
+            "speaker_id": 231116,
+            "start_time": 4381,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489097",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "4383": {
+            "speech_id": 29489098,
+            "speaker_id": 230178,
+            "start_time": 4383,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489098",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "4462": {
+            "speech_id": 29489099,
+            "speaker_id": 230115,
+            "start_time": 4462,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489099",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "4463": {
+            "speech_id": 29489100,
+            "speaker_id": 231116,
+            "start_time": 4463,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489100",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "4481": {
+            "speech_id": 29489101,
+            "speaker_id": 231116,
+            "start_time": 4481,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489101",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "4484": {
+            "speech_id": 29489102,
+            "speaker_id": 230178,
+            "start_time": 4484,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489102",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "4520": {
+            "speech_id": 29489103,
+            "speaker_id": 231116,
+            "start_time": 4520,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489103",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "4522": {
+            "speech_id": 29489104,
+            "speaker_id": 230115,
+            "start_time": 4522,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489104",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "4592": {
+            "speech_id": 29489105,
+            "speaker_id": 231116,
+            "start_time": 4592,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489105",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "4593": {
+            "speech_id": 29489106,
+            "speaker_id": 230178,
+            "start_time": 4593,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489106",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "4628": {
+            "speech_id": 29489107,
+            "speaker_id": 231116,
+            "start_time": 4628,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489107",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "4639": {
+            "speech_id": 29489108,
+            "speaker_id": 230178,
+            "start_time": 4639,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489108",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "4641": {
+            "speech_id": 29489109,
+            "speaker_id": 243387,
+            "start_time": 4641,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489109",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "4658": {
+            "speech_id": 29489110,
+            "speaker_id": 231116,
+            "start_time": 4658,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489110",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "4667": {
+            "speech_id": 29489132,
+            "speaker_id": 231116,
+            "start_time": 4667,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489132",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "4683": {
+            "speech_id": 29489111,
+            "speaker_id": 229972,
+            "start_time": 4683,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489111",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "4824": {
+            "speech_id": 29489112,
+            "speaker_id": 231116,
+            "start_time": 4824,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489112",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "4850": {
+            "speech_id": 29489113,
+            "speaker_id": 229983,
+            "start_time": 4850,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489113",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "4942": {
+            "speech_id": 29489114,
+            "speaker_id": 231116,
+            "start_time": 4942,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489114",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "4950": {
+            "speech_id": 29489115,
+            "speaker_id": 229917,
+            "start_time": 4950,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489115",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "4968": {
+            "speech_id": 29489117,
+            "speaker_id": 229983,
+            "start_time": 4968,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489117",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "5001": {
+            "speech_id": 29489118,
+            "speaker_id": 231116,
+            "start_time": 5001,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489118",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "5003": {
+            "speech_id": 29489119,
+            "speaker_id": 230115,
+            "start_time": 5003,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489119",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "5031": {
+            "speech_id": 29489120,
+            "speaker_id": 231116,
+            "start_time": 5031,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489120",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "5033": {
+            "speech_id": 29489121,
+            "speaker_id": 229983,
+            "start_time": 5033,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489121",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "5052": {
+            "speech_id": 29489122,
+            "speaker_id": 231116,
+            "start_time": 5052,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489122",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "5054": {
+            "speech_id": 29489123,
+            "speaker_id": 229917,
+            "start_time": 5054,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489123",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "5072": {
+            "speech_id": 29489124,
+            "speaker_id": 231116,
+            "start_time": 5072,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489124",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "5073": {
+            "speech_id": 29489125,
+            "speaker_id": 229983,
+            "start_time": 5073,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489125",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "5107": {
+            "speech_id": 29489126,
+            "speaker_id": 231116,
+            "start_time": 5107,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489126",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "5110": {
+            "speech_id": 29489127,
+            "speaker_id": 229916,
+            "start_time": 5110,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489127",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "5148": {
+            "speech_id": 29489129,
+            "speaker_id": 229983,
+            "start_time": 5148,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489129",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "5165": {
+            "speech_id": 29489130,
+            "speaker_id": 231116,
+            "start_time": 5165,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489130",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "5189": {
+            "speech_id": 29489131,
+            "speaker_id": 243387,
+            "start_time": 5189,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489131",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "5273": {
+            "speech_id": 29489133,
+            "speaker_id": 230115,
+            "start_time": 5273,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489133",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "5312": {
+            "speech_id": 29489134,
+            "speaker_id": 231116,
+            "start_time": 5312,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489134",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "5364": {
+            "speech_id": 29489135,
+            "speaker_id": 231116,
+            "start_time": 5364,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489135",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "5366": {
+            "speech_id": 29489136,
+            "speaker_id": 230115,
+            "start_time": 5366,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489136",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "5397": {
+            "speech_id": 29489138,
+            "speaker_id": 231116,
+            "start_time": 5397,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489138",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "5425": {
+            "speech_id": 29489139,
+            "speaker_id": 231116,
+            "start_time": 5425,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489139",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "5428": {
+            "speech_id": 29489140,
+            "speaker_id": 229916,
+            "start_time": 5428,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489140",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "5495": {
+            "speech_id": 29489141,
+            "speaker_id": 231116,
+            "start_time": 5495,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489141",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "5497": {
+            "speech_id": 29489142,
+            "speaker_id": 243387,
+            "start_time": 5497,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489142",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "5549": {
+            "speech_id": 29489143,
+            "speaker_id": 231116,
+            "start_time": 5549,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489143",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "5566": {
+            "speech_id": 29489144,
+            "speaker_id": 230023,
+            "start_time": 5566,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489144",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "5830": {
+            "speech_id": 29489145,
+            "speaker_id": 231116,
+            "start_time": 5830,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489145",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "5833": {
+            "speech_id": 29489146,
+            "speaker_id": 229972,
+            "start_time": 5833,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489146",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "5879": {
+            "speech_id": 29489147,
+            "speaker_id": 230023,
+            "start_time": 5879,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489147",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "5881": {
+            "speech_id": 29489148,
+            "speaker_id": 231116,
+            "start_time": 5881,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489148",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "5967": {
+            "speech_id": 29489149,
+            "speaker_id": 231116,
+            "start_time": 5967,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489149",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "5971": {
+            "speech_id": 29489150,
+            "speaker_id": 229907,
+            "start_time": 5971,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489150",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "5982": {
+            "speech_id": 29489151,
+            "speaker_id": 231116,
+            "start_time": 5982,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489151",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "5985": {
+            "speech_id": 29489152,
+            "speaker_id": 230023,
+            "start_time": 5985,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489152",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "6083": {
+            "speech_id": 29489159,
+            "speaker_id": 231116,
+            "start_time": 6083,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489159",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "6200": {
+            "speech_id": 29489173,
+            "speaker_id": 231116,
+            "start_time": 6200,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489173",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "6201": {
+            "speech_id": 29489174,
+            "speaker_id": 230023,
+            "start_time": 6201,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489174",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "6295": {
+            "speech_id": 29489182,
+            "speaker_id": 231116,
+            "start_time": 6295,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489182",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "6302": {
+            "speech_id": 29489183,
+            "speaker_id": 229972,
+            "start_time": 6302,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489183",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "6378": {
+            "speech_id": 29489193,
+            "speaker_id": 231116,
+            "start_time": 6378,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489193",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "6397": {
+            "speech_id": 29489201,
+            "speaker_id": 229920,
+            "start_time": 6397,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489201",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "6406": {
+            "speech_id": 29489203,
+            "speaker_id": 231116,
+            "start_time": 6406,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489203",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "6412": {
+            "speech_id": 29489204,
+            "speaker_id": 229983,
+            "start_time": 6412,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489204",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "6421": {
+            "speech_id": 29489209,
+            "speaker_id": 243387,
+            "start_time": 6421,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489209",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "6434": {
+            "speech_id": 29489211,
+            "speaker_id": 229917,
+            "start_time": 6434,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489211",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "6470": {
+            "speech_id": 29489220,
+            "speaker_id": 231116,
+            "start_time": 6470,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489220",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "6471": {
+            "speech_id": 29489221,
+            "speaker_id": 230115,
+            "start_time": 6471,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489221",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "6499": {
+            "speech_id": 29489227,
+            "speaker_id": 231116,
+            "start_time": 6499,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489227",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "6503": {
+            "speech_id": 29489229,
+            "speaker_id": 248169,
+            "start_time": 6503,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489229",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "6531": {
+            "speech_id": 29489233,
+            "speaker_id": 231116,
+            "start_time": 6531,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489233",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "6538": {
+            "speech_id": 29489234,
+            "speaker_id": 243387,
+            "start_time": 6538,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489234",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "6554": {
+            "speech_id": 29489240,
+            "speaker_id": 231116,
+            "start_time": 6554,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489240",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "6557": {
+            "speech_id": 29489242,
+            "speaker_id": 229916,
+            "start_time": 6557,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489242",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "6559": {
+            "speech_id": 29489243,
+            "speaker_id": 229916,
+            "start_time": 6559,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489243",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "6577": {
+            "speech_id": 29489246,
+            "speaker_id": 231116,
+            "start_time": 6577,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489246",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "6579": {
+            "speech_id": 29489247,
+            "speaker_id": 230159,
+            "start_time": 6579,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489247",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "6588": {
+            "speech_id": 29489250,
+            "speaker_id": 231116,
+            "start_time": 6588,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489250",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "6591": {
+            "speech_id": 29489251,
+            "speaker_id": 229920,
+            "start_time": 6591,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489251",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "6597": {
+            "speech_id": 29489254,
+            "speaker_id": 231116,
+            "start_time": 6597,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489254",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "6628": {
+            "speech_id": 29489260,
+            "speaker_id": 231116,
+            "start_time": 6628,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489260",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "6655": {
+            "speech_id": 29489268,
+            "speaker_id": 231116,
+            "start_time": 6655,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489268",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "6689": {
+            "speech_id": 29489275,
+            "speaker_id": 231116,
+            "start_time": 6689,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489275",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "6705": {
+            "speech_id": 29489281,
+            "speaker_id": 231116,
+            "start_time": 6705,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489281",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "6708": {
+            "speech_id": 29489282,
+            "speaker_id": 230115,
+            "start_time": 6708,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489282",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "6714": {
+            "speech_id": 29489286,
+            "speaker_id": 230159,
+            "start_time": 6714,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489286",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "6717": {
+            "speech_id": 29489287,
+            "speaker_id": 230159,
+            "start_time": 6717,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489287",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "6721": {
+            "speech_id": 29489288,
+            "speaker_id": 230159,
+            "start_time": 6721,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489288",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "6723": {
+            "speech_id": 29489290,
+            "speaker_id": 230159,
+            "start_time": 6723,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489290",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "6735": {
+            "speech_id": 29489291,
+            "speaker_id": 231116,
+            "start_time": 6735,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489291",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "6745": {
+            "speech_id": 29489294,
+            "speaker_id": 231116,
+            "start_time": 6745,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489294",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "6759": {
+            "speech_id": 29489298,
+            "speaker_id": 231116,
+            "start_time": 6759,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489298",
+            "topic": "Raadsvoorstel concept Gebiedskader Sectie-C"
+        },
+        "6783": {
+            "speech_id": 29489302,
+            "speaker_id": 231116,
+            "start_time": 6783,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489302",
+            "topic": "Raadsvoorstel Planoptimalisatie VDMA"
+        },
+        "6913": {
+            "speech_id": 29489317,
+            "speaker_id": 230178,
+            "start_time": 6913,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489317",
+            "topic": "Raadsvoorstel Planoptimalisatie VDMA"
+        },
+        "7085": {
+            "speech_id": 29489350,
+            "speaker_id": 231116,
+            "start_time": 7085,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489350",
+            "topic": "Raadsvoorstel Planoptimalisatie VDMA"
+        },
+        "7088": {
+            "speech_id": 29489351,
+            "speaker_id": 229917,
+            "start_time": 7088,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489351",
+            "topic": "Raadsvoorstel Planoptimalisatie VDMA"
+        },
+        "7118": {
+            "speech_id": 29489358,
+            "speaker_id": 231116,
+            "start_time": 7118,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489358",
+            "topic": "Raadsvoorstel Planoptimalisatie VDMA"
+        },
+        "7164": {
+            "speech_id": 29489371,
+            "speaker_id": 231116,
+            "start_time": 7164,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489371",
+            "topic": "Raadsvoorstel Planoptimalisatie VDMA"
+        },
+        "7165": {
+            "speech_id": 29489372,
+            "speaker_id": 229917,
+            "start_time": 7165,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489372",
+            "topic": "Raadsvoorstel Planoptimalisatie VDMA"
+        },
+        "7178": {
+            "speech_id": 29489376,
+            "speaker_id": 231116,
+            "start_time": 7178,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489376",
+            "topic": "Raadsvoorstel Planoptimalisatie VDMA"
+        },
+        "7200": {
+            "speech_id": 29489382,
+            "speaker_id": 229907,
+            "start_time": 7200,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489382",
+            "topic": "Raadsvoorstel Planoptimalisatie VDMA"
+        },
+        "7296": {
+            "speech_id": 29489403,
+            "speaker_id": 231116,
+            "start_time": 7296,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489403",
+            "topic": "Raadsvoorstel Planoptimalisatie VDMA"
+        },
+        "7297": {
+            "speech_id": 29489404,
+            "speaker_id": 229907,
+            "start_time": 7297,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489404",
+            "topic": "Raadsvoorstel Planoptimalisatie VDMA"
+        },
+        "7305": {
+            "speech_id": 29489406,
+            "speaker_id": 230159,
+            "start_time": 7305,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489406",
+            "topic": "Raadsvoorstel Planoptimalisatie VDMA"
+        },
+        "7357": {
+            "speech_id": 29489418,
+            "speaker_id": 231116,
+            "start_time": 7357,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489418",
+            "topic": "Raadsvoorstel Planoptimalisatie VDMA"
+        },
+        "7362": {
+            "speech_id": 29489419,
+            "speaker_id": 229944,
+            "start_time": 7362,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489419",
+            "topic": "Raadsvoorstel Planoptimalisatie VDMA"
+        },
+        "7383": {
+            "speech_id": 29489423,
+            "speaker_id": 231116,
+            "start_time": 7383,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489423",
+            "topic": "Raadsvoorstel Planoptimalisatie VDMA"
+        },
+        "7384": {
+            "speech_id": 29489424,
+            "speaker_id": 229907,
+            "start_time": 7384,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489424",
+            "topic": "Raadsvoorstel Planoptimalisatie VDMA"
+        },
+        "7419": {
+            "speech_id": 29489438,
+            "speaker_id": 231116,
+            "start_time": 7419,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489438",
+            "topic": "Raadsvoorstel Planoptimalisatie VDMA"
+        },
+        "7444": {
+            "speech_id": 29489442,
+            "speaker_id": 229983,
+            "start_time": 7444,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489442",
+            "topic": "Raadsvoorstel Planoptimalisatie VDMA"
+        },
+        "7558": {
+            "speech_id": 29489469,
+            "speaker_id": 231116,
+            "start_time": 7558,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489469",
+            "topic": "Raadsvoorstel Planoptimalisatie VDMA"
+        },
+        "7560": {
+            "speech_id": 29489470,
+            "speaker_id": 229917,
+            "start_time": 7560,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489470",
+            "topic": "Raadsvoorstel Planoptimalisatie VDMA"
+        },
+        "7580": {
+            "speech_id": 29489474,
+            "speaker_id": 231116,
+            "start_time": 7580,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489474",
+            "topic": "Raadsvoorstel Planoptimalisatie VDMA"
+        },
+        "7581": {
+            "speech_id": 29489475,
+            "speaker_id": 229983,
+            "start_time": 7581,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489475",
+            "topic": "Raadsvoorstel Planoptimalisatie VDMA"
+        },
+        "7600": {
+            "speech_id": 29489479,
+            "speaker_id": 231116,
+            "start_time": 7600,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489479",
+            "topic": "Raadsvoorstel Planoptimalisatie VDMA"
+        },
+        "7601": {
+            "speech_id": 29489480,
+            "speaker_id": 230159,
+            "start_time": 7601,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489480",
+            "topic": "Raadsvoorstel Planoptimalisatie VDMA"
+        },
+        "7612": {
+            "speech_id": 29489485,
+            "speaker_id": 231116,
+            "start_time": 7612,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489485",
+            "topic": "Raadsvoorstel Planoptimalisatie VDMA"
+        },
+        "7613": {
+            "speech_id": 29489486,
+            "speaker_id": 229983,
+            "start_time": 7613,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489486",
+            "topic": "Raadsvoorstel Planoptimalisatie VDMA"
+        },
+        "7624": {
+            "speech_id": 29489490,
+            "speaker_id": 230159,
+            "start_time": 7624,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489490",
+            "topic": "Raadsvoorstel Planoptimalisatie VDMA"
+        },
+        "7634": {
+            "speech_id": 29489491,
+            "speaker_id": 229983,
+            "start_time": 7634,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489491",
+            "topic": "Raadsvoorstel Planoptimalisatie VDMA"
+        },
+        "7646": {
+            "speech_id": 29489492,
+            "speaker_id": 231116,
+            "start_time": 7646,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489492",
+            "topic": "Raadsvoorstel Planoptimalisatie VDMA"
+        },
+        "7657": {
+            "speech_id": 29489494,
+            "speaker_id": 230019,
+            "start_time": 7657,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489494",
+            "topic": "Raadsvoorstel Planoptimalisatie VDMA"
+        },
+        "7840": {
+            "speech_id": 29489521,
+            "speaker_id": 230019,
+            "start_time": 7840,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489521",
+            "topic": "Raadsvoorstel Planoptimalisatie VDMA"
+        },
+        "7903": {
+            "speech_id": 29489528,
+            "speaker_id": 231116,
+            "start_time": 7903,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489528",
+            "topic": "Raadsvoorstel Planoptimalisatie VDMA"
+        },
+        "7907": {
+            "speech_id": 29489529,
+            "speaker_id": 230172,
+            "start_time": 7907,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489529",
+            "topic": "Raadsvoorstel Planoptimalisatie VDMA"
+        },
+        "7946": {
+            "speech_id": 29489535,
+            "speaker_id": 231116,
+            "start_time": 7946,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489535",
+            "topic": "Raadsvoorstel Planoptimalisatie VDMA"
+        },
+        "7947": {
+            "speech_id": 29489536,
+            "speaker_id": 230019,
+            "start_time": 7947,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489536",
+            "topic": "Raadsvoorstel Planoptimalisatie VDMA"
+        },
+        "7972": {
+            "speech_id": 29489540,
+            "speaker_id": 231116,
+            "start_time": 7972,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489540",
+            "topic": "Raadsvoorstel Planoptimalisatie VDMA"
+        },
+        "7973": {
+            "speech_id": 29489736,
+            "speaker_id": 229907,
+            "start_time": 7973,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489736",
+            "topic": "Raadsvoorstel Planoptimalisatie VDMA"
+        },
+        "8367": {
+            "speech_id": 29489657,
+            "speaker_id": 231116,
+            "start_time": 8367,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489657",
+            "topic": "Raadsvoorstel Planoptimalisatie VDMA"
+        },
+        "8391": {
+            "speech_id": 29489662,
+            "speaker_id": 230151,
+            "start_time": 8391,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489662",
+            "topic": "Raadsvoorstel Planoptimalisatie VDMA"
+        },
+        "8409": {
+            "speech_id": 29489671,
+            "speaker_id": 231116,
+            "start_time": 8409,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489671",
+            "topic": "Raadsvoorstel Planoptimalisatie VDMA"
+        },
+        "8427": {
+            "speech_id": 29489676,
+            "speaker_id": 229917,
+            "start_time": 8427,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489676",
+            "topic": "Raadsvoorstel Planoptimalisatie VDMA"
+        },
+        "8461": {
+            "speech_id": 29489689,
+            "speaker_id": 231116,
+            "start_time": 8461,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489689",
+            "topic": "Raadsvoorstel Planoptimalisatie VDMA"
+        },
+        "8479": {
+            "speech_id": 29489694,
+            "speaker_id": 248169,
+            "start_time": 8479,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489694",
+            "topic": "Raadsvoorstel Planoptimalisatie VDMA"
+        },
+        "8501": {
+            "speech_id": 29489706,
+            "speaker_id": 231116,
+            "start_time": 8501,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489706",
+            "topic": "Raadsvoorstel Planoptimalisatie VDMA"
+        },
+        "8505": {
+            "speech_id": 29489707,
+            "speaker_id": 230159,
+            "start_time": 8505,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489707",
+            "topic": "Raadsvoorstel Planoptimalisatie VDMA"
+        },
+        "8520": {
+            "speech_id": 29489716,
+            "speaker_id": 231116,
+            "start_time": 8520,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489716",
+            "topic": "Raadsvoorstel Planoptimalisatie VDMA"
+        },
+        "8525": {
+            "speech_id": 29489721,
+            "speaker_id": 230178,
+            "start_time": 8525,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489721",
+            "topic": "Raadsvoorstel Planoptimalisatie VDMA"
+        },
+        "8548": {
+            "speech_id": 29489731,
+            "speaker_id": 231116,
+            "start_time": 8548,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489731",
+            "topic": "Raadsvoorstel Planoptimalisatie VDMA"
+        },
+        "8562": {
+            "speech_id": 29489734,
+            "speaker_id": 230178,
+            "start_time": 8562,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489734",
+            "topic": "Raadsvoorstel Planoptimalisatie VDMA"
+        },
+        "8568": {
+            "speech_id": 29489735,
+            "speaker_id": 229983,
+            "start_time": 8568,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489735",
+            "topic": "Raadsvoorstel Planoptimalisatie VDMA"
+        },
+        "8581": {
+            "speech_id": 29489737,
+            "speaker_id": 229972,
+            "start_time": 8581,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489737",
+            "topic": "Raadsvoorstel Planoptimalisatie VDMA"
+        },
+        "8606": {
+            "speech_id": 29489740,
+            "speaker_id": 231116,
+            "start_time": 8606,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489740",
+            "topic": "Raadsvoorstel Planoptimalisatie VDMA"
+        },
+        "8609": {
+            "speech_id": 29489744,
+            "speaker_id": 229916,
+            "start_time": 8609,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489744",
+            "topic": "Raadsvoorstel Planoptimalisatie VDMA"
+        },
+        "8633": {
+            "speech_id": 29489749,
+            "speaker_id": 231116,
+            "start_time": 8633,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489749",
+            "topic": "Raadsvoorstel Planoptimalisatie VDMA"
+        },
+        "8636": {
+            "speech_id": 29489751,
+            "speaker_id": 229920,
+            "start_time": 8636,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489751",
+            "topic": "Raadsvoorstel Planoptimalisatie VDMA"
+        },
+        "8647": {
+            "speech_id": 29489753,
+            "speaker_id": 231116,
+            "start_time": 8647,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489753",
+            "topic": "Raadsvoorstel Planoptimalisatie VDMA"
+        },
+        "8649": {
+            "speech_id": 29489754,
+            "speaker_id": 229983,
+            "start_time": 8649,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489754",
+            "topic": "Raadsvoorstel Planoptimalisatie VDMA"
+        },
+        "8664": {
+            "speech_id": 29489761,
+            "speaker_id": 231116,
+            "start_time": 8664,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489761",
+            "topic": "Raadsvoorstel Planoptimalisatie VDMA"
+        },
+        "8667": {
+            "speech_id": 29489762,
+            "speaker_id": 229907,
+            "start_time": 8667,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489762",
+            "topic": "Raadsvoorstel Planoptimalisatie VDMA"
+        },
+        "8679": {
+            "speech_id": 29489769,
+            "speaker_id": 231116,
+            "start_time": 8679,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489769",
+            "topic": "Raadsvoorstel Planoptimalisatie VDMA"
+        },
+        "8680": {
+            "speech_id": 29489770,
+            "speaker_id": 229913,
+            "start_time": 8680,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489770",
+            "topic": "Raadsvoorstel Planoptimalisatie VDMA"
+        },
+        "8690": {
+            "speech_id": 29489777,
+            "speaker_id": 231116,
+            "start_time": 8690,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489777",
+            "topic": "Raadsvoorstel Planoptimalisatie VDMA"
+        },
+        "8694": {
+            "speech_id": 29489780,
+            "speaker_id": 230100,
+            "start_time": 8694,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489780",
+            "topic": "Raadsvoorstel Planoptimalisatie VDMA"
+        },
+        "8724": {
+            "speech_id": 29489799,
+            "speaker_id": 231116,
+            "start_time": 8724,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489799",
+            "topic": "Raadsvoorstel Planoptimalisatie VDMA"
+        },
+        "8733": {
+            "speech_id": 29489802,
+            "speaker_id": 229910,
+            "start_time": 8733,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489802",
+            "topic": "Raadsvoorstel Planoptimalisatie VDMA"
+        },
+        "8751": {
+            "speech_id": 29489808,
+            "speaker_id": 231116,
+            "start_time": 8751,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489808",
+            "topic": "Raadsvoorstel Planoptimalisatie VDMA"
+        },
+        "8786": {
+            "speech_id": 29489830,
+            "speaker_id": 231116,
+            "start_time": 8786,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489830",
+            "topic": "Raadsvoorstel Planoptimalisatie VDMA"
+        },
+        "8811": {
+            "speech_id": 29489842,
+            "speaker_id": 230151,
+            "start_time": 8811,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489842",
+            "topic": "Raadsvoorstel Planoptimalisatie VDMA"
+        },
+        "8852": {
+            "speech_id": 29489861,
+            "speaker_id": 231116,
+            "start_time": 8852,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489861",
+            "topic": "Raadsvoorstel Planoptimalisatie VDMA"
+        },
+        "8875": {
+            "speech_id": 29489871,
+            "speaker_id": 231116,
+            "start_time": 8875,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489871",
+            "topic": "Raadsvoorstel Planoptimalisatie VDMA"
+        },
+        "6204": {
+            "speech_id": 29489176,
+            "speaker_id": 230023,
+            "start_time": 6204,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489176",
+            "topic": "Vrije moties"
+        },
+        "8885": {
+            "speech_id": 29489876,
+            "speaker_id": 231116,
+            "start_time": 8885,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489876",
+            "topic": "Vrije moties"
+        },
+        "8915": {
+            "speech_id": 29489892,
+            "speaker_id": 229972,
+            "start_time": 8915,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489892",
+            "topic": "Vrije moties"
+        },
+        "9167": {
+            "speech_id": 29489974,
+            "speaker_id": 231116,
+            "start_time": 9167,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489974",
+            "topic": "Vrije moties"
+        },
+        "9170": {
+            "speech_id": 29489975,
+            "speaker_id": 230020,
+            "start_time": 9170,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489975",
+            "topic": "Vrije moties"
+        },
+        "9214": {
+            "speech_id": 29489994,
+            "speaker_id": 231116,
+            "start_time": 9214,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489994",
+            "topic": "Vrije moties"
+        },
+        "9216": {
+            "speech_id": 29489996,
+            "speaker_id": 229972,
+            "start_time": 9216,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29489996",
+            "topic": "Vrije moties"
+        },
+        "9245": {
+            "speech_id": 29490011,
+            "speaker_id": 231116,
+            "start_time": 9245,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29490011",
+            "topic": "Vrije moties"
+        },
+        "9254": {
+            "speech_id": 29490012,
+            "speaker_id": 229983,
+            "start_time": 9254,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29490012",
+            "topic": "Vrije moties"
+        },
+        "9284": {
+            "speech_id": 29490018,
+            "speaker_id": 231116,
+            "start_time": 9284,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29490018",
+            "topic": "Vrije moties"
+        },
+        "9286": {
+            "speech_id": 29490019,
+            "speaker_id": 229972,
+            "start_time": 9286,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29490019",
+            "topic": "Vrije moties"
+        },
+        "9337": {
+            "speech_id": 29490032,
+            "speaker_id": 231116,
+            "start_time": 9337,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29490032",
+            "topic": "Vrije moties"
+        },
+        "9339": {
+            "speech_id": 29490033,
+            "speaker_id": 229983,
+            "start_time": 9339,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29490033",
+            "topic": "Vrije moties"
+        },
+        "9349": {
+            "speech_id": 29490038,
+            "speaker_id": 231116,
+            "start_time": 9349,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29490038",
+            "topic": "Vrije moties"
+        },
+        "9352": {
+            "speech_id": 29490040,
+            "speaker_id": 229907,
+            "start_time": 9352,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29490040",
+            "topic": "Vrije moties"
+        },
+        "9389": {
+            "speech_id": 29490047,
+            "speaker_id": 229972,
+            "start_time": 9389,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29490047",
+            "topic": "Vrije moties"
+        },
+        "9430": {
+            "speech_id": 29490062,
+            "speaker_id": 231116,
+            "start_time": 9430,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29490062",
+            "topic": "Vrije moties"
+        },
+        "9432": {
+            "speech_id": 29490063,
+            "speaker_id": 229907,
+            "start_time": 9432,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29490063",
+            "topic": "Vrije moties"
+        },
+        "9445": {
+            "speech_id": 29490070,
+            "speaker_id": 229972,
+            "start_time": 9445,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29490070",
+            "topic": "Vrije moties"
+        },
+        "9446": {
+            "speech_id": 29490071,
+            "speaker_id": 231116,
+            "start_time": 9446,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29490071",
+            "topic": "Vrije moties"
+        },
+        "9455": {
+            "speech_id": 29490074,
+            "speaker_id": 231116,
+            "start_time": 9455,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29490074",
+            "topic": "Vrije moties"
+        },
+        "9456": {
+            "speech_id": 29490075,
+            "speaker_id": 230151,
+            "start_time": 9456,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29490075",
+            "topic": "Vrije moties"
+        },
+        "9491": {
+            "speech_id": 29490085,
+            "speaker_id": 231116,
+            "start_time": 9491,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29490085",
+            "topic": "Vrije moties"
+        },
+        "9578": {
+            "speech_id": 29490098,
+            "speaker_id": 230172,
+            "start_time": 9578,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29490098",
+            "topic": "Vrije moties"
+        },
+        "9585": {
+            "speech_id": 29490100,
+            "speaker_id": 231116,
+            "start_time": 9585,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29490100",
+            "topic": "Vrije moties"
+        },
+        "9594": {
+            "speech_id": 29490105,
+            "speaker_id": 230023,
+            "start_time": 9594,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29490105",
+            "topic": "Vrije moties"
+        },
+        "9597": {
+            "speech_id": 29490107,
+            "speaker_id": 231116,
+            "start_time": 9597,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29490107",
+            "topic": "Vrije moties"
+        },
+        "9606": {
+            "speech_id": 29490109,
+            "speaker_id": 230023,
+            "start_time": 9606,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29490109",
+            "topic": "Vrije moties"
+        },
+        "9665": {
+            "speech_id": 29490126,
+            "speaker_id": 231116,
+            "start_time": 9665,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29490126",
+            "topic": "Vrije moties"
+        },
+        "9676": {
+            "speech_id": 29490128,
+            "speaker_id": 231116,
+            "start_time": 9676,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29490128",
+            "topic": "Vrije moties"
+        },
+        "9689": {
+            "speech_id": 29490133,
+            "speaker_id": 230023,
+            "start_time": 9689,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29490133",
+            "topic": "Vrije moties"
+        },
+        "9890": {
+            "speech_id": 29490168,
+            "speaker_id": 231116,
+            "start_time": 9890,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29490168",
+            "topic": "Vrije moties"
+        },
+        "9892": {
+            "speech_id": 29490169,
+            "speaker_id": 230020,
+            "start_time": 9892,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29490169",
+            "topic": "Vrije moties"
+        },
+        "9933": {
+            "speech_id": 29490178,
+            "speaker_id": 231116,
+            "start_time": 9933,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29490178",
+            "topic": "Vrije moties"
+        },
+        "9975": {
+            "speech_id": 29490185,
+            "speaker_id": 231116,
+            "start_time": 9975,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29490185",
+            "topic": "Vrije moties"
+        },
+        "9976": {
+            "speech_id": 29490186,
+            "speaker_id": 230020,
+            "start_time": 9976,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29490186",
+            "topic": "Vrije moties"
+        },
+        "10018": {
+            "speech_id": 29490194,
+            "speaker_id": 230020,
+            "start_time": 10018,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29490194",
+            "topic": "Vrije moties"
+        },
+        "10019": {
+            "speech_id": 29490196,
+            "speaker_id": 230023,
+            "start_time": 10019,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29490196",
+            "topic": "Vrije moties"
+        },
+        "10101": {
+            "speech_id": 29490208,
+            "speaker_id": 231116,
+            "start_time": 10101,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29490208",
+            "topic": "Vrije moties"
+        },
+        "10105": {
+            "speech_id": 29490211,
+            "speaker_id": 230023,
+            "start_time": 10105,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29490211",
+            "topic": "Vrije moties"
+        },
+        "10110": {
+            "speech_id": 29490217,
+            "speaker_id": 231116,
+            "start_time": 10110,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29490217",
+            "topic": "Vrije moties"
+        },
+        "10113": {
+            "speech_id": 29490219,
+            "speaker_id": 229972,
+            "start_time": 10113,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29490219",
+            "topic": "Vrije moties"
+        },
+        "10155": {
+            "speech_id": 29490235,
+            "speaker_id": 230023,
+            "start_time": 10155,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29490235",
+            "topic": "Vrije moties"
+        },
+        "10203": {
+            "speech_id": 29490250,
+            "speaker_id": 231116,
+            "start_time": 10203,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29490250",
+            "topic": "Vrije moties"
+        },
+        "10206": {
+            "speech_id": 29490251,
+            "speaker_id": 229972,
+            "start_time": 10206,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29490251",
+            "topic": "Vrije moties"
+        },
+        "10226": {
+            "speech_id": 29490259,
+            "speaker_id": 231116,
+            "start_time": 10226,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29490259",
+            "topic": "Vrije moties"
+        },
+        "10248": {
+            "speech_id": 29490266,
+            "speaker_id": 231116,
+            "start_time": 10248,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29490266",
+            "topic": "Vrije moties"
+        },
+        "10260": {
+            "speech_id": 29490268,
+            "speaker_id": 229972,
+            "start_time": 10260,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29490268",
+            "topic": "Vrije moties"
+        },
+        "10268": {
+            "speech_id": 29490269,
+            "speaker_id": 231116,
+            "start_time": 10268,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29490269",
+            "topic": "Vrije moties"
+        },
+        "10351": {
+            "speech_id": 29490295,
+            "speaker_id": 229972,
+            "start_time": 10351,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29490295",
+            "topic": "Vrije moties"
+        },
+        "10360": {
+            "speech_id": 29490298,
+            "speaker_id": 231116,
+            "start_time": 10360,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29490298",
+            "topic": "Vrije moties"
+        },
+        "10377": {
+            "speech_id": 29490302,
+            "speaker_id": 229972,
+            "start_time": 10377,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29490302",
+            "topic": "Vrije moties"
+        },
+        "10394": {
+            "speech_id": 29490308,
+            "speaker_id": 231116,
+            "start_time": 10394,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29490308",
+            "topic": "Ingekomen stukken afdoen conform advies"
+        },
+        "10416": {
+            "speech_id": 29490315,
+            "speaker_id": 229913,
+            "start_time": 10416,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29490315",
+            "topic": "Ingekomen stukken afdoen conform advies"
+        },
+        "10457": {
+            "speech_id": 29490330,
+            "speaker_id": 231116,
+            "start_time": 10457,
+            "url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024#si_29490330",
+            "topic": "Sluiting"
+        }
+    },
+    "meeting_url": "http://eindhoven.raadsinformatie.nl/vergadering/1148129/Raadsvergadering 01-10-2024"
+}

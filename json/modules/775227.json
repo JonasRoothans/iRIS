@@ -1,0 +1,93 @@
+{
+    "module_id": 775227,
+    "vote_id": null,
+    "member_id": [
+        47266,
+        194375,
+        194511
+    ],
+    "party_list": [
+        " Ouderen Appèl - Hart voor Eindhoven",
+        "Partij voor de Dieren",
+        "GroenLinks"
+    ],
+    "poho_id": 230014,
+    "title": "Biomassa Eenduidig over biomassa ( M1)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/775227",
+    "type": "Motie",
+    "member": "Lotte Meerhoff, Niek Rennenberg en Jonas Roothans",
+    "party": null,
+    "poho": "R. Thijs (Wethouder)",
+    "result": "Ingetrokken",
+    "date": "24-05-2022",
+    "meeting_url": {
+        "1013429": "https://raadsinformatie.eindhoven.nl/vergadering/1013429#ai_6964474"
+    },
+    "attachment": null,
+    "parent": "ai_6964474",
+    "children": [],
+    "text": "Wethouder Thijs zegt toe:\n\nde motie te omarmen, met de uitleg dat bij nieuwe plannen zo goed als mogelijk zal worden gesproken over een transitiebrandstof in plaats van een duurzame energiebron.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": "ai_6964474",
+            "weight": 3.5497879133912233
+        },
+        {
+            "id": 941360,
+            "weight": 1.0592534476000532
+        },
+        {
+            "id": 777522,
+            "weight": 0.6905465595527644
+        },
+        {
+            "id": "a_8465104",
+            "weight": 0.40101288277615316
+        },
+        {
+            "id": 1148282,
+            "weight": 0.3898741010636187
+        },
+        {
+            "id": 944421,
+            "weight": 0.3434419946148468
+        },
+        {
+            "id": 791378,
+            "weight": 0.3215951386702098
+        }
+    ],
+    "videostarttime": {
+        "1013429": 6538
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/24.05.22 Eindhoven Raad ruw.mp4/playlist.m3u8",
+    "keywords": {
+        "Wethouder Thijs": 0.9944446555520121,
+        "Thijs zegt": 0.9837989814664826,
+        "duurzame energiebron": 0.9808597720080376,
+        "Biomassa Eenduidig": 1.9767270977128084,
+        "nieuwe plannen": 0.9681962193601596,
+        "Eenduidig": 1.909192467309945,
+        "Thijs": 0.909192467309945,
+        "omarmen": 0.8930274509376158,
+        "Biomassa": 1.8747703400871132,
+        "zegt": 0.8244338371947252,
+        "motie": 0.8244338371947252,
+        "uitleg": 0.8244338371947252,
+        "nieuwe": 0.8244338371947252,
+        "plannen": 0.8244338371947252,
+        "goed": 0.8244338371947252,
+        "gesproken": 0.8244338371947252,
+        "transitiebrandstof": 0.8244338371947252,
+        "plaats": 0.8244338371947252,
+        "duurzame": 0.8244338371947252
+    },
+    "svz": null,
+    "afgedaan": "27-09-2022",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

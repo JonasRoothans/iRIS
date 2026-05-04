@@ -1,0 +1,105 @@
+{
+    "module_id": 918983,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230013,
+    "title": "Verkeersintensiteit - Raadsvoorstel Gebiedskader Spoorzone Fuutlaan",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/918983",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Steenbakkers (Wethouder)",
+    "result": "",
+    "date": "06-02-2024",
+    "meeting_url": {
+        "1146954": "https://raadsinformatie.eindhoven.nl/vergadering/1146954#ai_8131954"
+    },
+    "attachment": null,
+    "parent": 905875,
+    "children": [],
+    "text": "Wethouder Steenbakkers zegt toe om nog schriftelijke informatie te sturen over verkeersintensiteit.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 918984,
+            "weight": 3.376623305035977
+        },
+        {
+            "id": 905875,
+            "weight": 1.90786339753772
+        },
+        {
+            "id": "a_8235495",
+            "weight": 0.8716760430349906
+        },
+        {
+            "id": 920184,
+            "weight": 0.6721533939177802
+        },
+        {
+            "id": 896066,
+            "weight": 0.49787888236536687
+        },
+        {
+            "id": 896065,
+            "weight": 0.49708496416144304
+        },
+        {
+            "id": 884474,
+            "weight": 0.49665393149392456
+        },
+        {
+            "id": 950549,
+            "weight": 0.36936234851134014
+        },
+        {
+            "id": "a_8029254",
+            "weight": 0.23394841996980154
+        },
+        {
+            "id": 1090156,
+            "weight": 0.19684517504577193
+        },
+        {
+            "id": 926664,
+            "weight": 0.1618507542216442
+        },
+        {
+            "id": 1090175,
+            "weight": 0.13126103351450297
+        },
+        {
+            "id": 785112,
+            "weight": 0.10991856964728036
+        }
+    ],
+    "videostarttime": {
+        "1146954": 703
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_06.02.24_NC_EINDHOVEN_CIE.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Gebiedskader": 1.9943213285331507,
+        "Gebiedskader Spoorzone": 1.991516725493055,
+        "Spoorzone Fuutlaan": 1.991516725493055,
+        "Fuutlaan Wethouder": 0.991516725493055,
+        "Wethouder Steenbakkers": 0.991516725493055,
+        "Steenbakkers zegt": 0.9833091160051232,
+        "schriftelijke informatie": 0.9668999712097638,
+        "Raadsvoorstel": 1.9384341196608197,
+        "Verkeersintensiteit": 1.9334683526937526,
+        "Spoorzone": 1.908283513303596,
+        "Fuutlaan": 1.908283513303596,
+        "Wethouder": 0.9082835133035961,
+        "zegt": 0.8210041347862065,
+        "informatie": 0.8210041347862065,
+        "sturen": 0.8210041347862065
+    },
+    "svz": null,
+    "afgedaan": "05-03-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

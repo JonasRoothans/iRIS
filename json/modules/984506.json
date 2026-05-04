@@ -1,0 +1,89 @@
+{
+    "module_id": 984506,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230024,
+    "title": "Instroom-, doorstroom- en uitstroomcijfers van bijstandsgerechtigden - Raadsvoorstel Begroting 2025",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/984506",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Lammers (Wethouder)",
+    "result": "",
+    "date": "29-10-2024",
+    "meeting_url": {
+        "1148141": "https://raadsinformatie.eindhoven.nl/vergadering/1148141#ai_8729567"
+    },
+    "attachment": null,
+    "parent": 975511,
+    "children": [],
+    "text": "Wethouder Lammers zegt toe dat de raad regelmatig wordt  geïnformeerd.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1027586,
+            "weight": 0.2990056414196906
+        },
+        {
+            "id": 862790,
+            "weight": 0.24544792262121526
+        },
+        {
+            "id": 1116686,
+            "weight": 0.18983358418878946
+        },
+        {
+            "id": 783628,
+            "weight": 0.18514850167937025
+        },
+        {
+            "id": 922483,
+            "weight": 0.169667584726051
+        },
+        {
+            "id": 1034728,
+            "weight": 0.16592185317257085
+        },
+        {
+            "id": 1047611,
+            "weight": 0.1610014247497045
+        },
+        {
+            "id": 1090175,
+            "weight": 0.15147305748061443
+        },
+        {
+            "id": 1003503,
+            "weight": 0.14506303761926184
+        },
+        {
+            "id": 1135733,
+            "weight": 0.1125711596473003
+        }
+    ],
+    "videostarttime": {
+        "1148141": null
+    },
+    "videolink": null,
+    "keywords": {
+        "Raadsvoorstel Begroting": 1.9925553183866471,
+        "Wethouder Lammers": 0.9873976398760466,
+        "Instroom": 1.9550880231213545,
+        "Lammers zegt": 0.955011371234592,
+        "Begroting": 1.9140368224837343,
+        "raad regelmatig": 0.9029960071342576,
+        "bijstandsgerechtigden": 1.8416830712200127,
+        "geïnformeerd": 0.8416830712200127,
+        "uitstroomcijfers": 1.702634417439785,
+        "zegt": 0.7026344174397849,
+        "raad": 0.7026344174397849
+    },
+    "svz": null,
+    "afgedaan": "03-06-2025",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

@@ -1,0 +1,124 @@
+{
+    "module_id": 1061943,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230013,
+    "title": "Onttrekkingscriteria - Sociaal Rendement - Raadsvoorstel Reserve Toekomstfonds Bedrijventerreinen (Amendement A6)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1061943",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Steenbakkers (Wethouder)",
+    "result": "",
+    "date": "01-07-2025",
+    "meeting_url": {
+        "1256322": "https://raadsinformatie.eindhoven.nl/vergadering/1256322#ai_9347112"
+    },
+    "attachment": null,
+    "parent": 1043848,
+    "children": [],
+    "text": "Wethouder Steenbakkers zegt toe:\nin gesprek met bedrijven het ondersteunen van projecten en initiatieven te bespreken die aantoonbaar bijdragen aan sociaal rendement, en hierop terug te komen in de raadsinformatiebrief over de uitwerking van het Toekomstfonds Bedrijventerreinen.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1043848,
+            "weight": 2.2871944089161156
+        },
+        {
+            "id": 1061947,
+            "weight": 2.287158010722346
+        },
+        {
+            "id": 1148686,
+            "weight": 0.995792175774019
+        },
+        {
+            "id": 787684,
+            "weight": 0.7921130910695823
+        },
+        {
+            "id": "a_9477764",
+            "weight": 0.6234858183902277
+        },
+        {
+            "id": 1148967,
+            "weight": 0.49877872821607216
+        },
+        {
+            "id": 1045729,
+            "weight": 0.49706832096912457
+        },
+        {
+            "id": 949456,
+            "weight": 0.4712814449063815
+        },
+        {
+            "id": 966042,
+            "weight": 0.11664956141527431
+        },
+        {
+            "id": 945691,
+            "weight": 0.1088431293864795
+        },
+        {
+            "id": 945678,
+            "weight": 0.1088431293864795
+        },
+        {
+            "id": 945619,
+            "weight": 0.1088431293864795
+        },
+        {
+            "id": 1104134,
+            "weight": 0.09094470212081833
+        },
+        {
+            "id": 1020312,
+            "weight": 0.08952952579434183
+        },
+        {
+            "id": 850877,
+            "weight": 0.06682425131340056
+        }
+    ],
+    "videostarttime": {
+        "1256322": 12574
+    },
+    "videolink": null,
+    "keywords": {
+        "Toekomstfonds Bedrijventerreinen": 1.9975010719904756,
+        "Sociaal Rendement": 1.9957686646454944,
+        "Raadsvoorstel Reserve": 1.9940823475428064,
+        "Wethouder Steenbakkers": 0.9940823475428064,
+        "Reserve Toekomstfonds": 1.9905056669247236,
+        "Steenbakkers zegt": 0.9823410414915972,
+        "aantoonbaar bijdragen": 0.9642844799006663,
+        "hierop terug": 0.9642844799006663,
+        "Onttrekkingscriteria": 1.9460634396629826,
+        "Wethouder": 0.9370446783282913,
+        "Sociaal": 1.932647376719836,
+        "Reserve": 1.906555320515322,
+        "zegt": 0.8143015634365182,
+        "gesprek": 0.8143015634365182,
+        "bedrijven": 0.8143015634365182,
+        "ondersteunen": 0.8143015634365182,
+        "projecten": 0.8143015634365182,
+        "initiatieven": 0.8143015634365182,
+        "bijdragen": 0.8143015634365182,
+        "hierop": 0.8143015634365182,
+        "terug": 0.8143015634365182,
+        "komen": 0.8143015634365182,
+        "raadsinformatiebrief": 0.8143015634365182,
+        "uitwerking": 0.8143015634365182
+    },
+    "svz": null,
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "02-10-2025",
+    "meeting_id": [
+        1256322
+    ]
+}

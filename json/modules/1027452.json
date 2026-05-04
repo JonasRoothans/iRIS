@@ -1,0 +1,96 @@
+{
+    "module_id": 1027452,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Gemeentelijke (toekomst)visie op het agrarisch gebruik op Esp - Raadsvoorstel gewijzigde vaststelling Bestemmingsplan Buitengebied Eindhoven 2023",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1027452",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "11-03-2025",
+    "meeting_url": {
+        "1256335": "https://raadsinformatie.eindhoven.nl/vergadering/1256335#ai_9044362"
+    },
+    "attachment": null,
+    "parent": 1013568,
+    "children": [],
+    "text": "Wethouder Verhees zegt toe de raad te informeren over de gemeentelijke (toekomst)visie op het agrarisch gebruik op Esp",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": "o_9202790",
+            "weight": 1.1379133226018072
+        },
+        {
+            "id": 1027454,
+            "weight": 1.1375437307926313
+        },
+        {
+            "id": 1030771,
+            "weight": 1.1372001364539925
+        },
+        {
+            "id": 1096857,
+            "weight": 0.9321855236946721
+        },
+        {
+            "id": 1013568,
+            "weight": 0.5698682205732559
+        },
+        {
+            "id": 1028150,
+            "weight": 0.5695040500347245
+        },
+        {
+            "id": 889740,
+            "weight": 0.28436765211441445
+        },
+        {
+            "id": 831335,
+            "weight": 0.2689132552853826
+        },
+        {
+            "id": 912836,
+            "weight": 0.26092302495532266
+        },
+        {
+            "id": 1082736,
+            "weight": 0.25386807774832515
+        }
+    ],
+    "videostarttime": {
+        "1256335": 842
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/11.03.25 Eindhoven meningv raadz.mp4/playlist.m3u8",
+    "keywords": {
+        "Buitengebied Eindhoven": 1.9967629408540457,
+        "Wethouder Verhees": 0.9967629408540457,
+        "agrarisch gebruik": 1.9958047332968682,
+        "Bestemmingsplan Buitengebied": 1.9957836560227287,
+        "Raadsvoorstel gewijzigde": 1.9939964877268403,
+        "vaststelling Bestemmingsplan": 1.99217375843664,
+        "Verhees zegt": 0.9921737584366398,
+        "gewijzigde vaststelling": 1.9854283358580656,
+        "Esp": 1.9803105349854673,
+        "toekomst": 1.9786472542597928,
+        "visie": 1.9674189905431785,
+        "Gemeentelijke": 1.9543910147483996,
+        "gebruik": 1.9543910147483996,
+        "Eindhoven": 1.9502042023072401,
+        "gewijzigde": 1.8801568510132365,
+        "zegt": 0.8801568510132365,
+        "raad": 0.8801568510132365,
+        "informeren": 0.8801568510132365
+    },
+    "svz": "Op 24 maart jl. is een schriftelijke reactie toegevoegd aan de agenda-stukken. Voorstel college; Afvoeren....  Lees verder ",
+    "afgedaan": "08-04-2025",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

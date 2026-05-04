@@ -1,0 +1,72 @@
+{
+    "module_id": 787062,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230014,
+    "title": "Uitstootnormen - Asfaltcentrale Eindhoven - Vraag V2 Vragenhalfuur",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/787062",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "R. Thijs (Wethouder)",
+    "result": "",
+    "date": "17-10-2022",
+    "meeting_url": {
+        "1013161": "https://raadsinformatie.eindhoven.nl/vergadering/1013161#ai_6962481"
+    },
+    "attachment": null,
+    "parent": "ai_6962481",
+    "children": [],
+    "text": "Te zullen onderzoeken of het mogelijk is voor de gemeente om alleen asfalt in te kopen bij asfaltcentrales die voldoen aan de uitstootnormen.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1140607,
+            "weight": 0.19640781073441302
+        },
+        {
+            "id": 775049,
+            "weight": 0.09955084785386979
+        },
+        {
+            "id": 1139110,
+            "weight": 0.09500626989402786
+        },
+        {
+            "id": 866937,
+            "weight": 0.09500081172524054
+        },
+        {
+            "id": 822641,
+            "weight": 0.09339381852574102
+        },
+        {
+            "id": 1084768,
+            "weight": 0.07043521087666824
+        }
+    ],
+    "videostarttime": {
+        "1013161": 896
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_11.10.22_Eindhoven_raad.mp4/playlist.m3u8",
+    "keywords": {
+        "Asfaltcentrale Eindhoven": 1.9888504489131487,
+        "Vraag": 1.9654114846155046,
+        "Eindhoven": 1.936580012774709,
+        "Vragenhalfuur": 1.936580012774709,
+        "Uitstootnormen": 1.9283770171336205,
+        "onderzoeken": 0.8120163182304413,
+        "gemeente": 0.8120163182304413,
+        "asfalt": 0.8120163182304413,
+        "kopen": 0.8120163182304413,
+        "voldoen": 0.8120163182304413
+    },
+    "svz": null,
+    "afgedaan": "07-03-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

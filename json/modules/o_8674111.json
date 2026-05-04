@@ -1,0 +1,83 @@
+{
+    "module_id": "o_8674111",
+    "vote_id": 8674111,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Ordevoorstel dhr. Roothans afvoeren agendapunt 8.2",
+    "url": "https://raadsinformatie.eindhoven.nl/vergadering/1148045/Ordevoorstel%20dhr.%20Roothans%20afvoeren%20agendapunt%208.2 10-09-2024#voting_8674111",
+    "type": "Ordevoorstel",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "verworpen",
+    "date": "10-09-2024",
+    "meeting_url": {
+        "1148045": "https://raadsinformatie.eindhoven.nl/vergadering/1148045/Ordevoorstel%20dhr.%20Roothans%20afvoeren%20agendapunt%208.2 10-09-2024#voting_8674111"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": "o_8290549",
+            "weight": 1.0229425545544804
+        },
+        {
+            "id": "o_8044228",
+            "weight": 1.0229425545544804
+        },
+        {
+            "id": 15555133,
+            "weight": 0.33581008508521465
+        },
+        {
+            "id": "o_7006000",
+            "weight": 0.33581008508521465
+        },
+        {
+            "id": 777522,
+            "weight": 0.334811169773902
+        },
+        {
+            "id": 813416,
+            "weight": 0.13460366426012038
+        },
+        {
+            "id": 1148253,
+            "weight": 0.1315048628039297
+        },
+        {
+            "id": 999545,
+            "weight": 0.1297407772085494
+        },
+        {
+            "id": 785761,
+            "weight": 0.09789381829633519
+        },
+        {
+            "id": 1120756,
+            "weight": 0.08753862277003474
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Ordevoorstel dhr": 1.9581125335883751,
+        "dhr": 1.7994920302806434,
+        "Roothans afvoeren": 1.5543944983562055,
+        "afvoeren agendapunt": 1.5543944983562055,
+        "Roothans": 1.5344664897230191
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1148045
+    ]
+}

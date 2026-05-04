@@ -1,0 +1,119 @@
+{
+    "module_id": 883423,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230014,
+    "title": "2.4 Rondvragen - Winkelcentrum De Hurk",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/883423",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "R. Thijs (Wethouder)",
+    "result": "",
+    "date": "03-10-2023",
+    "meeting_url": {
+        "1142109": "https://raadsinformatie.eindhoven.nl/vergadering/1142109#ai_7820969"
+    },
+    "attachment": null,
+    "parent": "ai_7820969",
+    "children": [],
+    "text": "Wethouder Thijs zegt toe te kijken of en hoe de ondernemers in het winkelcentrum De Hurk in gesprek willen met de gemeente over de verkeersveiligheid en schoon houden van het gebied. Hij zal dit terugkoppelen in een mededeling.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": "ai_7820969",
+            "weight": 1.1767039074853787
+        },
+        {
+            "id": 771654,
+            "weight": 0.6350298212463946
+        },
+        {
+            "id": 882877,
+            "weight": 0.551181036242234
+        },
+        {
+            "id": 933013,
+            "weight": 0.37591372151133856
+        },
+        {
+            "id": 852093,
+            "weight": 0.282864688571286
+        },
+        {
+            "id": 903603,
+            "weight": 0.26305883296554883
+        },
+        {
+            "id": 12484012,
+            "weight": 0.2621377470647061
+        },
+        {
+            "id": 12555993,
+            "weight": 0.24065447612926955
+        },
+        {
+            "id": 12640662,
+            "weight": 0.23095909475098236
+        },
+        {
+            "id": 1094272,
+            "weight": 0.20918307143162282
+        },
+        {
+            "id": 12622720,
+            "weight": 0.16003188605247307
+        },
+        {
+            "id": 1035123,
+            "weight": 0.11719075053836688
+        },
+        {
+            "id": 980407,
+            "weight": 0.11622562731362437
+        },
+        {
+            "id": 862271,
+            "weight": 0.09642307039818539
+        },
+        {
+            "id": 12962388,
+            "weight": 0.08474267417101937
+        }
+    ],
+    "videostarttime": {
+        "1142109": 1325
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_03.10.23_EINDHOVEN_RAA.mp4/playlist.m3u8",
+    "keywords": {
+        "Hurk Wethouder": 0.9960110922995679,
+        "Wethouder Thijs": 0.9955803026132652,
+        "Thijs zegt": 0.9910526837252156,
+        "gesprek willen": 0.9818028590398358,
+        "schoon houden": 0.9818028590398358,
+        "Hurk": 1.9700527864063553,
+        "Winkelcentrum": 1.9608490199204422,
+        "Rondvragen": 1.9589054356552857,
+        "Thijs": 0.9336656226756417,
+        "gebied": 0.8981701078238178,
+        "zegt": 0.866314088038172,
+        "kijken": 0.866314088038172,
+        "ondernemers": 0.866314088038172,
+        "gesprek": 0.866314088038172,
+        "willen": 0.866314088038172,
+        "gemeente": 0.866314088038172,
+        "verkeersveiligheid": 0.866314088038172,
+        "schoon": 0.866314088038172,
+        "houden": 0.866314088038172,
+        "mededeling": 0.7174845482005816,
+        "terugkoppelen": 0.6510634054800173
+    },
+    "svz": null,
+    "afgedaan": "08-10-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

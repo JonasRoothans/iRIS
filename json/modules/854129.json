@@ -1,0 +1,78 @@
+{
+    "module_id": 854129,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 231116,
+    "title": "Rapportage cameratoezicht - Commissienotitie 2.0 Camerabeleid art. 151c Gemeentewet",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/854129",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "J. Dijsselbloem (Burgemeester)",
+    "result": "",
+    "date": "06-06-2023",
+    "meeting_url": {
+        "1102751": "https://raadsinformatie.eindhoven.nl/vergadering/1102751#ai_7611637"
+    },
+    "attachment": null,
+    "parent": 845544,
+    "children": [],
+    "text": "Burgemeester Dijsselbloem zegt toe:\n\neen keer per jaar met een rapportage openbare orde en veiligheid te komen, hierin wordt het cameratoezicht meegenomen;",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 854127,
+            "weight": 0.6950634563416229
+        },
+        {
+            "id": 854132,
+            "weight": 0.6934314876309031
+        },
+        {
+            "id": 854130,
+            "weight": 0.6924218500075433
+        },
+        {
+            "id": 854128,
+            "weight": 0.6923459843532163
+        },
+        {
+            "id": 854133,
+            "weight": 0.6894192338231232
+        },
+        {
+            "id": 854131,
+            "weight": 0.6889810540291004
+        }
+    ],
+    "videostarttime": {
+        "1102751": 2558
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_06.06.23_NC_Eindhoven_RAA.mp4/playlist.m3u8",
+    "keywords": {
+        "Camerabeleid art": 1.9890036166376182,
+        "Commissienotitie": 1.9590315282414075,
+        "Gemeentewet Burgemeester": 0.9339238556390488,
+        "Burgemeester Dijsselbloem": 0.9083024010177589,
+        "art": 1.8502608074468405,
+        "Dijsselbloem zegt": 0.8221788825479135,
+        "cameratoezicht meegenomen": 0.7897855940596963,
+        "Gemeentewet": 1.786140442653104,
+        "Rapportage": 1.7711546655895098,
+        "Rapportage cameratoezicht": 1.735008669450938,
+        "Burgemeester": 0.7101803654188534,
+        "keer per": 0.6275724320477952,
+        "per jaar": 0.6275724320477952,
+        "openbare orde": 0.6275724320477952,
+        "komen": 0.6204857406124535,
+        "meegenomen": 0.6204857406124535
+    },
+    "svz": null,
+    "afgedaan": "04-07-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

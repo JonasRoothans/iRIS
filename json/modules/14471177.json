@@ -1,0 +1,92 @@
+{
+    "module_id": 14471177,
+    "vote_id": null,
+    "member_id": [
+        194514
+    ],
+    "party_list": [
+        "PvdA"
+    ],
+    "poho_id": [],
+    "title": "Rondvraag 1 - Ratten in de stad (PvdA)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "30-08-2024",
+    "meeting_url": {
+        "1148042": "https://raadsinformatie.eindhoven.nl/vergadering/1148041/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://api.notubiz.nl/document/14471177/2",
+    "pdf_text": " \n \n \n \nRondvraag   \nRatten in de stad                      \n \nDe laatste tijd krijgen we veel signalen/klachten over de hoeveelheid ratten in de \nstad.  \n \n1. Hoe kunnen we dit aantal ratten verminderen?  \n2. Welke afwegingen worden daarin gemaakt?  \n3. Wat wordt er al ondernomen en wat staat er nog op de planning?  \n4. Hoe wordt hierover naar de inwoners gecommuniceerd?  \n \n \nEindhoven, 27 augustus 2024  \n \n \nDe leden van de raad  en/of commissie , \n \nRosa van den Nieuwenhof (PvdA), indiener  \n \n \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 1115625,
+            "weight": 1.2913134125451209
+        },
+        {
+            "id": 802844,
+            "weight": 1.2800226656933418
+        },
+        {
+            "id": 15313524,
+            "weight": 0.46307981586172453
+        },
+        {
+            "id": 982274,
+            "weight": 0.23211388875298797
+        },
+        {
+            "id": 16034520,
+            "weight": 0.15527561783179894
+        },
+        {
+            "id": "a_8569807",
+            "weight": 0.13223422185734418
+        },
+        {
+            "id": "a_8569264",
+            "weight": 0.12516134622674568
+        },
+        {
+            "id": 12716064,
+            "weight": 0.12487449191608964
+        }
+    ],
+    "videostarttime": {
+        "1148042": 9813
+    },
+    "videolink": null,
+    "keywords": {
+        "Rondvraag Ratten": 0.9903466439961953,
+        "hoeveelheid ratten": 0.975505290958077,
+        "laatste tijd": 0.9703790441351593,
+        "tijd krijgen": 0.9703790441351593,
+        "stad": 1.9660452287418244,
+        "Ratten": 1.9647595272370433,
+        "ratten verminderen": 0.9450375678166865,
+        "PvdA": 1.8602915307274142,
+        "signalen": 0.8555718714906795,
+        "klachten": 0.8555718714906795,
+        "tijd": 0.8303863312991361,
+        "Rosa": 0.6655897767440664,
+        "Nieuwenhof": 0.6655897767440664,
+        "aantal": 0.584999221761844,
+        "gemaakt": 0.5393224617786245,
+        "inwoners gecommuniceerd": 0.5254558103151582
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194514,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1148042
+    ]
+}

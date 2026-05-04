@@ -1,0 +1,131 @@
+{
+    "module_id": 13264178,
+    "vote_id": null,
+    "member_id": [
+        132642,
+        194511
+    ],
+    "party_list": [
+        "GroenLinks"
+    ],
+    "poho_id": [],
+    "title": "4. Rondvraag - Klimaatstress - Grotere klimaatzorgen voor de generatie van morgen (GL)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "03-10-2023",
+    "meeting_url": {
+        "1142109": "https://raadsinformatie.eindhoven.nl/vergadering/1013518/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://api.notubiz.nl/document/13264178/1",
+    "pdf_text": " \n \n \nRondvraag   \n \nKlimaatstress: Grotere klimaatzorgen voor de generatie van \nmorgen                       \n \n \n “Grotere klimaatzorgen voor de generatie van morgen”. Dat is de titel van het \nrapport van Milieudefensie Jong. Zij lieten onderzoeken hoe Nederlandse jongeren \nvan 16 tot 30 jaar de huidige tijd rondom het klimaat beleven. Uiteraard moeten we \nde klimaatcris is bij de oorzaak aanpakken, maar ook de mentale gezondheid van \njongeren lijdt onder klimaatstress. Veel jongeren ervaren wel eens negatieve \ngevoelens door de klimaatcrisis. De helft van de jongeren ervaart dit regelmatig. \nDriekwart van de jongeren maakt z ich zorgen over het klimaat en een op de vijf \njongeren ervaart zelfs regelmatig klimaatstress.  \n \nVandaar de volgende vraag aan het college:  \n1. Is het college bereid om Jong040 gericht om advies te vragen over welke \nacties Eindhoven kan ondernemen om klima atstress bij jongeren te \nverminderen? Daarbij kan specifiek aandacht zijn voor communicatie vanuit de \ngemeente, een plek voor klimaatstress in het jongeren - en mentale \ngezondheidsbeleid, het betrekken van jongeren bij klimaatbeleid en de \nklimaatmissie en a cties vanuit onderwijs en (jongeren)organisaties over \nduurzaamheid en klimaat.  \n \nEindhoven, 3 oktober 2022  \n \nDe leden van de raad,  \nLotte Meerhoff (GroenLinks), raadslid  \nEva de Bruijn (GroenLinks), raadslid  \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 15945905,
+            "weight": 1.2154592395308634
+        },
+        {
+            "id": 797695,
+            "weight": 0.4160124698205487
+        },
+        {
+            "id": 925506,
+            "weight": 0.26829916597035075
+        },
+        {
+            "id": 883125,
+            "weight": 0.261303176777007
+        },
+        {
+            "id": 1141484,
+            "weight": 0.21425355984050443
+        },
+        {
+            "id": 829344,
+            "weight": 0.20795297280971228
+        },
+        {
+            "id": 1009695,
+            "weight": 0.18113770850613084
+        },
+        {
+            "id": 1115625,
+            "weight": 0.06328981821289754
+        },
+        {
+            "id": 844225,
+            "weight": 0.06214173471228497
+        },
+        {
+            "id": 918662,
+            "weight": 0.05743663893483676
+        },
+        {
+            "id": 1133048,
+            "weight": 0.057374897522614474
+        },
+        {
+            "id": 1014962,
+            "weight": 0.055921878785045065
+        },
+        {
+            "id": 1077720,
+            "weight": 0.05416739497305271
+        },
+        {
+            "id": 822257,
+            "weight": 0.049235065979211824
+        },
+        {
+            "id": 918269,
+            "weight": 0.04856051349769473
+        },
+        {
+            "id": 798673,
+            "weight": 0.04794074558955586
+        }
+    ],
+    "videostarttime": {
+        "1142109": 1325
+    },
+    "videolink": null,
+    "keywords": {
+        "Grotere klimaatzorgen": 1.9901963258747384,
+        "jongeren": 0.9615857356450701,
+        "Grotere": 1.9610686484950002,
+        "Klimaatstress": 1.9317005417695705,
+        "Milieudefensie Jong": 0.9252093201495925,
+        "morgen": 1.9243181246828585,
+        "generatie": 1.9184583833702038,
+        "Rondvraag": 1.8950503546055752,
+        "jongeren ervaart": 0.8696018838187831,
+        "Nederlandse jongeren": 0.86386126941696,
+        "Lotte Meerhoff": 0.7925555633618395,
+        "Eindhoven": 0.7720617698665755,
+        "Jong": 0.7423035991848679,
+        "GroenLinks": 0.7333445127000431,
+        "ervaart": 0.7307635260107379,
+        "regelmatig": 0.7197612590961433,
+        "college": 0.718930425450182,
+        "mentale": 0.7163942766998048,
+        "raadslid": 0.7086814426579734,
+        "Lotte": 0.5855068872484905,
+        "Bruijn": 0.5855068872484905,
+        "Eva": 0.5700133530169966
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194511,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1142109
+    ]
+}

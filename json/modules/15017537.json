@@ -1,0 +1,126 @@
+{
+    "module_id": 15017537,
+    "vote_id": null,
+    "member_id": [
+        194385
+    ],
+    "party_list": [
+        "VVD"
+    ],
+    "poho_id": [],
+    "title": "Vraag V1 Vragenhalfuur -  Signalen of BuitenBeter app wie lost wat nou echt op (VVD)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "09-01-2025",
+    "meeting_url": {
+        "1256299": "https://raadsinformatie.eindhoven.nl/vergadering/1256299/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/15017537/1/Vraag+V1+Vragenhalfuur+-++Signalen+of+BuitenBeter+app+wie+lost+wat+nou+echt+op+%28VVD%29?connection_type=1&connection_id=8588036",
+    "pdf_text": " \n \n \nVragenhalfuur  - \"Signalen of BuitenBeter -app: wie lost wat nou écht \nop?\"                         V1 \n \nDe Gemeente Eindhoven heeft een nieuw digitaal meldpunt gelanceerd voor \nwoonoverlast dat negentien  andere meldpunten moet vervangen. Tegelijkertijd \nblijft de BuitenBeter -app voor meldingen in de fysieke ruimte in gebruik. Dit roept \nvragen op over de communicatie richting inwoners, het gebruiksgemak en de \ngemaakte keuzes.  \n \nVragen  \n1. Waarom is er niet gekozen voor 1 app waar bewoners overlast kunnen \nmelden?  Zijn hiervoor alternatieven onderzocht?  \n2. Hoe gaat de gemeente inwoners duidelijk informeren over welk meldpunt \nze waarvoor moeten gebruiken?  Via w elke kanalen en wanneer?  \n3. Waarom is er gekozen voor een digitaal meldpunt via de gemeente lijke \nwebsite en niet voor een aparte, gebruiksvriendelijke  app?  \n4. Voor inwoners die minder digitaal vaardig zijn, is bellen een optie. Worden \ndeze meldingen 24/7 behandeld door een chatrobot? Wordt er extra \naandacht besteed aan deze doelgroep in de communicatie?  \n5. Behoort 1 meldpunt in de toekomst tot de mogelijkheden?  \n \nDe VVD -fractie,  \nDanielle Stijntjes, raadslid  \n \n \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 1042507,
+            "weight": 2.8843993518549684
+        },
+        {
+            "id": 1037784,
+            "weight": 0.9214339111206946
+        },
+        {
+            "id": 1133253,
+            "weight": 0.39551481859875454
+        },
+        {
+            "id": 804898,
+            "weight": 0.3903788916499289
+        },
+        {
+            "id": 1088041,
+            "weight": 0.3235043928591
+        },
+        {
+            "id": 956438,
+            "weight": 0.31918813675710356
+        },
+        {
+            "id": 983995,
+            "weight": 0.2328308973430206
+        },
+        {
+            "id": 898273,
+            "weight": 0.18000137932592164
+        },
+        {
+            "id": 787674,
+            "weight": 0.1744481609476176
+        },
+        {
+            "id": 884481,
+            "weight": 0.11401277195537404
+        },
+        {
+            "id": 1045906,
+            "weight": 0.09089256779488586
+        },
+        {
+            "id": 831335,
+            "weight": 0.07893490106525308
+        }
+    ],
+    "videostarttime": {
+        "1256299": 1475
+    },
+    "videolink": null,
+    "keywords": {
+        "Vragenhalfuur": 1.979297548945961,
+        "Signalen": 1.976650049304859,
+        "nou echt": 1.9730001374481154,
+        "lost": 1.9417486522517788,
+        "nou": 1.933676690173448,
+        "app": 1.9062668736365227,
+        "Gemeente Eindhoven": 0.9059786852571727,
+        "BuitenBeter": 1.896171656942256,
+        "meldpunt": 0.871281595615428,
+        "Gemeente": 0.863773512575547,
+        "Vraag": 1.8496317383679775,
+        "VVD": 1.8392678595149365,
+        "digitaal": 0.8176334845509732,
+        "inwoners": 0.8148449795239474,
+        "digitaal meldpunt": 0.8039244934647918,
+        "echt": 1.8018039563815553,
+        "Eindhoven": 0.7897104347550025,
+        "Danielle Stijntjes": 0.7691283968788215,
+        "vragen": 0.7384540542892037,
+        "gekozen": 0.7201517837481497,
+        "communicatie": 0.7170970107443001,
+        "meldingen": 0.7066265736613757,
+        "Via": 0.6951341258497357,
+        "meldpunt gelanceerd": 0.6879459675546586,
+        "Behoort": 0.6002712467725146,
+        "Tegelijkertijd blijft": 0.5980684459780161,
+        "Danielle": 0.56690927494675,
+        "Stijntjes": 0.56690927494675,
+        "fysieke ruimte": 0.5532144400166288,
+        "gebruiksvriendelijke app": 0.5413759049321369,
+        "nieuw": 0.5380686476461933,
+        "woonoverlast": 0.5380686476461933,
+        "negentien": 0.5380686476461933,
+        "roept vragen": 0.5367982457271664
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194385,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1256299
+    ]
+}

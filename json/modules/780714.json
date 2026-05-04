@@ -1,0 +1,82 @@
+{
+    "module_id": 780714,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230014,
+    "title": "Openstaande vragen - Raadsvoorstel Inzet rijksmiddelen aanpak energiearmoede",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/780714",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "R. Thijs (Wethouder)",
+    "result": "",
+    "date": "14-09-2022",
+    "meeting_url": {
+        "1015774": "https://raadsinformatie.eindhoven.nl/vergadering/1015774#ai_6982102"
+    },
+    "attachment": null,
+    "parent": 777690,
+    "children": [],
+    "text": "De openstaande vragen van PvdD voorafgaand aan de raadsvergadering te beantwoorden.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 777690,
+            "weight": 2.917348443856557
+        },
+        {
+            "id": 780717,
+            "weight": 2.9000313048324236
+        },
+        {
+            "id": 780716,
+            "weight": 2.899448072393003
+        },
+        {
+            "id": "a_7038481",
+            "weight": 0.9013750657163395
+        },
+        {
+            "id": 780334,
+            "weight": 0.7656551594051494
+        },
+        {
+            "id": 862589,
+            "weight": 0.7186550986978042
+        },
+        {
+            "id": 879839,
+            "weight": 0.5655394708035465
+        },
+        {
+            "id": 1103025,
+            "weight": 0.5652834546798483
+        }
+    ],
+    "videostarttime": {
+        "1015774": 2452
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_14.09.22_NC_Eindhoven_raad.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Inzet": 1.9940442284278639,
+        "Inzet rijksmiddelen": 1.9821842957151472,
+        "Openstaande vragen": 1.9780080020645119,
+        "rijksmiddelen aanpak": 1.9638542655336455,
+        "aanpak energiearmoede": 1.9638542655336455,
+        "PvdD voorafgaand": 0.9638542655336455,
+        "Inzet": 1.9062835686299406,
+        "vragen": 1.8973709226202145,
+        "beantwoorden": 0.8855903541154853,
+        "aanpak": 1.813225275191795,
+        "PvdD": 0.813225275191795,
+        "raadsvergadering": 0.813225275191795
+    },
+    "svz": null,
+    "afgedaan": "16-09-2022",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

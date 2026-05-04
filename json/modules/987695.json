@@ -1,0 +1,92 @@
+{
+    "module_id": 987695,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230013,
+    "title": "Planning/tijdslijn - Raadsvoorstel Aankoop Fellenoord 310 370 en Raadsvoorstel Aankoop Schimmelt 2 50 en Lardinoisstraat 1 15",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/987695",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Steenbakkers (Wethouder)",
+    "result": "",
+    "date": "11-11-2024",
+    "meeting_url": {
+        "1283256": "https://raadsinformatie.eindhoven.nl/vergadering/1283256#ai_8745986"
+    },
+    "attachment": null,
+    "parent": 977747,
+    "children": [],
+    "text": "Wethouder Steenbakkers zegt toe om met een planning/tijdslijn over de mobiliteitsplannen naar de raad te komen, op het moment dat de MIRT-studieresultaten bekend zijn.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 977750,
+            "weight": 4.318786435174088
+        },
+        {
+            "id": 866942,
+            "weight": 0.6675936852472797
+        },
+        {
+            "id": 1021303,
+            "weight": 0.3986658981952483
+        },
+        {
+            "id": 1021300,
+            "weight": 0.39861023668409834
+        },
+        {
+            "id": 1090160,
+            "weight": 0.3976046126204165
+        },
+        {
+            "id": 1090156,
+            "weight": 0.3974554205990241
+        },
+        {
+            "id": 977747,
+            "weight": 0.39616781149030433
+        },
+        {
+            "id": 905916,
+            "weight": 0.3956883633597025
+        },
+        {
+            "id": 1080157,
+            "weight": 0.19134127435902432
+        },
+        {
+            "id": 1011625,
+            "weight": 0.18152169994488696
+        }
+    ],
+    "videostarttime": {},
+    "videolink": null,
+    "keywords": {
+        "Raadsvoorstel Aankoop": 1.997106755932239,
+        "Wethouder Steenbakkers": 0.9960163340142865,
+        "Aankoop Fellenoord": 1.9959069348922407,
+        "Aankoop Schimmelt": 1.9959069348922407,
+        "Steenbakkers zegt": 0.9895880739332463,
+        "MIRT-studieresultaten bekend": 0.9801328118913514,
+        "Aankoop": 1.9620750829682998,
+        "Planning": 1.9473780872943662,
+        "tijdslijn": 1.9473780872943662,
+        "Lardinoisstraat": 1.9462572295845069,
+        "Wethouder": 0.9462572295845069,
+        "komen": 0.9059486362580966,
+        "zegt": 0.8604286137142572,
+        "mobiliteitsplannen": 0.8604286137142572,
+        "raad": 0.8604286137142572,
+        "bekend": 0.8604286137142572
+    },
+    "svz": null,
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

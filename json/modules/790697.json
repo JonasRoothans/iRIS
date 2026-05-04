@@ -1,0 +1,171 @@
+{
+    "module_id": 790697,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Voorbereidingsavond over thema “wonen”",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/moties_en_toezeggingen/790697?parent_event=1034745",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "01-11-2022",
+    "meeting_url": {
+        "1034745": "https://raadsinformatie.eindhoven.nl/vergadering/1034745#ai_7087333"
+    },
+    "attachment": null,
+    "parent": "ai_7087333",
+    "children": [],
+    "text": "Biedt aan een voorbereidingsavond te organiseren over thema “wonen”, waarin ze o.a. de (prestatie)afspraken met corporaties en partners toelicht, de stand van zaken geeft van de woningbouwmonitor en de bouwprojecten i.r.t. de aantallen toe te voegen en gewenste woningen en het tijdspad hiervoor. Eerder gedeelde versnellingsplannen worden hierbij meegenomen.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": "ai_7087333",
+            "weight": 1.7781383676673437
+        },
+        {
+            "id": 991221,
+            "weight": 0.2777278970154742
+        },
+        {
+            "id": 892445,
+            "weight": 0.2566072379785401
+        },
+        {
+            "id": 861380,
+            "weight": 0.21585391048296096
+        },
+        {
+            "id": 949028,
+            "weight": 0.20141555760248364
+        },
+        {
+            "id": 881076,
+            "weight": 0.18091413340221518
+        },
+        {
+            "id": 933747,
+            "weight": 0.17362471274093194
+        },
+        {
+            "id": 884948,
+            "weight": 0.14362095012694745
+        },
+        {
+            "id": 775281,
+            "weight": 0.1302405242598131
+        },
+        {
+            "id": 844331,
+            "weight": 0.12868014752487456
+        },
+        {
+            "id": 1141695,
+            "weight": 0.11687371849267181
+        },
+        {
+            "id": 787033,
+            "weight": 0.11548237740886139
+        },
+        {
+            "id": 872243,
+            "weight": 0.11515269291004242
+        },
+        {
+            "id": 775082,
+            "weight": 0.1134093761643357
+        },
+        {
+            "id": 1013629,
+            "weight": 0.1062019886728536
+        },
+        {
+            "id": 16661552,
+            "weight": 0.10410754602313632
+        },
+        {
+            "id": 936160,
+            "weight": 0.0858414783219907
+        },
+        {
+            "id": 1009635,
+            "weight": 0.08466776447241305
+        },
+        {
+            "id": 998551,
+            "weight": 0.07765266586290208
+        },
+        {
+            "id": 776527,
+            "weight": 0.06575567677109324
+        },
+        {
+            "id": 838678,
+            "weight": 0.06415248927390675
+        },
+        {
+            "id": "a_7151094",
+            "weight": 0.06146113034377295
+        },
+        {
+            "id": 794220,
+            "weight": 0.061225495097552596
+        },
+        {
+            "id": 801851,
+            "weight": 0.05909224305837281
+        },
+        {
+            "id": 945991,
+            "weight": 0.05810257017958813
+        },
+        {
+            "id": 945997,
+            "weight": 0.046478144678908914
+        }
+    ],
+    "videostarttime": {
+        "1034745": 3871
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_01.11.22_NC_Eindhoven_CIE.mp4/playlist.m3u8",
+    "keywords": {
+        "partners toelicht": 0.9863433290405009,
+        "tijdspad hiervoor": 0.9863433290405009,
+        "zaken geeft": 0.9819906834102219,
+        "gewenste woningen": 0.9819906834102219,
+        "wonen": 1.9764548638908441,
+        "thema": 1.966783245840863,
+        "Biedt": 0.9466184088085461,
+        "Voorbereidingsavond": 1.9309927918156145,
+        "prestatie": 0.927410653211925,
+        "waarin": 0.8987065827419569,
+        "afspraken": 0.8987065827419569,
+        "toelicht": 0.8987065827419569,
+        "bouwprojecten": 0.8987065827419569,
+        "hiervoor": 0.8987065827419569,
+        "hierbij meegenomen": 0.8916115352375044,
+        "organiseren": 0.8669935383765021,
+        "corporaties": 0.8669935383765021,
+        "partners": 0.8669935383765021,
+        "stand": 0.8669935383765021,
+        "zaken": 0.8669935383765021,
+        "geeft": 0.8669935383765021,
+        "woningbouwmonitor": 0.8669935383765021,
+        "aantallen": 0.8669935383765021,
+        "voegen": 0.8669935383765021,
+        "gewenste": 0.8669935383765021,
+        "tijdspad": 0.8669935383765021,
+        "gedeelde versnellingsplannen": 0.8625671468328878,
+        "gedeelde": 0.6523978953610508,
+        "hierbij": 0.6523978953610508
+    },
+    "svz": null,
+    "afgedaan": "28-03-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

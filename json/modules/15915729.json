@@ -1,0 +1,169 @@
+{
+    "module_id": 15915729,
+    "vote_id": null,
+    "member_id": [
+        194495
+    ],
+    "party_list": [
+        "Partij voor de Dieren"
+    ],
+    "poho_id": [],
+    "title": "Rondvraag 3 - Is dit liefde (PvdD)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "02-09-2025",
+    "meeting_url": {
+        "1256639": "https://raadsinformatie.eindhoven.nl/vergadering/1256637/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://api.notubiz.nl/document/15915729/1",
+    "pdf_text": " \n \n \n \nRondvraag  - Is dit liefde?                        \n \nEind juni zou de VNG gemeentes per e -mail hebben geïnformeerd over de \ncampagne ‘Is dit liefde? De ministeries van  JenV  en VWS vragen gemeenten en \npartners om de campagne vanaf 25 september breed zichtbaar te maken: dan \nstart namelijk de landelijke campagne tegen femicide . Door aan te sluiten bij de \nlandelijke boodschap creëren we meer impact.  \n \n'Is dit liefde?' richt zich op het stimuleren van gezonde en respectvolle relaties, en \nhet herkennen en bespreekbaar maken van signalen van ongezonde of \ngewelddadige relaties. Gemeenten kunnen gebruik maken van een toolkit  van \nVeilig Thuis  met communicatie middelen (posters, flyers en social media -beelden) \nen praktische handvatten1. Door de campagne vanaf 25 september actief in te \nzetten, dragen we bij aan meer bewustwording, preventie en het versterken van \neen veilige omgeving.  \n \nVanuit de gemeente Eindhoven worden er diverse acties ingezet om femicide \nonder de aandacht te brengen. Deze campagne zou hier mooi aan bij kunnen \ndragen. Wij vroegen ons dan ook af of de gemeente bekend is met deze \ncampagne en of zij bereid is deze campag ne actief in te gaan zetten? Indien niet \nwat is hier dan de reden van.  \n \n \n \n \nEindhoven, 2 september 2025  \n \n \nHet lid  van de raad  en/of commissie , \n \nVirginia Jonkers, raadslid , Partij voor de Dieren  \n \n \n \n1 Toolkit - Veilig Thuis  \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 16277684,
+            "weight": 0.29186322370868484
+        },
+        {
+            "id": 1146313,
+            "weight": 0.2803618276419623
+        },
+        {
+            "id": 820253,
+            "weight": 0.2594700974792095
+        },
+        {
+            "id": 893801,
+            "weight": 0.21665276896241
+        },
+        {
+            "id": 1141030,
+            "weight": 0.21012957777144928
+        },
+        {
+            "id": 851413,
+            "weight": 0.18027784062482843
+        },
+        {
+            "id": 776868,
+            "weight": 0.12814787793002225
+        },
+        {
+            "id": 16034520,
+            "weight": 0.12090209404365397
+        },
+        {
+            "id": 15945905,
+            "weight": 0.11892549126253668
+        },
+        {
+            "id": 776973,
+            "weight": 0.11592841504062015
+        },
+        {
+            "id": 865876,
+            "weight": 0.09889184294677988
+        },
+        {
+            "id": 1082855,
+            "weight": 0.0933854189499384
+        },
+        {
+            "id": 862742,
+            "weight": 0.05779568883337537
+        },
+        {
+            "id": 918462,
+            "weight": 0.05477055794523948
+        },
+        {
+            "id": 15004793,
+            "weight": 0.054629575613322524
+        },
+        {
+            "id": 1141043,
+            "weight": 0.05294981271002319
+        },
+        {
+            "id": 781219,
+            "weight": 0.05132867571190899
+        },
+        {
+            "id": 850176,
+            "weight": 0.04792460406114159
+        },
+        {
+            "id": 1045664,
+            "weight": 0.04182532103356782
+        },
+        {
+            "id": 803327,
+            "weight": 0.03578559992282938
+        },
+        {
+            "id": 1097898,
+            "weight": 0.03466883012267578
+        }
+    ],
+    "videostarttime": {
+        "1256639": 1202
+    },
+    "videolink": null,
+    "keywords": {
+        "Rondvraag": 1.9726951188828472,
+        "liefde": 1.9626733302176025,
+        "campagne": 0.9365616967670441,
+        "Veilig Thuis": 0.9347568776677245,
+        "VNG gemeentes": 0.890572442592261,
+        "september": 0.8616843813135568,
+        "maken": 0.8607421580848736,
+        "PvdD": 1.856299782474082,
+        "VWS vragen": 0.832875882734265,
+        "Veilig": 0.8301288099073985,
+        "Thuis": 0.8301288099073985,
+        "landelijke campagne": 0.8151053559668876,
+        "Virginia Jonkers": 0.8010413421865078,
+        "VNG": 0.7976547206491826,
+        "Eind juni": 0.7860808706293635,
+        "toolkit": 0.7793312324646842,
+        "Eindhoven": 0.7743957908003669,
+        "relaties": 0.7696467693598698,
+        "zetten": 0.7480673218521461,
+        "femicide": 0.7416803327483515,
+        "actief": 0.7319640419250231,
+        "VWS": 0.7301463338142924,
+        "gemeentes per": 0.7293822049787966,
+        "dragen": 0.7200250884937928,
+        "gemeente Eindhoven": 0.7180409608966263,
+        "bespreekbaar maken": 0.6560194889588062,
+        "gebruik maken": 0.6389804172516078,
+        "breed zichtbaar": 0.6080745115956674,
+        "start namelijk": 0.6080745115956674,
+        "boodschap creëren": 0.6080745115956674,
+        "respectvolle relaties": 0.6067694597732947,
+        "Eind": 0.5966768704192067,
+        "mail": 0.5966768704192067,
+        "Virginia": 0.592639122788071,
+        "Jonkers": 0.592639122788071,
+        "Partij": 0.592639122788071,
+        "Dieren": 0.592639122788071,
+        "juni": 0.5630751571413692,
+        "per": 0.5630751571413692,
+        "geïnformeerd": 0.5630751571413692,
+        "impact": 0.5038255542442909
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194495,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1256639
+    ]
+}

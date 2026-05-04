@@ -1,0 +1,67 @@
+{
+    "module_id": 897846,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": null,
+    "title": "Verschillende vormen van participatie - Raadsvoorstel Vaststellen van de Verordening inwonersparticipatie Eindhoven",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/897846",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Esselbrugge (Wethouder)",
+    "result": "",
+    "date": "24-11-2023",
+    "meeting_url": {
+        "1165167": "https://raadsinformatie.eindhoven.nl/vergadering/1165167#ai_7968136"
+    },
+    "attachment": null,
+    "parent": 863923,
+    "children": [],
+    "text": "Stadsgezant van Kessel (namens wethouder Esselbrugge) zegt toe in een plan van aanpak over hoe inwoners worden geïnformeerd over de verschillende vormen van participatie van de gemeente en van derde. In dit plan van aanpak wordt ook de omgevingswet meegenomen en hoe dit in relatie staat met deze verordening.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 897844,
+            "weight": 0.982842075413038
+        }
+    ],
+    "videostarttime": {
+        "1165167": 14543
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_21.11.23_NC_Eindhoven_Raad.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Vaststellen": 1.9969880228472898,
+        "Eindhoven Stadsgezant": 0.9965081035562188,
+        "Verschillende vormen": 1.9961561582455511,
+        "wethouder Esselbrugge": 0.993936106211866,
+        "inwonersparticipatie Eindhoven": 1.9929664937893212,
+        "namens wethouder": 0.9882469802529714,
+        "Verordening inwonersparticipatie": 1.9829510723514456,
+        "vormen": 1.9599656351333883,
+        "participatie": 1.9523594670720248,
+        "Kessel": 0.9490936673398004,
+        "Vaststellen": 1.9410106320365257,
+        "Eindhoven": 1.9410106320365257,
+        "Verordening": 1.9292101463857434,
+        "plan": 0.9185176133456702,
+        "aanpak": 0.9185176133456702,
+        "namens": 0.9018883126302416,
+        "zegt": 0.9018883126302416,
+        "derde": 0.9018883126302416,
+        "omgevingswet meegenomen": 0.8874392691883802,
+        "relatie staat": 0.8874392691883802,
+        "inwoners": 1.8815993159274795,
+        "geïnformeerd": 0.8815993159274795,
+        "gemeente": 0.8815993159274795,
+        "meegenomen": 0.6819234965691068,
+        "staat": 0.6819234965691068
+    },
+    "svz": null,
+    "afgedaan": "12-12-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

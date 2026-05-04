@@ -1,0 +1,102 @@
+{
+    "module_id": 1034656,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230013,
+    "title": "Inzet van BOA’s/controle - Raadsvoorstel Detailhandelsvisie 2030 - Van bezoek naar belevenis",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1034656",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Steenbakkers (Wethouder)",
+    "result": "",
+    "date": "08-04-2025",
+    "meeting_url": {
+        "1256349": "https://raadsinformatie.eindhoven.nl/vergadering/1256349#ai_9158451"
+    },
+    "attachment": null,
+    "parent": 1021019,
+    "children": [],
+    "text": "Wethouder Steenbakkers heeft toegezegd de brede behoefte aan een gesprek over meer inzet van BOA’s/controles en een betere inrichting van de openbare ruimte/groen bij sommige wijkwinkelcentra, mee te nemen naar betreffende portefeuillehouders",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1036228,
+            "weight": 0.7818361521334307
+        },
+        {
+            "id": "a_9279992",
+            "weight": 0.7747986345479339
+        },
+        {
+            "id": 1036407,
+            "weight": 0.41200271308786535
+        },
+        {
+            "id": 1034759,
+            "weight": 0.3674293670760652
+        },
+        {
+            "id": 776916,
+            "weight": 0.2728092623214515
+        },
+        {
+            "id": 822251,
+            "weight": 0.1988324207631086
+        },
+        {
+            "id": 1045953,
+            "weight": 0.17787490805986364
+        },
+        {
+            "id": 905850,
+            "weight": 0.1764281670054931
+        },
+        {
+            "id": 905845,
+            "weight": 0.17049245928501539
+        },
+        {
+            "id": 1021019,
+            "weight": 0.1691619465344662
+        }
+    ],
+    "videostarttime": {
+        "1256349": 773
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_08.04.25_NC_02-EINDHOVEN-CIE-ONDERTITEL.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Detailhandelsvisie": 1.9977077971081763,
+        "Wethouder Steenbakkers": 0.99608255030695,
+        "belevenis Wethouder": 0.9929473795422897,
+        "openbare ruimte": 0.9908796883259001,
+        "brede behoefte": 0.98727128992921,
+        "BOA": 1.9755944154152165,
+        "Raadsvoorstel": 1.9521778219456505,
+        "Inzet": 1.9454462397167698,
+        "Wethouder": 0.9375327032347609,
+        "ruimte": 0.9193840277542807,
+        "groen": 0.9193840277542807,
+        "wijkwinkelcentra": 0.9193840277542807,
+        "mee": 0.9193840277542807,
+        "portefeuillehouders": 0.9193840277542807,
+        "controle": 1.9174498008455363,
+        "bezoek": 1.8878896686449926,
+        "belevenis": 1.8878896686449926,
+        "toegezegd": 0.8878896686449927,
+        "brede": 0.8878896686449927,
+        "gesprek": 0.8878896686449927,
+        "inrichting": 0.8878896686449927,
+        "nemen": 0.8878896686449927
+    },
+    "svz": null,
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": [
+        1256349
+    ]
+}

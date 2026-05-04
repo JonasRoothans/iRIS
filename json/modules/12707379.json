@@ -1,0 +1,156 @@
+{
+    "module_id": 12707379,
+    "vote_id": null,
+    "member_id": [
+        80968,
+        194376
+    ],
+    "party_list": [
+        "Volt",
+        "SP"
+    ],
+    "poho_id": [],
+    "title": "Vraag V2 Vragenhalfuur Vervolg – bouwgeruchten Bennekel (Volt, SP)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "08-05-2023",
+    "meeting_url": {
+        "1013486": "https://raadsinformatie.eindhoven.nl/vergadering/1013486/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/12707379/1/Vraag+V2+Vragenhalfuur+Vervolg+%E2%80%93+bouwgeruchten+Bennekel+%28Volt%2C+SP%29?connection_type=1&connection_id=6964915",
+    "pdf_text": " \n  \nVragenhalfuur Vervolg – bouwgeruchten Bennekel    V2 \n \n  \nEen maand geleden vroeg ik een soortgelijke set vragen over mogelijke bouwplannen \nin het groengebied aan de Locatellilstraat in de Bennekel. Daarover gaf de \nwethouder aan dat er enkel nog onderzoek gedaan zou worden en dat \nbouwplannen niet definitief zijn.   \n  \nIntussen is er, naast bodemonderzoek een boom gekapt, midden in het \nbroedseizoen, en krijgen buurtbewoners nu als antwoord wanneer ze vragen aan \nwerklui op locatie wat er gaande is: \"Ja, we mogen niks meer zeggen. Maar wat \nhier gaat komen gaat er komen, maakt niet uit hoeveel protest jullie maken.\" Iets \nwat volgens mij niet bijdraagt aan het gevoel dat wij als lokale overheid er vóór de \ninwoners van Eindhoven zijn.   \n  \nDat leidt tot de volgende vragen:   \n1. Wat wordt er nu precies onderzocht in het gebi ed en wanneer horen we wat \nwel/niet de bedoeling is?   \n2. Heeft de wethouder begrip voor het feit dat het mogelijk bouwen van tijdelijke \n(max 10 jaar) studentenwoningen in een groenarme buurt het gevoel versterkt \ndat er getornd wordt aan het concept van het 'O p slot -gebied'?   \n3. Waarom is er midden in het broedseizoen een boom gekapt?    \na. Wordt er dan toch gebouwd?   \n4. Tot in hoeverre verwacht de wethouder dat extra studentwoningen impact \nhebben op de leefbaarheidsdruk in de wijk?   \n  \n  \nEindhoven, 07 -05-2023   \n  \n  \nDe leden van de raad,   \n  \nJacco Rubenkamp, raadslid (Volt)   \nJannie Visscher, raadslid (SP)   \n  \n \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 12506006,
+            "weight": 1.98017394169506
+        },
+        {
+            "id": "a_8043672",
+            "weight": 0.2760815457063375
+        },
+        {
+            "id": 931189,
+            "weight": 0.274476059119759
+        },
+        {
+            "id": 1036135,
+            "weight": 0.24565828280991592
+        },
+        {
+            "id": 863706,
+            "weight": 0.21751851647401763
+        },
+        {
+            "id": 1081307,
+            "weight": 0.2059943663639261
+        },
+        {
+            "id": 999856,
+            "weight": 0.15685134506098128
+        },
+        {
+            "id": "a_8569201",
+            "weight": 0.14866134231952152
+        },
+        {
+            "id": 1085519,
+            "weight": 0.14122814476768034
+        },
+        {
+            "id": 891423,
+            "weight": 0.10534277327828699
+        },
+        {
+            "id": 935238,
+            "weight": 0.10067836228379029
+        },
+        {
+            "id": "a_10111101",
+            "weight": 0.08277069122096804
+        },
+        {
+            "id": 1125567,
+            "weight": 0.07721705488584593
+        },
+        {
+            "id": 776866,
+            "weight": 0.0738126558787547
+        },
+        {
+            "id": 1053044,
+            "weight": 0.04924212475387741
+        },
+        {
+            "id": 1107463,
+            "weight": 0.04835662209594138
+        }
+    ],
+    "videostarttime": {
+        "1013486": 1868
+    },
+    "videolink": null,
+    "keywords": {
+        "Vragenhalfuur Vervolg": 1.9991125241662953,
+        "bouwgeruchten Bennekel": 1.9985349613146086,
+        "Bennekel": 1.988154953046367,
+        "Vervolg": 1.9789535822764144,
+        "soortgelijke set": 0.9727355461855249,
+        "mogelijke bouwplannen": 0.9604642560452176,
+        "set vragen": 0.9392101145780523,
+        "Locatellilstraat": 0.9344353775472419,
+        "boom gekapt": 0.8973815531716687,
+        "Volt": 1.8832195678159565,
+        "Vraag": 1.8749013864555728,
+        "wethouder": 0.8569882295787851,
+        "maand": 0.8370864262492311,
+        "set": 0.8370864262492311,
+        "mogelijke": 0.8370864262492311,
+        "groengebied": 0.8370864262492311,
+        "Daarover gaf": 0.8255930139503039,
+        "Jacco Rubenkamp": 0.8146263568053675,
+        "Jannie Visscher": 0.8146263568053675,
+        "onderzoek gedaan": 0.805737293396986,
+        "Eindhoven": 0.7902273913329811,
+        "boom": 0.7844962631467077,
+        "raadslid": 0.7797071223943802,
+        "gaat": 0.7715246884173974,
+        "komen": 0.7715246884173974,
+        "midden": 0.7674411369466219,
+        "broedseizoen": 0.7674411369466219,
+        "gevoel": 0.7626458939975285,
+        "gaat komen": 0.736090882368435,
+        "komen gaat": 0.736090882368435,
+        "naast bodemonderzoek": 0.7049295883354367,
+        "krijgen buurtbewoners": 0.6734214439907558,
+        "Jacco": 0.6045456479230589,
+        "Jannie": 0.6045456479230589,
+        "gaf": 0.5966846212849526,
+        "gedaan": 0.5966846212849526,
+        "definitief": 0.5966846212849526,
+        "hoeveel protest": 0.5733394169257031,
+        "gevoel versterkt": 0.5702801357482867,
+        "Intussen": 0.5407967686165677,
+        "zeggen": 0.5407967686165677,
+        "krijgen": 0.5038336056880968,
+        "antwoord": 0.5038336056880968,
+        "werklui": 0.5038336056880968,
+        "locatie": 0.5038336056880968,
+        "niks": 0.5038336056880968
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194376,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1013486
+    ]
+}

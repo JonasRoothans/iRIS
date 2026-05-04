@@ -1,0 +1,89 @@
+{
+    "module_id": 953111,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230013,
+    "title": "Binnentuin - Clusterpaspoort Ontwikkelvisie Fellenoord: Cluster 1A",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/953111",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Steenbakkers (Wethouder)",
+    "result": "",
+    "date": "17-06-2024",
+    "meeting_url": {
+        "1229974": "https://raadsinformatie.eindhoven.nl/vergadering/1229974#ai_8382517"
+    },
+    "attachment": null,
+    "parent": "ai_8382517",
+    "children": [],
+    "text": "Wethouder Steenbakkers zegt toe in het plan aan te passen dat de binnentuin openbaar toegankelijk is voor iedereen, met respect voor de eigenaarspositie",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1036340,
+            "weight": 0.21872105869650296
+        },
+        {
+            "id": 966365,
+            "weight": 0.1905527888041284
+        },
+        {
+            "id": 1036311,
+            "weight": 0.12691404538635268
+        },
+        {
+            "id": 1045906,
+            "weight": 0.11291066426575322
+        },
+        {
+            "id": "a_7006137",
+            "weight": 0.09411561405242107
+        },
+        {
+            "id": 831885,
+            "weight": 0.09134129417146684
+        },
+        {
+            "id": "a_9282370",
+            "weight": 0.08188935326669748
+        },
+        {
+            "id": "i_7006130",
+            "weight": 0.06950071278098942
+        },
+        {
+            "id": 1061195,
+            "weight": 0.06553766974386378
+        }
+    ],
+    "videostarttime": {},
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_17.06.24_Eindhoven_raadscie.mp4/playlist.m3u8",
+    "keywords": {
+        "Clusterpaspoort Ontwikkelvisie": 1.994424728299904,
+        "Ontwikkelvisie Fellenoord": 1.994424728299904,
+        "Wethouder Steenbakkers": 0.9944247282999039,
+        "Steenbakkers zegt": 0.9837202708890308,
+        "openbaar toegankelijk": 0.9679891754021194,
+        "Cluster": 1.9670454238123862,
+        "binnentuin openbaar": 0.9536608298686273,
+        "Clusterpaspoort": 1.9390429634612647,
+        "Fellenoord": 1.9390429634612647,
+        "Wethouder": 0.9390429634612648,
+        "iedereen": 0.8926624605453829,
+        "eigenaarspositie": 0.8926624605453829,
+        "zegt": 0.8238809620057802,
+        "plan": 0.8238809620057802,
+        "passen": 0.8238809620057802,
+        "openbaar": 0.8238809620057802,
+        "respect": 0.8238809620057802
+    },
+    "svz": null,
+    "afgedaan": "03-09-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

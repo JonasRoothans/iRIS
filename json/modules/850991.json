@@ -1,0 +1,86 @@
+{
+    "module_id": 850991,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": null,
+    "title": "MBO-studentenambtenaar - Raadsvoorstel Kadernota 2024",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/850991",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Esselbrugge (Wethouder)",
+    "result": "",
+    "date": "23-05-2023",
+    "meeting_url": {
+        "1096274": "https://raadsinformatie.eindhoven.nl/vergadering/1096274#ai_7491703"
+    },
+    "attachment": null,
+    "parent": 837030,
+    "children": [],
+    "text": "Wethouder Esselbrugge zegt toe:\nte bekijken of een MBO-studentenambtenaar aangesteld kan worden en of dit financieel valt in te regelen.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 919107,
+            "weight": 0.15233288619684363
+        },
+        {
+            "id": 783170,
+            "weight": 0.14125875223422638
+        },
+        {
+            "id": 776985,
+            "weight": 0.13917740246030452
+        },
+        {
+            "id": 777623,
+            "weight": 0.11003702489051377
+        },
+        {
+            "id": 1098744,
+            "weight": 0.10704104929816993
+        },
+        {
+            "id": 941292,
+            "weight": 0.10456741314472427
+        },
+        {
+            "id": 787053,
+            "weight": 0.09747498887811377
+        },
+        {
+            "id": 1072502,
+            "weight": 0.08226457288300662
+        },
+        {
+            "id": 940753,
+            "weight": 0.0817018938201818
+        }
+    ],
+    "videostarttime": {
+        "1096274": 12343
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_23.05.23_Eindhoven_NC_Meningsvorming.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Kadernota": 1.9962172628530972,
+        "Wethouder Esselbrugge": 0.9943516277049946,
+        "Esselbrugge zegt": 0.9834300734310607,
+        "financieel valt": 0.9672217425469819,
+        "MBO-studentenambtenaar aangesteld": 0.9523791602153518,
+        "Kadernota": 1.9386120372534896,
+        "Wethouder": 0.9386120372534895,
+        "regelen": 0.8913190745870246,
+        "zegt": 0.8218485391955245,
+        "bekijken": 0.8218485391955245,
+        "aangesteld": 0.8218485391955245,
+        "valt": 0.8218485391955245
+    },
+    "svz": null,
+    "afgedaan": "14-11-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

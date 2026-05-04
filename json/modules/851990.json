@@ -1,0 +1,76 @@
+{
+    "module_id": 851990,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": null,
+    "title": "Laadpaal - Beleid uit 2009 passend maken (Vrije Motie VM1)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/851990",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Esselbrugge (Wethouder)",
+    "result": "",
+    "date": "30-05-2023",
+    "meeting_url": {
+        "1013491": "https://raadsinformatie.eindhoven.nl/vergadering/1013491#ai_6964908"
+    },
+    "attachment": null,
+    "parent": 850170,
+    "children": [],
+    "text": "Wethouder Esselbrugge zegt toe de motie te omarmen met daarbij de volgende kantekeningen:\n\neen laadpaal nooit kan worden gekoppeld aan een gehandicaptenparkeerplaats omdat een laadpaal voor iedereen toegankelijk moet zijn.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 850170,
+            "weight": 2.5187647636260686
+        },
+        {
+            "id": 1020983,
+            "weight": 0.32612479942515465
+        },
+        {
+            "id": 894796,
+            "weight": 0.2625603169949055
+        },
+        {
+            "id": 994385,
+            "weight": 0.2600838948851092
+        },
+        {
+            "id": 1084503,
+            "weight": 0.2228117370236744
+        }
+    ],
+    "videostarttime": {
+        "1013491": 17337
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_30.05.23_NC_EINDHOVEN_Raadszaal.mp4/playlist.m3u8",
+    "keywords": {
+        "Wethouder Esselbrugge": 0.9960091394116639,
+        "Vrije Motie": 1.993245010617947,
+        "passend maken": 1.9910451934696867,
+        "Esselbrugge zegt": 0.9895624676381342,
+        "volgende kantekeningen": 0.9866544403040572,
+        "iedereen toegankelijk": 0.9800682671657956,
+        "Beleid": 1.9462058055278093,
+        "Vrije": 1.9462058055278093,
+        "Wethouder": 0.9462058055278092,
+        "Laadpaal": 1.9425487494779765,
+        "Motie": 1.9376357827495718,
+        "maken": 1.9057910319012894,
+        "zegt": 0.8602065005917301,
+        "daarbij": 0.8602065005917301,
+        "volgende": 0.8602065005917301,
+        "gekoppeld": 0.8602065005917301,
+        "gehandicaptenparkeerplaats": 0.8602065005917301,
+        "iedereen": 0.8602065005917301
+    },
+    "svz": null,
+    "afgedaan": "11-03-2025",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

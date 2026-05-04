@@ -1,0 +1,104 @@
+{
+    "module_id": "a_7983922",
+    "vote_id": 7983922,
+    "member_id": [
+        47266,
+        57511
+    ],
+    "party_list": [
+        " Ouderen Appèl - Hart voor Eindhoven",
+        "50PLUS"
+    ],
+    "poho_id": [],
+    "title": "Aangekondigd amendement BA08A De raad aan zet (OAHvE)",
+    "url": "https://raadsinformatie.eindhoven.nl/vergadering/1013523/Aangekondigd%20amendement%20BA08A%20De%20raad%20aan%20zet%20%28OAHvE%29 07-11-2023#voting_7983922",
+    "type": "Amendement",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "aangenomen",
+    "date": "07-11-2023",
+    "meeting_url": {
+        "1013523": "https://raadsinformatie.eindhoven.nl/vergadering/1013523/Aangekondigd%20amendement%20BA08A%20De%20raad%20aan%20zet%20%28OAHvE%29 07-11-2023#voting_7983922"
+    },
+    "attachment": null,
+    "parent": 879979,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/13448861/3/Aangenomen+amendement+BA08A+De+raad+aan+zet+%28OAHvE%29?connection_type=1&connection_id=7878840",
+    "pdf_text": " \n \n \n \nAmendement  De raad aan zet       BA08A \n \nDe indieners van dit amendement stellen de gemeenteraad voor om in de vergadering van 7 \nnovember 2023 een besluit te nemen.  \n \nZij hebben het Raadsvoorstel vaststellen Begroting 2024 (23bst01294) van het college \ngelezen.  \n \nNa het gesprek in de vergadering van 31 oktober 2023 stellen zij een aanpassing van het \nbesluit voor.  \n \nDe indiener s hoorden  dat: \n• Wij in  het ontwerp raadsbesluit  van het raadsvoorstel vaststellen begroting 2024  \nonder punt 3 , bladzijde 5  lezen : ‘… De reserve “Transformatiefonds  Sociaal Domein” \nin te stellen’ , met mandatering aan het college.  \n \nDe indiener s vinden  dat: \n• Een van de hoofdtaken van een gemeenteraadslid is het controleren van de \nwerkzaamheden en besluiten  van het college . \n \nDe indi eners stellen voor het ontwerp raadsbesluit als volgt aan te passen en/of aan te \nvullen:  \nBeslispunt 3, derde opsommingsteken, luidende:  \n \n- Mandaat : college  \n \nTe wijzigen in:  \n \n- Mandaat  college : conform bestaande mandaatregeling  \n \nEindhoven,  7 november  2023   \n \nDe leden van de raad,  \n \nVoorsteller s,  \nDre Rennenberg  (OAHvE), voorsteller  \nCor Verbeek  (OAHvE), voorsteller  \nNiek Rennenberg  (OAHvE), voorsteller  \n \n-------------------------------------------------------------------------------------------------------  \nDit amendement is aangenomen  in de vergadering van  7 november  2023.  \n \nJ. Jongbloed , griffier . \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 891744,
+            "weight": 0.25720347440516395
+        },
+        {
+            "id": 1096902,
+            "weight": 0.12655427788074977
+        },
+        {
+            "id": 893181,
+            "weight": 0.12613256613597887
+        },
+        {
+            "id": 1096887,
+            "weight": 0.12425671468051236
+        },
+        {
+            "id": 920187,
+            "weight": 0.11120519186069829
+        },
+        {
+            "id": 879979,
+            "weight": 0.1002257790028632
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "vaststellen Begroting": 0.9548610939814716,
+        "Aangekondigd amendement": 1.9528741794228512,
+        "Raadsvoorstel vaststellen": 0.9510088507077494,
+        "OAHvE": 1.9503750380908205,
+        "zet": 1.9498928336436006,
+        "college": 0.9308903652479398,
+        "amendement": 1.929476354812573,
+        "november": 0.9207001120894749,
+        "Voorsteller": 0.9203791757046714,
+        "vergadering": 0.9115052993018263,
+        "Dre Rennenberg": 0.9059260493190663,
+        "Transformatiefonds Sociaal": 0.9028087883250951,
+        "Sociaal Domein": 0.9028087883250951,
+        "raad": 1.9006030552474393,
+        "Mandaat college": 0.896654554008596,
+        "ontwerp raadsbesluit": 0.8863038764186353,
+        "Begroting": 0.8822353081281689,
+        "Cor Verbeek": 0.8810786504779338,
+        "Mandaat": 0.8644681896857288,
+        "besluit": 0.8413356615964547,
+        "college gelezen": 0.8408559012209762,
+        "nemen": 0.8404615701341983,
+        "indiener": 0.8340926867470764,
+        "gemeenteraad": 0.8235253587714205,
+        "ontwerp": 0.7916795251112956,
+        "mandaatregeling Eindhoven": 0.7636316038080861,
+        "Domein": 0.7107367275353904,
+        "Sociaal": 0.6937674286356529,
+        "Eindhoven": 0.6827866400605083,
+        "Dre": 0.6827866400605083,
+        "Cor": 0.664950635557084,
+        "Niek": 0.664950635557084,
+        "Jongbloed": 0.6618558416935073,
+        "gelezen": 0.6026762657057705,
+        "oktober": 0.5422417372164998,
+        "derde opsommingsteken": 0.5103596168343532
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 57511,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1013523
+    ]
+}

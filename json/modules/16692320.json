@@ -1,0 +1,104 @@
+{
+    "module_id": 16692320,
+    "vote_id": null,
+    "member_id": [
+        194500
+    ],
+    "party_list": [
+        "FVD"
+    ],
+    "poho_id": [],
+    "title": "Vraag V6 Vragenhalfuur - PSV huldiging (FvD)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "10-03-2026",
+    "meeting_url": {
+        "1374861": "https://raadsinformatie.eindhoven.nl/vergadering/1374861/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/16692320/1/Vraag+V6+Vragenhalfuur+-+PSV+huldiging+%28FvD%29?connection_type=1&connection_id=9410448",
+    "pdf_text": " \n \n \nVragenhalfuur - PSV huldiging           V6 \n \ndatum:  10 maart 2026  \n \nGeacht college,  \n \nZie onderstaand artikel : \n \nhttps://www.omroepbrabant.nl/nieuws/6004588/algeheel -tassenverbod -\nop-evenementenlocaties -tijdens -huldiging -psv  \n \nVeel supporters zien fakkels als onderdeel van de traditie. Tegelijkertijd \nis veiligheid ook belangrijk tijdens massale evenementen. Aangezien het \naantal en soort verwondingen tot op heden slechts minimaal (en dus \nbeheersbaar) is gebleken beoordeelt FVD de  voorgestelde maatregel \nals onnodig disproportioneel.  \n \nFVD ziet verschil tussen fakkels en overig vuurwerk. FVD stelt daarom \nvoor om enerzijds alleen fakkels toe te staan vanwege de traditie en \nrelatieve veiligheid. Overig vuurwerk niet. Anderzijds worden (kleine) \ntassen niet verboden maar kunnen/mogen wel gec ontroleerd worden op \nvuurwerk.  \n \n1) Is het college bereid om deze tegemoetkoming te doen?  \n2) Zo nee, waarom niet?  \n3) Of stelt het college een aangepaste of andere tegemoetkoming voor?  \n \nNamens de fracti e, \nForum voor Democratie  \n \nNicolas Knoester, raadslid  \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 949441,
+            "weight": 0.0776787668068842
+        },
+        {
+            "id": 14958260,
+            "weight": 0.07713592781597613
+        },
+        {
+            "id": 797695,
+            "weight": 0.07588079997670853
+        },
+        {
+            "id": 905577,
+            "weight": 0.07419447914263591
+        },
+        {
+            "id": 776879,
+            "weight": 0.0669716557916207
+        },
+        {
+            "id": 1000233,
+            "weight": 0.06615575961709186
+        },
+        {
+            "id": 1133030,
+            "weight": 0.06073964697033058
+        }
+    ],
+    "videostarttime": {
+        "1374861": 1848
+    },
+    "videolink": null,
+    "keywords": {
+        "PSV huldiging": 1.9967037491193287,
+        "Vragenhalfuur": 1.9801584756940216,
+        "PSV": 1.9782142807693008,
+        "Geacht college": 0.9451859036214637,
+        "onderstaand artikel": 0.9448626500309643,
+        "Geacht": 0.9261466986759482,
+        "supporters zien": 0.9256549775728512,
+        "FvD": 1.8903286133131671,
+        "Vraag": 1.8630736585002896,
+        "datum": 0.8630736585002896,
+        "maart": 0.8630736585002896,
+        "tassenverbod": 0.8630736585002896,
+        "op-evenementenlocaties": 0.8630736585002896,
+        "artikel": 0.801352624261428,
+        "zien fakkels": 0.7852303247997265,
+        "vuurwerk": 0.774750316483245,
+        "college": 0.7654555472571016,
+        "zien": 0.7369404575551098,
+        "onderdeel": 0.7369404575551098,
+        "traditie": 0.7242911731945552,
+        "Nicolas Knoester": 0.7123096035588805,
+        "overig": 0.6838486807594357,
+        "veiligheid": 0.6785938956981401,
+        "Democratie Nicolas": 0.6610202111314405,
+        "massale evenementen": 0.655770236559501,
+        "stelt": 0.633766403033182,
+        "tegemoetkoming": 0.6265597397397313,
+        "beoordeelt FVD": 0.6065429119424325,
+        "FVD ziet": 0.5669774488375968,
+        "Forum": 0.5559682588287769,
+        "Knoester": 0.5559682588287769,
+        "Tegelijkertijd": 0.537363267853572
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194500,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1374861
+    ]
+}

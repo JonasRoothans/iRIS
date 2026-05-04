@@ -1,0 +1,71 @@
+{
+    "module_id": 998849,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 248564,
+    "title": "Startnotitie - Initiatiefvoorstel Referendumverordening gemeente Eindhoven 2024",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/998849",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "R. Strijk (Wethouder)",
+    "result": "",
+    "date": "10-12-2024",
+    "meeting_url": {
+        "1148344": "https://raadsinformatie.eindhoven.nl/vergadering/1148344#ai_8854246"
+    },
+    "attachment": null,
+    "parent": 979843,
+    "children": [],
+    "text": "Wethouder Strijk (Namens Stadsgezant van Kessel) zegt een startnotitie toe over een burgerberaad inwonersparticipatie eind Q1 2025.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 993459,
+            "weight": 2.3070350695368256
+        },
+        {
+            "id": 979843,
+            "weight": 2.226192113031584
+        },
+        {
+            "id": 891782,
+            "weight": 0.4923201317359924
+        },
+        {
+            "id": 1023028,
+            "weight": 0.4494721548799562
+        }
+    ],
+    "videostarttime": {
+        "1148344": 749
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_10.12.24_01-EINDHOVEN-RAA-ONDERTITEL_2024.12.10_223224.mp4/playlist.m3u8",
+    "keywords": {
+        "Wethouder Strijk": 0.996284846557492,
+        "Initiatiefvoorstel Referendumverordening": 1.9944446555520121,
+        "Namens Stadsgezant": 0.9944446555520121,
+        "gemeente Eindhoven": 1.9892033820230437,
+        "Referendumverordening gemeente": 1.9837989814664825,
+        "inwonersparticipatie eind": 0.9808597720080376,
+        "burgerberaad inwonersparticipatie": 0.9681962193601596,
+        "Initiatiefvoorstel": 1.9391608500592699,
+        "Eindhoven": 1.9391608500592699,
+        "Strijk": 0.9391608500592697,
+        "Namens": 0.9391608500592697,
+        "Kessel": 0.9391608500592697,
+        "zegt": 0.8930274509376158,
+        "eind": 0.8930274509376158,
+        "Startnotitie": 1.8747703400871132,
+        "gemeente": 1.824433837194725,
+        "burgerberaad": 0.8244338371947252
+    },
+    "svz": null,
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

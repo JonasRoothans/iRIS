@@ -1,0 +1,78 @@
+{
+    "module_id": 976790,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Toegezegde informatie - Sloopbeleid (Agenderingsverzoek SP, PvdD, LPF en 50PLUS)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/976790",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "19-09-2024",
+    "meeting_url": {
+        "1148108": "https://raadsinformatie.eindhoven.nl/vergadering/1148108#ai_7854318"
+    },
+    "attachment": null,
+    "parent": "ai_7854318",
+    "children": [],
+    "text": "Wethouder Verhees zegt toe dat er conform de Collegebrief over Beantwoording toezegging voorstel sloopbeleid (24bst01078) komt er voor het eind van het jaar gevraagde en toegezegde informatie over sloopbeleid naar de raad”.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 969485,
+            "weight": 3.203604313229203
+        },
+        {
+            "id": "ai_7854318",
+            "weight": 1.8687055949026725
+        },
+        {
+            "id": 1062479,
+            "weight": 0.429015968223152
+        },
+        {
+            "id": 826742,
+            "weight": 0.3243157677801037
+        },
+        {
+            "id": 12962261,
+            "weight": 0.2888283010976907
+        }
+    ],
+    "videostarttime": {
+        "1148108": 637
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_19.09.24_NC_Eindhoven_CIE2.mp4/playlist.m3u8",
+    "keywords": {
+        "Wethouder Verhees": 0.9959706037550576,
+        "Verhees zegt": 0.9894248355320288,
+        "Beantwoording toezegging": 0.9894248355320288,
+        "Toegezegde informatie": 1.9889618286416548,
+        "toezegging voorstel": 0.9797201449977371,
+        "jaar gevraagde": 0.9797201449977371,
+        "voorstel sloopbeleid": 0.9758034388726448,
+        "Agenderingsverzoek": 1.945931066103463,
+        "LPF": 1.945931066103463,
+        "PvdD": 1.9442116094143498,
+        "Toegezegde": 1.9265161503295851,
+        "informatie": 1.9265161503295851,
+        "Collegebrief": 0.9257757628921061,
+        "komt": 0.9049451606832885,
+        "raad": 0.9049451606832885,
+        "zegt": 0.8590150460248647,
+        "conform": 0.8590150460248647,
+        "voorstel": 0.8590150460248647,
+        "eind": 0.8590150460248647,
+        "jaar": 0.8590150460248647
+    },
+    "svz": "De gevraagde en toegzegde notitie is op 18 december jl. als Collegebrief aan uw raad gestuurd, zie https://raa...  Lees verder ",
+    "afgedaan": "28-01-2025",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

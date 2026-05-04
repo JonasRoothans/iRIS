@@ -1,0 +1,94 @@
+{
+    "module_id": 1008319,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Mogelijkheden om compensatie van woonprogramma - Rekenkamerrapport - Woningbouw in Eindhoven: lerend tot versnelling komen",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1008319",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "07-01-2025",
+    "meeting_url": {
+        "1253869": "https://raadsinformatie.eindhoven.nl/vergadering/1253869#ai_8902927"
+    },
+    "attachment": null,
+    "parent": 993565,
+    "children": [],
+    "text": "Wethouder Verhees zegt toe de raad te informeren over mogelijkheden om compensatie van woonprogramma plaats te laten vinden tussen gebiedskaders, en hoe dit opgenomen kan worden in de gebiedskaders.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1008309,
+            "weight": 2.3372439546179384
+        },
+        {
+            "id": "a_8997181",
+            "weight": 0.9031336034306756
+        },
+        {
+            "id": 1013512,
+            "weight": 0.8364707489297645
+        },
+        {
+            "id": 1060105,
+            "weight": 0.1225937547389636
+        },
+        {
+            "id": 1022809,
+            "weight": 0.10463929600876212
+        },
+        {
+            "id": 984310,
+            "weight": 0.09730730951558217
+        },
+        {
+            "id": 1031702,
+            "weight": 0.08818770939205423
+        },
+        {
+            "id": 1072930,
+            "weight": 0.08669209105208238
+        },
+        {
+            "id": 1101320,
+            "weight": 0.07563833942355332
+        }
+    ],
+    "videostarttime": {
+        "1253869": 2451
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_07.01.01_EINDHOVEN-RAA.mp4/playlist.m3u8",
+    "keywords": {
+        "Wethouder Verhees": 0.991049718690909,
+        "komen Wethouder": 0.9819108421610343,
+        "Verhees zegt": 0.9819108421610343,
+        "Rekenkamerrapport": 1.965321790081291,
+        "versnelling komen": 1.963099237020657,
+        "laten vinden": 0.9630992370206569,
+        "woonprogramma plaats": 0.9591254913703744,
+        "Woningbouw": 1.936446056357691,
+        "Eindhoven": 1.936446056357691,
+        "compensatie": 1.9279913483669717,
+        "gebiedskaders": 0.9279913483669716,
+        "Mogelijkheden": 1.8959181266062335,
+        "lerend": 1.88434055455009,
+        "komen": 1.8113533593047801,
+        "zegt": 0.8113533593047803,
+        "raad": 0.8113533593047803,
+        "informeren": 0.8113533593047803,
+        "plaats": 0.8113533593047803,
+        "laten": 0.8113533593047803,
+        "opgenomen": 0.8113533593047803
+    },
+    "svz": "Op 29 januari heeft u hierover de collegebrief \"Toezeggingen wethouder Verhees mbt gebiedskaders\" ontvangen, z...  Lees verder ",
+    "afgedaan": "18-02-2025",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

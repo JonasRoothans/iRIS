@@ -1,0 +1,121 @@
+{
+    "module_id": 1124227,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230024,
+    "title": "In gesprek met grote werkgevers en terugkoppeling aan de raad",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1124227",
+    "type": "Toezegging",
+    "member": "",
+    "party": "",
+    "poho": "S. Lammers (Wethouder)",
+    "result": "",
+    "date": "13-01-2026",
+    "meeting_url": {
+        "1374832": "https://raadsinformatie.eindhoven.nl/vergadering/1374832#ai_9410341"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": "Wethouder Lammers beantwoordt de vragen. De wethouder zegt toe:\n\nIn de rol als voorzitter van de arbeidsmarktregio in gesprek te gaan met de grote werkgevers in de regio. In dit gesprek te bespreken wat er nodig is om meer mensen uit de brede doelgroep (bijstandsbestand met daarbij ook mensen met een afstand tot de arbeidsmarkt) werk te bieden en/of in dienst te nemen en hier mogelijk afspraken over te maken. De raad een terugkoppeling te geven over de uitkomsten van dit gesprek inclusief wat voor beeld dit geeft voor de start van de transitie van Ergon om de beweging van binnen naar buiten te maken met behulp van werkgevers.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 776969,
+            "weight": 0.2494213571669149
+        },
+        {
+            "id": 953024,
+            "weight": 0.2467313129559544
+        },
+        {
+            "id": 1049621,
+            "weight": 0.24632502076486015
+        },
+        {
+            "id": 953021,
+            "weight": 0.24569070760700354
+        },
+        {
+            "id": 859170,
+            "weight": 0.15662281948728116
+        },
+        {
+            "id": 1051257,
+            "weight": 0.14546663979973587
+        },
+        {
+            "id": 1102017,
+            "weight": 0.126545611976478
+        },
+        {
+            "id": 883343,
+            "weight": 0.0779165635486481
+        },
+        {
+            "id": 905845,
+            "weight": 0.05489938759976102
+        },
+        {
+            "id": 905850,
+            "weight": 0.05394252904343921
+        },
+        {
+            "id": 856465,
+            "weight": 0.05376059288994057
+        },
+        {
+            "id": 791582,
+            "weight": 0.049362496948773205
+        }
+    ],
+    "videostarttime": {},
+    "videolink": null,
+    "keywords": {
+        "Lammers beantwoordt": 0.9916380076416095,
+        "Wethouder Lammers": 0.9915229776236753,
+        "grote werkgevers": 1.9809958289839533,
+        "raad Wethouder": 0.959274864609532,
+        "gesprek": 1.9509855213626415,
+        "Lammers": 0.9396785821613051,
+        "grote": 1.911329501131553,
+        "gesprek inclusief": 0.8920216309393372,
+        "vragen": 0.8771274162931559,
+        "raad": 1.8595923675498565,
+        "terugkoppeling": 1.8477652978329264,
+        "maken": 0.8310676685458511,
+        "mensen": 0.8107206576455621,
+        "brede doelgroep": 0.7727242815234676,
+        "Ergon": 0.7152717292007458,
+        "regio": 0.6727097876992696,
+        "zegt": 0.6436839428817985,
+        "rol": 0.6436839428817985,
+        "voorzitter": 0.6436839428817985,
+        "arbeidsmarktregio": 0.6436839428817985,
+        "gaan": 0.6436839428817985,
+        "bijstandsbestand": 0.5851937859775059,
+        "werk": 1.585193785977506,
+        "nodig": 0.5535573845095478,
+        "brede": 0.5535573845095478,
+        "daarbij": 0.5535573845095478,
+        "afstand": 0.5535573845095478,
+        "dienst": 0.5535573845095478,
+        "nemen": 0.5535573845095478,
+        "afspraken": 0.5535573845095478,
+        "uitkomsten": 0.5029259365771502,
+        "beeld": 0.5029259365771502,
+        "geeft": 0.5029259365771502,
+        "start": 0.5029259365771502,
+        "transitie": 0.5029259365771502,
+        "beweging": 0.5029259365771502,
+        "behulp": 0.5029259365771502
+    },
+    "svz": "De update kan bijvoorbeeld meegenomen worden in een van de kwartaalrapportages Werk en inkomen.",
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "08-04-2026",
+    "meeting_id": []
+}

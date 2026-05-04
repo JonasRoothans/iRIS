@@ -1,0 +1,117 @@
+{
+    "module_id": 857640,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 231116,
+    "title": "Camera's derden op te nemen in register -   Verbetering cameraregister (Vrije motie VM2)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/moties_en_toezeggingen/857640?parent_event=1013498",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "J. Dijsselbloem (Burgemeester)",
+    "result": "",
+    "date": "20-06-2023",
+    "meeting_url": {
+        "1013498": "https://raadsinformatie.eindhoven.nl/vergadering/1013498#ai_6964963"
+    },
+    "attachment": null,
+    "parent": "ai_6964963",
+    "children": [
+        857632,
+        857577,
+        857571
+    ],
+    "text": "Burgemeester Dijsselbloem zegt toe:\n\nzich in te zetten om camera’s van derden (bijvoorbeeld van de NS) die de gemeente potentieel in zal zetten voor het bewaken van de openbare orde in het register op te nemen;",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": "ai_6964963",
+            "weight": 1.8496827749697564
+        },
+        {
+            "id": 853688,
+            "weight": 1.4099548887366082
+        },
+        {
+            "id": 867120,
+            "weight": 0.3837633192860397
+        },
+        {
+            "id": 858025,
+            "weight": 0.1731634027105591
+        },
+        {
+            "id": 888562,
+            "weight": 0.1693073184162229
+        },
+        {
+            "id": 1009576,
+            "weight": 0.14939266583999244
+        },
+        {
+            "id": 983014,
+            "weight": 0.13965873632391498
+        },
+        {
+            "id": 881076,
+            "weight": 0.08748713711715224
+        },
+        {
+            "id": 879659,
+            "weight": 0.08562653264302197
+        },
+        {
+            "id": 14478397,
+            "weight": 0.08546518216067026
+        },
+        {
+            "id": 1037355,
+            "weight": 0.07097365511777833
+        },
+        {
+            "id": 932261,
+            "weight": 0.06984837914400534
+        },
+        {
+            "id": 835022,
+            "weight": 0.06683243161857395
+        },
+        {
+            "id": 787033,
+            "weight": 0.062040769228406054
+        }
+    ],
+    "videostarttime": {
+        "1013498": 6585
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_20.06.23_NC_EINDHOVEN_RAA.mp4/playlist.m3u8",
+    "keywords": {
+        "Burgemeester Dijsselbloem": 0.9968154692546706,
+        "Verbetering cameraregister": 1.9957799130037954,
+        "Vrije motie": 1.9957799130037954,
+        "Dijsselbloem zegt": 0.9923454892832911,
+        "gemeente potentieel": 0.9858442494568048,
+        "openbare orde": 0.9858442494568048,
+        "Camera derden": 0.9774846533526441,
+        "Verbetering": 1.9506288823205669,
+        "Vrije": 1.9506288823205669,
+        "Burgemeester": 0.9506288823205669,
+        "nemen": 1.9411476649105932,
+        "Camera": 1.9258050398761741,
+        "derden": 1.9258050398761741,
+        "register": 1.9258050398761741,
+        "zetten": 0.9258050398761741,
+        "motie": 1.9148823664576833,
+        "zegt": 0.881855333256557,
+        "bewaken": 0.881855333256557,
+        "orde": 0.881855333256557
+    },
+    "svz": null,
+    "afgedaan": "04-07-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

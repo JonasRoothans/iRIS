@@ -1,0 +1,68 @@
+{
+    "module_id": 925075,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230022,
+    "title": "Bewonersinitiatieven - Raadsvoorstel Masterplan Mobiliteit 2050",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/925075",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Esselbrugge (Wethouder)",
+    "result": "",
+    "date": "05-03-2024",
+    "meeting_url": {
+        "1147884": "https://raadsinformatie.eindhoven.nl/vergadering/1147884#ai_8184759"
+    },
+    "attachment": null,
+    "parent": 906466,
+    "children": [],
+    "text": "Wethouder Esselbrugge zegt toe om te kijken naar bewonersinitiatieven en te bezien of en hoe hiermee deelmobiliteit kan worden aangejaagd",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1076215,
+            "weight": 0.48261508057259356
+        },
+        {
+            "id": 960621,
+            "weight": 0.46971103468226016
+        },
+        {
+            "id": 820592,
+            "weight": 0.202980445011589
+        },
+        {
+            "id": 958793,
+            "weight": 0.17677217743112159
+        }
+    ],
+    "videostarttime": {
+        "1147884": 6141
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_05.03.24_Eindhoven_raadzaal.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Masterplan": 1.9943786065225821,
+        "Masterplan Mobiliteit": 1.9943786065225821,
+        "Wethouder Esselbrugge": 0.9943786065225823,
+        "Esselbrugge zegt": 0.9835374423226297,
+        "hiermee deelmobiliteit": 0.9675064304991429,
+        "Mobiliteit": 1.9387707991710164,
+        "Wethouder": 0.9387707991710162,
+        "Masterplan": 1.908704180676506,
+        "aangejaagd": 0.8918156922046329,
+        "Bewonersinitiatieven": 1.8731064435667122,
+        "zegt": 0.8225994208119777,
+        "kijken": 0.8225994208119777,
+        "bezien": 0.8225994208119777,
+        "hiermee": 0.8225994208119777
+    },
+    "svz": "Raad geïnformeerd met collegbrief Toezeggingen Masterplan Mobiliteit van medio juli 2024.\nVOORSTEL COLLEG...  Lees verder ",
+    "afgedaan": "03-09-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

@@ -1,0 +1,107 @@
+{
+    "module_id": 935353,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230014,
+    "title": "Europese samenwerking - Asfaltcentrale (Agenderingsverzoek PvdD en SP)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/935353",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "R. Thijs (Wethouder)",
+    "result": "",
+    "date": "09-04-2024",
+    "meeting_url": {
+        "1147920": "https://raadsinformatie.eindhoven.nl/vergadering/1147920#ai_8309858"
+    },
+    "attachment": null,
+    "parent": 933013,
+    "children": [],
+    "text": "Wethouder Thijs zegt toe de voorgenomen brief richting het ministerie een oproep te doen om te kijken naar de mogelijkheden voor Europese samenwerking op de accreditatie voor bedrijven die metingen kunnen uitvoeren op de ACE.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 877025,
+            "weight": 1.9856965830494626
+        },
+        {
+            "id": 1029708,
+            "weight": 0.796120560887383
+        },
+        {
+            "id": 1037141,
+            "weight": 0.7954636262919361
+        },
+        {
+            "id": 1035123,
+            "weight": 0.7950996358369016
+        },
+        {
+            "id": "ai_8588364",
+            "weight": 0.7924088416067123
+        },
+        {
+            "id": 991370,
+            "weight": 0.557119571003791
+        },
+        {
+            "id": 801391,
+            "weight": 0.5552024615067219
+        },
+        {
+            "id": 807848,
+            "weight": 0.5188188550064815
+        },
+        {
+            "id": 864038,
+            "weight": 0.28625424061162486
+        },
+        {
+            "id": 966305,
+            "weight": 0.26504803367942525
+        },
+        {
+            "id": 1042043,
+            "weight": 0.2630728618110507
+        },
+        {
+            "id": 1013503,
+            "weight": 0.1828766270910189
+        }
+    ],
+    "videostarttime": {
+        "1147920": 11693
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_09.04.24_NC_EINDHOVEN_Meningsvorming_CIE.mp4/playlist.m3u8",
+    "keywords": {
+        "Wethouder Thijs": 0.9970740815208387,
+        "Europese samenwerking": 1.9958951721799112,
+        "Agenderingsverzoek PvdD": 1.9947833143981657,
+        "Thijs zegt": 0.9931669599297207,
+        "voorgenomen brief": 0.9877799480323272,
+        "brief richting": 0.9877799480323272,
+        "Asfaltcentrale": 1.9665111617927729,
+        "Europese": 1.961598889085792,
+        "ACE": 0.9527680456038012,
+        "Thijs": 0.9382328660073908,
+        "PvdD": 1.890124956956695,
+        "zegt": 0.8901249569566948,
+        "brief": 0.8901249569566948,
+        "ministerie": 0.8901249569566948,
+        "oproep": 0.8901249569566948,
+        "kijken": 0.8901249569566948,
+        "mogelijkheden": 0.8901249569566948,
+        "accreditatie": 0.8901249569566948,
+        "bedrijven": 0.8901249569566948,
+        "metingen": 0.8901249569566948,
+        "uitvoeren": 0.8901249569566948
+    },
+    "svz": null,
+    "afgedaan": "14-05-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

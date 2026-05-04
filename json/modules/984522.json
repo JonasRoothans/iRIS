@@ -1,0 +1,85 @@
+{
+    "module_id": 984522,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Buurtontmoeting en buurthuizen - Raadsvoorstel Begroting 2025",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/984522",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "29-10-2024",
+    "meeting_url": {
+        "1148140": "https://raadsinformatie.eindhoven.nl/vergadering/1148140#ai_8727039"
+    },
+    "attachment": null,
+    "parent": 975511,
+    "children": [],
+    "text": "Wethouder Verhees (Stadsgezant Bellemakers) zegt toe dat de raad wordt geïnformeerd over de stand van zaken met betrekking tot het beleid.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 890250,
+            "weight": 0.4180750694221617
+        },
+        {
+            "id": 1045968,
+            "weight": 0.41135328451559405
+        },
+        {
+            "id": 937171,
+            "weight": 0.4090503452101781
+        },
+        {
+            "id": 1036311,
+            "weight": 0.20457058841327153
+        },
+        {
+            "id": 1148670,
+            "weight": 0.16275500760171713
+        },
+        {
+            "id": 950238,
+            "weight": 0.16250178909895008
+        },
+        {
+            "id": 833162,
+            "weight": 0.14388267950510997
+        },
+        {
+            "id": "a_9477086",
+            "weight": 0.13806535442285817
+        }
+    ],
+    "videostarttime": {
+        "1148140": null
+    },
+    "videolink": null,
+    "keywords": {
+        "Raadsvoorstel Begroting": 1.9967389880162214,
+        "Wethouder Verhees": 0.9967389880162213,
+        "Stadsgezant Bellemakers": 0.9967389880162213,
+        "Begroting": 1.9429876123096683,
+        "Verhees": 0.9429876123096684,
+        "Stadsgezant": 0.9429876123096684,
+        "Bellemakers": 0.9429876123096684,
+        "Buurtontmoeting": 1.9043195497355658,
+        "buurthuizen": 1.9043195497355658,
+        "zegt": 0.9043195497355658,
+        "beleid": 0.9043195497355658,
+        "raad": 0.8416830712200127,
+        "geïnformeerd": 0.8416830712200127,
+        "stand": 0.8416830712200127,
+        "zaken": 0.8416830712200127
+    },
+    "svz": null,
+    "afgedaan": "03-06-2025",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

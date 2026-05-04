@@ -1,0 +1,86 @@
+{
+    "module_id": 851994,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230022,
+    "title": "Tweede kwartaal 2024 terugkoppeling - Studenten die vragen worden overgeslagen! (Vrije Motie VM3)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/851994",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Toub (Wethouder)",
+    "result": "",
+    "date": "30-05-2023",
+    "meeting_url": {
+        "1013491": "https://raadsinformatie.eindhoven.nl/vergadering/1013491#ai_6964908"
+    },
+    "attachment": null,
+    "parent": 850170,
+    "children": [],
+    "text": "Wethouder Toub zeg toe:\n\nhij hierover zal terugkoppelen in het tweede kwartaal van 2024.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 851992,
+            "weight": 0.7565269744569396
+        },
+        {
+            "id": 851991,
+            "weight": 0.7380900074024734
+        },
+        {
+            "id": 851993,
+            "weight": 0.7361722952771359
+        },
+        {
+            "id": 850133,
+            "weight": 0.5770274841574722
+        },
+        {
+            "id": 826276,
+            "weight": 0.3745953270592745
+        },
+        {
+            "id": 785515,
+            "weight": 0.36954108253192736
+        },
+        {
+            "id": 1124907,
+            "weight": 0.337873715748747
+        },
+        {
+            "id": 1061195,
+            "weight": 0.32273512272816274
+        },
+        {
+            "id": 943204,
+            "weight": 0.16405828937492847
+        }
+    ],
+    "videostarttime": {
+        "1013491": 17337
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_30.05.23_NC_EINDHOVEN_Raadszaal.mp4/playlist.m3u8",
+    "keywords": {
+        "Vrije Motie": 1.9497517711105892,
+        "Wethouder Toub": 0.9310661434674007,
+        "Studenten": 1.925401168906082,
+        "terugkoppeling": 1.9228514046076703,
+        "Tweede kwartaal": 1.9129985294910319,
+        "overgeslagen": 1.8416830712200127,
+        "Toub zeg": 0.8117597768082578,
+        "Tweede": 1.8075075472619722,
+        "Vrije": 1.7812669542018287,
+        "Motie": 1.7812669542018287,
+        "vragen": 1.7494048174647245,
+        "Toub": 0.7051729392881849
+    },
+    "svz": null,
+    "afgedaan": "04-06-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

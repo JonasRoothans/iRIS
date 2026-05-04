@@ -1,0 +1,144 @@
+{
+    "module_id": 15018133,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Bijlage bij schriftelijke rondvraag 3 - Kaartverdeling Nieuwjaarsreceptie 2025",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "09-01-2025",
+    "meeting_url": {
+        "1253869": "https://raadsinformatie.eindhoven.nl/vergadering/1253866/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://api.notubiz.nl/document/15018133/1",
+    "pdf_text": "Telling verdeling kaarten Nieuwjaarsbijeenkomst 2025\nmaximaal 935 kaarten beschikbaar\nEditie 2025\nAantallen\nGenodigden bestuur 150\nBestuursadviseurs 7\nGemeenteraad 166\nRekenkamer 3\nSectorhoofden 21\nEreburgers 44\nDirectieraad / gemeentesecretaris 5\nKamerleden 6\nGroot Eindhoven: alg. uitnodiging aan inwoners 150\nGebiedscoördinatoren nodigen inwoners/vrijwilligers 160\nVrijwilligers via Stichting Eindhoven Doet 150\nVia Sociaal domein inwoners 50\nOrganisatie 10\nBeveiliging 2\nPers 4\nAanhang artiest/spreker\nAccountants gemeente 3\nRESTANT / RESERVE 4\n935",
+    "bst": null,
+    "related": [
+        {
+            "id": 1003503,
+            "weight": 0.36479988864893265
+        },
+        {
+            "id": 1090088,
+            "weight": 0.36399706546469124
+        },
+        {
+            "id": 12865589,
+            "weight": 0.15559803954846466
+        },
+        {
+            "id": 927025,
+            "weight": 0.15057848958681022
+        },
+        {
+            "id": 1116686,
+            "weight": 0.15041601490537865
+        },
+        {
+            "id": 826533,
+            "weight": 0.1476572841129598
+        },
+        {
+            "id": 16260931,
+            "weight": 0.14262076301815288
+        },
+        {
+            "id": 850170,
+            "weight": 0.14214807060632625
+        },
+        {
+            "id": 979285,
+            "weight": 0.12067219993237546
+        },
+        {
+            "id": 837790,
+            "weight": 0.07958418651374173
+        },
+        {
+            "id": 862790,
+            "weight": 0.0740829276453395
+        },
+        {
+            "id": 1097898,
+            "weight": 0.07330994562427982
+        },
+        {
+            "id": 972333,
+            "weight": 0.07253278412372087
+        },
+        {
+            "id": 1146336,
+            "weight": 0.07192123730747678
+        },
+        {
+            "id": 915841,
+            "weight": 0.07184302430850859
+        },
+        {
+            "id": 930556,
+            "weight": 0.07176170876120681
+        },
+        {
+            "id": 14825330,
+            "weight": 0.0710616769139678
+        },
+        {
+            "id": 1131041,
+            "weight": 0.06749924087718137
+        },
+        {
+            "id": 15018132,
+            "weight": 0.061883445699719805
+        },
+        {
+            "id": 956511,
+            "weight": 0.055669491932793795
+        },
+        {
+            "id": 825108,
+            "weight": 0.04564045694254059
+        }
+    ],
+    "videostarttime": {
+        "1253869": 738
+    },
+    "videolink": null,
+    "keywords": {
+        "Kaartverdeling Nieuwjaarsreceptie": 1.9937064006424356,
+        "Telling verdeling": 0.9758140231957985,
+        "kaarten Nieuwjaarsbijeenkomst": 0.9755081575435234,
+        "schriftelijke rondvraag": 1.9316935314301522,
+        "kaarten beschikbaar": 0.9307919963983676,
+        "Telling": 0.9209162615245807,
+        "verdeling kaarten": 0.9007777960984257,
+        "maximaal": 0.8671048063823877,
+        "kaarten": 0.8488543106827411,
+        "Bijlage": 1.785874515164244,
+        "rondvraag": 1.785874515164244,
+        "inwoners": 0.7703208475738914,
+        "Eindhoven": 0.7102562253411431,
+        "Editie": 0.652616755458536,
+        "vrijwilligers": 0.6500091934342797,
+        "via": 0.5882599738782979,
+        "RESTANT": 0.5825601051531104,
+        "RESERVE": 0.5825601051531104,
+        "Aantallen": 0.5632164606852244,
+        "Stichting Eindhoven": 0.5206006163856958
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1253869
+    ]
+}

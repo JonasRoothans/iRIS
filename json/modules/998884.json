@@ -1,0 +1,113 @@
+{
+    "module_id": 998884,
+    "vote_id": null,
+    "member_id": [
+        194500
+    ],
+    "party_list": [
+        "FVD"
+    ],
+    "poho_id": [],
+    "title": "Beantwoording raadsvragen - ZZP boetes (FvD)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/4/Raadsvragen/998884",
+    "type": "Raadsvraag",
+    "member": "Nicolas Knoester",
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "16-12-2024",
+    "meeting_url": null,
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/14957781/1?connection_type=17&connection_id=11296010": "Vraag",
+        "https://raadsinformatie.eindhoven.nl/document/15067414/1?connection_type=17&connection_id=11444056": "Antwoord"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": " \n \n \nRaadsvragen - ZZP boetes  \ndatum:  15 december 2024  \n \nGeacht college,  \n \nZie onderstaand artikel:  \n \nMinisterie van Financiën betaalt boetes van eigen schijnzelfstandigen  \nhttps://www.rtl.nl/nieuws/economie/artikel/5484306/belastingdienst -blijft-\nmet-zzpers -werken -boetes -mogen -doorgestuurd   \n \nForum voor Democratie vindt dit meten met twee maten. Het is \nonacceptabel dat een overheidsinstantie boetes kan vergoeden terwijl \nondernemers dergelijke boetes zich niet kunnen veroorloven. Dit leidt \ntot oneerlijke concurrentie en legt een onevenredige dru k op \nzelfstandigen en bedrijven.  \n \n1. Is het college voornemens eventuele boetes en naheffingen van \nzzp’ers die voor de gemeente werken te vergoeden, zoals het \nministerie van Financiën doet? Zo ja, hoe rechtvaardigt het college \ndit? \n2. Hoe beoordeelt het college de morele en juridische aspecten van het \nvergoeden van boetes door een overheidsinstantie?  \n3. In welke mate gaat de strengere handhaving op schijnzelfstandigen \nper 1 januari 2025 gevolgen hebben voor de gemeentelijke \norganisatie en samenwerkingspartners (zoals zorg - of \nonderwijsinstellingen)?  \n4. Wat doet het college om voorbereid te zijn op eventuele personeels - \nof capaciteitsproblemen als gevolg van de aangescherpte \nhandhaving?  \n \nNicolas Knoester  (FvD) \n",
+    "bst": "7856367 1.4.1.",
+    "related": [
+        {
+            "id": 875664,
+            "weight": 0.34698019886439857
+        },
+        {
+            "id": 1017149,
+            "weight": 0.32265950567991153
+        },
+        {
+            "id": 1111373,
+            "weight": 0.2788436034598559
+        },
+        {
+            "id": 940745,
+            "weight": 0.2730936585094557
+        },
+        {
+            "id": 1150671,
+            "weight": 0.07751033643732849
+        },
+        {
+            "id": 16451167,
+            "weight": 0.07201848375137171
+        },
+        {
+            "id": 1010859,
+            "weight": 0.05563172497032316
+        },
+        {
+            "id": 1016282,
+            "weight": 0.05422280737658023
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "ZZP boetes": 1.987377943500281,
+        "doorgestuurd Forum": 0.9861271831159082,
+        "Beantwoording raadsvragen": 1.985504152827446,
+        "Democratie vindt": 0.9835263137073368,
+        "ZZP": 1.9753889215554605,
+        "Geacht college": 0.9680653180639215,
+        "raadsvragen": 1.9604017878319255,
+        "onderstaand artikel": 0.9598981072191536,
+        "twee maten": 0.9598981072191536,
+        "Financiën betaalt": 0.9502130185967429,
+        "Geacht": 0.9333068310221051,
+        "Forum": 0.924160856359698,
+        "college": 0.9071976383880798,
+        "boetes datum": 0.9007937247455283,
+        "betaalt boetes": 0.8803058790602473,
+        "Ministerie": 0.8552245576493669,
+        "december": 0.8518344509251236,
+        "blijft": 0.8518344509251236,
+        "met-zzpers": 0.8518344509251236,
+        "vergoeden": 0.8253161305133968,
+        "datum": 0.8195787222731444,
+        "artikel": 0.8195787222731444,
+        "maten": 0.8195787222731444,
+        "FvD": 1.8094791065792328,
+        "betaalt": 0.7863016196198165,
+        "vindt": 0.7863016196198165,
+        "twee": 0.7863016196198165,
+        "werken": 0.7703765617486789,
+        "overheidsinstantie": 0.7475723592899592,
+        "schijnzelfstandigen": 0.7258945622313538,
+        "eventuele": 0.6981586167382924,
+        "ondernemers dergelijke": 0.6914798249956753,
+        "handhaving": 0.6859812140236771,
+        "Nicolas Knoester": 0.6334827488903403,
+        "Knoester": 0.6007708815049881,
+        "gemeente werken": 0.5950619355073384,
+        "college voornemens": 0.5891342555520664,
+        "onacceptabel": 0.5144303061988835,
+        "ondernemers": 0.5144303061988835,
+        "dergelijke": 0.5144303061988835
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194500,
+    "lastScrapeDate": "02-04-2026",
+    "meeting_id": []
+}

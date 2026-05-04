@@ -1,0 +1,49 @@
+{
+    "module_id": 984458,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Verlaging inhuur - Raadsvoorstel Begroting 2025",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/984458",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "29-10-2024",
+    "meeting_url": {
+        "1148141": "https://raadsinformatie.eindhoven.nl/vergadering/1148141#ai_8729567"
+    },
+    "attachment": null,
+    "parent": 975511,
+    "children": [],
+    "text": "Wethouder Verhees zegt toe dat er hard aan wordt gewerkt. Raad wordt over de voortgang geïnformeerd.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [],
+    "videostarttime": {
+        "1148141": null
+    },
+    "videolink": null,
+    "keywords": {
+        "Raadsvoorstel Begroting": 1.9956397929450427,
+        "Wethouder Verhees": 0.9935642611307579,
+        "Verlaging inhuur": 1.984478152020508,
+        "Verhees zegt": 0.980154148881414,
+        "Begroting": 1.934111623307328,
+        "inhuur": 1.8763690867947806,
+        "gewerkt": 0.8763690867947806,
+        "voortgang geïnformeerd": 0.8192443531320843,
+        "zegt": 0.7994920302806434,
+        "hard": 0.7994920302806434,
+        "Raad": 1.67116283573645,
+        "voortgang": 0.5344664897230191
+    },
+    "svz": null,
+    "afgedaan": "10-12-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

@@ -1,0 +1,76 @@
+{
+    "module_id": 985703,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230019,
+    "title": "Raadsvoorstel Begroting 2025",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/985703",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. van Lanschot (Wethouder)",
+    "result": "",
+    "date": "05-11-2024",
+    "meeting_url": {
+        "1148143": "https://raadsinformatie.eindhoven.nl/vergadering/1148143#ai_8727038"
+    },
+    "attachment": null,
+    "parent": 975511,
+    "children": [],
+    "text": "Wethouder Van Lanschot zegt toe met de auditcommissie meerdere opties voor het weerstandvermogen te bespreken.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 845507,
+            "weight": 0.07776372025267916
+        },
+        {
+            "id": 945622,
+            "weight": 0.07623979781866927
+        },
+        {
+            "id": "a_7688307",
+            "weight": 0.06941158019759121
+        },
+        {
+            "id": 958793,
+            "weight": 0.058470504088007184
+        },
+        {
+            "id": 941379,
+            "weight": 0.05752267511890428
+        },
+        {
+            "id": 998975,
+            "weight": 0.051862145369438645
+        },
+        {
+            "id": 850152,
+            "weight": 0.045773969862113004
+        }
+    ],
+    "videostarttime": {
+        "1148143": 22763
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_05.11.24_NC_Eindhoven.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Begroting": 1.986202801796007,
+        "Lanschot zegt": 0.955011371234592,
+        "Begroting": 1.9140368224837343,
+        "Wethouder": 0.9140368224837344,
+        "auditcommissie meerdere": 0.9029960071342576,
+        "meerdere opties": 0.9029960071342576,
+        "bespreken": 0.8416830712200127,
+        "zegt": 0.7026344174397849,
+        "opties": 0.7026344174397849,
+        "weerstandvermogen": 0.7026344174397849
+    },
+    "svz": null,
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

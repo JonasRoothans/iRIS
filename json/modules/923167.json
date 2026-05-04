@@ -1,0 +1,104 @@
+{
+    "module_id": 923167,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230019,
+    "title": "Was-wordt-tabel - Raadsvoorstel Actualisatie Beleid verbonden partijen",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/923167",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. van Lanschot (Wethouder)",
+    "result": "",
+    "date": "27-02-2024",
+    "meeting_url": {
+        "1147876": "https://raadsinformatie.eindhoven.nl/vergadering/1147876#ai_8196767"
+    },
+    "attachment": null,
+    "parent": 913551,
+    "children": [],
+    "text": "Wethouder van Lanschot zegt toe dat er altijd een “was-wordt-tabel” wordt toegevoegd aan dergelijke raadsvoorstellen.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 923172,
+            "weight": 2.253974013488005
+        },
+        {
+            "id": 913551,
+            "weight": 1.1013630909725833
+        },
+        {
+            "id": "a_8285028",
+            "weight": 0.6312788608555181
+        },
+        {
+            "id": "a_8287348",
+            "weight": 0.6278085438688198
+        },
+        {
+            "id": 1089477,
+            "weight": 0.4404916251014205
+        },
+        {
+            "id": 938319,
+            "weight": 0.44046290223419254
+        },
+        {
+            "id": 977702,
+            "weight": 0.4403474461110765
+        },
+        {
+            "id": 944421,
+            "weight": 0.43989178421289754
+        },
+        {
+            "id": 881857,
+            "weight": 0.436069926625458
+        },
+        {
+            "id": 792357,
+            "weight": 0.42830781153153685
+        },
+        {
+            "id": "a_8285576",
+            "weight": 0.3262418543441153
+        },
+        {
+            "id": 941275,
+            "weight": 0.23700487150990723
+        },
+        {
+            "id": 1046814,
+            "weight": 0.21678308301549934
+        }
+    ],
+    "videostarttime": {
+        "1147876": 958
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_27.02.24_NC_EINDHOVEN_CIE.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Actualisatie": 1.9943516277049946,
+        "Actualisatie Beleid": 1.991558128321706,
+        "Beleid verbonden": 1.9834300734310606,
+        "partijen Wethouder": 0.9834300734310607,
+        "Lanschot zegt": 0.9834300734310607,
+        "dergelijke raadsvoorstellen": 0.9802560587882564,
+        "verbonden partijen": 1.967221742546982,
+        "Raadsvoorstel": 1.9386120372534896,
+        "Beleid": 1.9085057211826901,
+        "Wethouder": 0.9085057211826901,
+        "partijen": 1.8218485391955244,
+        "zegt": 0.8218485391955245,
+        "toegevoegd": 0.8218485391955245,
+        "dergelijke": 0.8218485391955245
+    },
+    "svz": null,
+    "afgedaan": "09-04-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

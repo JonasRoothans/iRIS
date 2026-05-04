@@ -1,0 +1,105 @@
+{
+    "module_id": 1014012,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 231116,
+    "title": "QR-Code - Commissienotitie Vlaggenprotocol gemeente Eindhoven 2025",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1014012",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "J. Dijsselbloem (Burgemeester)",
+    "result": "",
+    "date": "28-01-2025",
+    "meeting_url": {
+        "1256305": "https://raadsinformatie.eindhoven.nl/vergadering/1256305#ai_8958153"
+    },
+    "attachment": null,
+    "parent": 999828,
+    "children": [],
+    "text": "Burgemeester Dijsselbloem zegt toe dat er bij de vlgaggen masten een QR-code komt waar mensen extra informatie kunnen krijgen over de vlaggen die hangen.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1014011,
+            "weight": 3.3004032986070353
+        },
+        {
+            "id": 1014984,
+            "weight": 1.3128634316098797
+        },
+        {
+            "id": "o_8726235",
+            "weight": 0.2760439841253532
+        },
+        {
+            "id": 14540705,
+            "weight": 0.27013875100246715
+        },
+        {
+            "id": 1090175,
+            "weight": 0.20954232660349417
+        },
+        {
+            "id": 925552,
+            "weight": 0.09399256771801731
+        },
+        {
+            "id": 14926561,
+            "weight": 0.0781107465096216
+        },
+        {
+            "id": 1069224,
+            "weight": 0.07583318769677404
+        },
+        {
+            "id": 14115505,
+            "weight": 0.06929622685043989
+        },
+        {
+            "id": 799947,
+            "weight": 0.06501886806884019
+        },
+        {
+            "id": 883343,
+            "weight": 0.06373092226243286
+        },
+        {
+            "id": 854128,
+            "weight": 0.06029195819457387
+        }
+    ],
+    "videostarttime": {
+        "1256305": 633
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_28.01.25_01-EINDHOVEN-RAA-ONDERTITEL_2025.01.28_194551.mp4/playlist.m3u8",
+    "keywords": {
+        "Commissienotitie Vlaggenprotocol": 1.994479650464072,
+        "Burgemeester Dijsselbloem": 0.9944796504640722,
+        "gemeente Eindhoven": 1.9893006594715885,
+        "Vlaggenprotocol gemeente": 1.9839367976979436,
+        "Dijsselbloem zegt": 0.9839367976979435,
+        "vlgaggen masten": 0.9685575990805156,
+        "mensen extra": 0.9685575990805156,
+        "extra informatie": 0.9685575990805156,
+        "QR-code komt": 0.9546053364383639,
+        "Commissienotitie": 1.939368310851893,
+        "Eindhoven": 1.939368310851893,
+        "Burgemeester": 0.9393683108518932,
+        "hangen": 0.893667175349195,
+        "zegt": 0.8254035696529312,
+        "masten": 0.8254035696529312,
+        "komt": 0.8254035696529312,
+        "mensen": 0.8254035696529312,
+        "extra": 0.8254035696529312,
+        "krijgen": 0.8254035696529312
+    },
+    "svz": "De vierde vlaggenmast voor op het Stadhuisplein is besteld. \nZodra die er staat zal ook de QRcode worden&...  Lees verder ",
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

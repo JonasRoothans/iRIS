@@ -1,0 +1,117 @@
+{
+    "module_id": 925083,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": null,
+    "title": "Parkeren bij bedrijventerreinen - Raadsvoorstel Masterplan Mobiliteit 2050",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/925083",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Esselbrugge (Wethouder)",
+    "result": "",
+    "date": "05-03-2024",
+    "meeting_url": {
+        "1147884": "https://raadsinformatie.eindhoven.nl/vergadering/1147884#ai_8184759"
+    },
+    "attachment": null,
+    "parent": 906466,
+    "children": [],
+    "text": "Wethouder Esselbrugge zegt toe dat in overleg met bedrijven wordt ingezet op parkeren bij bedrijventerreinen tijdens weekend en avonduren",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 984221,
+            "weight": 0.38868533554297907
+        },
+        {
+            "id": 873163,
+            "weight": 0.20595517438409797
+        },
+        {
+            "id": 862589,
+            "weight": 0.196770475898477
+        },
+        {
+            "id": 1037936,
+            "weight": 0.1843465894427099
+        },
+        {
+            "id": 943628,
+            "weight": 0.18434493827745177
+        },
+        {
+            "id": 1133173,
+            "weight": 0.18209113015487366
+        },
+        {
+            "id": 960621,
+            "weight": 0.1461147813626112
+        },
+        {
+            "id": 1042149,
+            "weight": 0.14449709266910904
+        },
+        {
+            "id": 11799047,
+            "weight": 0.12310442995387216
+        },
+        {
+            "id": 1089938,
+            "weight": 0.09036948174874945
+        },
+        {
+            "id": 925613,
+            "weight": 0.08665995088876044
+        },
+        {
+            "id": 1080209,
+            "weight": 0.08454856082393657
+        },
+        {
+            "id": 1146302,
+            "weight": 0.08011163097953511
+        },
+        {
+            "id": 887791,
+            "weight": 0.07751173601130122
+        },
+        {
+            "id": 940771,
+            "weight": 0.0640942861474853
+        },
+        {
+            "id": 801960,
+            "weight": 0.06271280880721852
+        }
+    ],
+    "videostarttime": {
+        "1147884": 6141
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_05.03.24_Eindhoven_raadzaal.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Masterplan": 1.9941476432967788,
+        "Masterplan Mobiliteit": 1.9941476432967788,
+        "Wethouder Esselbrugge": 0.9941476432967787,
+        "Esselbrugge zegt": 0.9826080374015959,
+        "Mobiliteit": 1.9374219093392173,
+        "Wethouder": 0.9374219093392172,
+        "Masterplan": 1.9070232753949699,
+        "Parkeren": 1.8996100067922228,
+        "bedrijventerreinen": 1.8996100067922228,
+        "avonduren": 0.8875323018025537,
+        "zegt": 0.8161405114575309,
+        "overleg": 0.8161405114575309,
+        "bedrijven": 1.8161405114575309,
+        "ingezet": 0.8161405114575309,
+        "weekend": 0.8161405114575309
+    },
+    "svz": null,
+    "afgedaan": "03-06-2025",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

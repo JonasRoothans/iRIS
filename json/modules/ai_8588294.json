@@ -1,0 +1,57 @@
+{
+    "module_id": "ai_8588294",
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 248564,
+    "title": "Toezegging rondvraag SP Waar parkeer ik mijn fiets? - ",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/moties_en_toezeggingen/1021295?parent_event=1256331",
+    "type": "Agenda",
+    "member": null,
+    "party": null,
+    "poho": "R. Strijk (Wethouder)",
+    "result": "",
+    "date": "18-02-2025",
+    "meeting_url": "https://raadsinformatie.eindhoven.nl/vergadering/1256331#ai_8588294",
+    "attachment": null,
+    "parent": null,
+    "children": [
+        1021295
+    ],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 15169776,
+            "weight": 0.5326620373007649
+        },
+        {
+            "id": 806370,
+            "weight": 0.221394706458968
+        },
+        {
+            "id": 858405,
+            "weight": 0.15261964568127057
+        },
+        {
+            "id": 14963291,
+            "weight": 0.14652628173096707
+        }
+    ],
+    "videostarttime": 6254,
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/18.02.25 Eindhoven Meningsvormend CK web.mp4/playlist.m3u8",
+    "keywords": {
+        "Toezegging rondvraag": 1.922031089187091,
+        "Toezegging": 1.7994920302806434,
+        "fiets": 1.7994920302806434,
+        "rondvraag": 1.6392688949833367,
+        "parkeer": 1.6392688949833367
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": "30-05-2025",
+    "meeting_id": []
+}

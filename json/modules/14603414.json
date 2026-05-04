@@ -1,0 +1,113 @@
+{
+    "module_id": 14603414,
+    "vote_id": null,
+    "member_id": [
+        194500
+    ],
+    "party_list": [
+        "FVD"
+    ],
+    "poho_id": [],
+    "title": "Rondvraag 1 -  Opvang Oekraïners Turfveldenstraat (FvD)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "04-10-2024",
+    "meeting_url": {
+        "1148132": "https://raadsinformatie.eindhoven.nl/vergadering/1148131/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://api.notubiz.nl/document/14603414/1",
+    "pdf_text": " \n \n \nRondvraag 1  - Opvang Oekraïners Turfveldenstraat  \n   datum:  2 oktober  2024  \n \nN.a.v. de ingekomen brief van buurtbewoners van de Turfveldenstraat  \nvan 12 september en de reactie van het college op 1 oktober inzake  de \nopvang van Oekraïners stelt FVD raadsvragen   \n \nGeacht college,  \n \n1. Waarom heeft het college gekozen voor het zeer laat informeren \nvan de buurt?  \n \n2. Deelt het college de mening dat het overvallen van inwoners het \nwantrouwen tegen de gemeente en de polarisatie in de stad \nongewenst versterkt?  \n \n3. Wat kan en gaat het college nu doen om de buurtbewoners \ngerust te stellen?  \n \n \nName ns de fractie , \nForum voor Democratie  \n \nNicolas Knoester  \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 937183,
+            "weight": 0.6375850812320505
+        },
+        {
+            "id": 822130,
+            "weight": 0.24936292235058716
+        },
+        {
+            "id": 894051,
+            "weight": 0.15887238253494038
+        },
+        {
+            "id": 998975,
+            "weight": 0.15612544540802437
+        },
+        {
+            "id": 804097,
+            "weight": 0.1490827990639194
+        },
+        {
+            "id": 909758,
+            "weight": 0.14861583346464524
+        },
+        {
+            "id": 915636,
+            "weight": 0.1435196365775876
+        },
+        {
+            "id": 946698,
+            "weight": 0.13792572205231202
+        },
+        {
+            "id": 1149735,
+            "weight": 0.10237035387085008
+        }
+    ],
+    "videostarttime": {
+        "1148132": 800
+    },
+    "videolink": null,
+    "keywords": {
+        "Oekraïners Turfveldenstraat": 1.9987869214529734,
+        "Opvang Oekraïners": 1.9985214479958844,
+        "Turfveldenstraat datum": 0.9925249898645846,
+        "raadsvragen Geacht": 0.9889014541867824,
+        "stelt FVD": 0.9861028288452522,
+        "FVD raadsvragen": 0.9861028288452522,
+        "Geacht college": 0.9824550362741757,
+        "Opvang": 1.97911969458077,
+        "Rondvraag": 1.9740514286753268,
+        "ingekomen brief": 0.9719424566612614,
+        "FvD": 1.958515449373519,
+        "college": 0.9480994001788183,
+        "oktober": 0.9478285688282624,
+        "Geacht": 0.9335558906760635,
+        "Nicolas Knoester": 0.8836614330008445,
+        "college gekozen": 0.8818002086429225,
+        "Democratie Nicolas": 0.8735700471787725,
+        "datum": 0.8557097070015549,
+        "september": 0.8557097070015549,
+        "brief": 0.8347976924803033,
+        "reactie": 0.8347976924803033,
+        "buurtbewoners": 0.8181175131873312,
+        "laat informeren": 0.801068139361467,
+        "Deelt": 0.7559939242145131,
+        "ongewenst versterkt": 0.7006979570406864,
+        "Forum": 0.6889323212948919,
+        "Knoester": 0.6889323212948919,
+        "stad ongewenst": 0.6660643335712875,
+        "Nicolas": 0.6649783348849316,
+        "buurt": 0.6306639876466282,
+        "gekozen": 0.5926620047462245,
+        "laat": 0.5926620047462245,
+        "versterkt": 0.5395996990489434
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194500,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1148132
+    ]
+}

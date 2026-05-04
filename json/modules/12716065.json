@@ -1,0 +1,134 @@
+{
+    "module_id": 12716065,
+    "vote_id": null,
+    "member_id": [
+        194242,
+        45186
+    ],
+    "party_list": [
+        "VVD",
+        "CDA"
+    ],
+    "poho_id": [],
+    "title": "Vraag V5 Vragenhalfuur Samen spelen. Dit geldt voor iedereen (CDA, VVD)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "09-05-2023",
+    "meeting_url": {
+        "1013486": "https://raadsinformatie.eindhoven.nl/vergadering/1013486/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/12716065/1/Vraag+V5+Vragenhalfuur+Samen+spelen_+Dit+geldt+voor+iedereen+%28CDA%2C+VVD%29?connection_type=1&connection_id=6964915",
+    "pdf_text": " \n \nVraag vragenhalfuur van de fractie s CDA  en VVD  \n \n \nSamen spelen? Dit geldt voor iedereen          V5 \n9 mei 2023  \n \nGeacht college,  \nIn onze stad woont een bijzonder kind, genaamd Thijn Broers, die een \nrolstoelglijbaan heeft bedacht. Zijn idee en zijn enorme inzet zijn niet \nonopgemerkt gebleven. We volgen het verhaal van Thijn al enkele jaren. \nHet idee om een inclusief park te creëren m et een rolstoelglijbaan is niet \nonopgemerkt gebleven. Thijn heeft een geldprijs van €15.000 ontvangen \nvan SKPO  en is verschillende keren op televisie en in de media \nverschenen. Zijn idee heeft zelfs overheidsfunctionarissen bereikt, met \nwie Thijn en zijn ouders meerdere ontmoetingen hebben gehad.  \n \nOp 3 maart werd Thijn verrast met een jeugdlintje, uitgereikt door onze \nburgemeester. Eind maart lazen we in de krant dat het idee helaas niet \nuitvoerbaar is, wat begrijpelijk is omdat de validatie van een speeltoestel \njaren kan duren.   \nDaarom stellen we de volgende vragen:  \n \n1. Onze stad is een stad waar iedereen welkom is. Inclusie begint \nal op jonge leeftijd door samen te spelen. Daar hoort natuurlijk \neen inclusieve speeltuin bij, een fijne plek waar iedereen kan \nmeedoen en zich welkom voelt. Is de wethouder het hiermee \neens?  \n2. Zo ja, wat kunnen we doen om onze parken en spee ltuinen \ninclusief te maken?  \n3. Thijn heeft nog €15.000 te besteden. Het bedrag dient voor 1 juli \nte worden uitgegeven. Heeft de wethouder concrete plannen \nvoor het gebruik van deze middelen , in samenspraak met Thijn?  \n \nMet vriendelijke groet,  \nMiriam Frosi, raadslid  CDA  \nMarieke van Gastel, raadslid  VVD \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 777623,
+            "weight": 0.30425053750455794
+        },
+        {
+            "id": 11871013,
+            "weight": 0.13335119428522765
+        },
+        {
+            "id": 1028405,
+            "weight": 0.12651194608061542
+        },
+        {
+            "id": 973948,
+            "weight": 0.08829605196186135
+        },
+        {
+            "id": 863852,
+            "weight": 0.08198605605497496
+        },
+        {
+            "id": 787362,
+            "weight": 0.06683805730762557
+        },
+        {
+            "id": 1007610,
+            "weight": 0.06574852507268031
+        },
+        {
+            "id": 862349,
+            "weight": 0.06210794341040028
+        },
+        {
+            "id": 12324230,
+            "weight": 0.061897922810113824
+        },
+        {
+            "id": 12326423,
+            "weight": 0.057280297432028005
+        },
+        {
+            "id": 922219,
+            "weight": 0.05576108985641962
+        },
+        {
+            "id": 13644517,
+            "weight": 0.05486815068529749
+        },
+        {
+            "id": 11799212,
+            "weight": 0.04805540711947082
+        }
+    ],
+    "videostarttime": {
+        "1013486": 1868
+    },
+    "videolink": null,
+    "keywords": {
+        "Samen spelen": 1.9765019956225205,
+        "Vraag vragenhalfuur": 0.9697389847466112,
+        "Vragenhalfuur Samen": 1.962339185698359,
+        "Thijn": 0.9527555339063222,
+        "Samen": 1.9356898356612486,
+        "spelen": 1.9224478538005885,
+        "Vraag": 1.921932042539858,
+        "Thijn Broers": 0.9049987159067491,
+        "idee": 0.8790542615511443,
+        "iedereen": 1.8771546245152164,
+        "CDA": 1.873188928688469,
+        "VVD": 1.873188928688469,
+        "onopgemerkt gebleven": 0.8652590778807681,
+        "Geacht college": 0.8383863369982678,
+        "stad": 0.8195523506067345,
+        "geldt": 1.8188089777535474,
+        "genaamd Thijn": 0.7873086868505897,
+        "gebleven": 0.7793575839237066,
+        "CDA Marieke": 0.7745678170922358,
+        "rolstoelglijbaan": 0.7484677756893225,
+        "Geacht": 0.7376591860904042,
+        "Broers": 0.7376591860904042,
+        "Miriam Frosi": 0.735269829047196,
+        "raadslid CDA": 0.6892544620256721,
+        "maart": 0.6883011275618849,
+        "wethouder": 0.6822241346109545,
+        "inclusief": 0.6820753052046266,
+        "welkom": 0.6756384705116898,
+        "SKPO": 0.6049107837494181,
+        "bijzonder kind": 0.5668110708222538,
+        "stad woont": 0.5538079064171832,
+        "Miriam": 0.5424876935090052,
+        "Frosi": 0.5424876935090052,
+        "Gastel": 0.5424876935090052,
+        "fractie": 0.5236721613133553,
+        "mei": 0.5131301088169367
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 45186,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1013486
+    ]
+}

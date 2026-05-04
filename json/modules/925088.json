@@ -1,0 +1,70 @@
+{
+    "module_id": 925088,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": null,
+    "title": "OV concessie - Raadsvoorstel Masterplan Mobiliteit 2050",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/925088",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Esselbrugge (Wethouder)",
+    "result": "",
+    "date": "05-03-2024",
+    "meeting_url": {
+        "1147884": "https://raadsinformatie.eindhoven.nl/vergadering/1147884#ai_8184759"
+    },
+    "attachment": null,
+    "parent": 906466,
+    "children": [],
+    "text": "Wethouder Esselbrugge zegt toe dat het idee voor een ringlijn (waarbij busvervoer niet enkel via Neckerspoel rijdt) mee te nemen naar gesprekken voor de OV concessie",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1000410,
+            "weight": 0.43794360399811844
+        },
+        {
+            "id": 955536,
+            "weight": 0.4302157984702776
+        },
+        {
+            "id": 1122811,
+            "weight": 0.17721090264092929
+        }
+    ],
+    "videostarttime": {
+        "1147884": 6141
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_05.03.24_Eindhoven_raadzaal.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Masterplan": 1.994479650464072,
+        "Masterplan Mobiliteit": 1.994479650464072,
+        "Wethouder Esselbrugge": 0.9944796504640722,
+        "Neckerspoel rijdt": 0.990278235110583,
+        "Esselbrugge zegt": 0.9839367976979435,
+        "via Neckerspoel": 0.9839367976979435,
+        "waarbij busvervoer": 0.9810834768622357,
+        "concessie": 1.961782873268924,
+        "Mobiliteit": 1.939368310851893,
+        "Wethouder": 0.9393683108518932,
+        "Masterplan": 1.9094525872683863,
+        "ringlijn": 0.893667175349195,
+        "waarbij": 0.893667175349195,
+        "rijdt": 0.893667175349195,
+        "mee": 0.893667175349195,
+        "zegt": 0.8254035696529312,
+        "idee": 0.8254035696529312,
+        "via": 0.8254035696529312,
+        "nemen": 0.8254035696529312,
+        "gesprekken": 0.8254035696529312
+    },
+    "svz": null,
+    "afgedaan": "18-02-2025",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

@@ -1,0 +1,49 @@
+{
+    "module_id": "o_8044228",
+    "vote_id": 8044228,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Ordevoorstel: afvoeren agendapunt 7.4",
+    "url": "https://raadsinformatie.eindhoven.nl/vergadering/1013527/Ordevoorstel%3A%20afvoeren%20agendapunt%207.4 28-11-2023#voting_8044228",
+    "type": "Ordevoorstel",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "verworpen",
+    "date": "28-11-2023",
+    "meeting_url": {
+        "1013527": "https://raadsinformatie.eindhoven.nl/vergadering/1013527/Ordevoorstel%3A%20afvoeren%20agendapunt%207.4 28-11-2023#voting_8044228"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": "o_8290549",
+            "weight": 1.2992754881398274
+        },
+        {
+            "id": "o_8674111",
+            "weight": 1.0229425545544804
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "afvoeren agendapunt": 1.9742913828560065,
+        "Ordevoorstel": 1.9550880231213545,
+        "afvoeren": 1.8416830712200127
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1013527
+    ]
+}

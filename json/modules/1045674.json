@@ -1,0 +1,105 @@
+{
+    "module_id": 1045674,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 248564,
+    "title": "Mobiliteit in Balans worden Eindhoven Toegankelijk en mensen - Raadsvoorstel Verkeerscirculatieplan Eindhoven binnen de Ring en Verbeterplan Ring",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1045674",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "R. Strijk (Wethouder)",
+    "result": "",
+    "date": "13-05-2025",
+    "meeting_url": {
+        "1256605": "https://raadsinformatie.eindhoven.nl/vergadering/1256605#ai_9271218"
+    },
+    "attachment": null,
+    "parent": 1035304,
+    "children": [],
+    "text": "Wethouder Strijk zegt toe bij de uitvoering van Mobiliteit in Balans worden Eindhoven Toegankelijk en mensen met een fysieke beperking meegenomen. Dit wordt teruggekoppeld in het uitvoeringsprogramma.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1045686,
+            "weight": 0.5658753031699679
+        },
+        {
+            "id": 1045682,
+            "weight": 0.5657275423563943
+        },
+        {
+            "id": 1045703,
+            "weight": 0.5656934758841394
+        },
+        {
+            "id": 1045698,
+            "weight": 0.5656823150161568
+        },
+        {
+            "id": 1045701,
+            "weight": 0.5656044280255516
+        },
+        {
+            "id": 1045691,
+            "weight": 0.5651645752099239
+        },
+        {
+            "id": 1045676,
+            "weight": 0.5634303400699747
+        },
+        {
+            "id": 14613123,
+            "weight": 0.27789337846226686
+        },
+        {
+            "id": 14480512,
+            "weight": 0.2744421545062079
+        },
+        {
+            "id": 1045922,
+            "weight": 0.22083069045378537
+        },
+        {
+            "id": 862827,
+            "weight": 0.21678890158087447
+        }
+    ],
+    "videostarttime": {
+        "1256605": 628
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_13.05.25_NC_01-EINDHOVEN-RAA.mp4/playlist.m3u8",
+    "keywords": {
+        "Eindhoven Toegankelijk": 1.9969314484651584,
+        "Raadsvoorstel Verkeerscirculatieplan": 1.9940213683927015,
+        "Verkeerscirculatieplan Eindhoven": 1.9921606109721548,
+        "Wethouder Strijk": 0.9920035438839101,
+        "Verbeterplan Ring": 1.9903643020992403,
+        "Ring Wethouder": 0.9903643020992402,
+        "Strijk zegt": 0.9812829893006285,
+        "Eindhoven": 1.9708894535559844,
+        "beperking meegenomen": 0.9696899187153298,
+        "Balans": 1.9650775548221644,
+        "fysieke beperking": 0.9555560717839653,
+        "Ring": 1.9464241332561172,
+        "Mobiliteit": 1.9386871973292719,
+        "Raadsvoorstel": 1.9332742042874513,
+        "mensen": 1.9002976367516529,
+        "meegenomen": 0.857388188069061,
+        "zegt": 0.7937168977829793,
+        "uitvoering": 0.7937168977829793,
+        "fysieke": 0.7937168977829793,
+        "uitvoeringsprogramma": 0.63384015399373,
+        "teruggekoppeld": 0.5255875581139573
+    },
+    "svz": null,
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": [
+        1256605
+    ]
+}

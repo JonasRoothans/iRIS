@@ -1,0 +1,111 @@
+{
+    "module_id": 880460,
+    "vote_id": null,
+    "member_id": [
+        194500
+    ],
+    "party_list": [
+        "FVD"
+    ],
+    "poho_id": [],
+    "title": "Beantwoording raadsvragen Behoud van goede ambtenaren (FvD)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/4/Raadsvragen/880460",
+    "type": "Raadsvraag",
+    "member": "Nicolas Knoester",
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "28-09-2023",
+    "meeting_url": null,
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/13235491/1?connection_type=17&connection_id=9793753": "Vraag",
+        "https://raadsinformatie.eindhoven.nl/document/13394966/2?connection_type=17&connection_id=9886634": "Antwoord"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/13235491/1?connection_type=17&connection_id=9793753",
+    "pdf_text": " \n \n \nRaadsvragen van de fractie : Forum voor Democratie  \n \n \nBehoud van goede ambtenaren  \n \ndatum:  28 september 2023  \n \n \nGeacht college,  \n \n \nInleiding  \nNaar aanleiding van eerdere technische vragen en een bespreking met \nde betrokken ambtenaren op dinsdag 26 september blijkt dat er ruimte is \nvoor verbetering.  \n \n \nRaadsvragen  \n1. Deelt het college de mening dat het behoud van goede \nambtenaren zeker in deze tijden van groot belang is?  \n2. Vindt het college dat het belangrijk is om te gaan monitoren \n(benchmarken) waar Eindhoven staat t.o.v. andere \nconcurrerende gemeenten in de regio?  \n3. Kan het college laten onderzoeken of wij meer of juist minder \nbieden aan onze ambtenaren qua arbeidsvoorwaarden \nvergeleken met concurrerende gemeenten in de regio?  Hierbi j \nuitgaande van de vernieuwde arbeidsvoorwaarden (woon -\nwerkregeling) die vanaf 1 januari 2024 ingaan.  \n4. Welk percentage ambtenaren is de afgelopen drie jaar naar een \nandere gemeente vertrokken?  \n5. Deelt het college de mening dat dit onderzoek een structurele \nopzet moet krijgen?  \n \n \nNamens de fractie , \nForum voor Democratie  \n \nNicolas Knoester , raadslid  ",
+    "bst": "23bst01490",
+    "related": [
+        {
+            "id": 966938,
+            "weight": 0.44083933691584143
+        },
+        {
+            "id": 14143981,
+            "weight": 0.3646635133955206
+        },
+        {
+            "id": 1056812,
+            "weight": 0.08406963812029895
+        },
+        {
+            "id": 1020595,
+            "weight": 0.08399961649456403
+        },
+        {
+            "id": 923623,
+            "weight": 0.08083875581027511
+        },
+        {
+            "id": 1043848,
+            "weight": 0.0791512523794478
+        },
+        {
+            "id": 863856,
+            "weight": 0.07817460496595244
+        },
+        {
+            "id": 776976,
+            "weight": 0.06893910416207175
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Geacht college": 0.9758914510585818,
+        "september blijkt": 0.974383507743065,
+        "Beantwoording raadsvragen": 1.9621240225007825,
+        "goede ambtenaren": 1.959190796953688,
+        "raadsvragen Behoud": 1.9585763368315763,
+        "eerdere technische": 0.9573487619236926,
+        "technische vragen": 0.9573487619236926,
+        "Democratie Behoud": 0.9386645156172602,
+        "Behoud": 1.9370622999027867,
+        "Geacht": 0.9348202436039004,
+        "Inleiding": 0.9348202436039004,
+        "college": 0.9277658872428063,
+        "goede": 1.9202422080906418,
+        "ambtenaren datum": 0.9142603295152524,
+        "Forum": 0.8732687594211194,
+        "FvD": 1.8549059988875123,
+        "concurrerende gemeenten": 0.8509558102363481,
+        "Deelt": 0.835533463129201,
+        "datum": 0.8267674680402957,
+        "dinsdag": 0.8267674680402957,
+        "verbetering": 0.8267674680402957,
+        "Nicolas Knoester": 0.7999536503560897,
+        "eerdere": 0.7977463864974186,
+        "vragen": 1.7977463864974186,
+        "bespreking": 0.7977463864974186,
+        "betrokken": 0.7977463864974186,
+        "blijkt": 0.7977463864974186,
+        "ruimte": 0.7977463864974186,
+        "regio": 0.7944051704592059,
+        "fractie": 0.7870935694162722,
+        "Eindhoven staat": 0.7715803981009086,
+        "gemeenten": 0.7710040198477125,
+        "mening": 0.7571634311586228,
+        "arbeidsvoorwaarden": 0.7156210723737237,
+        "Vindt": 0.6981453880702704,
+        "Knoester": 0.606649946361713,
+        "Nicolas": 0.5762073727095551,
+        "groot belang": 0.5384505528808914
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194500,
+    "lastScrapeDate": "02-04-2026",
+    "meeting_id": []
+}

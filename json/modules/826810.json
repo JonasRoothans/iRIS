@@ -1,0 +1,103 @@
+{
+    "module_id": 826810,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Informeren raad - Agenderingsverzoek Woningbouwproductie (SP, 50PLUS, PvdD, VVD)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/826810",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "07-03-2023",
+    "meeting_url": {
+        "1079005": "https://raadsinformatie.eindhoven.nl/vergadering/1079005#ai_7365084"
+    },
+    "attachment": null,
+    "parent": 820486,
+    "children": [],
+    "text": "Wethouder Verhees zegt toe:\n\nde raad tweejaarlijks te informeren over de stand van zaken; de eerste keer na de zomer, ruim voor de begrotingsbehandeling.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 826811,
+            "weight": 1.8060269621058787
+        },
+        {
+            "id": 826809,
+            "weight": 1.8029114153608936
+        },
+        {
+            "id": 1025528,
+            "weight": 0.4859783774521275
+        },
+        {
+            "id": 891726,
+            "weight": 0.48058956761765925
+        },
+        {
+            "id": "ai_7818784",
+            "weight": 0.4605824702774646
+        },
+        {
+            "id": 993565,
+            "weight": 0.24162897682139028
+        },
+        {
+            "id": 941379,
+            "weight": 0.16037683890909404
+        },
+        {
+            "id": 1064274,
+            "weight": 0.12269612119293904
+        },
+        {
+            "id": 950055,
+            "weight": 0.119442206586119
+        },
+        {
+            "id": "a_7090898",
+            "weight": 0.10993596586061088
+        },
+        {
+            "id": 996629,
+            "weight": 0.10285365048359445
+        },
+        {
+            "id": 1078720,
+            "weight": 0.10080761690204787
+        }
+    ],
+    "videostarttime": {
+        "1079005": null
+    },
+    "videolink": null,
+    "keywords": {
+        "Agenderingsverzoek Woningbouwproductie": 1.997998205393717,
+        "Wethouder Verhees": 0.9974808701569301,
+        "Verhees zegt": 0.9944537998074179,
+        "raad tweejaarlijks": 0.9887774237293863,
+        "Informeren raad": 1.9870382877410695,
+        "VVD": 1.9662738269496023,
+        "Agenderingsverzoek": 1.9553032950860314,
+        "Woningbouwproductie": 1.9553032950860314,
+        "PvdD": 1.947417335747506,
+        "raad": 1.943440615158394,
+        "zaken": 0.9259932120724875,
+        "zomer": 0.9259932120724875,
+        "ruim": 0.9259932120724875,
+        "begrotingsbehandeling": 0.9259932120724875,
+        "zegt": 0.901890483443418,
+        "stand": 0.901890483443418,
+        "keer": 0.901890483443418
+    },
+    "svz": null,
+    "afgedaan": "14-11-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

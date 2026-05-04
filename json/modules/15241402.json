@@ -1,0 +1,137 @@
+{
+    "module_id": 15241402,
+    "vote_id": null,
+    "member_id": [
+        131155,
+        133676
+    ],
+    "party_list": [
+        "50PLUS"
+    ],
+    "poho_id": [],
+    "title": "Rondvraag 2 - Overgang financieel systeem (50PLUS)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "11-03-2025",
+    "meeting_url": {
+        "1256335": "https://raadsinformatie.eindhoven.nl/vergadering/1256334/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://api.notubiz.nl/document/15241402/1",
+    "pdf_text": " \n \n \nRondvragen  \nOvergang financieel systeem  \n \n \nInleiding  \nDe gemeente Eindhoven is per 1 januari 2025 overgegaan naar een \nnieuw financieel systeem. Ook de gemeente Amsterdam is op die dag \novergegaan naar een nieuw financieel systeem. We lazen dat de \ngemeente Amsterdam veel problemen ondervindt bij het betalen van \nfacturen aan ondernemers en leveranciers. Hierdoor is de betaaltermijn \nvan duizenden facturen overschreden.  \n \nVragen  \n1. Hoe verloopt de overgang bij de gemeente Eindhoven?  \n2. Zijn er soort gelijke problemen als in Amsterdam?  \n \n \nNamens de fractie  50PLUS  \n \nRuud van Acquoij , raadslid  \nPiet der Kinderen , commissie lid \n \n \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 1085088,
+            "weight": 1.1047508080321014
+        },
+        {
+            "id": 992512,
+            "weight": 0.6218110261873793
+        },
+        {
+            "id": 782522,
+            "weight": 0.2490695372583904
+        },
+        {
+            "id": 1133037,
+            "weight": 0.23522125131444072
+        },
+        {
+            "id": 889102,
+            "weight": 0.22053764119703392
+        },
+        {
+            "id": 1141642,
+            "weight": 0.21302309936535413
+        },
+        {
+            "id": 1110693,
+            "weight": 0.20066177149634123
+        },
+        {
+            "id": 1051065,
+            "weight": 0.18855376116332404
+        },
+        {
+            "id": 1134427,
+            "weight": 0.18583253204827346
+        },
+        {
+            "id": 1104185,
+            "weight": 0.17611958053494844
+        },
+        {
+            "id": 1055164,
+            "weight": 0.06148749727619553
+        },
+        {
+            "id": 1121678,
+            "weight": 0.05740405004276824
+        },
+        {
+            "id": 945960,
+            "weight": 0.057023567475782494
+        },
+        {
+            "id": 15649289,
+            "weight": 0.05636145863599675
+        },
+        {
+            "id": 16532271,
+            "weight": 0.04943919876920068
+        },
+        {
+            "id": 873676,
+            "weight": 0.043884154361035495
+        },
+        {
+            "id": 888105,
+            "weight": 0.04000997508990341
+        }
+    ],
+    "videostarttime": {
+        "1256335": 244
+    },
+    "videolink": null,
+    "keywords": {
+        "financieel systeem": 1.9871654830172938,
+        "systeem Inleiding": 0.9796842143567456,
+        "Rondvragen Overgang": 0.9769653507465164,
+        "nieuw financieel": 0.9744017700076356,
+        "gemeente Amsterdam": 0.9622344319882653,
+        "gemeente Eindhoven": 0.9579665858590438,
+        "systeem": 1.936338006309564,
+        "gemeente": 0.9310742870860425,
+        "Amsterdam": 0.9150935825899928,
+        "Overgang": 1.8892388873265433,
+        "nieuw": 0.8730101110567027,
+        "Eindhoven": 0.8593637255489299,
+        "Rondvraag": 1.8533145356108407,
+        "januari": 0.8533145356108407,
+        "dag overgegaan": 0.8276831597619512,
+        "per": 0.8166441792806901,
+        "facturen": 0.7268804814832474,
+        "problemen": 0.6998079376352737,
+        "Ruud": 0.6080508561864929,
+        "Acquoij": 0.6080508561864929,
+        "raadslid Piet": 0.5998818836470919,
+        "Piet": 0.570700463473522,
+        "facturen overschreden": 0.5339269503824426,
+        "dag": 0.5032927400176213
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 131155,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1256335
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "module_id": 819550,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Verwijzing Kasteel - Raadsvoorstel Ontwikkelkader Kastelenplein",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/819550",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "31-01-2023",
+    "meeting_url": {
+        "1059674": "https://raadsinformatie.eindhoven.nl/vergadering/1059674#ai_7319717"
+    },
+    "attachment": null,
+    "parent": 806370,
+    "children": [],
+    "text": "Wethouder Verhees zegt toe: de verwijzing naar het kasteel mee te nemen in de ontwikkelvisie.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 819553,
+            "weight": 1.225466691664673
+        },
+        {
+            "id": 822616,
+            "weight": 1.2162807588078168
+        },
+        {
+            "id": 822617,
+            "weight": 1.2162807588078168
+        },
+        {
+            "id": 806370,
+            "weight": 0.5662747276714138
+        },
+        {
+            "id": "a_7400520",
+            "weight": 0.4488744051776425
+        },
+        {
+            "id": 892417,
+            "weight": 0.20186437094477871
+        },
+        {
+            "id": 1117157,
+            "weight": 0.19887537915856565
+        },
+        {
+            "id": 15091771,
+            "weight": 0.19340055467120534
+        },
+        {
+            "id": "r_7006025",
+            "weight": 0.1914947646319008
+        },
+        {
+            "id": 973945,
+            "weight": 0.11606234514504872
+        }
+    ],
+    "videostarttime": {
+        "1059674": 11371
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_31.01.23_NC_Eindhoven_Raad.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Ontwikkelkader": 1.9940442284278639,
+        "Ontwikkelkader Kastelenplein": 1.9911394099713275,
+        "Kastelenplein Wethouder": 0.9911394099713277,
+        "Wethouder Verhees": 0.9911394099713277,
+        "Verhees zegt": 0.9821842957151471,
+        "kasteel mee": 0.9666197869193599,
+        "Verwijzing Kasteel": 1.9508100397060355,
+        "Raadsvoorstel": 1.936825268757465,
+        "Ontwikkelkader": 1.9062835686299406,
+        "zegt": 0.813225275191795,
+        "mee": 0.813225275191795,
+        "nemen": 0.813225275191795
+    },
+    "svz": null,
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

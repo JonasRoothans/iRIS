@@ -1,0 +1,62 @@
+{
+    "module_id": 850775,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Inclusieve organisatie - Raadsvoorstel Kadernota 2024",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/850775",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "23-05-2023",
+    "meeting_url": {
+        "1096274": "https://raadsinformatie.eindhoven.nl/vergadering/1096274#ai_7491703"
+    },
+    "attachment": null,
+    "parent": 837030,
+    "children": [],
+    "text": "Wethouder Verhees zegt toe:\nDe raad te informeren in Q2 over de stand van zaken van de inclusieve organisatie.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 815797,
+            "weight": 0.9878087876516282
+        },
+        {
+            "id": 836274,
+            "weight": 0.472861956140482
+        },
+        {
+            "id": 863706,
+            "weight": 0.3051580416976664
+        }
+    ],
+    "videostarttime": {
+        "1096274": 12343
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_23.05.23_Eindhoven_NC_Meningsvorming.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Kadernota": 1.99600385290708,
+        "Wethouder Verhees": 0.9946156945007922,
+        "Verhees zegt": 0.9840308296375142,
+        "Inclusieve organisatie": 1.9781936064315229,
+        "Kadernota": 1.9369108451271533,
+        "organisatie": 1.9258068866158184,
+        "Inclusieve": 1.8591843699095127,
+        "zegt": 0.8148349816744761,
+        "raad": 0.5589003998829883,
+        "informeren": 0.5589003998829883,
+        "stand": 0.5589003998829883,
+        "zaken": 0.5589003998829883
+    },
+    "svz": "Hierover bent u geinformeerd middels RIB, zie ttps://raadsinformatie.eindhoven.nl/document/15194702/1#search=%...  Lees verder ",
+    "afgedaan": "03-06-2025",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

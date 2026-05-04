@@ -1,0 +1,124 @@
+{
+    "module_id": 781179,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "87 vergunningen - Agenderingsverzoek SP Beleid kamerbewoning en  woningsplitsing n.a.v. brief van het college aan de raad d.d. 26 juli 2022",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/781179",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "14-09-2022",
+    "meeting_url": {
+        "1015775": "https://raadsinformatie.eindhoven.nl/vergadering/1015775#ai_7000799"
+    },
+    "attachment": null,
+    "parent": 777032,
+    "children": [],
+    "text": "Binnen een maand de raad inzicht te geven wat de gevolgen en vervolgacties zijn dat de 87 vergunningen zonder toetsing zijn verlengd.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 781186,
+            "weight": 0.6576372371165154
+        },
+        {
+            "id": 781185,
+            "weight": 0.657479746927281
+        },
+        {
+            "id": 798656,
+            "weight": 0.6566831789361702
+        },
+        {
+            "id": 781183,
+            "weight": 0.654331264661954
+        },
+        {
+            "id": 786262,
+            "weight": 0.30250078717940193
+        },
+        {
+            "id": 1132658,
+            "weight": 0.28315507279209157
+        },
+        {
+            "id": 781432,
+            "weight": 0.27717859696390124
+        },
+        {
+            "id": 826918,
+            "weight": 0.22035190725484569
+        },
+        {
+            "id": 934377,
+            "weight": 0.11382986669565551
+        },
+        {
+            "id": 1109494,
+            "weight": 0.10092417721937189
+        },
+        {
+            "id": 777965,
+            "weight": 0.09162844608279766
+        },
+        {
+            "id": 1051373,
+            "weight": 0.08164004184027987
+        },
+        {
+            "id": 1083911,
+            "weight": 0.08031702025858489
+        },
+        {
+            "id": 835268,
+            "weight": 0.07946030808840979
+        },
+        {
+            "id": 956676,
+            "weight": 0.07879325614101394
+        },
+        {
+            "id": 779752,
+            "weight": 0.06655262072881306
+        },
+        {
+            "id": 951266,
+            "weight": 0.06302553505673819
+        },
+        {
+            "id": 862818,
+            "weight": 0.05797859120791497
+        }
+    ],
+    "videostarttime": {
+        "1015775": 2410
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_14.09.22_NC_Eindhoven_cie.mp4/playlist.m3u8",
+    "keywords": {
+        "Beleid kamerbewoning": 1.9889208391493813,
+        "Agenderingsverzoek": 1.9432948994730797,
+        "Beleid": 1.927185791386873,
+        "vergunningen": 1.912461052242858,
+        "raad inzicht": 0.9066602775893926,
+        "woningsplitsing": 1.890456428960479,
+        "brief": 1.890456428960479,
+        "raad": 1.8879348149386794,
+        "college": 1.8495107164531657,
+        "juli": 1.785272545651241,
+        "verlengd": 0.7006456287534126,
+        "gevolgen": 0.6191002656217439,
+        "vervolgacties": 0.6191002656217439,
+        "toetsing": 0.6191002656217439
+    },
+    "svz": null,
+    "afgedaan": "13-12-2022",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

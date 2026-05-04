@@ -1,0 +1,120 @@
+{
+    "module_id": 918921,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230013,
+    "title": "Collegebrief in Q1 2024  - Raadsvoorstel Begrotingswijziging bij inzet op economische transformatieopgave binnenstad, wijkcentrumgebieden en radialen.",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/918921",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Steenbakkers (Wethouder)",
+    "result": "",
+    "date": "06-02-2024",
+    "meeting_url": {
+        "1146954": "https://raadsinformatie.eindhoven.nl/vergadering/1146954#ai_8190871"
+    },
+    "attachment": null,
+    "parent": 905850,
+    "children": [],
+    "text": "Wethouder Steenbakkers zegt toe een collegebrief in Q1 2024 over de status van het ondernemersloket en Snappen of Schrappen.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 905845,
+            "weight": 2.995495508659139
+        },
+        {
+            "id": 918944,
+            "weight": 2.932357444743067
+        },
+        {
+            "id": 905850,
+            "weight": 2.662286633032263
+        },
+        {
+            "id": 997004,
+            "weight": 0.7006624588932764
+        },
+        {
+            "id": 1045701,
+            "weight": 0.3591464903900635
+        },
+        {
+            "id": "a_9279992",
+            "weight": 0.19004806974604757
+        },
+        {
+            "id": 1035304,
+            "weight": 0.18108552772229375
+        },
+        {
+            "id": 1045682,
+            "weight": 0.16996845416546807
+        },
+        {
+            "id": 925585,
+            "weight": 0.16751307786520211
+        },
+        {
+            "id": 1045703,
+            "weight": 0.164032230420793
+        },
+        {
+            "id": 944416,
+            "weight": 0.12156162378387798
+        },
+        {
+            "id": 930054,
+            "weight": 0.08498358958679757
+        },
+        {
+            "id": 14926559,
+            "weight": 0.08167666814580661
+        },
+        {
+            "id": 1046082,
+            "weight": 0.07444611561337014
+        },
+        {
+            "id": "a_8288826",
+            "weight": 0.07163174371913629
+        },
+        {
+            "id": 1132118,
+            "weight": 0.06761949862657285
+        },
+        {
+            "id": 1125029,
+            "weight": 0.05897942743602025
+        }
+    ],
+    "videostarttime": {
+        "1146954": 11912
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_06.02.24_NC_EINDHOVEN_CIE.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Begrotingswijziging": 1.9922693818117896,
+        "transformatieopgave binnenstad": 1.9626096711271432,
+        "economische transformatieopgave": 1.9391475579384236,
+        "Raadsvoorstel": 1.927185791386873,
+        "Wethouder Steenbakkers": 0.8756907781924714,
+        "binnenstad": 1.8495107164531657,
+        "wijkcentrumgebieden": 1.8495107164531657,
+        "radialen": 1.8495107164531657,
+        "Steenbakkers zegt": 0.82125963404343,
+        "Collegebrief": 1.8145557144507927,
+        "Schrappen": 0.7857011961291677,
+        "inzet": 1.7604966923826326,
+        "economische": 1.7604966923826326,
+        "Wethouder": 0.6191002656217439
+    },
+    "svz": null,
+    "afgedaan": "09-04-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

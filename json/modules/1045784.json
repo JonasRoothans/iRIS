@@ -1,0 +1,110 @@
+{
+    "module_id": 1045784,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230019,
+    "title": "Wachtlijsten zwemmen - Raadsvoorstel Kadernota 2026",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1045784",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. van Lanschot (Wethouder)",
+    "result": "",
+    "date": "13-05-2025",
+    "meeting_url": {
+        "1256605": "https://raadsinformatie.eindhoven.nl/vergadering/1256605#ai_9262973"
+    },
+    "attachment": null,
+    "parent": 1034468,
+    "children": [],
+    "text": "Wethouder van Lanschot zegt toe de raad schriftelijk te informeren over ontwikkeling inclusief cijfers en perspectief.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 945619,
+            "weight": 2.4334555943266523
+        },
+        {
+            "id": 15119089,
+            "weight": 0.5176370118010406
+        },
+        {
+            "id": 984221,
+            "weight": 0.5149012107955814
+        },
+        {
+            "id": 945905,
+            "weight": 0.4980627810250836
+        },
+        {
+            "id": 1142978,
+            "weight": 0.19457649214432923
+        },
+        {
+            "id": 1139088,
+            "weight": 0.18394145673881393
+        },
+        {
+            "id": 891776,
+            "weight": 0.0991545727864962
+        },
+        {
+            "id": 891771,
+            "weight": 0.09823648174064349
+        },
+        {
+            "id": 984494,
+            "weight": 0.09775346983380981
+        },
+        {
+            "id": 984496,
+            "weight": 0.09775346983380981
+        },
+        {
+            "id": 984484,
+            "weight": 0.09537605965094503
+        },
+        {
+            "id": 984479,
+            "weight": 0.09537605965094503
+        },
+        {
+            "id": 1148165,
+            "weight": 0.08611407153811802
+        },
+        {
+            "id": 945682,
+            "weight": 0.07948283885083501
+        }
+    ],
+    "videostarttime": {
+        "1256605": 13274
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_13.05.25_NC_01-EINDHOVEN-RAA.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Kadernota": 1.9925553183866471,
+        "Wachtlijsten zwemmen": 1.9742913828560065,
+        "Lanschot zegt": 0.955011371234592,
+        "Kadernota": 1.9140368224837343,
+        "Wethouder": 0.9140368224837344,
+        "raad schriftelijk": 0.9029960071342576,
+        "ontwikkeling inclusief": 0.9029960071342576,
+        "inclusief cijfers": 0.9029960071342576,
+        "zwemmen": 1.8416830712200127,
+        "perspectief": 0.8416830712200127,
+        "zegt": 0.7026344174397849,
+        "raad": 0.7026344174397849,
+        "informeren": 0.7026344174397849,
+        "cijfers": 0.7026344174397849
+    },
+    "svz": null,
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": [
+        1256605
+    ]
+}

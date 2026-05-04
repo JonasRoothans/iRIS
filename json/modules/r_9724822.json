@@ -1,0 +1,61 @@
+{
+    "module_id": "r_9724822",
+    "vote_id": 9724822,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Motie van afkeuring inzake proces raadsvoorstel concept Herzien Woonprogramma 2025-2030",
+    "url": "",
+    "type": "Ordevoorstel",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "verworpen",
+    "date": "21-10-2025",
+    "meeting_url": {
+        "1420069": "https://raadsinformatie.eindhoven.nl/vergadering/1420069/Motie%20van%20afkeuring%20inzake%20proces%20raadsvoorstel%20concept%20Herzien%20Woonprogramma%202025-2030 21-10-2025#voting_9724822"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 949316,
+            "weight": 0.844114699035144
+        },
+        {
+            "id": 927079,
+            "weight": 0.8123440218906731
+        },
+        {
+            "id": "m_9672796",
+            "weight": 0.7683611759148613
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Herzien Woonprogramma": 1.9785907845614,
+        "Woonprogramma 2025-2030": 1.9765416191248102,
+        "concept Herzien": 1.955011371234592,
+        "proces raadsvoorstel": 1.9029960071342575,
+        "raadsvoorstel concept": 1.9029960071342575,
+        "Herzien": 1.8552226942577967,
+        "Motie": 1.8416830712200127,
+        "2025-2030": 1.8416830712200127,
+        "afkeuring": 1.702634417439785,
+        "proces": 1.702634417439785,
+        "concept": 1.702634417439785
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1420069
+    ]
+}

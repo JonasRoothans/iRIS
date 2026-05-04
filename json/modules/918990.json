@@ -1,0 +1,165 @@
+{
+    "module_id": 918990,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230014,
+    "title": "Raadsvoorstel Ontwikkelingsvisie Stadsbos en Landgoed De Wielewaal",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/918990",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "R. Thijs (Wethouder)",
+    "result": "",
+    "date": "06-02-2024",
+    "meeting_url": {
+        "1146955": "https://raadsinformatie.eindhoven.nl/vergadering/1146955#ai_8131824"
+    },
+    "attachment": null,
+    "parent": 903669,
+    "children": [],
+    "text": "Wethouder Thijs zegt toe om te komen met een raadsinformatiebrief met daarin de uitvoeringsagenda, waarin expliciet wordt stilgestaan bij de opening, wielewaalwachters, governance.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 903669,
+            "weight": 1.1023225743534495
+        },
+        {
+            "id": 920288,
+            "weight": 0.5520093144204958
+        },
+        {
+            "id": "a_8235311",
+            "weight": 0.5389251567025771
+        },
+        {
+            "id": "a_8235925",
+            "weight": 0.5259109699619857
+        },
+        {
+            "id": 831320,
+            "weight": 0.44164559770505496
+        },
+        {
+            "id": 831317,
+            "weight": 0.4416373206657213
+        },
+        {
+            "id": 821834,
+            "weight": 0.4351952352089601
+        },
+        {
+            "id": 956820,
+            "weight": 0.3085793563572407
+        },
+        {
+            "id": 797695,
+            "weight": 0.263056535792658
+        },
+        {
+            "id": 831978,
+            "weight": 0.21339610553210514
+        },
+        {
+            "id": 1089938,
+            "weight": 0.2032963962112371
+        },
+        {
+            "id": 1133347,
+            "weight": 0.1996050244831431
+        },
+        {
+            "id": 1121686,
+            "weight": 0.1837793634667842
+        },
+        {
+            "id": 833159,
+            "weight": 0.18353837635169395
+        },
+        {
+            "id": 776906,
+            "weight": 0.18313745059605407
+        },
+        {
+            "id": 984905,
+            "weight": 0.09032801866214032
+        },
+        {
+            "id": 1141629,
+            "weight": 0.08989979054301686
+        },
+        {
+            "id": 1031704,
+            "weight": 0.08570882641984437
+        },
+        {
+            "id": 16332004,
+            "weight": 0.08558748390563371
+        },
+        {
+            "id": 802993,
+            "weight": 0.07636114837928275
+        },
+        {
+            "id": 850752,
+            "weight": 0.07584440787713517
+        },
+        {
+            "id": 1142978,
+            "weight": 0.07453133556178833
+        },
+        {
+            "id": 875664,
+            "weight": 0.073775676321804
+        },
+        {
+            "id": 776161,
+            "weight": 0.06731886679678024
+        },
+        {
+            "id": 830105,
+            "weight": 0.06635680318310223
+        },
+        {
+            "id": 855715,
+            "weight": 0.06507670384795985
+        },
+        {
+            "id": 859551,
+            "weight": 0.054752436874502514
+        }
+    ],
+    "videostarttime": {
+        "1146955": 800
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_06.02.24_NC_EINDHOVEN_RAA.mp4/playlist.m3u8",
+    "keywords": {
+        "Ontwikkelingsvisie Stadsbos": 1.9955568117209928,
+        "Wielewaal Wethouder": 0.9955568117209928,
+        "Wethouder Thijs": 0.9955568117209928,
+        "Raadsvoorstel Ontwikkelingsvisie": 1.9948424095925446,
+        "Thijs zegt": 0.9922565679365212,
+        "waarin expliciet": 0.9910067820787357,
+        "governance": 0.9550880231213544,
+        "Stadsbos": 1.933490348926025,
+        "Landgoed": 1.933490348926025,
+        "Wielewaal": 1.933490348926025,
+        "Thijs": 0.9334903489260249,
+        "Raadsvoorstel": 1.9228514046076703,
+        "uitvoeringsagenda": 0.9228514046076703,
+        "waarin": 0.9228514046076703,
+        "opening": 0.9228514046076703,
+        "zegt": 0.8844689164123877,
+        "komen": 0.8844689164123877,
+        "raadsinformatiebrief": 0.8844689164123877,
+        "stilgestaan": 0.8844689164123877
+    },
+    "svz": null,
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

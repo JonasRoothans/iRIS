@@ -1,0 +1,93 @@
+{
+    "module_id": "ai_7535492",
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Goedkope energie - Toezegging bij rondvraag over module goedkope energie aansluit bij inwoners",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/moties_en_toezeggingen/848979?parent_event=1096270",
+    "type": "Agenda",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "16-05-2023",
+    "meeting_url": "https://raadsinformatie.eindhoven.nl/vergadering/1096270#ai_7535492",
+    "attachment": null,
+    "parent": null,
+    "children": [
+        848979
+    ],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 926416,
+            "weight": 0.5727801172380722
+        },
+        {
+            "id": 12755975,
+            "weight": 0.3165340927588704
+        },
+        {
+            "id": 1098744,
+            "weight": 0.30428088684404225
+        },
+        {
+            "id": 776907,
+            "weight": 0.2571605476672839
+        },
+        {
+            "id": 945940,
+            "weight": 0.1752534110616534
+        },
+        {
+            "id": 984847,
+            "weight": 0.14489723801347226
+        },
+        {
+            "id": 1104264,
+            "weight": 0.13342146899166993
+        },
+        {
+            "id": 974516,
+            "weight": 0.1330456560832633
+        },
+        {
+            "id": 1128291,
+            "weight": 0.12473350276293729
+        },
+        {
+            "id": 1096061,
+            "weight": 0.1223490415662181
+        },
+        {
+            "id": 941339,
+            "weight": 0.11130027857139413
+        },
+        {
+            "id": 16688640,
+            "weight": 0.10999191619417321
+        }
+    ],
+    "videostarttime": 10577,
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_16.05.23_NC_EINDHOVEN_CIE.mp4/playlist.m3u8",
+    "keywords": {
+        "Goedkope energie": 1.9758590943413654,
+        "module goedkope": 1.95684946109031,
+        "energie aansluit": 1.95684946109031,
+        "Toezegging": 1.9356259628158077,
+        "energie": 1.8926943087985568,
+        "inwoners": 1.8815954451567891,
+        "rondvraag": 1.8072535068389848,
+        "module": 1.8072535068389848,
+        "aansluit": 1.8072535068389848
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": null,
+    "meeting_id": []
+}

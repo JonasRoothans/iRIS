@@ -1,0 +1,177 @@
+{
+    "module_id": 12866052,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Beantwoording technische vraag SP inzake inschrijving kansenfonds",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "13-06-2023",
+    "meeting_url": {
+        "1102756": "https://raadsinformatie.eindhoven.nl/vergadering/1013497/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://api.notubiz.nl/document/12866052/1",
+    "pdf_text": "Beantwoording technische vraag SP inzake inschrijving \nkansenfonds  \n \n1. Heeft de gemeente Eindhoven zich ingeschreven kansenfonds \nom met de ETHOS telling meet te doen die zij doen als pilot? \n(Deadline 1 juni 2023) Zo niet, waarom niet?  \n \nGemeente Eindhoven heeft zich nu niet ingeschreven. Er zijn 2 \ngemeenten uit de B7 die meedoen waar we regelmatig contact mee \nhebben. De tijdsinvestering die gevraagd wordt, is behoorlijk groot. Wij \nwilden eerst bezien wat deelname betekent en oplevert.   \n ",
+    "bst": null,
+    "related": [
+        {
+            "id": 12559868,
+            "weight": 1.006337453272915
+        },
+        {
+            "id": 13305635,
+            "weight": 0.7235299085559472
+        },
+        {
+            "id": 884801,
+            "weight": 0.716656121671451
+        },
+        {
+            "id": 948991,
+            "weight": 0.5625119397124616
+        },
+        {
+            "id": 1038657,
+            "weight": 0.4394748049918408
+        },
+        {
+            "id": 12866053,
+            "weight": 0.4382857706298253
+        },
+        {
+            "id": 13990893,
+            "weight": 0.43485663690398785
+        },
+        {
+            "id": 777623,
+            "weight": 0.39249616224647854
+        },
+        {
+            "id": 906717,
+            "weight": 0.2799063275536512
+        },
+        {
+            "id": 904205,
+            "weight": 0.2749774706290979
+        },
+        {
+            "id": 905359,
+            "weight": 0.24295269395944674
+        },
+        {
+            "id": "a_8950514",
+            "weight": 0.20042224159828026
+        },
+        {
+            "id": 15548501,
+            "weight": 0.1993222353973549
+        },
+        {
+            "id": 1036333,
+            "weight": 0.18665521722202885
+        },
+        {
+            "id": 804860,
+            "weight": 0.17874036943337038
+        },
+        {
+            "id": 1020983,
+            "weight": 0.17671454091020528
+        },
+        {
+            "id": 956820,
+            "weight": 0.1715116435293733
+        },
+        {
+            "id": 1003503,
+            "weight": 0.16503009656527526
+        },
+        {
+            "id": 1090088,
+            "weight": 0.1648058964588336
+        },
+        {
+            "id": 16532271,
+            "weight": 0.15937155747872248
+        },
+        {
+            "id": 991663,
+            "weight": 0.15537011944698975
+        },
+        {
+            "id": "a_9607705",
+            "weight": 0.14779640278659398
+        },
+        {
+            "id": 915627,
+            "weight": 0.14749244035008113
+        },
+        {
+            "id": 1066501,
+            "weight": 0.14526336897193598
+        },
+        {
+            "id": "a_9606554",
+            "weight": 0.14461939412813674
+        },
+        {
+            "id": "a_9606551",
+            "weight": 0.1443169171627767
+        },
+        {
+            "id": 926421,
+            "weight": 0.0811570040727299
+        },
+        {
+            "id": 930155,
+            "weight": 0.08096302933274914
+        },
+        {
+            "id": 1116686,
+            "weight": 0.07577662441673248
+        },
+        {
+            "id": 12865589,
+            "weight": 0.06890018108844925
+        }
+    ],
+    "videostarttime": {
+        "1102756": 9123
+    },
+    "videolink": null,
+    "keywords": {
+        "Beantwoording technische": 1.991561441995279,
+        "technische vraag": 1.9889654194049355,
+        "inschrijving kansenfonds": 1.9709693639967987,
+        "kansenfonds Beantwoording": 0.9559631998523036,
+        "vraag": 1.9265278454803387,
+        "inschrijving": 1.9265278454803387,
+        "gemeente Eindhoven": 0.9094232108345959,
+        "kansenfonds": 1.8755193916662036,
+        "Eindhoven": 0.8511600884583032,
+        "ETHOS telling": 0.850332827434444,
+        "Deadline": 0.7798394643224421,
+        "ETHOS": 0.7483624883604627,
+        "gemeente": 0.7423909283669234,
+        "ingeschreven": 0.7093692446472695,
+        "telling meet": 0.6345431993182469,
+        "juni": 0.590296932738823,
+        "pilot": 0.5732787435564881
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1102756
+    ]
+}

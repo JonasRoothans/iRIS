@@ -1,0 +1,114 @@
+{
+    "module_id": 854133,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 231116,
+    "title": "Handhavingsmogelijkheden afvaloverlast - Commissienotitie 2.0 Camerabeleid art. 151c Gemeentewet",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/854133",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "J. Dijsselbloem (Burgemeester)",
+    "result": "",
+    "date": "06-06-2023",
+    "meeting_url": {
+        "1102751": "https://raadsinformatie.eindhoven.nl/vergadering/1102751#ai_7611637"
+    },
+    "attachment": null,
+    "parent": 845544,
+    "children": [],
+    "text": "Burgemeester Dijsselbloem zegt toe:\n\nuit te zullen zoeken welke handhavingsmogelijkheden er zijn, anders dan cameratoezicht, om afvaloverlast tegen te gaan.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 854127,
+            "weight": 0.6947117400830412
+        },
+        {
+            "id": 854132,
+            "weight": 0.6930819867852165
+        },
+        {
+            "id": 854130,
+            "weight": 0.6920734428909048
+        },
+        {
+            "id": 854128,
+            "weight": 0.6919976577261933
+        },
+        {
+            "id": 854129,
+            "weight": 0.6894192338231232
+        },
+        {
+            "id": 854131,
+            "weight": 0.6886369476237078
+        },
+        {
+            "id": 931190,
+            "weight": 0.6680493655826834
+        },
+        {
+            "id": 1140576,
+            "weight": 0.12035092887964738
+        },
+        {
+            "id": 858025,
+            "weight": 0.05962942457035334
+        },
+        {
+            "id": 884007,
+            "weight": 0.05904271077544432
+        },
+        {
+            "id": 845544,
+            "weight": 0.058644289481370515
+        },
+        {
+            "id": 1022042,
+            "weight": 0.057553917505044086
+        },
+        {
+            "id": 853688,
+            "weight": 0.05752237074460639
+        },
+        {
+            "id": 817517,
+            "weight": 0.05616422975499678
+        },
+        {
+            "id": 984130,
+            "weight": 0.044168082497684454
+        },
+        {
+            "id": 1093494,
+            "weight": 0.04236249866651992
+        }
+    ],
+    "videostarttime": {
+        "1102751": 2558
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_06.06.23_NC_Eindhoven_RAA.mp4/playlist.m3u8",
+    "keywords": {
+        "Camerabeleid art": 1.9885034047785237,
+        "Commissienotitie": 1.9582800944067116,
+        "Gemeentewet Burgemeester": 0.9324038225421603,
+        "Burgemeester Dijsselbloem": 0.9064373479930928,
+        "art": 1.8457476292476191,
+        "Dijsselbloem zegt": 0.8166714137936699,
+        "Gemeentewet": 1.7835359895335903,
+        "Handhavingsmogelijkheden": 1.7668028673059641,
+        "afvaloverlast": 1.7668028673059641,
+        "Burgemeester": 0.7074976047005408,
+        "cameratoezicht": 0.6122057149421499,
+        "gaan": 0.6122057149421499
+    },
+    "svz": null,
+    "afgedaan": "12-12-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

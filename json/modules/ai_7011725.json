@@ -1,0 +1,71 @@
+{
+    "module_id": "ai_7011725",
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Uitwerking Initiatiefvoorstel Nachtleven",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/moties_en_toezeggingen/783139?parent_event=1022089",
+    "type": "Agenda",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "27-09-2022",
+    "meeting_url": "https://raadsinformatie.eindhoven.nl/vergadering/1022089#ai_7011725",
+    "attachment": null,
+    "parent": null,
+    "children": [
+        783144,
+        783402,
+        783139,
+        783143
+    ],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 803411,
+            "weight": 1.7368428105650837
+        },
+        {
+            "id": 888328,
+            "weight": 0.4218593641517671
+        },
+        {
+            "id": 845668,
+            "weight": 0.20709405315352017
+        },
+        {
+            "id": 958773,
+            "weight": 0.20513444867429761
+        },
+        {
+            "id": 975121,
+            "weight": 0.19037324234931025
+        },
+        {
+            "id": 16557242,
+            "weight": 0.17598426606344295
+        },
+        {
+            "id": "a_9607705",
+            "weight": 0.15353015634276324
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Initiatiefvoorstel Nachtleven": 1.9873976398760465,
+        "Uitwerking Initiatiefvoorstel": 1.9765416191248102,
+        "Nachtleven": 1.9140368224837343,
+        "Uitwerking": 1.8416830712200127
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": null,
+    "meeting_id": []
+}

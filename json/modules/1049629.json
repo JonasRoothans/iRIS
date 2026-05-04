@@ -1,0 +1,122 @@
+{
+    "module_id": 1049629,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230014,
+    "title": "Raadsvoorstel Zienswijze Ontwerpbegroting Gemeenschappelijke regeling Cure 2026",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1049629",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "R. Thijs (Wethouder)",
+    "result": "",
+    "date": "27-05-2025",
+    "meeting_url": {
+        "1256611": "https://raadsinformatie.eindhoven.nl/vergadering/1256611#ai_9267562"
+    },
+    "attachment": null,
+    "parent": 1034706,
+    "children": [],
+    "text": "Wethouder Thijs beantwoordt de vragen en zegt toe:\nDe raad te informeren via een collegebrief over de stand van zaken van de nieuwe milieustraat en het circulair ambachtscentrum.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1034706,
+            "weight": 2.5518324600160787
+        },
+        {
+            "id": "r_7006019",
+            "weight": 0.7973134165587487
+        },
+        {
+            "id": 932415,
+            "weight": 0.7955611247904407
+        },
+        {
+            "id": 1064220,
+            "weight": 0.7944633011890712
+        },
+        {
+            "id": 836589,
+            "weight": 0.6838406579392274
+        },
+        {
+            "id": 900681,
+            "weight": 0.5683194352105607
+        },
+        {
+            "id": 938200,
+            "weight": 0.3444635993904977
+        },
+        {
+            "id": 979297,
+            "weight": 0.2679887899433347
+        },
+        {
+            "id": 1060169,
+            "weight": 0.2623192913943707
+        },
+        {
+            "id": 787672,
+            "weight": 0.25377485686268075
+        },
+        {
+            "id": 856856,
+            "weight": 0.24854105076120292
+        },
+        {
+            "id": 945724,
+            "weight": 0.17864819137091073
+        },
+        {
+            "id": 931443,
+            "weight": 0.09077878943499351
+        },
+        {
+            "id": 1000404,
+            "weight": 0.07524554881672833
+        },
+        {
+            "id": 971744,
+            "weight": 0.07177356629164604
+        }
+    ],
+    "videostarttime": {
+        "1256611": 698
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/27.05.25 Eindhoven meningsvorming Raadzaal.mp4/playlist.m3u8",
+    "keywords": {
+        "Wethouder Thijs": 0.996646559637838,
+        "Zienswijze Ontwerpbegroting": 1.9956397929450427,
+        "Ontwerpbegroting Gemeenschappelijke": 1.9956397929450427,
+        "Raadsvoorstel Zienswijze": 1.9940863179076258,
+        "regeling Cure": 1.9936891615531969,
+        "Gemeenschappelijke regeling": 1.9917872601536462,
+        "Thijs beantwoordt": 0.9917872601536462,
+        "Cure": 1.9492743249576288,
+        "Zienswijze": 1.934111623307328,
+        "Thijs": 0.9341116233073281,
+        "circulair ambachtscentrum": 0.9089151737882266,
+        "informeren via": 0.8787554788225974,
+        "nieuwe milieustraat": 0.8787554788225974,
+        "vragen": 0.8763690867947806,
+        "zegt": 0.8763690867947806,
+        "raad": 0.6711628357364501,
+        "via": 0.6711628357364501,
+        "collegebrief": 0.6711628357364501,
+        "stand": 0.6711628357364501,
+        "zaken": 0.6711628357364501,
+        "nieuwe": 0.6711628357364501,
+        "circulair": 0.6711628357364501
+    },
+    "svz": null,
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": [
+        1256611
+    ]
+}

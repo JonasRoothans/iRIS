@@ -1,0 +1,147 @@
+{
+    "module_id": 1052802,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230014,
+    "title": "Fysieke plek - Raadsvoorstel Vaststellen Klimaatplan III, 2026-2030",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1052802",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "R. Thijs (Wethouder)",
+    "result": "",
+    "date": "03-06-2025",
+    "meeting_url": {
+        "1256615": "https://raadsinformatie.eindhoven.nl/vergadering/1256615#ai_9330941"
+    },
+    "attachment": null,
+    "parent": 1037936,
+    "children": [],
+    "text": "De wethouder zegt toe: \n-   Er komt een fysieke plek voor het energiedienstenbedrijf. Dit wordt onderdeel wordt van het warmteprogramma, waarin drie ambitieniveaus worden uitgewerkt. Daarbij zal ook worden gekeken naar de ruimte die geboden kan worden aan initiatieven. In Q3 gaat deze publiek ter inzage en wordt de raad specifiek uitgenodigd haar wensen & bedenkingen kenbaar te maken.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1052807,
+            "weight": 2.2074030261872903
+        },
+        {
+            "id": 1037936,
+            "weight": 1.0943657191604999
+        },
+        {
+            "id": 1128296,
+            "weight": 0.8326404777444818
+        },
+        {
+            "id": 1000389,
+            "weight": 0.832381636408766
+        },
+        {
+            "id": "a_9418522",
+            "weight": 0.5333778207356122
+        },
+        {
+            "id": "a_9418456",
+            "weight": 0.5288877201241263
+        },
+        {
+            "id": 1052610,
+            "weight": 0.5139507344758183
+        },
+        {
+            "id": 1076215,
+            "weight": 0.25073520282028394
+        },
+        {
+            "id": 1011385,
+            "weight": 0.25033687218961487
+        },
+        {
+            "id": 1052828,
+            "weight": 0.23359605670787853
+        },
+        {
+            "id": 1052810,
+            "weight": 0.2307282159820597
+        },
+        {
+            "id": 1077875,
+            "weight": 0.22047849457654106
+        },
+        {
+            "id": 1088202,
+            "weight": 0.22044177016873504
+        },
+        {
+            "id": 1123237,
+            "weight": 0.16058881971180947
+        },
+        {
+            "id": 1128291,
+            "weight": 0.11239478414527271
+        },
+        {
+            "id": 1133031,
+            "weight": 0.11213210942391308
+        },
+        {
+            "id": 1060105,
+            "weight": 0.10544574402582275
+        },
+        {
+            "id": "a_7346845",
+            "weight": 0.09628512900268378
+        },
+        {
+            "id": "a_7345193",
+            "weight": 0.09567781291851502
+        },
+        {
+            "id": "a_7345195",
+            "weight": 0.09434086829694112
+        },
+        {
+            "id": "a_7347943",
+            "weight": 0.09189208204044373
+        }
+    ],
+    "videostarttime": {
+        "1256615": 4983
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_03.06.25_NC_02-EINDHOVEN-CIE.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Vaststellen": 1.9939228833202476,
+        "Klimaatplan III": 1.9939228833202476,
+        "Vaststellen Klimaatplan": 1.9918820441953218,
+        "Fysieke plek": 1.977855883964318,
+        "wethouder zegt": 0.9539087646705376,
+        "initiatieven krijgen": 0.9539087646705376,
+        "plek komt": 0.950072932104797,
+        "III": 1.932687047902924,
+        "plek": 1.924485338105118,
+        "Vaststellen": 1.910263801766979,
+        "2026-2030": 1.8546789611624412,
+        "werken": 0.8546789611624412,
+        "zegt": 0.7900942224918984,
+        "komt": 0.7900942224918984,
+        "energiedienstenbedrijf": 0.7900942224918984,
+        "krijgen": 0.7900942224918984,
+        "bedenkingen kenbaar": 0.6390933844809139,
+        "warmteprogramma": 0.6287231350240693,
+        "gaat": 0.5375312217683249,
+        "maken": 0.5375312217683249,
+        "onderdeel": 0.5201031167771311,
+        "raad specifiek": 0.5100699498553956,
+        "specifiek uitgenodigd": 0.5100699498553956
+    },
+    "svz": null,
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": [
+        1256615
+    ]
+}

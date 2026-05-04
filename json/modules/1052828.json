@@ -1,0 +1,114 @@
+{
+    "module_id": 1052828,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230019,
+    "title": "Fondsen - Raadsvoorstel zienswijze conceptbegroting 2026 Metropoolregio Eindhoven (MRE)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1052828",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. van Lanschot (Wethouder)",
+    "result": "",
+    "date": "03-06-2025",
+    "meeting_url": {
+        "1256614": "https://raadsinformatie.eindhoven.nl/vergadering/1256614#ai_9333838"
+    },
+    "attachment": null,
+    "parent": 1037381,
+    "children": [],
+    "text": "De wethouder zegt toe dat er een raadsinformatiebrief komt over welke fondsen zijn er, wat is daar de status en voorwaarden zijn van deze fondsen van en wanneer komt de raad aan zet.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": "r_7006017",
+            "weight": 0.9620545218033741
+        },
+        {
+            "id": 1037381,
+            "weight": 0.9599780318956966
+        },
+        {
+            "id": 932262,
+            "weight": 0.940975819329718
+        },
+        {
+            "id": 984426,
+            "weight": 0.2926237366515277
+        },
+        {
+            "id": 984520,
+            "weight": 0.2926237366515277
+        },
+        {
+            "id": 1052810,
+            "weight": 0.23692589414688214
+        },
+        {
+            "id": 1052807,
+            "weight": 0.23613689316210593
+        },
+        {
+            "id": 1052802,
+            "weight": 0.23359605670787853
+        },
+        {
+            "id": 932372,
+            "weight": 0.22028080971989517
+        },
+        {
+            "id": 950222,
+            "weight": 0.20968978323264498
+        },
+        {
+            "id": 921208,
+            "weight": 0.20950304590888794
+        },
+        {
+            "id": 1123714,
+            "weight": 0.20920675173616332
+        },
+        {
+            "id": 1000233,
+            "weight": 0.206166468705844
+        },
+        {
+            "id": 872223,
+            "weight": 0.19051976558857633
+        },
+        {
+            "id": 971744,
+            "weight": 0.16240610079279053
+        }
+    ],
+    "videostarttime": {
+        "1256614": 1724
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_03.06.25_NC_1-EINDHOVEN-RAA.mp4/playlist.m3u8",
+    "keywords": {
+        "Metropoolregio Eindhoven": 1.997052008061655,
+        "Raadsvoorstel zienswijze": 1.992262356755063,
+        "zienswijze conceptbegroting": 1.9862881568035338,
+        "wethouder zegt": 0.9795320699818006,
+        "raadsinformatiebrief komt": 0.97217618131069,
+        "MRE": 1.964873877595256,
+        "Eindhoven": 1.9457844411026128,
+        "Fondsen": 1.9215523933693843,
+        "zet": 0.9044910574956317,
+        "komt": 0.904427976786721,
+        "zienswijze": 1.8583758614230015,
+        "status": 0.8583758614230016,
+        "voorwaarden": 0.8583758614230016,
+        "raad": 0.8583758614230016
+    },
+    "svz": null,
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": [
+        1256614
+    ]
+}

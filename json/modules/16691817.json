@@ -1,0 +1,138 @@
+{
+    "module_id": 16691817,
+    "vote_id": null,
+    "member_id": [
+        194514,
+        194402,
+        194370,
+        194406
+    ],
+    "party_list": [
+        "Eindhoven voor Elkaar",
+        "PvdA",
+        "GroenLinks",
+        "D66"
+    ],
+    "poho_id": [],
+    "title": "Vraag V3 Vragenhalfuur - Hospiteren kun je leren (GL, D66, PvdA, EVE)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "09-03-2026",
+    "meeting_url": {
+        "1374861": "https://raadsinformatie.eindhoven.nl/vergadering/1374861/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/16691817/1/Vraag+V3+Vragenhalfuur+-+Hospiteren+kun+je+leren+%28GL%2C+D66%2C+PvdA%2C+EVE%29?connection_type=1&connection_id=9410448",
+    "pdf_text": " \n \n \n \n \n \nVragenhalfuur - Hospiteren kun je leren         V3 \n \n \nVoorzitter,  \n \nZoals iedereen weet, is woningnood is hoog. Het realiseren van \nnieuwbouw kost onvermijdelijk veel tijd. Juist daarom is het van belang \nom ook te kijken naar maatregelen die op korte termijn verlichting \nkunnen bieden. Hospitaverhuur kan hierin een belangrij ke rol spelen. \nHet beter benutten van bestaande woonruimten kan relatief snel extra \nwoonplekken creëren voor met name studenten en starters, maar \nnatuurlijk ook andere doelgroepen.  \n \nDaarom dat Stehven, een studentenorganisatie die het Eindhovense \nstudentenleven aanjaagt en ondersteunt, met een initiatief is gekomen. \nZe willen met een gerichte communicatiecampagne meer bewoners \ninformeren en activeren om een kamer te verhuren.  \n \n1. Op welke manier wordt hospiteren op dit moment onder de \naandacht gebracht in Eindhoven?  \n2. Vindt het college het belangrijk om hier actiever \n(campagne)beleid op te voeren?  \n3. Hoe kan ervoor worden gezorgd dat hospiteren rond de start van \nhet nieuwe collegejaar beter onder de aandacht komt?  \n4. Welke mogelijkheden ziet het college op de korte én lange \ntermijn om hospiteren sterker te stimuleren en zichtbaarder te \nmaken?  \n \n \nEindhoven, 10 maart 2026  \n \nDe leden van de raad,  \nSep Wittenbols  (GroenLinks )  \nChris Dams  (D66)  \nRosa van den Nieuwenhof (PvdA)  \nTjeerd Ritmeester (E VE)  \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 925712,
+            "weight": 0.38138993864315546
+        },
+        {
+            "id": "a_8389213",
+            "weight": 0.37928048138149373
+        },
+        {
+            "id": 858109,
+            "weight": 0.33431021042884623
+        },
+        {
+            "id": 12804676,
+            "weight": 0.16617870827958373
+        },
+        {
+            "id": 1117525,
+            "weight": 0.14892823640672428
+        },
+        {
+            "id": 982584,
+            "weight": 0.13874467598782375
+        },
+        {
+            "id": "a_7402311",
+            "weight": 0.13769249672745093
+        },
+        {
+            "id": 850142,
+            "weight": 0.13390709309113788
+        },
+        {
+            "id": 1118633,
+            "weight": 0.12904934517095573
+        },
+        {
+            "id": 776911,
+            "weight": 0.12674696699282945
+        },
+        {
+            "id": 781219,
+            "weight": 0.11731276659406507
+        },
+        {
+            "id": 1117153,
+            "weight": 0.08377787458625954
+        },
+        {
+            "id": 1059984,
+            "weight": 0.07901019746313948
+        }
+    ],
+    "videostarttime": {
+        "1374861": 1848
+    },
+    "videolink": null,
+    "keywords": {
+        "Vragenhalfuur": 1.9817320708163533,
+        "Hospiteren kun": 1.9765223919430066,
+        "iedereen weet": 0.9735548371911084,
+        "leren": 1.9580254129840626,
+        "kun": 1.9491802535487532,
+        "EVE": 1.947316168392738,
+        "Voorzitter": 0.947316168392738,
+        "Vraag": 1.8802146699739417,
+        "weet": 0.8530716545899443,
+        "hoog": 0.8530716545899443,
+        "woningnood": 0.8246503494499015,
+        "PvdA": 1.8224844176901283,
+        "Sep Wittenbols": 0.8055915079869884,
+        "Chris Dams": 0.8055915079869884,
+        "Tjeerd Ritmeester": 0.8055915079869884,
+        "Eindhoven": 0.7992708286988328,
+        "nieuwbouw kost": 0.7798232191820359,
+        "kost onvermijdelijk": 0.7798232191820359,
+        "aandacht": 0.7276536738931528,
+        "college": 0.7227097869347661,
+        "korte": 0.7191590237382525,
+        "termijn": 0.7191590237382525,
+        "Eindhovense studentenleven": 0.6993586185921081,
+        "Stehven": 0.6621651945551303,
+        "tijd": 0.6257111245359239,
+        "Vindt": 0.621311240429384,
+        "Sep": 0.5965579382877261,
+        "Chris": 0.5965579382877261,
+        "Dams": 0.5965579382877261,
+        "Rosa": 0.5965579382877261,
+        "Nieuwenhof": 0.5965579382877261,
+        "Tjeerd": 0.5965579382877261,
+        "termijn verlichting": 0.589334938871368,
+        "rol spelen": 0.5841612666412452,
+        "realiseren": 0.5752099059186444,
+        "bieden": 0.5343273543089097
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194406,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1374861
+    ]
+}

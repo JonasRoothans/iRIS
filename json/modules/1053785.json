@@ -1,0 +1,67 @@
+{
+    "module_id": 1053785,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230024,
+    "title": "Raadsvoorstel Eindhovens meerjarenplan voor de bibliotheek 2025-2035",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/19/Raadsvoorstellen/1053785",
+    "type": "Raadsvoorstel",
+    "member": null,
+    "party": null,
+    "poho": "S. Lammers (Wethouder)",
+    "result": "Afgerond",
+    "date": "09-09-2025",
+    "meeting_url": {
+        "1256323": "https://raadsinformatie.eindhoven.nl/vergadering/1256323#ai_9438327",
+        "1256639": "https://raadsinformatie.eindhoven.nl/vergadering/1256639#ai_9467104"
+    },
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/15662267/1/7941785_03+Raadsvoorstel+Eindhovens+meerjarenplan+voor+de+bibliotheek+2025-2035?connection_type=17&connection_id=11978930": "main",
+        "http://raadsinformatie.eindhoven.nl/document/15662268/1?connection_type=16&connection_id=1053785": " Bijlage 1 - Eindhovens meerjarenplan voor de bibliotheek 2025-2035 ",
+        "http://raadsinformatie.eindhoven.nl/document/15662269/1?connection_type=16&connection_id=1053785": " Bijlage 2 - Advies CRSD over de Eindhovense visie op de bibliotheek 13 mei 2025 ",
+        "http://raadsinformatie.eindhoven.nl/document/15662270/1?connection_type=16&connection_id=1053785": " Bijlage 3 - Reactie op advies CRSD Eindhovense visie op de bibliotheek 7941785 06 ",
+        "http://raadsinformatie.eindhoven.nl/document/15844067/1?connection_type=16&connection_id=1053785": " Behandeladvies Raadsvoorstel Eindhovens meerjarenplan voor de bibliotheek 2025-2035 ",
+        "https://raadsinformatie.eindhoven.nl/document/15662267/2/7941785_03+Raadsvoorstel+Eindhovens+meerjarenplan+voor+de+bibliotheek+2025-2035?connection_type=17&connection_id=11978930": "Raadsvoorstel Eindhovens meerjarenplan voor de bibliotheek 2025-2035",
+        "http://raadsinformatie.eindhoven.nl/document/15934478/1?connection_type=16&connection_id=1053785": " Commissieadvies Raadsvoorstel Eindhovens meerjarenplan voor de bibliotheek 2025-2035 "
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/15948703/1?connection_type=17&connection_id=12319781",
+    "pdf_text": "",
+    "bst": "7941785_03",
+    "related": [
+        {
+            "id": 855715,
+            "weight": 0.9200905293448542
+        },
+        {
+            "id": 1132670,
+            "weight": 0.3802476608319571
+        },
+        {
+            "id": 956304,
+            "weight": 0.3048572503558797
+        }
+    ],
+    "videostarttime": {
+        "1256323": 2052,
+        "1256639": 2417
+    },
+    "videolink": null,
+    "keywords": {
+        "Raadsvoorstel Eindhovens": 1.9765416191248102,
+        "Eindhovens meerjarenplan": 1.955011371234592,
+        "bibliotheek 2025-2035": 1.9505961599793435,
+        "Eindhovens": 1.8552226942577967,
+        "2025-2035": 1.8416830712200127
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": "10-04-2026",
+    "meeting_id": [
+        1256323
+    ]
+}

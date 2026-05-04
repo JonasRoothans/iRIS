@@ -1,0 +1,65 @@
+{
+    "module_id": 866748,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Raadsinformatiebrief Tijdelijke huisvesting basisschool de Startbaan",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/8/Raadsinformatiebrieven/866748",
+    "type": "Raadsinformatiebrief",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "25-07-2023",
+    "meeting_url": null,
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": "23bst01012",
+    "related": [
+        {
+            "id": 788077,
+            "weight": 1.931688540843695
+        },
+        {
+            "id": 1035069,
+            "weight": 0.5630949134648748
+        },
+        {
+            "id": 14022775,
+            "weight": 0.5508637398847137
+        },
+        {
+            "id": 1139738,
+            "weight": 0.2518923044575341
+        },
+        {
+            "id": 1117275,
+            "weight": 0.22667960511729102
+        },
+        {
+            "id": 870786,
+            "weight": 0.20737425128380949
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Raadsinformatiebrief Tijdelijke": 1.9765416191248102,
+        "Tijdelijke huisvesting": 1.955011371234592,
+        "Startbaan": 1.9140368224837343,
+        "huisvesting basisschool": 1.9029960071342575,
+        "Tijdelijke": 1.8552226942577967,
+        "huisvesting": 1.702634417439785,
+        "basisschool": 1.702634417439785
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": null,
+    "meeting_id": []
+}

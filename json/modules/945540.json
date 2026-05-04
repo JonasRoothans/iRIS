@@ -1,0 +1,62 @@
+{
+    "module_id": 945540,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230014,
+    "title": "Inzet EU klimaatmissie - Raadsvoorstel kadernota 2025",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/945540",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "R. Thijs (Wethouder)",
+    "result": "",
+    "date": "21-05-2024",
+    "meeting_url": {
+        "1147935": "https://raadsinformatie.eindhoven.nl/vergadering/1147935#ai_8359842"
+    },
+    "attachment": null,
+    "parent": 933747,
+    "children": [],
+    "text": "Wethouder Thijs zegt toe de raad te informeren over de verdere inzet op de EU Klimaatmissie vanuit Eindhoven.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 13388812,
+            "weight": 0.9582808920171195
+        },
+        {
+            "id": 877730,
+            "weight": 0.4771549266217584
+        },
+        {
+            "id": 971744,
+            "weight": 0.4583715768189184
+        }
+    ],
+    "videostarttime": {
+        "1147935": 11473
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_21.05.24_NC_Eindhoven_Raad.mp4/playlist.m3u8",
+    "keywords": {
+        "Wethouder Thijs": 0.9961091665893166,
+        "Raadsvoorstel kadernota": 1.9950916658902604,
+        "Thijs zegt": 0.9899159628320426,
+        "verdere inzet": 0.9744634421147604,
+        "klimaatmissie": 1.9512285783129073,
+        "Eindhoven": 0.9469244989829453,
+        "Thijs": 0.9269766007817678,
+        "Inzet": 1.9089318884496114,
+        "kadernota": 1.907973359739221,
+        "zegt": 0.8632854036423235,
+        "raad": 0.8632854036423235,
+        "informeren": 0.8632854036423235
+    },
+    "svz": null,
+    "afgedaan": "08-10-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

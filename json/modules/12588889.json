@@ -1,0 +1,124 @@
+{
+    "module_id": 12588889,
+    "vote_id": null,
+    "member_id": [
+        194514
+    ],
+    "party_list": [
+        "PvdA"
+    ],
+    "poho_id": [],
+    "title": "Vraag V1 Vragenhalfuur Zet de jeugd centraal in Pact Woensel Zuid (PvdA)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "04-04-2023",
+    "meeting_url": {
+        "1013482": "https://raadsinformatie.eindhoven.nl/vergadering/1013482/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/12588889/1/Vraag+V1+Vragenhalfuur+Zet+de+jeugd+centraal+in+Pact+Woensel+Zuid+%28PvdA%29?connection_type=1&connection_id=6964851",
+    "pdf_text": " \n \n \nVragenhalfuur : Zet de jeugd centraal in Pact Woensel Zuid        V1  \n Allereerst willen we iedereen graag feliciteren met het ondertekenen van het  \nPact Woensel Zuid vorige week maandag. We waren erg blij om te zien hoeveel  \nmensen enthousiast  zijn en zich betrokken voelen bij het Pact. Ook waren we erg  \nblij om te zien dat alle amendementen en moties omarmt zijn. Graag zouden we wel  \nnog wat toelichting willen op een punt .  \n We zien de doelstelling dat kinderen in W oensel Zuid al over  10 jaar  / in 2033 \ndezelfde kansen  hebben nog niet terug in het P act. Dit was wel het aangenomen  \namendement.  \n \n1. Kan hoe college toelichten hoe zij dit ziet? Is het wel al besproken in de  \nAlliantieraad? En hoe ziet het vervolg eruit?  \n \n Met vriendelijke groet,  \n \nRosa van den Nieuwenhof , raadslid PvdA  \n \n \n \n",
+    "bst": null,
+    "related": [
+        {
+            "id": "a_7402311",
+            "weight": 1.9789626093313766
+        },
+        {
+            "id": 1013516,
+            "weight": 0.29670071488039906
+        },
+        {
+            "id": 1052620,
+            "weight": 0.24154073731050482
+        },
+        {
+            "id": 1041885,
+            "weight": 0.23137795253768184
+        },
+        {
+            "id": 953603,
+            "weight": 0.172131228714731
+        },
+        {
+            "id": 1033061,
+            "weight": 0.13018213012498073
+        },
+        {
+            "id": 965623,
+            "weight": 0.12953244055600266
+        },
+        {
+            "id": 831862,
+            "weight": 0.12424362327272598
+        },
+        {
+            "id": 920891,
+            "weight": 0.12276204862555025
+        },
+        {
+            "id": 1038656,
+            "weight": 0.11322112404329421
+        },
+        {
+            "id": 936108,
+            "weight": 0.10474358490007833
+        }
+    ],
+    "videostarttime": {
+        "1013482": 1235
+    },
+    "videolink": null,
+    "keywords": {
+        "Pact Woensel": 1.9985742589084792,
+        "Woensel Zuid": 1.9968541708534904,
+        "Vragenhalfuur Zet": 1.9962706022147088,
+        "jeugd centraal": 1.9916692525618682,
+        "Pact": 1.9758493585608368,
+        "Allereerst willen": 0.9683102718944951,
+        "Zet": 1.9673399101783753,
+        "week maandag": 0.9621896837435504,
+        "vorige week": 0.9538890301594148,
+        "Zuid vorige": 0.9534038882809134,
+        "Zuid": 1.9469851765601374,
+        "jeugd": 1.9359913306963419,
+        "erg blij": 0.9103040380599658,
+        "iedereen graag": 0.8923826842127536,
+        "graag feliciteren": 0.8923826842127536,
+        "Vraag": 1.8615069936744095,
+        "zien": 0.8521782256023995,
+        "blij": 0.8171232006359832,
+        "erg": 0.7920657001768544,
+        "ondertekenen": 0.7900512708041889,
+        "week": 0.7900512708041889,
+        "willen": 0.7686075560566032,
+        "PvdA": 1.7576602548589202,
+        "zien hoeveel": 0.7296000915697984,
+        "hoeveel mensen": 0.7006860641603573,
+        "mensen enthousiast": 0.7006860641603573,
+        "betrokken voelen": 0.7006860641603573,
+        "Alliantieraad": 0.6269412894637898,
+        "Rosa": 0.6020073960623756,
+        "Nieuwenhof": 0.6020073960623756,
+        "toelichting willen": 0.5954874938515993,
+        "raadslid PvdA": 0.5282753914408763,
+        "mensen": 0.5200384793629762,
+        "voelen": 0.5200384793629762,
+        "moties omarmt": 0.5099086543111333,
+        "jaar": 0.5007849775807807
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194514,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1013482
+    ]
+}

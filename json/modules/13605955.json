@@ -1,0 +1,94 @@
+{
+    "module_id": 13605955,
+    "vote_id": null,
+    "member_id": [
+        131137
+    ],
+    "party_list": [
+        "PvdA"
+    ],
+    "poho_id": [],
+    "title": "1. Rondvraag - Zwerfafval (PvdA)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "11-12-2023",
+    "meeting_url": {
+        "1044903": "https://raadsinformatie.eindhoven.nl/vergadering/1013530/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://api.notubiz.nl/document/13605955/1",
+    "pdf_text": " \n \n \n \n     Rondvraag  Zwerfafval    \n \n \nVanuit inwoners in de wijk Tongelre, (Urkhovenseweg) komen er klachten over \nzwerfafval. Bewoners hebben mensen aangesproken die het afval dumpen en \nvertellen dat deze mensen uit Geldrop, het afval daar plaatsen omdat het in \nEindhoven gratis is.  \n     In Geldrop en ook Nuenen moet men ervoor betalen.  \n \n \n     Dat geeft onderstaande vragen aan het college:  \n \n1. Hoe kan de afvaldumping in oa. Tongelre voorkomen worden?  \n \n2. Zou het niet beter zijn wanneer er in de regio eenduidig beleid is?  \n \n3. Welke mogelijkheden ziet het college om daar wat aan te doen?   \n \n \n      Eindhoven, 12-12-2023  \n \n \n      Het lid  van de raad  en/of commissie , \n \n      Wil van Haalen, raadslid PvdA  \n \n \n \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 1014949,
+            "weight": 0.30418190945584056
+        },
+        {
+            "id": 985312,
+            "weight": 0.24204786038789386
+        },
+        {
+            "id": 1140875,
+            "weight": 0.2234790485404854
+        },
+        {
+            "id": 999856,
+            "weight": 0.20692885670336347
+        },
+        {
+            "id": 931443,
+            "weight": 0.1839766109091354
+        },
+        {
+            "id": 995075,
+            "weight": 0.1504441840754271
+        },
+        {
+            "id": 1037362,
+            "weight": 0.1445283298974108
+        }
+    ],
+    "videostarttime": {
+        "1044903": 7402
+    },
+    "videolink": null,
+    "keywords": {
+        "Rondvraag Zwerfafval": 0.9465327949966993,
+        "Zwerfafval": 1.9203126267368842,
+        "Rondvraag": 1.8938486064729423,
+        "Geldrop": 0.8542069484435568,
+        "Urkhovenseweg": 0.836570235024705,
+        "Tongelre": 0.7973818123729165,
+        "afval": 1.7807855613973502,
+        "Eindhoven": 0.7736867936346368,
+        "PvdA": 1.7630932073701673,
+        "mensen": 0.7571131382487526,
+        "college": 0.727754096012638,
+        "afval dumpen": 0.690329583628942,
+        "Nuenen": 0.6700410403762769,
+        "mensen aangesproken": 0.6450182630874639,
+        "Tongelre voorkomen": 0.6353059010830948,
+        "komen": 0.6116695792954238,
+        "Haalen": 0.6041983577065323,
+        "raadslid PvdA": 0.5658719537913135,
+        "inwoners": 0.5544753031738521,
+        "wijk": 0.5544753031738521,
+        "klachten": 0.5544753031738521,
+        "ervoor betalen": 0.5442412548022288
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 131137,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1044903
+    ]
+}

@@ -1,0 +1,411 @@
+{
+    "module_id": 1013568,
+    "vote_id": 9108789,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Raadsvoorstel Gewijzigde vaststelling bestemmingsplan Buitengebied Eindhoven 2023",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/19/raadsvoorstellen/1013568?parent_event=1256317",
+    "type": "Raadsvoorstel",
+    "member": null,
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "aangenomen",
+    "date": "11-03-2025",
+    "meeting_url": {
+        "1256317": "https://raadsinformatie.eindhoven.nl/vergadering/1256317#ai_9044363",
+        "1256335": "https://raadsinformatie.eindhoven.nl/vergadering/1256335#ai_9044362"
+    },
+    "attachment": {
+        "http://raadsinformatie.eindhoven.nl/document/15096272/1?connection_type=16&connection_id=1013568": " Bijlage 1a - Bestemmingsplan Buitengebied Eindhoven 2023 ",
+        "http://raadsinformatie.eindhoven.nl/document/15096273/1?connection_type=16&connection_id=1013568": " Bijlage 1b - Verbeelding NL.IMRO.0772.80219-0301-Kaart 1 ",
+        "http://raadsinformatie.eindhoven.nl/document/15096274/1?connection_type=16&connection_id=1013568": " Bijlage 1c - Verbeelding NL.IMRO.0772.80219-0301-Kaart 2 ",
+        "http://raadsinformatie.eindhoven.nl/document/15096275/1?connection_type=16&connection_id=1013568": " Bijlage 1d - Verbeelding NL.IMRO.0772.80219-0301-Kaart 3 ",
+        "http://raadsinformatie.eindhoven.nl/document/15096276/1?connection_type=16&connection_id=1013568": " Bijlage 1e - Verbeelding NL.IMRO.0772.80219-0301-Kaart 4 ",
+        "http://raadsinformatie.eindhoven.nl/document/15096277/1?connection_type=16&connection_id=1013568": " Bijlage 1f  - Verbeelding NL.IMRO.0772.80219-0301-Kaart 5 ",
+        "http://raadsinformatie.eindhoven.nl/document/15096306/1?connection_type=16&connection_id=1013568": " Bijlage 3 - Nota van zienswijzen en ambtshalve wijzigingen BP Buitengebied Eindhoven 2023 ",
+        "http://raadsinformatie.eindhoven.nl/document/15149479/1?connection_type=16&connection_id=1013568": " Behandeladvies Raadsvoorstel Bestemmingsplan Buitengebied ",
+        "http://raadsinformatie.eindhoven.nl/document/15235988/1?connection_type=16&connection_id=1013568": " Beantwoording Technische vragen (VVD) over Raadsvoorstel gewijzigde vaststelling Bestemmingsplan Buitengebied Eindhoven 2023 ",
+        "http://raadsinformatie.eindhoven.nl/document/15241775/1?connection_type=16&connection_id=1013568": " Beantwoording Technische vervolg vragen (VVD) over Raadsvoorstel gewijzigde vaststelling Bestemmingsplan Buitengebied Eindhoven 2023 ",
+        "http://raadsinformatie.eindhoven.nl/document/15241621/2?connection_type=16&connection_id=1013568": " Beantwoording Technische vragen (OAHvE, SP) over Raadsvoorstel gewijzigde vaststelling Bestemmingsplan Buitengebied Eindhoven 2023 ",
+        "http://raadsinformatie.eindhoven.nl/document/15242629/1?connection_type=16&connection_id=1013568": " Beantwoording Technische vervolg vragen (OAHvE, SP) over Raadsvoorstel gewijzigde vaststelling Bestemmingsplan Buitengebied Eindhoven 2023 ",
+        "http://raadsinformatie.eindhoven.nl/document/15242353/1?connection_type=16&connection_id=1013568": " Beantwoording Technische vragen (Volt) over Raadsvoorstel gewijzigde vaststelling Bestemmingsplan Buitengebied Eindhoven 2023 ",
+        "http://raadsinformatie.eindhoven.nl/document/15242464/1?connection_type=16&connection_id=1013568": " Beantwoording Technische vragen (PvdA) over Raadsvoorstel gewijzigde vaststelling Bestemmingsplan Buitengebied Eindhoven 2023 ",
+        "http://raadsinformatie.eindhoven.nl/document/15254258/1?connection_type=16&connection_id=1013568": " Commissieadvies Raadsvoorstel gewijzigde vaststelling Bestemmingsplan Buitengebied Eindhoven 2023 ",
+        "http://raadsinformatie.eindhoven.nl/document/15307144/1?connection_type=16&connection_id=1013568": " Beantwoording technische vragen invulling - toezeggingen wethouder Verhees bij BP Buitengebied Eindhoven 2023 ",
+        "http://raadsinformatie.eindhoven.nl/document/15309391/1?connection_type=16&connection_id=1013568": " Beantwoording technische vragen SP inzake Bestemmingsplan Buitengebied Eindhoven 2023 ",
+        "http://raadsinformatie.eindhoven.nl/document/15309433/2?connection_type=16&connection_id=1013568": " Vergunningen vanaf 2020 Buitengebied ",
+        "http://raadsinformatie.eindhoven.nl/document/15313109/1?connection_type=16&connection_id=1013568": " Beantwoording Technische vragen (SP) over Raadsvoorstel gewijzigde vaststelling Bestemmingsplan Buitengebied Eindhoven 2023 ",
+        "http://raadsinformatie.eindhoven.nl/document/15313140/1?connection_type=16&connection_id=1013568": " Beantwoording Technische vragen (GL) over Raadsvoorstel gewijzigde vaststelling Bestemmingsplan Buitengebied Eindhoven 2023 ",
+        "http://raadsinformatie.eindhoven.nl/document/15314715/1?connection_type=16&connection_id=1013568": " Beantwoording aanvullende Technische vragen (PvdA) over Raadsvoorstel gewijzigde vaststelling Bestemmingsplan Buitengebied Eindhoven 2023 "
+    },
+    "parent": null,
+    "children": [
+        1025740,
+        1030771,
+        1025684,
+        1028150,
+        1027452,
+        1027454
+    ],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/15317173/1?connection_type=17&connection_id=11682512",
+    "pdf_text": " \n  \n \n \n \n \n \n \n gemeente Eindhoven  \nInboeknummer      7861982 _02 \nDossiernummer     25.05.451  \nB&W b eslisdatum   28 januari 2 025 \n \n \nRaadsvoorstel Gewijzigde vaststelling bestemmingsplan Buitengebied Eindhoven 2023  \n \nInleiding  \n \nBestemmingsplannen moeten actueel en digitaal raadpleegbaar zijn. Daarom is het \nbestemmingsplan ‘Buitengebied’ (2006) geactualiseerd. Deze is als uitgangspunt \ngenomen. Nieuwe regelgeving  is aanvullend verwerkt in dit bestemmingsplan . Dit betreft \nde provinciale (Interim) O mgevingsverordening Noord -Brabant die vooral geld t voor het \nbuitengebied.  Daarin  zijn de verplichte instructieregels  opgenomen , die voorheen \nopgenomen worden in de Verordening ruimte . Deze moeten gemeenten toepassen bij de \nuitvoering van hun bevoegdheden in het kader van de Wet ruimtelijke ordening / \nOmgevingswet . Er vinden geen nieuwe ontwikkelingen plaats in het gebied en ook geen \nbedrijfsuitbreidingen. De wijzigingen zijn veelal technisch van aard en hebben vooral te \nmaken met het omzetten van de ‘oude provinciale verordening’ naar de nieuwe provinciale \nverordening.  \n \nHet buitengebied van Eindhoven \nvormt een groene omzoming van \nde stedelijke bebouwing. Binnen \nhet plangebied liggen onder andere  \nparken,  natuur - en plassengebied , \nlandgoederen en  een beperkt \naantal (kleine ) agrarische bedrijven .  \nHet plangebied is globaal in drie \ngebieden verdeeld  (figuur.1). \n \nDe provinciale instructie regels  zien \nonder meer op de bescherming van \ngrondwater1, natuurwaarden (o.a. \nhet natuur netwerk Brabant)  en \ncultuurhistorisch erfgoed . Zo is in \n \n1 o.a. waterwingebieden, boringsvrije zones, ontgronding, bescherming szones waterhuishouding en  aardkundige waarden . \nFiguur 1: impressie deelgebieden plangebied   \n Inboeknummer 7861982 _02 \n \n \n 2 \nhet bestemmingsplan bijvoorbeeld het natuur netwerk Brabant overeenkomstig de \ninstructieregels beschermd door de bestemmingen Natuur -1 of Water en de \ngebiedsaanduiding ‘Overige zone – natuur netwerk Brabant’.  Het grondwater is op grond \nvan de instructieregels beschermd door onder andere de bestemming  Natuur -2 en de \naanduidingen Milieuzone – boringsvrije zone, Milieuzone – waterwingebied, Milieuzone - \ngrondwaterbeschermingsgebied, Overige zone – Attentiezone waterhuishouding etc.   \nDe meeste instructieregels  richten zich  tot agrarische bedrijven en dan met name \nveehouderijen.  Binnen het plangebied bevinden zich nog 7 locaties  waar dieren worden \ngehouden2, waarvan 5 locaties waar landbouwhuisdieren worden gehouden . Hiervan zijn \n4 aan te merken als veehouderijen  in de zin van de (Interim) Omgevingsverordening \nNoord -Brabant , waaronder de educatieboerderij in de Genneper Parken, een \nschapenhouderij voor ecologisch beheer van natuurgebieden en een biologische varkens -\nen runderen houderij met natuurbeheer van het Dommeldal. Daarnaast is er nog één  \nlocatie waar  15 runderen worden gehouden . Ook zijn er nog 2 maneges3. Deze \n(milieu) vergunde locaties zijn overgenomen in dit bestemmingsplan.  \nOp grond van  de provinciale instructieregels  zijn voor de transitie naar een zorgvuldige \nveehouderij aanvullend de regels van ‘Staldering ’ opgenomen . De regels van Staldering \nvoorkomt verdere regionale concentratie van vee in Noord -Brabant en gaat leegstand  \nelders  tegen. Op grond hiervan zijn  in beginsel alleen  bestaande dierenverblijven \ntoegestaan. De toename van de oppervlakte dierenverblijf binnen een bouwperceel is \nalleen mogelijk als er elders dierenverblijven verdwijne n.  \nDe provinciale instructieregels  heeft  ook gebieden aan gewezen  met de aanduiding \n'Beperking en veehouderij'. In deze  gebieden zijn de ontwikkelingsmogelijkheden van \nveehouderijen  beperkt ( uitbreiding  en omschakeling naar een veehouderij  is niet \ntoegestaan ). Doel van de aanduiding is om een verdere intensivering vanwege \nontwikkelingen in de veehouderij  in de aangeduide gebieden tegen te gaan.  Dit geldt voor \nbijna geheel Eindhoven.  Ook die regels zijn verwerkt.  \n \nDoor veranderende wetgeving is tussentijds nog een milieueffectrapport (MER) opgesteld  \nen beoordeeld door de landelijke Commissie voor de milieueffectrapportage . Het \nbestemmingsplan biedt een geactualiseerd bestemmingsplan kader voor onder andere de \ngenoemde  veehouderijen en is gelegen aansluitend aan de Natura 2000 -gebieden \n‘Leenderbos, Groote Heide & De Plateau’ en ‘Strabrechtse Heide & Beuven’.  \nGeconcludeerd is dat het bestemmingsplan geen wezenlijke effecten heeft op het milieu. \nHet MER is verwerkt in di t bestemmingsplan4. Ook is tussentijds  aangepaste provinciale \nwetgeving  verwerkt in het bestemmingsplan.  \n \nEen eerste concept van het bestemmingsplan heeft als voorontwerp ter inzage gelegen , \ninclusief inloopbijeenkomst. Er zijn in totaal negen reacties op het voorontwerp \nbestemmingsplan ontvangen. De reacties zijn verwerkt in de ‘Nota van inspraak’  (bijlage \n \n2 Niet zijnde het hobbymatig houden van (landbouwhuis)dieren.  \n3 Zolang niet gefokt wordt is geen sprake van een landbouwhuisdier als bedoeld in het Besluit activiteiten leefomgeving  of \nvan een veehouderij als bedoeld in de (Interim) omgevingsverordening Noord -Brabant .   \n4 Par. 4.1 van de toelichting  van het bestemmingsplan Buitengebied Eindhoven 2023.   \n Inboeknummer 7861982 _02 \n \n \n 3 \nbij de toelichting) . Het plan is voor het verplicht e bestuurlijk vooroverleg ook voorgelegd \naan diverse besturen, waaronder de provincie Noord -Brabant, het Waterschap , \nRijkswaterstaat, omliggende gemeenten  en het Rijksvast -goedbedrijf  (Defensie) . Ook is \nhet aangeboden aan instanties zoals ProRail, Tenne T en Gasunie  en is het  aangeboden \naan de (informele) vooroverlegpartners  (o.a. Trefpunt Groen Ein dhoven  (TGE)  en de \nHenri van Abbe Stichting) . TGE  is positief5 en ook de andere partijen zijn positief.  \nHet ontwerpbestemmingsplan  met MER  heeft vervolgens  van 16  februari 2023  tot 31 \nmaart 2023  ter inzage gelegen. Er zijn ten aanzien van het ontwerpbestemmingsplan 13 \nzienswijzen ingediend6. Naar aanleiding daarvan worden  wijzigingen doorgevoerd. Ook is \nambtshalve een aantal wijzigingen doorgevoerd. De wijzigingen zijn terug te vinden in de \n‘Nota van zienswijzen en ambtshalve wijzingen bestemmingsplan Buitengebied Eindhoven \n2023 ’. Namens de Provincie Noord -Brabant is aangegeven dat hiermee ingestemd kan \nworden.  \n \nOmgevingswet  \nDe Omgevingswet die op 1 januari 2024 in werking is getreden  is op deze procedure niet \nvan toepassing . Het ontwerpbestemmingsplan  heeft  voor 1 januari 2024 ter inzage \ngeleg en. Op grond van het overgangsrecht moet deze procedure volgens  de oude \nwetgeving (Wet ruimtelijke ordening) worden afgehandeld. Na inwerkingtreding van het \nbestemmingsplan gaat het bestemmingsplan onderdeel uitmaken van het Omgevingsplan \nvan de gemeente Eindhoven.  \n \n \n Wettelijke taak  \n  Artikel 3.1 Wet ruimtelijke ordening.  \n \n \nDoelstelling  \nEen actueel juridisch -ruimtelijk kader bieden , inclusief de verplichte regels uit de  \nprovinciale verordening,  dat digitaal beschikbaar wordt (digitaliseringsplicht).  \n \nVoorstel  \n1. De zienswijzen  12 en 13  (juridisch) niet-ontvankelijk  te verklaren  en de overige \nzienswijzen ontvankelijk . \n2. De zienswijzen  4 tot en met 11 overeenkomstig  het gemeentelijk  standpunt  als \nverwoord  in hoofdstuk  2 van de ‘Nota van zienswijzen  en ambtshalve  \nwijzigingen  bestemmingsplan  Buitengebied  Eindhoven  2023 ’ (hierna:  de Nota) op \nonderdelen  gegrond  te verklaren  en de rest overeenkomstig  het gemeentelijk  \nstandpunt  als verwoord  in hoofdstuk  2 van de nota ongegrond  te verklaren . \n \n5 Het voorontwerp van dit bestemmingsplan h ad nog de naam Buitengebied Eindhoven 2019 i.p.v. 2023.  \n6 Er zijn geen zienswijzen  ontvangen  t.a.v. het MER.   \n Inboeknummer 7861982 _02 \n \n \n 4 \n3. Naar  aanleiding  van de zienswijzen  wijzigingen  in het vast te stellen  bestemmingsplan  \naan te brengen , zoals  verwoord  in hoofdstuk  2 van de Nota, welke  Nota deel uitmaakt  \nvan dit besluit . \n4. Ambtshalve wijzigingen ten opzichte van het ontwerp  in het bestemmingsplan aan te \nbrengen  zoals verwoord in hoofdstuk 3 van de Nota, welke nota deel uitmaakt van dit \nbesluit . \n5. Het bestemmingsplan  ‘Buitengebied Eindhoven 2023 ’ bestaande uit de geometrisch \nbepaalde planobjecten als vervat in het GML -bestand: NL.IMRO.0772. 80219 -0301.gml \nmet de bijbehorende bestanden digitaal gewijzigd  vast te stellen en waarbij voor de \nlocatie van de geometrische planobjecten gebruik is gemaakt van een ondergrond \nwelke ontleend is aan de BGT alsmede de afgeleide analoge verbeelding van het \nbeste mmingsplan gewijzigd  vast te stellen . \n6. Geen exploitatieplan als bedoeld in artikel 6.12 van de Wet ruimtelijke ordening vast te \nstellen . \n \nArgumenten  \n \n1.1 Het n iet tijdig indienen van een zienswijze leidt (juridisch) tot niet -ontvankelijkheid . \nGedurende de wettelijke termijn van 6 weken  bestond voor iedereen de gelegenheid \nom zienswijzen in te dienen tegen het ontwerp  van het bestemmingsplan. Er zijn 11 \nzienswijzen binnen de gestelde wettelijke termijn ontvangen . Deze zijn daardoor \n(juridisch) ontvankelijk. Zienswijzen 12 en 13  zijn te laat ingediend  en daardoor \n(juridisch) niet -ontvankelijk.  In de Nota is  desondanks wel ambtshalve ingegaan op de \naangedragen punten .  \n \n2.1 Als de indiener van een ontvankelijke zienswijze gelijk heeft is deze gegrond . \nEen aantal  zienswijzen leiden (deels) tot wijziging van het bestemmingsplan . Die \nzienswijzen worden om de redenen, zoals verwoord in de Nota, (juridisch) gegrond \nverklaard. De overige (delen van de) zienswijzen leiden, zoals verwoord in de Nota, \nniet tot wijzigingen van de regels en/of verbeelding  en zijn daardoor ongegrond .  \n \n3.1 Een aantal  zienswijzen leiden tot wijziging van de regels en/of verbeelding.  \nDe wijzigingen en de onderbouwing daarvan zijn opgenomen in hoofdstuk 2 van de \nNota.  \n \n4.1 De raad dient ook ambtshalve wijzigingen van de regels en verbeelding vast te stellen.  \nAmbtshalve zijn er ook een aantal wijzigingen aangebracht in de regels en de \nverbeelding. De wijzigingen en de onderbouwing daarvan zijn opgenomen in \nhoofdstuk  3 van de Nota.   \n \n5.1 Het bestemmingsplan moet digitaal worden vastgesteld en gelijktijdig moet een \nvolledige analoge versie van het bestemmingsplan worden vastgesteld . \nOp basis van de wetgeving moet een bestemmingsplan digitaal worden vastgelegd. \nHet bestemmingsplan is voor u digitaal raadpleegbaar op de website \npilot.ruimtelijkeplannen.nl via de directe link  https://pilot.ruimtelijkeplannen.nl/web -\nroo/?planidn=NL.IMRO.0772.80219 -0301  Gelijktijdig met de digitale vaststelling van het  \n Inboeknummer 7861982 _02 \n \n \n 5 \nbestemmingsplan moet een volledige verbeelding hiervan op papier worden \nvastgesteld.  \nGelet op artikel 4.6, tweede lid, van de Invoeringswet Omgevingswet blijft het oude \nrecht (artikel 3.1 van de Wet ruimtelijke ordening) op dit besluit van toepassing tot dit \nbesluit van kracht is.  \n \n6.1 De wet verplicht tot het nemen van een besluit over het al dan niet vaststellen van een \nexploitatieplan . \nDoor  artikel 6.12 van de Wet ruimtelijke ordening moet uw raad een exploitatieplan \nvaststellen voor gronden waarop een bouwplan is voorzien, tenzij het verhaal van \ngrondexploitatiekosten over de in het bestemmingsplan begrepen gronden anderszins \nis verzekerd. Als deze laatste situatie zich voordoet dient uw raad gelijktijdig met de \nvaststelling van het bestemmingsplan besluiten dat geen exploitatieplan wordt \nvastgesteld . Het bestemmingsplan maakt geen bouwplannen mogelijk, waardoor het \nverhaal van kosten niet aan de orde is.  \n \nKanttekeningen  \nNiet van toepassing.  \n \nPersonele consequenties  \nHet opstellen van dit bestemminsplan en het verzorgen van de procedure behoren tot de \nreguliere werkzaamheden van de afdeling Omgevingsrecht.  \n \nFinanciële consequenties  \nHet opstellen van dit bestemminsplan en het verzorgen van de procedure behoren tot de \nreguliere werkzaamheden van de afdeling Omgevingsrecht .  \n \nCommunicatie  \nHet besluit tot vaststelling van het bestemmingsplan wordt bekendgemaakt in het \nGemeenteblad en digitaal via de gemeentelijke website . In die bekendmaking staat dat het \nbesluit en het bestemmingsplan digitaal beschikbaar zijn via de landelijke \nwebsite  www.ruimtelijkeplannen.nl.  en welke beroepsmogelijkheden er zijn. De indieners \nvan de zienswijzen worden per brief in kennis gesteld van het besluit tot vaststelling van \nhet bestemmingsplan onder gelijktijdige toezending van het raadsvoorstel en het –besluit.  \n \nPlanning en uitvoering  \nNadat het bestemmingsplan is vastgesteld, volgt de beroepsfase. In de kennisgeving van \nhet besluit wordt vermeld dat het vastgestelde bestemmingsplan gedurende 6 weken ter \ninzage ligt en dat binnen die termijn beroep mogelijk is bij de Afdeling bestuursrechtspraak \nvan de Raad van State  (hierna: RvS) . Op de dag dat de beroepstermijn afloopt treedt het \nbestemmingsplan in werking, tenzij beroep is ingesteld én een verzoek om voorlopige \nvoorziening is ingediend bij de voorzieningenrechter van de RvS. In dat geval dient eerst \nde uitspraak van de voorzieningenrechter te worden afgewacht. In die uitspraak staat of \nde inwerkingtreding van het plan al dan niet wordt opgeschort en zo ja voor welke \nplandelen de schorsing geldt.   \n Inboeknummer 7861982 _02 \n \n \n 6 \n \nEvaluatie  \nNiet van toepassing.  \n \nBijlage(n)  \nAls bijlage(n) bij dit voorstel behoren:  \n• Bestemmingsplan ‘Buitengebied Eindhoven 2023’;  \n• Ingediende zienswijzen (13)  \n• Nota van zienswijzen en ambtshalve wijzigingen  bestemmingsplan Buitengebied \nEindhoven 2023 .  \n \n \nEen ontwerpraadsbesluit bieden wij u hierbij ter vaststelling aan.  \n \nBurgemeester en wethouders van Eindhoven,  \n \n \n \n \n, secretaris.  \n   \n Inboeknummer 7861982 _02 \n \n \n 7 \nOntwerp Raadsbesluit  \n \nDe raad van de gemeente Eindhoven;  \ngezien het voorstel van burgemeester en wethouders van ; \noverwegende dat,  \n \n- het ontwerp bestemmingsplan ‘Buitengebied Eindhoven 2023’ met inachtneming van \nhet bepaalde in artikel 3.8, eerste lid van de Wet ruimtelijke ordening is voorbereid;  \n- het ontwerp bestemmingsplan  met milieueffectrapport  zowel in digitale als analoge \nvorm gedurende de periode van 6 weken ( 16 februari 2023  tot donderdag 30  maart \n2023) voor iedereen ter inzage heeft gelegen en dat voor iedereen de gelegenheid \nopenstond om tijdens deze periode naar keuze schriftelijk, digitaal of mondeling \nzienswijzen in te dienen;  \n- van 13  indiener s een op schrift gestelde zienswijze tegen het ontwerp \nbestemmingsplan is ontvangen , waarvan 11 zienswijze n binnen de gestelde termijn en \ndaarmee juridisch ontvankelijk zijn;  \n- in de ‘ Nota van zienswijze en ambtshalve wijzigingen bestemmingsplan Buitengebied \nEindhoven 2023’ de zienswijze n zijn  samengevat en voorzien van een gemeentelijk \nstandpunt;  \n- de raad de daarin vervatte overweging en en standpunt en tot de hare maakt;  \n- de raad de voorgestelde wijziging en ten aanzien van de verbeelding en de regels \nonderschrijft  en \n- gelet op de Wet ruimtelijke ordening, het Besluit ruimtelijke ordening en Crisis - en \nherstelwet;  \n \nbesluit:  \n \n1. De zienswijzen 12 en 13 (juridisch) niet -ontvankelijk te verklaren en de overige \nzienswijzen ontvankelijk.  \n2. De zienswijzen  4 tot en met 11 overeenkomstig  het gemeentelijk  standpunt  als \nverwoord  in hoofdstuk  2 van de ‘Nota van zienswijzen  en ambtshalve  \nwijzigingen  bestemmingsplan  Buitengebied  Eindhoven  2023’  (hierna:  de Nota) op \nonderdelen  gegrond  te verklaren  en de rest overeenkomstig  het gemeentelijk  \nstandpunt  als verwoord  in hoofdstuk  2 van de Nota ongegrond  te verklaren.  \n3. Naar  aanleiding  van de zienswijzen  wijzigingen  in het vast te stellen  bestemmingsplan  \naan te brengen  zoals  verwoord  in hoofdstuk  2 van de Nota, welke  Nota deel uitmaakt  \nvan dit besluit.  \n4. Ambtshalve wijzigingen ten opzichte van het ontwerp in het bestemmingsplan aan te \nbrengen zoals verwoord in hoofdstuk 3 van de Nota, welke Nota deel uitmaakt van dit \nbesluit.  \n5. Het bestemmingsplan  ‘Buitengebied Eindhoven 2023 ’ bestaande uit de geometrisch \nbepaalde planobjecten als vervat in het GML -bestand: NL.IMRO.0772.80219 -0301.gml \nmet de bijbehorende bestanden digitaal gewijzigd  vast te stellen en waarbij voor de  \n Inboeknummer 7861982 _02 \n \n \n 8 \nlocatie van de geometrische planobjecten gebruik is gemaakt van een ondergrond \nwelke ontleend is aan de BGT alsmede de afgeleide analoge verbeelding van het \nbestemmingsplan gewijzigd  vast te stellen.  \n6. Geen exploitatieplan als bedoeld in artikel 6.12 van de Wet ruimtelijke ordening vast te \nstellen.  \n \nAldus vastgesteld in de openbare vergadering van  \n \n \n \n \n, griffier.  \n ",
+    "bst": "7861982_02",
+    "related": [
+        {
+            "id": "o_9202790",
+            "weight": 0.5696149394771366
+        },
+        {
+            "id": 863909,
+            "weight": 0.4301828639030225
+        },
+        {
+            "id": 977708,
+            "weight": 0.27463595921207024
+        },
+        {
+            "id": 941374,
+            "weight": 0.2735445456962146
+        },
+        {
+            "id": 831335,
+            "weight": 0.2690491802848766
+        },
+        {
+            "id": "r_8748211",
+            "weight": 0.2619441442480835
+        },
+        {
+            "id": 977662,
+            "weight": 0.2619441442480835
+        },
+        {
+            "id": 1082736,
+            "weight": 0.25399639800648
+        },
+        {
+            "id": 950248,
+            "weight": 0.25138025132454833
+        },
+        {
+            "id": 1146326,
+            "weight": 0.23279622585862111
+        },
+        {
+            "id": 1132392,
+            "weight": 0.20621686526292704
+        },
+        {
+            "id": 1133235,
+            "weight": 0.19712726254539994
+        },
+        {
+            "id": 1125936,
+            "weight": 0.18306861721073192
+        },
+        {
+            "id": 892522,
+            "weight": 0.1819807735813647
+        },
+        {
+            "id": 1009567,
+            "weight": 0.17697290423505316
+        },
+        {
+            "id": 1096792,
+            "weight": 0.17549858294793572
+        },
+        {
+            "id": 1109452,
+            "weight": 0.17227864018674782
+        },
+        {
+            "id": 947895,
+            "weight": 0.17085070325556898
+        },
+        {
+            "id": "a_7402261",
+            "weight": 0.15651319878294176
+        },
+        {
+            "id": 1061325,
+            "weight": 0.14483530062311903
+        },
+        {
+            "id": 1052766,
+            "weight": 0.1410447462803682
+        },
+        {
+            "id": 791808,
+            "weight": 0.13486002667640665
+        },
+        {
+            "id": 851359,
+            "weight": 0.1333414406285524
+        },
+        {
+            "id": 776916,
+            "weight": 0.1288064779062892
+        },
+        {
+            "id": 946362,
+            "weight": 0.12442976600780797
+        },
+        {
+            "id": 1117460,
+            "weight": 0.11568327235472914
+        },
+        {
+            "id": 1044109,
+            "weight": 0.10481591955062616
+        },
+        {
+            "id": 944432,
+            "weight": 0.1042612932775196
+        },
+        {
+            "id": 1013592,
+            "weight": 0.10336148771629369
+        },
+        {
+            "id": 12549640,
+            "weight": 0.10214031923877587
+        },
+        {
+            "id": 942826,
+            "weight": 0.10099953409499077
+        },
+        {
+            "id": 889740,
+            "weight": 0.0985560313217529
+        },
+        {
+            "id": 896955,
+            "weight": 0.09854681024795556
+        },
+        {
+            "id": 924343,
+            "weight": 0.09517912477790343
+        },
+        {
+            "id": 925715,
+            "weight": 0.09400923987465863
+        },
+        {
+            "id": 804481,
+            "weight": 0.09080864038530877
+        },
+        {
+            "id": 896181,
+            "weight": 0.0883465698367423
+        },
+        {
+            "id": 909697,
+            "weight": 0.08405921445101316
+        },
+        {
+            "id": 831885,
+            "weight": 0.08123096587769034
+        },
+        {
+            "id": 915719,
+            "weight": 0.080945050617676
+        },
+        {
+            "id": 968679,
+            "weight": 0.080614465379073
+        },
+        {
+            "id": 833162,
+            "weight": 0.08012210716115407
+        },
+        {
+            "id": 776876,
+            "weight": 0.07997360843661429
+        },
+        {
+            "id": 791655,
+            "weight": 0.07814747736085102
+        },
+        {
+            "id": 791703,
+            "weight": 0.07809683476461962
+        },
+        {
+            "id": 791654,
+            "weight": 0.07695786147716815
+        },
+        {
+            "id": 1047227,
+            "weight": 0.07603241946111201
+        },
+        {
+            "id": 801143,
+            "weight": 0.07370910841991024
+        },
+        {
+            "id": 956636,
+            "weight": 0.07283461884672218
+        },
+        {
+            "id": 898863,
+            "weight": 0.07072456233159702
+        },
+        {
+            "id": 1045922,
+            "weight": 0.06938253547815754
+        },
+        {
+            "id": 890134,
+            "weight": 0.06617715978842438
+        },
+        {
+            "id": 905295,
+            "weight": 0.06470079950442319
+        },
+        {
+            "id": 804104,
+            "weight": 0.06389265321599584
+        },
+        {
+            "id": "r_7006027",
+            "weight": 0.06349740959442852
+        },
+        {
+            "id": 1052629,
+            "weight": 0.05947258347201688
+        },
+        {
+            "id": 791699,
+            "weight": 0.05310943192639597
+        },
+        {
+            "id": 791708,
+            "weight": 0.052138399518141844
+        },
+        {
+            "id": 1034738,
+            "weight": 0.04955531588750723
+        },
+        {
+            "id": 791726,
+            "weight": 0.04812477362748102
+        }
+    ],
+    "videostarttime": {
+        "1256335": 842,
+        "1256317": 2340
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/11.03.25 Eindhoven meningv raadz.mp4/playlist.m3u8",
+    "keywords": {
+        "Buitengebied Eindhoven": 1.997772225433332,
+        "bestemmingsplan": 0.995940400057588,
+        "Nota": 0.9939615751448576,
+        "Eindhoven": 1.9919881154332657,
+        "zienswijzen": 0.9882877804655795,
+        "Wet ruimtelijke": 0.9873971435897114,
+        "wijzigingen": 0.9803645241746051,
+        "ambtshalve wijzigingen": 0.9801934792806111,
+        "Besluit": 0.9777868570040081,
+        "Nota deel": 0.9769767444010278,
+        "Wet": 0.9763468877290296,
+        "ruimtelijke ordening": 0.9760873224324137,
+        "gewijzigde vaststelling": 1.9743406936352892,
+        "Raadsvoorstel gewijzigde": 1.9734175046813722,
+        "Brabant": 0.9728836419017922,
+        "ambtshalve": 0.9668384664164993,
+        "hoofdstuk": 0.9571830868219627,
+        "Inboeknummer": 0.9569512160643484,
+        "verwoord": 0.9568898302267635,
+        "Noord": 0.9556670366818306,
+        "regels": 0.9554443010782938,
+        "ordening": 0.9551925213577447,
+        "gewijzigde": 1.9549914519521168,
+        "digitaal": 0.9538625197904084,
+        "vast": 1.9475077088915387,
+        "stellen": 0.9473440588071937,
+        "provinciale": 0.9461049812598669,
+        "nota ongegrond": 0.9449835875942866,
+        "natuur": 0.9441079102570265,
+        "verbeelding": 0.9365686171149967,
+        "juridisch": 0.9353612200940612,
+        "Artikel": 0.9328306023989759,
+        "ontwerp": 0.9320322668724041,
+        "raad": 0.9315566975618134,
+        "Inleiding": 0.9265169903028132,
+        "netwerk Brabant": 0.922450203781533,
+        "instructieregels": 0.9217621376273231,
+        "Omgevingsverordening Noord": 0.9160087803451705,
+        "MER": 0.9131941602619811,
+        "natuur netwerk": 0.9126845456735806,
+        "Overige": 0.910495907940417,
+        "verklaren": 0.9044388587211435,
+        "ontvankelijk": 0.9042369323166681,
+        "zienswijzen ontvankelijk": 0.903689879463085,
+        "standpunt": 0.903597208835077,
+        "vastgesteld": 0.9029239414610676,
+        "Omgevingswet": 0.8973916602438347,
+        "Milieuzone": 0.8936314776998346,
+        "Interim": 0.8915460230461172,
+        "gemeentelijk standpunt": 0.8891066177419341,
+        "veehouderij": 0.8878820954872741,
+        "gebieden": 0.8873145912996243,
+        "verwerkt": 0.8866529330526896,
+        "inzage": 0.8819080062415512,
+        "opgenomen": 0.8813945817550786,
+        "aantal": 0.879713869746198,
+        "overeenkomstig": 0.8792305789761956,
+        "exploitatieplan": 0.8770866048223093,
+        "plangebied": 0.8621599619907709,
+        "grond": 0.8540107388334428,
+        "deel": 0.8482056522002097,
+        "wetgeving": 0.8392351190986166,
+        "geactualiseerd bestemmingsplan": 0.8390566668819754,
+        "bedoeld": 0.8379980741361919,
+        "planobjecten": 0.836637117000185,
+        "procedure": 0.8362834252612061,
+        "toepassing": 0.8347249896738529,
+        "locaties": 0.834668815774876,
+        "uitmaakt": 0.8339033609501552,
+        "termijn": 0.8337850187101953,
+        "brengen": 0.8336798605748893,
+        "analoge": 0.8334422273045805,
+        "2023’": 0.8322462646899055,
+        "Hiervan": 0.8292890394766506,
+        "wijzigingen doorgevoerd": 0.826603690890422,
+        "zone": 0.8171009921482086,
+        "Nieuwe": 0.8162968177661655,
+        "Ingediende zienswijzen": 0.8162333718290158,
+        "naam Buitengebied": 0.8064228326251872,
+        "afdeling Omgevingsrecht": 0.8057192023657477,
+        "gelijktijdig": 0.8054382900281557,
+        "Staldering": 0.7960461645602619,
+        "Heide": 0.7837737933687254,
+        "januari": 0.7781141274420289,
+        "digitaal gewijzigd": 0.7777388580060243,
+        "TGE": 0.7737073617135297,
+        "kader": 0.7722893701689229,
+        "wet verplicht": 0.7716593727335033,
+        "gemeente": 0.7660429556158868,
+        "oude": 0.7634804925697486,
+        "bestaande": 0.7620345880443689,
+        "daardoor": 0.7613222387347145,
+        "GML": 0.7603097713025218,
+        "behoren": 0.759840019665998,
+        "weken": 0.7597684376926288,
+        "iedereen": 0.7594122412858436,
+        "website": 0.7593254724328558,
+        "BGT": 0.7592152375340071,
+        "via": 0.7585287636542057,
+        "dient": 0.75836139709885
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": "10-04-2026",
+    "meeting_id": [
+        1256317
+    ]
+}

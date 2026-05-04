@@ -1,0 +1,86 @@
+{
+    "module_id": 1062445,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230022,
+    "title": "Veiligheid gaat boven hitte (Vrije Motie VM1)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1062445",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Toub (Wethouder)",
+    "result": "",
+    "date": "01-07-2025",
+    "meeting_url": {
+        "1256322": "https://raadsinformatie.eindhoven.nl/vergadering/1256322#ai_8588207"
+    },
+    "attachment": null,
+    "parent": 1060513,
+    "children": [],
+    "text": "Wethouder Toub zegt toe de lokale ervaringen met het nationaal hitteplan via de GGD te delen ten behoeve van een landelijke evaluatie.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1060513,
+            "weight": 2.967527443666195
+        },
+        {
+            "id": 845621,
+            "weight": 0.26307443548952963
+        },
+        {
+            "id": 856604,
+            "weight": 0.24300600967284863
+        },
+        {
+            "id": 857571,
+            "weight": 0.23627313269011577
+        },
+        {
+            "id": 790660,
+            "weight": 0.21015946642691247
+        },
+        {
+            "id": 1096737,
+            "weight": 0.1491763753100874
+        }
+    ],
+    "videostarttime": {
+        "1256322": 16104
+    },
+    "videolink": null,
+    "keywords": {
+        "Vrije Motie": 1.9967389880162214,
+        "Wethouder Toub": 0.9950748962302097,
+        "Toub zegt": 0.986202801796007,
+        "Veiligheid gaat": 1.9846191788281082,
+        "landelijke evaluatie": 0.9846191788281083,
+        "lokale ervaringen": 0.9742913828560066,
+        "nationaal hitteplan": 0.9742913828560066,
+        "hitteplan via": 0.9742913828560066,
+        "Vrije": 1.9429876123096683,
+        "Motie": 1.9429876123096683,
+        "Toub": 0.9140368224837344,
+        "GGD": 0.9140368224837344,
+        "hitte": 1.9043195497355658,
+        "evaluatie": 0.9043195497355658,
+        "gaat": 1.8416830712200127,
+        "zegt": 0.8416830712200127,
+        "lokale": 0.8416830712200127,
+        "nationaal": 0.8416830712200127,
+        "via": 0.8416830712200127,
+        "delen": 0.8416830712200127,
+        "behoeve": 0.8416830712200127,
+        "landelijke": 0.8416830712200127
+    },
+    "svz": null,
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "02-10-2025",
+    "meeting_id": [
+        1256322
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "module_id": 13722525,
+    "vote_id": null,
+    "member_id": [
+        194242
+    ],
+    "party_list": [
+        "VVD"
+    ],
+    "poho_id": [],
+    "title": "Vraag V2 vragenhalfuurtje - Boom versus bever (VVD)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "22-01-2024",
+    "meeting_url": {
+        "1146938": "https://raadsinformatie.eindhoven.nl/vergadering/1146938/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/13722525/1/Vraag+V2+vragenhalfuurtje+-+Boom+versus+bever+%28VVD%29?connection_type=1&connection_id=7847331",
+    "pdf_text": " \n \n \nVragenhalfuurtje  Boom versus bever       V2 \n \n \nWe hebben het er al eens vaker over gehad in de raad namelijk: De Bever.   \nDeze beschermde diersoort zwemt rond in de Dommel. Nu hebben wij gezien dat de bever \nzich als een vis in het water voelt in de wijk Mariënhage waar hij zich uitleeft op inmiddels al \neen tiental bomen. Deze bomen zijn of al omgevallen of volledig kapot gekn aagd.  \n \nDat brengt ons bij de volgende vragen:  \n1. Is de wethouder op de hoogte dat de bever in deze wijk terrein wint?  \n2. Hoe verhoudt zich de status van beschermde diersoort tot meer vergroening en behoud \nvan groen in de stad?  \n3. Deelt de wethouder onze zorgen over de toegankelijkheid en veiligheid van de \nwandelpaden in het gebied?  \n4. Welke maatregelen kunnen er worden getroffen waarbij overlast wordt beperkt en de \nbever gewoon kan blijven beveren ? \n \nNamens de VVD fractie,  \n \nMarieke van Gastel  \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 905259,
+            "weight": 0.5863109940890322
+        },
+        {
+            "id": 952404,
+            "weight": 0.5798481267509054
+        },
+        {
+            "id": 776958,
+            "weight": 0.3593834182115915
+        },
+        {
+            "id": 777029,
+            "weight": 0.23194456082762166
+        },
+        {
+            "id": 1044201,
+            "weight": 0.17756328449392952
+        },
+        {
+            "id": 13990704,
+            "weight": 0.15255523101518406
+        },
+        {
+            "id": 931203,
+            "weight": 0.14896550389159105
+        }
+    ],
+    "videostarttime": {
+        "1146938": 1500
+    },
+    "videolink": null,
+    "keywords": {
+        "Boom versus": 1.9975959998477983,
+        "Vragenhalfuurtje Boom": 0.9968735283899327,
+        "versus bever": 1.9872177224147611,
+        "raad namelijk": 0.9756604898831194,
+        "Boom": 1.9750489575558947,
+        "bever": 1.9566727349719195,
+        "beschermde diersoort": 0.8944506142869008,
+        "wijk Mariënhage": 0.8716688946556777,
+        "Vraag": 1.8676797687887998,
+        "VVD": 1.8613124263476555,
+        "vaker": 0.838218434869636,
+        "Dommel": 0.8199471178290009,
+        "diersoort zwemt": 0.7987307143556717,
+        "bomen": 0.7983768746214971,
+        "VVD fractie": 0.7941174173365843,
+        "beschermde": 0.7912516384457123,
+        "wijk": 0.7786820939061041,
+        "wethouder": 0.7631593085416924,
+        "tiental bomen": 0.751189265251301,
+        "water voelt": 0.6770377553219921,
+        "Deelt": 0.640735539143834,
+        "wijk terrein": 0.6380602412114253,
+        "Namens": 0.6297334627758262,
+        "Marieke": 0.6297334627758262,
+        "Gastel": 0.6297334627758262,
+        "gekn aagd": 0.6085946703522818,
+        "zwemt": 0.598686230572211,
+        "volledig kapot": 0.5779098216640071,
+        "kapot gekn": 0.5779098216640071,
+        "volgende vragen": 0.5355669520071868,
+        "gezien": 0.5059144504694557,
+        "vis": 0.5059144504694557,
+        "uitleeft": 0.5059144504694557
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194242,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1146938
+    ]
+}

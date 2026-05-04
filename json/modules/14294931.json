@@ -1,0 +1,163 @@
+{
+    "module_id": 14294931,
+    "vote_id": null,
+    "member_id": [
+        194406
+    ],
+    "party_list": [
+        "GroenLinks"
+    ],
+    "poho_id": [],
+    "title": "Rondvraag 2 - Step into the Arena (GroenLinks)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "18-06-2024",
+    "meeting_url": {
+        "1147967": "https://raadsinformatie.eindhoven.nl/vergadering/1147966/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://api.notubiz.nl/document/14294931/1",
+    "pdf_text": " \n \n \nRondvraag - Step in the Arena    \ndatum: 18 -06-2024  \n \n \nGeacht college,  \n \nStep in the Arena is een belangrijke plek voor graffiti - en streetart. Via \neen zogeheten graffiti -jam kunnen kunstenaars hun werk laten zien en \nhebben ze interactie met elkaar, jong talent en het publiek. Dat deze \nscene op deze manier een podium krijgt is van grote meerwaarde voor \nde sector en de stad. Helaas hebben we moeten vernemen dat \nafgelopen weekend de laatste editie is van dit event. Een van de \nredenen hiervoor is de afwijzing van de subsidie op basis van Fair \nPractice Code. Het eerlijk betalen van werk van kunstenaars is erg \nbelangrijk. Dat vindt niet alleen GroenLinks, maar ook de sector zelf. \nMaar dit is een opgave, maar we samen naartoe moeten werken. \nDaarom de volgende vragen:  \n \n1) Soms is er sprake is van grensgevallen  (bijvoorbeeld graffiti -\njams ) voor voorwaardes van subsidieregelingen. Is het College \nbereid om een advies van Stichting Cultuur Eindhoven te vragen \nhoe met deze grensgevallen om te gaan?  \n2) Hoe wil het College in de toekomst omgaan met de situaties \nwaarbij er een spanning ontstaat tussen het organiseren van het \nevent en de Fair Practice Code?  \n \n \nNamens de fractie GroenLinks,  \n \nSep Wittenbols, Raadslid  \n \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 953038,
+            "weight": 2.2707409599895234
+        },
+        {
+            "id": "ai_7853595",
+            "weight": 2.236989769354832
+        },
+        {
+            "id": 885377,
+            "weight": 0.6333413634443303
+        },
+        {
+            "id": 1061798,
+            "weight": 0.53287552767841
+        },
+        {
+            "id": 1149012,
+            "weight": 0.4749637008260571
+        },
+        {
+            "id": 892441,
+            "weight": 0.45086029069214556
+        },
+        {
+            "id": 806370,
+            "weight": 0.4384035206127389
+        },
+        {
+            "id": 1020983,
+            "weight": 0.25515312223075814
+        },
+        {
+            "id": 949477,
+            "weight": 0.23913750532141964
+        },
+        {
+            "id": 776972,
+            "weight": 0.19183692527329427
+        },
+        {
+            "id": 955064,
+            "weight": 0.15878979715825423
+        },
+        {
+            "id": 898509,
+            "weight": 0.14335862369412464
+        },
+        {
+            "id": 861827,
+            "weight": 0.12671021376743152
+        },
+        {
+            "id": 928256,
+            "weight": 0.11399314544097808
+        },
+        {
+            "id": 14825330,
+            "weight": 0.10377354165604014
+        },
+        {
+            "id": 12634291,
+            "weight": 0.102339432869448
+        },
+        {
+            "id": 801960,
+            "weight": 0.09287990997920056
+        }
+    ],
+    "videostarttime": {
+        "1147967": 11704
+    },
+    "videolink": null,
+    "keywords": {
+        "the Arena": 1.9988082928016788,
+        "Step into": 1.993652855332732,
+        "Arena datum": 0.9932160049120322,
+        "06-2024 Geacht": 0.9897530243843857,
+        "Step": 1.9877488669902732,
+        "into the": 1.9860590945305472,
+        "Geacht college": 0.9750908038526187,
+        "Rondvraag": 1.9744047149725756,
+        "the": 1.9732930671301459,
+        "belangrijke plek": 0.9696577598054916,
+        "Practice Code": 0.9536619964300395,
+        "Fair Practice": 0.9455143838517144,
+        "Geacht": 0.9330709619544675,
+        "graffiti": 0.9280420100468838,
+        "zogeheten graffiti": 0.9007041915510507,
+        "college": 0.8789573328174,
+        "GroenLinks": 1.8670484801851022,
+        "Code": 0.8599421818665067,
+        "datum": 0.8484508305075876,
+        "06-2024": 0.8484508305075876,
+        "streetart": 0.8484508305075876,
+        "Fair": 0.8377356811847481,
+        "into": 1.8283937627995748,
+        "plek": 0.8283937627995748,
+        "jong talent": 0.8092489790404462,
+        "Sep Wittenbols": 0.8083918177787711,
+        "Stichting Cultuur": 0.798214162690524,
+        "Cultuur Eindhoven": 0.798214162690524,
+        "laten zien": 0.7877638476788534,
+        "kunstenaars": 0.7718996039356532,
+        "werk": 0.7718996039356532,
+        "sector": 0.7714926961547552,
+        "werk laten": 0.7640815431115924,
+        "event": 0.7306990321497076,
+        "vragen": 0.718866550299194,
+        "grensgevallen": 0.718866550299194,
+        "College bereid": 0.680243854617792,
+        "podium krijgt": 0.6451553092229763,
+        "grote meerwaarde": 0.6451553092229763,
+        "Raadslid": 0.625082590877377,
+        "Soms": 0.623701667915628,
+        "Via": 0.6171489498995943,
+        "elkaar": 0.6171489498995943,
+        "jong": 0.6171489498995943,
+        "Cultuur": 0.5902378877970859,
+        "zogeheten": 0.5815765019075043,
+        "laten": 0.5815765019075043,
+        "zien": 0.5815765019075043,
+        "jam": 0.56447426208973,
+        "laatste editie": 0.5376622232569837,
+        "stad": 0.5252607872977613
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194406,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1147967
+    ]
+}

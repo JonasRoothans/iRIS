@@ -1,0 +1,55 @@
+{
+    "module_id": "m_7688318",
+    "vote_id": 7688318,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Hoogwaardig ondergronds vervoer (Motie M2)",
+    "url": "https://raadsinformatie.eindhoven.nl/vergadering/1013498/Hoogwaardig%20ondergronds%20vervoer%20%28Motie%20M2%29 20-06-2023#voting_7688318",
+    "type": "Moties",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "aangenomen",
+    "date": "20-06-2023",
+    "meeting_url": {
+        "1013498": "https://raadsinformatie.eindhoven.nl/vergadering/1013498/Hoogwaardig%20ondergronds%20vervoer%20%28Motie%20M2%29 20-06-2023#voting_7688318"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 920829,
+            "weight": 3.876535566330327
+        },
+        {
+            "id": "a_9477053",
+            "weight": 0.4907080205107455
+        },
+        {
+            "id": 1113611,
+            "weight": 0.43514279164082575
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Motie": 1.9696036283675864,
+        "Hoogwaardig ondergronds": 1.9505961599793435,
+        "ondergronds vervoer": 1.9505961599793435,
+        "Hoogwaardig": 1.8416830712200127,
+        "vervoer": 1.8416830712200127
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1013498
+    ]
+}

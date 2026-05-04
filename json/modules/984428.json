@@ -1,0 +1,83 @@
+{
+    "module_id": 984428,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230013,
+    "title": "Maatschappelijke diensttijd - Raadsvoorstel Begroting 2025",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/984428",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Steenbakkers (Wethouder)",
+    "result": "",
+    "date": "29-10-2024",
+    "meeting_url": {
+        "1148141": "https://raadsinformatie.eindhoven.nl/vergadering/1148141#ai_8729567"
+    },
+    "attachment": null,
+    "parent": 975511,
+    "children": [],
+    "text": "Wethouder Steenbakkers zegt toe om de raad te informeren over het al dan niet doorgaan van een traject voor 3 jaar",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1009578,
+            "weight": 1.700388272581093
+        },
+        {
+            "id": 1038178,
+            "weight": 0.7646451445300297
+        },
+        {
+            "id": 1061195,
+            "weight": 0.5869404674990268
+        },
+        {
+            "id": 1096061,
+            "weight": 0.23861934246929112
+        },
+        {
+            "id": 822562,
+            "weight": 0.11235651685114752
+        },
+        {
+            "id": 1048915,
+            "weight": 0.09885804283975486
+        },
+        {
+            "id": 1118702,
+            "weight": 0.08331317446282503
+        },
+        {
+            "id": 12399005,
+            "weight": 0.07148086558860695
+        }
+    ],
+    "videostarttime": {
+        "1148141": null
+    },
+    "videolink": null,
+    "keywords": {
+        "Raadsvoorstel Begroting": 1.9925553183866471,
+        "Wethouder Steenbakkers": 0.9873976398760466,
+        "Maatschappelijke diensttijd": 1.9742913828560065,
+        "jaar": 0.9550880231213544,
+        "Steenbakkers zegt": 0.955011371234592,
+        "Begroting": 1.9140368224837343,
+        "Wethouder": 0.9140368224837344,
+        "diensttijd": 1.8416830712200127,
+        "zegt": 0.7026344174397849,
+        "raad": 0.7026344174397849,
+        "informeren": 0.7026344174397849,
+        "doorgaan": 0.7026344174397849,
+        "traject": 0.7026344174397849
+    },
+    "svz": "Inmiddels is duidelijk dat de MDT rijksfinanciering doorgaat.  De raad is op 15 januari 2024 met een coll...  Lees verder ",
+    "afgedaan": "18-02-2025",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

@@ -1,0 +1,158 @@
+{
+    "module_id": 893801,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230022,
+    "title": "Boys get sad too (Amendement BA07)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/893801",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Toub (Wethouder)",
+    "result": "",
+    "date": "07-11-2023",
+    "meeting_url": {
+        "1013523": "https://raadsinformatie.eindhoven.nl/vergadering/1013523#ai_7878840"
+    },
+    "attachment": null,
+    "parent": 879979,
+    "children": [],
+    "text": "Wethouder Toub zegt toe in lopende campagnes mee te nemen:\nde mentale gezondheid van mannen, waarbij aandacht komt voor het bespreekbaar maken van emoties, het doorbreken van taboes en ingezet wordt op het zoeken van hulp voor deze groep.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 999545,
+            "weight": 1.918286694924511
+        },
+        {
+            "id": 1141030,
+            "weight": 0.5716023925269408
+        },
+        {
+            "id": 777034,
+            "weight": 0.22972829889202914
+        },
+        {
+            "id": 15915729,
+            "weight": 0.21665276896241
+        },
+        {
+            "id": 12634291,
+            "weight": 0.19743855449831274
+        },
+        {
+            "id": 844066,
+            "weight": 0.1893745462375566
+        },
+        {
+            "id": 1146313,
+            "weight": 0.15757869399136884
+        },
+        {
+            "id": 1061422,
+            "weight": 0.12431618941027318
+        },
+        {
+            "id": 1010856,
+            "weight": 0.12127801504439098
+        },
+        {
+            "id": 940753,
+            "weight": 0.11605099757652997
+        },
+        {
+            "id": 14540705,
+            "weight": 0.10924074673231023
+        },
+        {
+            "id": 1125026,
+            "weight": 0.09884069340062726
+        },
+        {
+            "id": 855715,
+            "weight": 0.09825451879594214
+        },
+        {
+            "id": 15941802,
+            "weight": 0.09575779377521725
+        },
+        {
+            "id": 833997,
+            "weight": 0.09349068287226492
+        },
+        {
+            "id": 836712,
+            "weight": 0.09265393442204388
+        },
+        {
+            "id": 831047,
+            "weight": 0.08972196051830009
+        },
+        {
+            "id": 870858,
+            "weight": 0.08614782303613333
+        },
+        {
+            "id": 1031705,
+            "weight": 0.0739426510636453
+        },
+        {
+            "id": 1041867,
+            "weight": 0.07356572494848597
+        },
+        {
+            "id": 891910,
+            "weight": 0.07330321245875404
+        },
+        {
+            "id": 974483,
+            "weight": 0.05089250562955664
+        }
+    ],
+    "videostarttime": {
+        "1013523": 16653
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_07.11.23_Eindhoven_Begrotingsraad.mp4/playlist.m3u8",
+    "keywords": {
+        "Wethouder Toub": 0.9975275851982516,
+        "Toub zegt": 0.9945151091550534,
+        "Boys get": 1.9934079021435682,
+        "sad too": 1.9934079021435682,
+        "waarbij aandacht": 0.9934079021435682,
+        "get sad": 1.990760667672852,
+        "lopende campagnes": 0.9907606676728519,
+        "campagnes mee": 0.9907606676728519,
+        "mentale gezondheid": 0.9907606676728519,
+        "aandacht komt": 0.9907606676728519,
+        "bespreekbaar maken": 0.9907606676728519,
+        "Amendement": 1.9696036283675864,
+        "Toub": 0.9429876123096684,
+        "Boys": 1.931554181938611,
+        "too": 1.931554181938611,
+        "nemen": 0.9315541819386112,
+        "mannen": 0.9315541819386112,
+        "waarbij": 0.9315541819386112,
+        "emoties": 0.9315541819386112,
+        "groep": 0.9315541819386112,
+        "get": 1.9043195497355658,
+        "sad": 1.9043195497355658,
+        "zegt": 0.9043195497355658,
+        "lopende": 0.9043195497355658,
+        "mee": 0.9043195497355658,
+        "mentale": 0.9043195497355658,
+        "komt": 0.9043195497355658,
+        "doorbreken": 0.9043195497355658,
+        "taboes": 0.9043195497355658,
+        "ingezet": 0.9043195497355658,
+        "zoeken": 0.9043195497355658,
+        "hulp": 0.9043195497355658
+    },
+    "svz": null,
+    "afgedaan": "04-06-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

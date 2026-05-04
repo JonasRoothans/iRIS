@@ -1,0 +1,150 @@
+{
+    "module_id": 15039359,
+    "vote_id": null,
+    "member_id": [
+        194385
+    ],
+    "party_list": [
+        "VVD"
+    ],
+    "poho_id": [],
+    "title": "Vraag V4 Vragenhalfuur - We weten geen raad met het burgerberaad (VVD)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "14-01-2025",
+    "meeting_url": {
+        "1256299": "https://raadsinformatie.eindhoven.nl/vergadering/1256299/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/15039359/1/Vraag+V4+Vragenhalfuur+-+We+weten+geen+raad+met+het+burgerberaad+%28VVD%29?connection_type=1&connection_id=8588036",
+    "pdf_text": " \n \n \nVragenhalfuur  “We weten geen raad met het b urgerberaad ”   V4 \n \nDe VVD ziet het burgerberaad als een middel, niet als een doel op zich. Uit de \nbeantwoording  van eerdere raadsvragen van de VVD, “Burgerberaad Thema \ngezocht, inwonersstem gemist” van 9 december,  blijkt dat het proces om tot een \n“mogelijke” geschikte vraagstelling te komen is afgerond en dat dit pas eind Q1 \n2025 naar de raad komt.  \nDit roept niet alleen onzekerheden op over het thema, maar ook over de \nhaalbaarheid van een burgerberaad binnen deze bestuursperiode. Wij willen \nhelderheid over de voortgang en de planning. Daarom hebben wij de volgende \nvragen:  \n \n1. Denkt het college dat het nog haalbaar is om een burgerberaad te \norganiseren én te evalueren in deze bestuursperiode? Zo ja, op welke \nwijze?  \n2. In de beantwoording zegt het college dat een burgerberaad zonder \nbreed gedragen thema ongewenst is. Is het college bereid te stoppen \nmet dit proces als er geen passend thema gevonden wordt, in plaats \nvan koste wat het kost door te gaan ? \n \n \nDe VVD -fractie,  \nDanielle Stijntjes, raadslid  \n \n \n \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 996251,
+            "weight": 2.0804258667224205
+        },
+        {
+            "id": 795268,
+            "weight": 0.2257951442545568
+        },
+        {
+            "id": 12506007,
+            "weight": 0.20880625042414425
+        },
+        {
+            "id": 910507,
+            "weight": 0.20009894439879514
+        },
+        {
+            "id": 1137874,
+            "weight": 0.12052256092095193
+        },
+        {
+            "id": 15561384,
+            "weight": 0.11751890735422744
+        },
+        {
+            "id": 15534430,
+            "weight": 0.11675172330761445
+        },
+        {
+            "id": 1131248,
+            "weight": 0.11116241502118657
+        },
+        {
+            "id": 826277,
+            "weight": 0.11023324887983461
+        },
+        {
+            "id": 826276,
+            "weight": 0.11006339107669887
+        },
+        {
+            "id": 993565,
+            "weight": 0.10954934699106256
+        },
+        {
+            "id": 1060436,
+            "weight": 0.09783401461331011
+        },
+        {
+            "id": 891735,
+            "weight": 0.09611174676139726
+        },
+        {
+            "id": 955541,
+            "weight": 0.09607443579321447
+        },
+        {
+            "id": 1020983,
+            "weight": 0.08993089518649997
+        },
+        {
+            "id": 1112886,
+            "weight": 0.08897436695509824
+        },
+        {
+            "id": 1054527,
+            "weight": 0.08860173992360247
+        },
+        {
+            "id": 775144,
+            "weight": 0.08357585621675907
+        }
+    ],
+    "videostarttime": {
+        "1256299": 1475
+    },
+    "videolink": null,
+    "keywords": {
+        "Vragenhalfuur": 1.9793683206961954,
+        "VVD ziet": 0.9717192995245338,
+        "VVD": 1.964818973356929,
+        "burgerberaad": 1.9512147686193757,
+        "weten": 1.9405679050591935,
+        "raad": 1.9265005104606912,
+        "raad komt": 0.8993218657944636,
+        "Thema": 0.8919990843676835,
+        "college": 0.8475578185021871,
+        "middel": 0.8304858970441731,
+        "Danielle Stijntjes": 0.8209737080539918,
+        "ziet": 0.8045615645370621,
+        "doel": 0.8045615645370621,
+        "bestuursperiode": 0.797567634939542,
+        "inwonersstem gemist": 0.792149156814847,
+        "Thema gezocht": 0.78166498107822,
+        "geschikte vraagstelling": 0.7656985027281654,
+        "beantwoording": 0.7488791813998804,
+        "eerdere raadsvragen": 0.735143690083434,
+        "proces": 0.7240692880259914,
+        "december": 0.630568758130055,
+        "mogelijke": 0.630568758130055,
+        "Danielle": 0.6103302765239929,
+        "Stijntjes": 0.6103302765239929,
+        "gemist": 0.5851708735968628,
+        "blijkt": 0.5851708735968628,
+        "geschikte": 0.5851708735968628,
+        "eind": 0.5851708735968628,
+        "komt": 0.5851708735968628,
+        "gedragen thema": 0.5814757546887919,
+        "passend thema": 0.5725611164439961,
+        "eerdere": 0.542401527392997,
+        "afgerond": 0.542401527392997,
+        "college bereid": 0.5358770668499083
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194385,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1256299
+    ]
+}

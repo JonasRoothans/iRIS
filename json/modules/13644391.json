@@ -1,0 +1,87 @@
+{
+    "module_id": 13644391,
+    "vote_id": null,
+    "member_id": [
+        90571
+    ],
+    "party_list": [
+        "CDA"
+    ],
+    "poho_id": [],
+    "title": "Vraag V4 Vragenhalfuur - Meer inzamelplekken voor de kerstboom (CDA)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "19-12-2023",
+    "meeting_url": {
+        "1013531": "https://raadsinformatie.eindhoven.nl/vergadering/1013531/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/13644391/1/Vraag+V4+Vragenhalfuur+-+Meer+inzamelplekken+voor+de+kerstboom+%28CDA%29?connection_type=1&connection_id=6965235",
+    "pdf_text": " \n \n \nVragenhalfuur  Meer inzamelplekken voor de kerstboom     V4 \n \ndatum: 19 december 2023  \nGeacht  college , \n \nInleiding  \nElk jaar hebben inwoners de mogelijkheid om hun ‘echte’ kerstboom in te leveren bij een van \nde inzamelplekken. Daar wordt goed gebruik van gemaakt. Helaas is er niet in elke buurt een \ninzamelplek en geven bewonersverenigingen aan dat in sommige wijken  ook meer \ninzamelplekken nodig te zijn, omdat de afstanden te ver zijn voor maar één inzamelplek.    \n \nOm lang gesleep te voorkomen en bewoners te stimuleren om hun kerstboom netjes weg te \nbrengen, vindt het CDA Eindhoven dat bewoners dit dichtbij huis moeten kunnen doen.  \n \nDaarom hebben wij de volgende vraag:  \n \nRaadsvragen  \n1. Bent u bereid om voor 2024 het aantal inzamelplekken te verhogen en in elke buurt \nte kijken wat de geschikte locatie(s) hiervoor is/zijn?  \n \n \nNamens de fractie CDA  Eindhoven , \n \nRemco van Dooren , raadslid  ",
+    "bst": null,
+    "related": [
+        {
+            "id": "a_7006136",
+            "weight": 0.3500365796485223
+        },
+        {
+            "id": 16400316,
+            "weight": 0.12222454692698906
+        },
+        {
+            "id": 15743954,
+            "weight": 0.1181835640129394
+        },
+        {
+            "id": 15429507,
+            "weight": 0.10798113124640146
+        }
+    ],
+    "videostarttime": {
+        "1013531": 1768
+    },
+    "videolink": null,
+    "keywords": {
+        "Geacht college": 0.9898404167087832,
+        "Vragenhalfuur": 1.97322781865385,
+        "CDA Eindhoven": 0.9561565907997703,
+        "Geacht": 0.9365494233508815,
+        "Inleiding": 0.9365494233508815,
+        "echte’ kerstboom": 0.934059428685243,
+        "inzamelplekken": 1.9279656859851029,
+        "CDA": 1.9145338227353035,
+        "datum": 0.8704495978714064,
+        "december": 0.8704495978714064,
+        "college": 0.8414923112423045,
+        "echte’": 0.8414923112423045,
+        "Vraag": 1.814791367714254,
+        "jaar": 0.811326528949702,
+        "inwoners": 0.811326528949702,
+        "mogelijkheid": 0.811326528949702,
+        "leveren": 0.811326528949702,
+        "fractie CDA": 0.7960803534579746,
+        "buurt": 0.7580214050898024,
+        "goed gebruik": 0.75057975678702,
+        "Raadsvragen": 0.7102546358903487,
+        "volgende vraag": 0.7005683390331894,
+        "kerstboom netjes": 0.7005219649367559,
+        "Remco": 0.6381326492153894,
+        "Dooren": 0.6381326492153894,
+        "goed": 0.5532016299447013,
+        "Helaas": 0.5119979498074887
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 90571,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1013531
+    ]
+}

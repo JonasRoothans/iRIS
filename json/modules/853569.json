@@ -1,0 +1,126 @@
+{
+    "module_id": 853569,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230022,
+    "title": "Aanbestedingstraject - Initiatiefvoorstel Blijf van mijn Dier",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/853569",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Toub (Wethouder)",
+    "result": "",
+    "date": "06-06-2023",
+    "meeting_url": {
+        "1102753": "https://raadsinformatie.eindhoven.nl/vergadering/1102753#ai_7611996"
+    },
+    "attachment": null,
+    "parent": 845128,
+    "children": [],
+    "text": "Wethouder Thijs zegt toe: en tevens te onderzoeken hoe het aanbestedingstraject zou kunnen verlopen.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 850988,
+            "weight": 3.208468454466578
+        },
+        {
+            "id": 853568,
+            "weight": 1.3932796894443866
+        },
+        {
+            "id": 845128,
+            "weight": 1.2316321120361953
+        },
+        {
+            "id": 16034520,
+            "weight": 0.7535539867450111
+        },
+        {
+            "id": 958585,
+            "weight": 0.4947408105094655
+        },
+        {
+            "id": 831310,
+            "weight": 0.47212541569024863
+        },
+        {
+            "id": 1048903,
+            "weight": 0.4176938026972934
+        },
+        {
+            "id": 825108,
+            "weight": 0.20737039867589827
+        },
+        {
+            "id": 14454748,
+            "weight": 0.19591064839356606
+        },
+        {
+            "id": 850152,
+            "weight": 0.13108132846104428
+        },
+        {
+            "id": 1084768,
+            "weight": 0.07271858849126236
+        },
+        {
+            "id": 900829,
+            "weight": 0.07143565769570089
+        },
+        {
+            "id": 1051513,
+            "weight": 0.07117237515703682
+        },
+        {
+            "id": 822933,
+            "weight": 0.06977042953065589
+        },
+        {
+            "id": 1133030,
+            "weight": 0.06194572869722712
+        },
+        {
+            "id": 1123605,
+            "weight": 0.06172104323761095
+        },
+        {
+            "id": 1082448,
+            "weight": 0.05803454824210633
+        },
+        {
+            "id": 850376,
+            "weight": 0.04943862888045397
+        },
+        {
+            "id": 1052727,
+            "weight": 0.04861095319849517
+        }
+    ],
+    "videostarttime": {
+        "1102753": 8465
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_06.06.23_NC_Eindhoven_CIE.mp4/playlist.m3u8",
+    "keywords": {
+        "Initiatiefvoorstel Blijf": 1.994286972318783,
+        "Dier Wethouder": 0.9914698139112911,
+        "Wethouder Thijs": 0.9914698139112911,
+        "Thijs zegt": 0.9831714816366539,
+        "Blijf": 1.9080324108434377,
+        "Dier": 1.9080324108434377,
+        "Thijs": 0.9080324108434377,
+        "verlopen": 0.8901249569566948,
+        "Aanbestedingstraject": 1.8707740513886073,
+        "zegt": 0.8200452308193469,
+        "tevens": 0.8200452308193469,
+        "onderzoeken": 0.8200452308193469
+    },
+    "svz": "Beslispunt 1 is afgerond: opdracht is verstrekt. Taakuitvoering is gestart per 1 maart 2024.\nBeslispunt 2 van ...  Lees verder ",
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

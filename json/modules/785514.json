@@ -1,0 +1,75 @@
+{
+    "module_id": 785514,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": null,
+    "title": "24-uurs vergunningen - Burgerinitiatief Sluitingstijden binnenstad",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/785514",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Esselbrugge (Wethouder)",
+    "result": "",
+    "date": "04-10-2022",
+    "meeting_url": {
+        "1018987": "https://raadsinformatie.eindhoven.nl/vergadering/1018987#ai_7011862"
+    },
+    "attachment": null,
+    "parent": 778921,
+    "children": [],
+    "text": "In het eerste kwartaal van 2023 de evaluatie van de pilot 24-uurs vergunningen te komen.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 785515,
+            "weight": 2.7732854329581498
+        },
+        {
+            "id": 785513,
+            "weight": 2.7611866307673094
+        },
+        {
+            "id": 803411,
+            "weight": 1.4631012575632036
+        },
+        {
+            "id": 888194,
+            "weight": 0.482913107685628
+        },
+        {
+            "id": 778921,
+            "weight": 0.4772809515371299
+        },
+        {
+            "id": 920652,
+            "weight": 0.2052917321569144
+        },
+        {
+            "id": 775301,
+            "weight": 0.19822047711227822
+        }
+    ],
+    "videostarttime": {
+        "1018987": 720
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_01-EINDHOVEN-RAA-ONDERTITEL_2022.10.04_172616.mp4/playlist.m3u8",
+    "keywords": {
+        "Burgerinitiatief Sluitingstijden": 1.994001496346852,
+        "Sluitingstijden binnenstad": 1.982007809517258,
+        "Burgerinitiatief": 1.936580012774709,
+        "vergunningen": 1.9283770171336205,
+        "pilot": 0.8847834394570057,
+        "komen": 0.8847834394570057,
+        "binnenstad": 1.8120163182304414,
+        "kwartaal": 0.8120163182304413,
+        "evaluatie": 0.8120163182304413
+    },
+    "svz": "Raad is op 20-12-22 geïnformeerd met een collegebrief.\nVOORSTEL COLLEGE: AFVOEREN...  Lees verder ",
+    "afgedaan": "17-01-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

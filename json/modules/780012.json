@@ -1,0 +1,117 @@
+{
+    "module_id": 780012,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Burgemeestersbrief Overdrachtsdocument burgemeester Jorritsma",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/8/Raadsinformatiebrieven/780012",
+    "type": "Burgemeesterbrief",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "12-09-2022",
+    "meeting_url": null,
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/11820889/3/22bst01154+Burgemeestersbrief+over+Overdrachtsdocument+burgemeester+Jorritsma?connection_type=17&connection_id=8628256",
+    "pdf_text": " \n J.A. Jorritsma  \n Burgemeester  \n \nBezoekadres Stadhuisplein 10  \n5611 EM  Eindhoven  \nwww.eindhoven.nl   Postadres Postbus 90150  \n5600 RB  Eindhoven  \ngemeente@eindhoven.nl  \nTelefoon  14 040   \n \n  Retouradres Postbus 90150 , 5600 RB  Eindhoven   gemeente Eindhoven  \nInboeknummer:      22bst01154  \nDossiernummer:     22.35.104   \nB&W beslisdatum:  30 augustus  2022  \n \n \n  Gemeenteraad  Eindhoven  \n \n   \n  \n    \n \nBetreft: Overdrachtsdocument burgemeester Jorritsma  \n \n \nGeachte heer, mevrouw , \n \nMorgen wordt Jeroen Dijsselbloem geïnstalleerd als nieuwe burgemeester van \nEindhoven. Ik heb voor hem een uitgebreid overdrachtsdocument gemaakt . In dit \ndocument benoem ik de belangrijkste zaken die aandacht van mijn opvolger zullen \nvragen . Op mijn laatste  werkdag wil ik dit document graag met uw raad delen.  \n \nMet vriendelijke groet,  \n \n \n \n \nJ.A. Jorritsma  \nBurgemeester  \n \n ",
+    "bst": "22bst01154",
+    "related": [
+        {
+            "id": 1145339,
+            "weight": 1.8279909855794878
+        },
+        {
+            "id": 776846,
+            "weight": 0.7309282685955263
+        },
+        {
+            "id": 888405,
+            "weight": 0.6390544686525916
+        },
+        {
+            "id": 910114,
+            "weight": 0.5765915950819434
+        },
+        {
+            "id": 775117,
+            "weight": 0.39250842757809934
+        },
+        {
+            "id": 804089,
+            "weight": 0.3791126304692848
+        },
+        {
+            "id": 854650,
+            "weight": 0.26746152873478674
+        },
+        {
+            "id": 1054527,
+            "weight": 0.134082105965687
+        },
+        {
+            "id": 1020447,
+            "weight": 0.1336927362370734
+        },
+        {
+            "id": 831037,
+            "weight": 0.13342072872642527
+        },
+        {
+            "id": 776916,
+            "weight": 0.13066862176621338
+        },
+        {
+            "id": 777027,
+            "weight": 0.13045576058715486
+        },
+        {
+            "id": 1045924,
+            "weight": 0.1180495568177299
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "burgemeester Jorritsma": 1.9701095538617048,
+        "Jorritsma Burgemeester": 0.9701095538617049,
+        "Postadres Postbus": 0.9625945441640047,
+        "Eindhoven": 0.961847452304865,
+        "Burgemeestersbrief Overdrachtsdocument": 1.958735767452414,
+        "Bezoekadres Stadhuisplein": 0.9523180655373533,
+        "Eindhoven Inboeknummer": 0.9522943399641364,
+        "Gemeenteraad Eindhoven": 0.9522943399641364,
+        "Jeroen Dijsselbloem": 0.9447553357856331,
+        "Jorritsma": 1.9443261938263479,
+        "Overdrachtsdocument": 1.922412421619156,
+        "Postbus": 0.9093640265063594,
+        "Geachte heer": 0.8947742120158992,
+        "Dijsselbloem geïnstalleerd": 0.8760225383454224,
+        "Telefoon": 0.8325377695047864,
+        "Dossiernummer": 0.8325377695047864,
+        "Retouradres": 0.8010903631460354,
+        "Betreft": 0.8010903631460354,
+        "Morgen": 0.8010903631460354,
+        "Jeroen": 0.7711933794446255,
+        "document": 1.7472834596624822,
+        "augustus": 0.6563535571559997,
+        "mevrouw": 0.6563535571559997,
+        "raad delen": 0.5851976831139695,
+        "beslisdatum": 0.5838953296712314,
+        "heer": 0.5838953296712314,
+        "gemeente": 0.5179228455208649,
+        "geïnstalleerd": 0.5179228455208649,
+        "nieuwe": 0.5179228455208649,
+        "belangrijkste zaken": 0.5046044276986977,
+        "laatste werkdag": 0.5046044276986977
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": null,
+    "meeting_id": []
+}

@@ -1,0 +1,95 @@
+{
+    "module_id": 837704,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Kosten-batenanalyse - Raadsvoorstel Ontwikkelkader Evoluon",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/837704",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "18-04-2023",
+    "meeting_url": {
+        "1013485": "https://raadsinformatie.eindhoven.nl/vergadering/1013485"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": "Wethouder Verhees zegt toe met een nadere toelichting te komen over de kosten-batenanalyse over de voetgangersbrug en de parkring, indien deze informatie beschikbaar is.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 826122,
+            "weight": 1.1886368355084238
+        },
+        {
+            "id": 1132658,
+            "weight": 0.2836880802946195
+        },
+        {
+            "id": 884474,
+            "weight": 0.26984326413671117
+        },
+        {
+            "id": "a_7584360",
+            "weight": 0.24519172019376648
+        },
+        {
+            "id": "a_7586976",
+            "weight": 0.24412268971333645
+        },
+        {
+            "id": "a_7586690",
+            "weight": 0.24200562577040957
+        },
+        {
+            "id": 844060,
+            "weight": 0.2408359071525228
+        },
+        {
+            "id": 1097868,
+            "weight": 0.23570133216176814
+        },
+        {
+            "id": "a_7584361",
+            "weight": 0.22319769150993402
+        },
+        {
+            "id": 826478,
+            "weight": 0.20337214455798974
+        }
+    ],
+    "videostarttime": {
+        "1013485": null
+    },
+    "videolink": null,
+    "keywords": {
+        "Raadsvoorstel Ontwikkelkader": 1.9963382832242549,
+        "Ontwikkelkader Evoluon": 1.99493589928251,
+        "Evoluon Wethouder": 0.9949358992825099,
+        "Wethouder Verhees": 0.9949358992825099,
+        "Verhees zegt": 0.9907055857825467,
+        "nadere toelichting": 0.9828812762754603,
+        "informatie beschikbaar": 0.9828812762754603,
+        "Raadsvoorstel": 1.9486023687798357,
+        "Evoluon": 1.9290170103721622,
+        "Kosten-batenanalyse": 1.915140197013009,
+        "parkring": 0.9129032426367572,
+        "zegt": 0.8702671774635906,
+        "nadere": 0.8702671774635906,
+        "komen": 0.8702671774635906,
+        "voetgangersbrug": 0.8702671774635906,
+        "informatie": 0.8702671774635906,
+        "beschikbaar": 0.8702671774635906
+    },
+    "svz": null,
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

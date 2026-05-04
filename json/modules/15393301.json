@@ -1,0 +1,159 @@
+{
+    "module_id": 15393301,
+    "vote_id": null,
+    "member_id": [
+        209254
+    ],
+    "party_list": [
+        "D66"
+    ],
+    "poho_id": [],
+    "title": "Rondvraag 3 - Brand in het Philips de Jonghpark (D66)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "08-04-2025",
+    "meeting_url": {
+        "1256350": "https://raadsinformatie.eindhoven.nl/vergadering/1256347/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://api.notubiz.nl/document/15393301/1",
+    "pdf_text": " \n \nRondvraag brand in het Philips de Jongh  park   \n \nAfgelopen weekend lazen we over de brand in het Philips de Jongh  park. In het artikel \nvan het ED staat dat er 900 vierkante meter bos is afgebrand.  Dit is natuurlijk een enorm  \nverlies voor zowel natuur als stad . D66 vindt de groene plekken in onze stad waar \ninwoners kunnen recreëren super belangrijk. Daarom hebben we de volgende vragen \nvoor het college:  \n \n1. Is de oorzaak van de brand  in het Philips de Jongh  park al bekend?  \n2. Is er een inschatting hoeveel bomen, groen en biodiversiteit er verloren is \ngegaan?  \n3. Gaat het college het groen compenseren of herstellen?  \n4. Zo ja, is er al een schatting gemaakt van de kosten en hoe wordt dit gedekt?  \n5. Ondernemen we actie om natuurbranden in deze droge periode te voorkomen?  \n \nNamens de fractie van D66 Eindhoven,  \nMirko Bolsenbroek  \n \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 1037336,
+            "weight": 2.331564102453782
+        },
+        {
+            "id": 1010930,
+            "weight": 0.26825753979017725
+        },
+        {
+            "id": 1046636,
+            "weight": 0.25545850474857534
+        },
+        {
+            "id": 1042883,
+            "weight": 0.2515500281596214
+        },
+        {
+            "id": 1076122,
+            "weight": 0.24912503772590266
+        },
+        {
+            "id": 1053124,
+            "weight": 0.24508532174773595
+        },
+        {
+            "id": 949477,
+            "weight": 0.17476289852679375
+        },
+        {
+            "id": 1078521,
+            "weight": 0.1642638462452646
+        },
+        {
+            "id": 1036311,
+            "weight": 0.14625646807243867
+        },
+        {
+            "id": 949479,
+            "weight": 0.07632859186641462
+        },
+        {
+            "id": 1134425,
+            "weight": 0.0745106262749322
+        },
+        {
+            "id": 1036407,
+            "weight": 0.07361642474686282
+        },
+        {
+            "id": 974126,
+            "weight": 0.062411604880205175
+        },
+        {
+            "id": 845621,
+            "weight": 0.05525680474296644
+        },
+        {
+            "id": 845831,
+            "weight": 0.053336631597256975
+        },
+        {
+            "id": 837280,
+            "weight": 0.05177231916215223
+        },
+        {
+            "id": 970349,
+            "weight": 0.048186073829472036
+        },
+        {
+            "id": 776929,
+            "weight": 0.045665564312578566
+        },
+        {
+            "id": 1103932,
+            "weight": 0.04366820922390352
+        },
+        {
+            "id": "a_7037805",
+            "weight": 0.042929846792471374
+        },
+        {
+            "id": "a_7038460",
+            "weight": 0.042925942896089066
+        },
+        {
+            "id": 771653,
+            "weight": 0.042274293880418326
+        }
+    ],
+    "videostarttime": {
+        "1256350": 8907
+    },
+    "videolink": null,
+    "keywords": {
+        "Rondvraag brand": 0.9839373250255314,
+        "Jongh park": 0.9803766787799816,
+        "weekend lazen": 0.9671317855408614,
+        "Philips": 1.965849094095355,
+        "Jongh": 1.9455514645217855,
+        "Brand": 1.941649783672037,
+        "park": 1.8865453171025384,
+        "lazen": 0.8216120150897835,
+        "Mirko Bolsenbroek": 0.8208563025435468,
+        "vierkante meter": 0.7978352985924203,
+        "stad": 0.778206756466184,
+        "meter bos": 0.7732894545283968,
+        "college": 0.7580155388305752,
+        "groen": 0.7304944195407822,
+        "super belangrijk": 0.6611106632379369,
+        "Gaat": 0.644161408299345,
+        "Eindhoven": 0.638110505982133,
+        "enorm verlies": 0.6224923551026347,
+        "zowel natuur": 0.6224923551026347,
+        "groene plekken": 0.6224923551026347,
+        "recreëren super": 0.6224923551026347,
+        "Ondernemen": 0.619680259421765,
+        "Mirko": 0.6102219309372665,
+        "artikel": 0.5701026068906421,
+        "bos": 0.5701026068906421,
+        "vindt": 0.5164990246142374,
+        "volgende vragen": 0.5091121374436456
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 209254,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1256350
+    ]
+}

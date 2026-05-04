@@ -1,0 +1,93 @@
+{
+    "module_id": 13478967,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "2. Rondvraag - Betaalautomaten parkeren (CDA)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "14-11-2023",
+    "meeting_url": {
+        "1044929": "https://raadsinformatie.eindhoven.nl/vergadering/1013524/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://api.notubiz.nl/document/13478967/1",
+    "pdf_text": " \n \n \n \nRondvraag betaalautomaten parkeren  \n \nDat er veel klachten zijn over het parkeerbeleid in Eindhoven, horen we \nveel. Veel onterechte boetes, en vooral veel onduidelijkheid. Mensen \nwillen graag weten waar ze aan toe zijn. En mochten ze een boete \nontvangen, dan willen mensen graag kunnen aantonen dat ze terecht \nbetaald hebben. Over dit betaalbewijs gaat onze vraag.  \n \nAls mensen een kwitantie vragen bij de parkeerpaal, ontbreken daar de \ncruciale gegevens op. Deze gegevens zijn: het kenteken van de auto en \nde eindtijd van het parkeren.  Mensen  willen een bevestiging van wat ze \naangegeven hebben bij het betalen: klopt alles?  En als mensen een \nonterechte boete ontvangen, beschikken ze niet over een goed \nbewijsmiddel.  \n1. Kunnen deze gegevens zo snel mogelijk toegevoegd worden op \nde kwitanties?  \n \nMarianne Buenen  \nCommissielid CDA  \n \n \n \n \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 940710,
+            "weight": 0.29641231130576656
+        },
+        {
+            "id": 787362,
+            "weight": 0.07338699009131341
+        },
+        {
+            "id": 1007610,
+            "weight": 0.07296747211594658
+        },
+        {
+            "id": 16332004,
+            "weight": 0.07284893386038756
+        },
+        {
+            "id": 16556259,
+            "weight": 0.0688822880044292
+        },
+        {
+            "id": 862349,
+            "weight": 0.06607832668104732
+        },
+        {
+            "id": 12324230,
+            "weight": 0.06601948833840915
+        },
+        {
+            "id": 13780819,
+            "weight": 0.06190230321866083
+        },
+        {
+            "id": 12326423,
+            "weight": 0.059191839519621765
+        }
+    ],
+    "videostarttime": {
+        "1044929": 1507
+    },
+    "videolink": null,
+    "keywords": {
+        "Rondvraag betaalautomaten": 0.9141715802476587,
+        "Betaalautomaten parkeren": 1.8806088997721593,
+        "Mensen": 0.8794563321915779,
+        "Rondvraag": 1.86935094733524,
+        "CDA": 1.8190348737036883,
+        "boete ontvangen": 0.8002050326674308,
+        "willen": 0.7917537027130719,
+        "parkeren": 1.787601186007031,
+        "Eindhoven": 0.786545601042816,
+        "Commissielid CDA": 0.7812379818499016,
+        "boete": 0.7269811509485413,
+        "Mensen willen": 0.6980218892477408,
+        "onterechte": 0.6768945859426132,
+        "Buenen Commissielid": 0.673818611777379,
+        "graag": 0.6721306254137825,
+        "horen": 0.531301528345693,
+        "Buenen": 0.5040611575394155
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1044929
+    ]
+}

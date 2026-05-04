@@ -1,0 +1,66 @@
+{
+    "module_id": 966033,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230019,
+    "title": "Reflectie college accountantsverslag - Raadsvoorstel Jaarstukken 2023",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/966033",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. van Lanschot (Wethouder)",
+    "result": "",
+    "date": "26-06-2024",
+    "meeting_url": {
+        "1147977": "https://raadsinformatie.eindhoven.nl/vergadering/1147977#ai_8483500"
+    },
+    "attachment": null,
+    "parent": 946916,
+    "children": [],
+    "text": "Wethouder van Lanschot zegt toe en legt aan de auditcommissie meer toegespitst uit hoe hiermee wordt omgegaan.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 912521,
+            "weight": 0.14563451904260302
+        },
+        {
+            "id": 1015055,
+            "weight": 0.13936680600373708
+        },
+        {
+            "id": 920227,
+            "weight": 0.13901206512494824
+        },
+        {
+            "id": 850893,
+            "weight": 0.11541925350607782
+        }
+    ],
+    "videostarttime": {
+        "1147977": 762
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_26.06.24_NC_Eindhoven_Cie.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Jaarstukken": 1.9925553183866471,
+        "Lanschot zegt": 0.955011371234592,
+        "Reflectie college": 1.9505961599793435,
+        "college accountantsverslag": 1.9505961599793435,
+        "Jaarstukken": 1.9140368224837343,
+        "Wethouder": 0.9140368224837344,
+        "omgegaan": 0.8416830712200127,
+        "college": 1.702634417439785,
+        "zegt": 0.7026344174397849,
+        "auditcommissie": 0.7026344174397849,
+        "toegespitst": 0.7026344174397849,
+        "hiermee": 0.7026344174397849
+    },
+    "svz": null,
+    "afgedaan": "19-11-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

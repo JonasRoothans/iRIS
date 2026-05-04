@@ -1,0 +1,90 @@
+{
+    "module_id": 949613,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230013,
+    "title": "Internationale context - Raadsvoorstel Intentieovereenkomst vestiging van ASML op BIC Noord",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/949613",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Steenbakkers (Wethouder)",
+    "result": "",
+    "date": "04-06-2024",
+    "meeting_url": {
+        "1147940": "https://raadsinformatie.eindhoven.nl/vergadering/1147940#ai_8430554"
+    },
+    "attachment": null,
+    "parent": 937473,
+    "children": [],
+    "text": "Wethouder Steenbakkers zegt toe samen met burgemeester Dijsselbloem periodiek met de raad in gesprek te gaan over de internationale context, en de impact die dat heeft op de stad en het bedrijfsleven",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 948986,
+            "weight": 1.4914775616825913
+        },
+        {
+            "id": 948989,
+            "weight": 1.4909600175326885
+        },
+        {
+            "id": 948991,
+            "weight": 1.4880931259637038
+        },
+        {
+            "id": 948987,
+            "weight": 1.4874515815936338
+        },
+        {
+            "id": 949263,
+            "weight": 0.24517866880363476
+        },
+        {
+            "id": 949454,
+            "weight": 0.23566836236595287
+        },
+        {
+            "id": 949456,
+            "weight": 0.20608377315396106
+        }
+    ],
+    "videostarttime": {
+        "1147940": 19757
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_04.06.24_Eindhoven_meningCK.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Intentieovereenkomst": 1.9970844382533928,
+        "Internationale context": 1.9969834971421125,
+        "BIC Noord": 1.996183126707055,
+        "Noord Wethouder": 0.9961831267070548,
+        "Wethouder Steenbakkers": 0.9961831267070548,
+        "Intentieovereenkomst vestiging": 1.993199041562387,
+        "Steenbakkers zegt": 0.9931990415623871,
+        "burgemeester Dijsselbloem": 0.9931990415623871,
+        "Dijsselbloem periodiek": 0.9931990415623871,
+        "context": 1.9715990977553524,
+        "Raadsvoorstel": 1.9528554768265756,
+        "ASML": 1.9383367194679235,
+        "BIC": 1.9383367194679235,
+        "bedrijfsleven": 0.9212912104627463,
+        "vestiging": 1.8904531548802355,
+        "zegt": 0.8904531548802355,
+        "samen": 0.8904531548802355,
+        "burgemeester": 0.8904531548802355,
+        "periodiek": 0.8904531548802355,
+        "raad": 0.8904531548802355,
+        "gesprek": 0.8904531548802355,
+        "gaan": 0.8904531548802355,
+        "impact": 0.8904531548802355,
+        "stad": 0.8904531548802355
+    },
+    "svz": null,
+    "afgedaan": "10-12-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

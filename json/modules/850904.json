@@ -1,0 +1,63 @@
+{
+    "module_id": 850904,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "beïnvloeders en gebruikers - Raadsvoorstel Kaders voor samenspraak omgevingsvisie 2.0",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/850904",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "23-05-2023",
+    "meeting_url": {
+        "1096275": "https://raadsinformatie.eindhoven.nl/vergadering/1096275#ai_7535920"
+    },
+    "attachment": null,
+    "parent": 831097,
+    "children": [],
+    "text": "Wethouder Verhees zegt toe de raad nog te informeren over het verschil tussen de groepen beïnvloeders en gebruikers.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 849507,
+            "weight": 1.9308046780618384
+        },
+        {
+            "id": 819546,
+            "weight": 0.983126767185191
+        },
+        {
+            "id": 900825,
+            "weight": 0.4062618685569243
+        }
+    ],
+    "videostarttime": {
+        "1096275": 730
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_23-05-23_NC_EINDHOVEN-Cie menings.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Kaders": 1.9941166189494695,
+        "Wethouder Verhees": 0.9941166189494695,
+        "Verhees zegt": 0.9824814136594371,
+        "samenspraak omgevingsvisie": 1.9786707989659047,
+        "groepen beïnvloeders": 0.9612146289212491,
+        "gebruikers": 1.9582141219340863,
+        "Kaders": 1.9068005435230697,
+        "samenspraak": 1.8152674916050842,
+        "zegt": 0.815267491605084,
+        "raad": 0.815267491605084,
+        "informeren": 0.815267491605084,
+        "verschil": 0.815267491605084,
+        "groepen": 0.815267491605084
+    },
+    "svz": null,
+    "afgedaan": "12-09-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

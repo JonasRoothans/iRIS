@@ -1,0 +1,143 @@
+{
+    "module_id": 11765915,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Toezegging wethouder Richters bij rondvraag wachttijden in de zorg",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "26-08-2022",
+    "meeting_url": {
+        "1013383": "https://raadsinformatie.eindhoven.nl/vergadering/1013382/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://api.notubiz.nl/document/11765915/1",
+    "pdf_text": " \n \n \n    \n \nToezegging   gedaan door wethouder  Richters  in de meningsvormende \nvergadering van  7 juni 2022 \n \n \nAgendapunt: 4.4 \nOnderwerp:  Rondvraag SP en 50PLUS: Eindhovenaren wachten steeds langer op zorg  \n \nOmschrijving:  \n \nWethouder Richters zegt toe:  \n- een overzicht van de bijsturingsacties  (zowel de acties die zijn gedaan als wat het college \nvoornemens is te gaan doen)  schriftelijk aan de raad te doen toekomen . \n \n \n \n \nAkkoord voor doorgeleiding en voorbereiding naar het sectorhoofd.  \n \nA. Zwierstra , gemeentesecretaris   \n \nGriffie gemeenteraad  \n \n ",
+    "bst": null,
+    "related": [
+        {
+            "id": 11765920,
+            "weight": 1.065330435303821
+        },
+        {
+            "id": 11803221,
+            "weight": 0.9939238318835024
+        },
+        {
+            "id": 777652,
+            "weight": 0.49342685973251543
+        },
+        {
+            "id": 11765917,
+            "weight": 0.49312636692060263
+        },
+        {
+            "id": "a_7006032",
+            "weight": 0.4423149823464376
+        },
+        {
+            "id": 776778,
+            "weight": 0.35138569137206277
+        },
+        {
+            "id": "o_8168784",
+            "weight": 0.2337833083571546
+        },
+        {
+            "id": 775341,
+            "weight": 0.16544420222629813
+        },
+        {
+            "id": 774909,
+            "weight": 0.16193583359236083
+        },
+        {
+            "id": 775293,
+            "weight": 0.1544294673045744
+        },
+        {
+            "id": 775216,
+            "weight": 0.14762523364510427
+        },
+        {
+            "id": 891457,
+            "weight": 0.11886766690202316
+        },
+        {
+            "id": 864273,
+            "weight": 0.11820533067752816
+        },
+        {
+            "id": 827698,
+            "weight": 0.11812658790132617
+        },
+        {
+            "id": "o_9202790",
+            "weight": 0.10614891999179671
+        },
+        {
+            "id": 822134,
+            "weight": 0.09626360561793695
+        },
+        {
+            "id": 775141,
+            "weight": 0.07656954267452701
+        }
+    ],
+    "videostarttime": {
+        "1013383": 6306
+    },
+    "videolink": null,
+    "keywords": {
+        "wethouder Richters": 1.9981963174519608,
+        "Eindhovenaren wachten": 0.9916946947124645,
+        "Richters zegt": 0.9911662431969268,
+        "zorg Omschrijving": 0.9911474777356393,
+        "Toezegging wethouder": 1.9908152139682036,
+        "rondvraag wachttijden": 1.9849697760706277,
+        "zorg Toezegging": 0.9839724269193235,
+        "meningsvormende vergadering": 0.9780592992173023,
+        "college voornemens": 0.9780592992173023,
+        "wethouder": 1.9699805302693187,
+        "Agendapunt": 0.9566149680929978,
+        "Onderwerp": 0.9566149680929978,
+        "rondvraag": 1.9494706069185406,
+        "Akkoord": 0.943785137938355,
+        "gemeentesecretaris Griffie": 0.9331867081835935,
+        "Griffie gemeenteraad": 0.9331867081835935,
+        "zorg": 1.921952643379957,
+        "gedaan": 0.921952643379957,
+        "juni": 0.9194622415763418,
+        "bijsturingsacties": 0.887994715857178,
+        "zowel": 0.887994715857178,
+        "schriftelijk": 0.887994715857178,
+        "toekomen": 0.887994715857178,
+        "sectorhoofd": 0.887994715857178,
+        "vergadering": 0.8534747741986487,
+        "wachten": 0.8534747741986487,
+        "langer": 0.8534747741986487,
+        "zegt": 0.8534747741986487,
+        "overzicht": 0.8534747741986487,
+        "acties": 0.8534747741986487,
+        "college": 0.8534747741986487,
+        "raad": 0.8534747741986487,
+        "doorgeleiding": 0.8534747741986487,
+        "Zwierstra": 0.8285917938941117,
+        "Griffie": 0.7944049544858238
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1013383
+    ]
+}

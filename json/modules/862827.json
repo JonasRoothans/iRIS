@@ -1,0 +1,79 @@
+{
+    "module_id": 862827,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Meldingsproces - Meldingen van inwoners serieus nemen (Vrije motie VM3)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/862827",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "04-07-2023",
+    "meeting_url": {
+        "1119171": "https://raadsinformatie.eindhoven.nl/vergadering/1119171#ai_7657774"
+    },
+    "attachment": null,
+    "parent": "ai_7657774",
+    "children": [],
+    "text": "Wethouder Verhees zegt toe:\n\nOnderzoek naar het kanaliseren en verbeteren van het meldingsproces zal voor eind Q3 worden teruggekoppeld aan de raad.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 831970,
+            "weight": 1.7213375428196183
+        },
+        {
+            "id": "ai_7657774",
+            "weight": 1.7151870128177968
+        },
+        {
+            "id": 1132392,
+            "weight": 0.40083012828694636
+        },
+        {
+            "id": 883783,
+            "weight": 0.34510544852193303
+        },
+        {
+            "id": 1045674,
+            "weight": 0.21678890158087447
+        },
+        {
+            "id": 862747,
+            "weight": 0.21251902107587456
+        }
+    ],
+    "videostarttime": {
+        "1119171": 9041
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_04.07.23_NC_EINDHOVEN_CIE.mp4/playlist.m3u8",
+    "keywords": {
+        "Wethouder Verhees": 0.9944628874809335,
+        "Vrije motie": 1.9934814726810703,
+        "Verhees zegt": 0.9838708471774884,
+        "serieus nemen": 1.9809765493683227,
+        "inwoners serieus": 1.9683848454160142,
+        "Meldingen": 1.939268865040284,
+        "Vrije": 1.939268865040284,
+        "Onderzoek": 0.9392688650402842,
+        "nemen": 1.893360937333929,
+        "motie": 1.893360937333929,
+        "eind": 0.8933609373339291,
+        "raad": 0.8933609373339291,
+        "inwoners": 1.8249392446001187,
+        "zegt": 0.8249392446001187,
+        "kanaliseren": 0.8249392446001187,
+        "verbeteren": 0.8249392446001187,
+        "teruggekoppeld": 0.8249392446001187
+    },
+    "svz": null,
+    "afgedaan": "03-09-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

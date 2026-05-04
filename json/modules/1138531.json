@@ -1,0 +1,88 @@
+{
+    "module_id": 1138531,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "App Signalen - Agenderingsverzoek Beleid woningsplitsing en kamerverhuur",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1138531",
+    "type": "Toezegging",
+    "member": "",
+    "party": "",
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "27-01-2026",
+    "meeting_url": {
+        "1374909": "https://raadsinformatie.eindhoven.nl/vergadering/1374909#ai_9410995"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": "Wethouder Verhees zegt toe:\nNa te gaan of de app Signalen technisch goed werkt en de raad hier binnen 2 weken over te informeren;",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1138538,
+            "weight": 1.6846992766232791
+        },
+        {
+            "id": 1138532,
+            "weight": 1.6791417862302644
+        },
+        {
+            "id": 1138537,
+            "weight": 1.6790074517866775
+        },
+        {
+            "id": 1133253,
+            "weight": 1.1684772412980347
+        },
+        {
+            "id": 1021310,
+            "weight": 0.10744105196142252
+        },
+        {
+            "id": 1021307,
+            "weight": 0.10716168080187895
+        },
+        {
+            "id": 1021311,
+            "weight": 0.1064570630049631
+        },
+        {
+            "id": 1021308,
+            "weight": 0.10644319950968364
+        },
+        {
+            "id": 1021314,
+            "weight": 0.10626726913393124
+        }
+    ],
+    "videostarttime": {
+        "1374909": 729
+    },
+    "videolink": null,
+    "keywords": {
+        "Agenderingsverzoek Beleid": 1.9922324046598288,
+        "Wethouder Verhees": 0.9887274894238641,
+        "Beleid woningsplitsing": 1.9739285298306717,
+        "kamerverhuur Wethouder": 0.9739285298306716,
+        "Verhees zegt": 0.9739285298306716,
+        "App Signalen": 1.9577786086203104,
+        "Beleid": 1.8944213207745162,
+        "Signalen technisch": 0.8769472485482085,
+        "App": 1.8138126942502257,
+        "zegt": 0.759335692988926,
+        "technisch goed": 0.6215341535136065,
+        "goed werkt": 0.6215341535136065,
+        "weken": 0.6175984951469868,
+        "informeren": 0.6175984951469868
+    },
+    "svz": "",
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "08-04-2026",
+    "meeting_id": []
+}

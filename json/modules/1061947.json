@@ -1,0 +1,103 @@
+{
+    "module_id": 1061947,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230013,
+    "title": "Nieuwe Economie of Schone economie  - Raadsvoorstel Reserve Toekomstfonds Bedrijventerreinen (Amendement A3A)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1061947",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Steenbakkers (Wethouder)",
+    "result": "",
+    "date": "01-07-2025",
+    "meeting_url": {
+        "1256322": "https://raadsinformatie.eindhoven.nl/vergadering/1256322#ai_9347112"
+    },
+    "attachment": null,
+    "parent": 1043848,
+    "children": [],
+    "text": "Wethouder Steenbakkers zegt toe:\nde aanvullende onttrekkingscriteria inzake duurzaamheid, zoals vermeld in amendement A3A, mee te nemen in de uitwerking van het Toekomstfonds Bedrijventerreinen inclusief de exacte criteria voor onttrekking;",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1043848,
+            "weight": 2.289805299911636
+        },
+        {
+            "id": 1061943,
+            "weight": 2.287158010722346
+        },
+        {
+            "id": 1148686,
+            "weight": 0.996662099324735
+        },
+        {
+            "id": 787684,
+            "weight": 0.7928842397594714
+        },
+        {
+            "id": "a_9477764",
+            "weight": 0.6238043030265183
+        },
+        {
+            "id": 1148967,
+            "weight": 0.4986820416632409
+        },
+        {
+            "id": 1045729,
+            "weight": 0.49697196597289606
+        },
+        {
+            "id": 949456,
+            "weight": 0.4711900886079999
+        },
+        {
+            "id": 913095,
+            "weight": 0.2360735751666145
+        },
+        {
+            "id": 1027870,
+            "weight": 0.18746849436316904
+        }
+    ],
+    "videostarttime": {
+        "1256322": 12574
+    },
+    "videolink": null,
+    "keywords": {
+        "Toekomstfonds Bedrijventerreinen": 1.997113863230354,
+        "Raadsvoorstel Reserve": 1.9960236536608031,
+        "Wethouder Steenbakkers": 0.9960236536608031,
+        "Reserve Toekomstfonds": 1.9943801924681255,
+        "Schone economie": 1.9907410277965747,
+        "Steenbakkers zegt": 0.9896140964160581,
+        "Bedrijventerreinen inclusief": 0.9893309538407392,
+        "aanvullende onttrekkingscriteria": 0.9801983339719181,
+        "exacte criteria": 0.9801983339719181,
+        "Amendement": 1.962386062757696,
+        "Wethouder": 0.9463095897372263,
+        "Schone": 1.9262326808098411,
+        "Reserve": 1.9262326808098411,
+        "Nieuwe": 1.9061088773003383,
+        "duurzaamheid": 0.9061088773003382,
+        "mee": 0.9061088773003382,
+        "onttrekking": 0.9061088773003382,
+        "zegt": 0.8606544810894714,
+        "aanvullende": 0.8606544810894714,
+        "vermeld": 0.8606544810894714,
+        "nemen": 0.8606544810894714,
+        "inclusief": 0.8606544810894714,
+        "exacte": 0.8606544810894714
+    },
+    "svz": null,
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "02-10-2025",
+    "meeting_id": [
+        1256322
+    ]
+}

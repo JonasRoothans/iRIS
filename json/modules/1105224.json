@@ -1,0 +1,109 @@
+{
+    "module_id": 1105224,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Raadsvoorstel Ontheffing en benoeming lid agendacommissie",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/19/Raadsvoorstellen/1105224",
+    "type": "Raadsvoorstel",
+    "member": null,
+    "party": null,
+    "poho": "",
+    "result": "Afgerond",
+    "date": "25-11-2025",
+    "meeting_url": {
+        "1256749": "https://raadsinformatie.eindhoven.nl/vergadering/1256749#ai_9826522"
+    },
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/16271942/1/Raadsvoorstel+Ontheffing+en+benoeming+lid+agendacommissie?connection_type=17&connection_id=12626705": "Raadsvoorstel Ontheffing en benoeming lid agendacommissie"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/16289797/1?connection_type=17&connection_id=12644657",
+    "pdf_text": " \n \n \n  \n   \n \n \n  gemeente Eindhoven  \nRaadsnummer   \nInboeknummer   \nDossiernummer      \n \nRaads voorstel    Ontheffing en benoeming lid agenda commissie  \n \nInleiding  \nHet Reglement van orde bepaalt dat de raad een agendacommissie \nkent, bestaande uit tenminste vijf raadsleden. Deze leden, de voorzitter \nen de plaatsvervangend voorzitter worden benoemd door de raad.  \n \nM. Frosi  heeft aangegeven haar taken als lid van de agendacommissie \nneer te leggen. Na uitvraag binnen de raad, en overleg met de \nfractievoorzitters en de agendacommissie is G.P.B.M. Geerts  \nbereid gevonden de taken van M. Frosi  over te nemen.  \n \nDoelstelling  \nSamenstelling agendacommissie  vaststellen.  \n \nVoorstel  \n1. M. Frosi t e ontheffen als lid van de agendacommissie;  \n2. G.P.B.M. Geerts   te benoemen tot lid van de agendacommissie . \n \nArgumenten  \nHet Reglement van orde bepaalt dat de raad de leden, voorzitter en \nplaatsvervangend voorzitter van de agendacommissie benoemd. Het \nbijgaande raadsbesluit voorziet in deze verplichting.  \n \nBijlage(n)  \nN.v.t.  \n \nEen ontwerp raadsbesluit bieden wij u hierbij ter vaststelling aan.  \n \n \nDe agendacommissie . \n \n   \n  \n Raadsnummer  \n \n  \n \n \n2  Ontwerp \nRaadsbesluit   \n   Ontheffing  en benoeming  lid agendacommiss ie  \n \nDe raad van de gemeente Eindhoven;  \ngelet op artikel 4 van het Reglement van orde gemeente Eindhoven \n2022;  \n \nbesluit:  \n \n1. M. Frosi t e ontheffen als lid van de agendacommissie;  \n2. G.P.B.M. Geerts   te benoemen tot lid van de agendacommissie . \n \nAldus vastgesteld in de openbare vergadering van  25 november 2025 . \n \n \n \nJ. Jongbloed , griffier . \n \n \n ",
+    "bst": "",
+    "related": [
+        {
+            "id": 877235,
+            "weight": 2.580386998246301
+        },
+        {
+            "id": 826914,
+            "weight": 2.352627252576535
+        },
+        {
+            "id": 930584,
+            "weight": 0.9123925582497562
+        },
+        {
+            "id": 789881,
+            "weight": 0.5403800021047075
+        },
+        {
+            "id": 846881,
+            "weight": 0.5322931137818357
+        },
+        {
+            "id": 780446,
+            "weight": 0.522845517331479
+        },
+        {
+            "id": 802773,
+            "weight": 0.5186018793175334
+        },
+        {
+            "id": 1045412,
+            "weight": 0.25800770869652856
+        }
+    ],
+    "videostarttime": {
+        "1256749": 2513
+    },
+    "videolink": null,
+    "keywords": {
+        "Inboeknummer Dossiernummer": 0.9946141396943915,
+        "commissie Inleiding": 0.981344474810704,
+        "Dossiernummer Raads": 0.9764416249071861,
+        "agendacommissie": 1.9614619949710645,
+        "lid": 1.9511094766368697,
+        "vijf raadsleden": 0.93804132017561,
+        "raad": 0.9371071093697594,
+        "tenminste vijf": 0.9332091058541517,
+        "gemeente Eindhoven": 0.9311117667197875,
+        "Inboeknummer": 0.9268084143651361,
+        "Inleiding": 0.9268084143651361,
+        "Frosi": 0.9266600441117058,
+        "Raadsvoorstel Ontheffing": 1.9222933919326608,
+        "benoeming lid": 1.9168268836716185,
+        "Reglement": 0.8982879218685721,
+        "Ontheffing": 1.8969232791856565,
+        "Eindhoven": 0.8969232791856565,
+        "lid agenda": 1.8915167224470872,
+        "voorzitter": 0.8749909897105901,
+        "Eindhoven Raadsnummer": 0.8732072517287754,
+        "ontwerp raadsbesluit": 0.8349075484908953,
+        "Geerts": 0.824335768648154,
+        "orde": 0.8169712563957553,
+        "gemeente": 0.8153809166221768,
+        "plaatsvervangend voorzitter": 0.7877156097809525,
+        "Raads voorstel": 0.7817745205847202,
+        "orde bepaalt": 0.7751114958237748,
+        "kent": 0.7668284509885318,
+        "bestaande": 0.7668284509885318,
+        "ontwerp": 0.7498113188191722,
+        "vijf": 0.7497817520775222,
+        "taken": 0.7240747409025774,
+        "leden": 0.7127763540682088,
+        "Samenstelling": 0.6020451438697138,
+        "Doelstelling Samenstelling": 0.6000258898822675,
+        "Argumenten": 0.5725481464303874,
+        "Jongbloed": 0.5348655606907362
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": "10-04-2026",
+    "meeting_id": []
+}

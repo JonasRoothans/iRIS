@@ -1,0 +1,148 @@
+{
+    "module_id": 826277,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 231116,
+    "title": "Straatintimidatie - Raadsvoorstel Beleidskader veiligheid 2023-2026",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/826277",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "J. Dijsselbloem (Burgemeester)",
+    "result": "",
+    "date": "28-02-2023",
+    "meeting_url": {
+        "1059677": "https://raadsinformatie.eindhoven.nl/vergadering/1059677#ai_7356813"
+    },
+    "attachment": null,
+    "parent": 817517,
+    "children": [],
+    "text": "Burgemeester Dijsselbloem zegt toe:\n\ndat het beleid aanpak van straatintimidatie voor de zomer van 2023 naar de raad komt.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 826275,
+            "weight": 1.1522618856874858
+        },
+        {
+            "id": 826276,
+            "weight": 1.085518483145603
+        },
+        {
+            "id": 826266,
+            "weight": 0.9705854388784398
+        },
+        {
+            "id": 826271,
+            "weight": 0.9675532271420804
+        },
+        {
+            "id": 826273,
+            "weight": 0.965799094021203
+        },
+        {
+            "id": 826265,
+            "weight": 0.9646024957282113
+        },
+        {
+            "id": 817517,
+            "weight": 0.8223073193115733
+        },
+        {
+            "id": 921456,
+            "weight": 0.4259407118516357
+        },
+        {
+            "id": 865481,
+            "weight": 0.41482417391725773
+        },
+        {
+            "id": 827449,
+            "weight": 0.4117533263082811
+        },
+        {
+            "id": 16451950,
+            "weight": 0.4040758679876018
+        },
+        {
+            "id": 861380,
+            "weight": 0.39571839013228777
+        },
+        {
+            "id": 974296,
+            "weight": 0.3949530733377751
+        },
+        {
+            "id": 893837,
+            "weight": 0.19941236464671921
+        },
+        {
+            "id": 15945905,
+            "weight": 0.17734307557954096
+        },
+        {
+            "id": "a_7462821",
+            "weight": 0.13066867175700883
+        },
+        {
+            "id": 1131248,
+            "weight": 0.12120771447468245
+        },
+        {
+            "id": 993565,
+            "weight": 0.11944887998744821
+        },
+        {
+            "id": 13540297,
+            "weight": 0.11320876500440713
+        },
+        {
+            "id": 15039359,
+            "weight": 0.11023324887983461
+        },
+        {
+            "id": 891735,
+            "weight": 0.1047969779794559
+        },
+        {
+            "id": 955541,
+            "weight": 0.10475629536944411
+        },
+        {
+            "id": 1020983,
+            "weight": 0.09805758775698044
+        }
+    ],
+    "videostarttime": {
+        "1059677": 9665
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_28.02.23_NC_Eindhoven_Raadsvergadering.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Beleidskader": 1.9944028274550927,
+        "Burgemeester Dijsselbloem": 0.9916281572568182,
+        "Beleidskader veiligheid": 1.9836335688345734,
+        "2023-2026 Burgemeester": 0.9836335688345734,
+        "Dijsselbloem zegt": 0.9836335688345734,
+        "raad komt": 0.9805899584790301,
+        "veiligheid 2023-2026": 1.96776056316734,
+        "beleid aanpak": 0.96776056316734,
+        "Raadsvoorstel": 1.9389136078667915,
+        "komt": 0.8922607228460988,
+        "Straatintimidatie": 1.8737182748260663,
+        "veiligheid": 1.8232727580700172,
+        "2023-2026": 1.8232727580700172,
+        "zegt": 0.8232727580700172,
+        "beleid": 0.8232727580700172,
+        "aanpak": 0.8232727580700172,
+        "zomer": 0.8232727580700172,
+        "raad": 0.8232727580700172
+    },
+    "svz": null,
+    "afgedaan": "12-09-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

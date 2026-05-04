@@ -1,0 +1,60 @@
+{
+    "module_id": 831530,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Controles - Agenderingsverzoek Uitvoeringspraktijk woonoverlast – meldpunt (SP en 50PLUS).",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/moties_en_toezeggingen/831530?parent_event=1059806",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "28-03-2023",
+    "meeting_url": {
+        "1059806": "https://raadsinformatie.eindhoven.nl/vergadering/1059806#ai_7439945"
+    },
+    "attachment": null,
+    "parent": "ai_7439945",
+    "children": [],
+    "text": "Wethouder Verhees zegt toe:\n\nom technisch de vraag te beantwoorden of het klopt dat er 11 controles per jaar plaatsvinden.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 831542,
+            "weight": 2.6414013734197455
+        },
+        {
+            "id": "ai_7439945",
+            "weight": 2.6278425695379077
+        },
+        {
+            "id": 16589004,
+            "weight": 0.24141382628602867
+        }
+    ],
+    "videostarttime": {
+        "1059806": 14598
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_28.03.23_NC_eindhoven_raa.mp4/playlist.m3u8",
+    "keywords": {
+        "Agenderingsverzoek Uitvoeringspraktijk": 1.992607949748199,
+        "Uitvoeringspraktijk woonoverlast": 1.9849940593829491,
+        "meldpunt": 1.930877119142249,
+        "Agenderingsverzoek": 1.92894659357915,
+        "Wethouder Verhees": 0.8827963893298256,
+        "Controles": 1.8687714298393352,
+        "woonoverlast": 1.856842814423251,
+        "Verhees zegt": 0.8303116554399796,
+        "jaar plaatsvinden": 0.770818004555529,
+        "per jaar": 0.6525954462054006
+    },
+    "svz": null,
+    "afgedaan": "18-04-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

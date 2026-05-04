@@ -1,0 +1,80 @@
+{
+    "module_id": 784925,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230019,
+    "title": "Randvoorwaarde weerstandsvermogen",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/moties_en_toezeggingen/784925?parent_event=1013296",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. van Lanschot (Wethouder)",
+    "result": "",
+    "date": "05-07-2022",
+    "meeting_url": {
+        "1013296": "https://raadsinformatie.eindhoven.nl/vergadering/1013296#ai_6963330"
+    },
+    "attachment": null,
+    "parent": "ai_6963330",
+    "children": [],
+    "text": "Te onderzoeken hoe het weerstandsvermogen beter kan worden vormgegeven en hierbij als randvoorwaarde mee te nemen dat het moet gaan om het vinden van een betere methodiek.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 953024,
+            "weight": 0.16855165048088966
+        },
+        {
+            "id": 1078957,
+            "weight": 0.13677797338129694
+        },
+        {
+            "id": 900681,
+            "weight": 0.13631093317329618
+        },
+        {
+            "id": 991438,
+            "weight": 0.1292983876549954
+        },
+        {
+            "id": "a_8038134",
+            "weight": 0.1279645676837118
+        },
+        {
+            "id": 1042213,
+            "weight": 0.1157718823757619
+        },
+        {
+            "id": 956636,
+            "weight": 0.10639846382376414
+        },
+        {
+            "id": 890090,
+            "weight": 0.10636364323471603
+        }
+    ],
+    "videostarttime": {
+        "1013296": 674
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/05.07.22 Eindhoven Meningsvormend ruw.mp4/playlist.m3u8",
+    "keywords": {
+        "randvoorwaarde mee": 0.9736477622373411,
+        "weerstandsvermogen": 1.9073079116604768,
+        "methodiek": 0.9067087946226678,
+        "onderzoeken": 0.8615004366529155,
+        "vormgegeven": 0.8615004366529155,
+        "hierbij": 0.8615004366529155,
+        "mee": 0.8615004366529155,
+        "nemen": 0.8615004366529155,
+        "gaan": 0.8615004366529155,
+        "vinden": 0.8615004366529155
+    },
+    "svz": null,
+    "afgedaan": "13-06-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

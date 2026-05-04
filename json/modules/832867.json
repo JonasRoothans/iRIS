@@ -1,0 +1,117 @@
+{
+    "module_id": 832867,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230019,
+    "title": "Sponsoring - Raadsvoorstel Investeringsbudget Nieuwbouw Tongelreep",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/832867",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. van Lanschot (Wethouder)",
+    "result": "",
+    "date": "04-04-2023",
+    "meeting_url": {
+        "1013482": "https://raadsinformatie.eindhoven.nl/vergadering/1013482#ai_7513445"
+    },
+    "attachment": null,
+    "parent": 831872,
+    "children": [],
+    "text": "Wethouder van Lanschot zegt toe:\n\nte onderzoeken of er, passend binnen het Eindhovens karakter, mogelijkheden zijn voor sponsoring van het zwembad bijvoorbeeld qua naamgeving.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 832868,
+            "weight": 2.05255193528382
+        },
+        {
+            "id": 832869,
+            "weight": 2.051592721252814
+        },
+        {
+            "id": 817873,
+            "weight": 1.712526850474378
+        },
+        {
+            "id": 831872,
+            "weight": 1.391053519753724
+        },
+        {
+            "id": 799286,
+            "weight": 1.0661266979197213
+        },
+        {
+            "id": 832479,
+            "weight": 0.7757527041595182
+        },
+        {
+            "id": 13701962,
+            "weight": 0.7475216458984895
+        },
+        {
+            "id": 1107607,
+            "weight": 0.6542177520524283
+        },
+        {
+            "id": 799172,
+            "weight": 0.49049178750566813
+        },
+        {
+            "id": 796384,
+            "weight": 0.23442660314219266
+        },
+        {
+            "id": 883374,
+            "weight": 0.10949643765214555
+        },
+        {
+            "id": 955253,
+            "weight": 0.09852844800447344
+        },
+        {
+            "id": 12703162,
+            "weight": 0.0968310755181394
+        },
+        {
+            "id": 1141276,
+            "weight": 0.09469192710932818
+        },
+        {
+            "id": 1066501,
+            "weight": 0.07822772342473003
+        }
+    ],
+    "videostarttime": {
+        "1013482": 1104
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_04.04.23_NC_Eindhoven_Raadsvergadering .mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Investeringsbudget": 1.9944446555520121,
+        "Investeringsbudget Nieuwbouw": 1.9916854299960314,
+        "Nieuwbouw Tongelreep": 1.9916854299960314,
+        "Tongelreep Wethouder": 0.9916854299960314,
+        "Eindhovens karakter": 0.9901908010464321,
+        "Lanschot zegt": 0.9837989814664826,
+        "qua naamgeving": 0.9808597720080376,
+        "Raadsvoorstel": 1.9391608500592699,
+        "Nieuwbouw": 1.909192467309945,
+        "Tongelreep": 1.909192467309945,
+        "Wethouder": 0.909192467309945,
+        "passend": 0.8930274509376158,
+        "karakter": 0.8930274509376158,
+        "mogelijkheden": 0.8930274509376158,
+        "Sponsoring": 1.8747703400871132,
+        "zegt": 0.8244338371947252,
+        "onderzoeken": 0.8244338371947252,
+        "zwembad": 0.8244338371947252,
+        "qua": 0.8244338371947252
+    },
+    "svz": "In het raadsvoorstel Investeringskrediet SOK Tongelreep Partners dat op 10 spetember 2024 is aangenomen staat:...  Lees verder ",
+    "afgedaan": "19-11-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

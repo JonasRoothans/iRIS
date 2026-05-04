@@ -1,0 +1,84 @@
+{
+    "module_id": 984484,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Brainportfonds - Raadsvoorstel Begroting 2025",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/984484",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "29-10-2024",
+    "meeting_url": {
+        "1148141": "https://raadsinformatie.eindhoven.nl/vergadering/1148141#ai_8729567"
+    },
+    "attachment": null,
+    "parent": 975511,
+    "children": [],
+    "text": "Wethouder Verhees zegt toe dat de raad schriftelijk, technisch, geïnformeerd wordt.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 12802681,
+            "weight": 1.8771165597715131
+        },
+        {
+            "id": 891776,
+            "weight": 0.10438136535549665
+        },
+        {
+            "id": 891771,
+            "weight": 0.10341487844325803
+        },
+        {
+            "id": 984494,
+            "weight": 0.10290640524932049
+        },
+        {
+            "id": 984496,
+            "weight": 0.10290640524932049
+        },
+        {
+            "id": 984479,
+            "weight": 0.10040367326305266
+        },
+        {
+            "id": 1045784,
+            "weight": 0.09537605965094503
+        },
+        {
+            "id": 1148165,
+            "weight": 0.09065345259289787
+        },
+        {
+            "id": 945682,
+            "weight": 0.08367266388657138
+        }
+    ],
+    "videostarttime": {
+        "1148141": null
+    },
+    "videolink": null,
+    "keywords": {
+        "Raadsvoorstel Begroting": 1.9925553183866471,
+        "Wethouder Verhees": 0.9873976398760466,
+        "Brainportfonds": 1.9550880231213545,
+        "technisch": 0.9550880231213544,
+        "Verhees zegt": 0.955011371234592,
+        "raad schriftelijk": 0.9505961599793437,
+        "Begroting": 1.9140368224837343,
+        "geïnformeerd": 0.8416830712200127,
+        "zegt": 0.7026344174397849,
+        "raad": 0.7026344174397849
+    },
+    "svz": null,
+    "afgedaan": "19-11-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

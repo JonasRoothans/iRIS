@@ -1,0 +1,62 @@
+{
+    "module_id": "ai_7000974",
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Natuur aan tafel (M1)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/moties_en_toezeggingen/775074?parent_event=1019503",
+    "type": "Agenda",
+    "member": null,
+    "party": null,
+    "poho": "",
+    "result": "",
+    "date": "21-07-2022",
+    "meeting_url": "https://raadsinformatie.eindhoven.nl/vergadering/1019503#ai_7000974",
+    "attachment": null,
+    "parent": null,
+    "children": [
+        775074,
+        775141,
+        775082,
+        775122,
+        775097
+    ],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": "a_8389212",
+            "weight": 0.5112084829614247
+        },
+        {
+            "id": 15634381,
+            "weight": 0.2160134776128416
+        },
+        {
+            "id": 989352,
+            "weight": 0.1955470923842765
+        },
+        {
+            "id": 1102253,
+            "weight": 0.19190086482904167
+        },
+        {
+            "id": 955572,
+            "weight": 0.1590410316121507
+        }
+    ],
+    "videostarttime": 691,
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/21.07.22 Eindhoven raad ruw.mp4/playlist.m3u8",
+    "keywords": {
+        "Natuur": 1.8416830712200127,
+        "tafel": 1.8416830712200127
+    },
+    "svz": "Hier is uitvoering aan gegeven in raadsvoorstel gebiedsontwikkeling Fellenoord (hoe). Op 24 januari 2023 heeft...  Lees verder ",
+    "afgedaan": "1e kwartaal 2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "30-05-2025",
+    "meeting_id": []
+}

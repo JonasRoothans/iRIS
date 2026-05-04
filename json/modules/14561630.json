@@ -1,0 +1,120 @@
+{
+    "module_id": 14561630,
+    "vote_id": null,
+    "member_id": [
+        47266
+    ],
+    "party_list": [
+        " Ouderen Appèl - Hart voor Eindhoven"
+    ],
+    "poho_id": [],
+    "title": "Vraag V1 Vragenhalfuur - Hopen op klimaatgeld van Brussel - in het Eindhovens Dagblad van 20 september 2024 (OAHvE)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "24-09-2024",
+    "meeting_url": {
+        "1148129": "https://raadsinformatie.eindhoven.nl/vergadering/1148129/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/14561630/1/Vraag+V1+Vragenhalfuur+-+Hopen+op+klimaatgeld+van+Brussel+-+in+het+Eindhovens+Dagblad+van+20+september+2024+%28OAHvE%29?connection_type=1&connection_id=7854631",
+    "pdf_text": " \n \n \nVragenhalfuur  ‘Hopen op klimaatgeld van Brussel’in het Eindhovens \nDagblad van 20 september 2024             V1 \n \n \n                Datum  dinsdag 1 oktober 2024  \n \nGeachte college,  \n \nHet Ouderen Appèl -Hart voor Eindhoven heeft kennis genomen van het artikel \n‘Hopen op klimaatgeld van Brussel’1 in het Eindhovens Dagblad van 20 \nseptember 2024.  \n \nDit leidt tot de volgende vragen:  \n \n1. Aan welke door de EU gestelde vereisten werd in de eerdere aanvraag niet \nvoldaan, zodat de aanvraag door de EU werd afgewezen?  \n \n2. Welke harde garanties biedt de nieuwe aanvraag op goedkeuring door de EU?  \n \n3. Hoe dan ook zult u de klimaatdoelstellingen in de toekomst willen halen. Hoe \nziet uw plan B tot realisatie van die doelstellingen er uit mocht de EU in maart \n2025 uw aanvraag wederom afkeuren?  \n \nWij kijken uit naar uw antwoorden,  \nMet vriendelijke groet,  \n \nNiek Rennenberg, raadslid OAHvE  \n \n1 Eindhovens Dagblad - Stad - 20-09-2024 (ed.nl)  \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 866658,
+            "weight": 0.7669041108206833
+        },
+        {
+            "id": 1103191,
+            "weight": 0.2564574576605749
+        },
+        {
+            "id": 814889,
+            "weight": 0.10517314125924491
+        },
+        {
+            "id": 892495,
+            "weight": 0.040355967017678275
+        },
+        {
+            "id": 982995,
+            "weight": 0.04011254707860487
+        },
+        {
+            "id": 1071709,
+            "weight": 0.04001438843785112
+        },
+        {
+            "id": 864038,
+            "weight": 0.037005126882100635
+        },
+        {
+            "id": 953603,
+            "weight": 0.03641677860997092
+        },
+        {
+            "id": 822238,
+            "weight": 0.036066429962190144
+        },
+        {
+            "id": 1028065,
+            "weight": 0.030860825374166963
+        }
+    ],
+    "videostarttime": {
+        "1148129": 1296
+    },
+    "videolink": null,
+    "keywords": {
+        "Ouderen Appèl": 0.9955206085114757,
+        "Eindhovens Dagblad": 1.9913655470631766,
+        "Datum dinsdag": 0.9895987996349267,
+        "Geachte college": 0.9895987996349267,
+        "Hopen": 1.9879836466196799,
+        "september": 1.9799625255891782,
+        "Vragenhalfuur": 1.9795834216974288,
+        "klimaatgeld": 1.9718895434202164,
+        "kennis genomen": 0.9634097135872071,
+        "Dagblad": 1.9557362139443957,
+        "Brussel": 1.936750760178204,
+        "Datum": 0.9367507601782038,
+        "Geachte": 0.9367507601782038,
+        "Appèl": 0.9367507601782038,
+        "Hart": 0.9367507601782038,
+        "aanvraag": 0.8844531709582631,
+        "oktober": 0.86158188867665,
+        "Niek Rennenberg": 0.8500700852765473,
+        "college": 0.8372450151958084,
+        "artikel": 0.8372450151958084,
+        "kennis": 0.8121205253885195,
+        "genomen": 0.8121205253885195,
+        "Eindhoven": 1.8114441981866813,
+        "OAHvE": 1.7911560241360525,
+        "volgende vragen": 0.7811445409764284,
+        "Stad": 0.6682134358749794,
+        "eerdere aanvraag": 0.6679852026894673,
+        "raadslid OAHvE": 0.6510254635837647,
+        "Niek": 0.6389158202845455,
+        "vragen": 0.5969645557694333,
+        "gestelde vereisten": 0.5898721983959903,
+        "aanvraag wederom": 0.5771785169243828,
+        "leidt": 0.5544854049851078,
+        "voldaan": 0.5041244282939444,
+        "zodat": 0.5041244282939444,
+        "afgewezen": 0.5041244282939444
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 47266,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1148129
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "module_id": 884226,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230013,
+    "title": "MRE-visie - Duurzaamheid is geen detail (Motie M1)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/884226",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Steenbakkers (Wethouder)",
+    "result": "",
+    "date": "10-10-2023",
+    "meeting_url": {
+        "1013519": "https://raadsinformatie.eindhoven.nl/vergadering/1013519#ai_7816892"
+    },
+    "attachment": null,
+    "parent": 872231,
+    "children": [],
+    "text": "Wethouder Steenbakkers zegt toe de motie te omarmen, met daarbij de volgende kanttekeningen:\n\nals de MRE-visie komt hij dit in deze context kan aankaarten.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 883443,
+            "weight": 1.8547545634748308
+        },
+        {
+            "id": 884778,
+            "weight": 0.24494794194568517
+        },
+        {
+            "id": 921255,
+            "weight": 0.24412013120318002
+        },
+        {
+            "id": 884039,
+            "weight": 0.13398285737032498
+        }
+    ],
+    "videostarttime": {
+        "1013519": 3348
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_10.10.23_NC_Eindhoven_Raa.mp4/playlist.m3u8",
+    "keywords": {
+        "Wethouder Steenbakkers": 0.9961559844374764,
+        "Steenbakkers zegt": 0.9900795703021795,
+        "volgende kanttekeningen": 0.9875344564000018,
+        "MRE-visie komt": 0.9751060542009357,
+        "Duurzaamheid": 1.9472637033291633,
+        "Wethouder": 0.9472637033291634,
+        "Motie": 1.9394742595663916,
+        "detail": 1.9089883646927932,
+        "omarmen": 0.9089883646927933,
+        "aankaarten": 0.9089883646927933,
+        "zegt": 0.864719857515547,
+        "daarbij": 0.864719857515547,
+        "volgende": 0.864719857515547,
+        "komt": 0.864719857515547,
+        "context": 0.864719857515547
+    },
+    "svz": null,
+    "afgedaan": "11-03-2025",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

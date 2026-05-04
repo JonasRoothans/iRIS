@@ -1,0 +1,51 @@
+{
+    "module_id": 984404,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 231116,
+    "title": "Openbaarheid college agenda’s - Raadsvoorstel Begroting 2025",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/984404",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "J. Dijsselbloem (Burgemeester)",
+    "result": "",
+    "date": "29-10-2024",
+    "meeting_url": {
+        "1148140": "https://raadsinformatie.eindhoven.nl/vergadering/1148140#ai_8727039"
+    },
+    "attachment": null,
+    "parent": 975511,
+    "children": [],
+    "text": "Burgemeester Dijsselbloem zegt toe dit te gaan bespreken en in beeld te brengen met het college.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [],
+    "videostarttime": {
+        "1148140": null
+    },
+    "videolink": null,
+    "keywords": {
+        "Raadsvoorstel Begroting": 1.9962368769609955,
+        "Burgemeester Dijsselbloem": 0.9943786065225823,
+        "Dijsselbloem zegt": 0.9835374423226297,
+        "Openbaarheid college": 1.9717691158338297,
+        "gaan bespreken": 0.9675064304991429,
+        "college agenda": 1.952855479489136,
+        "Begroting": 1.9387707991710164,
+        "Burgemeester": 0.9387707991710162,
+        "college": 1.8731064435667122,
+        "agenda": 1.8225994208119776,
+        "zegt": 0.8225994208119777,
+        "gaan": 0.8225994208119777,
+        "beeld": 0.8225994208119777,
+        "brengen": 0.8225994208119777
+    },
+    "svz": "COLLEGE: GRAAG AFVOEREN . Dit is ook aan de orde gekomen via BM02 Transparant over agenda's collegeleden\n ...  Lees verder ",
+    "afgedaan": "19-11-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

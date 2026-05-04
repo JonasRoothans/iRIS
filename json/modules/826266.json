@@ -1,0 +1,138 @@
+{
+    "module_id": 826266,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 231116,
+    "title": "Uitbreiding Capaciteit - Raadsvoorstel Beleidskader veiligheid 2023-2026",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/826266",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "J. Dijsselbloem (Burgemeester)",
+    "result": "",
+    "date": "28-02-2023",
+    "meeting_url": {
+        "1059677": "https://raadsinformatie.eindhoven.nl/vergadering/1059677#ai_7356813"
+    },
+    "attachment": null,
+    "parent": 817517,
+    "children": [],
+    "text": "Burgemeester Dijsselbloem zegt toe:\n\néén keer per jaar de raad een rapportage te geven en in debat te gaan over:\n\nde uitbreiding van de capaciteit",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 836712,
+            "weight": 1.976249438642076
+        },
+        {
+            "id": 826271,
+            "weight": 1.0694508566384133
+        },
+        {
+            "id": 826275,
+            "weight": 0.9707131222790355
+        },
+        {
+            "id": 826277,
+            "weight": 0.9705854388784398
+        },
+        {
+            "id": 826273,
+            "weight": 0.9701669160961623
+        },
+        {
+            "id": 826276,
+            "weight": 0.9698749908619035
+        },
+        {
+            "id": 826265,
+            "weight": 0.9689623067773843
+        },
+        {
+            "id": 817517,
+            "weight": 0.8257755827793574
+        },
+        {
+            "id": 921456,
+            "weight": 0.4289868810626427
+        },
+        {
+            "id": 861380,
+            "weight": 0.39607731087120607
+        },
+        {
+            "id": "a_7462821",
+            "weight": 0.13078718961564265
+        },
+        {
+            "id": 1060105,
+            "weight": 0.09803890115798244
+        },
+        {
+            "id": 12943387,
+            "weight": 0.08801168646634329
+        },
+        {
+            "id": 931176,
+            "weight": 0.08633884451746529
+        },
+        {
+            "id": 931941,
+            "weight": 0.08585811199768237
+        },
+        {
+            "id": 1042265,
+            "weight": 0.08024605856907449
+        },
+        {
+            "id": 956636,
+            "weight": 0.06863475926141249
+        },
+        {
+            "id": 1080146,
+            "weight": 0.06533922333283618
+        },
+        {
+            "id": 955579,
+            "weight": 0.056616188113678266
+        }
+    ],
+    "videostarttime": {
+        "1059677": 9665
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_28.02.23_NC_Eindhoven_Raadsvergadering.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Beleidskader": 1.996211771781111,
+        "Burgemeester Dijsselbloem": 0.9947717504648961,
+        "Beleidskader veiligheid": 1.990273000201146,
+        "2023-2026 Burgemeester": 0.9902730002011461,
+        "Dijsselbloem zegt": 0.9902730002011461,
+        "één keer": 0.9878582154526042,
+        "Uitbreiding Capaciteit": 1.9871509714673397,
+        "veiligheid 2023-2026": 1.9818332532750706,
+        "keer per": 0.9818332532750705,
+        "per jaar": 0.9818332532750705,
+        "Capaciteit": 1.9640620235348343,
+        "Raadsvoorstel": 1.9476703023722708,
+        "Uitbreiding": 1.9117505583387444,
+        "één": 0.9101926169182205,
+        "veiligheid": 1.8664237871272618,
+        "2023-2026": 1.8664237871272618,
+        "zegt": 0.8664237871272619,
+        "keer": 0.8664237871272619,
+        "per": 0.8664237871272619,
+        "jaar": 0.8664237871272619,
+        "raad": 0.8664237871272619,
+        "rapportage": 0.8664237871272619,
+        "debat": 0.8664237871272619,
+        "gaan": 0.8664237871272619
+    },
+    "svz": null,
+    "afgedaan": "05-03-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

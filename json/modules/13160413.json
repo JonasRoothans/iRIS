@@ -1,0 +1,153 @@
+{
+    "module_id": 13160413,
+    "vote_id": null,
+    "member_id": [
+        90571
+    ],
+    "party_list": [
+        "CDA"
+    ],
+    "poho_id": [],
+    "title": "VERVALLEN Vraag V3 Vragenhalfuur Hallo met de burgemeester van Eindhoven (CDA)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "20-09-2023",
+    "meeting_url": {
+        "1013512": "https://raadsinformatie.eindhoven.nl/vergadering/1013512/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/13160413/2/VERVALLEN+Vraag+V3+Vragenhalfuur+Hallo+met+de+burgemeester+van+Eindhoven+%28CDA%29?connection_type=1&connection_id=6965106",
+    "pdf_text": " \n \n \nVragenhalfuur  van de fractie CDA  Eindhoven  \n \n \n“Hallo, met de burgemeester van Eindhoven ”  V3 \n \ndatum: 20 september 2023  \nGeacht e burgemeester , \n \nInleiding  \nVeel inwoners bellen 14 -040 als zij met de gemeente in contact willen komen. Na het \ninspreken van de woonplaats krijgen ze een keuzemenu te horen waarna ze doorverbonden \nworden naar de juiste afdeling. In sommige gemeenten spreekt de burgemeester dit \nkeuze menu in, zoals in Helmond, Rotterdam of Heusden. Dat leidt tot hele positieve reacties \nonder inwoners. Hoewel het een klein gebaar is, geeft het de gemeente een gezicht en wordt  \nhet contact persoonlijker.  \n \nDaarom hebben wij de volgende vraag aan u:  \n \nRaadsv ragen  \n1. Bent u bereid om het keuzemenu van 14 -040 in te spreken?  \n \nNamens de fractie CDA  Eindhoven , \n \nRemco van Dooren , raadslid  ",
+    "bst": null,
+    "related": [
+        {
+            "id": 878428,
+            "weight": 5.068374776083049
+        },
+        {
+            "id": 13163580,
+            "weight": 1.957960904120019
+        },
+        {
+            "id": 979285,
+            "weight": 0.36816405699264476
+        },
+        {
+            "id": 791741,
+            "weight": 0.16494422819884272
+        },
+        {
+            "id": 834595,
+            "weight": 0.13326937882690715
+        },
+        {
+            "id": 926041,
+            "weight": 0.11512326607300392
+        },
+        {
+            "id": 1041664,
+            "weight": 0.11094137171364364
+        },
+        {
+            "id": 1050489,
+            "weight": 0.10923895785065792
+        },
+        {
+            "id": 1118693,
+            "weight": 0.09317186989388739
+        },
+        {
+            "id": 948371,
+            "weight": 0.08658709320018805
+        },
+        {
+            "id": 999124,
+            "weight": 0.08257628990114949
+        },
+        {
+            "id": 1072793,
+            "weight": 0.08251765083983593
+        },
+        {
+            "id": 1055048,
+            "weight": 0.08248117619144679
+        },
+        {
+            "id": 1071893,
+            "weight": 0.08234054000881809
+        },
+        {
+            "id": 1137497,
+            "weight": 0.08232478101004113
+        },
+        {
+            "id": 1138194,
+            "weight": 0.08225554845387467
+        },
+        {
+            "id": 1106045,
+            "weight": 0.08215459192813114
+        },
+        {
+            "id": 1047976,
+            "weight": 0.08211236569979265
+        }
+    ],
+    "videostarttime": {
+        "1013512": 2000
+    },
+    "videolink": null,
+    "keywords": {
+        "Vragenhalfuur Hallo": 1.9968270555054037,
+        "CDA Eindhoven": 0.9792282120766642,
+        "VERVALLEN Vraag": 1.978743290414034,
+        "willen komen": 0.971503070777452,
+        "Hallo": 1.968816173600231,
+        "fractie CDA": 0.9470619552934487,
+        "burgemeester": 1.940206184354051,
+        "Geacht": 0.9379870993104524,
+        "Inleiding": 0.9379870993104524,
+        "inwoners bellen": 0.9354489354680112,
+        "CDA": 1.924161133507875,
+        "contact willen": 0.9168793010406504,
+        "datum": 0.8685229897499411,
+        "september": 0.8685229897499411,
+        "bellen": 0.8451872249674847,
+        "komen": 0.8451872249674847,
+        "Vraag": 1.8321779296669294,
+        "juiste afdeling": 0.7987556362796869,
+        "contact": 0.7856052894308887,
+        "woonplaats krijgen": 0.7720216057459734,
+        "horen waarna": 0.7720216057459734,
+        "keuzemenu": 0.7513972935533534,
+        "Raadsv ragen": 0.7504481831024123,
+        "Helmond": 0.7493260280903808,
+        "Rotterdam": 0.7493260280903808,
+        "Heusden": 0.7493260280903808,
+        "contact persoonlijker": 0.6805951288865714,
+        "Raadsv": 0.6602213901288889,
+        "Remco": 0.6303980685149984,
+        "Dooren": 0.6303980685149984,
+        "gemeenten spreekt": 0.620511209444011,
+        "inspreken": 0.5691248154962525,
+        "krijgen": 0.5691248154962525,
+        "waarna": 0.5691248154962525,
+        "doorverbonden": 0.5691248154962525,
+        "juiste": 0.5691248154962525,
+        "positieve reacties": 0.5066184987884561
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 90571,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1013512
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "module_id": 785515,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230022,
+    "title": "Terrassenbeleid - Burgerinitiatief Sluitingstijden binnenstad",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/785515",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Esselbrugge (Wethouder)",
+    "result": "",
+    "date": "04-10-2022",
+    "meeting_url": {
+        "1018987": "https://raadsinformatie.eindhoven.nl/vergadering/1018987#ai_7011862"
+    },
+    "attachment": null,
+    "parent": 778921,
+    "children": [],
+    "text": "In het eerste en tweede kwartaal van 2023 met ondernemers en inwoners in gesprek te gaan over een nieuw terrassenbeleid, zodat deze uiterlijk 30 april 2023 (voor het zomerseizoen) kan worden geactualiseerd.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 785514,
+            "weight": 2.7732854329581498
+        },
+        {
+            "id": 785513,
+            "weight": 2.7622127311717124
+        },
+        {
+            "id": 803411,
+            "weight": 1.4635275631143108
+        },
+        {
+            "id": 888194,
+            "weight": 0.48323590348219925
+        },
+        {
+            "id": 778921,
+            "weight": 0.4775999826060484
+        },
+        {
+            "id": 851994,
+            "weight": 0.36954108253192736
+        },
+        {
+            "id": 920652,
+            "weight": 0.20542895623958357
+        },
+        {
+            "id": 775301,
+            "weight": 0.1983529745238992
+        },
+        {
+            "id": 826276,
+            "weight": 0.18913234794978673
+        },
+        {
+            "id": 1124907,
+            "weight": 0.1705916880270309
+        },
+        {
+            "id": 1061195,
+            "weight": 0.16294824606229358
+        },
+        {
+            "id": 790698,
+            "weight": 0.07790796601012703
+        },
+        {
+            "id": 1015055,
+            "weight": 0.0726901236484639
+        },
+        {
+            "id": 801391,
+            "weight": 0.07114266463011963
+        },
+        {
+            "id": 786203,
+            "weight": 0.060204595096415715
+        },
+        {
+            "id": "a_9477086",
+            "weight": 0.05781205791271813
+        },
+        {
+            "id": 849427,
+            "weight": 0.05702634102513302
+        },
+        {
+            "id": 1137874,
+            "weight": 0.05497898340501052
+        },
+        {
+            "id": 826625,
+            "weight": 0.0549309872219918
+        },
+        {
+            "id": 1101416,
+            "weight": 0.05050110309805757
+        }
+    ],
+    "videostarttime": {
+        "1018987": 720
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_01-EINDHOVEN-RAA-ONDERTITEL_2022.10.04_172616.mp4/playlist.m3u8",
+    "keywords": {
+        "Burgerinitiatief Sluitingstijden": 1.9942255759236294,
+        "Sluitingstijden binnenstad": 1.9829242431044252,
+        "nieuw terrassenbeleid": 0.9746584364913519,
+        "tweede kwartaal": 0.9658687051637375,
+        "april": 0.9474173357475059,
+        "Burgerinitiatief": 1.9378744897269777,
+        "zodat": 0.8889857844605916,
+        "uiterlijk": 0.8889857844605916,
+        "zomerseizoen": 0.8889857844605916,
+        "geactualiseerd": 0.8889857844605916,
+        "binnenstad": 1.8183277722563624,
+        "tweede": 0.8183277722563624,
+        "ondernemers": 0.8183277722563624,
+        "inwoners": 0.8183277722563624,
+        "gesprek": 0.8183277722563624,
+        "gaan": 0.8183277722563624,
+        "nieuw": 0.8183277722563624
+    },
+    "svz": null,
+    "afgedaan": "18-04-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

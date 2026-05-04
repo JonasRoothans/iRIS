@@ -1,0 +1,102 @@
+{
+    "module_id": 1104200,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Raadsvoorstel Ontheffing lid Rekenkamer",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/19/Raadsvoorstellen/1104200",
+    "type": "Raadsvoorstel",
+    "member": null,
+    "party": null,
+    "poho": "",
+    "result": "Afgerond",
+    "date": "25-11-2025",
+    "meeting_url": {
+        "1256749": "https://raadsinformatie.eindhoven.nl/vergadering/1256749#ai_9816141"
+    },
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/16253894/1/Raadsvoorstel+Ontheffing+lid+Rekenkamer?connection_type=17&connection_id=12614800": "Raadsvoorstel Ontheffing lid Rekenkamer"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/16289815/1?connection_type=17&connection_id=12644660",
+    "pdf_text": " \n \n \n  gemeente Eindhoven  \nInboeknummer   \nDossiernummer      \n \nRaadsvoorstel    Ontheffing lid van de Rekenkamer   \n \nInleiding  \nHet huidige lid van de Rekenkamer W. Bens heeft te kennen gegeven  \nzijn lidmaatschap te willen beëindigen op eigen verzoek per 25  \nnovember 2025 .  \n \n  \nEen ontwerpraadsbesluit bieden wij u hierbij ter vaststelling aan.  \n \nWerkgeverscommissie  \n \n   \n \n Inboeknummer   \n \n  \n \n \n2   Ontwerp  \n   Raadsbesluit   \n \nDe raad van de gemeente Eindhoven;  \ngezien het voorstel van de werkgeverscommissie van de raad ; \ngelet op artikel 6 van de Verordening op de rekenkame r gemeente \nEindhoven 20 22; \n \n \nbesluit:  \nDe heer  W.E.J.M. Bens MSc. RTTP  op eigen verzoek te ontheffen  als \nlid van de Eindhovense Rekenkamer.  \n \n \nAldus vastgesteld in de openbare vergadering van 25 november 2025 . \n \n \n \n \n \nJ. Jongbloed , griffier.  \n \n \n ",
+    "bst": "",
+    "related": [
+        {
+            "id": 1112983,
+            "weight": 2.0353735624197666
+        },
+        {
+            "id": 836171,
+            "weight": 0.9949183057041825
+        },
+        {
+            "id": 1097574,
+            "weight": 0.9723509753045103
+        },
+        {
+            "id": 792344,
+            "weight": 0.4446956787388192
+        },
+        {
+            "id": 1104215,
+            "weight": 0.2432767645323591
+        },
+        {
+            "id": 1138216,
+            "weight": 0.24260000830405135
+        }
+    ],
+    "videostarttime": {
+        "1256749": 2278
+    },
+    "videolink": null,
+    "keywords": {
+        "Raadsvoorstel Ontheffing": 1.998116558764936,
+        "Dossiernummer Raadsvoorstel": 0.9949430817663774,
+        "gemeente Eindhoven": 0.9934188794332967,
+        "Ontheffing lid": 1.9929596037753305,
+        "Inboeknummer Dossiernummer": 0.9915763547557925,
+        "Rekenkamer Inleiding": 0.987839736358333,
+        "Eindhoven Inboeknummer": 0.9871543380904491,
+        "willen beëindigen": 0.9714610785068833,
+        "ontwerpraadsbesluit bieden": 0.9714610785068833,
+        "Eindhoven": 0.9662609659092708,
+        "Rekenkamer": 1.9549457273165807,
+        "Werkgeverscommissie Inboeknummer": 0.9537548478920045,
+        "huidige lid": 0.951213651606023,
+        "verzoek per": 0.94880562939,
+        "gemeente": 0.9362390086895729,
+        "Dossiernummer": 0.9333350231093944,
+        "Inleiding": 0.9333350231093944,
+        "lid": 1.930185941946941,
+        "november": 0.8670948493364548,
+        "per": 0.8544809702514871,
+        "raad": 0.8390371337461183,
+        "kennen": 0.833425540389489,
+        "lidmaatschap": 0.833425540389489,
+        "willen": 0.833425540389489,
+        "bieden": 0.833425540389489,
+        "hierbij": 0.833425540389489,
+        "vaststelling": 0.833425540389489,
+        "Ontwerp": 0.8180863256525378,
+        "Raadsbesluit": 0.8012375171324422,
+        "Verordening": 0.8012375171324422,
+        "RTTP": 0.7158055347470971,
+        "Jongbloed": 0.6881303094850189,
+        "gezien": 0.62835115923494,
+        "gelet": 0.62835115923494,
+        "artikel": 0.62835115923494,
+        "heer": 0.62835115923494,
+        "voorstel": 1.590265811233519,
+        "MSc": 0.5371351441043615
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": "10-04-2026",
+    "meeting_id": []
+}

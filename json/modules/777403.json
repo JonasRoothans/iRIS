@@ -1,0 +1,58 @@
+{
+    "module_id": 777403,
+    "vote_id": null,
+    "member_id": [
+        194370
+    ],
+    "party_list": [
+        "PvdA"
+    ],
+    "poho_id": [],
+    "title": "Beantwoording raadsvragen PvdA (Ritmeester) over Huis naar Werk",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/4/Raadsvragen/777403",
+    "type": "Raadsvraag",
+    "member": "Tjeerd Ritmeester",
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "27-06-2022",
+    "meeting_url": null,
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/11771952/1?connection_type=17&connection_id=8592240": "Vraag"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": "22bst01024",
+    "related": [
+        {
+            "id": 777352,
+            "weight": 0.9512063448315402
+        },
+        {
+            "id": 777366,
+            "weight": 0.9512063448315402
+        },
+        {
+            "id": 877845,
+            "weight": 0.39537510264224607
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Ritmeester": 1.9696036283675864,
+        "Beantwoording raadsvragen": 1.9505961599793435,
+        "raadsvragen PvdA": 1.9505961599793435,
+        "Werk": 1.9140368224837343,
+        "Huis": 1.8552226942577967,
+        "PvdA": 1.8416830712200127
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": "02-04-2026",
+    "meeting_id": []
+}

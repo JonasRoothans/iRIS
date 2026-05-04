@@ -1,0 +1,98 @@
+{
+    "module_id": 1106363,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Raadsvoorstel benoeming plaatsvervangend voorzitter",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/19/Raadsvoorstellen/1106363",
+    "type": "Raadsvoorstel",
+    "member": null,
+    "party": null,
+    "poho": "",
+    "result": "Afgerond",
+    "date": "25-11-2025",
+    "meeting_url": {
+        "1256749": "https://raadsinformatie.eindhoven.nl/vergadering/1256749#ai_9837353"
+    },
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/16286482/1/Raadsvoorstel+benoeming+plaatsvervangend+voorzitter?connection_type=17&connection_id=12641676": "Raadsvoorstel benoeming plaatsvervangend voorzitter"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/16289729/1?connection_type=17&connection_id=12644570",
+    "pdf_text": " \n \n \n  \n   \n \n \n  gemeente Eindhoven  \nRaadsnummer   \nInboeknummer   \nDossiernummer      \n \nRaads voorstel    benoeming plaatsvervangend  voorzitter gemeenteraad  \n \nInleiding  \nOp grond van artikel 9 van de Gemeentewet is de burgmeester voorzitter van de \ngemeenteraad. Op grond van artikel 77 wordt de burgemeester bij diens afwezigheid als \nvoorzitter vervangen door het langstzittende raadslid. De raad kan een andere vervanger \nbeno emen. Dit tweede is in Eindhoven gebruikelijk.  \n \nDe raadsfracties hebben kandidaten voorgedragen.  Na overleg is dhr. Murat Memis als \nenige kandidaat voorgedragen .  \nDoelstelling  \nBenoemen eerste plaatsvervangend  voorzitter .  \nVoorstel  \n1. Dhr. M. (Murat)  Memiş te benoemen tot eerste plaatsvervangend  voorzitter van \nde gemeenteraad . \n \nEen ontwerp raadsbesluit bieden wij u hierbij ter vaststelling aan.  \n \nDe agendacommissie . \n \n   \n  \n Raadsnummer  \n \n  \n \n \n2  \n \nOntwerp \nRaadsbesluit  \n   benoeming plaatsvervangend  voorzitters gemeenteraad   \n \nDe raad van de gemeente Eindhoven;  \ngelet op de voordracht en van de fractie s; \ngelet op artikel 77 van de Gemeentewet;  \n \nbesluit:  \n \n1. Dhr. M. (Murat) Memi ş te benoemen tot eerste plaatsvervangend voorzitter van \nde gemeenteraad . \n \nAldus vastgesteld in de openbare vergadering van  25 november 2025  \n \n \n \n \nJ. Jongb loed,  griffier . \n \n \n ",
+    "bst": "",
+    "related": [
+        {
+            "id": 930573,
+            "weight": 1.9974398361385237
+        },
+        {
+            "id": 1112373,
+            "weight": 1.2526112831869158
+        },
+        {
+            "id": 846881,
+            "weight": 1.2210883862212747
+        },
+        {
+            "id": 1148215,
+            "weight": 0.914033562930898
+        },
+        {
+            "id": 815740,
+            "weight": 0.20011581506190498
+        },
+        {
+            "id": 870858,
+            "weight": 0.16757398272324142
+        }
+    ],
+    "videostarttime": {
+        "1256749": 2552
+    },
+    "videolink": null,
+    "keywords": {
+        "Inboeknummer Dossiernummer": 0.9947127001020122,
+        "Dossiernummer Raads": 0.9768876758791756,
+        "plaatsvervangend voorzitter": 1.9700836637854338,
+        "gemeenteraad Inleiding": 0.9629110312109287,
+        "voorzitter": 1.9461958957230168,
+        "benoeming plaatsvervangend": 1.9314028790931688,
+        "Inboeknummer": 0.9274776490335593,
+        "Inleiding": 0.9274776490335593,
+        "gemeente Eindhoven": 0.9208440373588609,
+        "Eindhoven": 0.9172707305731967,
+        "artikel": 0.9154585824385689,
+        "Eindhoven Raadsnummer": 0.91184072080428,
+        "burgmeester voorzitter": 0.9065498596446703,
+        "Raadsvoorstel benoeming": 1.8864897557105849,
+        "Murat": 0.8845955321261085,
+        "grond": 0.8699154577980472,
+        "ontwerp raadsbesluit": 0.86848228515387,
+        "Benoemen": 0.8556993068965996,
+        "Murat Memis": 0.8476597762377157,
+        "Gemeentewet": 0.8447679476646134,
+        "raad": 0.8442534506799029,
+        "dhr": 0.8356354574071718,
+        "Eindhoven gebruikelijk": 0.8191099510309408,
+        "Doelstelling Benoemen": 0.8047820760440216,
+        "burgmeester": 0.7730827417098276,
+        "voorzitter gemeenteraad": 0.7719136989688989,
+        "ontwerp": 0.7718243151508691,
+        "voorgedragen": 0.7333789315122836,
+        "gelet": 0.708336607916952,
+        "langstzittende raadslid": 0.6850038104172356,
+        "Memis": 0.6181524662758716,
+        "Jongb": 0.553456551539136,
+        "raadslid": 0.5254809713906512,
+        "Jongb loed": 0.5178733459075744
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": "10-04-2026",
+    "meeting_id": []
+}

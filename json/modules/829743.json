@@ -1,0 +1,60 @@
+{
+    "module_id": 829743,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230022,
+    "title": "Inzet doelgroep - Documenten onder geheimhouding m.b.t. Maatschappelijke opvang Fuutlaan 10.",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/829743",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Toub (Wethouder)",
+    "result": "",
+    "date": "07-03-2023",
+    "meeting_url": {
+        "1079006": "https://raadsinformatie.eindhoven.nl/vergadering/1079006#ai_7365062"
+    },
+    "attachment": null,
+    "parent": 813324,
+    "children": [],
+    "text": "",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 824910,
+            "weight": 0.7114874728009101
+        },
+        {
+            "id": 777622,
+            "weight": 0.7094732560235284
+        },
+        {
+            "id": 829739,
+            "weight": 0.6862905522686196
+        },
+        {
+            "id": 829734,
+            "weight": 0.6695073083823033
+        }
+    ],
+    "videostarttime": {
+        "1079006": 7828
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_07.03.23_NC_Eindhoven_Meningsvorming.mp4/playlist.m3u8",
+    "keywords": {
+        "Inzet doelgroep": 1.9581125335883751,
+        "Documenten": 1.9029482086059646,
+        "Inzet": 1.7994920302806434,
+        "geheimhouding": 1.7994920302806434,
+        "opvang Fuutlaan": 1.7805083102885244,
+        "Maatschappelijke opvang": 1.5543944983562055
+    },
+    "svz": null,
+    "afgedaan": "09-04-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

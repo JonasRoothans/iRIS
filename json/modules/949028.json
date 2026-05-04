@@ -1,0 +1,155 @@
+{
+    "module_id": 949028,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230022,
+    "title": "Informeren raad Q4 2024 - Raadsvoorstel Vereenvoudiging Sociaal Domein",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/949028",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Lammers (Wethouder)",
+    "result": "",
+    "date": "04-06-2024",
+    "meeting_url": {
+        "1147942": "https://raadsinformatie.eindhoven.nl/vergadering/1147942#ai_8424221"
+    },
+    "attachment": null,
+    "parent": 941292,
+    "children": [],
+    "text": "Wethouder Toub zegt toe uiterlijk in Q4 2024 de raad te informeren over de te nemen stappen wat betreft de uitwerking van de verbetervoorstellen, de toekomstrichting en de 2-tal opdrachten inclusief een tijdspad, fasering en prioritering.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 949024,
+            "weight": 1.1618178676085564
+        },
+        {
+            "id": 996947,
+            "weight": 0.9298116753451167
+        },
+        {
+            "id": 949026,
+            "weight": 0.6642503541540733
+        },
+        {
+            "id": 1062482,
+            "weight": 0.42017389587906656
+        },
+        {
+            "id": 949434,
+            "weight": 0.3275945149480273
+        },
+        {
+            "id": 941292,
+            "weight": 0.29855688666874697
+        },
+        {
+            "id": "a_8512346",
+            "weight": 0.29333690578523364
+        },
+        {
+            "id": 790697,
+            "weight": 0.20141555760248364
+        },
+        {
+            "id": 881076,
+            "weight": 0.1939071302695084
+        },
+        {
+            "id": 787033,
+            "weight": 0.12377615821903735
+        },
+        {
+            "id": 1133353,
+            "weight": 0.12130221568405658
+        },
+        {
+            "id": 879066,
+            "weight": 0.1009052248934496
+        },
+        {
+            "id": 983826,
+            "weight": 0.10033547518597673
+        },
+        {
+            "id": 795654,
+            "weight": 0.09672209031267702
+        },
+        {
+            "id": 891067,
+            "weight": 0.0935821215835126
+        },
+        {
+            "id": 776925,
+            "weight": 0.08935573899666922
+        },
+        {
+            "id": 1139142,
+            "weight": 0.08639137966768802
+        },
+        {
+            "id": 1135885,
+            "weight": 0.07748661016600968
+        },
+        {
+            "id": 1034545,
+            "weight": 0.07527946959946565
+        },
+        {
+            "id": 906873,
+            "weight": 0.07420537755460505
+        },
+        {
+            "id": 997013,
+            "weight": 0.0693807942746391
+        },
+        {
+            "id": 937995,
+            "weight": 0.06432523148196462
+        },
+        {
+            "id": 948254,
+            "weight": 0.06366926745521545
+        }
+    ],
+    "videostarttime": {
+        "1147942": 18517
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_04.06.24_Eindhoven_meningRZ.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Vereenvoudiging": 1.9977349877852246,
+        "Vereenvoudiging Sociaal": 1.9972316082538568,
+        "Sociaal Domein": 1.9972316082538568,
+        "Domein Wethouder": 0.9972316082538567,
+        "Wethouder Toub": 0.9972316082538567,
+        "Toub zegt": 0.9952254990530721,
+        "opdrachten inclusief": 0.9935612786987282,
+        "nemen stappen": 0.9917537123586763,
+        "Informeren raad": 1.9899915349670663,
+        "Raadsvoorstel": 1.9569894967950545,
+        "raad": 1.950227295965047,
+        "Sociaal": 1.947457170692442,
+        "Domein": 1.947457170692442,
+        "Toub": 0.947457170692442,
+        "verbetervoorstellen": 0.9292597865476436,
+        "opdrachten": 0.9292597865476436,
+        "tijdspad": 0.9292597865476436,
+        "fasering": 0.9292597865476436,
+        "prioritering": 0.9292597865476436,
+        "zegt": 0.9095630465293193,
+        "uiterlijk": 0.9095630465293193,
+        "nemen": 0.9095630465293193,
+        "betreft": 0.9095630465293193,
+        "toekomstrichting": 0.9095630465293193,
+        "inclusief": 0.9095630465293193
+    },
+    "svz": null,
+    "afgedaan": "07-01-2025",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

@@ -1,0 +1,110 @@
+{
+    "module_id": "r_8748190",
+    "vote_id": 8748190,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Raadsvoorstel Gewijzigde vaststelling bp II Binnenstad(Wal Stadhuisplein Begijnenhof)",
+    "url": "https://raadsinformatie.eindhoven.nl/vergadering/1148334/Raadsvoorstel%20Gewijzigde%20vaststelling%20bp%20II%20Binnenstad%28Wal%20Stadhuisplein%20Begijnenhof%29 26-11-2024#voting_8748190",
+    "type": "Raadsvoorstel",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "aangenomen",
+    "date": "26-11-2024",
+    "meeting_url": {
+        "1148334": "https://raadsinformatie.eindhoven.nl/vergadering/1148334/Raadsvoorstel%20Gewijzigde%20vaststelling%20bp%20II%20Binnenstad%28Wal%20Stadhuisplein%20Begijnenhof%29 26-11-2024#voting_8748190"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 989925,
+            "weight": 4.715800732222976
+        },
+        {
+            "id": 977700,
+            "weight": 0.7585516776178384
+        },
+        {
+            "id": 979961,
+            "weight": 0.3782823961545533
+        },
+        {
+            "id": 922219,
+            "weight": 0.375896582092741
+        },
+        {
+            "id": 1130079,
+            "weight": 0.18164853989710267
+        },
+        {
+            "id": 16451167,
+            "weight": 0.17899961365098224
+        },
+        {
+            "id": 875804,
+            "weight": 0.17432209647690453
+        },
+        {
+            "id": 1057873,
+            "weight": 0.16356564267410595
+        },
+        {
+            "id": 1028148,
+            "weight": 0.16281824627959096
+        },
+        {
+            "id": 920515,
+            "weight": 0.1532360316396756
+        },
+        {
+            "id": 906452,
+            "weight": 0.15281252644586854
+        },
+        {
+            "id": 1013607,
+            "weight": 0.1506513998401499
+        },
+        {
+            "id": 794342,
+            "weight": 0.14836055482314964
+        },
+        {
+            "id": 1089258,
+            "weight": 0.14089921279498768
+        },
+        {
+            "id": 1120826,
+            "weight": 0.13636795035542107
+        },
+        {
+            "id": 879558,
+            "weight": 0.11607551356614638
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Wal Stadhuisplein": 1.9873976398760465,
+        "Stadhuisplein Begijnenhof": 1.9873976398760465,
+        "Raadsvoorstel Gewijzigde": 1.9765416191248102,
+        "Gewijzigde vaststelling": 1.955011371234592,
+        "Binnenstad": 1.9140368224837343,
+        "Wal": 1.9140368224837343,
+        "Begijnenhof": 1.9140368224837343,
+        "Gewijzigde": 1.8552226942577967
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1148334
+    ]
+}

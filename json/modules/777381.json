@@ -1,0 +1,61 @@
+{
+    "module_id": 777381,
+    "vote_id": null,
+    "member_id": [
+        131149
+    ],
+    "party_list": [
+        "CDA"
+    ],
+    "poho_id": [],
+    "title": "Beantwoording raadsvragen CDA (Groot) over Loostraat 9",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/4/Raadsvragen/777381",
+    "type": "Raadsvraag",
+    "member": "Niels Groot",
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "27-06-2022",
+    "meeting_url": null,
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/11771849/1?connection_type=17&connection_id=8592024": "Vraag"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": "",
+    "related": [
+        {
+            "id": 889102,
+            "weight": 0.7561415829142184
+        },
+        {
+            "id": 881943,
+            "weight": 0.7528231290050124
+        },
+        {
+            "id": 12962388,
+            "weight": 0.749946730231059
+        },
+        {
+            "id": 863909,
+            "weight": 0.33240017431472635
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "raadsvragen CDA": 1.9737669269624916,
+        "Groot": 1.9696036283675864,
+        "Beantwoording raadsvragen": 1.9505961599793435,
+        "CDA": 1.9140368224837343,
+        "Loostraat": 1.9140368224837343
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": "02-04-2026",
+    "meeting_id": []
+}

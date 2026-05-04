@@ -1,0 +1,70 @@
+{
+    "module_id": 945569,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230013,
+    "title": "Intensivering €1,5 mln. structureel onderwijshuisvesting - Raadsvoorstel Kadernota 2025",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/945569",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Steenbakkers (Wethouder)",
+    "result": "",
+    "date": "21-05-2024",
+    "meeting_url": {
+        "1147935": "https://raadsinformatie.eindhoven.nl/vergadering/1147935#ai_8359842"
+    },
+    "attachment": null,
+    "parent": 933747,
+    "children": [],
+    "text": "Wethouder Steenbakkers zegt toe dat er een voorstel komt waarin 16 jaar vooruit wordt gekeken inlusief schaalsprong.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": "a_7636233",
+            "weight": 0.32816805346438105
+        },
+        {
+            "id": 791582,
+            "weight": 0.32323197444396257
+        },
+        {
+            "id": 984410,
+            "weight": 0.312977677495846
+        },
+        {
+            "id": 1121686,
+            "weight": 0.2795369131149323
+        },
+        {
+            "id": 11765918,
+            "weight": 0.2509528768155002
+        }
+    ],
+    "videostarttime": {
+        "1147935": 11473
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_21.05.24_NC_Eindhoven_Raad.mp4/playlist.m3u8",
+    "keywords": {
+        "Intensivering": 1.9410006237031718,
+        "mln": 1.9410006237031718,
+        "Raadsvoorstel Kadernota": 1.9202160103610275,
+        "Wethouder Steenbakkers": 0.8796669529299406,
+        "Kadernota": 1.7281749773144912,
+        "Wethouder": 0.7281749773144911,
+        "structureel onderwijshuisvesting": 1.7233149701764252,
+        "Steenbakkers zegt": 0.6456537427097871,
+        "komt waarin": 0.5543944983562055,
+        "inlusief schaalsprong": 0.5543944983562055,
+        "structureel": 1.5344664897230191,
+        "jaar": 0.5344664897230191
+    },
+    "svz": null,
+    "afgedaan": "07-01-2025",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

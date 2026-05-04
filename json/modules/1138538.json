@@ -1,0 +1,117 @@
+{
+    "module_id": 1138538,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Meldpunt Signalen - Agenderingsverzoek Beleid woningsplitsing en kamerverhuur",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1138538",
+    "type": "Toezegging",
+    "member": "",
+    "party": "",
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "27-01-2026",
+    "meeting_url": {
+        "1374909": "https://raadsinformatie.eindhoven.nl/vergadering/1374909#ai_9410995"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": "Wethouder Verhees zegt toe:\nDe raad een update toe te sturen over de verbeterpunten uit de raadsbrief over het meldpunt Signalen.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1021314,
+            "weight": 2.090572519598513
+        },
+        {
+            "id": 1138532,
+            "weight": 1.6853751833837776
+        },
+        {
+            "id": 1138537,
+            "weight": 1.6852400791933078
+        },
+        {
+            "id": 1138531,
+            "weight": 1.6846992766232791
+        },
+        {
+            "id": 1133253,
+            "weight": 1.173099506376591
+        },
+        {
+            "id": 1021310,
+            "weight": 0.10859237829272186
+        },
+        {
+            "id": 1021307,
+            "weight": 0.10831001342298728
+        },
+        {
+            "id": 1021311,
+            "weight": 0.10759784502033665
+        },
+        {
+            "id": 1021308,
+            "weight": 0.1075838329653878
+        },
+        {
+            "id": 1085536,
+            "weight": 0.058824674039611086
+        },
+        {
+            "id": 777000,
+            "weight": 0.056756115649732514
+        },
+        {
+            "id": 862744,
+            "weight": 0.0559164053957254
+        },
+        {
+            "id": 1140576,
+            "weight": 0.05553777928352194
+        },
+        {
+            "id": 1140574,
+            "weight": 0.05525045430700693
+        },
+        {
+            "id": 928326,
+            "weight": 0.05128848507781994
+        },
+        {
+            "id": 932261,
+            "weight": 0.04477415216539686
+        }
+    ],
+    "videostarttime": {
+        "1374909": 729
+    },
+    "videolink": null,
+    "keywords": {
+        "Agenderingsverzoek Beleid": 1.9946919012712667,
+        "Wethouder Verhees": 0.9928371552885441,
+        "Meldpunt Signalen": 1.9867484753069076,
+        "Beleid woningsplitsing": 1.984365039346609,
+        "kamerverhuur Wethouder": 0.9843650393466089,
+        "Verhees zegt": 0.9843650393466089,
+        "Signalen": 1.9535817341232031,
+        "Beleid": 1.9156678990368865,
+        "Meldpunt": 1.860944971348095,
+        "zegt": 0.8174565599172785,
+        "raad": 0.5632030982088754,
+        "update": 0.5632030982088754,
+        "sturen": 0.5632030982088754,
+        "verbeterpunten": 0.5632030982088754,
+        "raadsbrief": 0.5632030982088754
+    },
+    "svz": "",
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "08-04-2026",
+    "meeting_id": []
+}

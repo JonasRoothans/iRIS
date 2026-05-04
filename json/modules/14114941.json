@@ -1,0 +1,77 @@
+{
+    "module_id": 14114941,
+    "vote_id": null,
+    "member_id": [
+        194500
+    ],
+    "party_list": [
+        "FVD"
+    ],
+    "poho_id": [],
+    "title": "Vraag V3 Vragenhalfuur Billboards opengebroken (FvD)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "06-05-2024",
+    "meeting_url": {
+        "1147927": "https://raadsinformatie.eindhoven.nl/vergadering/1147927/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/14114941/1/Vraag+V3+Vragenhalfuur+Billboards+opengebroken+%28FvD%29?connection_type=1&connection_id=7853370",
+    "pdf_text": " \n \n \nVraag vragenhalfuur  Billboards opengebroken       V3 \n \ndatum:  22 april 2024  \n \n \nGeacht college,  \n \n \nInleiding  \nZie onderstaand artikel  \n \nhttps://studio040.nl/nieuws/artikel/klimaatactivisten -hacken -billboards -in-\neindhoven   \n \n \n \nRaadsvragen  \n1. Gaat het college c.q. de gemeente aangifte doen? Zo nee, \nwaarom niet?  \n \nNamens de fractie , \nForum voor Democratie  \n \nNicolas Knoester , raadslid  \n \n",
+    "bst": null,
+    "related": [
+        {
+            "id": "a_10115166",
+            "weight": 0.7151908599588086
+        },
+        {
+            "id": 1051468,
+            "weight": 0.4595966147691664
+        }
+    ],
+    "videostarttime": {
+        "1147927": 1412
+    },
+    "videolink": null,
+    "keywords": {
+        "Billboards opengebroken": 1.995352348693605,
+        "Vragenhalfuur Billboards": 1.994408963607588,
+        "eindhoven Raadsvragen": 0.9879450428135357,
+        "Vraag vragenhalfuur": 0.9874955106812854,
+        "Geacht college": 0.9801426937363859,
+        "Billboards": 1.970788982400053,
+        "onderstaand artikel": 0.9587500329468083,
+        "Vraag": 1.9510656307798324,
+        "Geacht": 0.9284689485772815,
+        "Inleiding": 0.9284689485772815,
+        "FvD": 1.8989722439887058,
+        "datum": 0.8989722439887059,
+        "april": 0.8989722439887059,
+        "hacken": 0.8989722439887059,
+        "college": 0.863900566288925,
+        "Nicolas Knoester": 0.8545104796533065,
+        "artikel": 0.8334797833912007,
+        "eindhoven": 0.8334797833912007,
+        "Democratie Nicolas": 0.8174859186356562,
+        "Forum": 0.6767075489804031,
+        "Knoester": 0.6767075489804031,
+        "gemeente aangifte": 0.6290008936728104,
+        "Nicolas": 0.6071334727471616,
+        "Gaat": 0.5903603172793372,
+        "raadslid": 0.5893147792487609
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194500,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1147927
+    ]
+}

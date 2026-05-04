@@ -1,0 +1,98 @@
+{
+    "module_id": 1062477,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 248564,
+    "title": "Oproep aan ProRail om te stoppen met het gebruik van glyfosaat (Vraag V3 Vragenhalfuur)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1062477",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "R. Strijk (Wethouder)",
+    "result": "",
+    "date": "01-07-2025",
+    "meeting_url": {
+        "1256322": "https://raadsinformatie.eindhoven.nl/vergadering/1256322#ai_8588215"
+    },
+    "attachment": null,
+    "parent": "ai_8588215",
+    "children": [],
+    "text": "Wethouder Strijk zegt toe ProRail per brief te verzoeken het gebruik van glyfosaat bij het bestrijden van onkruid op en rond het spoor in onze gemeente per direct te stoppen.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 15784972,
+            "weight": 1.3970859904173192
+        },
+        {
+            "id": 15743954,
+            "weight": 1.3917989954563217
+        },
+        {
+            "id": 862747,
+            "weight": 0.14634333807589567
+        },
+        {
+            "id": 15117249,
+            "weight": 0.1268274564871795
+        },
+        {
+            "id": 1058182,
+            "weight": 0.1254680751761446
+        },
+        {
+            "id": 982801,
+            "weight": 0.12228653002216448
+        },
+        {
+            "id": 1109452,
+            "weight": 0.11821688091929984
+        },
+        {
+            "id": 12804676,
+            "weight": 0.09251202954425783
+        },
+        {
+            "id": 1074243,
+            "weight": 0.0916731404874477
+        },
+        {
+            "id": 804725,
+            "weight": 0.08857964910398983
+        }
+    ],
+    "videostarttime": {
+        "1256322": 915
+    },
+    "videolink": null,
+    "keywords": {
+        "Wethouder Strijk": 0.9968154692546706,
+        "Strijk zegt": 0.9923454892832911,
+        "per brief": 0.9821556851162313,
+        "gemeente per": 0.9821556851162313,
+        "per direct": 0.9821556851162313,
+        "ProRail per": 0.9774846533526441,
+        "Vraag": 1.964822592050689,
+        "Vragenhalfuur": 1.964822592050689,
+        "gebruik": 1.9553677852082232,
+        "stoppen": 1.9411476649105932,
+        "glyfosaat": 1.9411476649105932,
+        "per": 0.9258050398761741,
+        "Oproep": 1.9148823664576833,
+        "zegt": 0.881855333256557,
+        "verzoeken": 0.881855333256557,
+        "bestrijden": 0.881855333256557,
+        "onkruid": 0.881855333256557,
+        "spoor": 0.881855333256557
+    },
+    "svz": "VOORSTEL COLLEGE AFVOEREN. Deze brief (collegevergadering van 8 juli 2025) is verzonden aan prorail en cf. afs...  Lees verder ",
+    "afgedaan": "JULI 2025",
+    "eersteIndiener": null,
+    "lastScrapeDate": "02-10-2025",
+    "meeting_id": [
+        1256322
+    ]
+}

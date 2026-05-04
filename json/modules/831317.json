@@ -1,0 +1,79 @@
+{
+    "module_id": 831317,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Verkeersplan - Raadsvoorstel Ontwikkelingsvisie Stads-hart Woensel.",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/831317",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "28-03-2023",
+    "meeting_url": {
+        "1059806": "https://raadsinformatie.eindhoven.nl/vergadering/1059806#ai_7439253"
+    },
+    "attachment": null,
+    "parent": 821834,
+    "children": [],
+    "text": "Wethouder Verhees zegt toe:\n\nom nog technisch te beantwoorden of dat de raad het complete verkeersplan kan ontvangen.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 831320,
+            "weight": 4.404486814856078
+        },
+        {
+            "id": 918990,
+            "weight": 0.4416373206657213
+        },
+        {
+            "id": 903669,
+            "weight": 0.4376277210907029
+        },
+        {
+            "id": 821834,
+            "weight": 0.43468556908142203
+        },
+        {
+            "id": 920288,
+            "weight": 0.22049775856276102
+        },
+        {
+            "id": 831978,
+            "weight": 0.21314619294589304
+        },
+        {
+            "id": "a_8235311",
+            "weight": 0.21104104639583426
+        },
+        {
+            "id": "a_8235925",
+            "weight": 0.20682348383960275
+        }
+    ],
+    "videostarttime": {
+        "1059806": 8701
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_28.03.23_NC_eindhoven_raa.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Ontwikkelingsvisie": 1.992506208449493,
+        "Stads-hart Woensel": 1.992506208449493,
+        "Ontwikkelingsvisie Stads-hart": 1.9890861885028162,
+        "Raadsvoorstel": 1.9284140041807984,
+        "Woensel": 1.9284140041807984,
+        "Wethouder Verhees": 0.8806819675620128,
+        "Verhees zegt": 0.8276066776823716,
+        "Verkeersplan": 1.7754932388943132,
+        "ontvangen": 0.6286955374931662
+    },
+    "svz": null,
+    "afgedaan": "18-04-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

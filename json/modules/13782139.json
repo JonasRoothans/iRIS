@@ -1,0 +1,131 @@
+{
+    "module_id": 13782139,
+    "vote_id": null,
+    "member_id": [
+        80968
+    ],
+    "party_list": [
+        "SP"
+    ],
+    "poho_id": [],
+    "title": "4. Rondvraag - Prestatieafspraken wooncorporaties (SP)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "06-02-2024",
+    "meeting_url": {
+        "1146955": "https://raadsinformatie.eindhoven.nl/vergadering/1146952/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://api.notubiz.nl/document/13782139/1",
+    "pdf_text": " \n \n \nRondvraag  Prestatieafs praken wooncorporaties                     \n \n \nGeacht college,  \n \nOngeveer een jaar geleden maakte u prestatieafspraken met de Eindhovense \nwooncorporaties. Zo kwam u onder meer met Woonbedrijf overeen dat bij \nvervanging van een CV -ketel een hybride warmtepomp zonder huurverhoging \nwordt geplaatst. Ons bereiken berichten uit de Groentewijk in Vaartbroek, waar \nWoonbedrijf bezig is met een gro otscheepse opknapbeurt van woningen, dat deze \nafspraak daar niet altijd wordt nagekomen.  \n \nOmdat de SP van mening is dat deze afspraken niet voor niets zijn gemaakt leidt \ndit bij onze  fractie tot de volgende rondvraag:  \n \n1.  Klopt het dat Woonbedrijf niet in alle gevallen CV -ketels vervangt door hybride \nwarmtepompen?  \n2.  Wat is uw beeld van het nakomen van de prestatieafspraken in meer algemene \nzin? \n3.  Vindt u het -met de SP - van belang om de uitvoering van gemaakte afspraken \nactief te volgen  .. en gebeurt dat ook?  \n \n \n \n \nEindhoven, 6 februari 2024  \n \n \nHet lid van de raad,  \n \nJannie Visscher, SP  \n \n \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 13850999,
+            "weight": 0.6837784973992544
+        },
+        {
+            "id": 1082448,
+            "weight": 0.4489982761018599
+        },
+        {
+            "id": 1045702,
+            "weight": 0.4036601958433277
+        },
+        {
+            "id": 15578108,
+            "weight": 0.13458203573808486
+        },
+        {
+            "id": 1059984,
+            "weight": 0.13257198990254324
+        },
+        {
+            "id": 1050622,
+            "weight": 0.10627191965951564
+        },
+        {
+            "id": 15708198,
+            "weight": 0.10296805259573043
+        },
+        {
+            "id": 14295465,
+            "weight": 0.09785203464831778
+        },
+        {
+            "id": 1090175,
+            "weight": 0.09744103381398421
+        },
+        {
+            "id": 14028298,
+            "weight": 0.08957978766072391
+        },
+        {
+            "id": 776911,
+            "weight": 0.08886263029495692
+        },
+        {
+            "id": 11799047,
+            "weight": 0.08454222278639575
+        },
+        {
+            "id": 1077720,
+            "weight": 0.07886801785098459
+        },
+        {
+            "id": 1148996,
+            "weight": 0.0777726730740984
+        },
+        {
+            "id": 999124,
+            "weight": 0.07612474420107954
+        }
+    ],
+    "videostarttime": {
+        "1146955": 9793
+    },
+    "videolink": null,
+    "keywords": {
+        "wooncorporaties Geacht": 0.920255453051207,
+        "Eindhovense wooncorporaties": 0.920255453051207,
+        "Rondvraag Prestatieafs": 0.9157881007662906,
+        "Geacht college": 0.9139106683496934,
+        "Woonbedrijf": 0.9058311145476061,
+        "Prestatieafs praken": 0.9012506070296451,
+        "Rondvraag": 1.8762968000510627,
+        "Jannie Visscher": 0.8207978403366738,
+        "Geacht": 0.790705843032343,
+        "Eindhovense": 0.790705843032343,
+        "hybride": 0.7450991015073687,
+        "afspraken": 1.7210256265109294,
+        "volgende rondvraag": 0.7102574615726633,
+        "Vaartbroek": 0.7095489589014592,
+        "Groentewijk": 0.679069630943124,
+        "ketels vervangt": 0.6426417678599641,
+        "hybride warmtepomp": 0.6364296869824069,
+        "Vindt": 0.6307531183780826,
+        "college": 0.6212726365523606,
+        "Jannie": 0.6101679994042355,
+        "ketel": 0.5806472313978666,
+        "jaar": 0.5705835448285238,
+        "maakte": 0.5705835448285238,
+        "geplaatst": 0.529619848296127,
+        "bereiken berichten": 0.5103351067647569,
+        "gro otscheepse": 0.5103351067647569,
+        "otscheepse opknapbeurt": 0.5103351067647569
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 80968,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1146955
+    ]
+}

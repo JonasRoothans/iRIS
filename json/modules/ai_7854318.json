@@ -1,0 +1,75 @@
+{
+    "module_id": "ai_7854318",
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Toegezegde informatie - Sloopbeleid (Agenderingsverzoek SP, PvdD, LPF en 50PLUS)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/moties_en_toezeggingen/976790?parent_event=1148108",
+    "type": "Agenda",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "19-09-2024",
+    "meeting_url": "https://raadsinformatie.eindhoven.nl/vergadering/1148108#ai_7854318",
+    "attachment": null,
+    "parent": null,
+    "children": [
+        976790
+    ],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1000404,
+            "weight": 0.7739612019190324
+        },
+        {
+            "id": 967947,
+            "weight": 0.7701496928235663
+        },
+        {
+            "id": "ai_8550131",
+            "weight": 0.7701496928235663
+        },
+        {
+            "id": 967945,
+            "weight": 0.7554599786010867
+        },
+        {
+            "id": 1062479,
+            "weight": 0.410124486018179
+        },
+        {
+            "id": 826742,
+            "weight": 0.3100347013172742
+        },
+        {
+            "id": 12962261,
+            "weight": 0.28669792339430944
+        },
+        {
+            "id": 969485,
+            "weight": 0.28301046811684194
+        }
+    ],
+    "videostarttime": 637,
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_19.09.24_NC_Eindhoven_CIE2.mp4/playlist.m3u8",
+    "keywords": {
+        "Toegezegde informatie": 1.9742913828560065,
+        "Sloopbeleid": 1.9696036283675864,
+        "PvdD": 1.9550880231213545,
+        "Agenderingsverzoek": 1.9140368224837343,
+        "LPF": 1.9140368224837343,
+        "Toegezegde": 1.8416830712200127,
+        "informatie": 1.8416830712200127
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": null,
+    "meeting_id": []
+}

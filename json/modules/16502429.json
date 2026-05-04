@@ -1,0 +1,131 @@
+{
+    "module_id": 16502429,
+    "vote_id": null,
+    "member_id": [
+        80968
+    ],
+    "party_list": [
+        "SP"
+    ],
+    "poho_id": [],
+    "title": "Vraag V2 Vragenhalfuur - Hoe staat het met de ontwikkeling van de voormalige golfbaan Welschap (SP)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "20-01-2026",
+    "meeting_url": {
+        "1374857": "https://raadsinformatie.eindhoven.nl/vergadering/1374857/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/16502429/1/Vraag+V2+Vragenhalfuur+-+Hoe+staat+het+met+de+ontwikkeling+van+de+voormalige+golfbaan+Welschap+%28SP%29?connection_type=1&connection_id=9410412",
+    "pdf_text": " \n \n \nVragenhalfuur  - Hoe staat het met de ontwikkeling van de voormalige \ngolfbaan Welschap?                   V2 \n \nTijdens het debat over het raadsvoorstel ‘Variantenstudie (voormalige) golfbaan \nWelschap ” op 15 april vorig jaar deed wethoud er Thijs een toezegging n.a.v. een \nmotie van PvdD, Volt en GroenLinks. De motie riep op om  de randvoorwaarden \ndie het college wil stellen aan recreatie en evenementen  in het gebied binnen zes \nmaanden te delen met de raad.  \n \nOndertussen zijn meer dan negen maanden verstreken, vandaar de volgende \nvragen:  \n \n1. Wanneer verwacht het college de randvoorwaarden te kunnen delen met de \n gemeenteraad?  \n \n2. Hoever  staat het met de ontwikkeling van de voormalige golfbaan Welschap tot \n evenemententerrein: kan het college kort de stand van zaken schetsen?  \n \n \nEindhoven , 20 januari 2026 . \n \n \nHet lid van de raad , \n \nJannie Visscher  \n \n \n \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 1020852,
+            "weight": 1.3415536936753085
+        },
+        {
+            "id": "a_9277022",
+            "weight": 1.2059354143332257
+        },
+        {
+            "id": 1036340,
+            "weight": 0.6802014386347037
+        },
+        {
+            "id": 1036333,
+            "weight": 0.5152941547967571
+        },
+        {
+            "id": 1036331,
+            "weight": 0.4943184930879959
+        },
+        {
+            "id": 1141628,
+            "weight": 0.3161632649759371
+        },
+        {
+            "id": 797184,
+            "weight": 0.2911195096603768
+        },
+        {
+            "id": 1141276,
+            "weight": 0.2695030127021234
+        },
+        {
+            "id": 1137888,
+            "weight": 0.20614729765853324
+        },
+        {
+            "id": 1078521,
+            "weight": 0.18689773636200602
+        },
+        {
+            "id": 15708198,
+            "weight": 0.134825547009553
+        },
+        {
+            "id": 975355,
+            "weight": 0.12975682085406806
+        },
+        {
+            "id": 958793,
+            "weight": 0.1258681346004645
+        }
+    ],
+    "videostarttime": {
+        "1374857": 1625
+    },
+    "videolink": null,
+    "keywords": {
+        "golfbaan Welschap": 1.9949560314690942,
+        "voormalige golfbaan": 1.9900642410020248,
+        "Vragenhalfuur": 1.9796455078088924,
+        "Welschap": 1.970447429897923,
+        "golfbaan": 1.9581744103740721,
+        "ontwikkeling": 1.8999235883611365,
+        "staat": 1.8912325680144568,
+        "Hoever staat": 0.8768347885604973,
+        "college": 0.8720608935171511,
+        "Vraag": 1.8622938191635612,
+        "Jannie Visscher": 0.8581655430322438,
+        "Variantenstudie": 0.8294824721094698,
+        "motie": 0.817889255300573,
+        "Volt": 0.8157705858325335,
+        "april vorig": 0.8046504601545332,
+        "Thijs": 0.8023417470614355,
+        "randvoorwaarden": 0.7890020664054457,
+        "delen": 0.7890020664054457,
+        "maanden": 0.7859358092664281,
+        "vorig jaar": 0.7856976583232957,
+        "jaar deed": 0.7856976583232957,
+        "deed wethoud": 0.7856976583232957,
+        "motie riep": 0.7699528083265232,
+        "maanden verstreken": 0.7050478129215252,
+        "Hoever": 0.6639342267496103,
+        "Jannie": 0.6475566643754035,
+        "raadsvoorstel": 0.6109840287930299,
+        "april": 0.6109840287930299,
+        "toezegging": 0.6109840287930299,
+        "PvdD": 0.6109840287930299,
+        "GroenLinks": 0.6109840287930299,
+        "debat": 0.5799025532225186,
+        "vorig": 0.5799025532225186,
+        "jaar": 0.5799025532225186,
+        "volgende vragen": 0.5713399381423823
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 80968,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1374857
+    ]
+}

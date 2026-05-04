@@ -1,0 +1,85 @@
+{
+    "module_id": 1057250,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 248564,
+    "title": "Verkeerscijfers - Raadsvoorstel HOV4 vaststellen ontwerp en kredietaanvraag",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1057250",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "R. Strijk (Wethouder)",
+    "result": "",
+    "date": "19-06-2025",
+    "meeting_url": {
+        "1256618": "https://raadsinformatie.eindhoven.nl/vergadering/1256618#ai_9375563"
+    },
+    "attachment": null,
+    "parent": 1047369,
+    "children": [],
+    "text": "Wethouder Strijk zegt toe:\nIn opmaat naar de besluitvorming van het omgevingsplan in Q1 2026 de verkeerscijfers weer met de raad te delen;",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1062482,
+            "weight": 0.6344942746305824
+        },
+        {
+            "id": 1057251,
+            "weight": 0.6322416564766937
+        },
+        {
+            "id": 1057253,
+            "weight": 0.6223051038610065
+        },
+        {
+            "id": 1057248,
+            "weight": 0.6221076055942838
+        },
+        {
+            "id": 1047369,
+            "weight": 0.4266955575612988
+        },
+        {
+            "id": "a_9477074",
+            "weight": 0.20663358010541064
+        },
+        {
+            "id": "a_9477053",
+            "weight": 0.19851510698296349
+        },
+        {
+            "id": 1060059,
+            "weight": 0.18439399909160914
+        }
+    ],
+    "videostarttime": {
+        "1256618": 741
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/19.06.25 Eindhoven Meningsvorming.mp4/playlist.m3u8",
+    "keywords": {
+        "Wethouder Strijk": 0.9932382756194148,
+        "kredietaanvraag Wethouder": 0.985723489256499,
+        "Strijk zegt": 0.985723489256499,
+        "vaststellen ontwerp": 1.9794634309946288,
+        "Raadsvoorstel": 1.960045317210158,
+        "Verkeerscijfers": 1.8362605629747555,
+        "ontwerp": 1.8282485847338825,
+        "zegt": 0.8282485847338824,
+        "delen": 0.6844966924285637,
+        "opmaat": 0.5813280487168225,
+        "besluitvorming": 0.5813280487168225,
+        "omgevingsplan": 0.5813280487168225,
+        "raad": 0.5813280487168225
+    },
+    "svz": null,
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "02-10-2025",
+    "meeting_id": [
+        1256618
+    ]
+}

@@ -1,0 +1,158 @@
+{
+    "module_id": 1140802,
+    "vote_id": 10115178,
+    "member_id": [
+        42090,
+        131155,
+        194500
+    ],
+    "party_list": [
+        "LPF ",
+        "FVD",
+        "50PLUS"
+    ],
+    "poho_id": [],
+    "title": "Gratis parkeren mantelzorgers (Vrije Motie VM5)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/moties_en_toezeggingen/1140802?parent_event=1474900",
+    "type": "Vrije motie",
+    "member": "Nicolas Knoester",
+    "party": "FVD",
+    "poho": "",
+    "result": "Verworpen",
+    "date": "10-03-2026",
+    "meeting_url": {
+        "1474900": "https://raadsinformatie.eindhoven.nl/vergadering/1474900/Gratis%20parkeren%20mantelzorgers%20%28Vrije%20Motie%20VM5%29 11-03-2026#voting_408281",
+        "1374861": "https://raadsinformatie.eindhoven.nl/vergadering/1374861#ai_9410447"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": "",
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/16688527/2/Gratis+parkeren+mantelzorgers+%28Vrije+Motie+VM5%29?connection_type=17&connection_id=13070574",
+    "pdf_text": "  \n \n \nVrije Motie - Gratis parkeren mantelzorgers            VM5 \n \nDe indiene r van d eze motie stelt de gemeenteraad voor om in de vergadering van \n10 maart  2026  een besluit te nemen  over deze motie . \n \nConstaterende  dat: \n• Mantelzorgers momenteel nog voor een parkeervergunning moeten \nbetalen .1 \n• Coalitiepartijen GroenLinks -PvdA, CDA  en D66 in de Stemwijzer aangeven \nvoor gratis parkeren voor mantelzorgers te zijn (zie bijlage ). \n \nOverwegende dat : \n• Standpunten die partijen in de Stemwijzer innemen ook tot uiting dienen te \nkomen in hun stemgedrag in de gemeenteraad.  \n \nVerzoekt het college : \nZo spoedig mogelijk met een gedekt voorstel te komen waarmee \nmantelzorgers gratis kunnen parkeren.  \n \nEindhoven,  10 maart 2026 . \n \nDe leden  van de raad , \n \nNicolas Knoester  (Forum voor Democratie) , voorsteller  \nRudy Reker (Lijst Pim Fortuyn), voorsteller  \nRuud van Acquoij (50PLUS), voorsteller  \n \n \n \nDeze vrije motie is verworpen in de vergadering van  10 maart 2026 . \n \nJ. Jongbloed , griffier . \n \n  \n \n1 https://zoek.officielebekendmakingen.nl/gmb -2025 -485241.html   \nBijlage  \n \n \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 1140799,
+            "weight": 1.0135254066850763
+        },
+        {
+            "id": "m_10118154",
+            "weight": 1.0098605180807307
+        },
+        {
+            "id": 1125031,
+            "weight": 0.6542900628669431
+        },
+        {
+            "id": 1141041,
+            "weight": 0.5882760438117605
+        },
+        {
+            "id": 1036318,
+            "weight": 0.31828557072667607
+        },
+        {
+            "id": 1020525,
+            "weight": 0.31362003364301333
+        },
+        {
+            "id": 917938,
+            "weight": 0.28921077201744416
+        },
+        {
+            "id": 960621,
+            "weight": 0.21677449557808737
+        },
+        {
+            "id": 901249,
+            "weight": 0.18852604805075537
+        },
+        {
+            "id": 1094247,
+            "weight": 0.1819331463760499
+        },
+        {
+            "id": 1141043,
+            "weight": 0.17492942636562614
+        },
+        {
+            "id": 1000404,
+            "weight": 0.13355600447145805
+        },
+        {
+            "id": 914011,
+            "weight": 0.1328230211040699
+        },
+        {
+            "id": 944353,
+            "weight": 0.09521743504421872
+        }
+    ],
+    "videostarttime": {
+        "1374861": null
+    },
+    "videolink": null,
+    "keywords": {
+        "Coalitiepartijen GroenLinks": 0.9907361307870881,
+        "Vrije Motie": 1.9797369671288938,
+        "Stemwijzer aangeven": 0.9782622066572054,
+        "Gratis parkeren": 1.9776542890875102,
+        "parkeren mantelzorgers": 1.9612044197194272,
+        "motie stelt": 0.9510010410903403,
+        "Mantelzorgers momenteel": 0.9489697286670505,
+        "Motie": 1.9466701836913336,
+        "Gratis": 1.939541324538347,
+        "Constaterende": 0.9385257897639293,
+        "CDA": 0.9385257897639293,
+        "maart": 0.9365014065853772,
+        "Vrije": 1.928363343328103,
+        "Nicolas Knoester": 0.908969764814856,
+        "Rudy Reker": 0.8994735880695726,
+        "Lijst Pim": 0.8994735880695726,
+        "Pim Fortuyn": 0.8994735880695726,
+        "bijlage": 0.8851540632338246,
+        "gemeenteraad": 0.8837861515807467,
+        "PvdA": 0.875526038135781,
+        "voorsteller": 0.8629304736847936,
+        "betalen": 0.8506879937775045,
+        "GroenLinks": 0.8506879937775045,
+        "vergadering": 0.8422608131784548,
+        "indiene": 0.8248251705674543,
+        "eze": 0.8248251705674543,
+        "stelt": 0.8248251705674543,
+        "besluit": 0.8248251705674543,
+        "nemen": 0.8248251705674543,
+        "momenteel": 0.8248251705674543,
+        "parkeervergunning": 0.8248251705674543,
+        "aangeven": 0.8248251705674543,
+        "Standpunten": 0.8146714908343256,
+        "komen waarmee": 0.7752991733903505,
+        "Nicolas": 0.7111486249410374,
+        "Knoester": 0.7111486249410374,
+        "Forum": 0.7111486249410374,
+        "Democratie": 0.7111486249410374,
+        "Reker": 0.7111486249410374,
+        "Acquoij": 0.7111486249410374,
+        "Jongbloed": 0.7111486249410374,
+        "Rudy": 0.6837683948164748,
+        "Pim": 0.6837683948164748,
+        "Ruud": 0.6837683948164748,
+        "gedekt voorstel": 0.6332967321008107,
+        "Overwegende": 0.621276463949701,
+        "partijen": 0.5755054014152914,
+        "uiting": 0.5755054014152914,
+        "stemgedrag": 0.5755054014152914,
+        "Eindhoven": 0.5314596135086567,
+        "griffier": 0.5314596135086567,
+        "Verzoekt": 0.5296239006608707,
+        "college": 0.5296239006608707
+    },
+    "svz": "",
+    "afgedaan": "10-03-2026",
+    "eersteIndiener": 194500,
+    "lastScrapeDate": "08-04-2026",
+    "meeting_id": [
+        1474900
+    ]
+}

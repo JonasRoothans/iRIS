@@ -1,0 +1,168 @@
+{
+    "module_id": 14570515,
+    "vote_id": null,
+    "member_id": [
+        57511
+    ],
+    "party_list": [
+        "50PLUS"
+    ],
+    "poho_id": [],
+    "title": "Vraag V2 Vragenhalfuur - Vernieuwde Boschdijk (50PLUS)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "27-09-2024",
+    "meeting_url": {
+        "1148129": "https://raadsinformatie.eindhoven.nl/vergadering/1148129/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/14570515/2/Vraag+V2+Vragenhalfuur+-+Vernieuwde+Boschdijk+%2850PLUS%29?connection_type=1&connection_id=7854631",
+    "pdf_text": " \n \n \nVragenhalfuur Vernieuwde Boschdijk             V2  \n \n                 Maandag, 23 september 2024  \n \n \nHet is onder onze aandacht gekomen dat er een veiligheidsprobleem is op de \nonlangs vernieuwde Boschdijk. Meerdere inwoners hebben ons gemeld dat de \nrijrichting onduidelijk is als je vanuit het centrum van Eindhoven komt aanrijden.  \n \nDe oorzaak lijkt te liggen bij de huidige belijning, die onvoldoende zichtbaar is voor \nbestuurders. Dit zorgt voor verwarring en gevaarlijke situaties in het verkeer.  \n \nWij van 50 PLUS maken ons zorgen over de verkeersveiligheid en willen u daarom \nhet volgende vragen:  \n \nIs het mogelijk om de belijning op dit gedeelte van de Boschdijk te verbeteren? We \ndenken bijvoorbeeld aan het aanbrengen van duidelijke witte belijning om de \nrijbanen beter aan te geven.  We horen graag aan welke oplossingen u denkt of \nbeter nog werkt.  \n \nTevens signaleren we dat op de Boschdijk gevaarlijke situaties ontstaan door \nkeren op de weg. Dit kan leiden tot onveilige verkeerssituaties, vooral tijdens \ndrukke uren.  Zijn bij u verkeersonveilige situaties op de Boschdijk bekend? Zo ja, \nwat gaat u hieraan doen?  \n \nWij kijken uit naar uw antwoorden,  \nMet vriendelijke groet,  \n \n \nCor Verbeek, Raadslid  \n \n \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 999828,
+            "weight": 0.7059621831355691
+        },
+        {
+            "id": 879394,
+            "weight": 0.20273953851386944
+        },
+        {
+            "id": 14928655,
+            "weight": 0.17101493097034817
+        },
+        {
+            "id": 904436,
+            "weight": 0.14232237735416306
+        },
+        {
+            "id": 982440,
+            "weight": 0.11994354389438036
+        },
+        {
+            "id": 15003842,
+            "weight": 0.10855782374258068
+        },
+        {
+            "id": 14613123,
+            "weight": 0.09691862459335261
+        },
+        {
+            "id": 1072390,
+            "weight": 0.09569997775709028
+        },
+        {
+            "id": 1139066,
+            "weight": 0.093376845690914
+        },
+        {
+            "id": 775130,
+            "weight": 0.08252006108620276
+        },
+        {
+            "id": "m_8882147",
+            "weight": 0.07435849421763832
+        },
+        {
+            "id": 991227,
+            "weight": 0.07346021911945701
+        },
+        {
+            "id": 925712,
+            "weight": 0.070108565766148
+        },
+        {
+            "id": 784598,
+            "weight": 0.059141887263659404
+        },
+        {
+            "id": 1072793,
+            "weight": 0.05658949396981761
+        },
+        {
+            "id": 776958,
+            "weight": 0.0484543339590141
+        },
+        {
+            "id": 1048957,
+            "weight": 0.04481343337677415
+        },
+        {
+            "id": 1018090,
+            "weight": 0.04457293379011431
+        },
+        {
+            "id": 941339,
+            "weight": 0.03910339855805527
+        },
+        {
+            "id": 898448,
+            "weight": 0.03318522662494144
+        },
+        {
+            "id": 13305636,
+            "weight": 0.03275313097487183
+        },
+        {
+            "id": 1017940,
+            "weight": 0.03218926648912673
+        }
+    ],
+    "videostarttime": {
+        "1148129": 1296
+    },
+    "videolink": null,
+    "keywords": {
+        "Vragenhalfuur Vernieuwde": 0.9972597160498837,
+        "Vernieuwde Boschdijk": 1.995512962495174,
+        "Vernieuwde": 1.981479937231018,
+        "aandacht gekomen": 0.9678826466097658,
+        "Boschdijk": 1.9601563693186947,
+        "Maandag": 0.9449152298464761,
+        "Eindhoven komt": 0.9053811302716706,
+        "Vraag": 1.8670380790162477,
+        "september": 0.8670380790162479,
+        "Boschdijk gevaarlijke": 0.8668360433385182,
+        "belijning": 0.8454714563474094,
+        "gevaarlijke situaties": 0.8415413900700929,
+        "situaties": 0.8368142153966515,
+        "aandacht": 0.8235972565321,
+        "gekomen": 0.8235972565321,
+        "veiligheidsprobleem": 0.8235972565321,
+        "onlangs": 0.8235972565321,
+        "Cor Verbeek": 0.8050223749191772,
+        "Meerdere inwoners": 0.8017003941186341,
+        "komt aanrijden": 0.8017003941186341,
+        "rijrichting onduidelijk": 0.7775676119196809,
+        "PLUS maken": 0.763555555338757,
+        "PLUS": 1.6826417049142373,
+        "oorzaak lijkt": 0.6291820266468999,
+        "onvoldoende zichtbaar": 0.6291820266468999,
+        "Raadslid": 0.6244066038038903,
+        "Meerdere": 0.6120552792473156,
+        "Cor": 0.596064055092874,
+        "inwoners": 0.5734336544315779,
+        "gemeld": 0.5734336544315779,
+        "rijrichting": 0.5734336544315779,
+        "onduidelijk": 0.5734336544315779,
+        "centrum": 0.5734336544315779,
+        "komt": 0.5734336544315779,
+        "situaties ontstaan": 0.5278711721991458,
+        "bestuurders": 0.5198956399920709
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 57511,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1148129
+    ]
+}

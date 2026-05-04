@@ -1,0 +1,65 @@
+{
+    "module_id": "ai_9055795",
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Burgermotie - Uitspreken tegen mensenrechtenschendingen en oorlogsmisdaden in Gaza (BuM2)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/moties_en_toezeggingen/1014962?parent_event=1256316",
+    "type": "Agenda",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "25-02-2025",
+    "meeting_url": "https://raadsinformatie.eindhoven.nl/vergadering/1256316#ai_9055795",
+    "attachment": null,
+    "parent": null,
+    "children": [
+        1014962
+    ],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1047600,
+            "weight": 2.2244862610369207
+        },
+        {
+            "id": 1109494,
+            "weight": 0.6500979514010372
+        },
+        {
+            "id": 1135885,
+            "weight": 0.6427147060562929
+        },
+        {
+            "id": "ai_8881621",
+            "weight": 0.6001087524879333
+        },
+        {
+            "id": 863575,
+            "weight": 0.4016244426215002
+        },
+        {
+            "id": 1011395,
+            "weight": 0.277839060856214
+        }
+    ],
+    "videostarttime": 1896,
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/25.02.25 Eindhoven Raad.mp4/playlist.m3u8",
+    "keywords": {
+        "Burgermotie": 1.9550880231213545,
+        "Uitspreken": 1.9140368224837343,
+        "Gaza": 1.9140368224837343,
+        "mensenrechtenschendingen": 1.702634417439785,
+        "oorlogsmisdaden": 1.702634417439785
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": "30-05-2025",
+    "meeting_id": []
+}

@@ -1,0 +1,51 @@
+{
+    "module_id": 13163993,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Vraag V4 Vragenhalfuur Bijlage - Toegankelijkheid Centraal Station",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "18-09-2023",
+    "meeting_url": {
+        "1013512": "https://raadsinformatie.eindhoven.nl/vergadering/1013512/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/13163994/1/Vraag+V4+Vragenhalfuur+Toegankelijkheid+Centraal+Station+%28SP%29?connection_type=1&connection_id=6965106",
+    "pdf_text": " \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 13163994,
+            "weight": 1.9752698775093593
+        }
+    ],
+    "videostarttime": {
+        "1013512": 2000
+    },
+    "videolink": null,
+    "keywords": {
+        "Vragenhalfuur Bijlage": 1.9925553183866471,
+        "Toegankelijkheid Centraal": 1.9873976398760465,
+        "Centraal Station": 1.9873976398760465,
+        "Vraag": 1.9550880231213545,
+        "Bijlage": 1.9140368224837343,
+        "Station": 1.9140368224837343,
+        "Centraal": 1.8552226942577967
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1013512
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "module_id": 1039133,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Zichtbaar resultaat van de nieuwe sector Gebieden en Wijken (Vraag V1 Vragenhalfuur)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1039133",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "15-04-2025",
+    "meeting_url": {
+        "1256318": "https://raadsinformatie.eindhoven.nl/vergadering/1256318#ai_8588173"
+    },
+    "attachment": null,
+    "parent": "ai_8588173",
+    "children": [],
+    "text": "Wethouder Verhees zegt toe de raad voor de zomer informeren over de beoogde resultaten van de nieuwe sector Gebieden en Wijken.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 15429507,
+            "weight": 3.0027153774683244
+        },
+        {
+            "id": 1000397,
+            "weight": 0.47245606445342875
+        },
+        {
+            "id": 984525,
+            "weight": 0.3979858941034538
+        },
+        {
+            "id": 1088041,
+            "weight": 0.30003119500222386
+        },
+        {
+            "id": 941738,
+            "weight": 0.2936709332564364
+        },
+        {
+            "id": 853720,
+            "weight": 0.23337881785858614
+        },
+        {
+            "id": 1045737,
+            "weight": 0.19817805195701602
+        },
+        {
+            "id": 1020312,
+            "weight": 0.1956588976057717
+        },
+        {
+            "id": 1117280,
+            "weight": 0.171273012378505
+        },
+        {
+            "id": 956832,
+            "weight": 0.11521392589908117
+        },
+        {
+            "id": 1059969,
+            "weight": 0.11463580803868396
+        }
+    ],
+    "videostarttime": {
+        "1256318": 1470
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_15.04.25-EINDHOVEN-RAA-ONDERTITEL_2025.04.15_235545.mp4/playlist.m3u8",
+    "keywords": {
+        "sector Gebieden": 1.9982152771013784,
+        "Wethouder Verhees": 0.9973118694767971,
+        "nieuwe sector": 1.9969637957415922,
+        "Verhees zegt": 0.9939528670900735,
+        "Zichtbaar resultaat": 1.9918181118802238,
+        "zomer informeren": 0.9891410100711785,
+        "beoogde resultaten": 0.9891410100711785,
+        "Wijken": 1.9819005981655404,
+        "Vraag": 1.965014837572558,
+        "Vragenhalfuur": 1.965014837572558,
+        "nieuwe": 1.9611549329547568,
+        "sector": 1.9611549329547568,
+        "Zichtbaar": 1.9216993767003392,
+        "resultaat": 1.8963547445463766,
+        "zegt": 0.8963547445463765,
+        "zomer": 0.8963547445463765,
+        "beoogde": 0.8963547445463765
+    },
+    "svz": null,
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": [
+        1256318
+    ]
+}

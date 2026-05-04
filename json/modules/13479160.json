@@ -1,0 +1,97 @@
+{
+    "module_id": 13479160,
+    "vote_id": null,
+    "member_id": [
+        194375
+    ],
+    "party_list": [
+        "Partij voor de Dieren"
+    ],
+    "poho_id": [],
+    "title": "3. Rondvraag - 2 november raasde er een storm over Eindhoven - Ciaran (PvdD)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "14-11-2023",
+    "meeting_url": {
+        "1044929": "https://raadsinformatie.eindhoven.nl/vergadering/1013524/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://api.notubiz.nl/document/13479160/1",
+    "pdf_text": " \n \n \nRondvraag  - 2 november raasde er een storm over Eindhoven: Ciaran  \n \nWij vroegen ons af of er al een beeld is van hoeveel schade deze storm heeft  \nveroorzaakt. We lazen zelf al over de ravage op de Brederolaan waar een grote \nboom om is gegaan. En kan het college ons meenemen in wat inwoners \nkunnen verwachten over het herstel  en de herstelplant?  Of heel simpel gezegd: \nwanneer staat er een nieuwe boom?  \n \nTot vanavond,  \n \n \nMet vriendelijke groet,  \n \nJonas Roothans  \nRaadslid  \n \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 1031705,
+            "weight": 0.3921461115525333
+        },
+        {
+            "id": 952197,
+            "weight": 0.3705307637376166
+        },
+        {
+            "id": 825108,
+            "weight": 0.2979193437969308
+        },
+        {
+            "id": 797806,
+            "weight": 0.28066862398688547
+        },
+        {
+            "id": 858405,
+            "weight": 0.0867336856045531
+        },
+        {
+            "id": 883125,
+            "weight": 0.08155611852986021
+        },
+        {
+            "id": 1149679,
+            "weight": 0.07969514627744281
+        },
+        {
+            "id": 11875831,
+            "weight": 0.062748480564923
+        }
+    ],
+    "videostarttime": {
+        "1044929": 1507
+    },
+    "videolink": null,
+    "keywords": {
+        "november raasde": 1.9538868389017088,
+        "Rondvraag": 1.927488937710486,
+        "Eindhoven": 1.927029215761193,
+        "Ciaran": 1.9117930668326113,
+        "storm": 1.8815249088636685,
+        "raasde": 1.8379445202802498,
+        "Jonas Roothans": 0.8366893611761125,
+        "Roothans Raadslid": 0.8366893611761125,
+        "hoeveel schade": 0.73127460481617,
+        "boom": 0.7214091311424111,
+        "Brederolaan": 0.6975172466066188,
+        "PvdD": 1.6968579206727823,
+        "Jonas": 0.6491868662174329,
+        "Raadslid": 0.6491868662174329,
+        "veroorzaakt": 0.6148479542511935,
+        "grote boom": 0.5534790884542985,
+        "vroegen": 0.5397746479043071,
+        "beeld": 0.5397746479043071,
+        "hoeveel": 0.5397746479043071,
+        "schade": 0.5397746479043071,
+        "gegaan": 0.5228345259115563
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194375,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1044929
+    ]
+}

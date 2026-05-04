@@ -1,0 +1,119 @@
+{
+    "module_id": 1010566,
+    "vote_id": null,
+    "member_id": [
+        194500
+    ],
+    "party_list": [
+        "FVD"
+    ],
+    "poho_id": [],
+    "title": "Beantwoording raadsvragen - Verzoek om inlichtingen (Art. 169 Gemeentewet) inzake adviezen FG (FvD)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/4/Raadsvragen/1010566",
+    "type": "Raadsvraag",
+    "member": "Nicolas Knoester",
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "17-01-2025",
+    "meeting_url": null,
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/15055201/1?connection_type=17&connection_id=11433500": "Vraag",
+        "https://raadsinformatie.eindhoven.nl/document/15147417/1?connection_type=17&connection_id=11527511": "Antwoord"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": " \n \n \nRaadsvragen - Verzoek om inlichtingen (Art. 169 \nGemeentewet)  inzake adviezen FG  \n \ndatum:  16 januari 2025  \n \nGeacht college,  \n \nIn de technische vragen van 19 november 2024 heeft FVD verzocht om \nde adviezen van de FG  over de SportCom -app te ontvangen. Deze \nadviezen zijn toen niet verstrekt. Vervolgens heeft FVD op 28 november \nvia raadsvragen opnieuw om deze adviezen gevraagd. Deze  zijn wéér \nniet gedeeld, ondanks het expliciete verzoek om dat wel te doen. \nHierdoor ziet FVD zich genoodzaakt een formeel verzoek om \ninlichtingen in te dienen.  Deze werkwijze van het college ondermijnt het \nrecht op informatie van de raad  en verzwakt het vertrouwen van burgers \nin de gemeente.  \n \nVerzoek om inlichtingen (Art. 169 Gemeentewet)  \nHet verzoek aan het college is om de volgende documenten te \nverstrekken:  \n1. Alle volledige  adviezen van de Functionaris \nGegevensbescherming (FG) met betrekking tot de SportCom -\napp; \n2. Alle interne correspondentie met betrekking tot de adviezen van \nde Functionaris Gegevensbescherming (FG)  inzake de \nSportCom -app. Het gaat om correspondentie met alle statussen \n(zoals concept,  finaal, afgekeurd en gearchiveerd) . \n3. Alle notulen en/of verslagen van vergaderingen waarin de \nadviezen van de Functionaris Gegevensbescherming (FG) met \nbetrekking tot de SportCom -app zijn besproke n. \n \nNicolas Knoester  (FvD) \n",
+    "bst": "7872111_1.7.2.",
+    "related": [
+        {
+            "id": 984218,
+            "weight": 0.41661118134798386
+        },
+        {
+            "id": 1137877,
+            "weight": 0.29841722782190544
+        },
+        {
+            "id": 992053,
+            "weight": 0.29826554811664246
+        },
+        {
+            "id": 782833,
+            "weight": 0.29659805559806246
+        },
+        {
+            "id": 854650,
+            "weight": 0.2965019450587091
+        },
+        {
+            "id": 780980,
+            "weight": 0.2392383910687779
+        },
+        {
+            "id": 835268,
+            "weight": 0.07058012089550834
+        },
+        {
+            "id": 949695,
+            "weight": 0.07001178338227207
+        },
+        {
+            "id": 1095197,
+            "weight": 0.06928483691302673
+        },
+        {
+            "id": 820592,
+            "weight": 0.06242844773597695
+        },
+        {
+            "id": 862081,
+            "weight": 0.06139417609975986
+        },
+        {
+            "id": 871991,
+            "weight": 0.05769879305543398
+        },
+        {
+            "id": 785745,
+            "weight": 0.042988372710003595
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Functionaris Gegevensbescherming": 0.9697043744939029,
+        "adviezen": 1.9590479817526623,
+        "Gemeentewet": 1.9494633851346312,
+        "Art": 1.9494478812765643,
+        "Beantwoording raadsvragen": 1.9451098152752926,
+        "Verzoek": 1.9449350875558733,
+        "FvD": 1.9409393765856464,
+        "raadsvragen": 1.9160099229018157,
+        "SportCom": 0.9023477055448808,
+        "Functionaris": 0.9007523413671824,
+        "inlichtingen": 1.8990177957757952,
+        "app": 0.8813103671538853,
+        "betrekking": 0.8349438437005856,
+        "Geacht college": 0.8285277981004371,
+        "college": 0.8180395445595088,
+        "FVD verzocht": 0.7856009399011649,
+        "november": 0.7616509244727118,
+        "ziet FVD": 0.734281738909689,
+        "Geacht": 0.7318588502546819,
+        "adviezen gevraagd": 0.7304020166287444,
+        "expliciete verzoek": 0.7015062358087267,
+        "formeel verzoek": 0.6930187176383464,
+        "correspondentie": 0.6869123688102596,
+        "volledige adviezen": 0.6800806993283386,
+        "Knoester": 0.5659321467142766,
+        "Nicolas Knoester": 0.5325922476760439
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194500,
+    "lastScrapeDate": "02-04-2026",
+    "meeting_id": []
+}

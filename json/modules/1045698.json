@@ -1,0 +1,130 @@
+{
+    "module_id": 1045698,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 248564,
+    "title": "Kade - Raadsvoorstel Verkeerscirculatieplan Eindhoven binnen de Ring en Verbeterplan Ring",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1045698",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "R. Strijk (Wethouder)",
+    "result": "",
+    "date": "13-05-2025",
+    "meeting_url": {
+        "1256605": "https://raadsinformatie.eindhoven.nl/vergadering/1256605#ai_9271218"
+    },
+    "attachment": null,
+    "parent": 1035304,
+    "children": [],
+    "text": "Wethouder Strijk zegt toe dat de kade blijft, mits de voorwaarden van de zero emmissiezone, bereikbaar voor vrachtverkeer.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1045686,
+            "weight": 0.5671685463351337
+        },
+        {
+            "id": 1045682,
+            "weight": 0.567020183373045
+        },
+        {
+            "id": 1045703,
+            "weight": 0.5669860851539148
+        },
+        {
+            "id": 1045701,
+            "weight": 0.5668967296832474
+        },
+        {
+            "id": 1045691,
+            "weight": 0.5664553083209243
+        },
+        {
+            "id": 1045674,
+            "weight": 0.5656823150161568
+        },
+        {
+            "id": 1045676,
+            "weight": 0.5647151913929416
+        },
+        {
+            "id": 791578,
+            "weight": 0.39768418382092297
+        },
+        {
+            "id": "a_8288829",
+            "weight": 0.3834825132761551
+        },
+        {
+            "id": 15639395,
+            "weight": 0.38272726145908326
+        },
+        {
+            "id": 1054302,
+            "weight": 0.381635066064929
+        },
+        {
+            "id": 883277,
+            "weight": 0.37745420616874575
+        },
+        {
+            "id": 1045922,
+            "weight": 0.2211632485468699
+        },
+        {
+            "id": 925715,
+            "weight": 0.14511053820730427
+        },
+        {
+            "id": 13645065,
+            "weight": 0.11547189517342589
+        },
+        {
+            "id": 776846,
+            "weight": 0.11019566139753996
+        },
+        {
+            "id": 857445,
+            "weight": 0.10955637567545069
+        },
+        {
+            "id": 1111855,
+            "weight": 0.10589995449932957
+        }
+    ],
+    "videostarttime": {
+        "1256605": 628
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_13.05.25_NC_01-EINDHOVEN-RAA.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Verkeerscirculatieplan": 1.9970242478497182,
+        "Verkeerscirculatieplan Eindhoven": 1.9961081031516634,
+        "Wethouder Strijk": 0.9961081031516634,
+        "Verbeterplan Ring": 1.9953974035470787,
+        "Ring Wethouder": 0.9953974035470787,
+        "Strijk zegt": 0.9930117237200748,
+        "zero emmissiezone": 0.9909884644889027,
+        "kade blijft": 0.9889173445212648,
+        "Ring": 1.963209014576336,
+        "Raadsvoorstel": 1.9523493163143906,
+        "Eindhoven": 1.9377359758067199,
+        "Kade": 1.9316036422241254,
+        "mits": 0.9198701737052408,
+        "bereikbaar": 0.9198701737052408,
+        "vrachtverkeer": 0.9198701737052408,
+        "zegt": 0.8885427134598362,
+        "voorwaarden": 0.8885427134598362,
+        "zero": 0.8885427134598362
+    },
+    "svz": null,
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": [
+        1256605
+    ]
+}

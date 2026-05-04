@@ -1,0 +1,92 @@
+{
+    "module_id": 1052833,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230022,
+    "title": "Deelname Brainport - Raadsvoorstel Zienswijze GGD BZO Ontwerp Programmabegroting 2026",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1052833",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Toub (Wethouder)",
+    "result": "",
+    "date": "03-06-2025",
+    "meeting_url": {
+        "1256614": "https://raadsinformatie.eindhoven.nl/vergadering/1256614#ai_9333784"
+    },
+    "attachment": null,
+    "parent": 1037397,
+    "children": [],
+    "text": "Wethouder Toub zegt toe:\n-    De wethouder gaat de mogelijkheid voor de GGD om deel te nemen aan Brainport voor elkaar bespreken",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1052835,
+            "weight": 2.155678044683022
+        },
+        {
+            "id": 1052841,
+            "weight": 2.1516682380404566
+        },
+        {
+            "id": 1052838,
+            "weight": 2.1503977615250607
+        },
+        {
+            "id": 1037397,
+            "weight": 1.1556950724614223
+        },
+        {
+            "id": 1072949,
+            "weight": 0.6593921259339779
+        },
+        {
+            "id": 932548,
+            "weight": 0.4981511547616381
+        },
+        {
+            "id": 835436,
+            "weight": 0.497932812741386
+        },
+        {
+            "id": "r_7006031",
+            "weight": 0.2469096286862615
+        }
+    ],
+    "videostarttime": {
+        "1256614": 10201
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_03.06.25_NC_1-EINDHOVEN-RAA.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Zienswijze": 1.9961091665893167,
+        "Ontwerp Programmabegroting": 1.9961091665893167,
+        "BZO Ontwerp": 1.9946389960589554,
+        "Zienswijze GGD": 1.9932386937689195,
+        "GGD BZO": 1.9932386937689195,
+        "Deelname Brainport": 1.991464146467852,
+        "Wethouder Toub": 0.9909945290863804,
+        "Toub zegt": 0.9899159628320426,
+        "elkaar bespreken": 0.9872583068761392,
+        "Brainport": 1.954015438475445,
+        "GGD": 1.954015438475445,
+        "BZO": 1.9269766007817677,
+        "Toub": 0.9269766007817678,
+        "Deelname": 1.907973359739221,
+        "zegt": 0.8632854036423235,
+        "gaat": 0.8632854036423235,
+        "mogelijkheid": 0.8632854036423235,
+        "deel": 0.8632854036423235,
+        "nemen": 0.8632854036423235,
+        "elkaar": 0.8632854036423235
+    },
+    "svz": null,
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": [
+        1256614
+    ]
+}

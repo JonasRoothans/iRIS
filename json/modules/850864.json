@@ -1,0 +1,63 @@
+{
+    "module_id": 850864,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230022,
+    "title": "Opvang asielzoekers - Raadsvoorstel Kadernota 2024",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/850864",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Toub (Wethouder)",
+    "result": "",
+    "date": "23-05-2023",
+    "meeting_url": {
+        "1096274": "https://raadsinformatie.eindhoven.nl/vergadering/1096274#ai_7491703"
+    },
+    "attachment": null,
+    "parent": 837030,
+    "children": [],
+    "text": "Wethouder Toub zegt toe:\nterug te komen op de stand van zaken en ontwikkelingen m.b.t. opvang asielzoekers.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 945678,
+            "weight": 0.9854363483130523
+        },
+        {
+            "id": 872624,
+            "weight": 0.4520233986316671
+        },
+        {
+            "id": 869931,
+            "weight": 0.39170989798880784
+        }
+    ],
+    "videostarttime": {
+        "1096274": 12343
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_23.05.23_Eindhoven_NC_Meningsvorming.mp4/playlist.m3u8",
+    "keywords": {
+        "Opvang asielzoekers": 1.996536796686053,
+        "Raadsvoorstel Kadernota": 1.996068587087759,
+        "Wethouder Toub": 0.9941476432967787,
+        "Toub zegt": 0.9826080374015959,
+        "Opvang": 1.958530850236437,
+        "Kadernota": 1.9374219093392173,
+        "Toub": 0.9070232753949699,
+        "terug": 0.8875323018025537,
+        "ontwikkelingen": 0.8875323018025537,
+        "zegt": 0.8161405114575309,
+        "komen": 0.8161405114575309,
+        "stand": 0.8161405114575309,
+        "zaken": 0.8161405114575309
+    },
+    "svz": null,
+    "afgedaan": "13-06-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

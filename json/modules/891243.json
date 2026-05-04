@@ -1,0 +1,56 @@
+{
+    "module_id": 891243,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230014,
+    "title": "Duurzaamheidsdoelstellingen - Raadsvoorstel Vaststellen Begroting 2024",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/891243",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "R. Thijs (Wethouder)",
+    "result": "",
+    "date": "31-10-2023",
+    "meeting_url": {
+        "1153547": "https://raadsinformatie.eindhoven.nl/vergadering/1153547#ai_7885375"
+    },
+    "attachment": null,
+    "parent": 879979,
+    "children": [],
+    "text": "Wethouder Thijs zegt toe tot het maken van een nadere toelichting met betrekking tot de duurzaamheidsdoelstellingen van de gemeentelijke organisatie en vastgoed.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 999856,
+            "weight": 0.7023928144074381
+        }
+    ],
+    "videostarttime": {
+        "1153547": null
+    },
+    "videolink": null,
+    "keywords": {
+        "Raadsvoorstel Vaststellen": 1.994424728299904,
+        "Vaststellen Begroting": 1.994424728299904,
+        "Wethouder Thijs": 0.9944247282999039,
+        "Thijs zegt": 0.9837202708890308,
+        "nadere toelichting": 0.9679891754021194,
+        "gemeentelijke organisatie": 0.9679891754021194,
+        "Begroting": 1.9390429634612647,
+        "Thijs": 0.9090447846652483,
+        "vastgoed": 0.8926624605453829,
+        "Duurzaamheidsdoelstellingen": 1.8742698400414453,
+        "zegt": 0.8238809620057802,
+        "maken": 0.8238809620057802,
+        "nadere": 0.8238809620057802,
+        "organisatie": 0.8238809620057802
+    },
+    "svz": null,
+    "afgedaan": "14-11-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

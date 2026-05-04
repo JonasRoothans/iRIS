@@ -1,0 +1,89 @@
+{
+    "module_id": 1052841,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230022,
+    "title": "VNG medische arrestantenzorg - Raadsvoorstel Zienswijze GGD BZO Ontwerp Programmabegroting 2026",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1052841",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Toub (Wethouder)",
+    "result": "",
+    "date": "03-06-2025",
+    "meeting_url": {
+        "1256614": "https://raadsinformatie.eindhoven.nl/vergadering/1256614#ai_9333784"
+    },
+    "attachment": null,
+    "parent": 1037397,
+    "children": [],
+    "text": "Wethouder Toub zegt toe:\n-   De wethouder gaat bij de VNG medische arrestantenzorg bespreken.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1052835,
+            "weight": 2.1524758145083625
+        },
+        {
+            "id": 1052833,
+            "weight": 2.1516682380404566
+        },
+        {
+            "id": 1052838,
+            "weight": 2.14720317099861
+        },
+        {
+            "id": 1037397,
+            "weight": 1.1543638792264888
+        },
+        {
+            "id": 1072949,
+            "weight": 0.6586183138865181
+        },
+        {
+            "id": 932548,
+            "weight": 0.49759164488759533
+        },
+        {
+            "id": 835436,
+            "weight": 0.49737354810318185
+        },
+        {
+            "id": "r_7006031",
+            "weight": 0.2466323064841032
+        }
+    ],
+    "videostarttime": {
+        "1256614": 10201
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_03.06.25_NC_1-EINDHOVEN-RAA.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Zienswijze": 1.9938671908803403,
+        "Ontwerp Programmabegroting": 1.9938671908803403,
+        "VNG medische": 1.992280668460917,
+        "Zienswijze GGD": 1.9908995816472568,
+        "GGD BZO": 1.9908995816472568,
+        "BZO Ontwerp": 1.9908995816472568,
+        "medische arrestantenzorg": 1.983747133531938,
+        "Wethouder Toub": 0.9829275825257462,
+        "Toub zegt": 0.9814477624961888,
+        "arrestantenzorg bespreken": 0.9742554885726317,
+        "VNG": 1.9485401157016926,
+        "GGD": 1.9050350189986751,
+        "BZO": 1.9050350189986751,
+        "Toub": 0.9050350189986751,
+        "bespreken": 0.8822298699643858,
+        "zegt": 0.8081996026233028,
+        "gaat": 0.8081996026233028
+    },
+    "svz": null,
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": [
+        1256614
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "module_id": 846680,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": null,
+    "title": "Snelfietspad Eindhoven - Helmond (Vraag V3 Vragenhalfuur)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/846680",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Esselbrugge (Wethouder)",
+    "result": "",
+    "date": "09-05-2023",
+    "meeting_url": {
+        "1013486": "https://raadsinformatie.eindhoven.nl/vergadering/1013486#ai_6964915"
+    },
+    "attachment": null,
+    "parent": "ai_6964915",
+    "children": [],
+    "text": "Wethouder Esselbrugge zegt toe in het volgende overleg te benadrukken dat Eindhoven waarde hecht aan een snelle realisatie van het snelfietspad en daarbij samen op te trekken met haar collega in Helmond. Ze verwacht daarbij dat realisatie eind 2024 in plaats van begin 2024 zal plaatsvinden.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 12714331,
+            "weight": 1.9435594456763963
+        },
+        {
+            "id": 931237,
+            "weight": 0.5994805566426563
+        },
+        {
+            "id": 1139142,
+            "weight": 0.3463296159919294
+        },
+        {
+            "id": 13163994,
+            "weight": 0.20158976923809271
+        },
+        {
+            "id": 918662,
+            "weight": 0.1226397204956486
+        },
+        {
+            "id": 934077,
+            "weight": 0.09644063890750176
+        },
+        {
+            "id": 1037338,
+            "weight": 0.0949886437045298
+        },
+        {
+            "id": 12797858,
+            "weight": 0.09418380318466664
+        },
+        {
+            "id": 776901,
+            "weight": 0.09310576404511739
+        }
+    ],
+    "videostarttime": {
+        "1013486": 1868
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_09.05.23_NC_EINDHOVEN_RAA.mp4/playlist.m3u8",
+    "keywords": {
+        "Wethouder Esselbrugge": 0.9944213353113208,
+        "Esselbrugge zegt": 0.983160261314232,
+        "Eindhoven waarde": 0.9798181435546929,
+        "Snelfietspad Eindhoven": 1.9755554277980334,
+        "Helmond": 1.9667600170151305,
+        "volgende overleg": 0.9617512117984703,
+        "waarde hecht": 0.9617512117984703,
+        "Vraag": 1.9571320862391248,
+        "Vragenhalfuur": 1.9571320862391248,
+        "Wethouder": 0.9357031799717912,
+        "snelle realisatie": 0.9262047456935403,
+        "daarbij samen": 0.9262047456935403,
+        "realisatie eind": 0.8588118734598118,
+        "zegt": 0.8080632557551304,
+        "volgende": 0.8080632557551304,
+        "overleg": 0.8080632557551304,
+        "benadrukken": 0.8080632557551304,
+        "waarde": 0.8080632557551304,
+        "hecht": 0.8080632557551304,
+        "snelle": 0.8080632557551304,
+        "samen": 0.8080632557551304,
+        "trekken": 0.8080632557551304,
+        "collega": 0.8080632557551304,
+        "verwacht daarbij": 0.8068899099686782,
+        "eind": 0.6544649548070518,
+        "begin": 0.6544649548070518,
+        "plaatsvinden": 0.6544649548070518,
+        "verwacht": 0.547961299156321,
+        "plaats": 0.547961299156321
+    },
+    "svz": "Wens raad Eindhoven uitdrukkelijk overgebracht.\nVervolg is raadsvoorstel wijziging BP wat binnenkort aan u wo...  Lees verder ",
+    "afgedaan": "12-09-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

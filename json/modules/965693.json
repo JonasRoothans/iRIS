@@ -1,0 +1,94 @@
+{
+    "module_id": 965693,
+    "vote_id": null,
+    "member_id": [
+        194500
+    ],
+    "party_list": [
+        "FVD"
+    ],
+    "poho_id": [],
+    "title": "Beantwoording raadsvragen Aanpak GHB problematiek (FvD)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/4/Raadsvragen/965693",
+    "type": "Raadsvraag",
+    "member": "Nicolas Knoester",
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "13-08-2024",
+    "meeting_url": null,
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/14427040/1?connection_type=17&connection_id=10874303": "Vraag",
+        "https://raadsinformatie.eindhoven.nl/document/14510487/1?connection_type=17&connection_id=10934191": "Antwoord"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": " \n \n \nRaadsvragen van de fractie  Forum voor Democratie  \n \nAanpak GHB problematiek  \n \ndatum:  24 juli 2024  \n \n \nGeacht college,  \n \nZie onderstaand artikel:  \nhttps://www.binnenlandsbestuur.nl/bestuur -en-organisatie/ghb -verbod -\nleiden -wordt -massaal -overtreden   \n \nRaadsvragen:  \n1. Is het college bereid om het GHB vraagstuk ook in Eind hoven  \nnader te onderzoeken om gericht beleid te kunnen ontwikkelen?  \n2. Zo ja, hoe en wanneer?  \n3. Zo nee, waarom niet?  \n \n \nNamens de fractie , \nForum voor Democratie  \n \nNicolas Knoester , raadslid  \n",
+    "bst": "24bst01081",
+    "related": [
+        {
+            "id": 1057053,
+            "weight": 0.8518231914795814
+        },
+        {
+            "id": 952404,
+            "weight": 0.1686016415092133
+        },
+        {
+            "id": "a_10115066",
+            "weight": 0.15997146072008903
+        },
+        {
+            "id": 1141484,
+            "weight": 0.15984058040019428
+        },
+        {
+            "id": 1015055,
+            "weight": 0.12422844982479461
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Aanpak GHB": 1.9923894698749602,
+        "raadsvragen Aanpak": 1.9898104772104734,
+        "GHB problematiek": 1.981557929102714,
+        "Beantwoording raadsvragen": 1.9780449503480044,
+        "Democratie Aanpak": 0.9756529613510235,
+        "Geacht college": 0.9721254735244954,
+        "problematiek datum": 0.9660516569008418,
+        "onderstaand artikel": 0.958916464602042,
+        "GHB": 1.9535000132646263,
+        "Geacht": 0.9302214659730451,
+        "GHB vraagstuk": 0.8954301400734509,
+        "FvD": 1.8828856526226287,
+        "juli": 0.8828856526226287,
+        "en-organisatie": 0.8828856526226287,
+        "verbod": 0.8828856526226287,
+        "leiden": 0.8828856526226287,
+        "massaal": 0.8828856526226287,
+        "Eind hoven": 0.8544422022583363,
+        "Forum": 0.852566027672109,
+        "Nicolas Knoester": 0.837010381803723,
+        "datum": 0.8283186534551814,
+        "artikel": 0.8283186534551814,
+        "overtreden": 0.8283186534551814,
+        "fractie Forum": 0.8242838146846562,
+        "college": 0.8056808695269265,
+        "college bereid": 0.7534140701528322,
+        "Eind": 0.7503578277389849,
+        "Knoester": 0.6531729765277228,
+        "hoven nader": 0.6503623205155772,
+        "gericht beleid": 0.6503623205155772,
+        "Nicolas": 0.5959164454636681,
+        "ontwikkelen": 0.5814479464945238,
+        "raadslid": 0.5157359182720309
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194500,
+    "lastScrapeDate": "02-04-2026",
+    "meeting_id": []
+}

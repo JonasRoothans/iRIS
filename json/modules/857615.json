@@ -1,0 +1,79 @@
+{
+    "module_id": 857615,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": null,
+    "title": "Citydeal - Fastfoodreuzen (Motie M1)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/857615",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Esselbrugge (Wethouder)",
+    "result": "",
+    "date": "20-06-2023",
+    "meeting_url": {
+        "1013498": "https://raadsinformatie.eindhoven.nl/vergadering/1013498#ai_7604315"
+    },
+    "attachment": null,
+    "parent": 845668,
+    "children": [],
+    "text": "Wethouder Esselbrugge zegt toe;\n\nin de citydeal die recent door Eindhoven is ondertekend wordt het voornemen gedaan te onderzoeken hoe meer regie kan worden verkregen op het tegengaan van eentonigheid van aanbod in winkelcentra.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 777032,
+            "weight": 0.37606368986656435
+        },
+        {
+            "id": 1078951,
+            "weight": 0.12133835643338599
+        },
+        {
+            "id": 858100,
+            "weight": 0.10394240395556888
+        },
+        {
+            "id": 12398967,
+            "weight": 0.10017778352553885
+        },
+        {
+            "id": 893438,
+            "weight": 0.09990905815411394
+        },
+        {
+            "id": 1149732,
+            "weight": 0.07772722911772872
+        }
+    ],
+    "videostarttime": {
+        "1013498": 2711
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_20.06.23_NC_EINDHOVEN_RAA.mp4/playlist.m3u8",
+    "keywords": {
+        "Wethouder Esselbrugge": 0.9944796504640722,
+        "Esselbrugge zegt": 0.9839367976979435,
+        "voornemen gedaan": 0.9685575990805156,
+        "Fastfoodreuzen": 1.9672591276448286,
+        "Motie": 1.9672591276448286,
+        "Wethouder": 0.9393683108518932,
+        "Eindhoven": 0.9094525872683864,
+        "winkelcentra": 0.893667175349195,
+        "Citydeal": 1.8756461696415236,
+        "zegt": 0.8254035696529312,
+        "recent": 0.8254035696529312,
+        "ondertekend": 0.8254035696529312,
+        "gedaan": 0.8254035696529312,
+        "regie": 0.8254035696529312,
+        "verkregen": 0.8254035696529312,
+        "eentonigheid": 0.8254035696529312,
+        "aanbod": 0.8254035696529312
+    },
+    "svz": "Conform de verzamelbrief: Uitvoering toezeggingen vanuit portefeuille wethouder Strijk, van 18 februari 2025.&...  Lees verder ",
+    "afgedaan": "11-03-2025",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

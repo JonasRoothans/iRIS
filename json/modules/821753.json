@@ -1,0 +1,66 @@
+{
+    "module_id": 821753,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Uitvoeringsprogramma - Raadsvoorstel Startnotitie Pact Woensel Zuid",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/821753",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "07-02-2023",
+    "meeting_url": {
+        "1059802": "https://raadsinformatie.eindhoven.nl/vergadering/1059802#ai_7231191"
+    },
+    "attachment": null,
+    "parent": 804895,
+    "children": [],
+    "text": "Stadsgezant Bellemakers zegt toe (o.v.v. wethouder Verhees):\n\nde looptijd van het eerste uitvoeringsprogramma (3 jaar i.p.v. 5 jaar) te bespreken met de partners binnen het Pact Woensel Zuid.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 821750,
+            "weight": 0.48275425044292897
+        },
+        {
+            "id": 821751,
+            "weight": 0.4807182287559726
+        },
+        {
+            "id": 821749,
+            "weight": 0.4796761768537496
+        }
+    ],
+    "videostarttime": {
+        "1059802": 7828
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_02.07.23_NC_Eindhoven_MeningsvormingRAA.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Startnotitie": 1.9916343826679745,
+        "Stadsgezant Bellemakers": 0.987950725344177,
+        "wethouder Verhees": 0.98730167047677,
+        "Pact Woensel": 1.9812744303547691,
+        "Woensel Zuid": 1.9812744303547691,
+        "Startnotitie Pact": 1.9758015453133644,
+        "Zuid Stadsgezant": 0.9758015453133645,
+        "Bellemakers zegt": 0.970818848639571,
+        "jaar": 0.952424642986055,
+        "Raadsvoorstel": 1.9239673122834178,
+        "Verhees": 0.9239673122834178,
+        "Uitvoeringsprogramma": 1.9068466040586807,
+        "Pact": 1.8917335497042127,
+        "Zuid": 1.8917335497042127,
+        "zegt": 0.7401450606258684,
+        "looptijd": 0.7401450606258684
+    },
+    "svz": "AFVOEREN, de beoogde looptijd is met alliantiepartners afgestemd en blijft 3 jaar. Deze looptijd hangt samen m...  Lees verder ",
+    "afgedaan": "14-11-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

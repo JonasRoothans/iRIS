@@ -1,0 +1,110 @@
+{
+    "module_id": 826265,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 231116,
+    "title": "Koppeling algemene politienummer en boa's - Raadsvoorstel Beleidskader veiligheid 2023-2026",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/826265",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "J. Dijsselbloem (Burgemeester)",
+    "result": "",
+    "date": "28-02-2023",
+    "meeting_url": {
+        "1059677": "https://raadsinformatie.eindhoven.nl/vergadering/1059677#ai_7356813"
+    },
+    "attachment": null,
+    "parent": 817517,
+    "children": [],
+    "text": "Burgemeester Dijsselbloem zegt toe:\n\nmet politie in gesprek te gaan of er een koppeling mogelijk is tussen het algemene politienummer en de boa’s die op dit moment op straat zijn",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 826266,
+            "weight": 0.9689623067773843
+        },
+        {
+            "id": 826271,
+            "weight": 0.9659386103351454
+        },
+        {
+            "id": 826275,
+            "weight": 0.964729012064099
+        },
+        {
+            "id": 826277,
+            "weight": 0.9646024957282113
+        },
+        {
+            "id": 826273,
+            "weight": 0.9641878029252444
+        },
+        {
+            "id": 826276,
+            "weight": 0.9638985531631119
+        },
+        {
+            "id": 817517,
+            "weight": 0.8209706155654106
+        },
+        {
+            "id": 1088041,
+            "weight": 0.4307958007251741
+        },
+        {
+            "id": 921456,
+            "weight": 0.4247302965393127
+        },
+        {
+            "id": 861380,
+            "weight": 0.3956182094360836
+        },
+        {
+            "id": 1133253,
+            "weight": 0.38874057792894157
+        },
+        {
+            "id": 803261,
+            "weight": 0.38039604691399886
+        },
+        {
+            "id": "a_7462821",
+            "weight": 0.13063559146851297
+        }
+    ],
+    "videostarttime": {
+        "1059677": 9665
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_28.02.23_NC_Eindhoven_Raadsvergadering.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Beleidskader": 1.9938979212673889,
+        "Burgemeester Dijsselbloem": 0.9909411432281432,
+        "algemene politienummer": 1.9839727390304498,
+        "Beleidskader veiligheid": 1.9815766278674758,
+        "2023-2026 Burgemeester": 0.9815766278674759,
+        "Dijsselbloem zegt": 0.9815766278674759,
+        "veiligheid 2023-2026": 1.9621686874664028,
+        "Koppeling algemene": 1.9372394254168284,
+        "Raadsvoorstel": 1.935988601839722,
+        "algemene": 1.8941339309259195,
+        "Koppeling": 1.8605448050394635,
+        "boa": 1.8605448050394635,
+        "veiligheid": 1.8090752108265238,
+        "2023-2026": 1.8090752108265238,
+        "zegt": 0.8090752108265238,
+        "politie": 1.8090752108265238,
+        "gesprek": 0.8090752108265238,
+        "gaan": 0.8090752108265238,
+        "moment": 0.8090752108265238,
+        "straat": 0.8090752108265238
+    },
+    "svz": null,
+    "afgedaan": "16-05-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

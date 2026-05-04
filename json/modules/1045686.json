@@ -1,0 +1,115 @@
+{
+    "module_id": 1045686,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 248564,
+    "title": "Rapportage met een jaarplanning - Raadsvoorstel Verkeerscirculatieplan Eindhoven binnen de Ring en Verbeterplan Ring",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1045686",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "R. Strijk (Wethouder)",
+    "result": "",
+    "date": "13-05-2025",
+    "meeting_url": {
+        "1256605": "https://raadsinformatie.eindhoven.nl/vergadering/1256605#ai_9271218"
+    },
+    "attachment": null,
+    "parent": 1035304,
+    "children": [],
+    "text": "Wethouder Strijk zegt toe aan het begin van elk kalender wordt er een rapportage gestuurd met een jaarplanning en in Q3 een sessie met een stand van zaken te organiseren.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1045682,
+            "weight": 0.5672138708613998
+        },
+        {
+            "id": 1045703,
+            "weight": 0.5671797702522094
+        },
+        {
+            "id": 1045698,
+            "weight": 0.5671685463351337
+        },
+        {
+            "id": 1045701,
+            "weight": 0.5670903633415146
+        },
+        {
+            "id": 1045691,
+            "weight": 0.5666486780135502
+        },
+        {
+            "id": 1045674,
+            "weight": 0.5658753031699679
+        },
+        {
+            "id": 1045676,
+            "weight": 0.564907581215299
+        },
+        {
+            "id": 1045922,
+            "weight": 0.2212042452117493
+        },
+        {
+            "id": 973913,
+            "weight": 0.11047117908343183
+        },
+        {
+            "id": 1048915,
+            "weight": 0.10783802518207855
+        },
+        {
+            "id": 1069224,
+            "weight": 0.10563293428517936
+        },
+        {
+            "id": 866942,
+            "weight": 0.09033530648444633
+        },
+        {
+            "id": 955457,
+            "weight": 0.08348038899178471
+        },
+        {
+            "id": 12076667,
+            "weight": 0.06506307915689433
+        }
+    ],
+    "videostarttime": {
+        "1256605": 628
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_13.05.25_NC_01-EINDHOVEN-RAA.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Verkeerscirculatieplan": 1.9973944329251458,
+        "Verkeerscirculatieplan Eindhoven": 1.9967249527414315,
+        "Wethouder Strijk": 0.9967249527414314,
+        "Verbeterplan Ring": 1.9962938067361953,
+        "Ring Wethouder": 0.9962938067361954,
+        "Strijk zegt": 0.9941998277704897,
+        "rapportage gestuurd": 0.98797628451404,
+        "Ring": 1.9676858540157194,
+        "Raadsvoorstel": 1.9545144588711976,
+        "jaarplanning": 1.9523188771489055,
+        "Eindhoven": 1.942865454081657,
+        "organiseren": 0.9238052770687599,
+        "zegt": 0.8990676456239848,
+        "begin": 0.8990676456239848,
+        "kalender": 0.8990676456239848,
+        "gestuurd": 0.8990676456239848,
+        "sessie": 0.8990676456239848,
+        "stand": 0.8990676456239848,
+        "zaken": 0.8990676456239848
+    },
+    "svz": null,
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": [
+        1256605
+    ]
+}

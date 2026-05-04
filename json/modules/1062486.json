@@ -1,0 +1,92 @@
+{
+    "module_id": 1062486,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Niet langer wegkijken (Motie JM06)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1062486",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "01-07-2025",
+    "meeting_url": {
+        "1256322": "https://raadsinformatie.eindhoven.nl/vergadering/1256322#ai_9406393"
+    },
+    "attachment": null,
+    "parent": 1051065,
+    "children": [],
+    "text": "Wethouder Verhees verwijst naar de eerdere toezegging van wethouder Lanschot om met de Auditcommissie in gesprek te gaan over het inzichtelijk maken van de capaciteit en daarna in het voorstel aan de raad te reflecteren op de punten 1a t/m 1c  in de motie.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1060436,
+            "weight": 1.9743913283151457
+        },
+        {
+            "id": 776899,
+            "weight": 0.43895192288940355
+        },
+        {
+            "id": 970716,
+            "weight": 0.2537127746788798
+        },
+        {
+            "id": 978893,
+            "weight": 0.2483957155114728
+        },
+        {
+            "id": 900244,
+            "weight": 0.24327083882084458
+        },
+        {
+            "id": 1085519,
+            "weight": 0.21839858736413856
+        },
+        {
+            "id": 940742,
+            "weight": 0.2157759728440167
+        },
+        {
+            "id": 1146887,
+            "weight": 0.17592591945823213
+        }
+    ],
+    "videostarttime": {
+        "1256322": 7942
+    },
+    "videolink": null,
+    "keywords": {
+        "Wethouder Verhees": 0.9962883625183697,
+        "Verhees verwijst": 0.9953568977785003,
+        "langer wegkijken": 1.9937870303477698,
+        "eerdere toezegging": 0.992040320602239,
+        "inzichtelijk maken": 0.992040320602239,
+        "Motie": 1.975290644247227,
+        "Verhees": 0.9479919907265789,
+        "Lanschot": 0.9479919907265789,
+        "Auditcommissie": 0.9479919907265789,
+        "punten": 0.9305162716841173,
+        "langer": 1.9111359284260774,
+        "verwijst": 0.9111359284260774,
+        "eerdere": 0.9111359284260774,
+        "gesprek": 0.9111359284260774,
+        "gaan": 0.9111359284260774,
+        "maken": 0.9111359284260774,
+        "capaciteit": 0.9111359284260774,
+        "voorstel": 0.9111359284260774,
+        "raad": 0.9111359284260774,
+        "reflecteren": 0.9111359284260774
+    },
+    "svz": null,
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "02-10-2025",
+    "meeting_id": [
+        1256322
+    ]
+}

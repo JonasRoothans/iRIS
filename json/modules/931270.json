@@ -1,0 +1,90 @@
+{
+    "module_id": 931270,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Gesprek Trudo - Raadsvoorstel gewijzigde vaststelling bestemmingsplan IV Tongelre buiten de Ring 2019 (Rustenburgstraat)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/931270",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "26-03-2024",
+    "meeting_url": {
+        "1147894": "https://raadsinformatie.eindhoven.nl/vergadering/1147894#ai_8252361"
+    },
+    "attachment": null,
+    "parent": 914626,
+    "children": [],
+    "text": "Wethouder Verhees zegt toe met Trudo in gesprek te gaan over de leefbaarheid in de wijk tijdens de ontwikkeling.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 931237,
+            "weight": 0.38877446873832566
+        },
+        {
+            "id": 931268,
+            "weight": 0.38653233305319507
+        },
+        {
+            "id": 914626,
+            "weight": 0.3864377755547449
+        },
+        {
+            "id": 993565,
+            "weight": 0.19267087541564534
+        },
+        {
+            "id": 931203,
+            "weight": 0.18892685079267552
+        },
+        {
+            "id": 931317,
+            "weight": 0.18854267585635492
+        },
+        {
+            "id": 931465,
+            "weight": 0.18731312472674405
+        },
+        {
+            "id": 931241,
+            "weight": 0.18647822711825696
+        },
+        {
+            "id": 13821739,
+            "weight": 0.18486972019897174
+        }
+    ],
+    "videostarttime": {
+        "1147894": 7775
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_26.03.24_NC_Eindhoven_Raad.mp4/playlist.m3u8",
+    "keywords": {
+        "Wethouder Verhees": 0.9970381864256052,
+        "Raadsvoorstel gewijzigde": 1.9946950687559566,
+        "Verhees zegt": 0.9930552888253275,
+        "Gesprek Trudo": 1.9899186514460534,
+        "gewijzigde vaststelling": 1.987522063916674,
+        "vaststelling bestemmingsplan": 1.987522063916674,
+        "Rustenburgstraat": 1.9662738269496023,
+        "Trudo": 1.9633177487817361,
+        "Ring": 1.9524661105063674,
+        "Tongelre": 1.9378744897269777,
+        "ontwikkeling": 0.9201998945656232,
+        "gewijzigde": 1.8889857844605915,
+        "zegt": 0.8889857844605916,
+        "gaan": 0.8889857844605916,
+        "leefbaarheid": 0.8889857844605916,
+        "wijk": 0.8889857844605916
+    },
+    "svz": null,
+    "afgedaan": "03-09-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

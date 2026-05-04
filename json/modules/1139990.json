@@ -1,0 +1,72 @@
+{
+    "module_id": 1139990,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230013,
+    "title": "Onafhankelijk onderzoek in 2029",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1139990",
+    "type": "Toezegging",
+    "member": "",
+    "party": "",
+    "poho": "S. Steenbakkers (Wethouder)",
+    "result": "",
+    "date": "03-03-2026",
+    "meeting_url": {
+        "1374927": "https://raadsinformatie.eindhoven.nl/vergadering/1374927#ai_10009830"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": "Wethouder Steenbakkers zegt toe: In 2029 een uitgebreid, onafhankelijk onderzoek uit te voeren, naar impact op balans in de stad, grip op groei en voorzieningenniveau.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1137719,
+            "weight": 0.3609780856081583
+        },
+        {
+            "id": 1082448,
+            "weight": 0.3326351853714828
+        },
+        {
+            "id": 862662,
+            "weight": 0.31402998293812057
+        },
+        {
+            "id": 815680,
+            "weight": 0.3065430452033538
+        },
+        {
+            "id": 921493,
+            "weight": 0.2164028706251749
+        }
+    ],
+    "videostarttime": {
+        "1374927": 720
+    },
+    "videolink": null,
+    "keywords": {
+        "Wethouder Steenbakkers": 0.996028426780837,
+        "Onafhankelijk onderzoek": 1.9949193879115734,
+        "Steenbakkers zegt": 0.9896310499385798,
+        "Wethouder": 0.9463437566951052,
+        "onderzoek": 1.9278568180887317,
+        "uitgebreid": 0.9062133144588597,
+        "voeren": 0.9062133144588597,
+        "stad": 0.9062133144588597,
+        "grip": 0.9062133144588597,
+        "voorzieningenniveau": 0.9062133144588597,
+        "zegt": 0.8608017110532094,
+        "impact": 0.8608017110532094,
+        "balans": 0.8608017110532094,
+        "groei": 0.8608017110532094
+    },
+    "svz": "",
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "08-04-2026",
+    "meeting_id": []
+}

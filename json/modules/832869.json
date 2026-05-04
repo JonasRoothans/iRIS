@@ -1,0 +1,97 @@
+{
+    "module_id": 832869,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230019,
+    "title": "Motie M1A - Onderzoek naar optimale verduurzaming van nieuwbouw Tongelreep - Raadsvoorstel Investeringsbudget Nieuwbouw Tongelreep",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/832869",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. van Lanschot (Wethouder)",
+    "result": "",
+    "date": "04-04-2023",
+    "meeting_url": {
+        "1013482": "https://raadsinformatie.eindhoven.nl/vergadering/1013482#ai_7513452"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": "Wethouder Van Lanschot zegt toe de motie te omarmen.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 832867,
+            "weight": 2.051592721252814
+        },
+        {
+            "id": 832868,
+            "weight": 2.050825209654718
+        },
+        {
+            "id": 817873,
+            "weight": 1.711292572646124
+        },
+        {
+            "id": 831872,
+            "weight": 1.3898841801176474
+        },
+        {
+            "id": 799286,
+            "weight": 1.06503971896305
+        },
+        {
+            "id": 832479,
+            "weight": 0.7753701874780617
+        },
+        {
+            "id": 1107607,
+            "weight": 0.6540507685064784
+        },
+        {
+            "id": 799172,
+            "weight": 0.4907844109197338
+        },
+        {
+            "id": 884011,
+            "weight": 0.4257909750376065
+        },
+        {
+            "id": 857402,
+            "weight": 0.3130861657754765
+        },
+        {
+            "id": 1097551,
+            "weight": 0.30099903602636424
+        }
+    ],
+    "videostarttime": {
+        "1013482": null
+    },
+    "videolink": null,
+    "keywords": {
+        "Raadsvoorstel Investeringsbudget": 1.99393559042845,
+        "nieuwbouw Tongelreep": 1.9928736533365976,
+        "Tongelreep Wethouder": 0.9902494686354175,
+        "Investeringsbudget Nieuwbouw": 1.9868373480705124,
+        "Lanschot zegt": 0.9817340051000278,
+        "optimale verduurzaming": 1.9626079343585547,
+        "Tongelreep": 1.94890006191183,
+        "Onderzoek": 1.9362031970929363,
+        "Raadsvoorstel": 1.9362031970929363,
+        "nieuwbouw": 1.93125036359396,
+        "Wethouder": 0.9055147919613479,
+        "omarmen": 0.8835337011448359,
+        "Motie": 1.86155932892366,
+        "optimale": 1.8101466487076916,
+        "zegt": 0.8101466487076916
+    },
+    "svz": null,
+    "afgedaan": "12-12-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

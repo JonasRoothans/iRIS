@@ -1,0 +1,133 @@
+{
+    "module_id": 12324736,
+    "vote_id": null,
+    "member_id": [
+        194375
+    ],
+    "party_list": [
+        "Partij voor de Dieren"
+    ],
+    "poho_id": [],
+    "title": "Rondvraag PvdD Schone lucht",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "17-01-2023",
+    "meeting_url": {
+        "1057549": "https://raadsinformatie.eindhoven.nl/vergadering/1013445/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://api.notubiz.nl/document/12324736/2",
+    "pdf_text": " \n \n \nRondvraag  PvdD  Meningsvorming 17 januari 2023: Schone lucht?  \n \nGeacht college,  \n \n \nWij stelden schriftelijke vragen over de plannen van de schakel, een  \ndistributiecentrum, en het antwoord dat met name inging op de luchtkwaliteit baart  \nons zorgen.  \n \n \nDe situatie is als volgt:  \n- De wetenschap heeft consensus over hoeveel luchtvervuiling toelaatbaar \nzou moeten zijn om mensen te beschermen.  \n- De wetgeving is zo ver nog niet, dus het is vooralsnog toegestaan om 4x \ndie norm te overschrijden.  \n \nUit het antwoord namens het college lezen wij:  \n- De lucht is al ongezond, dus het maakt niet uit dat wij het nog ongezonder \nmaken. En als ik het wat chargeer zegt het college: wij kiezen voor het \nrandje van de wet, en niet voor een zo schoon en gezond mogelijk  \nEindhoven.  \n \nVragen:  \n1. Is dat echt de weg die het college wil bewandelen?  \n2. Vreest het college ook dat, als we niet voorsorteren op schonere lucht, we \nstraks achter de feiten aan lopen?  \n3. De lucht in Eindhoven is met name zo slecht door onder andere de \nintensie ve veehouderij. Heeft het college er al bij stilgestaan dat de \nontwikkelingen in Eindhoven geremd worden door de ongezonde lucht door \nde bio -industrie?  \n \nMet vriendelijke groet,  \n \nRaadslid Jonas Roothans  \n \n \n \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 12482467,
+            "weight": 1.3217618285172719
+        },
+        {
+            "id": 12466215,
+            "weight": 1.30544879467847
+        },
+        {
+            "id": 14960211,
+            "weight": 0.23811043241979601
+        },
+        {
+            "id": 13820440,
+            "weight": 0.22108445959465997
+        },
+        {
+            "id": 798583,
+            "weight": 0.19886121785920904
+        },
+        {
+            "id": 1125918,
+            "weight": 0.19865198743459356
+        },
+        {
+            "id": "r_8441115",
+            "weight": 0.1979072781806616
+        },
+        {
+            "id": 941366,
+            "weight": 0.19790610685221488
+        },
+        {
+            "id": 12867579,
+            "weight": 0.14641211935054005
+        },
+        {
+            "id": 12703162,
+            "weight": 0.12890909630083408
+        },
+        {
+            "id": 14613122,
+            "weight": 0.1196138478792906
+        },
+        {
+            "id": 13990892,
+            "weight": 0.11789072976658825
+        },
+        {
+            "id": 1149035,
+            "weight": 0.11117704117767103
+        },
+        {
+            "id": 1021189,
+            "weight": 0.08972528739307757
+        }
+    ],
+    "videostarttime": {
+        "1057549": null
+    },
+    "videolink": null,
+    "keywords": {
+        "Rondvraag PvdD": 1.995700734061273,
+        "PvdD Schone": 1.9937855385271612,
+        "PvdD Meningsvorming": 0.9926701805965212,
+        "Schone lucht": 1.9884250692841752,
+        "lucht Rondvraag": 0.9677609328604576,
+        "PvdD": 1.9413518918679369,
+        "college": 0.940200048302412,
+        "lucht": 1.928380884456712,
+        "Eindhoven": 0.8958279098423857,
+        "januari": 0.8542559254473805,
+        "Geacht college": 0.8311127333237988,
+        "antwoord": 0.7946874725738979,
+        "Raadslid Jonas": 0.7915466036801884,
+        "Jonas Roothans": 0.7915466036801884,
+        "stelden schriftelijke": 0.7703379556413639,
+        "luchtkwaliteit baart": 0.7703379556413639,
+        "vragen": 0.7614622073756913,
+        "name": 0.7555953065344302,
+        "schriftelijke vragen": 0.7402743112084732,
+        "name inging": 0.7321754188558135,
+        "Vreest": 0.6191775038223997,
+        "hoeveel luchtvervuiling": 0.6178812809707563,
+        "luchtvervuiling toelaatbaar": 0.6178812809707563,
+        "Geacht": 0.5973087474444019,
+        "schakel": 0.5973087474444019,
+        "distributiecentrum": 0.5973087474444019,
+        "zorgen": 0.5973087474444019,
+        "Jonas": 0.5747393547318476,
+        "stelden": 0.5678328727736135,
+        "plannen": 0.5678328727736135,
+        "baart": 0.5678328727736135,
+        "volgt": 0.5044820935180299,
+        "beschermen": 0.5044820935180299
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194375,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1057549
+    ]
+}

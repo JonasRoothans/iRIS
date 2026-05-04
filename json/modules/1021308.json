@@ -1,0 +1,101 @@
+{
+    "module_id": 1021308,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Leefbaarheidstoets - Agenderingsverzoek: Tegengaan van woonoverlast door woningsplitsing en kamerverhuur",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1021308",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "18-02-2025",
+    "meeting_url": {
+        "1256332": "https://raadsinformatie.eindhoven.nl/vergadering/1256332#ai_9027815"
+    },
+    "attachment": null,
+    "parent": "ai_9027815",
+    "children": [],
+    "text": "Wethouder Verhees zegt toe de raad te informeren over hoe inwoners betrokken (kunnen) worden bij de leefbaarheidstoets/-commissie.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1118082,
+            "weight": 0.7041531972002835
+        },
+        {
+            "id": 777032,
+            "weight": 0.42418086596934285
+        },
+        {
+            "id": 883343,
+            "weight": 0.22185904380768176
+        },
+        {
+            "id": 1047976,
+            "weight": 0.2134170733144821
+        },
+        {
+            "id": 1021310,
+            "weight": 0.10851168452630605
+        },
+        {
+            "id": 1021307,
+            "weight": 0.10822952947870818
+        },
+        {
+            "id": 1138538,
+            "weight": 0.1075838329653878
+        },
+        {
+            "id": 1021311,
+            "weight": 0.10751789028033168
+        },
+        {
+            "id": 1021314,
+            "weight": 0.10732620514432026
+        },
+        {
+            "id": 1138532,
+            "weight": 0.10656912434197292
+        },
+        {
+            "id": 1138537,
+            "weight": 0.10654398956705788
+        },
+        {
+            "id": 1138531,
+            "weight": 0.10644319950968364
+        }
+    ],
+    "videostarttime": {
+        "1256332": 42
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/18.02.25 Eindhoven Meningsvormend RZ.mp4/playlist.m3u8",
+    "keywords": {
+        "Wethouder Verhees": 0.9916281572568182,
+        "kamerverhuur Wethouder": 0.9836335688345734,
+        "Verhees zegt": 0.9836335688345734,
+        "inwoners betrokken": 0.9805899584790301,
+        "Agenderingsverzoek": 1.9669603196147731,
+        "commissie": 0.9490672917243146,
+        "Tegengaan": 1.9389136078667915,
+        "Leefbaarheidstoets": 1.9347143634665618,
+        "betrokken": 0.8922607228460988,
+        "woonoverlast": 1.8232727580700172,
+        "woningsplitsing": 1.8232727580700172,
+        "zegt": 0.8232727580700172,
+        "raad": 0.8232727580700172,
+        "informeren": 0.8232727580700172,
+        "inwoners": 0.8232727580700172
+    },
+    "svz": "U wordt hier in Q2 2025 schriftelijk over geinformeerd.",
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

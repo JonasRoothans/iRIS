@@ -1,0 +1,165 @@
+{
+    "module_id": 1051539,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230019,
+    "title": "Tussentijdse rapportages - Raadsvoorstel Verordening financieel beleid, beheer en organisatie 2025 gemeente Eindhoven",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1051539",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. van Lanschot (Wethouder)",
+    "result": "",
+    "date": "03-06-2025",
+    "meeting_url": {
+        "1256614": "https://raadsinformatie.eindhoven.nl/vergadering/1256614#ai_9406103"
+    },
+    "attachment": null,
+    "parent": 1037377,
+    "children": [],
+    "text": "Wethouder Van Lanschot zegt toe het aantal met de raad afgesproken tussentijdse rapportages niet eerder van twee naar één te wijzigen dan nadat hierover afspraken met de raad zijn gemaakt.\nDit jaar ontvangt de raad één tussentijdse rapportage (eind oktober) in verband met de invoering van een nieuw financieel systeem.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1052825,
+            "weight": 3.36666569003658
+        },
+        {
+            "id": 826217,
+            "weight": 0.8882407652887323
+        },
+        {
+            "id": 1112886,
+            "weight": 0.8621112901501191
+        },
+        {
+            "id": 898924,
+            "weight": 0.4349783247373424
+        },
+        {
+            "id": 1037377,
+            "weight": 0.43496183221701096
+        },
+        {
+            "id": 1081577,
+            "weight": 0.43276771285133486
+        },
+        {
+            "id": 979337,
+            "weight": 0.43144352895687355
+        },
+        {
+            "id": 913073,
+            "weight": 0.21509707179069915
+        },
+        {
+            "id": 892424,
+            "weight": 0.1749829912947598
+        },
+        {
+            "id": 975167,
+            "weight": 0.17155021192007816
+        },
+        {
+            "id": 1119943,
+            "weight": 0.16270306100334694
+        },
+        {
+            "id": 946916,
+            "weight": 0.1603886319533896
+        },
+        {
+            "id": 14072820,
+            "weight": 0.15532720308628398
+        },
+        {
+            "id": 1026194,
+            "weight": 0.15377634512282876
+        },
+        {
+            "id": 891457,
+            "weight": 0.15066754247378414
+        },
+        {
+            "id": 1085088,
+            "weight": 0.14407808215293166
+        },
+        {
+            "id": 1082736,
+            "weight": 0.14071692612403555
+        },
+        {
+            "id": 950248,
+            "weight": 0.1405774424955131
+        },
+        {
+            "id": 996947,
+            "weight": 0.1395908274261438
+        },
+        {
+            "id": 890632,
+            "weight": 0.13673070299561668
+        },
+        {
+            "id": 865496,
+            "weight": 0.1359746637826923
+        },
+        {
+            "id": 791152,
+            "weight": 0.12879625745296155
+        }
+    ],
+    "videostarttime": {
+        "1256614": 10232
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_03.06.25_NC_1-EINDHOVEN-RAA.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Verordening": 1.9953131441094274,
+        "Eindhoven Wethouder": 0.9940171642406679,
+        "gemeente Eindhoven": 1.990296985883849,
+        "Lanschot zegt": 0.9867068253979844,
+        "Verordening financieel": 1.9760006332819509,
+        "hierover afspraken": 0.9701994843729865,
+        "Tussentijdse rapportages": 1.9644439508238412,
+        "financieel beleid": 1.9606392931830152,
+        "raad afgesproken": 0.9541588673314816,
+        "afgesproken tussentijdse": 0.9541588673314816,
+        "Verordening": 1.9228815565927633,
+        "Eindhoven": 1.9228815565927633,
+        "Wethouder": 0.9228815565927633,
+        "raad één": 0.9150409876399662,
+        "Tussentijdse": 1.9141118932048982,
+        "raad": 0.9141118932048982,
+        "eind oktober": 0.8771011853035,
+        "beleid": 1.8753894664630437,
+        "beheer": 1.8753894664630437,
+        "organisatie": 1.8753894664630437,
+        "gemeente": 1.8753894664630437,
+        "gemaakt": 0.8753894664630437,
+        "rapportages": 1.8711678398073472,
+        "één": 0.8480461027258257,
+        "zegt": 0.8298878487170762,
+        "aantal": 0.8298878487170762,
+        "twee": 0.8298878487170762,
+        "wijzigen": 0.8298878487170762,
+        "hierover": 0.8298878487170762,
+        "afspraken": 0.8298878487170762,
+        "jaar ontvangt": 0.790899439915592,
+        "eind": 0.6691710279733873,
+        "systeem": 0.6691710279733873,
+        "jaar": 0.5841407299951871,
+        "verband": 0.5841407299951871,
+        "invoering": 0.5841407299951871,
+        "nieuw": 0.5841407299951871
+    },
+    "svz": null,
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": [
+        1256614
+    ]
+}

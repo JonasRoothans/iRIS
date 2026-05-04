@@ -1,0 +1,191 @@
+{
+    "module_id": 15169664,
+    "vote_id": null,
+    "member_id": [
+        194375
+    ],
+    "party_list": [
+        "Partij voor de Dieren"
+    ],
+    "poho_id": [],
+    "title": "Rondvraag 1 - Dit smaakt naar meer (PvdD)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "18-02-2025",
+    "meeting_url": {
+        "1256331": "https://raadsinformatie.eindhoven.nl/vergadering/1256329/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://api.notubiz.nl/document/15169664/2",
+    "pdf_text": " \n \n \n \nRondvraag   \nDit smaakt naar meer                       \n \nNa een bezoekje van een van onze commissieleden aan het verrijdbare arboretum \nhier voor op het plein, viel het op dat er veel eetbare planten tussen stonden : van \nfruit tot kruiden . Daar werden we natuurlijk vrolijk van.  Dit smaakt naar meer.  \n \nInmiddels wordt er hard aan de weg gewerkt in het centrum . We delen het \nenthousiasme voor de 40 van 040 met de wethouder . Maar e erder was de \nwethouder nog een beetje terughoudend met de uitvoer van “Laaghangend fruit”. \nEchter, d e huidige ontwikkelingen stemmen ons hoopvol.   \n \nOnze vraag:  \n1. Is wat wij op het stadhuisplein zien een klein voorproefje  van wat wij in de \nbinnenstad kunnen verwachten?  \n \n \nEindhoven, 18 februari 2025  \n \n \nHet lid  van de raad   \n \nJonas Roothans  (PvdD)  \n \n \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 850152,
+            "weight": 1.4736806108086173
+        },
+        {
+            "id": 856604,
+            "weight": 0.4147547995729848
+        },
+        {
+            "id": "a_7402261",
+            "weight": 0.33009930901513707
+        },
+        {
+            "id": 777045,
+            "weight": 0.2971170074182631
+        },
+        {
+            "id": 776916,
+            "weight": 0.29048152075630307
+        },
+        {
+            "id": 777002,
+            "weight": 0.2888586004027608
+        },
+        {
+            "id": 1141629,
+            "weight": 0.25125968014798317
+        },
+        {
+            "id": 884453,
+            "weight": 0.23624921874918212
+        },
+        {
+            "id": 15743351,
+            "weight": 0.21414587034104685
+        },
+        {
+            "id": 999545,
+            "weight": 0.20293474425818958
+        },
+        {
+            "id": 850351,
+            "weight": 0.2010674324871432
+        },
+        {
+            "id": 776848,
+            "weight": 0.15911207915263517
+        },
+        {
+            "id": 848627,
+            "weight": 0.14524330538330243
+        },
+        {
+            "id": 15945906,
+            "weight": 0.117982181245269
+        },
+        {
+            "id": 862747,
+            "weight": 0.0969304997633492
+        },
+        {
+            "id": 797806,
+            "weight": 0.09294309180800246
+        },
+        {
+            "id": 15190504,
+            "weight": 0.08994742253434218
+        },
+        {
+            "id": 862409,
+            "weight": 0.08866861585365943
+        },
+        {
+            "id": "a_9477820",
+            "weight": 0.08762461856677131
+        },
+        {
+            "id": 850149,
+            "weight": 0.08489137131321428
+        },
+        {
+            "id": 12506006,
+            "weight": 0.08120545698323374
+        },
+        {
+            "id": 931203,
+            "weight": 0.0766394684489494
+        },
+        {
+            "id": 820253,
+            "weight": 0.07564559085004381
+        },
+        {
+            "id": 16166531,
+            "weight": 0.07443673234062197
+        },
+        {
+            "id": 833084,
+            "weight": 0.07414423875568651
+        },
+        {
+            "id": 13124449,
+            "weight": 0.07387531292309256
+        },
+        {
+            "id": 1014949,
+            "weight": 0.05714070854651924
+        },
+        {
+            "id": 1036443,
+            "weight": 0.05639280887463569
+        }
+    ],
+    "videostarttime": {
+        "1256331": 6254
+    },
+    "videolink": null,
+    "keywords": {
+        "verrijdbare arboretum": 0.9752135066551346,
+        "eetbare planten": 0.9752135066551346,
+        "natuurlijk vrolijk": 0.9752135066551346,
+        "Rondvraag": 1.9685767008765134,
+        "smaakt": 1.9549104336754173,
+        "Laaghangend fruit": 0.9186791207328194,
+        "plein": 0.8701917467397957,
+        "viel": 0.8701917467397957,
+        "stonden": 0.8701917467397957,
+        "kruiden": 0.8701917467397957,
+        "PvdD": 1.866181530443842,
+        "Jonas Roothans": 0.8531284674253186,
+        "bezoekje": 0.8444783524544239,
+        "commissieleden": 0.8444783524544239,
+        "arboretum": 0.8444783524544239,
+        "eetbare": 0.8444783524544239,
+        "planten": 0.8444783524544239,
+        "vrolijk": 0.8444783524544239,
+        "fruit": 0.8423439981683499,
+        "wethouder": 0.808792249305891,
+        "raad Jonas": 0.7053503091281562,
+        "beetje terughoudend": 0.6967663460841158,
+        "Jonas": 0.6247650275603933,
+        "huidige ontwikkelingen": 0.6028691012898464,
+        "ontwikkelingen stemmen": 0.6028691012898464,
+        "centrum": 0.5698606026060951,
+        "hoopvol": 0.519473087079055,
+        "hard": 0.5176330361541456,
+        "gewerkt": 0.5176330361541456,
+        "delen": 0.5176330361541456,
+        "enthousiasme": 0.5176330361541456,
+        "erder": 0.5176330361541456,
+        "uitvoer": 0.5176330361541456,
+        "Eindhoven": 0.50338712902812,
+        "februari": 0.50338712902812
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194375,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1256331
+    ]
+}

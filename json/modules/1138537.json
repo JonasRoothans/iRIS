@@ -1,0 +1,83 @@
+{
+    "module_id": 1138537,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Arbeidsmigrantenaanpak -Agenderingsverzoek Beleid woningsplitsing en kamerverhuur",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1138537",
+    "type": "Toezegging",
+    "member": "",
+    "party": "",
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "27-01-2026",
+    "meeting_url": {
+        "1374909": "https://raadsinformatie.eindhoven.nl/vergadering/1374909#ai_9410995"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": "Wethouder Verhees zegt toe:\nDe raad te informeren over de arbeidsmigrantenaanpak (SGE)",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1138538,
+            "weight": 1.6852400791933078
+        },
+        {
+            "id": 1138532,
+            "weight": 1.6796798424903212
+        },
+        {
+            "id": 1138531,
+            "weight": 1.6790074517866775
+        },
+        {
+            "id": 1133253,
+            "weight": 1.1688795161016445
+        },
+        {
+            "id": 1021310,
+            "weight": 0.10754278687583155
+        },
+        {
+            "id": 1021307,
+            "weight": 0.10726315118238323
+        },
+        {
+            "id": 1021311,
+            "weight": 0.10655786618954971
+        },
+        {
+            "id": 1021308,
+            "weight": 0.10654398956705788
+        },
+        {
+            "id": 1021314,
+            "weight": 0.10636789260449911
+        }
+    ],
+    "videostarttime": {
+        "1374909": 729
+    },
+    "videolink": null,
+    "keywords": {
+        "Agenderingsverzoek Beleid": 1.992417746077161,
+        "Wethouder Verhees": 0.9889700829295436,
+        "Beleid woningsplitsing": 1.974850733530412,
+        "kamerverhuur Wethouder": 0.9748507335304121,
+        "Verhees zegt": 0.9748507335304121,
+        "Beleid": 1.8955510399770437,
+        "SGE": 0.8720144832666421,
+        "Arbeidsmigrantenaanpak": 1.865557124393915,
+        "zegt": 0.7651264580801691
+    },
+    "svz": "",
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "08-04-2026",
+    "meeting_id": []
+}

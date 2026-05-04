@@ -1,0 +1,67 @@
+{
+    "module_id": 997125,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230019,
+    "title": "P&C cyclus - Raadsvoorstel Turap 2 2024",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/997125",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. van Lanschot (Wethouder)",
+    "result": "",
+    "date": "10-12-2024",
+    "meeting_url": {
+        "1148342": "https://raadsinformatie.eindhoven.nl/vergadering/1148342#ai_8854275"
+    },
+    "attachment": null,
+    "parent": 985312,
+    "children": [],
+    "text": "Wethouder Van Lanschot zegt toe in de P&C cyclus een vast onderdeel op te nemen voor grote investeringstrajecten met een toelichting op de kostencomponent.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 985312,
+            "weight": 1.3065767190907003
+        },
+        {
+            "id": 1096887,
+            "weight": 1.2942024335677644
+        },
+        {
+            "id": 1052634,
+            "weight": 0.29876579747372495
+        },
+        {
+            "id": 955457,
+            "weight": 0.23759971543260427
+        }
+    ],
+    "videostarttime": {
+        "1148342": 5240
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_10.12.24_02-EINDHOVEN-CIE-ONDERTITEL_2024.12.10_210742.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Turap": 1.9962544760965244,
+        "Lanschot zegt": 0.9836335688345734,
+        "vast onderdeel": 0.96776056316734,
+        "grote investeringstrajecten": 0.96776056316734,
+        "Turap": 1.9389136078667915,
+        "Wethouder": 0.9389136078667913,
+        "cyclus": 1.9049707440625734,
+        "kostencomponent": 0.8922607228460988,
+        "zegt": 0.8232727580700172,
+        "vast": 0.8232727580700172,
+        "nemen": 0.8232727580700172,
+        "grote": 0.8232727580700172,
+        "toelichting": 0.8232727580700172
+    },
+    "svz": null,
+    "afgedaan": "03-06-2025",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

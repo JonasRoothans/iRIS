@@ -1,0 +1,160 @@
+{
+    "module_id": 879018,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230013,
+    "title": "Evaluatie na 6 maanden n.a.v. het verkeersbesluit - Raadsvoorstel Gebiedsvisie Eindhoven Noordwest",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/879018",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "R. Thijs (Wethouder)",
+    "result": "",
+    "date": "12-09-2023",
+    "meeting_url": {
+        "1127251": "https://raadsinformatie.eindhoven.nl/vergadering/1127251#ai_7800139"
+    },
+    "attachment": null,
+    "parent": 857634,
+    "children": [],
+    "text": "Wethouder Steenbakkers zegt toe:\nDat op het moment dat de evaluatie plaatsvindt (6 maanden na het verkeersbesluit ‘afsluiting Oirschotsedijk vanaf A. Fokkerweg voor autoverkeer’) wordt de raad hierover geïnformeerd.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 879013,
+            "weight": 2.2832156096377703
+        },
+        {
+            "id": 857634,
+            "weight": 1.7878647281002633
+        },
+        {
+            "id": 877119,
+            "weight": 0.8849797070228205
+        },
+        {
+            "id": 822134,
+            "weight": 0.32778037720574893
+        },
+        {
+            "id": 776865,
+            "weight": 0.3231085189244305
+        },
+        {
+            "id": 1054302,
+            "weight": 0.3027078956761954
+        },
+        {
+            "id": 1061167,
+            "weight": 0.3019705665577982
+        },
+        {
+            "id": 1133037,
+            "weight": 0.25331088688929937
+        },
+        {
+            "id": 1028065,
+            "weight": 0.23008576749031695
+        },
+        {
+            "id": "r_8748211",
+            "weight": 0.21456256430941867
+        },
+        {
+            "id": 977662,
+            "weight": 0.21456256430941867
+        },
+        {
+            "id": 1058165,
+            "weight": 0.20597984366551417
+        },
+        {
+            "id": 777352,
+            "weight": 0.13448884279559212
+        },
+        {
+            "id": 850907,
+            "weight": 0.10985841258073321
+        },
+        {
+            "id": 945688,
+            "weight": 0.1057673649480674
+        },
+        {
+            "id": 791319,
+            "weight": 0.10305078618716212
+        },
+        {
+            "id": 991378,
+            "weight": 0.1012631231053365
+        },
+        {
+            "id": 776981,
+            "weight": 0.07828274228815106
+        },
+        {
+            "id": 844333,
+            "weight": 0.07436921280552722
+        },
+        {
+            "id": 975323,
+            "weight": 0.0734564692323274
+        },
+        {
+            "id": 1042490,
+            "weight": 0.07123816184105612
+        },
+        {
+            "id": 836390,
+            "weight": 0.06085399753284389
+        },
+        {
+            "id": 1098683,
+            "weight": 0.05639245973371991
+        },
+        {
+            "id": 995750,
+            "weight": 0.05174315420069898
+        },
+        {
+            "id": 881943,
+            "weight": 0.04724899770273292
+        }
+    ],
+    "videostarttime": {
+        "1127251": 4339
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_12.09.23_NC_Eindhoven_Raad.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Gebiedsvisie": 1.9939841721636,
+        "Gebiedsvisie Eindhoven": 1.9919576278736844,
+        "Eindhoven Noordwest": 1.9919576278736844,
+        "Noordwest Wethouder": 0.9919576278736845,
+        "Wethouder Steenbakkers": 0.9919576278736845,
+        "Steenbakkers zegt": 0.9811023021767147,
+        "Raadsvoorstel": 1.9330519553697443,
+        "verkeersbesluit": 1.9163401873628019,
+        "Eindhoven": 1.910679182687249,
+        "Noordwest": 1.910679182687249,
+        "Wethouder": 0.9106791826872489,
+        "afsluiting Oirschotsedijk": 0.8968219781161292,
+        "maanden": 1.880526102152002,
+        "evaluatie plaatsvindt": 0.8369055681923727,
+        "Evaluatie": 1.8095243479267242,
+        "zegt": 0.7923530143463869,
+        "hierover geïnformeerd": 0.6455178149455907,
+        "afsluiting": 0.6319094289087384,
+        "Fokkerweg": 0.5409286910730078,
+        "autoverkeer’": 0.5409286910730078,
+        "moment": 0.5235151265800051,
+        "raad hierover": 0.5185208665210703
+    },
+    "svz": null,
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

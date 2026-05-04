@@ -1,0 +1,50 @@
+{
+    "module_id": "o_9287837",
+    "vote_id": 9287837,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Ordevoorstel: 7.8 Startnotitie burgerberaad in Eindhoven afvoeren van de agenda",
+    "url": "https://raadsinformatie.eindhoven.nl/vergadering/1256318/Ordevoorstel%3A%207.8%20Startnotitie%20burgerberaad%20in%20Eindhoven%20afvoeren%20van%20de%20agenda 15-04-2025#voting_9287837",
+    "type": "Ordevoorstel",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "aangenomen",
+    "date": "15-04-2025",
+    "meeting_url": {
+        "1256318": "https://raadsinformatie.eindhoven.nl/vergadering/1256318/Ordevoorstel%3A%207.8%20Startnotitie%20burgerberaad%20in%20Eindhoven%20afvoeren%20van%20de%20agenda 15-04-2025#voting_9287837"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": "o_9287835",
+            "weight": 1.9110347308282798
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Startnotitie burgerberaad": 1.9737669269624916,
+        "Ordevoorstel": 1.9550880231213545,
+        "Eindhoven afvoeren": 1.955011371234592,
+        "Startnotitie": 1.9140368224837343,
+        "Eindhoven": 1.8552226942577967,
+        "agenda": 1.8416830712200127,
+        "burgerberaad": 1.702634417439785,
+        "afvoeren": 1.702634417439785
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": "19-08-2025",
+    "meeting_id": [
+        1256318
+    ]
+}

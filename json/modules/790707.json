@@ -1,0 +1,81 @@
+{
+    "module_id": 790707,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Vergunningen van rechtswege",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/790707",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "01-11-2022",
+    "meeting_url": {
+        "1034745": "https://raadsinformatie.eindhoven.nl/vergadering/1034745#ai_7087333"
+    },
+    "attachment": null,
+    "parent": "ai_7087333",
+    "children": [],
+    "text": "De raad technisch informeren over hoe buurtbewoners geïnformeerd zijn bij de eerdere 11 vergunningen die van rechtswege zijn verleend.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 790708,
+            "weight": 0.5673703730498643
+        },
+        {
+            "id": 973400,
+            "weight": 0.21371914726627023
+        },
+        {
+            "id": 984501,
+            "weight": 0.1042287787421451
+        },
+        {
+            "id": 796519,
+            "weight": 0.1042287787421451
+        },
+        {
+            "id": 984519,
+            "weight": 0.09660166628667291
+        },
+        {
+            "id": 781186,
+            "weight": 0.09165577000466708
+        },
+        {
+            "id": 781185,
+            "weight": 0.09110640807242815
+        },
+        {
+            "id": 850906,
+            "weight": 0.06857080412931206
+        }
+    ],
+    "videostarttime": {
+        "1034745": 3871
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_01.11.22_NC_Eindhoven_CIE.mp4/playlist.m3u8",
+    "keywords": {
+        "raad technisch": 0.962811562521994,
+        "technisch informeren": 0.962811562521994,
+        "buurtbewoners geïnformeerd": 0.962811562521994,
+        "Vergunningen": 1.9275781068198803,
+        "rechtswege": 1.895365822763709,
+        "eerdere": 0.8838675103188006,
+        "verleend": 0.8838675103188006,
+        "raad": 0.8106457172361098,
+        "informeren": 0.8106457172361098,
+        "buurtbewoners": 0.8106457172361098,
+        "geïnformeerd": 0.8106457172361098
+    },
+    "svz": null,
+    "afgedaan": "22-11-2022",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

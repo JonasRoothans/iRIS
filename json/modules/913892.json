@@ -1,0 +1,93 @@
+{
+    "module_id": 913892,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230014,
+    "title": "Extra middelen begroting 2024 - Weg met de bomenwachtlijst (Vrije Motie VM1)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/913892",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "R. Thijs (Wethouder)",
+    "result": "",
+    "date": "23-01-2024",
+    "meeting_url": {
+        "1146938": "https://raadsinformatie.eindhoven.nl/vergadering/1146938#ai_7847334"
+    },
+    "attachment": null,
+    "parent": 913095,
+    "children": [],
+    "text": "Wethouder Thijs zegt toe:\n\nin de begroting 2024 zijn extra middelen beschikbaar gesteld, daarmee kan een voor het plantseizoen 2024-2025 een versnelling worden gerealiseerd;",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 913095,
+            "weight": 1.2236488725078152
+        },
+        {
+            "id": 913902,
+            "weight": 1.2086485866522056
+        },
+        {
+            "id": 956672,
+            "weight": 0.7073178831278807
+        },
+        {
+            "id": 1045729,
+            "weight": 0.27518171647943246
+        },
+        {
+            "id": 1063256,
+            "weight": 0.2721756662750313
+        },
+        {
+            "id": 1059754,
+            "weight": 0.2707418572956847
+        },
+        {
+            "id": 1009004,
+            "weight": 0.26741822263091103
+        },
+        {
+            "id": 899726,
+            "weight": 0.22601555146528168
+        },
+        {
+            "id": 1113832,
+            "weight": 0.15830434561372236
+        }
+    ],
+    "videostarttime": {
+        "1146938": 4248
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_23.04.24_NC_EINDHOVEN-RAA-Raadsvergadering .mp4/playlist.m3u8",
+    "keywords": {
+        "Vrije Motie": 1.995926225976448,
+        "Wethouder Thijs": 0.9939531611564639,
+        "Thijs zegt": 0.9818071937394303,
+        "beschikbaar gesteld": 0.9775153746558406,
+        "Extra middelen": 1.977100536093643,
+        "middelen begroting": 1.9687412894959533,
+        "plantseizoen 2024-2025": 0.962811562521994,
+        "Vrije": 1.936303487369204,
+        "Motie": 1.936303487369204,
+        "begroting": 1.9275781068198803,
+        "Thijs": 0.9056385647413195,
+        "Extra": 1.895365822763709,
+        "bomenwachtlijst": 1.8838675103188005,
+        "gesteld": 0.8838675103188006,
+        "daarmee": 0.8838675103188006,
+        "gerealiseerd": 0.8838675103188006,
+        "zegt": 0.8106457172361098,
+        "2024-2025": 0.8106457172361098,
+        "versnelling": 0.8106457172361098
+    },
+    "svz": null,
+    "afgedaan": "19-09-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

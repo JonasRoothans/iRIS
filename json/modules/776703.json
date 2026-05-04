@@ -1,0 +1,45 @@
+{
+    "module_id": 776703,
+    "vote_id": null,
+    "member_id": [
+        47266,
+        131155,
+        77830
+    ],
+    "party_list": [
+        "SP",
+        "50PLUS",
+        " Ouderen Appèl - Hart voor Eindhoven"
+    ],
+    "poho_id": [],
+    "title": "AcM1: AcM1 Onderzoek consequenties loondispensatie",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/moties_en_toezeggingen/776703?parent_event=452329",
+    "type": "Actuele motie",
+    "member": "Ruud van Acquoij, Henk Jager, Murat Memiş en Niek Rennenberg",
+    "party": null,
+    "poho": null,
+    "result": "Ingetrokken",
+    "date": "17-04-2018",
+    "meeting_url": "https://raadsinformatie.eindhoven.nl/vergadering/452329#ai_3595107",
+    "attachment": null,
+    "parent": "ai_3595107",
+    "children": [
+        776708
+    ],
+    "text": "",
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/11768274/1/Onderzoek_consequenties_loondispensatie?connection_type=17&connection_id=8578463",
+    "pdf_text": "",
+    "bst": null,
+    "related": null,
+    "videostarttime": 4901,
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/17.04.18 Eindhoven Raad.mp4/playlist.m3u8",
+    "keywords": {
+        "Onderzoek consequenties": 1.9876274276068195,
+        "consequenties loondispensatie": 1.9771147512785534,
+        "Onderzoek": 1.935988601839722
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": null
+}

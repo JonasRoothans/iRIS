@@ -1,0 +1,82 @@
+{
+    "module_id": 777331,
+    "vote_id": null,
+    "member_id": [
+        131137,
+        47266,
+        194242,
+        194500,
+        194375,
+        80968,
+        131143,
+        194376,
+        42090,
+        194508,
+        131155
+    ],
+    "party_list": [
+        "Partij voor de Dieren",
+        "D66",
+        "Volt",
+        "PvdA",
+        "VVD",
+        " Ouderen Appèl - Hart voor Eindhoven",
+        "GroenLinks",
+        "LPF ",
+        "FVD",
+        "SP",
+        "50PLUS"
+    ],
+    "poho_id": [],
+    "title": "Beantwoording raadsvragen VVD e.a. over Toegankelijkheid van Park Hilaria",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/4/Raadsvragen/777331",
+    "type": "Raadsvraag",
+    "member": "Ruud van Acquoij, Marieke van Gastel, Wil van Haalen, Nicolas Knoester, Gisèle Mambre, Jorien Migchielsen, Rudy Reker, Niek Rennenberg, Jonas Roothans, Jacco Rubenkamp en Jannie Visscher",
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "21-07-2022",
+    "meeting_url": null,
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/11771634/1?connection_type=17&connection_id=8591500": "Vraag"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": "22bst01055",
+    "related": [
+        {
+            "id": 906504,
+            "weight": 0.3816403272401486
+        },
+        {
+            "id": 776925,
+            "weight": 0.3528675600701662
+        },
+        {
+            "id": 1113611,
+            "weight": 0.26813984472516716
+        },
+        {
+            "id": 1072502,
+            "weight": 0.2612282755345236
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Park Hilaria": 1.9873976398760465,
+        "raadsvragen VVD": 1.9737669269624916,
+        "Beantwoording raadsvragen": 1.9505961599793435,
+        "VVD": 1.9140368224837343,
+        "Toegankelijkheid": 1.8552226942577967,
+        "Park": 1.8552226942577967
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": "02-04-2026",
+    "meeting_id": []
+}

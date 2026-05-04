@@ -1,0 +1,131 @@
+{
+    "module_id": 890016,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230013,
+    "title": "Haalbaarheid project - Commissienotitie Adviesaanvraag Voorlopig Ontwerp Stedenbouwkundig Plan The Dutch Mountains (TDM)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/890016",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Steenbakkers (Wethouder)",
+    "result": "",
+    "date": "30-10-2023",
+    "meeting_url": {
+        "1149334": "https://raadsinformatie.eindhoven.nl/vergadering/1149334#ai_7919402"
+    },
+    "attachment": null,
+    "parent": 884948,
+    "children": [],
+    "text": "Wethouder Steenbakkers zegt toe met de ontwikkelaar in gesprek te gaan over een concreet moment waarop beslist wordt dat het project haalbaar is (go/no-go moment).",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 890017,
+            "weight": 6.011495827149909
+        },
+        {
+            "id": 884948,
+            "weight": 3.641374891063209
+        },
+        {
+            "id": 924599,
+            "weight": 2.254681231927391
+        },
+        {
+            "id": 950071,
+            "weight": 1.159085838656281
+        },
+        {
+            "id": 793201,
+            "weight": 0.414089403189018
+        },
+        {
+            "id": 1103001,
+            "weight": 0.39822171583373445
+        },
+        {
+            "id": 950170,
+            "weight": 0.35086705387917405
+        },
+        {
+            "id": 789322,
+            "weight": 0.25558702265757843
+        },
+        {
+            "id": 1133033,
+            "weight": 0.16026052592793055
+        },
+        {
+            "id": 782832,
+            "weight": 0.09244648923726957
+        },
+        {
+            "id": 854654,
+            "weight": 0.09228799393666032
+        },
+        {
+            "id": 882885,
+            "weight": 0.09222133144755609
+        },
+        {
+            "id": 1137881,
+            "weight": 0.09218865840787778
+        },
+        {
+            "id": 992758,
+            "weight": 0.092108127708962
+        },
+        {
+            "id": 1109497,
+            "weight": 0.09210270449340062
+        },
+        {
+            "id": 813293,
+            "weight": 0.0852386197817454
+        }
+    ],
+    "videostarttime": {},
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_30.10.23_NC_Eindhoven_raad.mp4/playlist.m3u8",
+    "keywords": {
+        "Commissienotitie Adviesaanvraag": 1.9943516277049946,
+        "Dutch Mountains": 1.9943516277049946,
+        "Wethouder Steenbakkers": 0.9943516277049946,
+        "Adviesaanvraag Voorlopig": 1.991558128321706,
+        "Voorlopig Ontwerp": 1.991558128321706,
+        "Ontwerp Stedenbouwkundig": 1.991558128321706,
+        "Stedenbouwkundig Plan": 1.991558128321706,
+        "Plan The": 1.991558128321706,
+        "The Dutch": 1.991558128321706,
+        "Steenbakkers zegt": 0.9834300734310607,
+        "Haalbaarheid project": 1.9714786436632128,
+        "no-go moment": 0.9714786436632127,
+        "waarop beslist": 0.9672217425469819,
+        "TDM": 1.9667616096427905,
+        "moment waarop": 0.9523791602153518,
+        "project haalbaar": 0.9523791602153518,
+        "Wethouder": 0.9386120372534895,
+        "Ontwerp": 1.9085057211826901,
+        "Plan": 1.9085057211826901,
+        "The": 1.9085057211826901,
+        "no-go": 0.8913190745870246,
+        "project": 1.8724226616196051,
+        "moment": 0.872422661619605,
+        "zegt": 0.8218485391955245,
+        "ontwikkelaar": 0.8218485391955245,
+        "gesprek": 0.8218485391955245,
+        "gaan": 0.8218485391955245,
+        "concreet": 0.8218485391955245,
+        "waarop": 0.8218485391955245,
+        "beslist": 0.8218485391955245,
+        "haalbaar": 0.8218485391955245
+    },
+    "svz": null,
+    "afgedaan": "09-04-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

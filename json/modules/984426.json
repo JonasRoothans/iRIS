@@ -1,0 +1,72 @@
+{
+    "module_id": 984426,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230013,
+    "title": "Beethoven gelden - Raadsvoorstel Begroting 2025",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/984426",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Steenbakkers (Wethouder)",
+    "result": "",
+    "date": "29-10-2024",
+    "meeting_url": {
+        "1148141": "https://raadsinformatie.eindhoven.nl/vergadering/1148141#ai_8729567"
+    },
+    "attachment": null,
+    "parent": 975511,
+    "children": [],
+    "text": "Wethouder Steenbakkers zegt toe dat er raadsinformatiebrief komt over de intensiveringen per thema (ook voorzieningen)",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 996629,
+            "weight": 0.8186960043616932
+        },
+        {
+            "id": 1052828,
+            "weight": 0.2926237366515277
+        },
+        {
+            "id": 984520,
+            "weight": 0.2718005963001374
+        },
+        {
+            "id": 863511,
+            "weight": 0.2651063294643198
+        },
+        {
+            "id": 1014907,
+            "weight": 0.19943452360836997
+        }
+    ],
+    "videostarttime": {
+        "1148141": null
+    },
+    "videolink": null,
+    "keywords": {
+        "Raadsvoorstel Begroting": 1.9925553183866471,
+        "Wethouder Steenbakkers": 0.9873976398760466,
+        "Beethoven gelden": 1.9742913828560065,
+        "Steenbakkers zegt": 0.955011371234592,
+        "per thema": 0.9505961599793437,
+        "Begroting": 1.9140368224837343,
+        "Wethouder": 0.9140368224837344,
+        "raadsinformatiebrief komt": 0.9029960071342576,
+        "intensiveringen per": 0.9029960071342576,
+        "gelden": 1.8416830712200127,
+        "voorzieningen": 0.8416830712200127,
+        "zegt": 0.7026344174397849,
+        "komt": 0.7026344174397849,
+        "per": 0.7026344174397849
+    },
+    "svz": null,
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

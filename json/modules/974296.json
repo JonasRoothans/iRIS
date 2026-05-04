@@ -1,0 +1,130 @@
+{
+    "module_id": 974296,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 248564,
+    "title": "campagne voor de stop-app tegen straatintimidatie - Raadsvoorstel Sharing the Vibes Samen naar een bruisend Eindhoven",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/974296",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "R. Strijk (Wethouder)",
+    "result": "",
+    "date": "24-09-2024",
+    "meeting_url": {
+        "1266326": "https://raadsinformatie.eindhoven.nl/vergadering/1266326#ai_8650080"
+    },
+    "attachment": null,
+    "parent": 958773,
+    "children": [],
+    "text": "Wethouder Strijk zegt toe dat er een campagne voor de stop-app tegen straatintimidatie wordt meegenomen in het thema veiligheid?",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 974301,
+            "weight": 1.2921112620819075
+        },
+        {
+            "id": 974303,
+            "weight": 1.2905008559221995
+        },
+        {
+            "id": 974304,
+            "weight": 1.2901350482376646
+        },
+        {
+            "id": 974297,
+            "weight": 1.290024710229844
+        },
+        {
+            "id": 975797,
+            "weight": 0.4971274886967871
+        },
+        {
+            "id": 958773,
+            "weight": 0.49666957218353935
+        },
+        {
+            "id": 865481,
+            "weight": 0.41999437983621635
+        },
+        {
+            "id": 827449,
+            "weight": 0.41688525838621876
+        },
+        {
+            "id": 16451950,
+            "weight": 0.40911211123410685
+        },
+        {
+            "id": 826277,
+            "weight": 0.3949530733377751
+        },
+        {
+            "id": 1137710,
+            "weight": 0.3896175556055703
+        },
+        {
+            "id": 1124611,
+            "weight": 0.3894120909562021
+        },
+        {
+            "id": 1087149,
+            "weight": 0.38919485687829747
+        },
+        {
+            "id": 1020983,
+            "weight": 0.2465835633258693
+        },
+        {
+            "id": 893837,
+            "weight": 0.20189776220268624
+        },
+        {
+            "id": 826275,
+            "weight": 0.1882374426622654
+        },
+        {
+            "id": 15945905,
+            "weight": 0.17955341016633516
+        },
+        {
+            "id": 1140962,
+            "weight": 0.17614670644892483
+        },
+        {
+            "id": 13540297,
+            "weight": 0.11461975468077187
+        }
+    ],
+    "videostarttime": {},
+    "videolink": null,
+    "keywords": {
+        "Raadsvoorstel Sharing": 1.9940305405218104,
+        "Vibes Samen": 1.9911208332830326,
+        "Eindhoven Wethouder": 0.9911208332830326,
+        "Wethouder Strijk": 0.9911208332830326,
+        "Sharing the": 1.9821278527973845,
+        "the Vibes": 1.9821278527973845,
+        "bruisend Eindhoven": 1.9821278527973845,
+        "Strijk zegt": 0.9821278527973843,
+        "thema veiligheid": 0.9780678801779359,
+        "stop-app": 1.9288532225686497,
+        "Samen": 1.9061862430964,
+        "Eindhoven": 1.9061862430964,
+        "campagne": 1.8970715650248648,
+        "straatintimidatie": 1.8970715650248648,
+        "the": 1.8128383031389146,
+        "bruisend": 1.8128383031389146,
+        "zegt": 0.8128383031389147,
+        "meegenomen": 0.8128383031389147
+    },
+    "svz": null,
+    "afgedaan": "10-12-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

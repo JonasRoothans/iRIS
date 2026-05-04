@@ -1,0 +1,53 @@
+{
+    "module_id": 14028300,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Bijlage bij rondvraag 4 - fietsenkelder 21 maart 15.46 uur",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "09-04-2024",
+    "meeting_url": {
+        "1147920": "https://raadsinformatie.eindhoven.nl/vergadering/1147917/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://api.notubiz.nl/document/14028300/1",
+    "pdf_text": "",
+    "bst": null,
+    "related": [
+        {
+            "id": 14028299,
+            "weight": 1.2741230593841888
+        },
+        {
+            "id": 899212,
+            "weight": 0.5232155740013896
+        }
+    ],
+    "videostarttime": {
+        "1147920": 1583
+    },
+    "videolink": null,
+    "keywords": {
+        "fietsenkelder": 1.9550880231213545,
+        "maart": 1.9550880231213545,
+        "uur": 1.9550880231213545,
+        "Bijlage": 1.8416830712200127,
+        "rondvraag": 1.8416830712200127
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1147920
+    ]
+}

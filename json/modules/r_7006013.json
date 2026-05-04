@@ -1,0 +1,93 @@
+{
+    "module_id": "r_7006013",
+    "vote_id": 7006013,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Raadsvoorstel Benoemen leden Commissie Ruimtelijke Kwaliteit",
+    "url": "https://raadsinformatie.eindhoven.nl/vergadering/1013429/Raadsvoorstel%20Benoemen%20leden%20Commissie%20Ruimtelijke%20Kwaliteit 24-05-2022#voting_7006013",
+    "type": "Raadsvoorstel",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "aangenomen",
+    "date": "24-05-2022",
+    "meeting_url": {
+        "1013429": "https://raadsinformatie.eindhoven.nl/vergadering/1013429/Raadsvoorstel%20Benoemen%20leden%20Commissie%20Ruimtelijke%20Kwaliteit 24-05-2022#voting_7006013"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 787186,
+            "weight": 1.934684408754384
+        },
+        {
+            "id": 1148211,
+            "weight": 0.5499716897769109
+        },
+        {
+            "id": 930584,
+            "weight": 0.4237840554453402
+        },
+        {
+            "id": 800867,
+            "weight": 0.3946348040084026
+        },
+        {
+            "id": 898848,
+            "weight": 0.3945759523411815
+        },
+        {
+            "id": 898863,
+            "weight": 0.1974952455435675
+        },
+        {
+            "id": 870858,
+            "weight": 0.1973250198537028
+        },
+        {
+            "id": 11753464,
+            "weight": 0.19040000308716393
+        },
+        {
+            "id": 1090187,
+            "weight": 0.17687270388573373
+        },
+        {
+            "id": 776852,
+            "weight": 0.17221839206080786
+        },
+        {
+            "id": 874916,
+            "weight": 0.15590812180099728
+        },
+        {
+            "id": 790212,
+            "weight": 0.15493365530017278
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Ruimtelijke Kwaliteit": 1.9873976398760465,
+        "Commissie Ruimtelijke": 1.9785907845614,
+        "Raadsvoorstel Benoemen": 1.9765416191248102,
+        "Benoemen leden": 1.955011371234592,
+        "leden Commissie": 1.955011371234592,
+        "Kwaliteit": 1.9140368224837343,
+        "leden": 1.702634417439785
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1013429
+    ]
+}

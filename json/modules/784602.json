@@ -1,0 +1,89 @@
+{
+    "module_id": 784602,
+    "vote_id": null,
+    "member_id": [
+        47266,
+        194371,
+        77830,
+        194376,
+        194511,
+        194514,
+        194424,
+        194495
+    ],
+    "party_list": [
+        "Partij voor de Dieren",
+        "D66",
+        "Volt",
+        "PvdA",
+        " Ouderen Appèl - Hart voor Eindhoven",
+        "GroenLinks",
+        "SP",
+        "CDA"
+    ],
+    "poho_id": 230024,
+    "title": "Aanvraagproces - VM1: Ingetrokken na toezegging Vrije motie VM1 Communicatie over bijzondere bijstand voor studenten (D66, PvdA, Volt, GL, SP, OAHvE, CDA, PvdD)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/784602",
+    "type": "Toezegging",
+    "member": "Annelies Becker, Sanne Franssen, Virginia Jonkers, Lotte Meerhoff, Murat Memiş, Rosa van den Nieuwenhof, Niek Rennenberg en Jacco Rubenkamp",
+    "party": null,
+    "poho": "S. Lammers (Wethouder)",
+    "result": "Ingetrokken na toezegging",
+    "date": "19-07-2022",
+    "meeting_url": {
+        "1018924": "https://raadsinformatie.eindhoven.nl/vergadering/1018924#ai_6999808"
+    },
+    "attachment": null,
+    "parent": "ai_6999808",
+    "children": [],
+    "text": "Het aanvraagproces kan verder worden gedigitaliseerd.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 784608,
+            "weight": 0.6574149251516457
+        },
+        {
+            "id": "ai_6999808",
+            "weight": 0.655644266342726
+        },
+        {
+            "id": 784606,
+            "weight": 0.6551386848790939
+        },
+        {
+            "id": 784598,
+            "weight": 0.6312861706937857
+        },
+        {
+            "id": 976632,
+            "weight": 0.16856466361198583
+        }
+    ],
+    "videostarttime": {},
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/19.07.22 Eindhoven raad 1500 ruw.mp4/playlist.m3u8",
+    "keywords": {
+        "Vrije motie": 1.9896343802517233,
+        "toezegging Vrije": 1.9829242431044252,
+        "Volt": 1.9662738269496023,
+        "CDA": 1.9662738269496023,
+        "bijzondere bijstand": 1.9658687051637376,
+        "PvdA": 1.947417335747506,
+        "OAHvE": 1.947417335747506,
+        "Ingetrokken": 1.9378744897269777,
+        "Communicatie": 1.9378744897269777,
+        "Vrije": 1.9075859254188583,
+        "motie": 1.8889857844605915,
+        "studenten": 1.8889857844605915,
+        "gedigitaliseerd": 0.8889857844605916,
+        "Aanvraagproces": 1.8691954060772369,
+        "bijstand": 1.8183277722563624
+    },
+    "svz": null,
+    "afgedaan": "28-03-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

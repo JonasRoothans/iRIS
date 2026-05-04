@@ -1,0 +1,91 @@
+{
+    "module_id": 984512,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230019,
+    "title": "Update Erfgoedinvesteringen - Raadsvoorstel Begroting 2025",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/984512",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. van Lanschot (Wethouder)",
+    "result": "",
+    "date": "29-10-2024",
+    "meeting_url": {
+        "1148141": "https://raadsinformatie.eindhoven.nl/vergadering/1148141#ai_8729567"
+    },
+    "attachment": null,
+    "parent": 975511,
+    "children": [],
+    "text": "Wethouder van Lanschot zegt toe bij de eerste volgende update erfgoed zal ook worden ingegaan op mogelijke monumenten die gevaar lopen door klimaatveranderingen.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 776848,
+            "weight": 0.23489948298434207
+        },
+        {
+            "id": 994375,
+            "weight": 0.23336940430025013
+        },
+        {
+            "id": 771635,
+            "weight": 0.18942433050819288
+        },
+        {
+            "id": 982973,
+            "weight": 0.17846815162138538
+        },
+        {
+            "id": 982760,
+            "weight": 0.15351504899825844
+        },
+        {
+            "id": 12321433,
+            "weight": 0.08747321772353651
+        },
+        {
+            "id": 855188,
+            "weight": 0.0768689365084645
+        },
+        {
+            "id": "a_8568072",
+            "weight": 0.07175333852931279
+        },
+        {
+            "id": 1090187,
+            "weight": 0.06925676634073409
+        }
+    ],
+    "videostarttime": {
+        "1148141": null
+    },
+    "videolink": null,
+    "keywords": {
+        "Raadsvoorstel Begroting": 1.996284846557492,
+        "Update Erfgoedinvesteringen": 1.9845264866355734,
+        "Lanschot zegt": 0.9837989814664826,
+        "mogelijke monumenten": 0.9681962193601596,
+        "gevaar lopen": 0.9681962193601596,
+        "volgende update": 0.9540053323973668,
+        "Begroting": 1.9391608500592699,
+        "Wethouder": 0.9391608500592697,
+        "klimaatveranderingen": 0.8930274509376158,
+        "Update": 1.8747703400871132,
+        "zegt": 0.8244338371947252,
+        "erfgoed": 0.8244338371947252,
+        "ingegaan": 0.8244338371947252,
+        "mogelijke": 0.8244338371947252,
+        "monumenten": 0.8244338371947252,
+        "gevaar": 0.8244338371947252,
+        "lopen": 0.8244338371947252
+    },
+    "svz": null,
+    "afgedaan": "13-05-2025",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

@@ -1,0 +1,105 @@
+{
+    "module_id": 1057232,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230019,
+    "title": "Heldere Taal - Raadsvoorstel Zesde wijziging ASV Eindhoven",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1057232",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. van Lanschot (Wethouder)",
+    "result": "",
+    "date": "19-06-2025",
+    "meeting_url": {
+        "1256618": "https://raadsinformatie.eindhoven.nl/vergadering/1256618#ai_9403683"
+    },
+    "attachment": null,
+    "parent": 1047421,
+    "children": [],
+    "text": "Wethouder Van Lanschot heeft toegezegd dat:\nbij de volgende aanpassing van de verordening (over 2 jaar), de verordening in heldere taal wordt geschreven;",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1057230,
+            "weight": 3.4142872519981298
+        },
+        {
+            "id": 1057242,
+            "weight": 3.4094439544866364
+        },
+        {
+            "id": 1057237,
+            "weight": 3.400253461581188
+        },
+        {
+            "id": 1047421,
+            "weight": 3.3699280589826532
+        },
+        {
+            "id": 898431,
+            "weight": 0.7956487784635768
+        },
+        {
+            "id": 1114088,
+            "weight": 0.6324087009735211
+        },
+        {
+            "id": 826203,
+            "weight": 0.5683278151463275
+        },
+        {
+            "id": 982440,
+            "weight": 0.3793822815346434
+        },
+        {
+            "id": 13989855,
+            "weight": 0.35921874125539366
+        },
+        {
+            "id": 997118,
+            "weight": 0.18187597052708335
+        },
+        {
+            "id": 775301,
+            "weight": 0.18016699396104863
+        },
+        {
+            "id": 1112893,
+            "weight": 0.17670861833361173
+        }
+    ],
+    "videostarttime": {
+        "1256618": 13215
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/19.06.25 Eindhoven Meningsvorming.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Zesde": 1.996051099092608,
+        "ASV Eindhoven": 1.994564013200681,
+        "Eindhoven Wethouder": 0.9945640132006811,
+        "Heldere Taal": 1.992821716280428,
+        "Zesde wijziging": 1.9897114105896283,
+        "wijziging ASV": 1.9897114105896283,
+        "volgende aanpassing": 0.9804427206972672,
+        "Taal": 1.9505976538170007,
+        "jaar": 0.9452907440352677,
+        "verordening": 0.9283770171336205,
+        "Zesde": 1.9264704371595376,
+        "ASV": 1.9264704371595376,
+        "Wethouder": 0.9264704371595375,
+        "Lanschot": 0.9264704371595375,
+        "geschreven": 0.9067087946226678,
+        "toegezegd": 0.8615004366529155,
+        "volgende": 0.8615004366529155
+    },
+    "svz": null,
+    "afgedaan": "Q2 2027",
+    "eersteIndiener": null,
+    "lastScrapeDate": "02-10-2025",
+    "meeting_id": [
+        1256618
+    ]
+}

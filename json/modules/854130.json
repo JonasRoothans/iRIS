@@ -1,0 +1,78 @@
+{
+    "module_id": 854130,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 231116,
+    "title": "Registratie camera's - Commissienotitie 2.0 Camerabeleid art. 151c Gemeentewet",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/854130",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "J. Dijsselbloem (Burgemeester)",
+    "result": "",
+    "date": "06-06-2023",
+    "meeting_url": {
+        "1102751": "https://raadsinformatie.eindhoven.nl/vergadering/1102751#ai_7611637"
+    },
+    "attachment": null,
+    "parent": 845544,
+    "children": [],
+    "text": "Burgemeester Dijsselbloem zegt toe:\n\nna te gaan hoe de registratie van camera’s (inclusief private camera’s) in Utrecht is geregeld;",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 854127,
+            "weight": 0.6977874794167124
+        },
+        {
+            "id": 854132,
+            "weight": 0.6961336832729071
+        },
+        {
+            "id": 854128,
+            "weight": 0.6950369859136489
+        },
+        {
+            "id": 854129,
+            "weight": 0.6924218500075433
+        },
+        {
+            "id": 854133,
+            "weight": 0.6920734428909048
+        },
+        {
+            "id": 854131,
+            "weight": 0.6916309112035008
+        }
+    ],
+    "videostarttime": {
+        "1102751": 2558
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_06.06.23_NC_Eindhoven_RAA.mp4/playlist.m3u8",
+    "keywords": {
+        "Camerabeleid art": 1.9911766397344894,
+        "Commissienotitie": 1.9566246401789973,
+        "Gemeentewet Burgemeester": 0.9492159418606662,
+        "Burgemeester Dijsselbloem": 0.9340676616716321,
+        "camera": 1.8863513761905806,
+        "Dijsselbloem zegt": 0.8714840550282714,
+        "art": 1.8653142917602095,
+        "Registratie camera": 1.858533862446629,
+        "inclusief private": 0.8085702344019973,
+        "Gemeentewet": 1.8056746284578642,
+        "Burgemeester": 0.7512950551168853,
+        "Utrecht": 0.7512950551168853,
+        "geregeld": 0.6491058501893635,
+        "zegt": 0.5421060619705438,
+        "gaan": 0.5421060619705438,
+        "private": 0.5421060619705438
+    },
+    "svz": "COLLEGE GRAAG AFDOEN : Verwerkt in nieuwe versie camerabeleid en begeleidende Burgemeestersbrief\nTOELICHTING\n...  Lees verder ",
+    "afgedaan": "04-07-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

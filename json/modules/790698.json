@@ -1,0 +1,84 @@
+{
+    "module_id": 790698,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Woonbehoefteonderzoek",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/790698",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "01-11-2022",
+    "meeting_url": {
+        "1034745": "https://raadsinformatie.eindhoven.nl/vergadering/1034745#ai_7087333"
+    },
+    "attachment": null,
+    "parent": "ai_7087333",
+    "children": [],
+    "text": "Het woonbehoefteonderzoek wordt geactualiseerd.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1022809,
+            "weight": 0.4749307359626387
+        },
+        {
+            "id": 1042191,
+            "weight": 0.30885689410421263
+        },
+        {
+            "id": 785515,
+            "weight": 0.07790796601012703
+        },
+        {
+            "id": 1015055,
+            "weight": 0.07165848812695827
+        },
+        {
+            "id": 801391,
+            "weight": 0.07013299101500887
+        },
+        {
+            "id": 786203,
+            "weight": 0.05935015716534696
+        },
+        {
+            "id": "a_9477086",
+            "weight": 0.05699157543833785
+        },
+        {
+            "id": 849427,
+            "weight": 0.05621700963167538
+        },
+        {
+            "id": 1137874,
+            "weight": 0.05419870859778675
+        },
+        {
+            "id": 826625,
+            "weight": 0.05415139358801156
+        },
+        {
+            "id": 1101416,
+            "weight": 0.04978437943305009
+        }
+    ],
+    "videostarttime": {
+        "1034745": 3871
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_01.11.22_NC_Eindhoven_CIE.mp4/playlist.m3u8",
+    "keywords": {
+        "geactualiseerd": 0.8763690867947806,
+        "Woonbehoefteonderzoek": 1.8513172087198924
+    },
+    "svz": null,
+    "afgedaan": "03-09-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

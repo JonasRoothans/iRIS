@@ -1,0 +1,154 @@
+{
+    "module_id": 775144,
+    "vote_id": 7006129,
+    "member_id": [
+        194376,
+        77830,
+        194375
+    ],
+    "party_list": [
+        "Volt",
+        "Partij voor de Dieren",
+        "SP"
+    ],
+    "poho_id": [],
+    "title": "M1: Verworpen Motie M1 Luchtkwaliteit WHO (PvdD, SP, Volt)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/moties_en_toezeggingen/775144?parent_event=1013339",
+    "type": "Motie",
+    "member": "Murat Memiş, Jonas Roothans en Jacco Rubenkamp",
+    "party": null,
+    "poho": "",
+    "result": "Verworpen",
+    "date": "14-06-2022",
+    "meeting_url": {
+        "1013339": "https://raadsinformatie.eindhoven.nl/vergadering/1013339#ai_6963654"
+    },
+    "attachment": null,
+    "parent": "ai_6963654",
+    "children": [],
+    "text": "",
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/11757345/1/Verworpen_Motie_M1_Luchtkwaliteit_WHO__PvdD__SP__Volt_?connection_type=17&connection_id=8560191",
+    "pdf_text": " \n \n \nMotie   \nGezonde lucht kan niet wachten           M1 \n \nDe indiener s van d eze motie stellen de gemeenteraad voor om in de vergadering \nvan 14 juni  een besluit te nemen  over gezonde lucht . \n \nZij hebben het  bestuursakkoord gelezen .  \n \nDe indiener s hoorden  dat: \n• In het bestuursakkoord staat dat Eindhoven in 2030 aan de strengere \nluchtgezondheidsnormen voldoet die het WHO voorschrijft.  \n \nDe indiener s vinden  dat:  \n• Een gezonde lucht randvoorwaardelijk is . \n \n \nDe indieners roepen het aanstaande college van burgemeester en wethouders op \nom: \n \nnog binnen deze bestuursperiode aan de WHO -gezondheidsnormen te voldoen.  \n \nEindhoven, 14 juni 2022  \n \nDe leden van de raad,  \n \nJonas Roothans  (PvdD) , voorsteller  \nMurat Memis  (SP), voorsteller   \nJacco Rubenkamp  (Volt) , voorsteller  \n \n \n \nDeze motie is verworpen in de vergadering van  14 juni 2022 . \n \n \nJ. Jongbloed , griffier . \n \n \nStemming: 44  \nVoor: SP (3), Volt (3), PvdD (2),) = 8  \nTegen: GL (9), CDA (6), VVD (6), PvdA (5), D66 (5), OAHvE (3), FvD (1),  \n50PLUS (1) = 36  \n \n",
+    "bst": null,
+    "related": [
+        {
+            "id": "ai_6963654",
+            "weight": 1.9902629503789848
+        },
+        {
+            "id": 775159,
+            "weight": 0.8020453167860779
+        },
+        {
+            "id": 1045922,
+            "weight": 0.31145533135804304
+        },
+        {
+            "id": 984311,
+            "weight": 0.2893465639912838
+        },
+        {
+            "id": 1060207,
+            "weight": 0.11452393907003533
+        },
+        {
+            "id": 1014957,
+            "weight": 0.11096681855279185
+        },
+        {
+            "id": 774017,
+            "weight": 0.102473688640404
+        },
+        {
+            "id": 13722422,
+            "weight": 0.10200103622435318
+        },
+        {
+            "id": 1046636,
+            "weight": 0.0961964783818799
+        },
+        {
+            "id": 1137874,
+            "weight": 0.09500914107287502
+        },
+        {
+            "id": 15039359,
+            "weight": 0.08357585621675907
+        },
+        {
+            "id": 1060436,
+            "weight": 0.0771235329310515
+        },
+        {
+            "id": 1112886,
+            "weight": 0.07013938400670941
+        },
+        {
+            "id": 1054527,
+            "weight": 0.06984563838819267
+        }
+    ],
+    "videostarttime": {
+        "1013339": 940
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/14.06.22 Eindhoven Raad ruw.mp4/playlist.m3u8",
+    "keywords": {
+        "Luchtkwaliteit WHO": 1.9935133858996057,
+        "Gezonde lucht": 0.9918280234422809,
+        "bestuursakkoord gelezen": 0.9856659707386558,
+        "WHO voorschrijft": 0.9853961645347106,
+        "strengere luchtgezondheidsnormen": 0.9784273922309253,
+        "luchtgezondheidsnormen voldoet": 0.9784273922309253,
+        "Motie Gezonde": 0.9716157688458467,
+        "Volt": 1.9708923376247234,
+        "eze motie": 0.9698964832123473,
+        "motie stellen": 0.9698964832123473,
+        "WHO": 1.9620843051509467,
+        "indiener": 0.9563669143382535,
+        "PvdD": 1.9528873098973967,
+        "indieners roepen": 0.9489186054328684,
+        "Jonas Roothans": 0.9425529452469615,
+        "lucht": 0.9418825794098564,
+        "Murat Memis": 0.9371300031827948,
+        "Jacco Rubenkamp": 0.9371300031827948,
+        "lucht randvoorwaardelijk": 0.9307881318616071,
+        "juni": 0.929832353104606,
+        "voorsteller Murat": 0.9121275032942224,
+        "Verworpen": 1.8973297533985565,
+        "Eindhoven": 0.8973297533985564,
+        "vergadering": 0.8860249011923181,
+        "wachten": 0.8734593218684599,
+        "gelezen": 0.8734593218684599,
+        "eze": 0.8546829061511335,
+        "gemeenteraad": 0.8546829061511335,
+        "besluit": 0.8546829061511335,
+        "nemen": 0.8546829061511335,
+        "hoorden": 0.8546829061511335,
+        "staat": 0.8546829061511335,
+        "strengere": 0.8546829061511335,
+        "aanstaande college": 0.8401211310923246,
+        "Stemming": 0.7883503209493068,
+        "CDA": 0.7883503209493068,
+        "VVD": 0.7883503209493068,
+        "Jonas": 0.766920236938542,
+        "Memis": 0.766920236938542,
+        "Jongbloed": 0.766920236938542,
+        "Murat": 0.7462192230342463,
+        "Jacco": 0.7462192230342463,
+        "voldoen": 0.6652680812080163,
+        "college": 0.6287305494017021,
+        "burgemeester": 0.6287305494017021,
+        "wethouders": 0.6287305494017021,
+        "bestuursperiode": 0.6287305494017021,
+        "griffier": 0.618821178238494,
+        "OAHvE": 0.618821178238494,
+        "raad": 0.5770133964856117
+    },
+    "svz": null,
+    "afgedaan": "05-09-2022",
+    "eersteIndiener": 194375,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": [
+        1013339
+    ]
+}

@@ -1,0 +1,202 @@
+{
+    "module_id": 793203,
+    "vote_id": null,
+    "member_id": [
+        194388
+    ],
+    "party_list": [
+        "Volt"
+    ],
+    "poho_id": [],
+    "title": "Beantwoording raadsvragen Gevolgen datalek TUe voor getroffen personen (Volt)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/4/Raadsvragen/793203",
+    "type": "Raadsvraag",
+    "member": "Inge Teklenburg",
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "11-11-2022",
+    "meeting_url": null,
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/12040615/1?connection_type=17&connection_id=8796586": "Vraag",
+        "https://raadsinformatie.eindhoven.nl/document/12663830/2?connection_type=17&connection_id=9292075": "Antwoord"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/12040615/1?connection_type=17&connection_id=8796586",
+    "pdf_text": " \n \n \nRaadsvragen van de fractie (s): \n \n \nGevolgen datalek TU /e voor getroffen personen  \n \ndatum:  10-11-2022  \n \n \nGeacht college,  \n \nDoor een hack  op 18 september bij een leverancier (ID-Ware) van de \nTU/e blijkt dat gegevens van toegangspashouders, waaronder \npasfoto's en telefoonnummers zijn gelekt . \n \nWij zien dat het onderzoek naar de oorzaken van deze aanval \nvoortvarend wordt opgepakt  en dat aanvullende maatregelen worden \ngenomen . Naast dat wij hierin een  duidelijk voorbeeld zien van het \nbelang van goede beveiliging, maken wij ons zorgen om de  mogelijke  \nconsequenties voor de getroffen personen.  Aangezien het een \nkennis instelling in Eindhoven betreft, verwachten wij dat een \naanzienlijk deel van de getroffen  personen inwoner is van onze \ngemeente. Wij vragen ons af of en zo ja welke maatregelen de \ngemeente Eindhoven neemt om slachtoffers van een datalek te \nbeschermen, bijvoorbeeld in het geval van identiteitsfraude.  \n Raadsvragen  \n1. Is er zicht op hoeveel van de getroffen personen als inwoner \nvan Eindhoven zijn ingeschreven ? \n2. Is er een analyse gemaakt wat de consequenties van dit datalek  \nzou kunnen zijn voor de getroffen personen, bijvoorbeeld \nidentiteitsfraude?  \n3. Wat doet de gemeente om slachtoffers van datalekken , in het \nalgemeen en het genoemde datalek in het bijzonder , te \nondersteunen  \na. in het geval van identiteitsfraude, waardoor ook de \ngemeentelijke administratie ten aanzien van deze \npersonen geraakt zou kunnen worden ; \nb. in het geval van andere nadelige gevolgen, waar de \ngemeente zelf wellicht niet direct partij in is?  \n \n Namens de fractie(s),  \nInge Teklenburg , raadslid  ",
+    "bst": "23bst00585",
+    "related": [
+        {
+            "id": 1148081,
+            "weight": 1.9162441460674553
+        },
+        {
+            "id": 1038657,
+            "weight": 0.29797557002239666
+        },
+        {
+            "id": 998551,
+            "weight": 0.21695814955153078
+        },
+        {
+            "id": 1089514,
+            "weight": 0.2130940243976476
+        },
+        {
+            "id": 863511,
+            "weight": 0.19244253093334582
+        },
+        {
+            "id": 933180,
+            "weight": 0.15738305599210742
+        },
+        {
+            "id": 956454,
+            "weight": 0.1482817919275768
+        },
+        {
+            "id": 1037226,
+            "weight": 0.13687171385161284
+        },
+        {
+            "id": 994013,
+            "weight": 0.13321445896712159
+        },
+        {
+            "id": 1025528,
+            "weight": 0.07684272535143277
+        },
+        {
+            "id": 777652,
+            "weight": 0.07618277547130423
+        },
+        {
+            "id": 11765917,
+            "weight": 0.07531800290704442
+        },
+        {
+            "id": 1038209,
+            "weight": 0.07284246362820512
+        },
+        {
+            "id": 905875,
+            "weight": 0.0723443436088247
+        },
+        {
+            "id": 956636,
+            "weight": 0.07085870665619526
+        },
+        {
+            "id": 12866053,
+            "weight": 0.07014300333025451
+        },
+        {
+            "id": "a_8101832",
+            "weight": 0.06968094804563828
+        },
+        {
+            "id": 814803,
+            "weight": 0.06383226761766939
+        },
+        {
+            "id": 777010,
+            "weight": 0.057542751242094736
+        },
+        {
+            "id": 16128467,
+            "weight": 0.056849116799319845
+        },
+        {
+            "id": 1126057,
+            "weight": 0.05653039724238649
+        },
+        {
+            "id": 973917,
+            "weight": 0.05472693678352196
+        },
+        {
+            "id": 943628,
+            "weight": 0.05440282067842239
+        },
+        {
+            "id": 1133034,
+            "weight": 0.05320150996832497
+        },
+        {
+            "id": 776889,
+            "weight": 0.0470905709301317
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "getroffen personen": 1.9934513922352748,
+        "Geacht college": 0.9897512029989102,
+        "getroffen": 1.9768366359789362,
+        "voorbeeld zien": 0.9755450710184342,
+        "waaronder pasfoto": 0.9697645072184242,
+        "goede beveiliging": 0.9697645072184242,
+        "aanval voortvarend": 0.966836311197356,
+        "duidelijk voorbeeld": 0.966836311197356,
+        "personen": 1.9611391881095006,
+        "Beantwoording raadsvragen": 1.9553533203371,
+        "Gevolgen datalek": 1.9539902365857038,
+        "Volt": 1.9423824906542622,
+        "aanvullende maatregelen": 0.9398894986958097,
+        "Geacht": 0.9380686061931943,
+        "Naast": 0.9380686061931943,
+        "gemeente Eindhoven": 0.9366378668428126,
+        "Eindhoven": 0.9343048502737925,
+        "zien": 0.9333812153467331,
+        "datalek TUe": 1.933368960672494,
+        "raadsvragen Gevolgen": 1.932701396156995,
+        "gemeente": 0.9244152734548154,
+        "mogelijke consequenties": 0.9222116944472827,
+        "identiteitsfraude": 0.8866868857168034,
+        "geval": 0.8842405614566792,
+        "personen inwoner": 0.8673342457650093,
+        "Inge Teklenburg": 0.8549469621697823,
+        "ID-Ware": 0.851255716561476,
+        "maatregelen": 0.8417577792524433,
+        "datum": 0.8361925329301376,
+        "college": 0.8361925329301376,
+        "september": 0.8361925329301376,
+        "leverancier": 0.8361925329301376,
+        "toegangspashouders": 0.8361925329301376,
+        "gelekt": 0.8361925329301376,
+        "maken": 0.8361925329301376,
+        "TUe": 1.8208376094785286,
+        "hack": 0.8208376094785287,
+        "blijkt": 0.8208376094785287,
+        "pasfoto": 0.8208376094785287,
+        "telefoonnummers": 0.8208376094785287,
+        "onderzoek": 0.8208376094785287,
+        "oorzaken": 0.8208376094785287,
+        "aanval": 0.8208376094785287,
+        "opgepakt": 0.8208376094785287,
+        "aanvullende": 0.8208376094785287,
+        "duidelijk": 0.8208376094785287,
+        "belang": 0.8208376094785287,
+        "goede": 0.8208376094785287,
+        "zorgen": 0.8208376094785287,
+        "mogelijke": 0.8208376094785287,
+        "fractie": 0.8110640628653785,
+        "slachtoffers": 0.789441975527492,
+        "inwoner": 0.7847133226731697,
+        "kennis instelling": 0.7716114133317428,
+        "aanzienlijk deel": 0.7716114133317428,
+        "Inge": 0.6440814588270376,
+        "betreft": 0.595109681573715,
+        "verwachten": 0.595109681573715,
+        "kennis": 0.568809372634328,
+        "deel": 0.568809372634328,
+        "beschermen": 0.5021985785679481
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194388,
+    "lastScrapeDate": "02-04-2026",
+    "meeting_id": []
+}

@@ -1,0 +1,93 @@
+{
+    "module_id": 831313,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230013,
+    "title": "Subsidieregeling - Raadsvoorstel Subsidieregeling MKB Energiebesparing 2023",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/831313",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Steenbakkers (Wethouder)",
+    "result": "",
+    "date": "28-03-2023",
+    "meeting_url": {
+        "1059807": "https://raadsinformatie.eindhoven.nl/vergadering/1059807#ai_7439892"
+    },
+    "attachment": null,
+    "parent": 822236,
+    "children": [],
+    "text": "Wethouder Steenbakkers zegt toe:\n\nin de uitvoering scherp te zijn op een zo efficiënt en degelijk mogelijke uitvoering van de subsidieregeling.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1013625,
+            "weight": 0.27664577745201036
+        },
+        {
+            "id": 892430,
+            "weight": 0.147288751077801
+        },
+        {
+            "id": "a_9361675",
+            "weight": 0.14143475355177687
+        },
+        {
+            "id": 849402,
+            "weight": 0.13671922013057547
+        },
+        {
+            "id": 863931,
+            "weight": 0.10680056340478015
+        },
+        {
+            "id": 995757,
+            "weight": 0.08364291604614983
+        },
+        {
+            "id": 977779,
+            "weight": 0.08296060851459776
+        },
+        {
+            "id": 1046814,
+            "weight": 0.08082306998835964
+        },
+        {
+            "id": 1027870,
+            "weight": 0.07922147724338302
+        },
+        {
+            "id": 951266,
+            "weight": 0.07838831850244335
+        }
+    ],
+    "videostarttime": {
+        "1059807": 3435
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_28.03.23_NC_eindhoven_cie.mp4/playlist.m3u8",
+    "keywords": {
+        "MKB Energiebesparing": 1.995875140257253,
+        "Wethouder Steenbakkers": 0.995875140257253,
+        "Raadsvoorstel Subsidieregeling": 1.9905247384733076,
+        "Steenbakkers zegt": 0.989080373746587,
+        "Subsidieregeling MKB": 1.9869665683907674,
+        "degelijk mogelijke": 0.9788400257550232,
+        "uitvoering scherp": 0.9710439049188078,
+        "mogelijke uitvoering": 0.9710439049188078,
+        "Raadsvoorstel": 1.9452554366402255,
+        "Wethouder": 0.9452554366402255,
+        "MKB": 1.9249621347448926,
+        "zegt": 0.8560503293639381,
+        "scherp": 0.8560503293639381,
+        "efficiënt": 0.8560503293639381,
+        "degelijk": 0.8560503293639381
+    },
+    "svz": null,
+    "afgedaan": "14-11-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

@@ -1,0 +1,149 @@
+{
+    "module_id": 12962261,
+    "vote_id": null,
+    "member_id": [
+        80968
+    ],
+    "party_list": [
+        "SP"
+    ],
+    "poho_id": [],
+    "title": "4. Rondvraag - Regels woningsplitsing en kamerverhuur (SP)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "04-07-2023",
+    "meeting_url": {
+        "1119171": "https://raadsinformatie.eindhoven.nl/vergadering/1013500/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://api.notubiz.nl/document/12962261/1",
+    "pdf_text": " \n \n \nRondvraag  over regels woningsplitsing en  kamerverhuur  \n \nWat doet de gemeente  momenteel voor de leefbaarheid  in “op slot gebieden?”.  \n \nInleiding /toelichting  \nNu de eerder door het college toegezegde informatie over uitvoering van het \nbeleid “woningsplitsing en kamerverhuur” in “op slot gebieden” op zich laat \nwachten hebben wij een aantal vragen over hoe daar momenteel in wordt \ngehandeld . Dit naar aanleiding van een tweetal concrete situaties in De Bennekel. \nWij overwegen hierover een rondvraag te stellen tijdens de raadsavond van 4 juli \naanstaande maar proberen eerst gerustgesteld te worden via onderstaande \ntechnische vragen. Hopelijk is e en rondvraag dan niet meer nodig.  \n \nGraag ontvangen wij antwoord op onderstaande technische vragen  \n \n1] Is bekend dat er onlangs, op warme zomeravonden, sprake was van \nherhaaldelijke en ernstige overlast vanuit het adres Verhulststraat waar studenten \nwonen? \n \n2] Zijn hierover meldingen binnengekomen?  \n \n3] Zo ja, is er opvolging gegeven aan deze meldingen?  \nZo ja, welke  opvolging?  \n \nIn een woning op het adres Samuel de Langestraat heeft de afgelopen tijd een \ningrijpende verbouwing plaatsgevonden. De ervari ng leert dat dit vaak een \nvoorbode is van woningsplitsing/kamerverhuur , hetgeen niet is toegestaan in een \n“op slot gebied”.  \n \n4] Betreft dit een verbouwing waarvoor de gemeente toestemming heeft gegeven?   \n \n5] Zo nee,  bent u dan van plan om te gaan handhaven? Op welke termijn?  \n \nBij voorbaat hartelijk dank voor de beantwoording.  \n \nHartelijke groeten,  \n \nJannie Visscher, fractie SP . \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 775117,
+            "weight": 0.6299412159201248
+        },
+        {
+            "id": 993816,
+            "weight": 0.40053822804565553
+        },
+        {
+            "id": 777032,
+            "weight": 0.30823967969937416
+        },
+        {
+            "id": 976790,
+            "weight": 0.2888283010976907
+        },
+        {
+            "id": "ai_7854318",
+            "weight": 0.28669792339430944
+        },
+        {
+            "id": 966305,
+            "weight": 0.2683847602345599
+        },
+        {
+            "id": 13775904,
+            "weight": 0.15661713610250808
+        },
+        {
+            "id": 904290,
+            "weight": 0.1552416719596699
+        },
+        {
+            "id": 1128665,
+            "weight": 0.10454910621767337
+        },
+        {
+            "id": 13611116,
+            "weight": 0.0994293290892701
+        },
+        {
+            "id": 969485,
+            "weight": 0.08326539341718411
+        },
+        {
+            "id": 891295,
+            "weight": 0.07159783969258679
+        },
+        {
+            "id": 888194,
+            "weight": 0.06570328933343829
+        },
+        {
+            "id": 1109494,
+            "weight": 0.059718700559461255
+        },
+        {
+            "id": 802844,
+            "weight": 0.05810329897438777
+        },
+        {
+            "id": 1038657,
+            "weight": 0.054406006108219565
+        },
+        {
+            "id": 1052766,
+            "weight": 0.05164734488333689
+        }
+    ],
+    "videostarttime": {
+        "1119171": 9458
+    },
+    "videolink": null,
+    "keywords": {
+        "Regels woningsplitsing": 1.9638816455611452,
+        "slot gebieden": 0.9472822776161206,
+        "kamerverhuur": 1.9167284967666274,
+        "Rondvraag": 1.9032795179457367,
+        "slot": 0.8940922643052549,
+        "Regels": 1.8854113526315865,
+        "technische vragen": 0.8779850352796534,
+        "vragen": 0.856082330717852,
+        "onderstaande technische": 0.8552162356115999,
+        "momenteel": 0.795009331466741,
+        "Jannie Visscher": 0.7680857139256774,
+        "Bennekel": 0.7442499166558143,
+        "adres Verhulststraat": 0.7420713495871685,
+        "gemeente": 0.7319676139808111,
+        "hierover": 0.7280385295392809,
+        "adres": 0.724797604366912,
+        "gemeente momenteel": 0.7183158843067509,
+        "meldingen": 0.7099554054346124,
+        "opvolging": 0.7036242254916787,
+        "adres Samuel": 0.6949500430487833,
+        "aantal vragen": 0.6934258991253044,
+        "verbouwing": 0.6920489890216914,
+        "Betreft": 0.5879801286111273,
+        "via onderstaande": 0.5851199453492835,
+        "college toegezegde": 0.580862431723878,
+        "toegezegde informatie": 0.580862431723878,
+        "laat wachten": 0.580862431723878,
+        "tweetal concrete": 0.580862431723878,
+        "concrete situaties": 0.580862431723878,
+        "Samuel": 0.5753201790279618,
+        "Langestraat": 0.5753201790279618,
+        "Jannie": 0.5661161298245696,
+        "leefbaarheid": 0.550344599982922,
+        "Inleiding": 0.5474495554574356,
+        "hierover meldingen": 0.5390287844480153,
+        "overwegen hierover": 0.523529194627773,
+        "juli aanstaande": 0.5146790135433197
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 80968,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1119171
+    ]
+}

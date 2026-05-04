@@ -1,0 +1,143 @@
+{
+    "module_id": 13124449,
+    "vote_id": null,
+    "member_id": [
+        131137
+    ],
+    "party_list": [
+        "PvdA"
+    ],
+    "poho_id": [],
+    "title": "1. Rondvraag Beschut Werk (PvdA)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "11-09-2023",
+    "meeting_url": {
+        "1127251": "https://raadsinformatie.eindhoven.nl/vergadering/1013510/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://api.notubiz.nl/document/13124449/1",
+    "pdf_text": " \n \n \n \n \n \n \n \n \n \nRondvr aag  Beschut werken  \n \n \nBeste Griffie ,  \n  \nOnderstaande rondvraag zou ik  volgende week 12 -9-2023  graag willen stellen:   \n \nVlak voordat het kabinet viel werd de in bijgevoeg d artikel  kamerbrief ‘ Sociaal \nontwikkelbedrijven en beschut werk” gepubliceerd.  \nWe lezen dat er extra geld komt in 2024 voor beschut werk .  \nDat brengt de PvdA tot de volgende vragen:  \n  \n1.  Hoe bereidt onze gemeente zich voor op deze extra gelden?   \n \n2. Wat kan dit concreet betekenen voor een gedeelte van onze inwoners  die \nvoor beschut werk in aanmerking komen ? \n \n  \nhttps://sociaalweb.nl/nieuws/minister -schouten -investeert -in-beschut -werk -en-\nsociaal -ontwikkelbedrijven/  \n                                                      \n \n \nEindhoven,  6-9-2023  \n \n \nDe leden van de raad  en/of commissie , \n \nWil van Haalen  \nFractie PvdA Eindhoven   \n \n \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 776908,
+            "weight": 0.46778287053440065
+        },
+        {
+            "id": 12755170,
+            "weight": 0.341256663578491
+        },
+        {
+            "id": 1135733,
+            "weight": 0.28577145581022145
+        },
+        {
+            "id": 884481,
+            "weight": 0.2138172364137327
+        },
+        {
+            "id": 944417,
+            "weight": 0.2126208645526658
+        },
+        {
+            "id": 1034728,
+            "weight": 0.21238562035617442
+        },
+        {
+            "id": 1106072,
+            "weight": 0.21166498660965485
+        },
+        {
+            "id": 776856,
+            "weight": 0.20894749039504415
+        },
+        {
+            "id": 939062,
+            "weight": 0.20616392017899537
+        },
+        {
+            "id": 1011381,
+            "weight": 0.20615841277044766
+        },
+        {
+            "id": 1044098,
+            "weight": 0.2000830955392543
+        },
+        {
+            "id": 845855,
+            "weight": 0.17922778240323725
+        },
+        {
+            "id": 15169664,
+            "weight": 0.07387531292309256
+        },
+        {
+            "id": 15945906,
+            "weight": 0.06906167145498678
+        },
+        {
+            "id": 12506006,
+            "weight": 0.047534166018421815
+        },
+        {
+            "id": 820253,
+            "weight": 0.04427966059928703
+        },
+        {
+            "id": 16166531,
+            "weight": 0.04357204705686827
+        }
+    ],
+    "videostarttime": {
+        "1127251": 12846
+    },
+    "videolink": null,
+    "keywords": {
+        "Beschut Werk": 1.9627823056735878,
+        "Beste Griffie": 0.949936428140649,
+        "Werk": 1.92221890627047,
+        "Onderstaande rondvraag": 0.8920317326327382,
+        "Rondvr aag": 0.8903322392380352,
+        "werken Beste": 0.8686189810439551,
+        "Eindhoven": 0.8404026330435612,
+        "Sociaal": 0.8367270160322967,
+        "Haalen Fractie": 0.8235831362641512,
+        "PvdA": 1.8213376031239354,
+        "Rondvraag Beschut": 1.807839823671707,
+        "Vlak": 0.798565314610274,
+        "Sociaal ontwikkelbedrijven": 0.7736436598144165,
+        "Beste": 0.76331431904912,
+        "volgende": 0.7506433630180425,
+        "9-2023 graag": 0.7447955547035376,
+        "willen stellen": 0.7447955547035376,
+        "artikel kamerbrief": 0.7447955547035376,
+        "Fractie PvdA": 0.7380746725305496,
+        "extra": 0.7173808007952178,
+        "graag willen": 0.6829711417088249,
+        "kabinet viel": 0.6829711417088249,
+        "gepubliceerd": 0.6704982598410865,
+        "Haalen": 0.6127517820873705,
+        "9-2023": 0.5855978370508099,
+        "stellen": 0.5855978370508099,
+        "extra gelden": 0.539036557532001,
+        "aag": 1.5093726517163766,
+        "viel": 0.5093726517163766,
+        "bijgevoeg": 0.5093726517163766,
+        "artikel": 0.5093726517163766
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 131137,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1127251
+    ]
+}

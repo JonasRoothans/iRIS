@@ -1,0 +1,18 @@
+{
+    "meeting_id": 1013508,
+    "meeting_subid": {
+        "Raadzaal": 1013508
+    },
+    "subtitles": {
+        "Raadzaal": null,
+        "Commissiekamer": null
+    },
+    "speakers": null,
+    "title": {
+        "Raadzaal": "Bijeenkomst/1013508 Gemeente Eindhoven"
+    },
+    "meeting_url": "https://raadsinformatie.eindhoven.nl/vergadering/1013508/",
+    "api_url": "api.notubiz.nl/events/1013508",
+    "date": "2023-09-05 17:00:00",
+    "type": "Raadsavond "
+}

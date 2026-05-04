@@ -1,0 +1,66 @@
+{
+    "module_id": 783143,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230014,
+    "title": "CO2 doelstellingen - Rondvraag GL Behalen CO2-doelstellingen in 2025",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/783143",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "R. Thijs (Wethouder)",
+    "result": "",
+    "date": "27-09-2022",
+    "meeting_url": {
+        "1022089": "https://raadsinformatie.eindhoven.nl/vergadering/1022089#ai_7011725"
+    },
+    "attachment": null,
+    "parent": "ai_7011725",
+    "children": [],
+    "text": "De vragen 1 tot en met 4 schriftelijk te beantwoorden nadat de begroting en klimaatbegroting zijn gepresenteerd.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 993330,
+            "weight": 0.1193430572309317
+        },
+        {
+            "id": 1038777,
+            "weight": 0.11661221565233972
+        },
+        {
+            "id": 1047513,
+            "weight": 0.10425837845234141
+        },
+        {
+            "id": 835022,
+            "weight": 0.09268461812259159
+        },
+        {
+            "id": 1014907,
+            "weight": 0.0873048421292782
+        }
+    ],
+    "videostarttime": {
+        "1022089": null
+    },
+    "videolink": null,
+    "keywords": {
+        "doelstellingen": 1.9550880231213545,
+        "Rondvraag": 1.9429876123096683,
+        "Behalen": 1.9429876123096683,
+        "vragen": 0.9043195497355658,
+        "schriftelijk": 0.9043195497355658,
+        "gepresenteerd": 0.9043195497355658,
+        "beantwoorden": 0.8416830712200127,
+        "begroting": 0.8416830712200127
+    },
+    "svz": null,
+    "afgedaan": "04-10-2022",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

@@ -1,0 +1,141 @@
+{
+    "module_id": 14535216,
+    "vote_id": null,
+    "member_id": [
+        80968,
+        42090,
+        194500,
+        195133
+    ],
+    "party_list": [
+        "LPF ",
+        "FVD",
+        "SP"
+    ],
+    "poho_id": [],
+    "title": "Rondvraag 1 - Geen positief sloopadvies Prinsejagt (SP, FVD, LPF)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "17-09-2024",
+    "meeting_url": {
+        "1148108": "https://raadsinformatie.eindhoven.nl/vergadering/1148105/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://api.notubiz.nl/document/14535216/1",
+    "pdf_text": "        \n \n \nRondvraag   \nGeen positief sloopadvies Prinsejagt                       \n \nGeachte college,  \n \nVorige wee k voerde onze raad een interpellatiedebat over de sloopplannen in \nPrinsejagt. Woonbedrijf wilde de raad doen geloven dat de Stichting \nHuurders vertegenwoordiging Woonbedrijf (HvW) een positief advies over deze \nsloopplannen had gegeven. Het college zei te vertrouwen op de woorden van \nWoonbedrijf. Hedenavond kregen wij bijgevoegde brief van HvW onder ogen \nwaarin HvW uiteenzet dat zij tot op heden geen advies aanvraag van Woonbedrijf \nheeft ontvangen. Naar wij begrepen is de brief ook in afschrift aan wethouder \nVerhees gezonden. Deze nieuwe informatie  leidt voor ons tot de vraag:  \n \n“Wat is de reactie van het college op deze brief?”.  \n \n \n \nEindhoven, 19 september 2024  \n \n \nDe leden van de raad  en/of commissie , \n \nJannie Visscher, raadslid  (SP) \nAlex Paauw, commissielid  (SP) \nNicolas Knoester, raadslid (FVD)  \nRudy R eker, raadslid ( LPF) \n \n \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 970845,
+            "weight": 0.33429715768397894
+        },
+        {
+            "id": "ai_8654291",
+            "weight": 0.3124443534121335
+        },
+        {
+            "id": 1013625,
+            "weight": 0.2065171225385406
+        },
+        {
+            "id": 940742,
+            "weight": 0.19837488374238463
+        },
+        {
+            "id": 940745,
+            "weight": 0.19712217365518367
+        },
+        {
+            "id": 1045412,
+            "weight": 0.16159982701286013
+        },
+        {
+            "id": 1013552,
+            "weight": 0.13986010371973492
+        },
+        {
+            "id": 991476,
+            "weight": 0.12037866504276717
+        },
+        {
+            "id": 14926561,
+            "weight": 0.11018209640405267
+        },
+        {
+            "id": 777623,
+            "weight": 0.09587176812208027
+        },
+        {
+            "id": 975793,
+            "weight": 0.09265054297167022
+        },
+        {
+            "id": 16586232,
+            "weight": 0.07247217789994352
+        }
+    ],
+    "videostarttime": {
+        "1148108": 669
+    },
+    "videolink": null,
+    "keywords": {
+        "sloopadvies Prinsejagt": 1.9966574107956268,
+        "Prinsejagt Geachte": 0.9959046840034015,
+        "Vorige wee": 0.9879280183079809,
+        "positief sloopadvies": 1.9869256394046642,
+        "Geachte college": 0.9715237078269898,
+        "Rondvraag": 1.9636180464039064,
+        "Stichting Huurders": 0.9535438183478895,
+        "Woonbedrijf": 0.939002536327566,
+        "Geachte": 0.9286250716728289,
+        "positief": 1.9269085873643101,
+        "FVD": 1.9020070182942825,
+        "LPF": 1.9020070182942825,
+        "raad": 0.8989536384803106,
+        "Huurders vertegenwoordiging": 0.8962350573714926,
+        "raadslid": 0.8868194842532799,
+        "vertegenwoordiging Woonbedrijf": 0.8778367327534826,
+        "college": 0.8706929465858598,
+        "sloopplannen": 0.8601877207215192,
+        "HvW": 0.8529243655425196,
+        "Jannie Visscher": 0.8497020344729761,
+        "Alex Paauw": 0.8497020344729761,
+        "Nicolas Knoester": 0.8497020344729761,
+        "brief": 0.8318638339836633,
+        "wee": 0.8117075169784971,
+        "voerde": 0.8117075169784971,
+        "interpellatiedebat": 0.8117075169784971,
+        "Stichting": 0.7893016029020927,
+        "Huurders": 0.7893016029020927,
+        "advies": 1.774769694039974,
+        "Verhees gezonden": 0.7455013494493522,
+        "wethouder Verhees": 0.7196006490946272,
+        "waarin HvW": 0.64813215184482,
+        "HvW uiteenzet": 0.64813215184482,
+        "Verhees": 0.6476391701587668,
+        "Jannie": 0.638530735755326,
+        "Alex": 0.638530735755326,
+        "Paauw": 0.638530735755326,
+        "Nicolas": 0.638530735755326,
+        "Knoester": 0.638530735755326,
+        "Rudy": 0.638530735755326,
+        "advies aanvraag": 0.6381036090709005,
+        "bijgevoegde brief": 0.5764030780069718,
+        "geloven": 0.5538172020675364,
+        "Hedenavond kregen": 0.5285516837356355
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 80968,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1148108
+    ]
+}

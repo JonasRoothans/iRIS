@@ -1,0 +1,296 @@
+{
+    "module_id": 889740,
+    "vote_id": 8365780,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Raadsvoorstel Vaststelling bestemmingsplan 'Buitengebied (Eikenburg)’",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/19/raadsvoorstellen/889740?parent_event=1146938",
+    "type": "Raadsvoorstel",
+    "member": null,
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "aangenomen",
+    "date": "05-12-2023",
+    "meeting_url": {
+        "1147937": "https://raadsinformatie.eindhoven.nl/vergadering/1147937#ai_8365571",
+        "1044928": "https://raadsinformatie.eindhoven.nl/vergadering/1044928#ai_7967215",
+        "1146938": "https://raadsinformatie.eindhoven.nl/vergadering/1146938#ai_8074027",
+        "1146930": "https://raadsinformatie.eindhoven.nl/vergadering/1146930#ai_8074028",
+        "1147931": "https://raadsinformatie.eindhoven.nl/vergadering/1147931#ai_8389722"
+    },
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/13415704/2/23bst01374+Raadsvoorstel+Vaststelling+bestemmingsplan+%27Buitengebied+%28Eikenburg%29%E2%80%99?connection_type=17&connection_id=9903858": "Raadsvoorstel Vaststelling bestemmingsplan 'Buitengebied (Eikenburg)’",
+        "http://raadsinformatie.eindhoven.nl/document/14033915/2?connection_type=16&connection_id=889740": " Nadere toelichting bij raadsvoorstel gewijzigde vaststelling bp Buitengebied (Eikenburg) ",
+        "http://raadsinformatie.eindhoven.nl/document/14033917/2?connection_type=16&connection_id=889740": " Bijlage 1 bij nadere toelichting - Advies bestemmingsplan Eikenburg ",
+        "http://raadsinformatie.eindhoven.nl/document/14033916/2?connection_type=16&connection_id=889740": " Bijlage 2 bij nadere toelichting - TGE - brief gemeenteraad Eikenburg jan24 ",
+        "http://raadsinformatie.eindhoven.nl/document/14033914/2?connection_type=16&connection_id=889740": " Bijlage 3 bij nadere toelichting - TGE - brief gemeenteraad Eikenburg mar24 ",
+        "http://raadsinformatie.eindhoven.nl/document/13415760/2?connection_type=16&connection_id=889740": " Bijlage 1a - Bestemmingsplan Buitengebied (Eikenburg) ",
+        "http://raadsinformatie.eindhoven.nl/document/13415744/2?connection_type=16&connection_id=889740": " Bijlage 1b - Verbeelding bestemmingsplan Buitengebied (Eikenburg) ",
+        "http://raadsinformatie.eindhoven.nl/document/13415715/2?connection_type=16&connection_id=889740": " Bijlage 23 - Nota van zienswijzen en ambtshalve wijzigingen BP Buitengebied (Eikenburg) ",
+        "http://raadsinformatie.eindhoven.nl/document/13415709/2?connection_type=16&connection_id=889740": " Bijlage 24 - Vaststellingsbesluit Wijziging IOV kaartaanpassing NNB 2 ",
+        "http://raadsinformatie.eindhoven.nl/document/13535461/1?connection_type=16&connection_id=889740": " Beantwoording technische vragen D66 over raadsvoorstel Bestemmingsplan Buitengebied 2023 ",
+        "http://raadsinformatie.eindhoven.nl/document/13607348/1?connection_type=16&connection_id=889740": " Beantwoording technische vraag bestemmingsplan Eikenburg (FVD) ",
+        "http://raadsinformatie.eindhoven.nl/document/13607424/1?connection_type=16&connection_id=889740": " Beantwoording technische vragen over Raadsvoorstel Vaststelling bestemmingsplan 'Buitengebied (Eikenburg)’ (VVD) ",
+        "http://raadsinformatie.eindhoven.nl/document/13607425/1?connection_type=16&connection_id=889740": " Bijlage bij beantwoording technische vragen over Raadsvoorstel Vaststelling bestemmingsplan 'Buitengebied (Eikenburg)’ (VVD) ",
+        "http://raadsinformatie.eindhoven.nl/document/13612219/1?connection_type=16&connection_id=889740": " Beantwoording technische vragen - Raadsvoorstel Vaststelling bestemmingsplan 'Buitengebied (Eikenburg)’ (GL) ",
+        "http://raadsinformatie.eindhoven.nl/document/13684296/2?connection_type=16&connection_id=889740": " Commissieadvies 9 januari 2024 Raadsvoorstel Vaststelling bestemmingsplan 'Buitengebied (Eikenburg)’ ",
+        "http://raadsinformatie.eindhoven.nl/document/13699911/1?connection_type=16&connection_id=889740": " Beantwoording technische vragen PvdD ",
+        "http://raadsinformatie.eindhoven.nl/document/13729629/2?connection_type=16&connection_id=889740": " Beantwoording technische vragen bestemmingsplan 'Buitengebied (Eikenburg)’ naar aanleiding van brief TGE - GL ",
+        "http://raadsinformatie.eindhoven.nl/document/13729667/1?connection_type=16&connection_id=889740": " Beantwoording technische vraag bestemmingsplanwijziging Landgoed Eikenburg - GL ",
+        "http://raadsinformatie.eindhoven.nl/document/14039225/1?connection_type=16&connection_id=889740": " Behandeladvies Raadsvoorstel met nadere toelichting Gewijzigde vaststelling bestemmingsplan 'Buitengebied (Eikenburg)’ ",
+        "http://raadsinformatie.eindhoven.nl/document/14162045/1?connection_type=16&connection_id=889740": " Commissieadvies Raadsvoorstel Vaststelling bestemmingsplan Buitengebied (Eikenburg) "
+    },
+    "parent": null,
+    "children": [
+        912836,
+        913293
+    ],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/14208897/1?connection_type=17&connection_id=10630514",
+    "pdf_text": " \n  \n gemeente Eindhoven  \nInboeknummer      23bst 01374  \nDossiernummer     23.41.451  \nB&W beslisdatum  10 oktober 2023  \n \n \nRaadsvoorstel Gewijzigde vaststelling bestemmingsplan Buitengebied (Eikenburg)  \n \n \nInleiding  \nIn 2010  is het bestemmingsplan  voor het plangebied  Eikenburg  vernieuwd,  omdat  na \nsluiting  van het internaat/pensionaat  werd  gezocht  naar een alternatieve  invulling  voor de \nleegstaande  gebouwen.  De alternatieve  invulling  werd  gevonden  in de sector  Onderwijs  \nen de sector  Welzijn  en Zorg.  Het huidige  bestemmingsplan  beperkt  echter  waardevolle  \nontwikkelingskansen  voor Eikenburg.  In opdracht  van woningstichting  Trudo  en de \nBroeders  van Liefde  is daarom  een strategische  visie (masterplan  1) opgesteld  voor een \ntoekomstbestendige  ontwikkeling  van Eikenburg.  De strategie  laat zien dat behoud  en \nversterking  van cultuurhistorische  en landschappelijke  waarden  hand  in hand  kunnen  \ngaan  met het realiseren  van nieuwe  functies  en programma's.  De bijzondere  \ngroenstructuur  kan bijdragen  aan de bebouwing  en vice versa.  Door  een intelligente  en \ngefaseerde  ontwikkeling  kan per saldo  natuur  behouden  blijven  of zelfs toenemen,  terwijl  \nEikenburg  ook nieuwe  functies  en gebouwen  in zich opneemt.  \nDeze  aanleiding  en de ruimtelijke  kansen  van het terrein  leiden  tot het volgende  concept:  \nEikenburg  wordt  een gebied  met drie schillen:  een open  plek in het midden,  omzoomd  door \neen parkbos  en daaromheen  het bos. Het concept  wordt  gefaseerd  ontwikkeld.  De eerste  \nontwikkeling  heeft  reeds  plaatsgevonden.  Vervolgens,  en daar is dit bestemmingsplan  voor \nopgesteld,   komt  de transformatie  van de sporthal  en de sloop  van het kinderdagverblijf,  \nzwembadgebouw  en bijbehorende  kantoren  aan bod. In deze  fase wordt  ook het \nontbrekende  deel van de ontsluitingsring  aangelegd.  Deze  stap gaat gepaard  met \nopwaard eren van het parkbos  en financieel  compenseren  van NNB.  Er wordt  plaats  \ngemaakt  voor negen  gezinswoningen  en acht kloostertuinwoningen  (tinyhouses).   \n \n1  Het masterplan is als bijlage bij de toelichting van het bestemmingsplan gevoegd.  \n  \n Inboeknummer 23bst 01374  \n \n 2 \nDe negen  gezinswoningen  worden  in een hof ten oosten  van de sporthal  gerealiseerd.  Ten \nwesten  van de sporthal  ontstaat  een bijzonder  en kleinschalig  woonmilieu  in de kloostertuin  \nmet de acht tinyhouses.  Het gaat dus in totaal  om 17 nieuwe  woningen.   \nIn het plangebied  zijn voornamelijk  wooneenheden  beoogd  in de vorm  van woningen  voor \nde sociale  woningbouw.  Onder  sociale  woningbouw  kan ook verstaan  worden  dat bewoners  \nde eigen  woning  bouwen  (CPO)  en dat die bewoners  daarvoor  de grond  pachten  voor een \neindige  periode.  Daarmee  is sprake  van een situatie  die vergelijkbaar  is met 'Slimmer  \nKopen',  een erkende  vorm  van sociale  woningbouw.  \nUit de toelichting  (paragraaf  3.2.2  en 3.5.1)  blijkt dat ook kwantitatief  voldoende  ruimte  is \nom deze  woningen  te realiseren.  Deze  ontwikkeling  voorziet  zowel  in een kwalitatieve  \nbehoefte  als kwantitatieve  behoefte.  Daarnaast  sluit dit plan aan bij de gemeentelijke  \nwoonvisie.              \nHet ter plaatse  geldende  bestemmingsplan  'I Buitengebied  (Eikenburg)'  biedt  geen  ruimte  \nvoor de realisatie  van voornoemd  planvoornemen  binnen  het plangebied.  Om het plan te \nrealiseren,  dient  een nieuw  bestemmingsplan  te worden  opgesteld  voor de locatie.  Dit \nnieuwe  bestemmingsplan  is genaamd  'Buitengebied  (Eikenburg)'.  \nTen behoeve  van de realisatie  van het bestemmingsplan  moet  een klein deel van het Natuur  \nNetwerk  Brabant  (NNB)  binnen  Eikenburg  worden  herbegrensd.  In dit verband  vindt  \nfinanciële  compensatie  plaats.  GS hebben  hierover  op 19 september  2023  een positief  \nbesluit  genomen.  Daarnaast  vindt  ook een fysieke  verbetering  van groen  en natuur  plaats  \nbuiten  het NNB.  Op deze  manier  wordt  een extra  impuls  gegeven  aan het aangrenzende  \nNNB,  zonder  dat de Interim  Omgevingsverordening  van de provincie  Noord -Brabant  \ndaartoe  verplicht.   \nVoorliggend  bestemmingsplan  bevat  de regels  en verbeelding  met bijbehorende  toelichting  \nvoor het realiseren  van dit concept.  \n Op grond  van artikel  3.1.1.  van het Besluit  ruimtelijke  ordening  (Bro)  moeten  \nburgemeester  en wethouders  bij de voorbereiding  van een bestemmingsplan  overleg  \nplegen  met de besturen  van betrokken  gemeenten  en waterschappen  en met de rijks- en \nprovinciale  diensten,  die betrokken  zijn bij de zorg voor de ruimtelijke  ordening  of belast  \nzijn met de behartiging  van belangen  welke  in het plan in het geding  zijn. Omdat  geen  \nrijksbelangen  in het geding  zijn, heeft  geen  vooroverleg  plaatsgevonden  met het Rijk. Met \nde provincie  heeft  vanaf  2019  reeds  vooroverleg  en afstemming  plaatsgevonden  met \nbetrekking  tot de geringe  ingrepen  binnen  Natuurnetwerk  Brabant.  Daarnaast  heeft  begin  \n2022  (nogmaals)  vooroverleg  plaatsgevonden  en zijn de provincie  Noord -\nBrabant,   waterschap  de Dommel,  het Trefpunt  Groen  Eindhoven,  de Henri  van \nAbbestichting  en de Stichting  Bescherming  Wederopbouwerfgoed  Eindhoven  gevraagd  \nom een reactie.  De genoemde  vooroverlegpartners  hebben  over het algemeen  positief  \ngereageerd  op het concept  bestemmingsp lan. De reacties  en de gemeentelijke  reactie  \ndaarop  zijn verwoord  in paragraaf  9.2 van de toelichting  van het bestemmingsplan.    \n Inboeknummer 23bst 01374  \n \n 3 \n  \nHet ontwerpbestemmingsplan  heeft  vanaf  donderdag  23 juni 2022  tot en met woensdag  3 \naugustus  2022  ter inzage  gelegen.  Er zijn 21 zienswijzen  ingediend.  Naar  aanleiding  \ndaarvan  zijn wijzigingen  doorgevoerd.  Ook is ambtshalve  een aantal  wijzigingen  \ndoorgevoerd.  De wijzigingen  zijn terug  te vinden  in de ‘Nota  van zienswijzen  en \nambtshalve  wijzingen  bestemmingsplan  Buitengebied  (Eikenburg)’.  Deze  nota is als \nbijlage  13 bij de toelichting  van het bestemmingsplan  gevoegd.   \n \nWettelijke taak   \nHet behoort tot de taken van de gemeenteraad om een bestemmingsplan vast te \nstellen.  \nKerntaak gekoppeld aan het werkprogramma van het college  \n \nOnvermijdelijk  \n \n \nDoelstelling  \nHet bestemmingsplan  Buitengebied  (Eikenburg)  maakt  de volgende  stap in de gefaseerde  \nontwikkeling  van landgoed  Eikenburg  mogelijk  namelijk  de transformatie  van de sporthal  \nen de sloop  van het kinderdagverblijf,  zwembadgebouw  en bijbehorende  kantoren  naar \neen vernieuwde  sportvoorziening,  de aanleg  van het ontbrekende  deel van de \nontsluitingsring,  een kloosterboerderij,  acht tinyhouses  en een hof van negen  woningen.   \n \nVoorstel  \n1.     A.  De ingediende  zienswijzen  overeenkomstig  het gemeentelijk  standpunt,  verwoord  \nin de ‘Nota  van zienswijzen  en ambtshalve  wijzigingen  bestemmingsplan  \nBuitengebied  (Eikenburg)’,  te beantwoorden  en de als gevolg  daarvan  genoemde  \nwijzigingen  in het bestemmingsplan  door te voeren,  een en ander  conform  het \nbijgevoegde  raadsbesluit;     \n  B. De ambtshalve  wijzigingen  ten opzichte  van het ontwerp -\nbestemmingsplan,  verwoord  in de ‘Nota  van zienswijzen  en ambtshalve  wijzigingen  \nbestemmingsplan  Buitengebied  (Eikenburg)’,  in het bestemmingsplan  door te \nvoeren,  een en ander  conform  het bijgevoegde  raadbesluit;   \n2.  Het bestemmingsplan  ‘Buitengebied  (Eikenburg)’  bestaande  uit de geometrisch  \nbepaalde  planobjecten,  als vervat  in het GML -bestand  NL.IMRO.0772.80380 -0301,  met \nde bijbehorende  bestanden  gewijzigd  digitaal  vast te stellen  en waarbij  voor de locatie  \nvan de geometrische  planobjecten  gebruik  is gemaakt  van een ondergrond,  die \nontleend  is aan de BGT alsmede  de afgeleide  analoge  verbeelding  van het \nbestemmingsplan  gewijzigd  vast te stellen;    \n Inboeknummer 23bst 01374  \n \n 4 \n3.    Geen  exploitatieplan  als bedoeld  in artikel  6.12 van de Wet ruimtelijke  ordening  vast te \nstellen;  \n4.    Gedeputeerde  Staten  van Noord -Brabant  te verzoeken  om toestemming  te verlenen  om \nhet bestemmingsplan  eerder  te mogen  publiceren.  \nArgumenten  \nFeiten, cijfers en bronnen en de rolverdeling van gemeente en partners in de stad  \n1.     A. De zienswijzen  worden  deels  gegrond  en deels  ongegrond  verklaard.   \nHet ontwerpbestemmingsplan  heeft  vanaf  donderdag  23 juni 2023  tot en met \nwoensdag  3 augustus  2022  ter inzage  gelegen.  Voor  iedereen  bestond  de gelegenheid  \nom een zienswijze  in te dienen  tegen  het ontwerpbestemmingsplan.  De zienswijzen  \nworden  om de redenen,  zoals  verwoord  in de ‘Nota  van zienswijzen  en ambtshalve  \nwijzigingen  bestemmingsplan  Buitengebied  (Eikenburg)’  deels  gegrond  en voor het \noverige  ongegrond  verklaard.  Sommige  zienswijzen  hebben  geleid  tot  een wijziging  \nvan het ontwerpbestemmingsplan  (toelichting,  regels  en verbeelding)  wat zal leiden  tot \neen gewijzigde  vaststelling  van het bestemmingsplan.    \nB. De raad dient  een ambtshalve  wijziging  vast te stellen.   \nIn de ‘Nota  van zienswijzen  en ambtshalve  wijzigingen  bestemmingsplan  Buitengebied  \n(Eikenburg)’  is aangegeven  dat een aantal  ambtshalve  wijzingen  dient  te worden  \ndoorgevoerd.  Dit heeft  vooral  te maken  met de vaststelling  van de nieuwe  \narcheologische  waardenkaart  in juni 2022.  Dit zal leiden  tot een gewijzigde  vaststelling  \nvan het bestemmingsplan.  \n2. Het bestemmingsplan  moet  digitaal  worden  vastgesteld  en gelijktijdig  moet  een \nvolledige  analoge  versie  van het bestemmingsplan  worden  vastgesteld.  \nOp basis  van de wetgeving  moet  een bestemmingsplan  digitaal  worden  vastgelegd.  \nHet bestemmingsplan  is voor u digitaal  raadpleegbaar  op de website  \npilot.ruimtelijkeplannen.nl  via de directe  link \nhttps://pilot.ruimtelijkeplannen.nl/?planidn=NL.IMRO.0772.80380 -0301  \nGelijktijdig  met de digitale  vaststelling  van het bestemmingsplan  moet  een volledige  \nverbeelding  hiervan  op papier  worden  vastgesteld.  \n3. De wet verplicht  tot het nemen  van een besluit  over het al dan niet vaststellen  van een \nexploitatieplan.  \nIngevolge  artikel  6.12 van de Wet ruimtelijke  ordening  moet  uw raad een exploitatieplan  \nvaststellen  voor gronden  waarop  een bouwplan  is voorzien,  tenzij  het verhaal  van \ngrondexploitatiekosten  over de in het bestemmingsplan  begrepen  gronden  anderszins  \nis verzekerd.  Als deze  laatste  situatie  zich voordoet  dient  uw raad gelijktijdig  met de  \n Inboeknummer 23bst 01374  \n \n 5 \nvaststelling  van het bestemmingsplan  besluiten  dat geen  exploitatieplan  wordt  \nvastgesteld.  Daar  het verhaal  van kosten  anderszins  is verzekerd  doordat  een \nanterieure  overeenkomst  is afgesloten  tussen  de gemeente  en de initiatiefnemer  kan \neen exploitatieplan  achterwege  blijven.  \n4. De raad dient  te verzoeken  om het bestemmingsplan  eerder  te mogen  publiceren . \nArtikel  3.8 lid 4 van de Wet ruimtelijke  ordening  bepaalt  dat, als er wijzigingen  zijn \naangebracht  ten opzichte  van het ontwerp  anders  dan op grond  van zienswijzen  van \nGedeputeerde  Staten  of de Inspecteur,  zes weken  moet  worden  gewacht  met \npubliceren,  ook als er geen  provinciale  of rijksbelangen  in het geding  zijn. \nGedeputeerde  Staten  van Noord -Brabant  hebben  in een brief aangegeven  dat een \ngemeente  die een besluit  eerder  bekend  wil maken  daartoe  een verzoek  moet  indienen  \nbij Gedeputeerde  Staten.  Dat verzoe k dient  te zijn opgenomen  in het \nvaststellingsbesluit.  Het Rijk heeft  aangegeven  niet meer  te reageren  op een dergelijk  \nverzoek.  Omdat  geen  rijksbelangen  in het geding  zijn en om onnodige  vertraging  in de \nprocedure  te voorkomen  zal het bestemmingsplan  gepubliceerd  worden  na instemming  \nvan Gedeputeerde  Staten.  \n  \nKanttekeningen  \nNiet van toepassing  \n \n \nKosten  \nHet beoordelen  van dit bestemminsplan  en het verzorgen  van de \nbestemmingsplanprocedure  behoren  tot de reguliere  werkzaamheden  van de afdeling  \nRuimtelijke  Ordening.   \n \nCommunicatie  \nWijze van samenspraak en externe communicatie en informeren van betrokkenen  \nHet besluit  tot vaststelling  van het bestemmingsplan  wordt  bekendgemaakt  in het \nGemeenteblad  en digitaal  via de gemeentelijke  website  \nwww.eindhoven.nl /bestemmingsplannen.  In die bekendmaking  staat  dat het besluit  en het \nbestemmingsplan  digitaal  beschikbaar  zijn via de landelijke  website  \nwww.ruimtelijkeplannen.nl  en welke  beroepsmogelijkheden  er zijn. Gelijktijdig  met de \nbekendmaking  wordt  de kennisgeving  hiervan  digitaal  verzonden  aan Gedeputeerde  \nStaten  van Noord -Brabant.  Tevens  wordt  het besluit  met bijbehorende  stukken  digitaal  \naan hen beschikbaar  gesteld.   \n De indieners  van de zienswijzen  worden  per brief in kennis  gesteld  van het besluit  tot \nvaststelling  van het bestemmingsplan  onder  gelijktijdige  toezending  van het raadsvoorstel  \nen het –besluit.  Ook worden  zij geïnformeerd  over de mogelijkheid  tot het instellen  van  \n Inboeknummer 23bst 01374  \n \n 6 \nberoep  en het indienen  van een verzoek  om voorlopige  voorziening  bij de Afdeling  \nbestuursrechtspraak  van de Raad  van State.   \n \nPlanning en uitvoering  \nHet bestemmingsplan  wordt  bekendgemaakt,  waarna  de beroepstermijn  van zes weken  \naanvangt.  Het besluit  wordt  aangemerkt  als een besluit   waartegen  één beroepsgang  (bij \nde Afdeling  bestuursrechtspraak  van de Raad  van State)  openstaat  voor \nbelanghebbenden.  Op de dag dat de beroepstermijn  afloopt  treedt  het bestemmingsplan  \nin werking,  tenzij  beroep  is ingesteld  én een verzoek  om voorlopige  voorziening  is \ningediend  bij de voorzieningenrechter  van de Afdeling  bestuursrechtspraak  van de Raad  \nvan State.  In dat geva l dient  eerst  de uitspraak  van de voorzieningenrechter  te worden  \nafgewacht.  In die uitspraak  staat  of de inwerkingtreding  van het plan al dan niet wordt  \nopgeschort  en zo ja voor welke  plandelen  de schorsing  geldt.  \n \nEvaluatie  \nNiet van toepassing  \n \nBijlage(n)  \nAls bijlage(n) bij dit voorstel behoren:  \n• bestemmingsplan Buitengebied (Eikenburg);  \n• ingekomen zienswijzen;  \n• Nota van zienswijzen en ambtshalve wijzigingen bestemmingsplan Buitengebied \n(Eikenburg);  \n• Besluit GS herbegrenzing NNB.    \n \n \nEen ontwerpraadsbesluit bieden wij u hierbij ter vaststelling aan.  \n \nBurgemeester en wethouders van Eindhoven,  \n \n \n \n \n, secretaris.  \n   \n Inboeknummer 23bst 01374  \n \n 7 \nOntwerp Raadsbesluit  \n \nDe raad van de gemeente Eindhoven;  \ngezien het voorstel van burgemeester en wethouders van ; \nDe raad van de gemeente  Eindhoven;  \ngezien  het voorstel  van burgemeester  en wethouders  van ; \noverwegende,  \n-       dat het ontwerpbestemmingsplan  Buitengebied  (Eikenburg)  met inachtneming  van het \nbepaalde  in en krachtens  artikel  3.8, 1e lid van de Wet ruimtelijke  ordening  is \nvoorbereid;  \n-       dat het ontwerpbestemmingsplan  zowel  in digitale  als analoge  vorm  gedurende  de \nperiode  van donderdag  23 juni 2022  tot en met woensdag  3 augustus  2022  voor \niedereen  ter inzage  heeft  gelegen  en dat voor iedereen  de gelegenheid  openstond  om \ntijdens  deze  periode  naar keuze  digitaal,  schriftelijk  of mondeling  zienswijzen  in te \ndienen;      \n-       dat van 21 indieners  een zienswijze  op het ontwerpbestemmingsplan  is ontvangen;  \n-       dat deze  zienswijzen  binnen  de gestelde  termijn  zijn ontvangen  en dat de indieners  \nervan  in hun zienswijzen  ontvankelijk  kunnen  worden  verklaard;  \n-       dat in de ‘Nota  van zienswijzen  en ambtshalve  wijzigingen  bestemmingsplan  \nBuitengebied  (Eikenburg)  deze  zienswijzen  zijn samengevat  en zijn voorzien  van een \ngemeentelijk  standpunt;  \n-       dat de raad de daarin  vervatte  overwegingen  en standpunten  tot de hare maakt;  \n-       dat de raad de voorgestelde  ambtshalve  wijzigingen  ten aanzien  van de verbeelding,  \nregels  en toelichting  onderschrijft;  \n-       gelet  op de Wet ruimtelijke  ordening  en het Besluit  ruimtelijke  ordening;  \n \nbesluit:  \n \n1. De wijziging en n.a.v. ingebrachte zienswijzen  en ambtshalve wijzigingen in het \nbestemmingsplan door te voeren zoals deze zijn opgenomen in de ‘Nota van \nzienswijzen en ambtshalve wijzigingen  bestemmingsplan Buitengebied \n(Eikenburg)’ ; \n2. Het bestemmingsplan ‘Buitengebied (Eikenburg)’ bestaande uit de geometrisch   \nbepaalde planobjecten, als vervat in het GML -bestand NL.IMRO.0772.80380 - \n Inboeknummer 23bst 01374  \n \n 8 \n0301, met de bijbehorende bestanden gewijzigd digitaal vast te stellen en waarbij \nvoor de  locatie van de geometrische planobjecten gebruik is gemaakt van een \nondergrond, die ontleend is aan de BGT alsmede de afgeleide analoge \nverbeelding van het  bestemmingsplan gewijzigd vast te stellen;  \n3. Geen exploitatieplan als bedoeld in artikel 6.12 van de Wet ruimtelijke ordening \nvast te stellen;  \n4. Gedeputeerde Staten van Noord -Brabant te verzoeken om toestemming te \nverlenen om het bestemmingsplan eerder te mogen publiceren.  \n \nAldus vastgesteld in de openbare vergadering van  \n \n \n \n \n, griffier.  \n ",
+    "bst": "23bst01374",
+    "related": [
+        {
+            "id": 807093,
+            "weight": 0.7875489531901358
+        },
+        {
+            "id": "a_8461328",
+            "weight": 0.7859833082309505
+        },
+        {
+            "id": 1028150,
+            "weight": 0.28460866990107986
+        },
+        {
+            "id": 1027452,
+            "weight": 0.28436765211441445
+        },
+        {
+            "id": 1027454,
+            "weight": 0.28415349746147983
+        },
+        {
+            "id": "o_9202790",
+            "weight": 0.284149953664369
+        },
+        {
+            "id": 1030771,
+            "weight": 0.28390766498553166
+        },
+        {
+            "id": 1036323,
+            "weight": 0.26734228040602054
+        },
+        {
+            "id": 1051513,
+            "weight": 0.22817132444081817
+        },
+        {
+            "id": 931941,
+            "weight": 0.18488030941673428
+        },
+        {
+            "id": 1012492,
+            "weight": 0.15261682126982712
+        },
+        {
+            "id": 894965,
+            "weight": 0.14970553217260732
+        },
+        {
+            "id": 902797,
+            "weight": 0.14661669844138375
+        },
+        {
+            "id": 804104,
+            "weight": 0.131050511657537
+        },
+        {
+            "id": 942826,
+            "weight": 0.10197787009281764
+        },
+        {
+            "id": 1013568,
+            "weight": 0.0985560313217529
+        },
+        {
+            "id": 822251,
+            "weight": 0.09789045573355251
+        },
+        {
+            "id": 924343,
+            "weight": 0.09610108114974471
+        },
+        {
+            "id": 867113,
+            "weight": 0.09590800829909353
+        },
+        {
+            "id": 833162,
+            "weight": 0.08089821313391803
+        },
+        {
+            "id": 776876,
+            "weight": 0.08074827597058591
+        },
+        {
+            "id": 952588,
+            "weight": 0.07881595241412628
+        },
+        {
+            "id": 1117274,
+            "weight": 0.07879194465566379
+        },
+        {
+            "id": 1133037,
+            "weight": 0.07611455470776675
+        },
+        {
+            "id": 952128,
+            "weight": 0.0749836550605234
+        },
+        {
+            "id": 1042265,
+            "weight": 0.0732567275198612
+        },
+        {
+            "id": 1082060,
+            "weight": 0.06601158583119919
+        },
+        {
+            "id": 1064269,
+            "weight": 0.06591912869098421
+        },
+        {
+            "id": 847787,
+            "weight": 0.06231173352427053
+        },
+        {
+            "id": 925712,
+            "weight": 0.06032208817032303
+        },
+        {
+            "id": 984218,
+            "weight": 0.054398195718160416
+        }
+    ],
+    "videostarttime": {
+        "1044928": 810,
+        "1146938": null,
+        "1146930": 676,
+        "1147937": 1790,
+        "1147931": 9503
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_05.12.23_NC_EINDHOVEN-Voorbereiding_Meningsvorming.mp4/playlist.m3u8",
+    "keywords": {
+        "bestemmingsplan Buitengebied": 0.9973894509026042,
+        "Eikenburg": 1.9932190636582097,
+        "Buitengebied": 1.9908423283701218,
+        "wijzigingen bestemmingsplan": 0.9902537017897732,
+        "zienswijzen": 0.9853409214281764,
+        "ambtshalve wijzigingen": 0.9848165534228696,
+        "Gedeputeerde Staten": 0.9833361092601928,
+        "ruimtelijke ordening": 0.9804467199607387,
+        "Wet ruimtelijke": 0.9775748978690819,
+        "besluit": 0.9764457963220798,
+        "wijzigingen": 0.9762540768034067,
+        "ambtshalve": 0.9735654487276402,
+        "Nota": 0.9703105948271772,
+        "raad": 0.9687225848274362,
+        "Brabant": 0.9643911107608532,
+        "Inboeknummer": 0.9595547200386658,
+        "Staten": 0.9588747868764994,
+        "Vaststelling": 1.9584676031627848,
+        "ordening": 0.9580098647803188,
+        "Wet": 0.9565036400387955,
+        "digitaal": 0.9524158552590296,
+        "Noord": 0.9493757093926029,
+        "Eindhoven": 0.9465694291422989,
+        "Eikenburg vernieuwd": 0.9445337174464244,
+        "vast": 0.9385543999192907,
+        "NNB": 0.9380374875280141,
+        "toelichting": 0.9269001898923102,
+        "Inleiding": 0.9267847030368195,
+        "gemeente Eindhoven": 0.9250626492787234,
+        "dient": 0.9225582323844744,
+        "alternatieve invulling": 0.9207886840136674,
+        "artikel": 0.9170663094052223,
+        "bijbehorende": 0.9070443798599785,
+        "exploitatieplan": 0.9049527914941852,
+        "verbeelding": 0.9046367817577062,
+        "gemeente": 0.9045759546502404,
+        "ontwikkeling": 0.8994070979118323,
+        "nieuwe": 0.8894671458582308,
+        "sector Onderwijs": 0.8877087805876481,
+        "raad dient": 0.8853660093528677,
+        "plangebied Eikenburg": 0.8792591072908782,
+        "vastgesteld": 0.876035232078637,
+        "provincie Noord": 0.8667657055781051,
+        "bijlage": 0.8635995329628887,
+        "gelijktijdig": 0.8600351635586019,
+        "sporthal": 0.8536168387839127,
+        "Afdeling bestuursrechtspraak": 0.8516254214438721,
+        "realiseren": 0.8477217157317714,
+        "concept": 0.8473602730230457,
+        "plan": 1.842961853293863,
+        "plaatsgevonden": 0.8410400449085762,
+        "verwoord": 0.8378339938770933,
+        "juni": 0.8369466638418538,
+        "wijzigingen doorgevoerd": 0.8346106203676814,
+        "verzoek": 0.8340647164270305,
+        "planobjecten": 0.8337688099889611,
+        "gewijzigd": 0.8337688099889611,
+        "wethouders": 0.8334375122886484,
+        "analoge": 0.8331490881449011,
+        "Voorstel": 0.831914230878834,
+        "Netwerk Brabant": 0.8304439447032557,
+        "natuur": 0.8175025073167941,
+        "deel": 0.813122882652189,
+        "ontwerp": 0.8041840825205444,
+        "Wederopbouwerfgoed Eindhoven": 0.797068491100368,
+        "Welzijn": 0.7833820631274582,
+        "negen": 0.7819391970329254,
+        "tinyhouses": 0.7811288476239577,
+        "acht": 0.7806373240362257,
+        "sociale": 0.7783314434726397,
+        "woningbouw": 0.7783314434726397,
+        "vorm": 0.7764320748856557,
+        "Daarnaast": 0.7717176039301203,
+        "plaats": 0.769939710631814,
+        "grond": 0.7693830890307883,
+        "gewijzigd digitaal": 0.7685794423455847,
+        "doorgevoerd": 0.7673890361434051,
+        "Rijk": 0.7672678017356728,
+        "sector": 0.766974805935349,
+        "augustus": 0.7661451397811354,
+        "woensdag": 0.7652077547224958,
+        "locatie": 0.7648834008417513,
+        "donderdag": 0.7642817344057597,
+        "voeren": 0.7637426167142105,
+        "gemaakt": 0.7635149161007412,
+        "regels": 0.7618929370264018,
+        "rijksbelangen": 0.7608498503308312,
+        "website": 0.7600406282785596,
+        "periode": 0.7598299296475599,
+        "via": 0.7591558415297033,
+        "aangegeven": 0.7589421730386186,
+        "GML": 0.7584038676533166,
+        "iedereen": 0.7584012564056288,
+        "bepaalde": 0.7575746112230477,
+        "BGT": 0.757358959613269,
+        "indieners": 0.7565322945263863,
+        "leegstaande gebouwen": 0.7538947946202724,
+        "Zorg": 0.7316291862042299,
+        "nieuwe functies": 0.7177131633508739,
+        "Brabant daartoe": 0.7117127783183428
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": "10-04-2026",
+    "meeting_id": [
+        1147937
+    ]
+}

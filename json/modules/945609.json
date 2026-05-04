@@ -1,0 +1,72 @@
+{
+    "module_id": 945609,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230024,
+    "title": "Babypakketten - Raadsvoorstel Kadernota 2025",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/945609",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Lammers (Wethouder)",
+    "result": "",
+    "date": "21-05-2024",
+    "meeting_url": {
+        "1147935": "https://raadsinformatie.eindhoven.nl/vergadering/1147935#ai_8359842"
+    },
+    "attachment": null,
+    "parent": 933747,
+    "children": [],
+    "text": "Wethouder Lammers zegt toe en bespreekt herijking en afhankelijk van resultaat wordt de raad hierover mondeling of schriftelijk geïnformeerd.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1012432,
+            "weight": 0.2871360597501918
+        },
+        {
+            "id": 927903,
+            "weight": 0.25802538509221057
+        },
+        {
+            "id": 1045776,
+            "weight": 0.2422042366256931
+        },
+        {
+            "id": 1140916,
+            "weight": 0.16036378693466222
+        }
+    ],
+    "videostarttime": {
+        "1147935": 11473
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_21.05.24_NC_Eindhoven_Raad.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Kadernota": 1.9967389880162214,
+        "Wethouder Lammers": 0.9950748962302097,
+        "Lammers zegt": 0.986202801796007,
+        "schriftelijk geïnformeerd": 0.9846191788281083,
+        "bespreekt herijking": 0.9742913828560066,
+        "raad hierover": 0.9742913828560066,
+        "hierover mondeling": 0.9742913828560066,
+        "Babypakketten": 1.9550880231213545,
+        "Kadernota": 1.9429876123096683,
+        "geïnformeerd": 0.9043195497355658,
+        "zegt": 0.8416830712200127,
+        "bespreekt": 0.8416830712200127,
+        "herijking": 0.8416830712200127,
+        "afhankelijk": 0.8416830712200127,
+        "resultaat": 0.8416830712200127,
+        "raad": 0.8416830712200127,
+        "mondeling": 0.8416830712200127,
+        "schriftelijk": 0.8416830712200127
+    },
+    "svz": null,
+    "afgedaan": "03-09-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

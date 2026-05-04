@@ -1,0 +1,75 @@
+{
+    "module_id": "ai_6997490",
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Isolatie van woningen tegen energie-armoede (JRM01)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/moties_en_toezeggingen/775265?parent_event=1018631",
+    "type": "Agenda",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "12-07-2022",
+    "meeting_url": "https://raadsinformatie.eindhoven.nl/vergadering/1018631#ai_6997490",
+    "attachment": null,
+    "parent": null,
+    "children": [
+        775265
+    ],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1139114,
+            "weight": 0.36575149130645257
+        },
+        {
+            "id": 1088202,
+            "weight": 0.3650097393208708
+        },
+        {
+            "id": 1077875,
+            "weight": 0.36284019164999837
+        },
+        {
+            "id": 872005,
+            "weight": 0.3166095568949754
+        },
+        {
+            "id": 1117273,
+            "weight": 0.1616284121649385
+        },
+        {
+            "id": 881839,
+            "weight": 0.14931040074968432
+        },
+        {
+            "id": 1055164,
+            "weight": 0.12876232812844263
+        },
+        {
+            "id": 778936,
+            "weight": 0.1274582461572647
+        },
+        {
+            "id": 1123237,
+            "weight": 0.12496648079304377
+        }
+    ],
+    "videostarttime": 826,
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/12.07.22 Eindhoven raad ruw.mp4/playlist.m3u8",
+    "keywords": {
+        "Isolatie": 1.8416830712200127,
+        "energie-armoede": 1.8416830712200127,
+        "woningen": 1.702634417439785
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": null,
+    "meeting_id": []
+}

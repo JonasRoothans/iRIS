@@ -1,0 +1,193 @@
+{
+    "module_id": 11766402,
+    "vote_id": null,
+    "member_id": [
+        80968
+    ],
+    "party_list": [
+        "SP"
+    ],
+    "poho_id": [],
+    "title": "Vraag V1 Vragenhalfuur Energielasten en de toekomst van de buurthuizen (SP)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "26-08-2022",
+    "meeting_url": {
+        "1013429": "https://raadsinformatie.eindhoven.nl/vergadering/1013429/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://api.notubiz.nl/document/11766402/1",
+    "pdf_text": " \n \nVraag voor het vragenhalfuur in de raadsvergadering van 24 mei     V1 \n \nGeacht college, hartelijk dank voor uw antwoord op onze eerdere vragen over de \nenergielasten en de toekomst van de buurthuizen.  \n \nVoor ons resteert nog een belangrijk vraagstuk, namelijk welk perspectief c .q. welke \nzekerheid u buurthuizen kunt geven zodat zij tijdig beslissingen kunnen nemen over hun \nexploitatie ?  \n \nZe zullen moeten kunnen beslissen of en hoe ze volgend jaar op verantwoorde wijze hun \nactiviteiten kunnen voortzetten. Om tijdig de goede keuze s te kunnen maken voor \nvolgend jaar is het ons inziens belangrijk dat buurthuisbesturen zo snel mogelijk weten \nwat zij wel en niet van de zijde van de gemeente mogen verwachten .  \n \nHoogachtend,  \n \nJannie Visscher  (SP).  \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 776869,
+            "weight": 0.7754454542351648
+        },
+        {
+            "id": 775216,
+            "weight": 0.766357575034541
+        },
+        {
+            "id": 878041,
+            "weight": 0.35010776574848496
+        },
+        {
+            "id": 1144232,
+            "weight": 0.32502840995301585
+        },
+        {
+            "id": 1009564,
+            "weight": 0.3091936460379822
+        },
+        {
+            "id": 850988,
+            "weight": 0.26883025555104795
+        },
+        {
+            "id": 1133489,
+            "weight": 0.22704377214429317
+        },
+        {
+            "id": 982293,
+            "weight": 0.1894089904939626
+        },
+        {
+            "id": 1042173,
+            "weight": 0.1433445342848449
+        },
+        {
+            "id": 15004793,
+            "weight": 0.1394608514277735
+        },
+        {
+            "id": 1076664,
+            "weight": 0.13565447392143765
+        },
+        {
+            "id": 15004584,
+            "weight": 0.12408864608326327
+        },
+        {
+            "id": 862377,
+            "weight": 0.10891064414015439
+        },
+        {
+            "id": 1014984,
+            "weight": 0.07882645704041252
+        },
+        {
+            "id": 844335,
+            "weight": 0.0734850216404951
+        },
+        {
+            "id": 1041885,
+            "weight": 0.07113868919962191
+        },
+        {
+            "id": 12555992,
+            "weight": 0.07036840565251078
+        },
+        {
+            "id": 1021062,
+            "weight": 0.07010292209349872
+        },
+        {
+            "id": 859185,
+            "weight": 0.06889137361862549
+        },
+        {
+            "id": 975323,
+            "weight": 0.06846862427875582
+        },
+        {
+            "id": 945991,
+            "weight": 0.06269055457015481
+        },
+        {
+            "id": 893438,
+            "weight": 0.05836463999891918
+        },
+        {
+            "id": 859887,
+            "weight": 0.055827270640596977
+        },
+        {
+            "id": 815680,
+            "weight": 0.05106253509047275
+        },
+        {
+            "id": 945997,
+            "weight": 0.050148223328273844
+        },
+        {
+            "id": 16166531,
+            "weight": 0.04832138771349118
+        }
+    ],
+    "videostarttime": {
+        "1013429": 4827
+    },
+    "videolink": null,
+    "keywords": {
+        "Vragenhalfuur Energielasten": 1.9948047663468107,
+        "Geacht college": 0.9939524818279615,
+        "hartelijk dank": 0.9850934063506147,
+        "eerdere vragen": 0.9823275079019381,
+        "Vraag": 1.9704883964788147,
+        "Energielasten": 1.966190209845748,
+        "Vragenhalfuur": 1.9617833867506493,
+        "toekomst": 1.957642710180766,
+        "volgend jaar": 0.9569361291078724,
+        "Jannie Visscher": 0.9472337428928953,
+        "Geacht": 0.946067415887159,
+        "buurthuizen": 1.9391853273201227,
+        "mei": 0.9077665956807522,
+        "belangrijk vraagstuk": 0.8942783832770632,
+        "college": 0.8885429719698184,
+        "tijdig beslissingen": 0.877966291226455,
+        "raadsvergadering": 0.8682214027529794,
+        "dank": 0.8682214027529794,
+        "antwoord": 0.8682214027529794,
+        "eerdere": 0.8682214027529794,
+        "vragen": 0.8682214027529794,
+        "verantwoorde wijze": 0.8647322180045035,
+        "jaar": 0.8592005101431499,
+        "belangrijk": 0.8424581713171881,
+        "tijdig": 0.8424581713171881,
+        "Hoogachtend": 0.8018391996845156,
+        "Jannie": 0.7761216145093358,
+        "goede keuze": 0.7674147674040589,
+        "namelijk": 0.6965465231476669,
+        "exploitatie": 0.6965465231476669,
+        "voortzetten": 0.6965465231476669,
+        "resteert": 0.6548180896834174,
+        "perspectief": 0.6548180896834174,
+        "zekerheid": 0.6548180896834174,
+        "zodat": 0.6548180896834174,
+        "nemen": 0.6548180896834174,
+        "beslissen": 0.6548180896834174,
+        "wijze": 0.6548180896834174,
+        "activiteiten": 0.6548180896834174,
+        "goede": 0.5656072299582232,
+        "keuze": 0.5656072299582232,
+        "maken": 0.5656072299582232,
+        "inziens": 0.5656072299582232,
+        "snel": 0.5656072299582232,
+        "gemeente": 0.5656072299582232
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 80968,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1013429
+    ]
+}

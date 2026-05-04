@@ -1,0 +1,52 @@
+{
+    "module_id": 891729,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Puntensysteem - Raadsvoorstel Vaststellen Begroting 2024",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/891729",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "31-10-2023",
+    "meeting_url": {
+        "1153547": "https://raadsinformatie.eindhoven.nl/vergadering/1153547#ai_7885375"
+    },
+    "attachment": null,
+    "parent": 879979,
+    "children": [],
+    "text": "Wethouder Verhees zegt toe de raad te informeren over de status van het puntensysteem.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 817885,
+            "weight": 1.8632876717206182
+        }
+    ],
+    "videostarttime": {
+        "1153547": null
+    },
+    "videolink": null,
+    "keywords": {
+        "Raadsvoorstel Vaststellen": 1.9943213285331507,
+        "Vaststellen Begroting": 1.9943213285331507,
+        "Wethouder Verhees": 0.9943213285331507,
+        "Verhees zegt": 0.9833091160051232,
+        "Begroting": 1.9384341196608197,
+        "Puntensysteem": 1.9334683526937526,
+        "zegt": 0.8210041347862065,
+        "raad": 0.8210041347862065,
+        "informeren": 0.8210041347862065,
+        "status": 0.8210041347862065
+    },
+    "svz": "AFVOEREN, opgenomen in de Nadere Toelichting zoals toegevoegd bij RV Begroting dd. 7/11...  Lees verder ",
+    "afgedaan": "14-11-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

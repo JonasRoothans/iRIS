@@ -1,0 +1,62 @@
+{
+    "module_id": 858301,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230022,
+    "title": "Eindhoven wil haar daklozen niet kennen",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/858301",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Toub (Wethouder)",
+    "result": "",
+    "date": "13-06-2023",
+    "meeting_url": {
+        "1102756": "https://raadsinformatie.eindhoven.nl/vergadering/1102756#ai_7536528"
+    },
+    "attachment": null,
+    "parent": 856435,
+    "children": [],
+    "text": "Wethouder Toub zegt toe:\n\nde resultaten van de pilot voor dak- en thuislozen door Belgische gemeenten te bekijken.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 12797858,
+            "weight": 0.2651917676728476
+        },
+        {
+            "id": 13610332,
+            "weight": 0.24114050526344125
+        }
+    ],
+    "videostarttime": {
+        "1102756": 9123
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_13.06.23_NC_Eindhoven_Raad.mp4/playlist.m3u8",
+    "keywords": {
+        "Wethouder Toub": 0.9925553183866472,
+        "kennen Wethouder": 0.986202801796007,
+        "Toub zegt": 0.986202801796007,
+        "Belgische gemeenten": 0.986202801796007,
+        "Toub": 0.9140368224837344,
+        "Belgische": 0.9140368224837344,
+        "Eindhoven": 1.9043195497355658,
+        "dak": 1.9043195497355658,
+        "bekijken": 0.9043195497355658,
+        "daklozen": 1.8416830712200127,
+        "kennen": 1.8416830712200127,
+        "zegt": 0.8416830712200127,
+        "resultaten": 0.8416830712200127,
+        "pilot": 0.8416830712200127,
+        "thuislozen": 0.8416830712200127,
+        "gemeenten": 0.8416830712200127
+    },
+    "svz": null,
+    "afgedaan": "04-06-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

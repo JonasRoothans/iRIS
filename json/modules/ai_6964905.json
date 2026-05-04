@@ -1,0 +1,37 @@
+{
+    "module_id": "ai_6964905",
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Vragenhalfuur",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/moties_en_toezeggingen/851544?parent_event=1013491",
+    "type": "Agenda",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "30-05-2023",
+    "meeting_url": "https://raadsinformatie.eindhoven.nl/vergadering/1013491#ai_6964905",
+    "attachment": null,
+    "parent": null,
+    "children": [
+        851544,
+        851550
+    ],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [],
+    "videostarttime": 729,
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_30.05.23_NC_EINDHOVEN_Raadszaal.mp4/playlist.m3u8",
+    "keywords": {
+        "Vragenhalfuur": 1.9550880231213545
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": null,
+    "meeting_id": []
+}

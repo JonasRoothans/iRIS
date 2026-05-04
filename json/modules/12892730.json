@@ -1,0 +1,122 @@
+{
+    "module_id": 12892730,
+    "vote_id": null,
+    "member_id": [
+        194495
+    ],
+    "party_list": [
+        "Partij voor de Dieren"
+    ],
+    "poho_id": [],
+    "title": "Vraag V2 Vragenhalfuur Om ziek van te worden  (PvdD)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "19-06-2023",
+    "meeting_url": {
+        "1013498": "https://raadsinformatie.eindhoven.nl/vergadering/1013498/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/12892730/1/Vraag+V2+Vragenhalfuur+Om+ziek+van+te+worden++%28PvdD%29?connection_type=1&connection_id=6964957",
+    "pdf_text": "    \n    \n    \nVraag Vragenhalfuur    \n“Om ziek van te worden…”            V2    \n    \nGeachte college,     \n \nAfgelopen vergadering d.d. 13 juni 2023 hebben wij aan de heer \nSteenbakkers een vraag gesteld over de bomen bij het station \n(Raadsvoorstel Gewijzigd Raadsvoorstel Lichthoven). Hij gaf daarop aan \ndat de bomen aan de stationsweg mede gekapt zouden worden \nvanwege dat een groot gedeelte de kastanjebloedingsziekte heeft en ze \ndus daarom ook niet verplaatsbaar zijn. Ook de bomen aan de \nRuysdaelbaan die pas geleden gekapt zijn, bleken deze ziekte te \nhebben, waarbij ook sprake was van Essentaksterfte . \n \nEen blik op de kapadviezen van TGE leert ons dat deze ziektes en \nanderen vaker voorkomen.  Het baart  PvdD  zorgen dat deze bomen ziek \nworden  en een verzwakt afweer mechanisme hebben hetgeen diverse \noorzaken kan hebben (te weinig ruimte, bodemverontreiniging, wonden \nbij het snoeien, geen gezond ecosysteem etc).  \n  \nDe Partij voor de Dieren heeft daarom de volgende vragen:   \n  \n1. Heeft de wethouder een verklaring voor dat er zoveel bomen ziek \nzijn die niet behouden kunnen blijven en dus moeten worden \ngekapt?  \n2. Is de wethouder bereidt om te onderzoeken hoe deze ziektes \nontstaan en dit op te nemen in het plan van aanpak met \nbetrekking tot biodiversiteit?  \n  \n  \n   \nVirginia Jonkers, raadslid    \n   \n   \n   \n  \n \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 883728,
+            "weight": 1.8734094921972253
+        },
+        {
+            "id": 814698,
+            "weight": 0.3829292956582979
+        },
+        {
+            "id": 848601,
+            "weight": 0.2750218807924192
+        },
+        {
+            "id": "a_8286299",
+            "weight": 0.1840179592039358
+        },
+        {
+            "id": 1094248,
+            "weight": 0.08287362472956301
+        },
+        {
+            "id": 988566,
+            "weight": 0.08136481907991154
+        },
+        {
+            "id": 974079,
+            "weight": 0.07999036222826028
+        },
+        {
+            "id": 1045149,
+            "weight": 0.07685653612536669
+        },
+        {
+            "id": 15747143,
+            "weight": 0.05866754380397848
+        },
+        {
+            "id": 1028139,
+            "weight": 0.0530989258145942
+        },
+        {
+            "id": 911691,
+            "weight": 0.046914014826132014
+        }
+    ],
+    "videostarttime": {
+        "1013498": 1383
+    },
+    "videolink": null,
+    "keywords": {
+        "Geachte college": 0.99082848633678,
+        "Vraag Vragenhalfuur": 0.9905296300805272,
+        "Raadsvoorstel Lichthoven": 0.9673225050472782,
+        "Gewijzigd Raadsvoorstel": 0.9646580952675448,
+        "Vraag": 1.9450043635425072,
+        "bomen ziek": 0.9437926400708991,
+        "bomen": 0.9424678235352952,
+        "Geachte": 0.939503867419924,
+        "vraag gesteld": 0.926795889136051,
+        "ziek": 1.9121755060497216,
+        "heer Steenbakkers": 0.9112554986300712,
+        "gekapt": 0.8659044317036821,
+        "college": 0.8497728519400817,
+        "vergadering": 0.8312952482868623,
+        "Lichthoven": 0.8172363985313132,
+        "Gewijzigd": 0.8028431714199552,
+        "PvdD": 1.8012967318411106,
+        "TGE leert": 0.7953998842488623,
+        "wethouder": 0.7504773645774925,
+        "Essentaksterfte": 0.714644422342545,
+        "Virginia Jonkers": 0.6964246349784347,
+        "Ruysdaelbaan": 0.6951852367854574,
+        "TGE": 0.6951852367854574,
+        "baart PvdD": 0.6939978072851329,
+        "PvdD zorgen": 0.6939978072851329,
+        "groot gedeelte": 0.654687836994893,
+        "juni": 0.6538484562338088,
+        "Partij": 0.6449890522739927,
+        "Dieren": 0.6449890522739927,
+        "ziektes ontstaan": 0.6320205584606238,
+        "Jonkers": 0.625467120273788,
+        "station": 0.6195840237460053,
+        "vaker voorkomen": 0.588759197855478,
+        "heer": 0.5865684122153566
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194495,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1013498
+    ]
+}

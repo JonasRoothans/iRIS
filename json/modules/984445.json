@@ -1,0 +1,95 @@
+{
+    "module_id": 984445,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Aantrekken personeel met afstand tot arbeidsmarkt  - Raadsvoorstel Begroting 2025",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/984445",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "29-10-2024",
+    "meeting_url": {
+        "1148141": "https://raadsinformatie.eindhoven.nl/vergadering/1148141#ai_8729567"
+    },
+    "attachment": null,
+    "parent": 975511,
+    "children": [],
+    "text": "Wethouder Verhees zegt toe dat deze vraag technisch wordt beantwoord.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 894956,
+            "weight": 0.2261924802190477
+        },
+        {
+            "id": 1096531,
+            "weight": 0.1924228159475533
+        },
+        {
+            "id": 958585,
+            "weight": 0.18427544021380302
+        },
+        {
+            "id": 1009695,
+            "weight": 0.16365411237233723
+        },
+        {
+            "id": 821692,
+            "weight": 0.1581684715369455
+        },
+        {
+            "id": 801851,
+            "weight": 0.157316486597149
+        },
+        {
+            "id": 1142714,
+            "weight": 0.15084654448528115
+        },
+        {
+            "id": 948991,
+            "weight": 0.14964885706714462
+        },
+        {
+            "id": 879839,
+            "weight": 0.14817186197535348
+        },
+        {
+            "id": 994385,
+            "weight": 0.11196484313948396
+        },
+        {
+            "id": 776996,
+            "weight": 0.08650033982753172
+        }
+    ],
+    "videostarttime": {
+        "1148141": null
+    },
+    "videolink": null,
+    "keywords": {
+        "Raadsvoorstel Begroting": 1.9925553183866471,
+        "Wethouder Verhees": 0.9873976398760466,
+        "Verhees zegt": 0.955011371234592,
+        "Aantrekken personeel": 1.9505961599793435,
+        "Begroting": 1.9140368224837343,
+        "vraag technisch": 0.9029960071342576,
+        "Aantrekken": 1.8416830712200127,
+        "arbeidsmarkt": 1.8416830712200127,
+        "beantwoord": 0.8416830712200127,
+        "personeel": 1.702634417439785,
+        "afstand": 1.702634417439785,
+        "zegt": 0.7026344174397849,
+        "vraag": 0.7026344174397849
+    },
+    "svz": "Technische beantwoording is toegevoegd aan agendapunt 2 bij de bijeenkomst Bijeenkomst/1148139/Raadsavond_Meni...  Lees verder ",
+    "afgedaan": "18-02-2025",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

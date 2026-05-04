@@ -1,0 +1,103 @@
+{
+    "module_id": "ai_8506557",
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Overzicht met een tijdlijn en welke trajecten- Regionale verdringing op de woningmarkt terugdringen (Agenderingsverzoek GroenLinks)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/moties_en_toezeggingen/953414?parent_event=1147967",
+    "type": "Agenda",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "18-06-2024",
+    "meeting_url": "https://raadsinformatie.eindhoven.nl/vergadering/1147967#ai_8506557",
+    "attachment": null,
+    "parent": null,
+    "children": [
+        953414,
+        953415
+    ],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 15306707,
+            "weight": 0.3201713902129021
+        },
+        {
+            "id": 955604,
+            "weight": 0.2958237233409667
+        },
+        {
+            "id": 775220,
+            "weight": 0.2019947057415161
+        },
+        {
+            "id": 1126669,
+            "weight": 0.18968788571272377
+        },
+        {
+            "id": 1023853,
+            "weight": 0.18375650303611876
+        },
+        {
+            "id": 1128291,
+            "weight": 0.1602434636961683
+        },
+        {
+            "id": 1061833,
+            "weight": 0.15535575115110203
+        },
+        {
+            "id": 1037936,
+            "weight": 0.14448223866579185
+        },
+        {
+            "id": 909641,
+            "weight": 0.14284353391336752
+        },
+        {
+            "id": 831605,
+            "weight": 0.14117168074002562
+        },
+        {
+            "id": 861841,
+            "weight": 0.13939939128181852
+        },
+        {
+            "id": 920515,
+            "weight": 0.13737145572602458
+        },
+        {
+            "id": 1123568,
+            "weight": 0.11669544679012715
+        },
+        {
+            "id": 1052610,
+            "weight": 0.09605628961896379
+        }
+    ],
+    "videostarttime": 649,
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_18.06.24_Eindhoven_CIE.mp4/playlist.m3u8",
+    "keywords": {
+        "Agenderingsverzoek GroenLinks": 1.986202801796007,
+        "Regionale verdringing": 1.9737669269624916,
+        "woningmarkt terugdringen": 1.9505961599793435,
+        "Regionale": 1.9140368224837343,
+        "Overzicht": 1.8416830712200127,
+        "trajecten": 1.8416830712200127,
+        "terugdringen": 1.8416830712200127,
+        "GroenLinks": 1.8416830712200127,
+        "tijdlijn": 1.702634417439785,
+        "woningmarkt": 1.702634417439785
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": null,
+    "meeting_id": []
+}

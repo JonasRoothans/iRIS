@@ -1,0 +1,62 @@
+{
+    "module_id": "ai_7087426",
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230014,
+    "title": "Nieuwe methode monitoring klimaatbegroting ",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/moties_en_toezeggingen/790689?parent_event=1034745",
+    "type": "Agenda",
+    "member": null,
+    "party": null,
+    "poho": "R. Thijs (Wethouder)",
+    "result": "",
+    "date": "01-11-2022",
+    "meeting_url": "https://raadsinformatie.eindhoven.nl/vergadering/1034745#ai_7087426",
+    "attachment": null,
+    "parent": null,
+    "children": [
+        790689,
+        790769
+    ],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 855034,
+            "weight": 0.22055028115026606
+        },
+        {
+            "id": 918140,
+            "weight": 0.21016388465247343
+        },
+        {
+            "id": 890080,
+            "weight": 0.19863173178234747
+        },
+        {
+            "id": 900723,
+            "weight": 0.15614646855876654
+        },
+        {
+            "id": 1042220,
+            "weight": 0.1546375455950742
+        }
+    ],
+    "videostarttime": 10565,
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_01.11.22_NC_Eindhoven_CIE.mp4/playlist.m3u8",
+    "keywords": {
+        "Nieuwe methode": 1.9505961599793435,
+        "monitoring klimaatbegroting": 1.9505961599793435,
+        "methode monitoring": 1.9029960071342575,
+        "Nieuwe": 1.8416830712200127,
+        "methode": 1.702634417439785
+    },
+    "svz": "Nieuwe monitoring + doorvertaling naar gemeentelijke sectoren is in ontwikkeling. Komt terug bij de begroting ...  Lees verder ",
+    "afgedaan": "Q3/Q4 2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "30-05-2025",
+    "meeting_id": []
+}

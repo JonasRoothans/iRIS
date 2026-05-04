@@ -1,0 +1,68 @@
+{
+    "module_id": "r_7006024",
+    "vote_id": 7006024,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Raadsvoorstel met twee nadere toelichtingen tot (gewijzigde) vaststelling bestemmingsplan Lichthoven kavels C en D",
+    "url": "https://raadsinformatie.eindhoven.nl/vergadering/1013429/Raadsvoorstel%20met%20twee%20nadere%20toelichtingen%20tot%20%28gewijzigde%29%20vaststelling%20bestemmingsplan%20Lichthoven%20kavels%20C%20en%20D 24-05-2022#voting_7006024",
+    "type": "Raadsvoorstel",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "aangenomen",
+    "date": "24-05-2022",
+    "meeting_url": {
+        "1013429": "https://raadsinformatie.eindhoven.nl/vergadering/1013429/Raadsvoorstel%20met%20twee%20nadere%20toelichtingen%20tot%20%28gewijzigde%29%20vaststelling%20bestemmingsplan%20Lichthoven%20kavels%20C%20en%20D 24-05-2022#voting_7006024"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 845621,
+            "weight": 1.3239537763521452
+        },
+        {
+            "id": "o_7006010",
+            "weight": 1.274706760802157
+        },
+        {
+            "id": 780301,
+            "weight": 0.9780947418045087
+        },
+        {
+            "id": "ai_6964687",
+            "weight": 0.9383189450187415
+        },
+        {
+            "id": 809927,
+            "weight": 0.6462653727937756
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "gewijzigde": 1.9550880231213545,
+        "bestemmingsplan Lichthoven": 1.955011371234592,
+        "Lichthoven kavels": 1.955011371234592,
+        "vaststelling bestemmingsplan": 1.9505961599793435,
+        "twee nadere": 1.9029960071342575,
+        "nadere toelichtingen": 1.9029960071342575,
+        "Raadsvoorstel": 1.8416830712200127,
+        "vaststelling": 1.8416830712200127,
+        "twee": 1.702634417439785,
+        "kavels": 1.702634417439785
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1013429
+    ]
+}

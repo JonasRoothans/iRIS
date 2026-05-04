@@ -1,0 +1,103 @@
+{
+    "module_id": 836171,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Raadsvoorstel Ontheffing lid in de Meningsvormende vergadering",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/19/Raadsvoorstellen/836171",
+    "type": "Raadsvoorstel",
+    "member": null,
+    "party": null,
+    "poho": "",
+    "result": "Afgerond",
+    "date": "09-05-2023",
+    "meeting_url": {
+        "1013486": "https://raadsinformatie.eindhoven.nl/vergadering/1013486#ai_7548261"
+    },
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/12642656/1/Raadsvoorstel+Ontheffing+lid+in+de+Meningsvormende+vergadering?connection_type=17&connection_id=9268209": "Raadsvoorstel Ontheffing lid in de Meningsvormende vergadering"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/12725625/1?connection_type=17&connection_id=9363105",
+    "pdf_text": " \n \n \n  \n   \n \n \n  gemeente Eindhoven  \nRaadsnummer   \nInboeknummer   \nDossiernummer      \n \nRaads voorstel    Ontheffing lid in de Meningsvormende vergadering   \n \nInleiding  \nDe raad is bevoegd leden van de Meningsvormende Vergadering te benoemen en te \nontheffen op verzoek van het betreffende lid of voordracht van een politieke groepering \nin de raad. Het onderstaande voorstel is getoetst aan de bepalingen van de Verordening \nop de voorbereidende bijeenkomst en de meningsvormende vergadering  gemeente \nEindhoven 2022.   \nDoelstelling  \nRegeling van de bemensing van de Meningsvormende vergadering voor de VVD fractie.  \nVoorstel  \nOnderstaand commissielid te ontheffen van zijn lidmaatschap in de Meningsvormende \nVergadering.  \n• Dhr. E.R. Winters.  \n \n \nEen ontwerp raadsbesluit bieden wij u hierbij ter vaststelling aan.  \n \nDe agendacommissie  \n \n   \n  \n Raadsnummer  \n \n  \n \n \n2  \n \n  Ontwerp Raadsbesluit   \n \n   \n \nDe raad van de gemeente Eindhoven;  \ngelet op het verzoek van de VVD fractie ; \ngelet op het bepaalde in de Gemeentewet;  \ngelet op het bepaalde in de  Verordening op  de voorbereidende bijeenkomst en  de \nmeningsvormende vergadering gemeente Eindhoven  2022; \n \n \n \nbesluit:  \n \n1. Dhr. E.R. Winters te ontheffen van zijn lidmaatschap in de Meningsvormde \nVergadering;  \n \nAldus vastgesteld in de openbare verg adering van 9 mei 2023. \n \n \n \nJ. Jongbloed , griffier . \n \n \n ",
+    "bst": "",
+    "related": [
+        {
+            "id": 1104200,
+            "weight": 0.9949183057041825
+        },
+        {
+            "id": 1112983,
+            "weight": 0.994104654867078
+        },
+        {
+            "id": 1097574,
+            "weight": 0.9742568664732261
+        },
+        {
+            "id": 783052,
+            "weight": 0.2940470903677872
+        },
+        {
+            "id": 874990,
+            "weight": 0.2489051003610716
+        }
+    ],
+    "videostarttime": {
+        "1013486": 1738
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_09.05.23_NC_EINDHOVEN_RAA.mp4/playlist.m3u8",
+    "keywords": {
+        "Meningsvormende vergadering": 1.9970802688461293,
+        "Ontheffing lid": 1.996865975245008,
+        "Inboeknummer Dossiernummer": 0.9950996675216346,
+        "gemeente Eindhoven": 0.9932544193183138,
+        "Raadsvoorstel Ontheffing": 1.98839389059915,
+        "vergadering Inleiding": 0.9873924312009122,
+        "Dossiernummer Raads": 0.9747881681687897,
+        "Eindhoven": 0.9698972128052809,
+        "Eindhoven Raadsnummer": 0.9629283869293379,
+        "lid": 1.962599662972476,
+        "bevoegd leden": 0.9489608955004656,
+        "politieke groepering": 0.9489608955004656,
+        "gemeente": 0.9454506383042499,
+        "Inboeknummer": 0.9301685148440024,
+        "Inleiding": 0.9301685148440024,
+        "VVD fractie": 0.91289732785272,
+        "voorstel": 1.8980983669153388,
+        "Voorstel Onderstaand": 0.8924459890558274,
+        "ontwerp raadsbesluit": 0.8871859010859852,
+        "raad": 0.8826134716842755,
+        "Verordening": 0.8571880233918194,
+        "VVD": 0.8526549473898847,
+        "gelet": 0.8395026875561994,
+        "voorbereidende bijeenkomst": 0.8215619899409323,
+        "onderstaande voorstel": 0.8215353708739056,
+        "Dhr": 0.8145858443816152,
+        "Doelstelling Regeling": 0.8144111097268821,
+        "ontwerp": 0.7854703523131681,
+        "leden": 0.779635269983985,
+        "benoemen": 0.779635269983985,
+        "voordracht": 0.779635269983985,
+        "politieke": 0.779635269983985,
+        "bijeenkomst": 0.7435760391741043,
+        "verzoek": 0.7401510355046476,
+        "Regeling": 0.7247023259697136,
+        "lidmaatschap": 0.7218968447284109,
+        "Winters": 0.7135065218210757,
+        "bepaalde": 0.7035189361204166,
+        "Jongbloed": 0.5697755219495448,
+        "Meningsvormde": 0.5634937228316246,
+        "raadsbesluit bieden": 0.5576196205510195,
+        "getoetst": 0.5046260064469574,
+        "bepalingen": 0.5046260064469574
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": "10-04-2026",
+    "meeting_id": []
+}

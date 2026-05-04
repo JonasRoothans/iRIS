@@ -1,0 +1,69 @@
+{
+    "module_id": 790749,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230022,
+    "title": "I-JGZ",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/moties_en_toezeggingen/790749?parent_event=1034744",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Toub (Wethouder)",
+    "result": "",
+    "date": "01-11-2022",
+    "meeting_url": {
+        "1034744": "https://raadsinformatie.eindhoven.nl/vergadering/1034744#ai_7087609"
+    },
+    "attachment": null,
+    "parent": "ai_7087609",
+    "children": [],
+    "text": "De suggestie mee te nemen om I-JGZ nader te onderzoeken als aanvullend aanbod voor de reguliere jeugdgezondheidszorg.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": "ai_7087609",
+            "weight": 1.8287639709180399
+        },
+        {
+            "id": 855743,
+            "weight": 1.0574844587636547
+        },
+        {
+            "id": 795420,
+            "weight": 0.19012040487643567
+        },
+        {
+            "id": 780717,
+            "weight": 0.18702527759479082
+        },
+        {
+            "id": 953062,
+            "weight": 0.18645279974700546
+        }
+    ],
+    "videostarttime": {
+        "1034744": 17721
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_01.11.22_NC_Eindhoven_Raad.mp4/playlist.m3u8",
+    "keywords": {
+        "reguliere jeugdgezondheidszorg": 0.9798286226653734,
+        "suggestie mee": 0.9665324782301615,
+        "aanvullend aanbod": 0.9665324782301615,
+        "I-JGZ nader": 0.9512216861107865,
+        "I-JGZ": 1.8707740513886073,
+        "mee": 0.8200452308193469,
+        "nemen": 0.8200452308193469,
+        "nader": 0.8200452308193469,
+        "onderzoeken": 0.8200452308193469,
+        "aanbod": 0.8200452308193469,
+        "reguliere": 0.8200452308193469
+    },
+    "svz": null,
+    "afgedaan": "04-07-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

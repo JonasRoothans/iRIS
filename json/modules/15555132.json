@@ -1,0 +1,183 @@
+{
+    "module_id": 15555132,
+    "vote_id": null,
+    "member_id": [
+        194375
+    ],
+    "party_list": [
+        "Partij voor de Dieren"
+    ],
+    "poho_id": [],
+    "title": "Vraag V3 Vragenhalfuur - Wat is het nut van het groenbeleidsplan (PvdD)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "16-05-2025",
+    "meeting_url": {
+        "1256319": "https://raadsinformatie.eindhoven.nl/vergadering/1256319/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/15555132/1/Vraag+V3+Vragenhalfuur+-+Wat+is+het+nut+van+het+groenbeleidsplan+%28PvdD%29?connection_type=1&connection_id=8588186",
+    "pdf_text": " \n \n \nVraag Vragenhalfuur  – Wat is het nut van het groenbeleidsplan         V3  \n \nGeacht college,  \n \nIn 2017 werd het groenbeleidsplan aangenomen.  \nDaarin wordt beschreven dat voor het perceel op de Kalverstraat geldt dat Het \nbeleid is gericht op het behouden en ontwikkelen van het bijzondere groene imago \nen de aansluiting op de groenstructuur. De groene beleving staan voorop. De \nspecifieke kwaliteit en identiteit van een plek moet daarom worden beschermd en \nversterkt.  \n \nVervolgens lezen wij in een reactie van het college dat in principe dit hele gebied \ngeasfalteerd had mogen worden volgens het bestemmingsplan dat in 2019 is \nvastgesteld.  \n \nNa inwerkingtreding van het bestemmingsplan Tongere buiten de Ring 2019 is er \ngeen juridische mogelijkheid die feitelijke ontwikkelingen, zoals het weghalen van \ngroen en de aanleg van verhardingen kan tegenhouden . \n \nDit is voor de Partij voor de Dieren onbegrijpelijk.  \nHoe kan dit samengaan?  \nHoe kan de raad enerzijds een groenbeleidplan goedkeuren waarin staat dat het \ngroene imago behouden moet blijven, en dat er dan daarna een \nbestemmingsplanswijziging komt waarin dit gebied totaal geen bescherming heeft?  \n \nWij willen graag een eenvoudige uitleg.  \n \nDankuwel,  \n \nJonas Roothans  \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 1032695,
+            "weight": 2.213542847883744
+        },
+        {
+            "id": 898924,
+            "weight": 0.256571877811873
+        },
+        {
+            "id": 926529,
+            "weight": 0.24958669122100854
+        },
+        {
+            "id": 863586,
+            "weight": 0.23932331991529684
+        },
+        {
+            "id": 792357,
+            "weight": 0.23853927293603835
+        },
+        {
+            "id": 1021189,
+            "weight": 0.21729918600309053
+        },
+        {
+            "id": 15555133,
+            "weight": 0.19419951383973577
+        },
+        {
+            "id": 822134,
+            "weight": 0.18728548264343156
+        },
+        {
+            "id": 1123714,
+            "weight": 0.18158290578811334
+        },
+        {
+            "id": 1144329,
+            "weight": 0.15402872824546962
+        },
+        {
+            "id": 1064230,
+            "weight": 0.10993144164667201
+        },
+        {
+            "id": 1022971,
+            "weight": 0.08599587171440934
+        },
+        {
+            "id": 1096531,
+            "weight": 0.0836783661309107
+        },
+        {
+            "id": "a_7006137",
+            "weight": 0.07773567381245694
+        },
+        {
+            "id": 1104264,
+            "weight": 0.07114692925230125
+        },
+        {
+            "id": 936165,
+            "weight": 0.06950775405663709
+        },
+        {
+            "id": 1023313,
+            "weight": 0.05845381759733118
+        },
+        {
+            "id": 777008,
+            "weight": 0.05724947254160548
+        },
+        {
+            "id": 861841,
+            "weight": 0.04964101146559727
+        },
+        {
+            "id": 1045809,
+            "weight": 0.04883853477169203
+        },
+        {
+            "id": 1042883,
+            "weight": 0.048445917102604194
+        },
+        {
+            "id": 818918,
+            "weight": 0.04607250429595966
+        },
+        {
+            "id": 1055420,
+            "weight": 0.04445774952187586
+        },
+        {
+            "id": 927079,
+            "weight": 0.03858885531422571
+        }
+    ],
+    "videostarttime": {
+        "1256319": 894
+    },
+    "videolink": null,
+    "keywords": {
+        "Vraag Vragenhalfuur": 0.9974174624768704,
+        "groenbeleidsplan aangenomen": 0.9899058585564057,
+        "Geacht college": 0.9790276595557703,
+        "Vraag": 1.970839284422587,
+        "nut": 1.957086684218798,
+        "Geacht": 0.942682275718903,
+        "groene imago": 0.931536999720567,
+        "Kalverstraat geldt": 0.9238178052980132,
+        "groene": 0.9022555768107182,
+        "PvdD": 1.8821818631354943,
+        "bijzondere groene": 0.87561127952816,
+        "aangenomen": 0.8670669139426883,
+        "Jonas Roothans": 0.8409227240735673,
+        "groene beleving": 0.8406091233471511,
+        "bestemmingsplan Tongere": 0.8313290719953225,
+        "college": 0.8208099099512658,
+        "imago": 0.7946425390287671,
+        "behouden": 0.7806812938742695,
+        "Dieren onbegrijpelijk": 0.7721105876930708,
+        "gebied": 0.7641297978736414,
+        "waarin": 0.7434584892941039,
+        "beleving staan": 0.7182665659986547,
+        "Ring": 0.678744192298329,
+        "Tongere": 0.6588938572128602,
+        "Partij": 0.6588938572128602,
+        "Dieren": 0.6588938572128602,
+        "groenstructuur": 0.6525422122370307,
+        "gebied geasfalteerd": 0.6474616299900882,
+        "specifieke kwaliteit": 0.6301228916937276,
+        "Jonas": 0.6295344087768394,
+        "beschreven": 0.622730864057852,
+        "perceel": 0.622730864057852,
+        "geldt": 0.622730864057852,
+        "beleid": 1.6227308640578522,
+        "ontwikkelen": 0.622730864057852,
+        "aansluiting": 0.622730864057852,
+        "gebied totaal": 0.5984159724695842,
+        "goedkeuren waarin": 0.5472889425750107,
+        "waarin staat": 0.5472889425750107,
+        "feitelijke ontwikkelingen": 0.543677827403005,
+        "staan": 0.5311646629233426,
+        "versterkt": 0.512634017816031,
+        "juridische mogelijkheid": 0.503782215272035
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194375,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1256319
+    ]
+}

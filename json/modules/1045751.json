@@ -1,0 +1,53 @@
+{
+    "module_id": 1045751,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230024,
+    "title": "Kwartaalcijfers werk en inkomen - Raadsvoorstel Kadernota 2026",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1045751",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Lammers (Wethouder)",
+    "result": "",
+    "date": "13-05-2025",
+    "meeting_url": {
+        "1256605": "https://raadsinformatie.eindhoven.nl/vergadering/1256605#ai_9262973"
+    },
+    "attachment": null,
+    "parent": 1034468,
+    "children": [],
+    "text": "Wethouder Lammers zegt toe dat de rapportage Q1 2025 komt in de vorm van een collegebrief met een link naar het dashboard.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [],
+    "videostarttime": {
+        "1256605": 13274
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_13.05.25_NC_01-EINDHOVEN-RAA.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Kadernota": 1.9967389880162214,
+        "Wethouder Lammers": 0.9950748962302097,
+        "Lammers zegt": 0.986202801796007,
+        "Kwartaalcijfers werk": 1.9846191788281082,
+        "Kadernota": 1.9429876123096683,
+        "inkomen": 1.9043195497355658,
+        "rapportage": 0.9043195497355658,
+        "komt": 0.9043195497355658,
+        "dashboard": 0.9043195497355658,
+        "werk": 1.8416830712200127,
+        "zegt": 0.8416830712200127,
+        "vorm": 0.8416830712200127,
+        "collegebrief": 0.8416830712200127,
+        "link": 0.8416830712200127
+    },
+    "svz": "De collegebrief is op 21 mei 2025 verstuurd (7935156_2.6.1.). Voorstel tot afvoeren.",
+    "afgedaan": "03-06-2025",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": [
+        1256605
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "module_id": "r_7006011",
+    "vote_id": 7006011,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Raadsvoorstel Bekrachtiging geheimhouding stuk met betrekking tot vaststellen grondexploitatie sloop/nieuwbouw Gildebuurt",
+    "url": "https://raadsinformatie.eindhoven.nl/vergadering/1013429/Raadsvoorstel%20Bekrachtiging%20geheimhouding%20stuk%20met%20betrekking%20tot%20vaststellen%20grondexploitatie%20sloop_nieuwbouw%20Gildebuurt 24-05-2022#voting_7006011",
+    "type": "Raadsvoorstel",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "aangenomen",
+    "date": "24-05-2022",
+    "meeting_url": {
+        "1013429": "https://raadsinformatie.eindhoven.nl/vergadering/1013429/Raadsvoorstel%20Bekrachtiging%20geheimhouding%20stuk%20met%20betrekking%20tot%20vaststellen%20grondexploitatie%20sloop_nieuwbouw%20Gildebuurt 24-05-2022#voting_7006011"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 792457,
+            "weight": 1.572000408148902
+        },
+        {
+            "id": 813324,
+            "weight": 1.4003970397222085
+        },
+        {
+            "id": 798931,
+            "weight": 1.397134947233188
+        },
+        {
+            "id": 804860,
+            "weight": 0.9611014277250846
+        },
+        {
+            "id": 771654,
+            "weight": 0.9465008653596413
+        },
+        {
+            "id": "r_7006021",
+            "weight": 0.9300947083403746
+        },
+        {
+            "id": 799286,
+            "weight": 0.7275017786112226
+        },
+        {
+            "id": 804504,
+            "weight": 0.30262801101576586
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "nieuwbouw Gildebuurt": 1.986202801796007,
+        "Raadsvoorstel Bekrachtiging": 1.9765416191248102,
+        "Bekrachtiging geheimhouding": 1.955011371234592,
+        "grondexploitatie sloop": 1.9505961599793435,
+        "Gildebuurt": 1.9140368224837343,
+        "geheimhouding stuk": 1.9029960071342575,
+        "vaststellen grondexploitatie": 1.9029960071342575,
+        "Bekrachtiging": 1.8552226942577967,
+        "Raadsvoorstel": 1.8416830712200127,
+        "sloop": 1.8416830712200127,
+        "nieuwbouw": 1.8416830712200127,
+        "stuk": 1.702634417439785,
+        "betrekking": 1.702634417439785,
+        "vaststellen": 1.702634417439785
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1013429
+    ]
+}

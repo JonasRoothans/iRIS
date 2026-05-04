@@ -1,0 +1,62 @@
+{
+    "module_id": 11766399,
+    "vote_id": null,
+    "member_id": [
+        133674
+    ],
+    "party_list": [
+        "VVD"
+    ],
+    "poho_id": [],
+    "title": "Vraag V3 Vragenhalfuur Wanneer wel - geen voorkeursrecht (VVD)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "26-08-2022",
+    "meeting_url": {
+        "1013429": "https://raadsinformatie.eindhoven.nl/vergadering/1013429/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://api.notubiz.nl/document/11766399/1",
+    "pdf_text": " \n           \nVraag vragenhalfuur         V3 \nWanneer wel /geen voorkeursrecht?  \n \nDe gemeente kan op basis van de Wet voorkeursrecht gemeenten zorgen dat bij verkoop van \ngronden deze eerst aangeboden zullen worden aan de gemeente. Het doel om hiermee speculaties \ntegen te gaan steunt de VVD.  \n \nDoor heel de stad worden op dit moment plann en gemaakt en wordt er gebouwd. In sommige \ngevallen vestigt de gemeente Eindhoven een voorkeursrecht op gronden, in sommige gevallen doet \nde gemeente dit niet.  \n \nDe VVD -fractie wil meer gevoel krijgen  wanneer de wet voorkeurrecht gemeenten wel wordt ingez et \nen wanneer niet? Welk afwegingskader wordt hierbij gebruikt? Kan de wethouder het \nafwegingskader schetsen en aangeven wanneer hij hierover de raad informeert?  \n \nLex Janssen (VVD)  \n \n ",
+    "bst": null,
+    "related": [],
+    "videostarttime": {
+        "1013429": 4827
+    },
+    "videolink": null,
+    "keywords": {
+        "Vraag vragenhalfuur": 0.9937632392504945,
+        "Vraag": 1.9645211901765078,
+        "VVD": 1.9572673557386882,
+        "voorkeursrecht": 1.9278220573993523,
+        "gemeente": 0.9110597066648738,
+        "gemeente Eindhoven": 0.8590756286118607,
+        "Wet": 0.833054628929157,
+        "gronden": 0.7665957162689891,
+        "gevallen": 0.7432698406386828,
+        "afwegingskader": 0.7144152677830314,
+        "Lex Janssen": 0.6670261282790074,
+        "Eindhoven": 0.6528072080465486,
+        "hiermee speculaties": 0.5886280775449867,
+        "gaan steunt": 0.5886280775449867,
+        "basis": 0.553909345318152,
+        "zorgen": 0.553909345318152,
+        "verkoop": 0.553909345318152,
+        "aangeboden": 0.553909345318152,
+        "gevallen vestigt": 0.5314146475250145
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 133674,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1013429
+    ]
+}

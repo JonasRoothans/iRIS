@@ -1,0 +1,57 @@
+{
+    "module_id": 850771,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Organisatieontwikkeling - Raadsvoorstel Kadernota 2024",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/850771",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "23-05-2023",
+    "meeting_url": {
+        "1096274": "https://raadsinformatie.eindhoven.nl/vergadering/1096274#ai_7491703"
+    },
+    "attachment": null,
+    "parent": 837030,
+    "children": [],
+    "text": "Wethouder Verhees zegt toe:\nDe raad te informeren over (de ontwikkelstrategie) van organisatieontwikkeling.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 873163,
+            "weight": 0.1479822264426875
+        },
+        {
+            "id": 790709,
+            "weight": 0.1385433105566639
+        },
+        {
+            "id": 936160,
+            "weight": 0.10252352896865509
+        }
+    ],
+    "videostarttime": {
+        "1096274": 12343
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_23.05.23_Eindhoven_NC_Meningsvorming.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Kadernota": 1.9947419689354198,
+        "Wethouder Verhees": 0.9923645817752877,
+        "Verhees zegt": 0.9745881490223324,
+        "Kadernota": 1.9276776052542388,
+        "Organisatieontwikkeling": 1.8646528421132418,
+        "zegt": 0.7634726534164589,
+        "ontwikkelstrategie": 0.6229621079653951
+    },
+    "svz": null,
+    "afgedaan": "13-06-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

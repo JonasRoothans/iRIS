@@ -1,0 +1,79 @@
+{
+    "module_id": 850874,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": null,
+    "title": "Burgerberaad - Raadsvoorstel Kadernota 2024",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/850874",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Esselbrugge (Wethouder)",
+    "result": "",
+    "date": "23-05-2023",
+    "meeting_url": {
+        "1096274": "https://raadsinformatie.eindhoven.nl/vergadering/1096274#ai_7491703"
+    },
+    "attachment": null,
+    "parent": 837030,
+    "children": [],
+    "text": "Stadsgezant Van Kessel (o.v.v. wethouder Esselbrugge) zegt toe:\ndat het college met een voorstel komt over mogelijk geschikte onderwerpen. Er komt een raadsinformatiebrief over het proces hoe gekomen wordt tot de keuze van een onderwerp, het organiseren van het burgerberaad en hoe de raad betrokken wordt.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 984424,
+            "weight": 0.3102096368813973
+        },
+        {
+            "id": 984412,
+            "weight": 0.28867511102509164
+        },
+        {
+            "id": 953414,
+            "weight": 0.20586153750559608
+        },
+        {
+            "id": 1021300,
+            "weight": 0.2022299680384433
+        },
+        {
+            "id": "a_8569201",
+            "weight": 0.133936519188085
+        }
+    ],
+    "videostarttime": {
+        "1096274": 12343
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_23.05.23_Eindhoven_NC_Meningsvorming.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Kadernota": 1.9968624229119003,
+        "wethouder Esselbrugge": 0.993998283571871,
+        "geschikte onderwerpen": 0.9840994234200705,
+        "voorstel komt": 0.9590577657410551,
+        "Kadernota": 1.9440735886272018,
+        "Stadsgezant": 0.9440735886272018,
+        "Kessel": 0.9440735886272018,
+        "wethouder": 0.8933257010902838,
+        "zegt": 0.8933257010902838,
+        "Burgerberaad": 1.865966596765002,
+        "komt": 0.8659665967650021,
+        "college": 0.8532757599631644,
+        "geschikte": 0.8532757599631644,
+        "raad betrokken": 0.8374705759660737,
+        "onderwerp": 0.7068498574116615,
+        "raadsinformatiebrief": 0.626092633683073,
+        "proces": 0.626092633683073,
+        "gekomen": 0.626092633683073,
+        "keuze": 0.626092633683073,
+        "organiseren": 0.626092633683073,
+        "raad": 1.626092633683073
+    },
+    "svz": null,
+    "afgedaan": "12-09-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

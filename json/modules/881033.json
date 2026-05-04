@@ -1,0 +1,112 @@
+{
+    "module_id": 881033,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230013,
+    "title": "Regiowethouders - Commissienotitie Regionale Visie Werklocaties",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/881033",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Steenbakkers (Wethouder)",
+    "result": "",
+    "date": "26-09-2023",
+    "meeting_url": {
+        "1142076": "https://raadsinformatie.eindhoven.nl/vergadering/1142076#ai_7818767"
+    },
+    "attachment": null,
+    "parent": 873163,
+    "children": [],
+    "text": "Wethouder Steenbakkers zegt toe:\nin overweging te nemen om met de regiowethouders in gesprek te gaan over klimaatdeals en over de scoring voor duurzame bedrijven op nieuwe bedrijventerreinen via een uitgifteprotocol;",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 881030,
+            "weight": 2.791632734766226
+        },
+        {
+            "id": 881034,
+            "weight": 2.7867385238203175
+        },
+        {
+            "id": 894988,
+            "weight": 1.1360062483916864
+        },
+        {
+            "id": 984905,
+            "weight": 0.8523048590794378
+        },
+        {
+            "id": 873163,
+            "weight": 0.5677763865810482
+        },
+        {
+            "id": 1043848,
+            "weight": 0.53037173519409
+        },
+        {
+            "id": 817362,
+            "weight": 0.38915423173499436
+        },
+        {
+            "id": 813324,
+            "weight": 0.3392768766551493
+        },
+        {
+            "id": 862589,
+            "weight": 0.3297726182106502
+        },
+        {
+            "id": 883443,
+            "weight": 0.260670628394308
+        },
+        {
+            "id": 862662,
+            "weight": 0.19269670052717694
+        },
+        {
+            "id": 949456,
+            "weight": 0.16739425070091266
+        },
+        {
+            "id": 891429,
+            "weight": 0.14161761854783197
+        }
+    ],
+    "videostarttime": {
+        "1142076": 655
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_26.09.23_Eindhoven_meningsvormingCK.mp4/playlist.m3u8",
+    "keywords": {
+        "Commissienotitie Regionale": 1.9945094833190993,
+        "Regionale Visie": 1.9917743055934252,
+        "Visie Werklocaties": 1.9917743055934252,
+        "Werklocaties Wethouder": 0.9917743055934253,
+        "Wethouder Steenbakkers": 0.9917743055934253,
+        "Steenbakkers zegt": 0.9840538735124214,
+        "duurzame bedrijven": 0.9688634549487215,
+        "nieuwe bedrijventerreinen": 0.9688634549487215,
+        "Visie": 1.909675117577511,
+        "Wethouder": 0.9096751175775111,
+        "uitgifteprotocol": 0.8942112893098046,
+        "zegt": 0.8262290717902356,
+        "overweging": 0.8262290717902356,
+        "nemen": 0.8262290717902356,
+        "gesprek": 0.8262290717902356,
+        "gaan": 0.8262290717902356,
+        "klimaatdeals": 0.8262290717902356,
+        "scoring": 0.8262290717902356,
+        "duurzame": 0.8262290717902356,
+        "bedrijven": 0.8262290717902356,
+        "nieuwe": 0.8262290717902356,
+        "via": 0.8262290717902356
+    },
+    "svz": null,
+    "afgedaan": "06-02-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

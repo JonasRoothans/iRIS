@@ -1,0 +1,223 @@
+{
+    "module_id": 14613122,
+    "vote_id": null,
+    "member_id": [
+        45186,
+        194376,
+        90571,
+        194508,
+        194514,
+        131155,
+        194495
+    ],
+    "party_list": [
+        "Partij voor de Dieren",
+        "Volt",
+        "PvdA",
+        "GroenLinks",
+        "50PLUS",
+        "CDA"
+    ],
+    "poho_id": [],
+    "title": "Rondvraag 3 - Stand van zaken bieb en buurthuis in Meerhoven (CDA, 50Plus, PvdD, Volt, OAHvE, GL, PvdA)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "08-10-2024",
+    "meeting_url": {
+        "1148133": "https://raadsinformatie.eindhoven.nl/vergadering/1148131/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://api.notubiz.nl/document/14613122/1",
+    "pdf_text": "      \n   \n \nRondvraa g meningsvorming 8 oktober 2024: Stand van zaken bibliotheek  en buurthuis \nin Meerhoven  \n \n \nGeacht college,  \n \nOp 16 april 2024 stelden wij raadsvragen over de wens voor een bibliotheek en buurthuis in \nde wijk Meerhoven. U heeft hierop geantwoord dat u ook vindt dat een bibliotheek - en \nbuurthuisfunctie in Meerhoven wenselijk is, en dat u samen met de bewoners berei d bent om \nte verkennen waar en in welke vorm zo’n plek in Meerhoven gerealiseerd kan worden. Dat er \ndringend behoefte is aan zo’n plek, blijkt ook uit het krantenartikel in het Eindhovens Dagblad \nvan afgelopen zaterdag 5 oktober 2024. Wij zijn inmiddels ee n half jaar verder en hebben \ndaarom de volgende vragen:  \n \n1. Welke stappen zijn er tot nu toe ondernomen sinds de beantwoording van onze \nvragen?  \n2. Wanneer verwacht u een bibliotheek - en buurthuisfunctie in Meerhoven te realiseren?  \n \nNamens de leden van de raad,  \n \nRemco van Dooren en Miriam Frosi , CDA Eindhoven  \nRuud van Acquoij, 50PLUS  \nVirginia Jonkers, Partij voor de Dieren  \nJacco Rubenkamp, V olt  \nDre Rennenberg, Ouderen  Appel Hart voor Eindhoven  \nGisèle Mambre, GroenLinks  \nRosa van den Nieuwenhof, PvdA  \n \n ",
+    "bst": null,
+    "related": [
+        {
+            "id": 931636,
+            "weight": 1.446228127714161
+        },
+        {
+            "id": 898431,
+            "weight": 1.0008863568355766
+        },
+        {
+            "id": 984304,
+            "weight": 0.6643718063781101
+        },
+        {
+            "id": 815455,
+            "weight": 0.48676920393780776
+        },
+        {
+            "id": 904066,
+            "weight": 0.4845066269679072
+        },
+        {
+            "id": 1108590,
+            "weight": 0.48205308186288653
+        },
+        {
+            "id": 982448,
+            "weight": 0.479516528231832
+        },
+        {
+            "id": "ai_7066629",
+            "weight": 0.45748957207198304
+        },
+        {
+            "id": 782632,
+            "weight": 0.29599679071922075
+        },
+        {
+            "id": 1009564,
+            "weight": 0.21360058410092878
+        },
+        {
+            "id": 777040,
+            "weight": 0.18551497943423123
+        },
+        {
+            "id": 864549,
+            "weight": 0.17666825406299766
+        },
+        {
+            "id": 13990892,
+            "weight": 0.1749363444370603
+        },
+        {
+            "id": 1149035,
+            "weight": 0.16497399929118403
+        },
+        {
+            "id": 779022,
+            "weight": 0.14551158483154766
+        },
+        {
+            "id": 12324736,
+            "weight": 0.1196138478792906
+        },
+        {
+            "id": 945730,
+            "weight": 0.10670033380675507
+        },
+        {
+            "id": 15747143,
+            "weight": 0.10200054642229206
+        },
+        {
+            "id": 1123060,
+            "weight": 0.1018674798667015
+        },
+        {
+            "id": 1141045,
+            "weight": 0.09810373590649352
+        },
+        {
+            "id": 915627,
+            "weight": 0.09809290432682631
+        },
+        {
+            "id": 803052,
+            "weight": 0.0957739181443363
+        },
+        {
+            "id": 1139113,
+            "weight": 0.09406014457762081
+        },
+        {
+            "id": 1053124,
+            "weight": 0.09385440616434917
+        },
+        {
+            "id": 1046798,
+            "weight": 0.07554965890635117
+        }
+    ],
+    "videostarttime": {
+        "1148133": 1366
+    },
+    "videolink": null,
+    "keywords": {
+        "Meerhoven Geacht": 0.9902272339031835,
+        "Geacht college": 0.9887299931174155,
+        "Stand": 1.9770430940535464,
+        "zaken bieb": 1.9750735333862885,
+        "wijk Meerhoven": 0.9741477083791631,
+        "buurthuis": 1.972764017982249,
+        "Volt": 1.945180772504761,
+        "bibliotheek": 0.9436751137758838,
+        "Rondvraa": 1.9371969653544832,
+        "zaken": 1.9340418933228154,
+        "Geacht": 0.9291973563523671,
+        "zo’n plek": 0.9213937275706195,
+        "CDA Eindhoven": 0.9176850992250098,
+        "Eindhovens Dagblad": 0.9053879029706801,
+        "oktober": 0.8959589336641278,
+        "CDA": 1.8775730467966951,
+        "PvdD": 1.8685747326799853,
+        "OAHvE": 1.8685747326799853,
+        "april": 0.8685747326799854,
+        "Virginia Jonkers": 0.8517265768958928,
+        "meningsvorming": 0.8425989661009207,
+        "college": 0.8425989661009207,
+        "stelden": 0.8425989661009207,
+        "Miriam Frosi": 0.837296949992565,
+        "Jacco Rubenkamp": 0.837296949992565,
+        "Dre Rennenberg": 0.837296949992565,
+        "Ouderen Appel": 0.837296949992565,
+        "Gisèle Mambre": 0.837296949992565,
+        "Dieren Jacco": 0.8212444596414101,
+        "Appel Hart": 0.8212444596414101,
+        "zo’n": 0.815707765090168,
+        "plek": 0.815707765090168,
+        "bieb": 1.8156386684630488,
+        "raadsvragen": 0.8156386684630487,
+        "wens": 0.8156386684630487,
+        "wijk": 0.8156386684630487,
+        "vorm zo’n": 0.806543324662638,
+        "hierop geantwoord": 0.7602119711365346,
+        "bewoners berei": 0.7602119711365346,
+        "Dagblad": 0.7217285564950485,
+        "GroenLinks Rosa": 0.6884986802928172,
+        "volgende vragen": 0.6653169075757663,
+        "olt Dre": 0.658146051407364,
+        "Remco": 0.6406571562211814,
+        "Frosi": 0.6406571562211814,
+        "Acquoij": 0.6406571562211814,
+        "Virginia": 0.6406571562211814,
+        "Jonkers": 0.6406571562211814,
+        "Partij": 0.6406571562211814,
+        "Mambre": 0.6406571562211814,
+        "Nieuwenhof": 0.6406571562211814,
+        "Dooren": 0.6105803320658069,
+        "Miriam": 0.6105803320658069,
+        "Ruud": 0.6105803320658069,
+        "Jacco": 0.6105803320658069,
+        "Dre": 0.6105803320658069,
+        "Hart": 0.6105803320658069,
+        "Gisèle": 0.6105803320658069,
+        "dringend behoefte": 0.6020863446361302,
+        "hierop": 0.5602153878463524,
+        "vindt": 0.5602153878463524,
+        "wenselijk": 0.5602153878463524,
+        "berei": 0.5602153878463524,
+        "verkennen": 0.5602153878463524,
+        "vorm": 0.5602153878463524,
+        "gerealiseerd": 0.5602153878463524,
+        "blijkt": 0.5140766433109243,
+        "zaterdag": 0.5140766433109243
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 90571,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1148133
+    ]
+}

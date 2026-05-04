@@ -1,0 +1,116 @@
+{
+    "module_id": 815434,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Raadsvoorstel ontheffen van een commissielid van de fractie PvdA als lid in de Meningsvormende vergadering",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/19/Raadsvoorstellen/815434",
+    "type": "Raadsvoorstel",
+    "member": null,
+    "party": null,
+    "poho": "",
+    "result": "Afgerond",
+    "date": "24-01-2023",
+    "meeting_url": {
+        "1013447": "https://raadsinformatie.eindhoven.nl/vergadering/1013447#ai_7346433"
+    },
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/12345503/1/Raadsvoorstel+ontheffing+commissielid+PvdA?connection_type=17&connection_id=9023727": "Raadsvoorstel ontheffing commissielid PvdA"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/12354785/1?connection_type=17&connection_id=9039069",
+    "pdf_text": " \n \n \n  \n   \n \n \n  gemeente Eindhoven  \nRaadsnummer   \nInboeknummer   \nDossiernummer      \n \nRaads voorstel    ontheffen  van een commissielid van de fractie  PvdA als lid \nin de Meningsvormende vergadering   \n \nInleiding  \nDe raad is bevoegd leden van de Meningsvormende Vergadering  te benoemen en te \nontheffen op verzoek van het betreffende lid of voordracht van een politieke groepering \nin de raad.  Het onderstaande voorstel is getoetst aan de bepalingen van de Verordening \nop de  voorbereidende b ijeenkomst en de  meningsvormende vergadering gemeente \nEindhoven 20 22.  \nDoelstelling  \nRegeling van de bemensing van de Meningsvormend e vergadering voor de fractie  PvdA .  \nVoorstel  \nOnderstaand commissielid  te ontheffen van zijn lidmaatschap van de Meningsvorme nde \nVergadering . \n \nY. Helal.   \n  \nEen ontwerp raadsbesluit bieden wij u hierbij ter vaststelling aan.  \n \nDe agendacommissie  \n \n   \n  \n Raadsnummer  \n \n  \n \n \n2  \n \n  Ontwerp Raadsbesluit   \n \nDe raad van de gemeente Eindhoven;  \ngelet op het verzoek van de heer Y. Helal ; \ngelet op het bepaalde in de Gemeentewet;  \ngelet op het bepaalde in de  Verordening op  de voorbereidende bijeenkomst en  de \nmeningsvormende vergadering gemeente Eindhoven  2022; \n \n \n \nbesluit:  \n \nOnderstaand commissielid te ontheffen van  zijn lidmaatschap van de Meningsvormende \nVergadering:  \n \nY Helal . \n \nAldus vastgesteld in de openbare vergadering van  24 januari  2023. \n \n \n \nJ. Jongbloed , griffier . \n \n \n ",
+    "bst": "",
+    "related": [
+        {
+            "id": 779516,
+            "weight": 0.23822591660358328
+        },
+        {
+            "id": 785553,
+            "weight": 0.23175888486551685
+        },
+        {
+            "id": 800580,
+            "weight": 0.21630937339100886
+        },
+        {
+            "id": 849402,
+            "weight": 0.09575244113551827
+        },
+        {
+            "id": 920655,
+            "weight": 0.09352631611234673
+        },
+        {
+            "id": 914939,
+            "weight": 0.08885354180814507
+        },
+        {
+            "id": 1115591,
+            "weight": 0.08871151828650115
+        },
+        {
+            "id": 1148273,
+            "weight": 0.08468655440276156
+        }
+    ],
+    "videostarttime": {
+        "1013447": 1195
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_24.01.23_Eindhoven_NC_Raadsvergadering.mp4/playlist.m3u8",
+    "keywords": {
+        "Meningsvormende vergadering": 1.9976214260964549,
+        "Inboeknummer Dossiernummer": 0.9954372876157472,
+        "vergadering Inleiding": 0.9896191478555734,
+        "gemeente Eindhoven": 0.9877130894904232,
+        "Dossiernummer Raads": 0.9815187912864201,
+        "fractie PvdA": 1.9779919041168346,
+        "lid": 1.9634720987623493,
+        "Eindhoven Raadsnummer": 0.9609286821728333,
+        "Onderstaand commissielid": 0.9594683860193928,
+        "bevoegd leden": 0.9582078495152463,
+        "politieke groepering": 0.9582078495152463,
+        "Eindhoven": 0.9576242015131178,
+        "Raadsvoorstel ontheffen": 1.9475064841907428,
+        "ontheffen": 1.9470739136677648,
+        "Voorstel Onderstaand": 0.9418432241165261,
+        "ontwerp raadsbesluit": 0.9353403836159556,
+        "Inboeknummer": 0.9326057228198584,
+        "Inleiding": 0.9326057228198584,
+        "gemeente": 0.9309079306552308,
+        "voorstel": 1.9304510406976356,
+        "commissielid": 1.9288336990569261,
+        "PvdA": 1.9158928969219269,
+        "Helal": 0.9133429659212763,
+        "raad": 0.9102502853112046,
+        "Verordening": 0.8798994615452909,
+        "gelet": 0.8690536727730767,
+        "Doelstelling Regeling": 0.8308777710984406,
+        "ontwerp": 0.8308027882881809,
+        "leden": 0.7997111287235182,
+        "benoemen": 0.7997111287235182,
+        "voordracht": 0.7997111287235182,
+        "politieke": 0.7997111287235182,
+        "verzoek": 0.7973619888593776,
+        "lidmaatschap": 0.7725201364444418,
+        "voorbereidende": 0.7724615604221932,
+        "raadsbesluit bieden": 0.7407915748933869,
+        "Regeling": 0.7322463487804605,
+        "Meningsvorme": 1.7322463487804605,
+        "bepaalde": 0.7309741198006523,
+        "Jongbloed": 0.634489710562616,
+        "onderstaande": 0.5348066803027914,
+        "getoetst": 0.5348066803027914,
+        "bepalingen": 0.5348066803027914,
+        "ijeenkomst": 0.5348066803027914
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": "10-04-2026",
+    "meeting_id": []
+}

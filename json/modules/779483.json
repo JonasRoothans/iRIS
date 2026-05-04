@@ -1,0 +1,158 @@
+{
+    "module_id": 779483,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Inwoning - Raadsvoorstel Tot vaststelling paraplubestemmingsplan parkeren, kamerbewoning en woningsplitsing 2021",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/779483",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "17-05-2022",
+    "meeting_url": {
+        "1013503": "https://raadsinformatie.eindhoven.nl/vergadering/1013503#ai_6964652"
+    },
+    "attachment": null,
+    "parent": "ai_6964652",
+    "children": [],
+    "text": "De wethouder informeert de raad over:Hoeveelheid mensen bij inwoning mogen wonen (ook in noodsituaties)",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 787218,
+            "weight": 1.035289105326091
+        },
+        {
+            "id": 787214,
+            "weight": 1.0343452003801703
+        },
+        {
+            "id": 775238,
+            "weight": 1.0294928536809376
+        },
+        {
+            "id": 779484,
+            "weight": 0.9284362025024382
+        },
+        {
+            "id": "r_7006035",
+            "weight": 0.9224505472041101
+        },
+        {
+            "id": 779482,
+            "weight": 0.6990659245988314
+        },
+        {
+            "id": "ai_6964652",
+            "weight": 0.6773428669153988
+        },
+        {
+            "id": "ai_6986875",
+            "weight": 0.49311586218608155
+        },
+        {
+            "id": "ai_6964479",
+            "weight": 0.49311586218608155
+        },
+        {
+            "id": 779485,
+            "weight": 0.43773855748408014
+        },
+        {
+            "id": 775254,
+            "weight": 0.1663434366936148
+        },
+        {
+            "id": 983717,
+            "weight": 0.07648138808526674
+        },
+        {
+            "id": 1072389,
+            "weight": 0.07583652124523955
+        },
+        {
+            "id": 790659,
+            "weight": 0.07466697783728671
+        },
+        {
+            "id": 780301,
+            "weight": 0.0728697101718048
+        },
+        {
+            "id": 790669,
+            "weight": 0.07251158032822687
+        },
+        {
+            "id": 873676,
+            "weight": 0.06930320272259416
+        },
+        {
+            "id": 1106935,
+            "weight": 0.06667758623780824
+        },
+        {
+            "id": 1033644,
+            "weight": 0.06368110758500892
+        },
+        {
+            "id": 1133031,
+            "weight": 0.06295422054603625
+        },
+        {
+            "id": 997004,
+            "weight": 0.05664621709935351
+        },
+        {
+            "id": 890090,
+            "weight": 0.055150473131973576
+        },
+        {
+            "id": 1147108,
+            "weight": 0.05214503274318143
+        },
+        {
+            "id": 1015331,
+            "weight": 0.04749582712696499
+        },
+        {
+            "id": 999124,
+            "weight": 0.04554600986153764
+        },
+        {
+            "id": 1133049,
+            "weight": 0.044154727953827945
+        }
+    ],
+    "videostarttime": {
+        "1013503": 869
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/17.05.22 Eindhoven Meningsvormend CK ruw.mp4/playlist.m3u8",
+    "keywords": {
+        "Hoeveelheid mensen": 0.9891477994546558,
+        "paraplubestemmingsplan parkeren": 1.9807315617039962,
+        "vaststelling paraplubestemmingsplan": 1.9679891754021193,
+        "wethouder informeert": 0.9679891754021194,
+        "Raadsvoorstel": 1.9390429634612647,
+        "parkeren": 1.8926624605453828,
+        "kamerbewoning": 1.8926624605453828,
+        "woningsplitsing": 1.8926624605453828,
+        "wonen": 0.8926624605453829,
+        "noodsituaties": 0.8926624605453829,
+        "Inwoning": 1.8742698400414453,
+        "vaststelling": 1.8238809620057803,
+        "wethouder": 0.8238809620057802,
+        "informeert": 0.8238809620057802,
+        "raad": 0.8238809620057802,
+        "mensen": 0.8238809620057802
+    },
+    "svz": "Overeenkomstig artikel 1.8: 1 volwassene met maximaal 2 minderjarige kinderen \nCOLLEGE VOORSTEL: AFVOEREN...  Lees verder ",
+    "afgedaan": "17-01-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

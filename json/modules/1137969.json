@@ -1,0 +1,104 @@
+{
+    "module_id": 1137969,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Persoonsgegevens - Rekenkamerrapport - Van risico naar Regie - slimmer sturen op algoritmen en AI",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1137969",
+    "type": "Toezegging",
+    "member": "",
+    "party": "",
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "24-02-2026",
+    "meeting_url": {
+        "1374921": "https://raadsinformatie.eindhoven.nl/vergadering/1374921#ai_10009613"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": "Wethouder Verhees zegt toe:\n\nvoorafgaand aan het gebruiken van persoonsgegevens in AI de wijziging van de gedragscode voor te leggen aan de raad;\nbij het periodiek informeren van de raad de adviezen van de ethische commissie mee te nemen.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1137967,
+            "weight": 2.1880376376747637
+        },
+        {
+            "id": 1140925,
+            "weight": 0.9948568150338193
+        },
+        {
+            "id": 1118032,
+            "weight": 0.8038752840057343
+        },
+        {
+            "id": 867120,
+            "weight": 0.6258344059256782
+        },
+        {
+            "id": 1137874,
+            "weight": 0.4544645042634377
+        },
+        {
+            "id": 1104187,
+            "weight": 0.4535936876214827
+        },
+        {
+            "id": 803379,
+            "weight": 0.24252588769547853
+        },
+        {
+            "id": 1121895,
+            "weight": 0.23084918972951854
+        },
+        {
+            "id": 1129193,
+            "weight": 0.2271546607314735
+        },
+        {
+            "id": 1117271,
+            "weight": 0.16129231591936838
+        }
+    ],
+    "videostarttime": {
+        "1374921": 671
+    },
+    "videolink": null,
+    "keywords": {
+        "Wethouder Verhees": 0.9973152322606889,
+        "Verhees zegt": 0.995420363975096,
+        "slimmer sturen": 1.993895198043261,
+        "periodiek informeren": 0.9921776931371572,
+        "ethische commissie": 0.9921776931371572,
+        "commissie mee": 0.9921776931371572,
+        "Rekenkamerrapport": 1.9667046468577216,
+        "raad": 0.9604148925900396,
+        "Regie": 1.9576867351496636,
+        "Persoonsgegevens": 1.9520205140371107,
+        "slimmer": 1.931126378942549,
+        "voorafgaand": 0.931126378942549,
+        "nemen": 0.931126378942549,
+        "risico": 1.911900094788253,
+        "sturen": 1.911900094788253,
+        "algoritmen": 1.911900094788253,
+        "zegt": 0.9119000947882531,
+        "gebruiken": 0.9119000947882531,
+        "wijziging": 0.9119000947882531,
+        "gedragscode": 0.9119000947882531,
+        "leggen": 0.9119000947882531,
+        "periodiek": 0.9119000947882531,
+        "informeren": 0.9119000947882531,
+        "adviezen": 0.9119000947882531,
+        "ethische": 0.9119000947882531,
+        "mee": 0.9119000947882531
+    },
+    "svz": "",
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "08-04-2026",
+    "meeting_id": []
+}

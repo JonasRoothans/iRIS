@@ -1,0 +1,445 @@
+{
+    "module_id": 784763,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230019,
+    "title": "Raadsvoorstel Erfgoedverordening gemeente Eindhoven en gewijzigde cultuurhistorische waardenkaart",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/19/raadsvoorstellen/784763?parent_event=1032641",
+    "type": "Raadsvoorstel",
+    "member": null,
+    "party": null,
+    "poho": "M. van Lanschot (Wethouder)",
+    "result": "Afgerond",
+    "date": "29-11-2022",
+    "meeting_url": {
+        "1013585": "https://raadsinformatie.eindhoven.nl/vergadering/1013585#ai_7090384",
+        "1032641": "https://raadsinformatie.eindhoven.nl/vergadering/1032641#ai_7109501"
+    },
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/11909214/2/22bst01098+Raadsvoorstel+Gewijzigde+erfgoedverordening+en+gewijzigde+cultuurhistorische+waardenkaart?connection_type=17&connection_id=8688274": "22bst01098 Raadsvoorstel Gewijzigde erfgoedverordening en gewijzigde cultuurhistorische waardenkaart",
+        "http://raadsinformatie.eindhoven.nl/document/12105809/3?connection_type=16&connection_id=784763": " 22bst01553 Nadere toelichting bij raadsvoorstel Erfgoedverordening en gewijzigde cultuurhistorische waardenkaart ",
+        "http://raadsinformatie.eindhoven.nl/document/11913472/1?connection_type=16&connection_id=784763": " 22bst01098 - Bijlage 1 - Erfgoedverordening ",
+        "http://raadsinformatie.eindhoven.nl/document/11909215/1?connection_type=16&connection_id=784763": " 22bst01098 - Bijlage  2.1 - Kaartweergave cultuurhistorische waardenkaart, thema historisch cultuurlandschap ",
+        "http://raadsinformatie.eindhoven.nl/document/11909216/1?connection_type=16&connection_id=784763": " 22bst01098 - Bijlage 2.2 - RAAP-rapport 3258 ",
+        "http://raadsinformatie.eindhoven.nl/document/11909221/1?connection_type=16&connection_id=784763": " 22bst01098 - Bijlage 2.2.1 - RA3258 EHDD2 kaartbijlage 1 blad 1 ",
+        "http://raadsinformatie.eindhoven.nl/document/11909210/1?connection_type=16&connection_id=784763": " 22bst01098 - Bijlage 2.2.2 - RA3258 EHDD2 kaartbijlage 1 blad 2 ",
+        "http://raadsinformatie.eindhoven.nl/document/11909223/1?connection_type=16&connection_id=784763": " 22bst01098 - Bijlage 2.2.3 - RA3258 EHDD2 kaartbijlage 1 blad 3 ",
+        "http://raadsinformatie.eindhoven.nl/document/11909212/1?connection_type=16&connection_id=784763": " 22bst01098 - Bijlage 2.2.4 - RA3258 EHDD2 kaartbijlage 1 blad 4 ",
+        "http://raadsinformatie.eindhoven.nl/document/11909206/1?connection_type=16&connection_id=784763": " 22bst01098 - Bijlage 2.2.5 - RA3258 EHDD2 kaartbijlage 2a blad 1 ",
+        "http://raadsinformatie.eindhoven.nl/document/11909202/1?connection_type=16&connection_id=784763": " 22bst01098 - Bijlage 2.2.6 - RA3258 EHDD2 kaartbijlage 2a blad 2 ",
+        "http://raadsinformatie.eindhoven.nl/document/11909205/1?connection_type=16&connection_id=784763": " 22bst01098 - Bijlage 2.2.7 - RA3258 EHDD2 kaartbijlage 2a blad 3 ",
+        "http://raadsinformatie.eindhoven.nl/document/11909199/1?connection_type=16&connection_id=784763": " 22bst01098 - Bijlage 2.2.8  - RA3258 EHDD2 kaartbijlage 2a blad 4 ",
+        "http://raadsinformatie.eindhoven.nl/document/11909201/1?connection_type=16&connection_id=784763": " 22bst01098 - Bijlage 2.2.9 - RA3258 EHDD2 kaartbijlage 2b blad 1 ",
+        "http://raadsinformatie.eindhoven.nl/document/11909191/1?connection_type=16&connection_id=784763": " 22bst01098 - Bijlage 2.2.10 - RA3258 EHDD2 kaartbijlage 2b blad 2 ",
+        "http://raadsinformatie.eindhoven.nl/document/11909194/1?connection_type=16&connection_id=784763": " 22bst01098 - Bijlage 2.2.11 - RA3258 EHDD2 kaartbijlage 2b blad 3 ",
+        "http://raadsinformatie.eindhoven.nl/document/11909192/1?connection_type=16&connection_id=784763": " 22bst01098 - Bijlage 2.2.12 - RA3258 EHDD2 kaartbijlage 2b blad 4 ",
+        "http://raadsinformatie.eindhoven.nl/document/11909208/1?connection_type=16&connection_id=784763": " 22bst01098 - Bijlage 2.2.13 - RA3258 EHDD2 kaartbijlage 2c blad 1 ",
+        "http://raadsinformatie.eindhoven.nl/document/11909196/1?connection_type=16&connection_id=784763": " 22bst01098 - Bijlage 2.2.14 - RA3258 EHDD2 kaartbijlage 2c blad 2 ",
+        "http://raadsinformatie.eindhoven.nl/document/11909200/1?connection_type=16&connection_id=784763": " 22bst01098 - Bijlage 2.2.15 - RA3258 EHDD2 kaartbijlage 2c blad 3 ",
+        "http://raadsinformatie.eindhoven.nl/document/11909197/1?connection_type=16&connection_id=784763": " 22bst01098 - Bijlage 2.2.16 - RA3258 EHDD2 kaartbijlage 2c blad 4 ",
+        "http://raadsinformatie.eindhoven.nl/document/11909225/1?connection_type=16&connection_id=784763": " 22bst01098 - Bijlage 2.3 - RAAP-rapport 3398 ",
+        "http://raadsinformatie.eindhoven.nl/document/11909219/1?connection_type=16&connection_id=784763": " 22bst01098 - Bijlage 2.3.1 - EHPR kb1 ",
+        "http://raadsinformatie.eindhoven.nl/document/11909220/1?connection_type=16&connection_id=784763": " 22bst01098 - Bijlage 2.3.2 - EHPR kb2 ",
+        "http://raadsinformatie.eindhoven.nl/document/11909224/1?connection_type=16&connection_id=784763": " 22bst01098 - Bijlage 2.3.3 - EHPR kb3 ",
+        "http://raadsinformatie.eindhoven.nl/document/11909218/1?connection_type=16&connection_id=784763": " 22bst01098 - Bijlage 2.3.4 - EHPR combikaart blad1 ",
+        "http://raadsinformatie.eindhoven.nl/document/11909213/1?connection_type=16&connection_id=784763": " 22bst01098 - Bijlage 2.3.5 - EHPR combikaart blad2 ",
+        "http://raadsinformatie.eindhoven.nl/document/11909209/1?connection_type=16&connection_id=784763": " 22bst01098 - Bijlage 2.3.6 - EHPR combikaart legenda ",
+        "http://raadsinformatie.eindhoven.nl/document/11909207/1?connection_type=16&connection_id=784763": " 22bst01098 - Bijlage 3 - Overzicht wijzigingen erfgoedverordening ",
+        "http://raadsinformatie.eindhoven.nl/document/11909204/1?connection_type=16&connection_id=784763": " 22bst01098 - Bijlage 4 - Samenspraaknota wijzigingen erfgoedverordening en cultuurhistorische waardenkaart ",
+        "http://raadsinformatie.eindhoven.nl/document/11909203/1?connection_type=16&connection_id=784763": " 22bst01098 - Bijlage 5 - Advies commissie ruimtelijke kwaliteit ",
+        "http://raadsinformatie.eindhoven.nl/document/11909193/1?connection_type=16&connection_id=784763": " 22bst01098 - Bijlage 6 - Beelddocument historisch cultuurlandschap Eindhoven ",
+        "http://raadsinformatie.eindhoven.nl/document/12063961/1?connection_type=16&connection_id=784763": " Commissieadvies Raadsvoorstel Erfgoedverordening gemeente Eindhoven en gewijzigde cultuurhistorische waardenkaart "
+    },
+    "parent": null,
+    "children": [
+        795427,
+        795420
+    ],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/12120832/1?connection_type=17&connection_id=8861669",
+    "pdf_text": " \n \n   gemeente Eindhoven  \nInboeknummer               22bst01098  \nDossiernummer               22.40.751  \nB&W beslisdatum           04 oktober 2022   \n \nRaadsvoorstel   Erfgoedverordening gemeente Eindhoven en gewijzigde \ncultuurhistorische waardenkaart  \n \n \n \n   Raadsbesluit   \n \nDe raad van de gemeente Eindhoven;  \ngezien het voorstel van het college van burgemeester en wethouders van 4 \noktober 2022 ; \ngelet op de behandeling in de meningsvormende vergadering van 15 november \n2022;  \ngelet op de nadere toelichting van 25 novemb er 2022;  \nmede gelet op de artikelen 3.16 en 9.1 van de Erfgoedwet, gelezen in \nsamenhang met de art ikelen 12, 15  en 38 van de Monumentenwet 1988 en de \nartikelen 2.1 en 2.2 van de Wet algemene bepalingen omgevingsrecht;  \n \nbesluit vast te stellen de  \nI  Erfgoedverordening Gemeente Eindhoven  \n \nHoofdstuk 1. Algemeen  \nArtikel 1.  Definities  \nIn deze verordening en de daarop berustende voorschriften wordt, tenzij anders \nis bepaald, verstaan onder:  \n- archeologisch niveau : diepte vanaf waar zich archeologische sporen en \nstructuren (kunnen) bevinden met daarboven een bufferzone van 30 cm \n(= één standaard ploegdiepte);  \n- archeologisch onderzoek:  onderzoek verricht door een daartoe \ngecertificeerde instantie en werkend volgens de geldende versie van de \nKNA;  \n- archeologische verwachtingswaarde:  de aan een gebied toegekende \nverwachting in verband met de kans op het voorkomen van  \narcheologische relicten (resten uit het verleden);   \n \n Inboeknummer 22bst01098  \n \n \n  \n \n \n2 2 - archeologische waarde:  de aan een gebied toegekende waarde in \nverband met het in dat gebied voorkomende archeologische relicten \n(resten uit het verleden);  \n- archeologische  verwachtingen - en waardenkaart:  de kaart van het \ngemeentelijke grondgebied, waarop archeologische monumenten, \ngebieden met archeologische waarden en gebieden met archeologische \nverwachtingswaarden zijn aangegeven;  \n- archeoregio: gebied waarbinnen sprake is van een globaal ver band \ntussen landschap en bewoningsgeschiedenis  \n- behoudenswaardig : in de KNA gehanteerde term om aan te geven dat \neen terrein zo waardevol is dat dit behouden moet blijven. Dit kan door \nmiddel van planaanpassing (behoud in situ ) en/of opgraving (behoud ex \nsitu); \n- behoud in situ : behoud van archeologische resten op dezelf de plaats \ndoor planaanpassing (behoudsmaatregelen);  \n- behoud ex situ : behoud van archeologische informatie door middel van \neen opgraving;  \n- bestemmingsplan (na inwerkingtreding van de Omgevingswet \nomgevingsplan)  : door de raad vastgesteld plan waarin ten behoe ve van \neen goede ruimtelijke ordening de bestemming van de in het plan \nbegrepen grond wordt aangewezen en met het oog op die bestemming \nregels worden gegeven als bedoeld in de Wet ruimtelijke ordening of na \nde inwerkingtreding van de Omgevingswet het omgev ingsplan met de \nregels voor de fysieke leefomgeving;  \n- bodemingreep/ -verstoring : aantasting van een gebied met \narcheologische (verwachtings)waarden. Dit kan zich voordoen \nbijvoorbeeld door: erosie, afgraving of egalisatie; door (diepe) \nbewerking van de boven grond; door zetting als gevolg van ophoging en \ndoor ingrepen met geleidelijk negatief effect (verdroging, verzuring, \ndoorworteling);  \n- bouwhistorisch onderzoek : in schriftelijke rapportage vastgelegd \nonderzoek naar de bouwgeschiedenis en de bouwhistorische k waliteit \nvan een monument of object, overeenkomstig de geldende richtlijnen \nzoals gesteld door de RCE en eventueel door burgemeester en \nwethouders te stellen eisen;  \n- commissie ruimtelijke kwaliteit (na inwerkingtreding van de \nOmgevingswet de adviescommissie  Omgevingskwaliteit) : de \novereenkomstig artikel 15 van de Monumentenwet 1988 ingestelde \ncommissie met als taak burgemeester en wethouders en de raad op \nverzoek of uit eigen beweging te adviseren over de toepassing van de \nErfgoedwet 2016, de Monumentenwet 1 988, de Wet algemene \nbepalingen omgevingsrecht (Wabo), deze verordening en het \nerfgoedbeleid of, na inwerkingtreding van de Omgevingswet, de \ngemeentelijke adviescommissie zoals bedoeld in artikel 17.9 van de  \n \n Inboeknummer 22bst01098  \n \n \n  \n \n \n3 3 Omgevingswet en de Verordening Adviescommissie O mgevingskwaliteit \nEindhoven;  \n- cultuurhistorisch onderzoek : in schriftelijke rapportage vastgelegd \nonderzoek naar de cultuurhistorische waarden van een monument, een \ncomplex van monumenten, een gebied of een object, overeenkomstig \nde geldende richtlijnen zo als gesteld door de RCE en eventueel door \nburgemeester en wethouders te stellen eisen;  \n- cultuurhistorische waardenkaart:  de waardenkaart historisch \ncultuurlandschap en de waardenkaart historische stedenbouw en \ngebouwd erfgoed, waarop objecten, structuren en  gebieden zijn \nweergegeven die belangrijk zijn voor de (herkenbaarheid van de) \nhistorische ontwikkeling van Eindhoven;  \n- cultuurhistorisch waardevol object : onroerende zaak die in samenhang \nmet de omgeving door de uiterlijke verschijningsvorm wezenlijk is \nvoor de herkenbaarheid en de belevingswaarde van de historisch \nstedenbouwkundige of landschappelijke structuur waarvan zij deel \nuitmaakt of op zichzelf representatief is voor of verwijst naar een \nbelangrijk aspect in de historische ontwikkeling van Eindhoven ; \n- depotrichtlijnen:  gemeentelijke bepalingen (in aanvulling op de \ngeldende richtlijnen van de Kwaliteitnorm Nederlandse Archeologie) \nwaaraan, naar het oordeel van burgemeester en wethouders, de \naanlevering van archeologische vondsten en opgravingsdocumentatie bij \nhet gemeentelijk archeologisch depot voor bodemvondsten minimaal \nmoet voldoen;  \n- gemeentelijk onroerend cultureel erfgoed : het geheel van onroerende \nzaken aangeduid op de cultuurhistorische waardenkaart;  \n- gemeentelijk adviseur arche ologie : een door burgemeester en \nwethouders aan te wijzen aantoonbaar ervaringsdeskundige op het \ngebied van de archeologische monumentenzorg;  \n- gemeentelijk archeologisch monument :  archeologisch monument dat \novereenkomstig deze verordening als beschermd mon ument is \naangewezen en is ingeschreven in het gemeentelijk erfgoedregister;  \n- gemeentelijk monument:  monument dat overeenkomstig deze \nverordening als beschermd monument is aangewezen en is \ningeschreven in het gemeentelijk erfgoedregister;  \n- historisch waardevo l kunstwerk : een onroerend kunstwerk in of aan een \ngebouw, dan wel in de openbare ruimte, dat in samenhang met het \nbetreffende gebouw of op zichzelf representatief is voor of verwijst naar \neen belangrijk aspect in de historische ontwikkeling van Eindhoven;   \n- KNA-conform archeologisch onderzoek : onderzoek dat is uitgevoerd \nvolgens de geldende versie van de KNA, door een daartoe \ngecertificeerde instantie en door daartoe geregistreerde actoren;   \n \n Inboeknummer 22bst01098  \n \n \n  \n \n \n4 4 - KNA: Kwaliteitsnorm Nederlandse Archeologie : norm van de \nNederlands e archeologische beroepsgroep waar archeologisch \nonderzoek minimaal aan moet voldoen;  \n- maaiveld : aardoppervlak inclusief de bestrating, gemeten in meter ten \nopzichte van NAP. Deze hoogtemaat wordt afgeleid van een \nrepresentatieve locatie op het Actueel Hoog tebestand Nederland versie \n3 (of hoger);  \n- omgevingsvergunning : een omgevingsvergunning als bedoeld in artikel \n2.1, eerste lid, of artikel 2.2 van de Wet algemene bepalingen \nomgevingsrecht, of na inwerkingtreding Omgevingswet een \nomgevingsvergunning als bedo eld in artikel 5.1, eerste lid van de \nOmgevingswet;  \n- onderzoeksgebied : ruimtelijk afgebakend gebied dat wordt onderzocht \nom de archeologische of cultuurhistorische waarde van een plangebied \nnaar oordeel van burgemeester en wethouders in voldoende mate te \nkunnen bepalen;  \n- onderzoeksrichtlijnen:  gemeentelijke bepalingen (in aanvulling op de \ngeldende richtlijnen van de KNA waaraan, naar oordeel van \nburgemeester en wethouders, archeologisch (voor)onderzoek minimaal \nmoet voldoen;  \n- Plan van Aanpak (PvA) : inhoudelijk  document waarin het doel, de \nvraagstelling en de werkwijze van prospectief onderzoek wordt \nomschreven. Het document wordt door burgemeester en wethouders \nvastgesteld. Een PvA bij een opgraving geeft weer hoe een \narcheologische uitvoerder de vragen zoals o mschreven in het \nProgramma van Eisen denkt te gaan beantwoorden;  \n- plangebied: in ruimte begrensd gebied, waarin een ruimtelijke \nontwikkeling is gepland (en waarvoor een ruimtelijke procedure wordt \ndoorlopen);  \n- Programma van Eisen (PvE) : inhoudelijk document waarin het doel, de \nvraagstelling, de uitvoeringswijze en randvoorwaarden van een \narcheologisch veldonderzoek en specialistisch onderzoek verwoord \nstaan. Het document wordt door burgemeester en wethouders \nvastgesteld;  \n- RCE: Rijksdienst voor het Cultureel Er fgoed te Amersfoort;  \n- richtlijnen voor bouw -, cultuur - en tuinhistorisch onderzoek : richtlijnen \nopgesteld i.o.v. de RCE voor bouwhistorisch, cultuurhistorisch en \ntuinhistorisch onderzoek respectievelijk genaamd: Richtlijnen \nBouwhistorisch Onderzoek. Lezen e n analyseren van cultuurhistorisch \nerfgoed; Cultuurhistorisch Onderzoek in de vormgeving van de \nRuimtelijke Ordening. Aanwijzingen en aanbevelingen; Richtlijnen \nTuinhistorisch Onderzoek. Voor waardestellingen van groen erfgoed;  \n- tuinhistorisch onderzoek : in schriftelijke rapportage vastgelegd \nonderzoek naar de ontstaans - en ontwerpgeschiedenis en de  \n \n Inboeknummer 22bst01098  \n \n \n  \n \n \n5 5 tuinhistorische kwaliteit van groen erfgoed (rijksmonumenten, \ngemeentelijke monumenten, cultuurhistorisch waardevolle objecten, \nwaardevol aangelegd groen en bome n en zaken op de waardenkaart \nhistorisch cultuurlandschap), overeenkomstig de geldende richtlijnen \nzoals gesteld door de RCE en eventueel door burgemeester en \nwethouders te stellen eisen;  \n- waardenkaart historisch cultuurlandschap: topografische kaart met \ndaarbij behorende gegevensbestanden van het gemeentelijke \ngrondgebied waarop zijn aangegeven en gewaardeerd de historische \nlandschappelijke gebieden (incl. historische nederzettingslocaties) en \nelementen (landschapselementen infrastructuur, waterstaat, opgaand \ngroen, religie en funerair erfgoed en reliëf) , die belangrijk zijn voor de \nherkenbaarheid van de historische ontwikkeling van Eindhoven;  \n- waardenkaart historische s tedenbouw en gebouwd erfgoed: \ntopografische kaart  met daarbij behorende gegevensbestanden van het \ngemeentelijke grondgebied waarop zijn aangegeven de beschermde \nrijks- en gemeentelijke monumenten, beschermde stads - en \ndorpsgezichten, gemeentelijke archeolo gische monumenten, \ncultuurhistorisch waardevolle objecten, historisch waardevolle \nkunstwerken, historische wegen en waterlopen, historisch -\nstedenbouwkundige structuren en waardevol aangelegd groen en \nbomen, die belangrijk zijn voor de herkenbaarheid van de  historische \nontwikkeling van Eindhoven. De dubbelbestemmingen waarde \ncultuurhistorie en waarde historisch groen, bouwaanduiding \nkarakteristiek en functieaanduiding cultuurhistorische waarden \nopgenomen in het bestemmingsplan die toezien op cultuurhistorisc he \nwaarden maken deel uit van deze waardenkaart;  \n- waarderingscategorie A : de op de waardenkaart historisch \ncultuurlandschap aangegeven hoog en zeer hoog gewaardeerde \ngebieden in het buitengebied en de aangegeven hoog en zeer hoog \ngewaardeerde elementen in h et buitengebied en in het stedelijk gebied;  \n- waarderingscriteria : criteria voor het waarderen van zaken of terreinen \ndie in aanmerking komen voor een aanwijzing als gemeentelijk \nmonument.  \n \nArtikel 2.  Gemeentelijke erfgoedregister  \n1. Burgemeester en wethouders  houden een door een ieder te raadplegen \ngemeentelijk register bij van krachtens deze verordening aangewezen \nonroerend cultureel erfgoed (het gemeentelijk erfgoedregister).  \n2. Het gemeentelijk erfgoedregister bevat:   \n \n Inboeknummer 22bst01098  \n \n \n  \n \n \n6 6 a. gegevens over de inschrijving en ten behoev e van de \nidentificatie van het aangewezen gemeentelijk onroerend \ncultureel erfgoed;  \nb. gegevens over door burgemeester en wethouders van de \nMinister van Onderwijs, Cultuur en Wetenschap ontvangen \nafschriften van de inschrijving van een rijksmonument in het \nrijksmonumentenregister als bedoeld in artikel 3.3, vijfde lid, \nvan de Erfgoedwet.  \n \nHoofdstuk 2. Aanwijzing gemeentelijke monument \nen gemeentelijk archeologisch \nmonument  \nArtikel 3.  Aanwijzing als gemeentelijk monument en \ngemeentelijk archeologisch monument  \n1. Burgemeester en wethouders kunnen besluiten een zaak die of een \nterrein dat van bijzonder belang is voor de gemeente, vanwege zijn \narchitectuur -, bouw - en kunsthistorische , (historisch -) \nstedenbouwkundige of cultuurhistorische waarden, aan te wijzen als \ngemeentelijk monument.  \n2. Voor het bepalen van de waarden van een zaak of terrein als bedoeld in \nhet eerste lid, wordt gebruik gemaakt van daartoe opgestelde \nwaarderingscriteria.  \n3. Burgemeester en wethouders kunnen besluiten een terrein dat van \nbijzonder belang i s voor de gemeente vanwege hier aantoonbaar \naanwezige archeologische waarden aan te wijzen als gemeentelijk \narcheologisch monument.  \n4. Dit artikel is niet van toepassing op:  \na. rijksmonumenten, en  \nb. monumenten en archeologische monumenten die zijn \naangewezen op g rond van een provinciale erfgoedverordening \nals bedoeld in 3.17, eerste lid, van de Erfgoedwet.  \n  \n \n Inboeknummer 22bst01098  \n \n \n  \n \n \n7 7 Artikel 4.  Voornemen tot aanwijzing  \nEen voornemen om toepassing te geven aan artikel 3 wordt door burgemeester \nen wethouders schriftelijk bekendgemaakt aan alle zakelijk gerechtigden op de \nonroerende zaak die vermeld staan in de openbare registers, bedoeld in artikel \n8, eerste lid, van de Kadasterwet.  \n \n \nArtikel 5.  Voorbescherming  \n1. De bescherming van Hoofdstuk 3 is van overeenkomstige toepass ing op \nde zaak of het terrein ten aanzien waarvan een voornemen als bedoeld \nin artikel 4 is bekendgemaakt.  \n2. De voorbescherming, bedoeld in het eerste lid, vervalt op het moment \nvan inschrijving van de aanwijzing in het gemeentelijk erfgoedregister \nof op het moment waarop het aanwijzingsbesluit wordt herroepen of \ndoor de bestuursrechter wordt vernietigd.  \n \nArtikel 6.  Advies gemeentelijke adviescommissie  \n1. Burgemeester en wethouders vragen over het voornemen om toepassing \nte geven aan ar tikel 3, eerste lid advies aan de commissie ruimtelijke \nkwaliteit.  \n2. De commissie ruimtelijke kwaliteit betrekt in ieder geval de leden die \ndeskundig zijn op het gebied van de monumentenzorg bij het advies.   \n \nArtikel 7.  Bekendmaking aanwijzingsbesluit aan rechthebbenden \nen inschrijving  \nDe aanwijzing wordt schriftelijk bekendgemaakt aan alle zakelijk gerechtigden \nop de onroerende zaak die vermeld staan in de openbare registers, bedoeld in \nartikel 8, eerste lid, van de Kadasterwet.  \n \n \nArtikel 8.  Aanwijzing a ls voorlopig gemeentelijk monument en \nvoorlopig gemeentelijk archeologisch monument  \n1. In een spoedeisend geval kunnen burgemeester en wethouders een \ngemeentelijk monument of een gemeentelijk archeologisch monument,  \n \n Inboeknummer 22bst01098  \n \n \n  \n \n \n8 8 in afwijking van artikel 6, zonder advies t e vragen aan de commissie \nruimtelijke kwaliteit,  aanwijzen als voorlopig gemeentelijk monument.  \n2. Een aanwijzing als voorlopig gemeentelijk monument vervalt na 26 \nweken of zoveel eerder als burgemeester en wethouders een besluit \nhebben genomen over de aanw ijzing als bedoeld in artikel 3.  \n3. Hoofdstuk 3 is van overeenkomstige toepassing vanaf het moment dat \nbelanghebbenden schriftelijk in kennis worden gesteld van het besluit \nvan burgemeester en wethouders tot aanwijzing als voorlopig \ngemeentelijk monument of g emeentelijk archeologisch monument. \nArtikel 7 is van overeenkomstige toepassing op deze aanwijzing.  \n \nArtikel 9.   Wijzigen van de aanwijzing  \n1. Burgemeester en wethouders kunnen al dan niet op aanvraag van een \nbelanghebbende de aanwijzing wijzigen.  \n2. Artikel 3 tweede lid, alsmede de artikelen 4, 5, 6 en 7 zijn van \novereenkomstige toepassing op het wijzigingsbesluit.  \n3. De inhoud en de datum van de wijziging worden opgenomen in het \ngemeentelijk erfgoedregister.  \n \nArtikel 10. Wijziging gemeentelijk erfgoedre gister, vervallen \naanwijzing monument  \n1. Burgemeester en wethouders kunnen ten aanzien van gemeentelijke \nmonumenten, gemeentelijke archeologische monumenten, voorlopige \ngemeentelijke monumenten en voorlopige gemeentelijke archeologische \nmonumenten ambtshalve wijzigingen aanbrengen in het gemeentelijk \nerfgoedregister.  \n2. Als de wijziging ziet op het schrappen uit het register is Hoofdstuk 2 \nvan overeenkomstige toepassing, tenzij het gemeentelijk monument of \nhet gemeentelijk archeologisch monument waarop de aanwijz ing \nbetrekking heeft als zodanig is tenietgegaan.  \n3. Een aanwijzing vervalt met ingang van de dag waarop het gemeentelijk \nmonument of het gemeentelijk archeologisch monument waarop de \naanwijzing betrekking heeft is ingeschreven in het \nrijksmonumentenregister of een provinciaal erfgoedregister als bedoeld  \n \n Inboeknummer 22bst01098  \n \n \n  \n \n \n9 9 in artikel 3.17, derde lid, van de Erfgoedwet. Het vervallen van de \naanwijzing wordt onmiddellijk bijgehouden in het gemeentelijk \nerfgoedregister.  \nHoofdstuk 3. Bescherming gemeentelijk monument \nen gemeentelijk  archeologisch \nmonument  \n \n \n \n \nArtikel 11. Instandhoudingsplicht gemeentelijk monument en \ngemeentelijk  archeologisch monument  \nHet is verboden een gemeentelijk monument of een gemeentelijk archeologisch  \nmonument te beschadigen of te vernielen, of daaraan onderhoud dat voor de \ninstandhouding noodzakelijk is te onthouden.  \n \n \nArtikel 12. Omgevingsvergunning gemeentelijk monument en \ngemeentelijk archeologisch monument  \n1. Het is verboden zonder omgevingsvergunnin g van burgemeester en \nwethouders een gemeentelijk monument en gemeentelijk archeologisch  \nmonument : \na. te slopen, te verstoren, te verplaatsen of in enig opzicht te \nwijzigen, of  \nb. te herstellen, te gebruiken of te laten gebruiken op een wijze \nwaardoor het wordt ontsierd of in gevaar gebracht.  \n2. Een omgevingsvergunning voor een activiteit als bedoeld in het eerste \nlid is niet vereist, indien deze activiteit betrekking heeft op:  \na. met betrekking tot een gemeentelijk monument gewoon \nonderhoud als bedoeld in artike l 2, onderdeel 1, van Bijlage II \nvan het Besluit omgevingsrecht voor zover detaillering, \nprofilering, vormgeving, materiaalsoort en kleur niet wijzigen, \nen bij een tuin, park of andere aanleg, de aanleg niet wijzigt, of   \n \n Inboeknummer 22bst01098  \n \n \n  \n \n \n10 10 b. met betrekking tot een gemeentelijk monument een activiteit \ndie uitsluitend leidt tot inpandige veranderingen van een \nonderdeel van het gemeentelijk monument dat uit het oogpunt \nvan monumentenzorg geen waarde heeft, of  \nc. met betrekking tot een gemeentelijk archeologisch monument \ngewoon onderho ud \n \nArtikel 13. Intrekken van de omgevingsvergunning  \nDe omgevingsvergunning, bedoeld in artikel 12, eerste lid, kan door \nburgemeester en wethouders worden ingetrokken:  \na. als de verlening berust op onjuiste of onvolledige gegevens en de juiste \nof volledige ge gevens tot een ander besluit zouden hebben geleid;  \nb. voor zover veranderde omstandigheden of feiten met betrekking tot de \nactiviteit waarvoor de omgevingsvergunning is verleend, zich in \noverwegende mate tegen voortzetting of ongewijzigde voortzetting van \ndie activiteit verzetten.  \n \n \nArtikel 14.  Advies gemeentelijke adviescommissie  \n1. Burgemeester en wethouders vragen over het voornemen om toepassing \nte geven aan artikel 12 en 13 advies aan de commissie ruimtelijke \nkwaliteit.  \n2. Het eerste lid is niet van toepassing  op gemeentelijk archeologische \nmonumenten.  \n3. De commissie ruimtelijke kwaliteit betrekt in ieder geval de leden die \ndeskundig zijn op het gebied van de monumentenzorg bij het advies.  \n \nArtikel 15. Bouwhistorisch, cultuurhistorisch en tuinhistorisch \nonderzoek  \n1. Burgemeester en wethouders kunnen ten behoeve van de beoordeling \nvan een aanvraag om omgevingsvergunning als bedoeld in artikel 12, \ndan wel in het kader van een vooroverleg ter voorbereiding daartoe, \nbepalen dat een bouwhistorisch, cultuurhistorisch of tu inhistorisch \nonderzoek wordt verricht.   \n \n Inboeknummer 22bst01098  \n \n \n  \n \n \n11 11 2. Het onderzoek als bedoeld in het eerste lid wordt opgesteld conform de \nrichtlijnen voor bouw -, cultuur - en tuinhistorisch onderzoek van de \nRCE.   \n3. Het college vraagt voor de beoordeling van het onderzoek als bedoeld in \nhet eerste lid advies aan de commissie ruimtelijke kwaliteit.  \n \nArtikel 16. Weigeringsgrond  \nDe omgevingsvergunning kan slechts worden verleend als het belang van het \ngemeentelijk monument zich daartegen niet verzet.  \n \n \nHoofdstuk 4. Rijksmonumente n \nArtikel 17. Advies omgevingsvergunning rijksmonument  \nBurgemeester en wethouders zenden onmiddellijk een afschrift van de \nontvankelijke aanvraag om omgevingsvergunning voor een rijksmonument als \nbedoeld in artikel 2.1, eerste lid, aanhef en onder f, van de Wet algemene \nbepalingen omgevingsrecht voor advies aan de commissie ruimtelijke kwaliteit, \nals bedoeld in de artikelen 6, eerste lid en 14, eerste lid. De artikelen 6, tweede \nlid, en 14, tweede en derde lid, zijn van overeenkomstige toepassing.  \n \nHoofds tuk 5. Cultuurhistorische waardevolle \nobjecten en historisch waardevolle \nkunstwerken  \nArtikel 18. Aanwijzing als cultuurhistorisch waardevol object en \nhistorisch waardevol kunstwerk  \n1. Burgemeester en wethouders kunnen besluiten een onroerende zaak of \nterrein aan te wijzen als cultuurhistorisch waardevol object.  \n2. Dit artikel is niet van toepassing op:  \na. rijksmonumenten;  \nb. monumenten en archeologische monumenten die zijn aangewezen \nop grond van deze verordening;   \n \n Inboeknummer 22bst01098  \n \n \n  \n \n \n12 12 c. monumenten en archeologische monumenten die zijn aange wezen \nop grond van een provinciale erfgoedverordening als bedoeld in \n3.17, eerste lid, van de Erfgoedwet.  \n3. De artikelen 4, 6, 7, 9 en 10 zijn van overeenkomstige toepassing op \nhet aanwijzingsbesluit.  \n4. De bescherming van artikel 20 is van overeenkomstige toepassing op \nhet cultuurhistorisch waardevol object ten aanzien waarvan een \nvoornemen als bedoeld in artikel 4 is bekendgemaakt.  \n5. De voorbescherming, bedoeld in het vierde lid, vervalt op het moment \nvan inschrijving van de aanwijzing in het  gemeentelijk erfgoedregister \nof op het moment waarop het aanwijzingsbesluit wordt herroepen of \ndoor de bestuursrechter wordt vernietigd.  \n6. Burgemeester en wethouders kunnen besluiten een kunstwerk aan te \nwijzen als historisch waardevol kunstwerk. De artikel en 4, 6, 7, 9 en 10 \nzijn van overeenkomstige toepassing op het aanwijzingsbesluit.  \n \nArtikel 19. Instandhoudingsplicht cultuurhistorisch waardevolle \nobjecten en historisch waardevolle kunstwerken  \nHet is verboden een cultuurhistorisch waardevol object of een historisch \nwaardevol kunstwerk te beschadigen of te vernielen, of daaraan onderhoud dat \nvoor de instandhouding daarvan noodzakelijk is te onthouden.  \n \n \nArtikel 20. Omgevingsvergunning cultuurhis torisch waardevol \nobject  \n1. Het is verboden zonder omgevingsvergunning van burgemeester en \nwethouders een cultuurhistorisch waardevol object geheel of \ngedeeltelijk te slopen.  \n2. Op de omgevingsvergunning, bedoeld in het eerste lid,  zijn de a rtikelen \n13, 14, 15 en 16 van overeenkomstige toepassing.  \nHoofdstuk 6. Cultuurhistorische waardenkaart  \nArtikel 21. Cultuurhistorische waardenkaart  \n1. De raad stelt een cultuurhistorische waardenkaart vast.   \n \n Inboeknummer 22bst01098  \n \n \n  \n \n \n13 13 2. Burgemeester en wethouders zijn bevoegd de cultuurhistorische \nwaardenkaar t te wijzigen.  \n3. Voor vaststelling of wijziging van de cultuurhistorische waardenkaart \nwordt de commissie ruimtelijke kwaliteit om advies gevraagd.  \n4. Bij iedere omgevingsvergunningaanvraag, waarbij zaken zijn betrokken \ndie op de cultuurhistorische waardenkaart  zijn aangegeven, wordt de \ncommissie ruimtelijke kwaliteit om advies gevraagd.  \n5. Bij iedere procedure als bedoeld in artikel 2.12 van de Wet algemene \nbepalingen omgevingsrecht waarbij zaken zijn betrokken die op de \nwaardenkaart historisch landschap en de waa rdenkaart historische \nstedenbouw en gebouwd erfgoed zijn aangegeven, wordt de commissie \nruimtelijke kwaliteit om advies gevraagd.  \n6. Aan ruimtelijke ontwikkelingen waarvoor een wijziging van het \nbestemmingsplan of een projectbesluit (artikel 2.12, lid 1, sub a, onder \n3, van de Wet algemene bepalingen omgevingsrecht) nodig is en die \nbetrekking hebben op gemeentelijke monumenten dan wel zaken, die \nop de cultuurhistorische waardenkaart zijn aangegeven, verlenen de \nraad of burgemeester en wethouders slechts medewe rking indien de \ninitiatiefnemer aantoont dat de voorgenomen ontwikkeling met het \nbelang van het gemeentelijk monument dan wel met de waarden die op \nde cultuurhistorische waardenkaart zijn aangegeven, in \novereenstemming is . \n7. Burgemeester en wethouders kunnen  ten behoeve van de beoordeling \nvan aanvraag of procedure als bedoeld in het vierde, vijfde en zesde lid, \ndan wel in het kader van een vooroverleg ter voorbereiding daartoe, \nbepalen dat een bouwhistorisch, cultuurhistorisch of tuinhistorisch \nonderzoek word t verricht.  \n8. Op het onderzoek, bedoeld in het zevende lid, is artikel  15 van \novereenkomstige toepassing.  \n \nArtikel 22. Bouwregels en omgevingsvergunning waardenkaart \nhistorisch landschap  \n1. Voor het bouwen van bouwwerken in gebieden en elementen met \nwaarderings categorie A die op de waardenkaart historisch landschap \nzijn aangegeven gelden de volgende regels:   \n \n Inboeknummer 22bst01098  \n \n \n  \n \n \n14 14 het bouwen van bouwwerken is mogelijk is krachtens de onderliggende \nandere bestemming(en), met dien verstande dat:  \n• advies is ingewonnen bij de gemeentelijk cultuurhistorisch \nadviseur en/of commissie ruimtelijke kwaliteit waaruit blijkt dat \nmet werk, geen bouwwerk zijnde of de werkzaamheden geen \nonevenredige verstoring plaatsvindt van de ter plaatse \naanwezige cultuurhistorische waarden en kenmerke nde \nelementen;  \n• als blijkt dat het bouwen van het werk, geen bouwwerk zijnde of \nde werkzaamheden leiden tot onevenredige verstoring van die \ncultuurhistorische waarden en kenmerken, aan de \nomgevingsvergunning de verplichting kan worden verbonden \ntot het tref fen van maatregelen waardoor cultuurhistorische \nwaardevolle en kenmerkende elementen kunnen worden \nbehouden.  \n2. Burgemeester en wethouders kunnen met het oog op het belang van het \nbehoud van de ter plaatse aanwezige cultuurhistorische waarden en \nkenmerkende e lementen, nadere eisen stellen aan het materiaalgebruik \nvoor bouwwerken, alsmede aan de situering ervan.  \n3. Het is verboden om zonder of in afwijking van een \nomgevingsvergunning voor het uitvoeren van werken, geen bouwwerken \nzijnde, of werkzaamheden op of in de gronden met \nwaarderingscategorie A die op de waardenkaart historisch landschap \nzijn aangegeven de volgende werken of werkzaamheden uit te voeren:  \n• het aanbrengen van (half)verhardingen, het verlagen, afgraven, \nophogen of egaliseren van de bodem;  \n• het wijz igen van de perceelindeling zoals die door sloten, \ngreppels, reliëfverschillen en beplantingselementen is \naangegeven;  \n• het diepwoelen of diepploegen;  \n• het aanleggen, verharden of opheffen van wegen of paden;  \n• het graven, verbreden, verdiepen of dempen van wat erlopen \nzoals rivieren, beken, stromen, kanalen, grachten, sloten en \ngreppels;   \n \n Inboeknummer 22bst01098  \n \n \n  \n \n \n15 15 • het verwijderen van houtgewas, perceelrandbegroeiing of \nopgaande beplanting;  \n• het aanbrengen van beplanting anders dan het herplanten van \ngerooide/gevelde houtopstanden.  \n4. Het verb od als bedoeld in het derde lid is niet van toepassing op werken \nen werkzaamheden die het normale beheer en onderhoud betreffen:  \n• die reeds in uitvoering zijn op het tijdstip van inwerkingtreding \nvan deze verordening en niet strijdig waren met het ter plaat se \nvigerende  bestemmingsplan;  \n• waarvoor ten tijde van inwerkingtreding van deze verordening \neen omgevingsvergunning voor het uitvoeren van werken, geen \nbouwwerken zijnde, of van werkzaamheden is verleend;  \n• indien de werkzaamheden plaatsvinden ingevolge een \naanschrijving van burgemeester en wethouders;  \n• indien op grond van een door de commissie ruimtelijke kwaliteit \ngoedgekeurd cultuurhistorisch of tuinhistorisch onderzoek \nwordt aangetoond dat er geen cultuurhistorische waarden \nverloren gaan.  \n5. De in het derde li d genoemde werken en werkzaamheden mogen geen \nonevenredige aantasting van de gebieden en elementen met \nwaarderingscategorie A die op de waardenkaart historisch landschap \nzijn aangegeven tot gevolg hebben. Ter beoordeling of daarvan sprake \nis wordt  \n• advies i ngewonnen bij de gemeentelijke cultuurhistorisch \nadviseur en/of  \n• getoetst of op grond van een cultuurhistorisch onderzoek is \nvastgesteld dat het werk, geen bouwwerk zijnde, of de \nwerkzaamheden de ter plaatse aanwezige cultuurhistorische \nwaarden en kenmerke nde elementen niet  onevenredige \nverstoren.  \n6. Als blijkt dat het werk, geen bouwwerk zijnde of de werkzaamheden \nleiden tot onevenredige verstoring van die cultuurhistorische waarden \nen kenmerkende elementen, kan aan de omgevingsvergunning de \nverplichting  wo rden verbonden tot het treffen van maatregelen  \n \n Inboeknummer 22bst01098  \n \n \n  \n \n \n16 16 waardoor de cultuurhistorische waarden en kenmerkende elementen van \nhet gebied kunnen worden behouden.  \n \nArtikel 23. Strijdigheid met regels in het bestemmingsplan  \nBij strijdigheid met regels ten aanzien van historisch landschap in een \nbestemmingsplan dat is vastgesteld voor de inwerkingtreding van deze \nverordening, gaan de regels uit artikel 22 voor.  \n \nHoofdstuk 7. Archeologie  \nArtikel 24. Programma van eisen en plan van aanpak  \nIndien binnen het grondgebied van de gemeente Eindhoven onderzoek wordt \nuitgevoerd bij opgravingen in de zin van hoofdstuk 5, paragraaf 5.1 van de \nErfgoedwet 2016 dient, onverminderd de overige bepalingen van deze wet:   \na. de verstoorder, voorafgaande aan prospectief onderzoek , een Plan van \nAanpak (PvA) als bedoeld in artikel 1 ter goedkeuring aan burgemeester \nen wethouders te overleggen. Het gehanteerde verwachtingsmodel dient \nte worden onderbouwd met een archeologisch \nbureauonderzoeksrapport;  \nb. de verstoorder, voorafgaande aan gravend onderzoek, een Programma \nvan Eisen (PvE) als bedoeld in artikel 1 ter goedkeuring aan \nburgemeester en wethouders te overleggen.  \n \n \nArtikel 25. Archeologie  \n1. Het is verboden om zonder omgevingsvergunning van burgemeester en \nwethouders:  \na. In een archeolo gisch monument, gebieden met archeologische \nwaarden en gebieden met archeologische verwachtingswaarden, \nzoals opgenomen op de archeologische verwachtingen - en \nwaardenkaart en zoals bedoeld in artikel 1, de bodem onder het \nmaaiveld te verstoren. Hiervoor ge ldt: \n• Categorie 1: gemeentelijk archeologisch monument. \nOnderzoeksplicht bij alle bodemingrepen;  \n• Categorie 2: terrein van hoge archeologische waarde. \nOnderzoeksplicht bij bodemingrepen dieper dan 30 cm \nbeneden maaiveld én groter dan 10 m2;  \n \n Inboeknummer 22bst01098  \n \n \n  \n \n \n17 17 • Categorie 3: terr ein van archeologische waarde. \nOnderzoeksplicht bij bodemingrepen dieper dan 30 cm \nbeneden maaiveld én groter dan 50 m2; \n• Categorie 4: gebied met een hoge archeologische \nverwachting, historische kern. Onderzoeksplicht bij \nbodemingrepen dieper dan 30 cm bene den maaiveld én \ngroter dan 100 m2;  \n• Categorie 5: gebied met een hoge archeologische \nverwachting. Onderzoeksplicht bij bodemingrepen \ndieper dan 30 cm beneden maaiveld én groter dan 250 \nm2;  \n• Categorie 6: gebied met een middelhoge \narcheologische verwachting. Onderzoeksplicht bij \nbodemingrepen dieper dan 30 cm beneden maaiveld én \ngroter dan 2500 m2;  \n• Categorie 7: gebied met een lage archeologische \nverwachting. Onderzoeksplicht bij  bodemingrepen \ndieper dan 30 cm beneden maaiveld én groter dan \n25000 m2;  \n• Categori e 8: gebied zonder archeologische verwachting. \nGeen onderzoeksplicht.  \nb. In een archeologisch monument, gebieden met archeologische \nwaarden en gebieden met archeologische verwachtingswaarden, \nzoals opgenomen op de archeologische verwachtingen - en \nwaardenkaart  en zoals bedoeld in artikel 1, de bodem te \nontgronden en hierbij  het maaiveld permanent te verlagen . \n2. Indien het eerste lid, onder a niet van toepassing is, geldt de wettelijke \nmeldingsplicht als bedoeld in artikel 5.10 van de Erfgoedwet 2016 bij \neen arch eologische toevalsvondst.  \n3. Het verbod in het eerste lid is niet van toepassing indien:  \na. De vrijstellingsgrenzen in het eerste lid, onder a. niet worden \noverschreden ; \nb. Er sprake is van een activiteit zoals bedoeld in artikel 2.12, \neerste en tweede lid, van de Wet algemene bepalingen  \n \n Inboeknummer 22bst01098  \n \n \n  \n \n \n18 18 omgevingsrecht en er voorschriften zijn opgenomen omtrent \narcheologische monumentenzorg;  \nc. Een rapport conform de meest recente versie van de KNA is \novergelegd waarin ten aanzien van de (te verwachten) \narcheologische waarde van het te verstoren terrein naar het \noordeel van burgemeester en wethouders in voldoende mate is \nvastgesteld dat:  \n• Het behoud van de archeologische waarden in \nvoldoende mate  kan worden geborgd door middel van \nplanaanpassing (behoud in situ ) of door middel van \nopgraving (behoud ex situ ); of \n• De (te verwachten) archeologische waarden door de \nverstoring naar oordeel van burgemeester en \nwethouders niet onevenredig worden geschaad;  of \n• Naar oordeel van burgemeester en wethouders geen \nsprake is van behoudenswaardige archeologische \nwaarden.  \n4. De omgevingsvergunning kan, onverlet dat er sprake is van een \ndubbelbestemming Waarde – Archeologie, worden geweigerd indien de \narcheologische waar den naar het oordeel van burgemeester en \nwethouders ter plaatse behouden dienen te blijven (behoud in situ ). \n \nArtikel 26. Archeologische verwachtingen - en waardenkaart  \n1. Burgemeester en wethouders stellen de archeologische verwachtingen - \nen waardenkaart vas t en zijn bevoegd deze te wijzigen.  \n2. De archeologische verwachtingen - en waardenkaart wordt, uiterlijk vijf \njaar na vaststelling, geactualiseerd en vastgesteld en geldt dan als \nonderlegger voor de Erfgoedverordening en het bestemmingsplan.  \n3. Aan ruimtelijke o ntwikkelingen waarvoor een wijziging van het \nbestemmingsplan of een projectbesluit (artikel 2.12, lid 1, sub a onder 3 \nWabo) nodig is en die betrekking hebben op gebieden die op de \narcheologische verwachtingen - en waardenkaart zijn aangegeven, \nverleent de raad of burgemeester en wethouders slechts medewerking \nindien de initiatiefnemer aantoont dat de bodemverstorende \nwerkzaamheden niet tot onevenredige aantasting van archeologische \nwaarden leiden.   \n \n Inboeknummer 22bst01098  \n \n \n  \n \n \n19 19 4. Burgemeester en wethouders kunnen ten behoeve van de beoorde ling \nvan aanvraag of procedure als bedoeld in het derde lid, dan wel in het \nkader van een vooroverleg ter voorbereiding daartoe, bepalen dat een \narcheologisch onderzoek volgens de meest recente versie van de KNA \nwordt verricht.  \n \nArtikel 27. Voorwaarden  \nBij de beoordeling van de aanvraag voor een omgevingsvergunning en/of een \nbestemmingsplanprocedure worden de volgende voorwaarden gehanteerd:  \n• De vrijstellingsgrenzen in de vastgestelde archeologische \nverwachtingen - en waardenkaart zijn leidend. Bij het bepal en of wordt \nvoldaan aan de vrijstellingsgrenzen, worden de afmetingen in \noppervlakte én diepte van het totaal aan verwachte bodemingrepen \n(voor alle relevante activiteiten, zoals: bouwen, ondergronds slopen, het \nuitvoeren van werken of werkzaamheden) in he t plangebied bij elkaar \nopgeteld. Ook wanneer deze activiteiten apart van elkaar worden \naangevraagd (anti opknip regeling);  \n• De vrijstellingscategorie in de archeologische verwachtingen - en \nwaardenkaart voor de zone met de hoogste waarde of hoogste \nverwacht ingswaarde (en dus met de laagste ondergrenzen) is dus \nleidend voor alle ingrepen in het plangebied. Dit is ook het geval \nwanneer sprake is van bodemingrepen in verschillende zones met een \nwaarde of verwachtingswaarde die verdeeld zijn over het plangebied en \nook wanneer deze zones niet aan elkaar grenzen. Slechts als de hoogste \nwaarde of verwachtingswaarde een zeer beperkt deel uitmaakt van het \nplangebied (< 10%), kan na afweging door burgemeester en wethouders \nworden besloten om de oppervlakteondergrens te  hanteren die het \ngrootste deel uitmaakt van het plangebied;  \n• Archeologisch (voor)onderzoek (bureau - en/of booronderzoek en/of \nproefsleuvenonderzoek) vindt plaats in het gehele plangebied, tenzij \nhier naar oordeel van burgemeester en wethouders van afgewek en mag \nworden;  \n• De grootte van een onderzoeksgebied dient, naar oordeel van \nburgemeester en wethouders, in verhouding te staan tot de grootte van \nhet plangebied;  \n• Wanneer een KNA -conform archeologisch (voor)onderzoek is gedaan en \nde verspreiding en de diepteligging van het archeologisch niveau, naar \noordeel van burgemeester en wethouders, in voldoende mate is  \n \n Inboeknummer 22bst01098  \n \n \n  \n \n \n20 20 bepaald, dan zijn deze dimensies leidend (voortschrijdend  inzicht). \nWanneer deze resten naar oordeel van burgemeester en wethouders \nbehoudenswaardig zijn dan dienen ze te worden behouden door middel \nvan planaanpassing (behoud in situ ) en/of door opgraving (behoud ex \nsitu); \n• Bij behoud door middel van een opgraving (behoud ex situ ) gelden de \nvolgende bepalingen: alle naar oordeel van burgemeester en \nwethouders behoudenswaardige archeologische waarden binnen het \nplangebied moeten worden opgegraven. Dit betekent concreet: \narcheo logische resten die dieper zijn gelegen dan de voor de \nontwikkeling te plegen bodemverstoring en de delen van het plangebied \ndie niet direct bedreigd zijn, maar door hun geringe omvang bij \ntoekomstige bodemingrepen niet meer vergunningplichtig zijn, moeten  \nworden opgegraven;  \n• In gebieden waar ingrepen gepland worden met een geleidelijk negatief \neffect, dient eerst vastgesteld te worden wat het effect van de ingreep \n(op termijn) kan zijn op het behoud van eventueel aanwezige \narcheologische waarden;  \n• Archeologi e-sparende maatregelen die in het kader van een \nbouwinitiatief of andere (potentieel) bodemverstorende activiteit worden \ngenomen om behoud in situ in de bodem te realiseren, dienen garant te \nstaan voor een duurzaam in situ -behoud. Versnippering van het \narcheologische bodemarchief ter plaatse mag niet aan de orde zijn. De \ninitiatiefnemer overlegt hiervoor ter goedkeuring een uitgewerkt Plan \nvan Aanpak (PvA) al dan niet op basis van een (gemeentelijk) Programma \nvan Eisen (PvE).  \n \nArtikel 28. Uitzonderingen ver gunningplicht  \n1. Geen omgevingsvergunning is vereist:  \n• voor archeologisch onderzoek voor een ruimtelijke of \ncivielrechtelijke procedure ;  \n• voor milieukundig booronderzoe k; \n• voor de aanleg van bodemenergiesystemen  en de uitvoering van in \nsitu saneringen door midd el van bodeminjectie, wanneer de \nhierdoor veroorzaakte bodemverstoring maximaal 2% van het \nplangebied bedraagt én wanneer naar oordeel van burgemeester en  \n \n Inboeknummer 22bst01098  \n \n \n  \n \n \n21 21 wethouders de bodemverstorende werkzaamheden niet tot \nonevenredige aantasting van archeologische waar den leiden ; \n• voor het boren of indrijven van heipalen dieper dan het \narcheologisch niveau. Dit is toegestaan, wanneer de hierdoor \nveroorzaakte verstoring maximaal 2% van het plangebied bedraagt \nén de palen minimaal 3,5 m (gemeten hart op hart) uit elkaar st aan \nén er geen andere bodemverstorende werkzaamheden zijn gepland.  \nWanneer er meerdere bodemverstorende werkzaamheden beneden \nhet (te verwachten) archeologisch niveau zijn gepland, dan tellen de \naantallen vierkante meters verstoring door heipalen wél mee bij de \nbepaling of wordt voldaan aan de vrijstellingsgrenzen ; \n• voor vervanging van ondergrondse infrastructuur als dit naar \noordeel van burgemeester en wethouders aantoonbaar binnen \ndezelfde ontgravingsdimensies wordt gedaan ; \n2. Vrijstelling van archeologisch onderzoek door archeologiesparend \nbouwen (het nemen van technische maatregelen) wordt alleen verleend \nwanneer er, naar oordeel van burgemeester en wethouders, \naantoonbaar sprake is van duurzaam in situ -behoud van archeologische \nwaarden. Op deze vrijstellin g kan geen beroep worden gedaan, wanneer \neigendoms - of gebruiksrechten worden opgesplitst en dit, naar oordeel \nvan burgemeester en wethouders, een nadelige invloed heeft op het \nduurzaam behoud van (mogelijke) archeologische waarden. Wanneer \nvan dit laatste  sprake is, dan kan ook geen aanspraak gemaakt worden \nop een vrijstelling op andere gronden . \n3. Vergunningvrij bouwen is alleen toegestaan wanneer de ondergrenzen \nvan de vastgestelde archeologische verwachtingen - en waardenkaart \nniet worden overschreden.  \n \nArtikel 29. Goedkeuringsvereisten  \n1. Archeologisch onderzoek moet voldoen aan de geldende versie van de \nKNA en moet worden uitgevoerd door een daartoe gecertificeerde \ninstantie en gekwalificeerde actoren met aantoonbare ervaring in \nonderzoek in de betreffende ar cheoregio en te verwachten aan te treffen \narcheologische periode(n). Een onderzoek mag pas worden uitgevoerd \nnadat het benodigde Plan van Aanpak (PvA) of Programma van Eisen \n(PvE) door burgemeester en wethouders is beoordeeld en schriftelijk is \ngoedgekeurd . De eindrapportage mag pas definitief worden gemaakt na \nbeoordeling van en na schriftelijke goedkeuring van burgemeester en  \n \n Inboeknummer 22bst01098  \n \n \n  \n \n \n22 22 wethouders. Deze vereiste geldt zowel voor onderzoek dat wordt \nuitgevoerd voor ruimtelijke procedures, als voor civielrechtelijke \nprocedures en onderzoek met enkel een wetenschappelijke doelstelling.  \n2. Een rapport is geldig totdat een nieuwe versie van de KNA formeel van \nkracht is en er geen sprake meer is van een overgangstermijn. Indien de \ngeldigheidsduur van een rapport is verlopen,  oordelen burgemeester en \nwethouders of het rapport nog voldoet of dat het moet worden \ngeactualiseerd. Een Programma van Eisen (PvE) heeft, na schriftelijk \nakkoord van burgemeester en wethouders, een geldigheidsduur van \ntwee jaar. Wanneer de geldigheidsduu r van het PvE is verlopen, bepalen \nburgemeester en wethouders of het PvE nog voldoet, of dat het moet \nworden geactualiseerd.  \n \n \nArtikel 30. Strijdigheid met regels in het bestemmingsplan  \nBij strijdigheid met regels ten aanzien van archeologie in een bestemmingsplan \ndat is vastgesteld voor de inwerkingtreding van deze verordening, gaan de \nregels uit artikel 25, 26, 27, 28 en 29 voor.  \n \nArtikel 31. Depotrichtlijnen en onderzoeksrichtlijnen  \n1. Burgemeester en wethouders kunnen besluiten depotrichtlijnen vast  te \nstellen.  \n2. Burgemeester en wethouders kunnen besluiten onderzoeksrichtlijnen \nvast te stellen.  \nArtikel 32. Advisering  \nBurgemeester en wethouders laten zich in het geval van artikel 24 t/m 31 en \nartikel 34 adviseren door een gemeentelijk adviseur archeolog ie. \n \nHoofdstuk 8. Handhaving en toezicht  \nArtikel 3 3. Strafbepaling  \nDegene die handelt in strijd met artikel 11 of het bepaalde krachtens artikel 12 \nvan deze verordening, dan wel  artikel 19, 20, 22, 25 of 27 van deze \nverordening, wordt gestraft met een geldboete van de tweede categorie of een \nhechtenis van ten hoogste dri e maanden.  \n  \n \n Inboeknummer 22bst01098  \n \n \n  \n \n \n23 23 Artikel 34. Toezichthouders  \n1. Met het toezicht op de naleving van het bepaalde bij of krachtens deze \nverordening zijn belast: de bij besluit van burgemeester en wethouders \naan te wijzen of daartoe reeds aangewezen personen : \na. Met betrekking tot ge meentelijke monumenten, de \ncultuurhistorische waardenkaart, cultuurhistorisch waardevolle \nobjecten en historisch waardevolle kunstwerken als bedoeld in \nartikel 1: de afdelingen Handhaving en Toezicht van de \ngemeente Eindhoven;  \nb. Met betrekking tot gemeenteli jke archeologische monumenten, \nde archeologische verwachtingen - en waardenkaart en de \ngebieden met archeologische waarde en archeologische \nverwachtingswaarde als bedoeld in artikel 1: de afdelingen \nHandhaving en Toezicht van de gemeente Eindhoven.  \n \nHoofdst uk 9. Slotbepalingen  \nArtikel 35. Overgangsbepalingen  \n1. De op grond van de onder artikel 36 ingetrokken Erfgoedverordening \ngemeente Eindhoven 2010 aangewezen en geregistreerde gemeentelijke \nmonumenten, worden geacht aangewezen en geregistreerd te zijn \novereen komstig de bepalingen van deze verordening.   \n2. Aanvragen om omgevingsvergunningen die zijn ingediend vóór de \ninwerkingtreding van deze verordening worden afgehandeld met \ninachtneming van de Erfgoedverordening gemeente Eindhoven 2010.   \n \nArtikel 36. Intrekken oude verordening  \nDe Erfgoedverordening gemeente Eindhoven 2010 wordt ingetrokken met \ningang van de dag dat de Erfgoedverordening gemeente Eindhoven in werking \ntreedt.  \n \nArtikel 37. Invoering omgevingswet  \nNa inwerkingtreding van de Omgevingswet zij n de begrippen en regels uit de \nOmgevingswet op deze verordening van toepassing.  \n  \n \n Inboeknummer 22bst01098  \n \n \n  \n \n \n24 24 Artikel 38. Inwerkingtreding en citeertitel  \n1. Deze verordening treedt in werking één dag na bekendmaking.  \n2. Deze verordening wordt aangehaald als: Erfgoedverordening gemeente \nEindhoven.  \n \n \nII  De gewijzigde cultuurhistorische waardenkaart , \nbijlage 2.1 (Kaartweergave Cultuurhistorische \nwaardenkaart, thema historisch cultuurlandschap)  \n \nAldus vastgesteld in de openbare raadsvergadering van 29 november 2022 . \n \n \n \nJ. Jongbloed,  griffier.  \n ",
+    "bst": "22bst01098",
+    "related": [
+        {
+            "id": 792365,
+            "weight": 1.1067823988620633
+        },
+        {
+            "id": 950549,
+            "weight": 1.0757603448525046
+        },
+        {
+            "id": 817437,
+            "weight": 0.8766205204785789
+        },
+        {
+            "id": 896955,
+            "weight": 0.8686346272049463
+        },
+        {
+            "id": 857861,
+            "weight": 0.8520836235620912
+        },
+        {
+            "id": 830966,
+            "weight": 0.8221789327672953
+        },
+        {
+            "id": 892522,
+            "weight": 0.7017740063480139
+        },
+        {
+            "id": 912028,
+            "weight": 0.7008426882898202
+        },
+        {
+            "id": 1061333,
+            "weight": 0.6234089943670544
+        },
+        {
+            "id": 916258,
+            "weight": 0.6135645345102738
+        },
+        {
+            "id": 898863,
+            "weight": 0.5565440114881487
+        },
+        {
+            "id": 919200,
+            "weight": 0.5447034972890927
+        },
+        {
+            "id": 1128665,
+            "weight": 0.4734155294246243
+        },
+        {
+            "id": 898105,
+            "weight": 0.45806805094880815
+        },
+        {
+            "id": 1015907,
+            "weight": 0.430817903950153
+        },
+        {
+            "id": 1020674,
+            "weight": 0.4303998918237311
+        },
+        {
+            "id": 941374,
+            "weight": 0.33876861777513917
+        },
+        {
+            "id": 1125936,
+            "weight": 0.3336527841510287
+        },
+        {
+            "id": 778810,
+            "weight": 0.33016284360850057
+        },
+        {
+            "id": 786390,
+            "weight": 0.29017107388439656
+        },
+        {
+            "id": 859332,
+            "weight": 0.284226571350813
+        },
+        {
+            "id": 776883,
+            "weight": 0.22896376490410333
+        },
+        {
+            "id": 870858,
+            "weight": 0.21654915423398166
+        },
+        {
+            "id": 1108590,
+            "weight": 0.18367802536172337
+        },
+        {
+            "id": 1124937,
+            "weight": 0.17886270879916008
+        },
+        {
+            "id": 1125567,
+            "weight": 0.16994435640439298
+        },
+        {
+            "id": 791378,
+            "weight": 0.16679397369279766
+        },
+        {
+            "id": 902797,
+            "weight": 0.16360772170378327
+        },
+        {
+            "id": 1023820,
+            "weight": 0.1616126166045156
+        },
+        {
+            "id": 780425,
+            "weight": 0.16130700899763448
+        },
+        {
+            "id": 889102,
+            "weight": 0.16083070426043294
+        },
+        {
+            "id": 954552,
+            "weight": 0.1603759930288359
+        },
+        {
+            "id": 942826,
+            "weight": 0.14678890961254393
+        },
+        {
+            "id": 859887,
+            "weight": 0.14024636626917722
+        },
+        {
+            "id": 1031698,
+            "weight": 0.13706137205185046
+        },
+        {
+            "id": 950219,
+            "weight": 0.13574071646390057
+        },
+        {
+            "id": 776873,
+            "weight": 0.1313815331695095
+        },
+        {
+            "id": 799677,
+            "weight": 0.12839105622597666
+        },
+        {
+            "id": 16277684,
+            "weight": 0.11531327770864498
+        },
+        {
+            "id": 827487,
+            "weight": 0.11081400897394486
+        },
+        {
+            "id": 1052634,
+            "weight": 0.10791865348009773
+        },
+        {
+            "id": 1082736,
+            "weight": 0.10764995309603777
+        },
+        {
+            "id": 956820,
+            "weight": 0.1042204427420535
+        },
+        {
+            "id": 780834,
+            "weight": 0.10181183371690357
+        },
+        {
+            "id": 776876,
+            "weight": 0.10031224773794781
+        },
+        {
+            "id": 798793,
+            "weight": 0.09866304356158216
+        },
+        {
+            "id": 865907,
+            "weight": 0.09744612547889753
+        },
+        {
+            "id": 922345,
+            "weight": 0.09461542218918166
+        },
+        {
+            "id": 938342,
+            "weight": 0.0921429105878497
+        },
+        {
+            "id": 774744,
+            "weight": 0.0916103206326376
+        },
+        {
+            "id": 1061264,
+            "weight": 0.09068327038488314
+        },
+        {
+            "id": 1125940,
+            "weight": 0.09023279786300513
+        },
+        {
+            "id": 900681,
+            "weight": 0.08732845186239824
+        },
+        {
+            "id": 898443,
+            "weight": 0.08557026229893476
+        },
+        {
+            "id": 1119726,
+            "weight": 0.08249936838832812
+        },
+        {
+            "id": 884504,
+            "weight": 0.08032492564147511
+        },
+        {
+            "id": 813293,
+            "weight": 0.07972503583538164
+        },
+        {
+            "id": 864038,
+            "weight": 0.07502036254239901
+        },
+        {
+            "id": 1109491,
+            "weight": 0.0741033205705082
+        },
+        {
+            "id": 958767,
+            "weight": 0.07390611740760247
+        },
+        {
+            "id": 1137879,
+            "weight": 0.07302898610410005
+        },
+        {
+            "id": 1062131,
+            "weight": 0.07231234238146379
+        },
+        {
+            "id": 1030763,
+            "weight": 0.07189009807977469
+        },
+        {
+            "id": 1000397,
+            "weight": 0.06996926882144522
+        },
+        {
+            "id": 1033061,
+            "weight": 0.06109539078111518
+        },
+        {
+            "id": 1123634,
+            "weight": 0.05964341046777215
+        },
+        {
+            "id": 882987,
+            "weight": 0.052222042666989356
+        }
+    ],
+    "videostarttime": {
+        "1013585": 2650,
+        "1032641": 725
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_29.11.22-EINDHOVEN-RAA-ONDERTITEL_2022.11.29_195657.mp4/playlist.m3u8",
+    "keywords": {
+        "Artikel": 0.9979376254540576,
+        "burgemeester": 0.9973673686012055,
+        "gemeentelijk monument": 0.9973356975939206,
+        "wethouders": 0.9966815908325406,
+        "archeologische": 0.9961906634503681,
+        "monument": 0.9945799679557388,
+        "onderzoek": 0.9931917460038893,
+        "bedoeld": 0.9926398201508027,
+        "Inboeknummer": 0.991960542399663,
+        "waardenkaart": 1.9917552318918859,
+        "cultuurhistorische waardenkaart": 1.9916827887338615,
+        "lid": 0.9906950013478042,
+        "Eindhoven": 1.9891307398655798,
+        "archeologische verwachtingen": 0.9857740622112297,
+        "Omgevingswet": 0.9836973012285837,
+        "Raadsvoorstel Erfgoedverordening": 1.9833936178145009,
+        "ruimtelijke": 0.9829028843021919,
+        "historisch": 1.9824836596945403,
+        "toepassing": 0.9805247890901163,
+        "Erfgoedverordening gemeente": 1.9787400939743485,
+        "verordening": 1.9783725371591026,
+        "monument Artikel": 0.977990007494231,
+        "tuinhistorisch onderzoek": 0.9771535544065436,
+        "aanwijzing": 0.9761022802196567,
+        "gebied": 0.9754243210720149,
+        "waardenkaart Raadsbesluit": 0.9754189011911532,
+        "KNA": 0.9710006923964254,
+        "overeenkomstige toepassing": 0.9705774581238242,
+        "oordeel": 0.9694266233406725,
+        "Hoofdstuk": 0.9680640690780898,
+        "eisen": 0.9672727957933521,
+        "Advies": 0.9670076751573197,
+        "Wet": 0.9665791991502001,
+        "Erfgoedwet": 0.9656891985253542,
+        "werkzaamheden": 0.9655037960287625,
+        "waarde": 1.9645964784562318,
+        "Wet algemene": 0.9645412080830502,
+        "commissie": 0.9644999485756406,
+        "voorlopig gemeentelijk": 0.9641187503609732,
+        "kwaliteit": 0.9640778147029219,
+        "richtlijnen": 0.9636544620682737,
+        "aangegeven": 0.9625051463283495,
+        "categorie": 0.9612513109013234,
+        "situ": 0.9611663239831865,
+        "RCE": 0.9580078780136866,
+        "bepalingen": 0.9537203216696498,
+        "inwerkingtreding": 0.9536674973707049,
+        "gemeentelijke archeologische": 0.9515066454541365,
+        "betrekking": 0.9483136298112039,
+        "Raadsvoorstel": 1.947469733083563,
+        "Programma": 0.9472679829134082,
+        "geldende": 0.9419316950855454,
+        "bestemmingsplan": 0.9396775834700135,
+        "bodemingrepen": 0.9395069040762988,
+        "regels": 0.9390583496212526,
+        "vastgesteld": 0.9389198245794782,
+        "plan": 0.9377005071852234,
+        "historisch landschap": 0.9375459674067511,
+        "historische ontwikkeling": 0.9332818281567598,
+        "ontwikkeling": 0.9313748290527615,
+        "object": 0.9307640165038616,
+        "maaiveld": 0.9303747247771418,
+        "waardevol object": 0.9300029939575947,
+        "sprake": 0.9297994558468183,
+        "elementen": 0.9297708264767673,
+        "wethouders vastgesteld": 0.9254716220996724,
+        "derde lid": 0.9229042051388097,
+        "gelet": 0.9224560291380033,
+        "Eindhoven Hoofdstuk": 0.9217770052543288,
+        "Raadsbesluit": 0.9213543360191623,
+        "stellen": 0.9187013385199218,
+        "dieper": 0.9185431075137408,
+        "vastgelegd onderzoek": 0.9149476054199729,
+        "Aanpak": 0.9118827087562733,
+        "zaak": 0.911334667932171,
+        "bepalingen omgevingsrecht": 0.9091308517299294,
+        "grond": 0.903633198368608,
+        "landschap": 0.9033444248503265,
+        "onevenredige": 0.9028374621163795,
+        "versie": 0.9024467702026585,
+        "activiteit": 0.9018998062922318,
+        "PvE": 0.9006505959070834,
+        "Hoog": 0.8987940430070808,
+        "onderzoek minimaal": 0.8918995611138182,
+        "aanwezige cultuurhistorische": 0.8860540395666242,
+        "wijzen": 0.8859253483787467,
+        "raad": 0.8856640281666898,
+        "zaken": 0.8841164307713759,
+        "besluiten": 0.8832884169289316,
+        "aanzien": 0.8826433977315054,
+        "opgraving": 0.882283137506077,
+        "aanvraag": 0.8818843654041181,
+        "groter": 0.8816957724291117,
+        "kunstwerk": 0.8815201133547552,
+        "werken": 0.8807889294394958,
+        "middel": 0.8806643677916961,
+        "bouwen": 0.87947792086965,
+        "cultureel erfgoed": 0.8749338659525712,
+        "belangrijk": 0.8744545526422856,
+        "procedure": 0.862867409842651
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": "10-04-2026",
+    "meeting_id": []
+}

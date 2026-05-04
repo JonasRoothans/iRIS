@@ -1,0 +1,110 @@
+{
+    "module_id": 1102268,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Raadsvoorstel benoeming voorzitters Meningsvormende vergadering",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/19/Raadsvoorstellen/1102268",
+    "type": "Raadsvoorstel",
+    "member": null,
+    "party": null,
+    "poho": "",
+    "result": "Afgerond",
+    "date": "25-11-2025",
+    "meeting_url": {
+        "1256749": "https://raadsinformatie.eindhoven.nl/vergadering/1256749#ai_9798730"
+    },
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/16225591/3/Raadsvoorstel+benoemen+voorzitters+Meningsvormende+vergadering?connection_type=17&connection_id=12588416": "Raadsvoorstel benoemen voorzitters Meningsvormende vergadering"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/16289835/1?connection_type=17&connection_id=12644686",
+    "pdf_text": " \n \n \n  \n   \n \n \n  gemeente Eindhoven  \nRaadsnummer   \nInboeknummer   \nDossiernummer      \n \nRaads voorstel    benoemen voorzitter s van de  Meningsvormende vergadering  \n \nInleiding  \nDe raad dient te voorzien in de benoeming van voorzitters van de \nmeningsvormende vergadering. Deze dienen uit het midden van de raad \nte worden benoemd. Voor het functioneren van de meningsvormende \nvergaderingen is het goed een ruime pool van commissievoorz itters te \nhebben.  \n \n  Onvermijdelijk  \nGevolg van het vaststellen van de Verordening op de \nvoorbereidende bijeenkomst en de meningsvormende \nvergadering gemeente Eindhoven 2024  \n \nDoelstelling  \nBenoemen voorzitters  van de Meningsvormende vergadering .  \n \nVoorstel  \nDe volgende  raadsl eden  te benoemen tot voorzitter  van de \nMeningsvormende vergadering  voor de periode van 2022 - 2026 : \n1. S.T.M. Wittenbols ; \n2. R.H. van Acquoij ; \n3. L.J. Meerhoff . \n \n \nEen ontwerp raadsbesluit bieden wij u hierbij ter vaststelling aan.  \n \nHet fractievoorzittersoverleg .   \n  \n Raadsnummer  \n \n  \n \n \n2  \n \nOntwerp -Raadsbesluit   \n   benoemen voorzitters  Meningsvormende vergadering   \n \nDe raad van de gemeente Eindhoven;  \ngelet op de voordracht en van de raadsfractie s; \ngelet op het bepaalde in de  Verordening op de voorbereidende \nbijeenkomst en de meningsvormende vergadering gemeente Eindhoven \n2024 ; \n \nbesluit:  \n \nDe volgende raadsl eden  te benoemen tot voorzitter van de \nMeningsvormende vergadering  voor de periode van 2022 - 2026:  \n1. S.T.M. Wittenbols ; \n2. R.H. van Acquoij ; \n3. L.J. Meerhoff . \n \nAldus vastgesteld in de openbare vergadering van  25 november 2025.  \n \n \n \n \nJ. Jongbloed , griffier . \n \n \n ",
+    "bst": "",
+    "related": [
+        {
+            "id": 1148273,
+            "weight": 2.1068219723790196
+        },
+        {
+            "id": 1149336,
+            "weight": 0.922309807625283
+        },
+        {
+            "id": 777483,
+            "weight": 0.2684724171266114
+        },
+        {
+            "id": 865499,
+            "weight": 0.1330537920640678
+        },
+        {
+            "id": 1148260,
+            "weight": 0.12313384579840972
+        },
+        {
+            "id": 920174,
+            "weight": 0.10498102860713306
+        },
+        {
+            "id": 904226,
+            "weight": 0.08187826432798932
+        },
+        {
+            "id": 975178,
+            "weight": 0.07745361530269657
+        },
+        {
+            "id": 11875831,
+            "weight": 0.0657211535911914
+        }
+    ],
+    "videostarttime": {
+        "1256749": 2244
+    },
+    "videolink": null,
+    "keywords": {
+        "Meningsvormende vergadering": 1.995172527754383,
+        "Inboeknummer Dossiernummer": 0.9947044353918667,
+        "Dossiernummer Raads": 0.9834848753314703,
+        "gemeente Eindhoven": 0.9791894851823832,
+        "voorzitters Meningsvormende": 1.9787069642477118,
+        "vergadering Inleiding": 0.9755179321448014,
+        "Raadsvoorstel benoeming": 1.955828669915896,
+        "Eindhoven": 0.9483647159651403,
+        "Benoemen voorzitters": 0.9435339570867491,
+        "raad dient": 0.9401359564522711,
+        "benoemen": 0.937168079599423,
+        "Eindhoven Raadsnummer": 0.9293796939311998,
+        "Inboeknummer": 0.9274212887625504,
+        "Inleiding": 0.9274212887625504,
+        "raad": 0.925383048029098,
+        "gemeente": 0.9069854802004629,
+        "voorzitter": 1.8923343681566078,
+        "Doelstelling Benoemen": 0.8897212140639214,
+        "Onvermijdelijk Gevolg": 0.8848003759596107,
+        "Verordening": 0.8383531963431254,
+        "Acquoij": 0.8280666683085169,
+        "ontwerp": 0.7624832869438847,
+        "raadsbesluit": 0.7624832869438847,
+        "dient": 0.7476768311899226,
+        "voorbereidende bijeenkomst": 0.739226834919335,
+        "volgende raadsl": 0.739226834919335,
+        "Wittenbols": 0.7139455573091644,
+        "bijeenkomst": 0.707265532407493,
+        "eden": 0.707265532407493,
+        "periode": 0.707265532407493,
+        "Meerhoff": 0.7013251102928897,
+        "gelet": 0.6873065893982713,
+        "Gevolg": 0.6732701216786648,
+        "Jongbloed": 0.543058924367285
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": "10-04-2026",
+    "meeting_id": []
+}

@@ -1,0 +1,88 @@
+{
+    "module_id": 1047188,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Hoe bereikte de gemeente haar inwoners met belangrijke informatie? (Vraag V2 Vragenhalfuur)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1047188",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "20-05-2025",
+    "meeting_url": {
+        "1256319": "https://raadsinformatie.eindhoven.nl/vergadering/1256319#ai_8588186"
+    },
+    "attachment": null,
+    "parent": "ai_8588186",
+    "children": [],
+    "text": "Wethouder Verhees zegt toe dat gemeentelijke informatie in het vervolg ook in brievenbussen met een ‘Nee-Nee’-sticker zal worden bezorgd. In volgende communicatie richting de inwoners van Vaartbroek zal de correcte informatie worden nagezonden.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 15532910,
+            "weight": 1.2201780478018844
+        },
+        {
+            "id": 15548501,
+            "weight": 1.0709798456913422
+        },
+        {
+            "id": 884778,
+            "weight": 0.4073768380536745
+        },
+        {
+            "id": 1031823,
+            "weight": 0.37782517780632713
+        },
+        {
+            "id": 825926,
+            "weight": 0.2916739439314259
+        },
+        {
+            "id": 860025,
+            "weight": 0.2779998516343712
+        },
+        {
+            "id": 874001,
+            "weight": 0.27201957983131253
+        },
+        {
+            "id": 879025,
+            "weight": 0.2122692466173221
+        }
+    ],
+    "videostarttime": {
+        "1256319": 894
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_20.05.25_01-EINDHOVEN-RAA-ONDERTITEL_2025.05.20_204342.mp4/playlist.m3u8",
+    "keywords": {
+        "Wethouder Verhees": 0.945094065199066,
+        "belangrijke informatie": 1.8778824243677146,
+        "Vraag": 1.85682142913347,
+        "Vragenhalfuur": 1.85682142913347,
+        "Verhees zegt": 0.8567581852019198,
+        "informatie": 1.8311597167109155,
+        "bereikte": 1.7851464755870687,
+        "gemeente": 1.7851464755870687,
+        "belangrijke": 1.7851464755870687,
+        "inwoners": 1.7588811199644256,
+        "Vaartbroek": 0.6647675327187333,
+        "bezorgd": 0.6217924568110772,
+        "nagezonden": 0.5301703332809462,
+        "zegt": 0.5127162979073245,
+        "vervolg": 0.5127162979073245,
+        "brievenbussen": 0.5127162979073245
+    },
+    "svz": null,
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": [
+        1256319
+    ]
+}

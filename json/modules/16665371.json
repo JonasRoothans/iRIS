@@ -1,0 +1,157 @@
+{
+    "module_id": 16665371,
+    "vote_id": null,
+    "member_id": [
+        194371,
+        159102
+    ],
+    "party_list": [
+        "D66"
+    ],
+    "poho_id": [],
+    "title": "Rondvraag 3- Elk stadsdeel goed verbonden D66",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "03-03-2026",
+    "meeting_url": {
+        "1374927": "https://raadsinformatie.eindhoven.nl/vergadering/1374924/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://api.notubiz.nl/document/16665371/1",
+    "pdf_text": "  \n \nRondvraag – Laatste bus: elk stadsdeel goed verbonden!  \n \nSinds januari rijden de bussen in Eindhoven op vrijdag - en \nzaterdagavond een uur langer door.  De laatste bussen vertrekken nu \nrond 1 uur in plaats van rond 0 uur (middernacht).  We juichen deze \nuitbreiding van het OV van harte toe omdat het bijdraagt aan de \nlevendige stad die we willen zijn met de voorzieningen die daarbij \nhoren.   \nHet biedt een betere aansluiting op latere treinen en  na een avondje uit \nkom je nog veilig thuis.  Ook voor mensen die avond - of nachtdiensten \nwerken wordt het OV op deze manier aantrekkelijker.  \n \nToch zien we ook verbetermogelijkheden die we graag meegeven.  We \nzagen dat de stadsdelen Gestel en Tongelre momenteel niet bediend \nworden door de nachtbussen, terwijl er door andere stadsdelen \nmeerdere bussen rijden en soms over grotendeels dezelfde route.  \n \nDaarom hebben we de volgende vragen aan het college:  \n \n1. Is het college het met D66 eens dat alle stadsdelen goed \nbereikbaar moeten zijn met het OV, ook op vrijdag - en \nzaterdagavond?  \n2. Is het college bereid om de latere bediening van Gestel en \nTongelre mee te geven als wens voor het Exploitatieplan OV 2027?  \n3. In Stratum rijden geen late bussen tussen de Aalsterweg en de \nGeldropseweg: best een groot gebied. Is het mogelijk om een van \nde lijnen die hier overdag rijden (lijn 17 of lijn 12) langer door te \nlaten rijden op vrijdag - en zaterdagavond?  \n4. Op welke manier wordt de bekendheid van de laatste bussen \nverbeterd onder reizigers, inwoners en bezoekers?   \n \nEindhoven, 3 maart 2026  \n \nLeden van de raad,   \nAnnelies Becker, Raadslid D66  \nJoost Geertman, Raadslid D66  \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 991683,
+            "weight": 0.38767628932587883
+        },
+        {
+            "id": 925613,
+            "weight": 0.3344521898986515
+        },
+        {
+            "id": 831320,
+            "weight": 0.28947287513247283
+        },
+        {
+            "id": 15038731,
+            "weight": 0.23012681905231303
+        },
+        {
+            "id": 873874,
+            "weight": 0.16475427645644616
+        },
+        {
+            "id": 1126036,
+            "weight": 0.15769745501735435
+        },
+        {
+            "id": 1107289,
+            "weight": 0.1415951921878892
+        },
+        {
+            "id": 1000410,
+            "weight": 0.12482849995636051
+        },
+        {
+            "id": 971444,
+            "weight": 0.12110817888612042
+        },
+        {
+            "id": 936160,
+            "weight": 0.11516996925390686
+        },
+        {
+            "id": 12555993,
+            "weight": 0.07561643208133208
+        },
+        {
+            "id": "a_7593085",
+            "weight": 0.05660449064662391
+        },
+        {
+            "id": 1117271,
+            "weight": 0.05320245843730139
+        },
+        {
+            "id": 817362,
+            "weight": 0.04300126158126836
+        },
+        {
+            "id": "a_7593086",
+            "weight": 0.03915303111404833
+        },
+        {
+            "id": "a_7593089",
+            "weight": 0.03877759444673255
+        },
+        {
+            "id": 940798,
+            "weight": 0.038292244058201946
+        },
+        {
+            "id": "a_7593088",
+            "weight": 0.03681093577123926
+        },
+        {
+            "id": 831978,
+            "weight": 0.03559755640578114
+        }
+    ],
+    "videostarttime": {
+        "1374927": null
+    },
+    "videolink": null,
+    "keywords": {
+        "goed verbonden": 1.9767344910347386,
+        "stadsdeel goed": 1.9737432661486436,
+        "Rondvraag": 1.9714156185707834,
+        "Laatste bus": 0.9530420009081848,
+        "bussen": 0.9065721780007909,
+        "rijden": 0.8966401277503339,
+        "uur": 0.8796384996189941,
+        "goed": 1.8533358667727124,
+        "Raadslid": 0.8364140276996117,
+        "zaterdagavond": 0.8353017408803352,
+        "college": 0.8353017408803352,
+        "bus": 0.8262890968283209,
+        "Gestel": 0.82575140777317,
+        "Tongelre": 0.82575140777317,
+        "Eindhoven": 0.7791492085587027,
+        "Annelies Becker": 0.7732058528076854,
+        "Joost Geertman": 0.7732058528076854,
+        "uur langer": 0.7588415642799207,
+        "latere": 0.7134619777694398,
+        "lijn": 0.7123313101535547,
+        "Stratum rijden": 0.7112915595960889,
+        "manier": 0.702841218077811,
+        "januari rijden": 0.6936479038087897,
+        "Tongelre momenteel": 0.6896532968411025,
+        "bussen rijden": 0.6817523523570506,
+        "Geldropseweg": 0.5872497961595063,
+        "Exploitatieplan": 0.57380712181819,
+        "Leden": 0.5700380007225982,
+        "Becker": 0.5700380007225982,
+        "Joost": 0.5700380007225982,
+        "Stratum": 0.5665062507783879,
+        "Aalsterweg": 0.5665062507783879,
+        "goed bereikbaar": 0.5564444127032602,
+        "januari": 0.5462270101331456,
+        "meerdere bussen": 0.5348548093583585,
+        "middernacht": 0.5190321124026362
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194371,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1374927
+    ]
+}

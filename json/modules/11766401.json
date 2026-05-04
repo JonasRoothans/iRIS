@@ -1,0 +1,126 @@
+{
+    "module_id": 11766401,
+    "vote_id": null,
+    "member_id": [
+        131137
+    ],
+    "party_list": [
+        "PvdA"
+    ],
+    "poho_id": [],
+    "title": "Vraag V4 Vragenhalfuur Energietoeslag mislopen Pensioen aftrekpost (PvdA) def",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "26-08-2022",
+    "meeting_url": {
+        "1013429": "https://raadsinformatie.eindhoven.nl/vergadering/1013429/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://api.notubiz.nl/document/11766401/1",
+    "pdf_text": " \n \n \nVragenhalfuur    \n \nEnergietoeslag mislopen: “pensioen aftrekpost”.     V4 \n \nStijgende energiekosten zijn voor velen een grote uitdaging, zo ook voor \nouderen.  \nDe vastgestelde eenmalige energietoeslag van 800 euro kan veel ouderen \nhelpen. KBO Brabant roept gemeenteraden op in te grijpen nu duizenden \nouderen hun energietoeslag mis dreigen te lopen  omdat ze er geen weet \nvan hebben . Gepensioneerden kunnen in sommige gemeenten gebruik \nmaken van een “pensioen aftrekpost” , dat wil zeggen er een vast bedrag \nin mindering gebracht mag worden bij de bepaling van hun inkomen voor \nde energietoesla g.  \n De toename van ouderen die in aanmerking komen voor de energietoeslag \nt wordt volledig gecompenseerd door het Rijk.  \nNiet alle gemeenten  geven  voorlichting  over de pensioenaftrekpo st en / of \ngebruiken de regeling niet  over waardoor ouderen de toeslag kunnen \nmislopen  \n \nDat brengt ons tot de volgende vragen:  \n \n1) Maakt de gemeente Eindhoven hier gebruik van? Waarom wel/niet?  \n  \n2) Hoe geeft de gemeente Eindhoven voorlichting over deze energietoeslag \n(”pensioen aftrekpost”) zodat meer ouderen er gebruik van kunnen \nmaken?  \n \n3) Om hoeveel ouderen zou het gaan die hiervoor in aanmerking komen?  \n \nEnergietoeslag mislopen - KBO -Brabant  \n \n \nEindhoven,  24-5-2022  \n \nWil van Haalen  Raadslid Eindhoven  PvdA  \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 14534175,
+            "weight": 0.8307920566507631
+        },
+        {
+            "id": 12867053,
+            "weight": 0.28661886782795154
+        },
+        {
+            "id": "a_8420728",
+            "weight": 0.2680852016883079
+        },
+        {
+            "id": 1128790,
+            "weight": 0.2297730051191777
+        },
+        {
+            "id": "a_7038481",
+            "weight": 0.21214698167938165
+        },
+        {
+            "id": 777040,
+            "weight": 0.1776591806349732
+        },
+        {
+            "id": 13989855,
+            "weight": 0.13910527494164387
+        },
+        {
+            "id": 1139114,
+            "weight": 0.12635525637637104
+        },
+        {
+            "id": 785566,
+            "weight": 0.10123286900487002
+        },
+        {
+            "id": 14963289,
+            "weight": 0.0969498835713297
+        },
+        {
+            "id": "m_9908223",
+            "weight": 0.0918910024590949
+        },
+        {
+            "id": 776889,
+            "weight": 0.07857967158439379
+        }
+    ],
+    "videostarttime": {
+        "1013429": 4827
+    },
+    "videolink": null,
+    "keywords": {
+        "Vragenhalfuur Energietoeslag": 1.989000324802762,
+        "def Vragenhalfuur": 0.9878219090717968,
+        "Pensioen aftrekpost": 1.972810460400592,
+        "Energietoeslag": 1.9500120626439785,
+        "ouderen": 0.9262521747777173,
+        "Eindhoven": 0.9168869438707417,
+        "Pensioen": 1.913950751002082,
+        "gemeente Eindhoven": 0.889546268253089,
+        "Stijgende energiekosten": 0.8892155566415277,
+        "mislopen": 1.8747423315693228,
+        "KBO Brabant": 0.8663182383710257,
+        "KBO": 0.8390779545100272,
+        "Vraag": 1.8303584022306625,
+        "gebruik": 0.8237839743287094,
+        "def": 1.8044191633914721,
+        "Stijgende": 0.7996253061281332,
+        "mislopen Pensioen": 1.791609050029498,
+        "aanmerking komen": 0.7689521522002971,
+        "Haalen Raadslid": 0.7648099135923113,
+        "Eindhoven voorlichting": 0.7607541290309927,
+        "PvdA": 1.7423918641151779,
+        "gemeente": 0.727875025420585,
+        "komen": 0.7096460545762056,
+        "grote uitdaging": 0.7048665527538736,
+        "maken": 0.7017255388951938,
+        "Brabant roept": 0.6943669421106058,
+        "Rijk": 0.6619310086701466,
+        "Maakt": 0.6403489457523472,
+        "ouderen helpen": 0.6018553619449161,
+        "gemeenten gebruik": 0.5649289828334876,
+        "Haalen": 0.5636423369903366,
+        "duizenden ouderen": 0.5078398873791663,
+        "velen": 0.5022559017939414,
+        "grote": 0.5022559017939414
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 131137,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1013429
+    ]
+}

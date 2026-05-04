@@ -1,0 +1,125 @@
+{
+    "module_id": 825873,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Raadsvoorstel benoemen commissielid van de fractie D66 als lid in de Meningsvormende vergadering",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/19/Raadsvoorstellen/825873",
+    "type": "Raadsvoorstel",
+    "member": null,
+    "party": null,
+    "poho": "",
+    "result": "Afgerond",
+    "date": "14-03-2023",
+    "meeting_url": {
+        "1013470": "https://raadsinformatie.eindhoven.nl/vergadering/1013470#ai_7446530"
+    },
+    "attachment": {},
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/12510335/1?connection_type=17&connection_id=9169104",
+    "pdf_text": " \n \n \n  \n   \n \n \n  gemeente Eindhoven  \nRaadsnummer   \nInboeknummer   \nDossiernummer      \n \nRaads voorstel    benoemen commissiel id van de fractie  D66 als lid in de \nMeningsvormende vergadering  \n \n \n \n   Raadsbesluit   \n \nDe raad van de gemeente Eindhoven;  \ngelet op de voordracht van de fractie  D66; \ngelet op het bepaalde in de Gemeentewet;  \ngelet op het advies van de Geloofsbrievencommissie;  \ngelet op het bepaalde in de  Verordening op de  voorbereidende \nbijeenkomst en de  meningsvormende vergadering gemeente Eindhoven  \n2022 ; \n \nbesluit:  \n \nOnderstaand commissiel id te benoemen als lid van de \nMeningsvormende Vergadering:  \n \nM.J. O nstenk -Peeters.  \n \nAldus vastgesteld in de openbare vergadering van 14 maart 2023 . \n \n \n \n \nJ. Jongbloed , griffier . \n \n \n ",
+    "bst": "",
+    "related": [
+        {
+            "id": 780932,
+            "weight": 3.6825957834336585
+        },
+        {
+            "id": 780938,
+            "weight": 1.1115807696146702
+        },
+        {
+            "id": 1105348,
+            "weight": 0.3965568927790243
+        },
+        {
+            "id": 927941,
+            "weight": 0.2364545703583987
+        },
+        {
+            "id": 779516,
+            "weight": 0.22114526206001744
+        },
+        {
+            "id": 785769,
+            "weight": 0.22001001373642864
+        },
+        {
+            "id": 773075,
+            "weight": 0.20764261533849318
+        },
+        {
+            "id": 996073,
+            "weight": 0.12293478307378429
+        },
+        {
+            "id": 1115756,
+            "weight": 0.12236583508987108
+        },
+        {
+            "id": 785553,
+            "weight": 0.08621589842392825
+        },
+        {
+            "id": 1022971,
+            "weight": 0.07028176453944467
+        },
+        {
+            "id": 776934,
+            "weight": 0.05694590913565737
+        },
+        {
+            "id": 933762,
+            "weight": 0.05609790651169046
+        }
+    ],
+    "videostarttime": {
+        "1013470": 1253
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_14.03.23_NC_Eindhoven_Raadsvergadering .mp4/playlist.m3u8",
+    "keywords": {
+        "gemeente Eindhoven": 0.9986966242769153,
+        "Meningsvormende vergadering": 1.9984252197095103,
+        "Eindhoven Raadsnummer": 0.9972241775302798,
+        "Raadsnummer Inboeknummer": 0.9961428625574191,
+        "Dossiernummer Raads": 0.9951926752562023,
+        "Onderstaand commissiel": 0.993447174997757,
+        "vergadering gemeente": 0.9923733268690509,
+        "Raads voorstel": 0.98843420325003,
+        "gelet": 0.9858133979062806,
+        "Eindhoven": 0.9851142755230209,
+        "benoemen commissielid": 1.9826557131428904,
+        "voorstel benoemen": 1.9826557131428904,
+        "voorbereidende bijeenkomst": 0.9775637143920463,
+        "fractie": 1.9766007510323198,
+        "lid": 1.97092742087483,
+        "gemeente": 0.97092742087483,
+        "benoemen": 1.9616372360551741,
+        "bepaalde": 0.9486748276979688,
+        "commissiel": 1.943165525665385,
+        "Geloofsbrievencommissie": 0.9427269706786022,
+        "Onderstaand": 0.9427269706786022,
+        "Inboeknummer": 0.9380135732806116,
+        "Raadsbesluit": 0.9380135732806116,
+        "Verordening": 0.9380135732806116,
+        "Raads": 1.9228165714118468,
+        "voordracht": 0.8518651121755059,
+        "advies": 0.8518651121755059,
+        "bijeenkomst": 0.8518651121755059,
+        "Peeters": 0.8384040851381405,
+        "Jongbloed": 0.7648712219008592,
+        "nstenk": 0.6514721618378179,
+        "maart": 0.593452995358103,
+        "griffier": 0.593452995358103,
+        "vastgesteld": 0.5319394927954773,
+        "openbare": 0.5319394927954773
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": "10-04-2026",
+    "meeting_id": []
+}

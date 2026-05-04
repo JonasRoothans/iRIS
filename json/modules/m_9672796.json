@@ -1,0 +1,54 @@
+{
+    "module_id": "m_9672796",
+    "vote_id": 9672796,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "M6 Motie van afkeuring Vaartbroek (Motie M6)",
+    "url": "",
+    "type": "Moties",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "verworpen",
+    "date": "30-09-2025",
+    "meeting_url": {
+        "1256324": "https://raadsinformatie.eindhoven.nl/vergadering/1256324/M6%20Motie%20van%20afkeuring%20Vaartbroek%20%28Motie%20M6%29 30-09-2025#voting_9672796"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 949316,
+            "weight": 0.8949196634794984
+        },
+        {
+            "id": 927079,
+            "weight": 0.8612367958180955
+        },
+        {
+            "id": "r_9724822",
+            "weight": 0.7683611759148613
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "afkeuring Vaartbroek": 1.9872103044540987,
+        "Motie": 1.9611921850747056,
+        "Vaartbroek": 1.935203078295991,
+        "afkeuring": 1.8051113452063998
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1256324
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "module_id": 989920,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 248564,
+    "title": "Terugkoppeling aan raad m.b.t. gereedheid dashboard - Brainport voor Elkaar (Agenderingsverzoek GL, PvdA, D66, CDA)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/989920",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "R. Strijk (Wethouder)",
+    "result": "",
+    "date": "19-11-2024",
+    "meeting_url": {
+        "1148327": "https://raadsinformatie.eindhoven.nl/vergadering/1148327#ai_8760784"
+    },
+    "attachment": null,
+    "parent": 988042,
+    "children": [],
+    "text": "Stadsgezant Van Kessel (wethouder Strijk) zegt toe terug te koppelen aan de raad wanneer het dashboard gereed is om de impact van Brainport voor Elkaar te meten",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 13256785,
+            "weight": 0.18287925263468482
+        },
+        {
+            "id": 776908,
+            "weight": 0.09164188881025033
+        },
+        {
+            "id": 1060207,
+            "weight": 0.08911025640155429
+        },
+        {
+            "id": 884778,
+            "weight": 0.08837177172297123
+        },
+        {
+            "id": 16557242,
+            "weight": 0.08054515628273513
+        },
+        {
+            "id": 936165,
+            "weight": 0.07236376118153416
+        },
+        {
+            "id": 968719,
+            "weight": 0.06927906324472395
+        },
+        {
+            "id": 815797,
+            "weight": 0.05485974887318166
+        }
+    ],
+    "videostarttime": {
+        "1148327": 12597
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_19.11.24_02-EINDHOVEN-CIE-ONDERTITEL_2024.11.19_213451.mp4/playlist.m3u8",
+    "keywords": {
+        "wethouder Strijk": 0.9926806326964088,
+        "gereedheid dashboard": 1.967744750361573,
+        "CDA": 1.965495883351236,
+        "Brainport": 1.9493641832577175,
+        "Elkaar": 1.9493641832577175,
+        "dashboard gereed": 0.9462621835994981,
+        "PvdA": 1.9455015960225102,
+        "Agenderingsverzoek": 1.9367061775338188,
+        "Stadsgezant": 0.9367061775338188,
+        "Kessel": 0.9367061775338188,
+        "Strijk": 0.9367061775338188,
+        "Terugkoppeling": 1.8851991686551282,
+        "gereedheid": 1.8851991686551282,
+        "zegt": 0.8851991686551283,
+        "meten": 0.8851991686551283,
+        "raad": 1.8639062194498532,
+        "terug": 0.8126390090184468,
+        "koppelen": 0.8126390090184468,
+        "impact": 0.8126390090184468
+    },
+    "svz": null,
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

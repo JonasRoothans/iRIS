@@ -1,0 +1,81 @@
+{
+    "module_id": 850813,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": null,
+    "title": "Actieplan MBO - Raadsvoorstel Kadernota 2024",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/850813",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Esselbrugge (Wethouder)",
+    "result": "",
+    "date": "23-05-2023",
+    "meeting_url": {
+        "1096274": "https://raadsinformatie.eindhoven.nl/vergadering/1096274#ai_7491703"
+    },
+    "attachment": null,
+    "parent": 837030,
+    "children": [],
+    "text": "Wethouder Esselbrugge zegt toe:\nen betrekt hierbij grote leveranciers voor stageplekken en bekijkt of hiervoor ook dezelfde middelen als in het jaar 2024 gereserveerd kunnen worden voor de jaren 2025 en 2026.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1140925,
+            "weight": 0.4348072603639815
+        },
+        {
+            "id": 984201,
+            "weight": 0.24093082916564199
+        },
+        {
+            "id": 984310,
+            "weight": 0.23689553586902867
+        },
+        {
+            "id": 945493,
+            "weight": 0.2099071745669151
+        },
+        {
+            "id": 803352,
+            "weight": 0.1528480492901838
+        },
+        {
+            "id": 791582,
+            "weight": 0.13786234233699124
+        }
+    ],
+    "videostarttime": {
+        "1096274": 12343
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_23.05.23_Eindhoven_NC_Meningsvorming.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Kadernota": 1.9974167040275712,
+        "Wethouder Esselbrugge": 0.9964236434514356,
+        "Actieplan MBO": 1.9956521540818533,
+        "Esselbrugge zegt": 0.9909927668647703,
+        "betrekt hierbij": 0.983565881730931,
+        "hierbij grote": 0.983565881730931,
+        "grote leveranciers": 0.983565881730931,
+        "MBO": 1.9492393878155336,
+        "Kadernota": 1.9492393878155336,
+        "Wethouder": 0.9492393878155336,
+        "jaar": 0.914716868009091,
+        "gereserveerd": 0.914716868009091,
+        "jaren": 0.914716868009091,
+        "zegt": 0.8728449576600001,
+        "betrekt": 0.8728449576600001,
+        "grote": 0.8728449576600001,
+        "stageplekken": 0.8728449576600001,
+        "hiervoor": 0.8728449576600001,
+        "middelen": 0.8728449576600001
+    },
+    "svz": null,
+    "afgedaan": "03-10-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

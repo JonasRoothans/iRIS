@@ -1,0 +1,45 @@
+{
+    "module_id": "o_7860120",
+    "vote_id": 7860120,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Ordevoorstel LPF - 6.11 en 6.12 afvoeren",
+    "url": "https://raadsinformatie.eindhoven.nl/vergadering/1013512/Ordevoorstel%20LPF%20-%206.11%20en%206.12%20afvoeren 20-09-2023#voting_7860120",
+    "type": "Ordevoorstel",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "verworpen",
+    "date": "20-09-2023",
+    "meeting_url": {
+        "1013512": "https://raadsinformatie.eindhoven.nl/vergadering/1013512/Ordevoorstel%20LPF%20-%206.11%20en%206.12%20afvoeren 20-09-2023#voting_7860120"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": "o_8290549",
+            "weight": 1.972500784931154
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Ordevoorstel LPF": 1.986202801796007,
+        "afvoeren": 1.9550880231213545,
+        "LPF": 1.9140368224837343
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1013512
+    ]
+}

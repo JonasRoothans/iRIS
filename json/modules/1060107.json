@@ -1,0 +1,114 @@
+{
+    "module_id": 1060107,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230013,
+    "title": "Prioriteit zwemlessen - Raadsvoorstel Concept Programma Stedelijke en Maatschappelijke Voorzieningen",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1060107",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Steenbakkers (Wethouder)",
+    "result": "",
+    "date": "24-06-2025",
+    "meeting_url": {
+        "1256624": "https://raadsinformatie.eindhoven.nl/vergadering/1256624#ai_9382892"
+    },
+    "attachment": null,
+    "parent": 1047216,
+    "children": [],
+    "text": "Wethouder Steenbakkers zegt toe:\nde wens mee te nemen om de prioriteit van zwemlessen te wijzigen van middellange naar korte termijn;",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1060110,
+            "weight": 2.2325745738208203
+        },
+        {
+            "id": 1066501,
+            "weight": 0.529292699130235
+        },
+        {
+            "id": 1062479,
+            "weight": 0.5164466518355052
+        },
+        {
+            "id": "a_9477086",
+            "weight": 0.5147161172093535
+        },
+        {
+            "id": 15747142,
+            "weight": 0.5110403900442664
+        },
+        {
+            "id": 1090018,
+            "weight": 0.25062990683043695
+        },
+        {
+            "id": 1060105,
+            "weight": 0.24705338324790305
+        },
+        {
+            "id": 1052816,
+            "weight": 0.24675042508468853
+        },
+        {
+            "id": "a_9477017",
+            "weight": 0.17674692917888693
+        },
+        {
+            "id": 1090296,
+            "weight": 0.14450526497403166
+        },
+        {
+            "id": "a_8043672",
+            "weight": 0.11728388129721609
+        },
+        {
+            "id": 1121895,
+            "weight": 0.11576580849301624
+        },
+        {
+            "id": 833134,
+            "weight": 0.10923091249921699
+        }
+    ],
+    "videostarttime": {
+        "1256624": 760
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_24.06.25_NC_Eindhoven_Cie.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Concept": 1.9942475723085287,
+        "Concept Programma": 1.9914160609898834,
+        "Programma Stedelijke": 1.9914160609898834,
+        "Maatschappelijke Voorzieningen": 1.9914160609898834,
+        "Voorzieningen Wethouder": 0.9914160609898834,
+        "Wethouder Steenbakkers": 0.9914160609898834,
+        "Steenbakkers zegt": 0.9830130098510689,
+        "korte termijn": 0.9795649447096365,
+        "wens mee": 0.9661075580628975,
+        "Prioriteit zwemlessen": 1.9272144427460336,
+        "Concept": 1.9077455577378462,
+        "Stedelijke": 1.9077455577378462,
+        "Wethouder": 0.9077455577378462,
+        "Prioriteit": 1.869762470025361,
+        "zwemlessen": 1.869762470025361,
+        "zegt": 0.8189436545351538,
+        "wens": 0.8189436545351538,
+        "mee": 0.8189436545351538,
+        "nemen": 0.8189436545351538,
+        "wijzigen": 0.8189436545351538,
+        "middellange": 0.8189436545351538,
+        "korte": 0.8189436545351538
+    },
+    "svz": "Tijdens de raadsvergadering van 1 juli 2025 is dit met een amendement onderdeel van raadsbesluit geworden. Pri...  Lees verder ",
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "02-10-2025",
+    "meeting_id": [
+        1256624
+    ]
+}

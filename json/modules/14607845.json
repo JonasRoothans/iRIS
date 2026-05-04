@@ -1,0 +1,147 @@
+{
+    "module_id": 14607845,
+    "vote_id": null,
+    "member_id": [
+        194402,
+        194373,
+        133670
+    ],
+    "party_list": [
+        "Volt",
+        "GroenLinks",
+        "D66"
+    ],
+    "poho_id": [],
+    "title": "Rondvraag 2 - Hoe fietst de Top 24 van 2024 (Volt, GL, D66 )",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "07-10-2024",
+    "meeting_url": {
+        "1148133": "https://raadsinformatie.eindhoven.nl/vergadering/1148131/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://api.notubiz.nl/document/14607845/1",
+    "pdf_text": " \n \n \n \n \nRondvraag   \nHoe fietst de Top 24 van 2024?  \n \nInleiding  \nEen jaar geleden hebben vele Eindhovenaren, op initiatief van GroenLinks, Volt \nen D66 en in samenwerking met de Fietsersbond, actief meegedacht over \nsnelle verbeteringen om de fietsvriendelijkheid van onze stad te vergroten. Het \nbetrekken van inwoners bij het maken van deze plannen bracht veel positieve \nenergie en waardevolle inzichten naar boven.  \n \nUiteindelijk werden er bijna 200 ideeën ingebracht om het fietsen in Eindhoven \nveiliger en aantrekkelijker te maken.  Als politieke partijen hebben wij daaruit 24 \ninitiatieven geselecteerd die al in 2024 uitgevoerd konden worden.  \n \nDit heeft geleid tot een motie, die is ingediend bij de begroting, met als titel 'De \nTop 24 van 2024'. Hiermee zetten we samen concrete stappen om Eindhoven \nfietsvriendelijker te maken.  \n \nIn deze motie stond dat de raad geïnformeerd zou worden via de P&C -cyclus \nover deze verbeterslag. In TURAP -1 hebben we echter geen update gelezen \nover de uitvoering van onze motie. Vandaar dat we de volgende vragen \nhebben:  \n \nVragen  \n1. Welke plannen uit de top 24 zijn uitgekozen om ook in 2024 tot uitvoering \nte brengen?  \n2. Welke plannen zijn reeds uitgevoerd?  \n3. Welke plannen worden in het laatste kwartaal van 2024 nog uitgevoerd?  \n4. Kan het college reflecteren op de werkwijze om samen met inwoners quick \nwins te identificeren en is het bereid om soortgelijke  participatie \nevenementen zelf te organiseren?  \n \n \nEindhoven, 7-10-2024 \n \n \nDe leden van de raad  en/of commissie , \n \nRobin Brokmann  (Volt)  \nBart Habraken  (Groen Links)  \nChris Dams  (D66)  \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 914011,
+            "weight": 0.3410555672925691
+        },
+        {
+            "id": "a_8286299",
+            "weight": 0.14885121523853245
+        },
+        {
+            "id": 931190,
+            "weight": 0.13375991363482392
+        },
+        {
+            "id": 944432,
+            "weight": 0.13033049408717756
+        },
+        {
+            "id": 986200,
+            "weight": 0.10454258848559954
+        },
+        {
+            "id": 926404,
+            "weight": 0.07434873002708008
+        },
+        {
+            "id": 1141030,
+            "weight": 0.06712314974554326
+        },
+        {
+            "id": 949477,
+            "weight": 0.06710149906208243
+        },
+        {
+            "id": 826622,
+            "weight": 0.06700366213408274
+        },
+        {
+            "id": 1140798,
+            "weight": 0.065182084646036
+        },
+        {
+            "id": 966305,
+            "weight": 0.06343098655242403
+        },
+        {
+            "id": 16588987,
+            "weight": 0.05907507460285433
+        },
+        {
+            "id": "a_8041789",
+            "weight": 0.054910313964330715
+        },
+        {
+            "id": 845544,
+            "weight": 0.052217111692080945
+        }
+    ],
+    "videostarttime": {
+        "1148133": 1366
+    },
+    "videolink": null,
+    "keywords": {
+        "Rondvraag": 1.965802653095056,
+        "Volt": 1.9579159979863012,
+        "Top": 1.9505686534128028,
+        "fietst": 1.9452118246989734,
+        "vele Eindhovenaren": 0.9079489827733958,
+        "Eindhoven": 0.8826992667866054,
+        "plannen": 0.8804380036529877,
+        "maken": 0.8659703685086617,
+        "motie": 0.8280381903238907,
+        "uitgevoerd": 0.815483585704853,
+        "Fietsersbond": 0.8105118167413878,
+        "Robin Brokmann": 0.7769349331614572,
+        "Bart Habraken": 0.7769349331614572,
+        "Groen Links": 0.7769349331614572,
+        "Chris Dams": 0.7769349331614572,
+        "actief meegedacht": 0.7747770192113985,
+        "vragen": 0.7693792215822522,
+        "snelle verbeteringen": 0.7533000886244778,
+        "Eindhoven veiliger": 0.7387649204523232,
+        "raad": 0.7150986389316676,
+        "inwoners": 0.7148424598377361,
+        "uitvoering": 0.7072081879082438,
+        "plannen bracht": 0.6530274150481847,
+        "TURAP": 0.6150105623850521,
+        "positieve energie": 0.5913259975724979,
+        "waardevolle inzichten": 0.5913259975724979,
+        "Inleiding": 0.5867679140376083,
+        "actief": 0.5867679140376083,
+        "vergroten": 0.5867679140376083,
+        "Robin": 0.5729379303916481,
+        "Bart": 0.5729379303916481,
+        "Links": 0.5729379303916481,
+        "Chris": 0.5729379303916481,
+        "Dams": 0.5729379303916481,
+        "jaar": 0.555160306918434,
+        "vele": 0.555160306918434,
+        "initiatief": 0.555160306918434,
+        "samenwerking": 0.555160306918434,
+        "snelle": 0.555160306918434,
+        "fietsvriendelijkheid": 0.555160306918434,
+        "stad": 0.555160306918434,
+        "volgende vragen": 0.5324931980895737,
+        "ideeën ingebracht": 0.5122251266229081
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194373,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1148133
+    ]
+}

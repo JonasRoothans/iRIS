@@ -1,0 +1,109 @@
+{
+    "module_id": 848979,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230024,
+    "title": "Goedkope energie - Toezegging bij rondvraag over module goedkope energie aansluit bij inwoners",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/848979",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Lammers (Wethouder)",
+    "result": "",
+    "date": "16-05-2023",
+    "meeting_url": {
+        "1096270": "https://raadsinformatie.eindhoven.nl/vergadering/1096270#ai_7535492"
+    },
+    "attachment": null,
+    "parent": "ai_7535492",
+    "children": [],
+    "text": "Wethouder Thijs zegt toe dat:\n\nOm na te gaan in hoeverre de ondersteuning van gezondverzekerd.nl met de module ‘goedkope energie’ aansluit bij de behoefte van inwoners",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": "ai_7535492",
+            "weight": 4.252843378022754
+        },
+        {
+            "id": 926416,
+            "weight": 0.5748271664609385
+        },
+        {
+            "id": 12755975,
+            "weight": 0.33253395773717387
+        },
+        {
+            "id": 1098744,
+            "weight": 0.3196613883961825
+        },
+        {
+            "id": 776907,
+            "weight": 0.27015925502471694
+        },
+        {
+            "id": 945940,
+            "weight": 0.1863098252379175
+        },
+        {
+            "id": 984847,
+            "weight": 0.1540385372713228
+        },
+        {
+            "id": 1104264,
+            "weight": 0.14183878316684753
+        },
+        {
+            "id": 974516,
+            "weight": 0.1414392609158212
+        },
+        {
+            "id": 1128291,
+            "weight": 0.13260270918721656
+        },
+        {
+            "id": 1096061,
+            "weight": 0.13006781673544535
+        },
+        {
+            "id": 941339,
+            "weight": 0.11832200767991341
+        },
+        {
+            "id": 16688640,
+            "weight": 0.11693110313562387
+        }
+    ],
+    "videostarttime": {
+        "1096270": 10577
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_16.05.23_NC_EINDHOVEN_CIE.mp4/playlist.m3u8",
+    "keywords": {
+        "Wethouder Thijs": 0.9941800700525073,
+        "Thijs zegt": 0.9886304124500733,
+        "inwoners Wethouder": 0.9843325797527338,
+        "Goedkope energie": 1.9829205839109898,
+        "energie’ aansluit": 0.9761749852530757,
+        "module goedkope": 1.9555705745473528,
+        "Toezegging": 1.9443975485680505,
+        "Thijs": 0.9239325670703765,
+        "energie": 1.9212697942942292,
+        "aansluit": 1.9212697942942292,
+        "module": 1.8986048422953417,
+        "inwoners": 1.8986048422953417,
+        "rondvraag": 1.8522130589653396,
+        "zegt": 0.8522130589653397,
+        "gaan": 0.8522130589653397,
+        "hoeverre": 0.8522130589653397,
+        "ondersteuning": 0.8522130589653397,
+        "gezondverzekerd.nl": 0.8522130589653397,
+        "behoefte": 0.8522130589653397
+    },
+    "svz": "VOORSTEL COLLEGE Afvoeren: afgedaan in collegebrief Stand van zaken 2023 beleidsplan armoede en schulden: een ...  Lees verder ",
+    "afgedaan": "26-03-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

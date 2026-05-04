@@ -1,0 +1,92 @@
+{
+    "module_id": 953056,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Technische informatie - Raadsvoorstel Vaststelling bestemmingsplan \n‘I Achtse Barrier - Heizoom 2015 (Hartje Barrier)’",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/953056",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "18-06-2024",
+    "meeting_url": {
+        "1147967": "https://raadsinformatie.eindhoven.nl/vergadering/1147967#ai_8470396"
+    },
+    "attachment": null,
+    "parent": 942826,
+    "children": [],
+    "text": "Wethouder Verhees zegt toe om de technische informatie over draaicirkels van vrachtwagens te delen",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 953057,
+            "weight": 1.3491307386129403
+        },
+        {
+            "id": 953062,
+            "weight": 1.3481924558818492
+        },
+        {
+            "id": 1094272,
+            "weight": 0.7059909913788742
+        },
+        {
+            "id": 955583,
+            "weight": 0.6199398773907382
+        },
+        {
+            "id": 955584,
+            "weight": 0.617370178293948
+        },
+        {
+            "id": 942826,
+            "weight": 0.5580296735159238
+        },
+        {
+            "id": 993330,
+            "weight": 0.14933344139079435
+        },
+        {
+            "id": 925499,
+            "weight": 0.1487892055822168
+        },
+        {
+            "id": 982801,
+            "weight": 0.13526789945923792
+        }
+    ],
+    "videostarttime": {
+        "1147967": 22248
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_18.06.24_Eindhoven_CIE.mp4/playlist.m3u8",
+    "keywords": {
+        "Hartje Barrier": 1.9952241517176854,
+        "Raadsvoorstel Vaststelling": 1.9940305405218104,
+        "Wethouder Verhees": 0.9940305405218103,
+        "Vaststelling bestemmingsplan": 1.9891255997677657,
+        "Verhees zegt": 0.9821278527973843,
+        "Technische informatie": 1.977873832834832,
+        "Heizoom": 1.965522926648077,
+        "Barrier": 1.962427710970297,
+        "Raadsvoorstel": 1.936746627747451,
+        "Hartje": 1.936746627747451,
+        "Vaststelling": 1.9061862430964,
+        "Achtse": 1.9061862430964,
+        "Technische": 1.8970715650248648,
+        "informatie": 1.8970715650248648,
+        "delen": 0.8853321719593765,
+        "zegt": 0.8128383031389147,
+        "draaicirkels": 0.8128383031389147,
+        "vrachtwagens": 0.8128383031389147
+    },
+    "svz": "De gevraagde info is op maandag 1 juli jl. toegevoegd bij het betreffde agendapunt. Voorstel college; Afvoeren...  Lees verder ",
+    "afgedaan": "03-09-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

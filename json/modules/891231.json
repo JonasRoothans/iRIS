@@ -1,0 +1,148 @@
+{
+    "module_id": 891231,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230014,
+    "title": "Cure - Raadsvoorstel Vaststellen Begroting 2024",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/891231",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "R. Thijs (Wethouder)",
+    "result": "",
+    "date": "31-10-2023",
+    "meeting_url": {
+        "1153547": "https://raadsinformatie.eindhoven.nl/vergadering/1153547#ai_7885375"
+    },
+    "attachment": null,
+    "parent": 879979,
+    "children": [],
+    "text": "Wethouder Thijs zegt toe bij Cure aan te dragen dat er wordt gecommuniceerd richting inwoners hoeveel extra geld de bijzet van afval kosten.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": "a_8569264",
+            "weight": 0.3187658090533201
+        },
+        {
+            "id": 1038657,
+            "weight": 0.1809288930444389
+        },
+        {
+            "id": 966047,
+            "weight": 0.17959076959879722
+        },
+        {
+            "id": 892084,
+            "weight": 0.1518369790436075
+        },
+        {
+            "id": 983073,
+            "weight": 0.1450396456058888
+        },
+        {
+            "id": 945823,
+            "weight": 0.14191084277747926
+        },
+        {
+            "id": 979977,
+            "weight": 0.1358879936278115
+        },
+        {
+            "id": 775126,
+            "weight": 0.0962760168900941
+        },
+        {
+            "id": 851544,
+            "weight": 0.09439377395442916
+        },
+        {
+            "id": 1140798,
+            "weight": 0.09349334261111918
+        },
+        {
+            "id": 979297,
+            "weight": 0.08785539215003366
+        },
+        {
+            "id": 877029,
+            "weight": 0.0795845261892649
+        },
+        {
+            "id": 1034706,
+            "weight": 0.07840965360468555
+        },
+        {
+            "id": 1045906,
+            "weight": 0.07733706067280431
+        },
+        {
+            "id": 1125029,
+            "weight": 0.07558832501031235
+        },
+        {
+            "id": 891237,
+            "weight": 0.07454662632905462
+        },
+        {
+            "id": 955400,
+            "weight": 0.07223644297909444
+        },
+        {
+            "id": 13256903,
+            "weight": 0.0702959171155805
+        },
+        {
+            "id": 12943387,
+            "weight": 0.06669407827928321
+        },
+        {
+            "id": 1133031,
+            "weight": 0.05737954234917246
+        },
+        {
+            "id": 1037784,
+            "weight": 0.05104001640459006
+        },
+        {
+            "id": 984130,
+            "weight": 0.047845566301182973
+        }
+    ],
+    "videostarttime": {
+        "1153547": null
+    },
+    "videolink": null,
+    "keywords": {
+        "Raadsvoorstel Vaststellen": 1.994479650464072,
+        "Vaststellen Begroting": 1.994479650464072,
+        "Wethouder Thijs": 0.9944796504640722,
+        "Thijs zegt": 0.9839367976979435,
+        "afval kosten": 0.9810834768622357,
+        "gecommuniceerd richting": 0.9685575990805156,
+        "richting inwoners": 0.9685575990805156,
+        "inwoners hoeveel": 0.9685575990805156,
+        "hoeveel extra": 0.9685575990805156,
+        "extra geld": 0.9685575990805156,
+        "Begroting": 1.939368310851893,
+        "Cure": 1.9182218572691347,
+        "Thijs": 0.9094525872683864,
+        "kosten": 0.893667175349195,
+        "zegt": 0.8254035696529312,
+        "dragen": 0.8254035696529312,
+        "richting": 0.8254035696529312,
+        "inwoners": 0.8254035696529312,
+        "extra": 0.8254035696529312,
+        "geld": 0.8254035696529312,
+        "bijzet": 0.8254035696529312,
+        "afval": 0.8254035696529312
+    },
+    "svz": "Afgestemd met Cure dat dit meegaat in de reguliere communicatie. Tevens starten binnenkort vanuit Cure de afva...  Lees verder ",
+    "afgedaan": "06-02-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

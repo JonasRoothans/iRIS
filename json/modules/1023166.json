@@ -1,0 +1,101 @@
+{
+    "module_id": 1023166,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230014,
+    "title": "Houdt schade aan de perken binnen de perken (Vraag V1 Vragenhalfuur)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1023166",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "R. Thijs (Wethouder)",
+    "result": "",
+    "date": "25-02-2025",
+    "meeting_url": {
+        "1256316": "https://raadsinformatie.eindhoven.nl/vergadering/1256316#ai_8588150"
+    },
+    "attachment": null,
+    "parent": "ai_8588150",
+    "children": [],
+    "text": "Wethouder Thijs zegt toe te kijken of het wenselijk is op bijvoorbeeld de Kleine Berg hekjes te plaatsen om perken te beschermen. Hiervoor treedt de gemeente in overleg met omwonenden en ondernemers omdat draagvalk in de buurt hiervoor een randvoorwaarde is.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 15190504,
+            "weight": 3.9004854952017345
+        },
+        {
+            "id": 795268,
+            "weight": 0.13295656382556892
+        },
+        {
+            "id": "ai_6963330",
+            "weight": 0.13101600453736947
+        },
+        {
+            "id": 1023028,
+            "weight": 0.06929043391595877
+        },
+        {
+            "id": 1124611,
+            "weight": 0.06883677125476598
+        },
+        {
+            "id": 777000,
+            "weight": 0.055154968716025085
+        },
+        {
+            "id": "a_9608739",
+            "weight": 0.05378770678017822
+        },
+        {
+            "id": 853720,
+            "weight": 0.04589301579347352
+        },
+        {
+            "id": 863560,
+            "weight": 0.04483320221054194
+        }
+    ],
+    "videostarttime": {
+        "1256316": 1180
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/25.02.25 Eindhoven Raad.mp4/playlist.m3u8",
+    "keywords": {
+        "Wethouder Thijs": 0.9962827625135181,
+        "Kleine Berg": 0.9953987416492559,
+        "Thijs zegt": 0.9904860564817445,
+        "Berg hekjes": 0.9904860564817445,
+        "Houdt schade": 1.9849844390083018,
+        "Vraag": 1.9578910419797166,
+        "Vragenhalfuur": 1.9578910419797166,
+        "perken": 1.9551250505719797,
+        "Thijs": 0.9323229452321317,
+        "Berg": 0.9323229452321317,
+        "Houdt": 1.8937663592615652,
+        "beschermen": 0.8937663592615653,
+        "schade": 1.8607462829272148,
+        "zegt": 0.8607462829272147,
+        "kijken": 0.8607462829272147,
+        "wenselijk": 0.8607462829272147,
+        "plaatsen": 0.8607462829272147,
+        "Hiervoor treedt": 0.8450073592557703,
+        "buurt hiervoor": 0.8450073592557703,
+        "treedt": 0.6402535046679925,
+        "gemeente": 0.6402535046679925,
+        "overleg": 0.6402535046679925,
+        "omwonenden": 0.6402535046679925,
+        "ondernemers": 0.6402535046679925,
+        "draagvalk": 0.6402535046679925,
+        "buurt": 0.6402535046679925,
+        "randvoorwaarde": 0.6402535046679925
+    },
+    "svz": "De hekjes worden in de week van 12 mei geplant tegelijk met herstel beplanting nav koningsdag.\nVoorstel colleg...  Lees verder ",
+    "afgedaan": "13-05-2025",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

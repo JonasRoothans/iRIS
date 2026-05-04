@@ -1,0 +1,50 @@
+{
+    "module_id": 777360,
+    "vote_id": null,
+    "member_id": [
+        194495
+    ],
+    "party_list": [
+        "Partij voor de Dieren"
+    ],
+    "poho_id": [],
+    "title": "Beantwoording raadsvragen PvdD (Jonkers) over 'Vervlogen geld'",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/4/Raadsvragen/777360",
+    "type": "Raadsvraag",
+    "member": "Virginia Jonkers",
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "05-07-2022",
+    "meeting_url": null,
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/11771724/1?connection_type=17&connection_id=8591797": "Vraag"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": "22bst01056",
+    "related": [
+        {
+            "id": 777522,
+            "weight": 1.8745532309646276
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Vervlogen geld": 1.986202801796007,
+        "Jonkers": 1.9696036283675864,
+        "Beantwoording raadsvragen": 1.9505961599793435,
+        "raadsvragen PvdD": 1.9505961599793435,
+        "PvdD": 1.8416830712200127,
+        "geld": 1.8416830712200127
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": "02-04-2026",
+    "meeting_id": []
+}

@@ -1,0 +1,86 @@
+{
+    "module_id": 798823,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Wachttijd naturalisatieverzoek nog steeds niet opgelost (Vraag V5 vragenhalfuur)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/798823",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "29-11-2022",
+    "meeting_url": {
+        "1013585": "https://raadsinformatie.eindhoven.nl/vergadering/1013585#ai_6965272"
+    },
+    "attachment": null,
+    "parent": "ai_6965272",
+    "children": [],
+    "text": "Terug te komen op het idee om vrijgekomen plekken in de wachtrij voor naturalisatieverzoeken via een wachtlijst en telefonische meldingen op te vullen, ten einde de totale omvang van de wachtrij te beperken.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 13641064,
+            "weight": 1.9862032664742615
+        },
+        {
+            "id": 783516,
+            "weight": 0.36453809169432577
+        },
+        {
+            "id": 925497,
+            "weight": 0.30058311517807296
+        },
+        {
+            "id": 1090175,
+            "weight": 0.10324486571122592
+        },
+        {
+            "id": 913095,
+            "weight": 0.08723929382900507
+        },
+        {
+            "id": 965983,
+            "weight": 0.0845176929298857
+        },
+        {
+            "id": 955572,
+            "weight": 0.07805139659634182
+        }
+    ],
+    "videostarttime": {
+        "1013585": 1234
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_29.11.22-EINDHOVEN-RAA-ONDERTITEL_2022.11.29_195657.mp4/playlist.m3u8",
+    "keywords": {
+        "Wachttijd naturalisatieverzoek": 1.9890369342799465,
+        "vrijgekomen plekken": 0.983565881730931,
+        "naturalisatieverzoeken via": 0.983565881730931,
+        "telefonische meldingen": 0.983565881730931,
+        "totale omvang": 0.983565881730931,
+        "Vraag": 1.9674274599760304,
+        "vragenhalfuur": 1.95016897440957,
+        "Terug": 0.9492393878155336,
+        "wachtrij": 0.936513479188558,
+        "opgelost": 1.9147168680090911,
+        "vullen": 0.914716868009091,
+        "beperken": 0.914716868009091,
+        "komen": 0.8728449576600001,
+        "idee": 0.8728449576600001,
+        "plekken": 0.8728449576600001,
+        "via": 0.8728449576600001,
+        "meldingen": 0.8728449576600001,
+        "einde": 0.8728449576600001,
+        "totale": 0.8728449576600001,
+        "omvang": 0.8728449576600001
+    },
+    "svz": null,
+    "afgedaan": "18-04-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

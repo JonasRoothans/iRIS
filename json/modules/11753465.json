@@ -1,0 +1,150 @@
+{
+    "module_id": 11753465,
+    "vote_id": null,
+    "member_id": [
+        1
+    ],
+    "party_list": [
+        "D66"
+    ],
+    "poho_id": [],
+    "title": "Rondvraag D66 Uitkoopregeling woonboten",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "24-08-2022",
+    "meeting_url": {
+        "1013427": "https://raadsinformatie.eindhoven.nl/vergadering/1013406/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://api.notubiz.nl/document/11753465/1",
+    "pdf_text": " \n \n \nRondvraag  \nUitkoopregeling woonboten  \n \ndatum:  12 april 2022  \n \n \nGeacht college,  \n \nTijdens de Meningsvormende Vergadering van 22 februari 2022 \nspraken we over de opheffing van de geheimhouding van stukken \nmet betrekking tot de uitkoopregeling van de woonboten bij \nbedrijventerrein De Hurk. De wethouder gaf aan dat hij zo snel als \nmogelijk de stukken openbaar wilde maken, maar dat dit niet zou \nlukken voor de gemeenteraads verkiezingen.  \n \nInmiddels zijn de verkiezingen  alweer bijna een maand voorbij . \nOok hebben we niets meer vernomen sinds de laatste \nvergadering. Daarom wil D66 graag een update van de \nwethouder.  \n \n1. Wat is de status van de uitkoopregeling voor de \nwoonboot bewoners bij bedrijventerrein De Hurk op dit \nmoment?  \n \n2. Op welke termijn verwacht de wethouder dat de \nstukken m.b.t. de uitkoopregeling openbaar kunnen \nworden gemaakt?  \n \nNamens de fractie  D66, \n \nTom Brouwers , raadslid  \n \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 831872,
+            "weight": 0.36973314522688927
+        },
+        {
+            "id": 12804675,
+            "weight": 0.15037903545521644
+        },
+        {
+            "id": 834493,
+            "weight": 0.11993206935874506
+        },
+        {
+            "id": 819068,
+            "weight": 0.08080655182753016
+        },
+        {
+            "id": 991378,
+            "weight": 0.07377281923726516
+        },
+        {
+            "id": 991370,
+            "weight": 0.07157302384075868
+        },
+        {
+            "id": 1054302,
+            "weight": 0.07074147186785261
+        },
+        {
+            "id": 852093,
+            "weight": 0.0660007607190737
+        },
+        {
+            "id": 1133029,
+            "weight": 0.0655343783810977
+        },
+        {
+            "id": 16688640,
+            "weight": 0.06100660123301908
+        },
+        {
+            "id": 1141894,
+            "weight": 0.06062025087760349
+        },
+        {
+            "id": 861814,
+            "weight": 0.058293552724508
+        },
+        {
+            "id": 955064,
+            "weight": 0.05787342136481406
+        },
+        {
+            "id": 937063,
+            "weight": 0.056237765233632844
+        },
+        {
+            "id": 917935,
+            "weight": 0.05565353798151372
+        },
+        {
+            "id": 1072391,
+            "weight": 0.04427547886891492
+        },
+        {
+            "id": 848019,
+            "weight": 0.03886973183685959
+        },
+        {
+            "id": 11753464,
+            "weight": 0.037475014498713766
+        }
+    ],
+    "videostarttime": {
+        "1013427": 1480
+    },
+    "videolink": null,
+    "keywords": {
+        "woonboten Rondvraag": 0.9934744706209352,
+        "Geacht college": 0.9910335386087201,
+        "Uitkoopregeling woonboten": 1.988904240522926,
+        "Meningsvormende Vergadering": 0.9872629707148957,
+        "Rondvraag Uitkoopregeling": 0.9823443374251141,
+        "woonboten": 1.9699765899792747,
+        "Rondvraag": 1.9640101789849402,
+        "Geacht": 0.94053840520341,
+        "stukken": 0.9254057684967676,
+        "Hurk": 0.9006680311244253,
+        "Vergadering": 0.9003180422578221,
+        "stukken openbaar": 0.8974187398704798,
+        "wethouder": 0.8927481170340485,
+        "Tom Brouwers": 0.8639586634053249,
+        "april": 0.8625306234256414,
+        "februari": 0.8625306234256414,
+        "datum": 0.8505459117612779,
+        "college": 0.8505459117612779,
+        "gemeenteraads verkiezingen": 0.8461231391769634,
+        "opheffing": 0.8383292573476011,
+        "geheimhouding": 0.8383292573476011,
+        "betrekking": 0.8383292573476011,
+        "bedrijventerrein": 0.8360417445936839,
+        "verkiezingen": 0.8337688635581587,
+        "openbaar": 0.792125638382364,
+        "Tom": 0.6539503789202044,
+        "maken": 0.6210133342682767,
+        "gaf": 0.5988826163210197,
+        "snel": 0.5988826163210197,
+        "gemeenteraads": 0.5988826163210197,
+        "alweer": 0.5061187836094296,
+        "maand": 0.5061187836094296,
+        "vernomen": 0.5061187836094296,
+        "laatste": 0.5061187836094296
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 1,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1013427
+    ]
+}

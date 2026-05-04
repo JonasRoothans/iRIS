@@ -1,0 +1,79 @@
+{
+    "module_id": "a_9477384",
+    "vote_id": 9477384,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Aangekondigd Amendement JA01A - Eindejaarsuikering (Eindejaarsuitkering voor inwoners met een inkomen tot 130 % van het sociaal minimum (OAHvE)",
+    "url": "",
+    "type": "Amendement",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "verworpen",
+    "date": "01-07-2025",
+    "meeting_url": {
+        "1256322": "https://raadsinformatie.eindhoven.nl/vergadering/1256322/Aangekondigd%20Amendement%20JA01A%20-%20Eindejaarsuikering%20%28Eindejaarsuitkering%20voor%20inwoners%20met%20een%20inkomen%20tot%20130%20%25%20van%20het%20sociaal%20minimum%20%28OAHvE%29 01-07-2025#voting_9477384"
+    },
+    "attachment": null,
+    "parent": 1051065,
+    "children": [],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 791833,
+            "weight": 0.43200066515989327
+        },
+        {
+            "id": 867308,
+            "weight": 0.43155111494282755
+        },
+        {
+            "id": "a_8569261",
+            "weight": 0.20636612105637747
+        },
+        {
+            "id": 819768,
+            "weight": 0.2052741243936174
+        },
+        {
+            "id": 891295,
+            "weight": 0.20306405632417246
+        },
+        {
+            "id": "a_8569264",
+            "weight": 0.19083479025347896
+        },
+        {
+            "id": "a_8569565",
+            "weight": 0.18402409902992167
+        },
+        {
+            "id": 788537,
+            "weight": 0.17609757067135165
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Aangekondigd Amendement": 1.986202801796007,
+        "Eindejaarsuikering": 1.9696036283675864,
+        "OAHvE": 1.9550880231213545,
+        "sociaal minimum": 1.9505961599793435,
+        "Amendement": 1.9140368224837343,
+        "minimum": 1.8416830712200127,
+        "inwoners": 1.702634417439785,
+        "inkomen": 1.702634417439785,
+        "sociaal": 1.702634417439785
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": "02-10-2025",
+    "meeting_id": [
+        1256322
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "module_id": 1021314,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Ervaringen met het meldpunt Signalen - Agenderingsverzoek: Tegengaan van woonoverlast door woningsplitsing en kamerverhuur",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1021314",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "18-02-2025",
+    "meeting_url": {
+        "1256332": "https://raadsinformatie.eindhoven.nl/vergadering/1256332#ai_9027815"
+    },
+    "attachment": null,
+    "parent": "ai_9027815",
+    "children": [],
+    "text": "Wethouder Verhees zegt toe de raad na een half jaar te informeren over de ervaringen met het meldpunt Signalen.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1138538,
+            "weight": 2.090572519598513
+        },
+        {
+            "id": 1021310,
+            "weight": 0.10833233533800489
+        },
+        {
+            "id": 1021307,
+            "weight": 0.10805064663906783
+        },
+        {
+            "id": 1021311,
+            "weight": 0.10734018364501578
+        },
+        {
+            "id": 1021308,
+            "weight": 0.10732620514432026
+        },
+        {
+            "id": 1138532,
+            "weight": 0.10639298583640891
+        },
+        {
+            "id": 1138537,
+            "weight": 0.10636789260449911
+        },
+        {
+            "id": 1138531,
+            "weight": 0.10626726913393124
+        },
+        {
+            "id": 776873,
+            "weight": 0.0736124770442303
+        },
+        {
+            "id": 857695,
+            "weight": 0.07222028527176567
+        },
+        {
+            "id": 983991,
+            "weight": 0.06786144034293104
+        },
+        {
+            "id": 816349,
+            "weight": 0.0675103552367528
+        },
+        {
+            "id": 1140939,
+            "weight": 0.06553434418300427
+        },
+        {
+            "id": 12962388,
+            "weight": 0.04795394859020413
+        },
+        {
+            "id": 775117,
+            "weight": 0.04442242452574112
+        },
+        {
+            "id": 975793,
+            "weight": 0.04373100834478398
+        },
+        {
+            "id": 785745,
+            "weight": 0.04065410578662881
+        }
+    ],
+    "videostarttime": {
+        "1256332": 42
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/18.02.25 Eindhoven Meningsvormend RZ.mp4/playlist.m3u8",
+    "keywords": {
+        "meldpunt Signalen": 1.9963941353500325,
+        "Wethouder Verhees": 0.9910814346458247,
+        "kamerverhuur Wethouder": 0.9820078095172579,
+        "Verhees zegt": 0.9820078095172579,
+        "Signalen": 1.9750076987740846,
+        "Agenderingsverzoek": 1.9654114846155046,
+        "half jaar": 0.9633676254977996,
+        "Tegengaan": 1.936580012774709,
+        "meldpunt": 1.9283770171336205,
+        "Ervaringen": 1.8964340077229784,
+        "woonoverlast": 1.8120163182304414,
+        "woningsplitsing": 1.8120163182304414,
+        "zegt": 0.8120163182304413,
+        "raad": 0.8120163182304413,
+        "half": 0.8120163182304413,
+        "jaar": 0.8120163182304413,
+        "informeren": 0.8120163182304413
+    },
+    "svz": "Conform",
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

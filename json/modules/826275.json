@@ -1,0 +1,144 @@
+{
+    "module_id": 826275,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 231116,
+    "title": "Veilige Steden - Raadsvoorstel Beleidskader veiligheid 2023-2026",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/826275",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "J. Dijsselbloem (Burgemeester)",
+    "result": "",
+    "date": "28-02-2023",
+    "meeting_url": {
+        "1059677": "https://raadsinformatie.eindhoven.nl/vergadering/1059677#ai_7356813"
+    },
+    "attachment": null,
+    "parent": 817517,
+    "children": [],
+    "text": "Burgemeester Dijsselbloem zegt toe:\n\nte onderzoeken of het programma ‘veilige steden’ van toegevoegde waarde kan zijn voor onze aanpak op straatintimidatie.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 826277,
+            "weight": 1.1522618856874858
+        },
+        {
+            "id": 826266,
+            "weight": 0.9707131222790355
+        },
+        {
+            "id": 826271,
+            "weight": 0.9676802468031167
+        },
+        {
+            "id": 826273,
+            "weight": 0.9659258491293508
+        },
+        {
+            "id": 826276,
+            "weight": 0.9656358043505526
+        },
+        {
+            "id": 826265,
+            "weight": 0.964729012064099
+        },
+        {
+            "id": 817517,
+            "weight": 0.8224119428986548
+        },
+        {
+            "id": 921456,
+            "weight": 0.42603501382737685
+        },
+        {
+            "id": 861380,
+            "weight": 0.39572668943218214
+        },
+        {
+            "id": 991306,
+            "weight": 0.3197636346207287
+        },
+        {
+            "id": 865481,
+            "weight": 0.19770815047156381
+        },
+        {
+            "id": 827449,
+            "weight": 0.19624456266900753
+        },
+        {
+            "id": 16451950,
+            "weight": 0.19258543145066442
+        },
+        {
+            "id": 974296,
+            "weight": 0.1882374426622654
+        },
+        {
+            "id": 949479,
+            "weight": 0.15668229384569304
+        },
+        {
+            "id": 1098677,
+            "weight": 0.13183241087554537
+        },
+        {
+            "id": "a_7462821",
+            "weight": 0.13067141223741296
+        },
+        {
+            "id": 797695,
+            "weight": 0.12231219793799693
+        },
+        {
+            "id": "a_7344706",
+            "weight": 0.12157122340766824
+        },
+        {
+            "id": 893837,
+            "weight": 0.09504135070809025
+        },
+        {
+            "id": 15945905,
+            "weight": 0.08452297063758733
+        },
+        {
+            "id": 13540297,
+            "weight": 0.05395610225612282
+        }
+    ],
+    "videostarttime": {
+        "1059677": 9665
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_28.02.23_NC_Eindhoven_Raadsvergadering.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Beleidskader": 1.9944446555520121,
+        "Veilige Steden": 1.9920706528965997,
+        "Burgemeester Dijsselbloem": 0.9916854299960314,
+        "Beleidskader veiligheid": 1.9837989814664825,
+        "2023-2026 Burgemeester": 0.9837989814664826,
+        "Dijsselbloem zegt": 0.9837989814664826,
+        "veiligheid 2023-2026": 1.9681962193601596,
+        "toegevoegde waarde": 0.9681962193601596,
+        "Steden": 1.9391608500592699,
+        "Raadsvoorstel": 1.9391608500592699,
+        "Veilige": 1.935346177604679,
+        "programma": 0.8930274509376158,
+        "straatintimidatie": 0.8930274509376158,
+        "2023-2026": 1.824433837194725,
+        "zegt": 0.8244338371947252,
+        "onderzoeken": 0.8244338371947252,
+        "waarde": 0.8244338371947252,
+        "aanpak": 0.8244338371947252
+    },
+    "svz": "COLLEGE : GRAAG AFVOEREN Is meegenomen in Plan van aanpak Straatintimidatie dat de raad op 18 juli heeft ontva...  Lees verder ",
+    "afgedaan": "12-09-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

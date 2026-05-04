@@ -1,0 +1,66 @@
+{
+    "module_id": 777366,
+    "vote_id": null,
+    "member_id": [
+        194498
+    ],
+    "party_list": [
+        "PvdA"
+    ],
+    "poho_id": [],
+    "title": "Beantwoording raadsvragen PvdA (Karatas) over Gevolgen personeelsgebrek Eindhoven Airport zomervluchten",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/4/Raadsvragen/777366",
+    "type": "Raadsvraag",
+    "member": "Murat Karatas",
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "01-07-2022",
+    "meeting_url": null,
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/11771749/1?connection_type=17&connection_id=8591864": "Vraag"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": "22bst01015",
+    "related": [
+        {
+            "id": 777352,
+            "weight": 0.9512063448315402
+        },
+        {
+            "id": 777403,
+            "weight": 0.9512063448315402
+        },
+        {
+            "id": 877235,
+            "weight": 0.8555483818705228
+        },
+        {
+            "id": 877845,
+            "weight": 0.39537510264224607
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Eindhoven Airport": 1.9785907845614,
+        "Airport zomervluchten": 1.9765416191248102,
+        "Karatas": 1.9696036283675864,
+        "Gevolgen personeelsgebrek": 1.955011371234592,
+        "personeelsgebrek Eindhoven": 1.955011371234592,
+        "Beantwoording raadsvragen": 1.9505961599793435,
+        "raadsvragen PvdA": 1.9505961599793435,
+        "Gevolgen": 1.8552226942577967,
+        "Airport": 1.8552226942577967,
+        "PvdA": 1.8416830712200127
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": "02-04-2026",
+    "meeting_id": []
+}

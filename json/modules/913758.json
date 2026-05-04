@@ -1,0 +1,88 @@
+{
+    "module_id": 913758,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230014,
+    "title": "De Hurk, een vrijbrief voor vervuiling (Vraag V1 vragenhalfuur)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/913758",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "R. Thijs (Wethouder)",
+    "result": "",
+    "date": "23-01-2024",
+    "meeting_url": {
+        "1146938": "https://raadsinformatie.eindhoven.nl/vergadering/1146938#ai_7847331"
+    },
+    "attachment": null,
+    "parent": "ai_7847331",
+    "children": [],
+    "text": "Wethouder Thijs zegt toe de vragen middels een collegebrief te beantwoorden. Hij hoopt dit binnen twee weken te kunnen doen.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 13645065,
+            "weight": 1.2250322197915746
+        },
+        {
+            "id": 13722422,
+            "weight": 1.2235379598984535
+        },
+        {
+            "id": 775242,
+            "weight": 0.6973866158068961
+        },
+        {
+            "id": 787901,
+            "weight": 0.6793198667981948
+        },
+        {
+            "id": 965983,
+            "weight": 0.5200897793272934
+        },
+        {
+            "id": 1111024,
+            "weight": 0.2530057185928175
+        },
+        {
+            "id": 1042043,
+            "weight": 0.2272238385598097
+        },
+        {
+            "id": 1126669,
+            "weight": 0.21251661592600107
+        }
+    ],
+    "videostarttime": {
+        "1146938": 1500
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_23.04.24_NC_EINDHOVEN-RAA-Raadsvergadering .mp4/playlist.m3u8",
+    "keywords": {
+        "Wethouder Thijs": 0.9935642611307579,
+        "Thijs zegt": 0.980154148881414,
+        "Vraag": 1.9637447595933084,
+        "vragen middels": 0.958112533588375,
+        "vragenhalfuur": 1.9410006237031718,
+        "Hurk": 1.934111623307328,
+        "Thijs": 0.9029482086059646,
+        "vervuiling": 1.8763690867947806,
+        "beantwoorden": 0.8763690867947806,
+        "vrijbrief": 1.7994920302806434,
+        "zegt": 0.7994920302806434,
+        "vragen": 1.7994920302806434,
+        "middels": 0.7994920302806434,
+        "collegebrief": 0.7994920302806434,
+        "twee weken": 0.7233149701764251,
+        "hoopt": 0.5344664897230191,
+        "twee": 0.5344664897230191,
+        "weken": 0.5344664897230191
+    },
+    "svz": null,
+    "afgedaan": "05-03-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

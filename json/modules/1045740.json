@@ -1,0 +1,73 @@
+{
+    "module_id": 1045740,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Toegankelijke toiletten in buurthuizen - Raadsvoorstel Kadernota 2026",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1045740",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "13-05-2025",
+    "meeting_url": {
+        "1256605": "https://raadsinformatie.eindhoven.nl/vergadering/1256605#ai_9262973"
+    },
+    "attachment": null,
+    "parent": 1034468,
+    "children": [],
+    "text": "Wethouder Verhees zegt toe een inventarisatie te maken in m.n. gebouwen die eigendom zijn van de gemeente.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 857358,
+            "weight": 0.6064156382292137
+        },
+        {
+            "id": 1131041,
+            "weight": 0.6055082612321373
+        },
+        {
+            "id": 1045938,
+            "weight": 0.6020933996781243
+        },
+        {
+            "id": 1045722,
+            "weight": 0.5226188305125667
+        },
+        {
+            "id": 1010856,
+            "weight": 0.2868399644842293
+        }
+    ],
+    "videostarttime": {
+        "1256605": 13274
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_13.05.25_NC_01-EINDHOVEN-RAA.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Kadernota": 1.9967389880162214,
+        "Wethouder Verhees": 0.9950748962302097,
+        "Verhees zegt": 0.986202801796007,
+        "Toegankelijke toiletten": 1.9846191788281082,
+        "Kadernota": 1.9429876123096683,
+        "buurthuizen": 1.9043195497355658,
+        "gebouwen": 0.9043195497355658,
+        "gemeente": 0.9043195497355658,
+        "toiletten": 1.8416830712200127,
+        "zegt": 0.8416830712200127,
+        "inventarisatie": 0.8416830712200127,
+        "maken": 0.8416830712200127,
+        "eigendom": 0.8416830712200127
+    },
+    "svz": "Dit zal worden meegenomen in de uitwerking van de toezegging die wethouder Toub heeft gedaan ten aanzien van m...  Lees verder ",
+    "afgedaan": "03-06-2025",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": [
+        1256605
+    ]
+}

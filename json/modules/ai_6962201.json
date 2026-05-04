@@ -1,0 +1,47 @@
+{
+    "module_id": "ai_6962201",
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230013,
+    "title": "Toezegging naar aanleiding van de afsprakenlijst",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/moties_en_toezeggingen/785843?parent_event=1013073",
+    "type": "Agenda",
+    "member": null,
+    "party": null,
+    "poho": "S. Steenbakkers (Wethouder)",
+    "result": "",
+    "date": "06-09-2022",
+    "meeting_url": "https://raadsinformatie.eindhoven.nl/vergadering/1013073#ai_6962201",
+    "attachment": null,
+    "parent": null,
+    "children": [
+        785843
+    ],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 12866523,
+            "weight": 0.4300336026028042
+        },
+        {
+            "id": 894409,
+            "weight": 0.42892294559282607
+        }
+    ],
+    "videostarttime": 818,
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/06.09.22 Eindhoven meningsvorming ruw.mp4/playlist.m3u8",
+    "keywords": {
+        "Toezegging": 1.8416830712200127,
+        "afsprakenlijst": 1.8416830712200127,
+        "aanleiding": 1.702634417439785
+    },
+    "svz": "Er heeft een check bij de afsprakenlijsten van alle collegeleden plaatsgehad. Er zijn geen afspraken van de li...  Lees verder ",
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": "30-05-2025",
+    "meeting_id": []
+}

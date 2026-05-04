@@ -1,0 +1,58 @@
+{
+    "module_id": 984490,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Strategische investeringen in wijken - Raadsvoorstel Begroting 2025",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/984490",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "29-10-2024",
+    "meeting_url": {
+        "1148141": "https://raadsinformatie.eindhoven.nl/vergadering/1148141#ai_8729567"
+    },
+    "attachment": null,
+    "parent": 975511,
+    "children": [],
+    "text": "Wethouder Verhees zegt toe dat de raad wordt geïnformeerd over investeringen, ook in die wijken waar geen gebiedsontwikkeling voorzien is. Ze bekijkt of hierin meegenomen kan worden wat dan de aanpak van deze wijken is.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 966045,
+            "weight": 0.1911947113247226
+        }
+    ],
+    "videostarttime": {
+        "1148141": null
+    },
+    "videolink": null,
+    "keywords": {
+        "Raadsvoorstel Begroting": 1.9957954603847083,
+        "Wethouder Verhees": 0.9943547152562603,
+        "Verhees zegt": 0.9828557174554138,
+        "Strategische investeringen": 1.9675614030189346,
+        "gebiedsontwikkeling voorzien": 0.9607717759924957,
+        "Begroting": 1.935293466487512,
+        "investeringen": 1.8824957942192473,
+        "Strategische": 1.8663052285977084,
+        "wijken": 1.8585162238300763,
+        "zegt": 0.8057129488123347,
+        "raad": 0.8057129488123347,
+        "geïnformeerd": 0.8057129488123347,
+        "voorzien": 0.8057129488123347,
+        "bekijkt": 0.5442224479164737,
+        "meegenomen": 0.5442224479164737,
+        "aanpak": 0.5442224479164737
+    },
+    "svz": "Met de doorontwikkeling van de sector Gebieden en Wijken en het integraal gebiedsgericht werken komen alle wij...  Lees verder ",
+    "afgedaan": "03-06-2025",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

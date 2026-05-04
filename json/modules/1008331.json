@@ -1,0 +1,99 @@
+{
+    "module_id": 1008331,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 248564,
+    "title": "Position paper - OV concessie (Agenderingsverzoek 50PLUS, SP, LPF, Volt, FvD en VVD)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1008331",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "R. Strijk (Wethouder)",
+    "result": "",
+    "date": "07-01-2025",
+    "meeting_url": {
+        "1253867": "https://raadsinformatie.eindhoven.nl/vergadering/1253867#ai_8983939"
+    },
+    "attachment": null,
+    "parent": 984902,
+    "children": [],
+    "text": "Wethouder Strijk zegt toe dat er een verwijzing naar VN verdrag wordt opgenomen in het position paper",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1020983,
+            "weight": 0.5928284809343028
+        },
+        {
+            "id": 1008339,
+            "weight": 0.5702939494358263
+        },
+        {
+            "id": 776919,
+            "weight": 0.5085488955342293
+        },
+        {
+            "id": 1009102,
+            "weight": 0.42902517658393025
+        },
+        {
+            "id": 882851,
+            "weight": 0.38830618904065156
+        },
+        {
+            "id": 1149732,
+            "weight": 0.2748342716096619
+        },
+        {
+            "id": 1051400,
+            "weight": 0.2400104311791092
+        },
+        {
+            "id": 984902,
+            "weight": 0.23971134910017236
+        },
+        {
+            "id": 11753467,
+            "weight": 0.13809562152430613
+        },
+        {
+            "id": 864273,
+            "weight": 0.12783478064577372
+        },
+        {
+            "id": 864025,
+            "weight": 0.1107724728053138
+        },
+        {
+            "id": 856465,
+            "weight": 0.10908422247370901
+        }
+    ],
+    "videostarttime": {
+        "1253867": 786
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_07.01.01_EINDHOVEN-CIE.mp4/playlist.m3u8",
+    "keywords": {
+        "Wethouder Strijk": 0.9941758988404281,
+        "Position paper": 1.9916438122204405,
+        "Strijk zegt": 0.9827229906989855,
+        "Agenderingsverzoek": 1.966082135232187,
+        "LPF": 1.966082135232187,
+        "Volt": 1.966082135232187,
+        "paper": 1.9588173251965184,
+        "VVD": 1.9375857016068663,
+        "concessie": 1.8880602594649631,
+        "zegt": 0.8169344778645228,
+        "verwijzing": 0.8169344778645228,
+        "verdrag": 0.8169344778645228,
+        "opgenomen": 0.8169344778645228
+    },
+    "svz": "Conform de verzamelbrief: Uitvoering toezeggingen vanuit portefeuille wethouder Strijk, van 18 februari 2025.&...  Lees verder ",
+    "afgedaan": "18-02-2025",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

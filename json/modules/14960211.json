@@ -1,0 +1,102 @@
+{
+    "module_id": 14960211,
+    "vote_id": null,
+    "member_id": [
+        80968
+    ],
+    "party_list": [
+        "SP"
+    ],
+    "poho_id": [],
+    "title": "Vraag V3 Vragenhalfuur - Verkeersveiligheid Wilgenroosstraat (SP)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "16-12-2024",
+    "meeting_url": {
+        "1148345": "https://raadsinformatie.eindhoven.nl/vergadering/1148345/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/14960211/1/Vraag+V3+Vragenhalfuur+-+Verkeersveiligheid+Wilgenroosstraat+%28SP%29?connection_type=1&connection_id=7855669",
+    "pdf_text": " \n \n \nVragenhalfuur  - Verkeersveiligheid Wilgenroosstraat     V3 \n \nInleiding  \nIn september stelde de SP -fractie schriftelijke vragen over de verkeersveiligheid in \nde Wilgenroosstraat in Stratum. De straat is juridisch gezien en volgens de \nverkeersborden een ‘woonerf’ maar volgens bewoners en de fractie van de SP \nniet passend en veil ig ingericht. Uit het antwoord van het college dd 1 oktober \n2024 blijkt dat het college geen aanleiding ziet om de inrichting van de \nWilgenroosstraat aan te passen. Dit betreurt onze fractie.  \nWij hebben vervolgens aan Veilig Verkeer Nederland (VVN) gevraagd of zij een \nonafhankelijk deskundigenadvies willen uitbrengen over de inrichting van de \nWilgenroosstraat. Een dergelijk advies is vrijblijvend maar VVN vindt het daarbij \nwel belangrijk dat zowel bewoners als B&W open staan voor een onafhankelijk \nadvies van een verkeerskundige van VVN . Het zou immers zonde zijn wanneer \neen dergelijk advies rechtstreeks onderin een la verdwijnt.  \n \nDit leidt tot de volgende  vraag  aan het college:  \n \nIs het college bereid om een (vrijblijvend) advies van VVN over de inrichting \nvan de Wilgenroosstraat serieus te bestuderen en in overweging te \nnemen?  \n \nWij hopen uiteraard op een positief antwoord en zullen in dat geval zo snel \nmogelijk de volgende stappen zetten.  \n \nBij voorbaat dank,  \n \nJannie Visscher, fractie SP.  \n \n \n \n \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 1042173,
+            "weight": 5.024557497548326
+        },
+        {
+            "id": 931190,
+            "weight": 0.29384044685763205
+        },
+        {
+            "id": 861372,
+            "weight": 0.23944194957601514
+        },
+        {
+            "id": 12324736,
+            "weight": 0.23811043241979601
+        },
+        {
+            "id": 12703162,
+            "weight": 0.1680342781044115
+        }
+    ],
+    "videostarttime": {
+        "1148345": 1509
+    },
+    "videolink": null,
+    "keywords": {
+        "Verkeersveiligheid Wilgenroosstraat": 1.9946407874069574,
+        "Vragenhalfuur": 1.9789654483875938,
+        "Wilgenroosstraat": 1.9701603695896748,
+        "september stelde": 0.9649548639520746,
+        "schriftelijke vragen": 0.9649548639520746,
+        "Inleiding": 0.9374004445523276,
+        "Stratum": 0.9374004445523276,
+        "VVN": 0.9361465828439384,
+        "fractie schriftelijke": 0.9326262161906358,
+        "fractie": 0.9142409058829131,
+        "college": 0.904680047615351,
+        "advies": 0.8926932132124521,
+        "inrichting": 0.8842360157019513,
+        "Verkeer Nederland": 0.8779954844465786,
+        "Veilig Verkeer": 0.8703573704197488,
+        "dergelijk advies": 0.8651901402214135,
+        "Jannie Visscher": 0.8279861636215405,
+        "stelde": 0.815993048318632,
+        "vragen": 0.815993048318632,
+        "VVN vindt": 0.8056606453163605,
+        "Vraag": 1.7668997841614449,
+        "bewoners": 0.7668997841614449,
+        "juridisch gezien": 0.7609964134669001,
+        "onafhankelijk": 0.7575190188391141,
+        "antwoord": 0.7440056310691987,
+        "volgende": 0.7391538832270135,
+        "vrijblijvend": 0.7337122113483178,
+        "college bereid": 0.6680275237286742,
+        "Veilig": 0.6612312207586063,
+        "Verkeer": 1.6612312207586064,
+        "advies rechtstreeks": 0.6236344622750397,
+        "Jannie": 0.616897204061073,
+        "woonerf’": 0.5904059792739558,
+        "ingericht": 0.5904059792739558,
+        "onafhankelijk deskundigenadvies": 0.575158226243105,
+        "gezien": 0.5607963635226103,
+        "passend": 0.5607963635226103,
+        "oktober": 0.529561937324815
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 80968,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1148345
+    ]
+}

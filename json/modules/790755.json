@@ -1,0 +1,46 @@
+{
+    "module_id": 790755,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230022,
+    "title": "Onderzoek slavernijverleden",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/790755",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Toub (Wethouder)",
+    "result": "",
+    "date": "01-11-2022",
+    "meeting_url": {
+        "1034744": "https://raadsinformatie.eindhoven.nl/vergadering/1034744#ai_7087609"
+    },
+    "attachment": null,
+    "parent": "ai_7087609",
+    "children": [],
+    "text": "De raad wordt in Q2 2023 geïnformeerd over het onderzoek naar het slavernijverleden.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 859887,
+            "weight": 1.8780906775156665
+        }
+    ],
+    "videostarttime": {
+        "1034744": 17721
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_01.11.22_NC_Eindhoven_Raad.mp4/playlist.m3u8",
+    "keywords": {
+        "Onderzoek slavernijverleden": 1.9072055828205756,
+        "geïnformeerd": 0.878437898907144,
+        "Onderzoek": 1.854299281067293,
+        "raad": 0.8025574551849113
+    },
+    "svz": null,
+    "afgedaan": "12-09-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

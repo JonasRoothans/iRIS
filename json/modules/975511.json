@@ -1,0 +1,420 @@
+{
+    "module_id": 975511,
+    "vote_id": 8824327,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Raadsvoorstel Begroting 2025",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/19/raadsvoorstellen/975511?parent_event=1148141",
+    "type": "Raadsvoorstel",
+    "member": null,
+    "party": null,
+    "poho": "",
+    "result": "aangenomen",
+    "date": "29-10-2024",
+    "meeting_url": {
+        "1148143": "https://raadsinformatie.eindhoven.nl/vergadering/1148143#ai_8727038",
+        "1148140": "https://raadsinformatie.eindhoven.nl/vergadering/1148140#ai_8727039",
+        "1148141": "https://raadsinformatie.eindhoven.nl/vergadering/1148141#ai_8729567",
+        "1148137": "https://raadsinformatie.eindhoven.nl/vergadering/1148137#ai_8692731"
+    },
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/14587521/1/24bst01168+Raadsvoorstel+Begroting+2025?connection_type=17&connection_id=11001121": "Raadsvoorstel Begroting 2025",
+        "http://raadsinformatie.eindhoven.nl/document/14796246/3?connection_type=16&connection_id=975511": " Bijlage 1 - Begroting 2025 (inclusief amendementen) ",
+        "http://raadsinformatie.eindhoven.nl/document/14588135/1?connection_type=16&connection_id=975511": " Planning behandeling Begroting 2025 ",
+        "http://raadsinformatie.eindhoven.nl/document/14638325/1?connection_type=16&connection_id=975511": " Behandeladvies Raadsvoorstel Vaststellen conceptbegroting 2025 definitief ",
+        "http://raadsinformatie.eindhoven.nl/document/14657200/1?connection_type=16&connection_id=975511": " Brief auditcommissie aan raad inzake norm weerstandsvermogen ",
+        "http://raadsinformatie.eindhoven.nl/document/14619608/1?connection_type=16&connection_id=975511": " Totaaloverzicht Technische vragen begroting 2025 ",
+        "http://raadsinformatie.eindhoven.nl/document/14635739/1?connection_type=16&connection_id=975511": " Technische vragen CDA Begroting 2025 ",
+        "http://raadsinformatie.eindhoven.nl/document/14648001/2?connection_type=16&connection_id=975511": " Begroting 2025 - beantwoording technische vragen ",
+        "http://raadsinformatie.eindhoven.nl/document/14648000/1?connection_type=16&connection_id=975511": " Begroting 2025 - bijlage bij vraag 30 - iv3-bbv aanpassing wmo-jeugd ",
+        "http://raadsinformatie.eindhoven.nl/document/14660779/1?connection_type=16&connection_id=975511": " Begroting 2025 - beantwoording aanvullende technische vragen ",
+        "http://raadsinformatie.eindhoven.nl/document/14725158/1?connection_type=16&connection_id=975511": " Beantwoording aanvullende technische vraag 81 - Raadsvoorstel Begroting (CDA) ",
+        "http://raadsinformatie.eindhoven.nl/document/14733495/1?connection_type=16&connection_id=975511": " Totaaloverzicht Begroting 2025 Aangekondigde moties en amendementen meningsvorming 29 oktober 2024 ",
+        "http://raadsinformatie.eindhoven.nl/document/14754314/2?connection_type=16&connection_id=975511": " Totaaloverzicht Begroting 2025 Toezeggingen per portefeuillehouder meningsvorming 29 oktober 2024 AANGEPAST ",
+        "http://raadsinformatie.eindhoven.nl/document/14754305/1?connection_type=16&connection_id=975511": " Beantwoording technische vraag inzake invorderingskosten ",
+        "http://raadsinformatie.eindhoven.nl/document/14755034/1?connection_type=16&connection_id=975511": " Beantwoording technische vraag Begroting 2025 - Budget dierenwelzijn (PvdD) ",
+        "http://raadsinformatie.eindhoven.nl/document/14755035/1?connection_type=16&connection_id=975511": " Beantwoording technische vraag Begroting 2025 - Houtstook (PvdD) ",
+        "http://raadsinformatie.eindhoven.nl/document/14755417/1?connection_type=16&connection_id=975511": " Beantwoording gestelde vragen meningsvorming Begroting 2025 Programma Veilige Wijken "
+    },
+    "parent": null,
+    "children": [
+        983297,
+        984200,
+        984201,
+        984458,
+        984479,
+        984484,
+        983717,
+        984487,
+        982440,
+        984490,
+        984494,
+        984496,
+        984501,
+        983990,
+        983991,
+        984122,
+        984123,
+        983996,
+        984125,
+        984254,
+        983998,
+        983995,
+        984512,
+        984130,
+        984506,
+        984516,
+        984517,
+        984518,
+        984135,
+        984520,
+        984519,
+        984138,
+        984522,
+        984524,
+        984141,
+        984525,
+        984404,
+        984406,
+        984409,
+        984410,
+        984412,
+        983773,
+        985703,
+        984424,
+        983914,
+        984426,
+        984428,
+        985709,
+        984173,
+        984303,
+        984304,
+        983919,
+        984178,
+        983922,
+        984433,
+        984181,
+        984310,
+        984311,
+        984440,
+        984438,
+        984443,
+        984445,
+        984447
+    ],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/14772733/1?connection_type=17&connection_id=11122402",
+    "pdf_text": " \n  \n gemeente Eindhoven  \nInboeknummer        24bst01168  \nDossiernummer       24.40.752  \nB&W b eslisdatum    01 oktober 2025  \n \n \nRaadsvoorstel Vaststellen Begroting 202 5 \n \nInleiding  \nIn het voorjaar hebben wij in de Kadernota onze belangrijkste prioriteiten geschetst voor \nde komende jaren. De ontwikkeling en groei van de regio  is uitdagend en dynamisch. De \nregio is zichtbaar in het internationale krachtenveld  en heeft daarmee een belangrijke \nsleutel voor het toekomstig Nederlands verdienvermogen en de Europese strategische \nautonomie. We bou wen en ontwikkelen in flink tempo. Eindhoven transformeert, verdicht, \nvergroent en internationaliseert. We zetten ons vol in om deze ontwikkeling in goede \nbanen te leiden. Naast de Brainportdeal  is operatie Beethoven hier een flinke aanjager \nvoor. Dit vergt de komende jaren alle focus op de uitvoering.  \n \nWettelijke taak   \nConform het Besluit Begroting en Verantwoording (BBV) stelt de raad de \nbegroting voorafgaand aan het begrotingsjaar vast. Conform de gemeentewet \nwordt de begroting voor 15 november bij gedeputeerde staten gedeponeerd.  \n \nDoelstelling  \nIn de begroting vertalen we de maatschappelijke effecten die we willen  bereiken in \ndoelen en prestaties . Hierbij worden de wensen en middelen zodanig op elkaar \nafgestemd dat er sprake is  van een structureel sluitende meerjarenbegroting.  \n \nVoorstel  \n1. De Begroting 2025  met een totale omvang van 1, 257 miljard vast te stellen, waarbij de \nlasten als volgt verdeeld zijn over de programma’s:  \n 1. Klimaat en weer  110 miljoen  \n 2a. Ondernemende stad  23 miljoen  \n 2b. Onderwijs  57 miljoen  \n 2c. Sociale stad  571 miljoen  \n 3a. Woningbouw en fijne wijken  94 miljoen  \n 3b. Bereikbaarheid  71 miljoen  \n 4. Veilige wijken  45 miljoen  \n 5. Levendige stad  97 miljoen  \n 6. Organisatie  146 miljoen  \n Storting reserves 43 miljoen  \n2. De structurele gevolgen van nieuwe begrotingswijzigingen te verwerken in de \nmeerjarenbegroting.  \n  \n Inboeknummer 24bst01168  \n \n 2 \n3. De reserve  Masterplan mobiliteit  in te stellen:  \n- Doel: realisatie van het Masterplan mobiliteit  \n- Type reserve : bestemmingsreserve met bestedingsfunctie  \n- Mandaat : college van B&W  \n- Voeding:  Voeding vindt plaats op realisatiebasis. Voedingsbronnen zijn: onbenutte \nkapitaallasten mobiliteit, erfpacht parkeergarages  en conform het bestuursakkoord \n‘Samen Morgen Mooier Maken’ in redelijkheid de meeropbrengsten a.g.v. \nuitbreiding betaald parkeren  en hogere parkeertarieven . \n- Onttrekking : De reserve wordt ingezet ter dekking van de actiepakketten van het \nMasterplan mobiliteit.  \n- Maximum hoogte van de reserve:  25 miljoen  \n- Minimum  hoogte van de reserve:  0 \n- Looptijd:  31-12-2034  \n4a. De kredieten voor investeringen vast te stellen  (2025: volume 236 miljoen netto)  \n4b. In te stemmen met de onttrekking van 2 6,5 miljoen uit de reserve Strategische \ninvesteringen en het college te mandateren om de bijbehorende \nbegrotingswijzigingen vast te stellen.  \n5.  De norm voor het weerstandsvermogen te maximeren op 110 miljoen  \n \nArgumenten  \n1. Door de begroting vast te stellen kunnen we in 2025  aan de slag met onze \nvoornemens  \nCentraal staat balans en aandacht voor alle aspecten die de brede welvaart van onze \ninwoners bepalen. We koesteren Eindhoven als een aangename en diverse stad waar \nhet fijn wonen, leven en werken is. We zien dat de druk hierop toeneemt, maar we \nhebben er v ertrouwen in dat we de ontwikkeling van de stad in goede banen kunnen \nleiden. En daar hebben we voldoende aanleiding voor. Het rijk heeft na de \nBrainportdeal ( €1,6 miljard) nu met de Beethovendeal €2,5 miljard) een meer dan \nbetekenisvol signaal afgegeven d at zij een gezonde ontwikkeling van de regio \nEindhoven ook een zaak van nationaal belang vindt.  \n \n2. We willen de begroting actueel houden  \nIn 202 4 zullen er nog begrotingswijzigingen komen met een effect naar 2025  en verder.  \nDeze effecten verwerken we begin 2025  in de 1e update  van de begroting.  \n \n3. De reserve Masterplan mobiliteit  dient ter dekking van de toekomstige kosten van de \nactiepakketten.  \nAfspraak in het bestuursakkoord is dat de meer opbrengsten  parkeren in redelijkheid \nworden ingezet voor de mobiliteitsopgave. In deze begroting verhogen we de \nparkeertarieven. Vanuit die inkomsten investeren we (naast  de 1, 75 miljoen uit \nkadernota) nu 0,75 miljoen structureel voor actiepakket II (2027 -2030). Daarnaast \nsparen we -op realisatiebasis - eventuele meeropbrengsten via de nieuwe reserve die \nwe nu instellen . \n   \n Inboeknummer 24bst01168  \n \n 3 \n4. De raad stelt bij de begroting de kredieten voor investeringen vast  \nIn de financiele verordening zijn onder meer de spelregels omtrent kredieten en \ninvesteringen vastgelegd . Met het vaststellen van de begroting autoriseert de raad de \nkredieten voor investeringen. Voor 202 5 is het investeringsvolume  in totaal netto 236 \nmiljoen (bruto 2 66 miljoen minus 30 miljoen bijdragen van derden). De bijbehorende \nkapitaallasten zijn in de begroting vewerkt. Binnen de financiele spelregels kunnen we \nhier direct mee aan de slag. De raad autoriseert met de begroting ook de onttrekking \nuit de reserve Strategische investeringen (RSI).  Via deze reserve kunnen we adequaat \ninspelen op verschillende plannen . Door het college te mandateren de \nbegrotingswijziging vast te stellen (via het actualisatiedossier ) ontstaat de nodige \nuitvoeringskracht. In paragraaf 3i van de begroting word en de kredieten, investeringen \nen ontrekkingen aan RSI nader toegelicht .  \n \n5. Een maximum voor het weerstandsvermogen van 110 miljoen is voldoende voor de \nonderliggende risico’s  \nDe huidige norm voor het weerstandsvermogen is 10% van het begrotingstotaal (excl. \nmutatie reserves). Voor 2025 zou de norm daarmee uitkomen op 120 miljoen. De \nonderliggende risico’s tellen op tot 110 miljoen (wat tevens de norm is voor 2024).  \nUit een eerste benchmark met de G10 , die besproken is met de auditcommissie, blijkt \ndat de norm in Eindhove n aan de bovenkant  ligt. Het verder laten oplopen van de norm \nvia het begrotingstotaal is daarom niet noodzakelijk.  \n \nFinanciele consequenties  \nNa vaststellen van de Kadern ota 2025 is het gemee ntefonds geactualiseerd ; de oploop \nvan de opschalingskorting is geschrapt  en we voegen de maximaal toegestane ruimte \nonder het BCF -plafond toe. Conform het masterplan mobiliteit wordt het parkeerareaal \nuitgebreid en gaan de parkeertarieven ingroeien naar B5/G5 niveau ’s. In deze \nbegroting  betekent dat een verhoging van de tarieven van 5% (bovenop  de reguliere \nindex van 3,5%). De verwachte meeropbrengst zetten we in op zowel de ingeschatte \nstructurele kapitaal lasten die voorvloeien uit het convenant Beethoven als de \nstrategische investeringen die hier geen onderde el van uit maken. Voor  de organisatie \nzetten we de serieel -incidentel e dekking van de span of attention om naar structureel . \nOok gaan er middelen naar enkele (kleinere) knelpunten. In de jaarschijf 2025 is er \ndaarnaast voor 11,8 miljoen ruimte voor incidentele intensiveringen . Dit zetten we apart \nvoor versterking van het design ecosysteem  en tegenvallers op het gebied van \nBeschermd wonen en Wmo. We zetten 3 miljoe n apart voor onzekerheden rijksbeleid. \nTenslotte maken we i n 2026 middelen  vrij voor voortzetting van vluchtelingenopvang .  \n \nConform onze spelregels zijn het eerste en laatste jaar van de begroting sluitend. De \nsaldo’s in de tussenliggende jaren b etrekken we in de komende kadernota ’s en zetten \nwe nu niet in . Onderstaande tabel geeft het overzicht op hoofdlijnen , dat meer in detail \nis uitgewerkt in paragraaf 4.3 va n de begroting.  \n  \n Inboeknummer 24bst01168  \n \n 4 \nx 1 m iljoen  2025  2026  2027  2028  \nGemeentefonds meicirculaire  -2,3 16,4 10,9 10,0 \nParkeerinkomsten  2,7 2,8 2,9 3,3 \nOverige (technische) actualisaties  24,3 -5,1 2,4 -0,4 \nTotaal beschikbare middelen  24,7 14,2 16,2 12,9 \nBeethoven (2025: voorbereidingskosten)  -5,0 -5,0 -5,0 -5,0 \nKlimaat, Mobiliteit, Wijken en Levendige stad  -2,0 -2,0 -2,0 -2,0 \nSpan of attention (van serieel incidenteel naar structureel)  -4,6 -4,6 -4,6 -4,6 \nRaad , Woo, cameratoezicht, urgentieregeling, taakstelling  -1,3 -1,3 -1,3 -1,3 \nDesign ecosysteem  -2,5       \nBeschermd wonen, Wmo, 2026: voortzetting LVV -6,3 -0,7     \nOnzekerheden rijk sbeleid  -3,0    \nSaldo Begroting 2025  0,0 0,5 3,3 0,0 \n \nKanttekeningen  \nDe financi ële positie van de gemeente blijft in beweging . Het effect van de \nseptembercirculaire gemeentefonds en het voorlopig BUIG budget  volgt later en \nnemen we niet mee in de begroting. Zoals gebruikelijk informeren we u r ichting de \nbegrotingsbehandeling  hierover . Bij een significante afwijking volgt een nadere \ntoelichting met een gewijzigd raadsbesluit.  \n \nCommunicatie  \nDe Begroting 2025  wordt digitaal ter beschikking gesteld via de website \nhttps://eindhoven.begroting -2025 .nl/ \n \nPlanning en uitvoering  \nBijeenkomst technische vragen  (Broodje Begroting ) 8  oktober 202 4 \nIndienen restant t echnische vragen  9  oktober 202 4 \nTechnische vragen schriftelijke beantwoording  16 oktober 202 4 \nMeningsvorming begroting  29 oktober 2024 \nRaad begroting  5  november 202 4 \n \nSamen m et de auditcommissie wordt de ambitie uitgesproken om  de jaarrekening en \nde kadernota in de juiste volgorde te behandelen  vanaf Jaarrekening 2026 en \nKadernota 2028.  Voor komend e jaren handhaven we -mede i.v.m. de implemen tatie \nvan een nieuw financieel systeem en de omvang van het aantal zorgaanbieders -  \nhet huidige scenario , waarbij de kadernota voor de jaarrekening wordt behandel d. \n \nBijlage(n)  \nAls bijlage(n) bij dit voorstel behoren:  \n1. Begroting 2025   \n Inboeknummer 24bst01168  \n \n 5 \n \nEen ontwerpraadsbesluit bieden wij u hierbij ter vaststelling aan.  \n \nBurgemeester en wethouders van Eindhoven,  \n \n \n \n \n, secretaris.    \n Inboeknummer 24bst01168  \n \n 6 \nOntwerp Raadsbesluit  \n \nDe raad van de gemeente Eindhoven;  \ngezien het voorstel van burgemeester en wethouders van 26 september 2023 ; \n \nbesluit:   \n \n1. De Begroting 2025 met een totale omvang van 1,25 7 miljard vast te stellen, waarbij de \nlasten als volgt verdeeld zijn over de programma’s:  \n 1. Klimaat en weer 110 miljoen  \n 2a. Ondernemende stad 23 miljoen  \n 2b. Onderwijs 57 miljoen  \n 2c. Sociale stad 5 71 miljoen  \n 3a. Woningbouw en fijne wijken 94 miljoen  \n 3b. Bereikbaarheid 71 miljoen  \n 4. Veilige wijken 45 miljoen  \n 5. Levendige stad 9 7 miljoen  \n 6. Organisatie 146 miljoen  \n Storting reserves 43 miljoen  \n2. De structurele gevolgen van nieuwe begrotingswijzigingen te verwerken in de \nmeerjarenbegroting . \n3. De reserve Masterplan mobiliteit in te stellen:  \n- Doel: realisatie van het Masterplan mobiliteit  \n- Type reserve : bestemmingsreserve met bestedingsfunctie  \n- Mandaat : college van B&W  \n- Voeding:  Voeding vindt plaats op realisatiebasis. Voedingsbronnen zijn: onbenutte \nkapitaallasten mobiliteit, erfpacht parkeergarages en conform het bestuursakkoord \n‘Samen Morgen Mooier Maken’ in redelijkheid de meeropbrengsten a.g.v. \nuitbreiding betaald parkeren en hogere parkeertarieven.  \n- Onttrekking : De reserve wordt ingezet ter dekking van de actiepakketten van het \nMasterplan mobiliteit.  \n- Maximum hoogte van de reserve:  25 miljoen  \n- Minimum  hoogte van de reserve:  0 \n- Looptijd:  31-12-2034  \n4a. De kredieten voor investeringen vast te stellen (2025: volume 236 miljoen netto)  \n4b. In te stemmen met de onttrekking van 26,5 miljoen uit de reserve Strategische \ninvesteringen en het college te mandateren om de bijbehorende \nbegrotingswijzigingen vast te stellen.  \n5. De norm voor het weerstandsvermogen te maximeren op 110 miljoen  \n \nAldus vastgesteld in de openbare vergadering van  \n \n \n, griffier.  ",
+    "bst": "24bst01168",
+    "related": [
+        {
+            "id": 1087621,
+            "weight": 1.7103998662745055
+        },
+        {
+            "id": 879979,
+            "weight": 1.209552037894071
+        },
+        {
+            "id": 945997,
+            "weight": 0.4159993506084528
+        },
+        {
+            "id": 997013,
+            "weight": 0.35249638677918693
+        },
+        {
+            "id": 933747,
+            "weight": 0.2785930447071282
+        },
+        {
+            "id": 792350,
+            "weight": 0.2512246486024956
+        },
+        {
+            "id": 1085088,
+            "weight": 0.233116242466194
+        },
+        {
+            "id": 985312,
+            "weight": 0.23124956726654824
+        },
+        {
+            "id": 899212,
+            "weight": 0.21725036321782693
+        },
+        {
+            "id": 925506,
+            "weight": 0.19307886753494846
+        },
+        {
+            "id": 783516,
+            "weight": 0.19287412649946
+        },
+        {
+            "id": 960621,
+            "weight": 0.1819200691122744
+        },
+        {
+            "id": 1096902,
+            "weight": 0.18166656569789139
+        },
+        {
+            "id": 906466,
+            "weight": 0.18020056285083583
+        },
+        {
+            "id": 985340,
+            "weight": 0.18013856352381566
+        },
+        {
+            "id": 966365,
+            "weight": 0.1640856106780687
+        },
+        {
+            "id": 787684,
+            "weight": 0.1580985493769385
+        },
+        {
+            "id": 853720,
+            "weight": 0.15806438857097505
+        },
+        {
+            "id": 892495,
+            "weight": 0.15698837025873835
+        },
+        {
+            "id": 977747,
+            "weight": 0.15698829092650377
+        },
+        {
+            "id": 956440,
+            "weight": 0.1561674020305239
+        },
+        {
+            "id": 939062,
+            "weight": 0.15568118126912872
+        },
+        {
+            "id": 836579,
+            "weight": 0.15559445472072236
+        },
+        {
+            "id": 1034728,
+            "weight": 0.15521384577320513
+        },
+        {
+            "id": 1049621,
+            "weight": 0.15144564629317186
+        },
+        {
+            "id": 1125914,
+            "weight": 0.1498303369430135
+        },
+        {
+            "id": 937933,
+            "weight": 0.14244254847643273
+        },
+        {
+            "id": 1148686,
+            "weight": 0.09933737418295298
+        },
+        {
+            "id": 1043848,
+            "weight": 0.09575301983292787
+        },
+        {
+            "id": 1034468,
+            "weight": 0.09404603723322266
+        },
+        {
+            "id": 979311,
+            "weight": 0.08268365621834739
+        },
+        {
+            "id": 950248,
+            "weight": 0.07953010707538473
+        },
+        {
+            "id": 832852,
+            "weight": 0.07670069782353799
+        },
+        {
+            "id": 993565,
+            "weight": 0.07573857878359655
+        },
+        {
+            "id": 888337,
+            "weight": 0.07567684676096029
+        },
+        {
+            "id": 1148692,
+            "weight": 0.07548758325556124
+        },
+        {
+            "id": 865473,
+            "weight": 0.07420460255410229
+        },
+        {
+            "id": 820486,
+            "weight": 0.07232051448590877
+        },
+        {
+            "id": 882823,
+            "weight": 0.06509521401092166
+        },
+        {
+            "id": "a_9414495",
+            "weight": 0.06338461331483128
+        },
+        {
+            "id": 878028,
+            "weight": 0.06130250819620066
+        },
+        {
+            "id": 1009564,
+            "weight": 0.060969339177346295
+        },
+        {
+            "id": 922965,
+            "weight": 0.05802272315076697
+        },
+        {
+            "id": 788083,
+            "weight": 0.05525198662592613
+        },
+        {
+            "id": "a_7151310",
+            "weight": 0.053753193109268224
+        },
+        {
+            "id": 1112893,
+            "weight": 0.05081847674948279
+        },
+        {
+            "id": 1052631,
+            "weight": 0.04890286342984618
+        },
+        {
+            "id": 892411,
+            "weight": 0.047575670241131865
+        }
+    ],
+    "videostarttime": {
+        "1148140": null,
+        "1148143": 22763,
+        "1148141": null,
+        "1148137": 9623
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_05.11.24_NC_Eindhoven.mp4/playlist.m3u8",
+    "keywords": {
+        "miljoen": 0.9948571987295038,
+        "Begroting": 1.9924330963286052,
+        "Masterplan mobiliteit": 0.9868550815754416,
+        "Raadsvoorstel Begroting": 1.9823039361744932,
+        "reserve": 0.9822720588209665,
+        "reserve Masterplan": 0.973876884189921,
+        "mobiliteit": 0.9662378663555421,
+        "vast": 0.9608088759802036,
+        "stellen": 0.9595864292780172,
+        "investeringen": 0.9593449847865085,
+        "reserve Strategische": 0.9590334786885524,
+        "Strategische investeringen": 0.9534851378474197,
+        "stad": 0.95213713070248,
+        "miljoen Storting": 0.9517819152583263,
+        "Eindhoven": 0.9482544272072624,
+        "raad": 0.9423379897571904,
+        "Inboeknummer": 0.9369259441368504,
+        "Conform": 0.9318573246561949,
+        "Inleiding": 0.9282085736226723,
+        "Kadernota": 0.9271822275295679,
+        "Storting reserves": 0.9245536456612762,
+        "Onttrekking": 0.9137778802722925,
+        "kredieten": 0.9134824815674581,
+        "zetten": 0.9106898144612241,
+        "belangrijkste prioriteiten": 0.9015116746782936,
+        "prioriteiten geschetst": 0.9015116746782936,
+        "miljoen Argumenten": 0.8935789938649389,
+        "Levendige stad": 0.8930059203015124,
+        "oktober": 0.8928118415186044,
+        "begrotingswijzigingen": 0.8891770545355513,
+        "college": 0.8881080568134774,
+        "via": 0.8841681431953186,
+        "Samen Morgen": 0.8824057958881661,
+        "gemeente Eindhoven": 0.864018983027302,
+        "Samen": 0.863418973414638,
+        "Morgen Mooier": 0.8622900383931472,
+        "Mooier Maken’": 0.8622900383931472,
+        "regio": 0.8591907252218611,
+        "miljard vast": 0.8474939742769887,
+        "weerstandsvermogen": 0.845365933216385,
+        "parkeertarieven": 0.8447754474469087,
+        "Voeding vindt": 0.8447621618825644,
+        "hoogte": 0.8441710298507716,
+        "Maximum": 0.8437446419524062,
+        "structureel": 0.8435179170331334,
+        "volgt": 0.8418711435904822,
+        "middelen": 0.8408678861124543,
+        "begroting autoriseert": 0.8164162241472559,
+        "Klimaat": 0.8143144752336762,
+        "komende": 0.8127488603966402,
+        "technische": 0.8104953838996719,
+        "jaarrekening": 0.8097335081102034,
+        "Minimum hoogte": 0.7968213471156312,
+        "Brainportdeal": 0.790874556919493,
+        "meerjarenbegroting": 0.7869635964111521,
+        "realisatiebasis": 0.7782645911101118,
+        "vindt": 0.7782412946252718,
+        "actiepakketten": 0.7780846428271313,
+        "redelijkheid": 0.7771737613481915,
+        "verwerken": 0.7768822370736458,
+        "netto": 0.7765429080804447,
+        "bestuursakkoord": 0.7761172352994935,
+        "ingezet": 0.7761172352994935,
+        "bijbehorende": 0.775176931007339,
+        "nieuwe": 0.7750718318670367,
+        "mandateren": 0.7743182520814609,
+        "kapitaallasten": 0.7741302888959654,
+        "meeropbrengsten": 0.7740331463802244,
+        "financiele": 0.7733187357676761,
+        "waarbij": 0.7725042538629617,
+        "spelregels": 0.7717842275496276,
+        "lasten": 0.7711176991727628,
+        "gemeente": 0.7704441164825979,
+        "omvang": 0.7704216745680972,
+        "Doel": 0.7703664962605337,
+        "Mandaat": 0.7703664962605337,
+        "wonen": 0.7696878447255454,
+        "Looptijd": 0.7693832939535228,
+        "Type": 0.7692048447546436,
+        "Organisatie": 0.7688866431778971,
+        "RSI": 0.7679498583249633,
+        "Morgen": 0.7676508530277907,
+        "Mooier": 0.7676508530277907,
+        "Maken’": 0.7676508530277907,
+        "Voorstel": 0.7672264141877736,
+        "vragen": 0.7661461276909756,
+        "Wmo": 0.7650996137037421,
+        "Beschermd": 0.7639540197372219,
+        "nieuwe reserve": 0.7632936043263717,
+        "Ondernemende stad": 0.7611750524097343,
+        "Sociale stad": 0.7604535049280793,
+        "toekomstig Nederlands": 0.760020048905821,
+        "Nederlands": 0.7169767727630061,
+        "Europese": 0.7169767727630061,
+        "Besluit": 0.7161236272473914,
+        "totaal": 0.7093347568092627,
+        "span": 0.7080568860467864,
+        "design": 0.7078922707440642,
+        "onzekerheden": 0.7064877002335868,
+        "saldo": 0.7061682380228846
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": "10-04-2026",
+    "meeting_id": [
+        1148143
+    ]
+}

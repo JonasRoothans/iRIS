@@ -1,0 +1,74 @@
+{
+    "module_id": 826533,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230019,
+    "title": "OZB - Rondvraag Ons huis jouw OZB-aanslag (D66)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/826533",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. van Lanschot (Wethouder)",
+    "result": "",
+    "date": "07-03-2023",
+    "meeting_url": {
+        "1079006": "https://raadsinformatie.eindhoven.nl/vergadering/1079006#ai_7365033"
+    },
+    "attachment": null,
+    "parent": "ai_7365033",
+    "children": [],
+    "text": "Wethouder van Lanschot zegt toe dat binnen de VNG aan te kaarten dat de OZB-aanslag niet aan beide huizenbezitters kan worden geadresseerd en dat dit wel wenselijk is.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": "ai_7365033",
+            "weight": 1.763119853416964
+        },
+        {
+            "id": 12482207,
+            "weight": 0.7021404965567875
+        },
+        {
+            "id": 927025,
+            "weight": 0.15428421674911424
+        },
+        {
+            "id": 15018133,
+            "weight": 0.1476572841129598
+        },
+        {
+            "id": 850170,
+            "weight": 0.14564632568751623
+        },
+        {
+            "id": 979285,
+            "weight": 0.12364193518640443
+        }
+    ],
+    "videostarttime": {
+        "1079006": 957
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_07.03.23_NC_Eindhoven_Meningsvorming.mp4/playlist.m3u8",
+    "keywords": {
+        "Lanschot zegt": 0.99064707080538,
+        "OZB": 1.966866273637661,
+        "Rondvraag": 1.948474394457211,
+        "Wethouder": 0.9484743944572109,
+        "VNG": 0.9288608396470304,
+        "OZB-aanslag": 1.914683238358699,
+        "huis": 1.869744561903666,
+        "zegt": 0.8697445619036659,
+        "kaarten": 0.8697445619036659,
+        "huizenbezitters": 0.8697445619036659,
+        "geadresseerd": 0.8697445619036659,
+        "wenselijk": 0.8697445619036659
+    },
+    "svz": null,
+    "afgedaan": "28-03-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

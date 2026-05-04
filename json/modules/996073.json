@@ -1,0 +1,128 @@
+{
+    "module_id": 996073,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Raadsvoorstel benoemen van een commissielid als lid in de Meningsvormende vergadering",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/19/Raadsvoorstellen/996073",
+    "type": "Raadsvoorstel",
+    "member": null,
+    "party": null,
+    "poho": "",
+    "result": "Afgerond",
+    "date": "17-12-2024",
+    "meeting_url": {
+        "1148345": "https://raadsinformatie.eindhoven.nl/vergadering/1148345#ai_8928330"
+    },
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/14958462/1/Raadsvoorstel+benoemen+van+een+commissielid+als+lid+in+de+Meningsvormende+vergadering?connection_type=17&connection_id=11296856": "Raadsvoorstel benoemen van een commissielid als lid in de Meningsvormende vergadering"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/14970175/1?connection_type=17&connection_id=11318073",
+    "pdf_text": " \n \n \n  \n   \n \n \n  gemeente Eindhoven  \nRaadsnummer   \nInboeknummer   \nDossiernummer      \n \nRaads voorstel    benoem en van een commissiel id als lid in de \nMeningsvormende vergadering   \n \n \n  Raadsbesluit   \n \nDe raad van de gemeente Eindhoven;  \ngelet op het verzoek van de fractie  GroenLinks ; \ngelet op het bepaalde in de Gemeentewet;  \ngelet op het bepaalde in de  Verordening op  de voorbereidende \nbijeenkomst en  de meningsvormende vergadering gemeente Eindhoven  \n2023; \n \n \nbesluit:  \n \n1. Commissielid  J.A. Kleij te benoemen als lid van de \nMeningsvormende Vergadering . \n \n \nAldus vastgesteld in de openbare vergadering van 17 decemb er 2024 . \n \n \n \nJ. Jongbloed , griffier . \n \n \n ",
+    "bst": "",
+    "related": [
+        {
+            "id": 850256,
+            "weight": 0.1501322855609654
+        },
+        {
+            "id": 879659,
+            "weight": 0.14487025771623632
+        },
+        {
+            "id": 804729,
+            "weight": 0.14034592609390484
+        },
+        {
+            "id": 13389355,
+            "weight": 0.13876359594514576
+        },
+        {
+            "id": 780932,
+            "weight": 0.12367329163273388
+        },
+        {
+            "id": 780938,
+            "weight": 0.12366635051595919
+        },
+        {
+            "id": 825873,
+            "weight": 0.12293478307378429
+        },
+        {
+            "id": 779516,
+            "weight": 0.12263450985659254
+        },
+        {
+            "id": 1115756,
+            "weight": 0.12220100542750179
+        },
+        {
+            "id": 785769,
+            "weight": 0.12186631116020641
+        },
+        {
+            "id": 773075,
+            "weight": 0.12094392162319245
+        },
+        {
+            "id": 1148253,
+            "weight": 0.11967631760404866
+        },
+        {
+            "id": 1123605,
+            "weight": 0.11158246328817208
+        },
+        {
+            "id": 1027749,
+            "weight": 0.11130320791775415
+        }
+    ],
+    "videostarttime": {
+        "1148345": 1387
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_17.12.24_NC_EINDHOVEN-RAA1.mp4/playlist.m3u8",
+    "keywords": {
+        "gemeente Eindhoven": 0.9985146012276873,
+        "Eindhoven Raadsnummer": 0.9968805566532581,
+        "Raadsnummer Inboeknummer": 0.995822080231821,
+        "Meningsvormende vergadering": 1.9946515584620181,
+        "Dossiernummer Raads": 0.9945825642145442,
+        "vergadering gemeente": 0.9910365766209773,
+        "Raads voorstel": 0.9869937555525677,
+        "Eindhoven": 0.9839295334334451,
+        "fractie GroenLinks": 0.9789701209768111,
+        "gelet": 0.9769004788643932,
+        "voorstel benoem": 1.9758054956894173,
+        "voorbereidende bijeenkomst": 0.9758054956894173,
+        "gemeente": 0.9693265717504771,
+        "bepaalde": 0.947229168254893,
+        "Inboeknummer": 0.9354977723111351,
+        "Raadsbesluit": 0.9354977723111351,
+        "Verordening": 0.9354977723111351,
+        "lid": 1.9254465160337186,
+        "Raads": 1.9164641981286277,
+        "commissielid": 1.8876929613985176,
+        "benoemen": 1.8521435908113855,
+        "verzoek": 0.8463023795291653,
+        "fractie": 0.8463023795291653,
+        "bijeenkomst": 0.8463023795291653,
+        "Jongbloed": 0.7620944564724403,
+        "griffier": 0.6031541675274944,
+        "Kleij": 0.5608474764169019,
+        "decemb": 0.5608474764169019,
+        "vastgesteld": 0.5211166287443018,
+        "openbare": 0.5211166287443018
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": "10-04-2026",
+    "meeting_id": [
+        1148345
+    ]
+}

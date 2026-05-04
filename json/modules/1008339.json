@@ -1,0 +1,78 @@
+{
+    "module_id": 1008339,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 248564,
+    "title": "Toegankelijkheid - OV concessie (Agenderingsverzoek 50PLUS, SP, LPF, Volt, FvD en VVD)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1008339",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "R. Strijk (Wethouder)",
+    "result": "",
+    "date": "07-01-2025",
+    "meeting_url": {
+        "1253867": "https://raadsinformatie.eindhoven.nl/vergadering/1253867#ai_8983939"
+    },
+    "attachment": null,
+    "parent": 984902,
+    "children": [],
+    "text": "Wethouder Strijk zegt toe dat de toegankelijkheid beter zal worden toegelicht in het position paper.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1008331,
+            "weight": 0.5702939494358263
+        },
+        {
+            "id": 1020983,
+            "weight": 0.2802212141092558
+        },
+        {
+            "id": 776919,
+            "weight": 0.2407361367741346
+        },
+        {
+            "id": 1009102,
+            "weight": 0.20285289605819762
+        },
+        {
+            "id": 1149732,
+            "weight": 0.13531522320041425
+        },
+        {
+            "id": 1051400,
+            "weight": 0.11816963319463643
+        },
+        {
+            "id": 984902,
+            "weight": 0.10919089742126685
+        }
+    ],
+    "videostarttime": {
+        "1253867": 786
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_07.01.01_EINDHOVEN-CIE.mp4/playlist.m3u8",
+    "keywords": {
+        "Wethouder Strijk": 0.9944028274550927,
+        "Strijk zegt": 0.9836335688345734,
+        "position paper": 0.9805899584790301,
+        "Agenderingsverzoek": 1.9669603196147731,
+        "LPF": 1.9669603196147731,
+        "Volt": 1.9669603196147731,
+        "VVD": 1.9389136078667915,
+        "concessie": 1.8922607228460988,
+        "paper": 0.8922607228460988,
+        "Toegankelijkheid": 1.8737182748260663,
+        "zegt": 0.8232727580700172,
+        "toegelicht": 0.8232727580700172
+    },
+    "svz": "Conform de verzamelbrief: Uitvoering toezeggingen vanuit portefeuille wethouder Strijk, van 18 februari 2025.&...  Lees verder ",
+    "afgedaan": "18-02-2025",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

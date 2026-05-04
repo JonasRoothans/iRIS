@@ -1,0 +1,106 @@
+{
+    "module_id": 931275,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230014,
+    "title": "Rapportages over klachtenafhandeling - Rekenkamerrapport Benchmark Klachtbehandeling",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/931275",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "R. Thijs (Wethouder)",
+    "result": "",
+    "date": "26-03-2024",
+    "meeting_url": {
+        "1147894": "https://raadsinformatie.eindhoven.nl/vergadering/1147894#ai_8252299"
+    },
+    "attachment": null,
+    "parent": 920653,
+    "children": [],
+    "text": "Wethouder Thijs zegt toe de rapportages over klachtenafhandeling mee te nemen in de reguliere rapportages die de raad ontvangt (voortgangsrapportages en jaarverslag).",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 928326,
+            "weight": 2.4606820551895168
+        },
+        {
+            "id": 938200,
+            "weight": 0.7796289961466029
+        },
+        {
+            "id": 833134,
+            "weight": 0.21841444521868694
+        },
+        {
+            "id": 1077720,
+            "weight": 0.18274481226108077
+        },
+        {
+            "id": 1014907,
+            "weight": 0.17295690602088162
+        },
+        {
+            "id": 1051263,
+            "weight": 0.16745825957126034
+        },
+        {
+            "id": 845573,
+            "weight": 0.14734427783129353
+        },
+        {
+            "id": 862377,
+            "weight": 0.14259737766739225
+        },
+        {
+            "id": 879066,
+            "weight": 0.1416393001060803
+        },
+        {
+            "id": 783304,
+            "weight": 0.1410975875368211
+        },
+        {
+            "id": 831803,
+            "weight": 0.13710256660130996
+        },
+        {
+            "id": 1057053,
+            "weight": 0.12704968374815928
+        },
+        {
+            "id": 979297,
+            "weight": 0.12231319223704983
+        }
+    ],
+    "videostarttime": {
+        "1147894": 2858
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_26.03.24_NC_Eindhoven_Raad.mp4/playlist.m3u8",
+    "keywords": {
+        "Rekenkamerrapport Benchmark": 1.9959270856012359,
+        "Benchmark Klachtbehandeling": 1.9944042246988998,
+        "Klachtbehandeling Wethouder": 0.9944042246988998,
+        "Wethouder Thijs": 0.9944042246988998,
+        "Thijs zegt": 0.9892684312777618,
+        "raad ontvangt": 0.9861446446701704,
+        "reguliere rapportages": 0.9711205530150742,
+        "klachtenafhandeling": 1.9254936565692833,
+        "Benchmark": 1.925403506491989,
+        "Thijs": 0.925403506491989,
+        "jaarverslag": 0.9039864115668858,
+        "zegt": 0.8576658975361139,
+        "mee": 0.8576658975361139,
+        "nemen": 0.8576658975361139,
+        "reguliere": 0.8576658975361139,
+        "raad": 0.8576658975361139
+    },
+    "svz": null,
+    "afgedaan": "08-10-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

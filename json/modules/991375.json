@@ -1,0 +1,47 @@
+{
+    "module_id": 991375,
+    "vote_id": null,
+    "member_id": [
+        80968,
+        131155,
+        77830
+    ],
+    "party_list": [
+        "50PLUS",
+        "SP"
+    ],
+    "poho_id": [],
+    "title": "Groei niet alleen op de schouders van huurders (Motie M7)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/991375",
+    "type": "Motie",
+    "member": "Murat Memiş, Jannie Visscher en Ruud van Acquoij",
+    "party": null,
+    "poho": "",
+    "result": "Afgevoerd van agenda",
+    "date": "26-11-2024",
+    "meeting_url": {
+        "1148334": "https://raadsinformatie.eindhoven.nl/vergadering/1148334#ai_8661140"
+    },
+    "attachment": null,
+    "parent": 968644,
+    "children": [],
+    "text": "",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [],
+    "videostarttime": {
+        "1148334": null
+    },
+    "videolink": null,
+    "keywords": {
+        "Motie": 1.9696036283675864,
+        "Groei": 1.8416830712200127,
+        "huurders": 1.8416830712200127
+    },
+    "svz": null,
+    "afgedaan": "26-11-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

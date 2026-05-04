@@ -1,0 +1,52 @@
+{
+    "module_id": 945605,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230024,
+    "title": "Stichting Cultuur Eindhoven - Raadsvoorstel Kadernota 2025",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/945605",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Lammers (Wethouder)",
+    "result": "",
+    "date": "21-05-2024",
+    "meeting_url": {
+        "1147935": "https://raadsinformatie.eindhoven.nl/vergadering/1147935#ai_8359842"
+    },
+    "attachment": null,
+    "parent": 933747,
+    "children": [],
+    "text": "Wethouder Lammers zegt te dat ze in gepsrek gaat met de stichting Cultuur Eindhoven over de verbindende rol en de behoefte aan samenwerking in de sector.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [],
+    "videostarttime": {
+        "1147935": 11473
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_21.05.24_NC_Eindhoven_Raad.mp4/playlist.m3u8",
+    "keywords": {
+        "Cultuur Eindhoven": 1.998444465379149,
+        "Raadsvoorstel Kadernota": 1.9976435251227975,
+        "Stichting Cultuur": 1.997179136159231,
+        "Wethouder Lammers": 0.996923634098416,
+        "Lammers zegt": 0.9926938809797948,
+        "gepsrek gaat": 0.9866760970662082,
+        "verbindende rol": 0.9866760970662082,
+        "Cultuur": 1.9751110408461119,
+        "Kadernota": 1.9515135590289834,
+        "sector": 0.9174782157660797,
+        "zegt": 0.8853321719593765,
+        "gaat": 0.8853321719593765,
+        "rol": 0.8853321719593765,
+        "behoefte": 0.8853321719593765,
+        "samenwerking": 0.8853321719593765
+    },
+    "svz": null,
+    "afgedaan": "08-04-2025",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

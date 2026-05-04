@@ -1,0 +1,81 @@
+{
+    "module_id": 878990,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230014,
+    "title": "Warmtebedrijf - Raadsvoorstel Smart Thermisch Grid Stadhuisplein",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/878990",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "R. Thijs (Wethouder)",
+    "result": "",
+    "date": "12-09-2023",
+    "meeting_url": {
+        "1127251": "https://raadsinformatie.eindhoven.nl/vergadering/1127251#ai_7824866"
+    },
+    "attachment": null,
+    "parent": 863931,
+    "children": [],
+    "text": "Wethouder Thijs zegt toe:\nDat bij het voorbereiding van het raadsvoorstel energiebedrijf inzicht te geven in de ontwikkelingen rondom het smart thermisch grid en hoe dit in het publieke warmtebedrijf past.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 863931,
+            "weight": 4.156841237899835
+        },
+        {
+            "id": 1076225,
+            "weight": 2.2072985195109553
+        },
+        {
+            "id": 942872,
+            "weight": 1.800239929033538
+        },
+        {
+            "id": 875804,
+            "weight": 0.6254225195167811
+        },
+        {
+            "id": 1085541,
+            "weight": 0.2814763161129538
+        },
+        {
+            "id": 894796,
+            "weight": 0.19841465526138513
+        }
+    ],
+    "videostarttime": {
+        "1127251": 710
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_12.09.23_NC_Eindhoven_Raad.mp4/playlist.m3u8",
+    "keywords": {
+        "Stadhuisplein Wethouder": 0.9941115529276221,
+        "Wethouder Thijs": 0.9941115529276221,
+        "Thijs zegt": 0.9870426699607189,
+        "Smart Thermisch": 1.9866093987408646,
+        "Thermisch Grid": 1.9866093987408646,
+        "Grid Stadhuisplein": 1.9860275452487257,
+        "Raadsvoorstel Smart": 1.9597005058068169,
+        "Thijs": 0.9234887181972007,
+        "Smart": 1.909948473083256,
+        "Grid": 1.909948473083256,
+        "warmtebedrijf past": 0.8917119033793014,
+        "publieke warmtebedrijf": 0.8596995882335453,
+        "zegt": 0.8328143909486083,
+        "energiebedrijf inzicht": 0.796985561777109,
+        "past": 0.6737756083459856,
+        "voorbereiding": 0.5892022625018222,
+        "inzicht": 0.5892022625018222,
+        "ontwikkelingen": 0.5892022625018222,
+        "publieke": 0.5892022625018222
+    },
+    "svz": null,
+    "afgedaan": "10-12-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

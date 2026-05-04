@@ -1,0 +1,102 @@
+{
+    "module_id": 790022,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Raadsvoorstel Herbenoeming voorzitter en vicevoorzitter van de rekenkamer",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/19/Raadsvoorstellen/790022",
+    "type": "Raadsvoorstel",
+    "member": null,
+    "party": null,
+    "poho": "",
+    "result": "Afgerond",
+    "date": "08-11-2022",
+    "meeting_url": {
+        "1013582": "https://raadsinformatie.eindhoven.nl/vergadering/1013582#ai_7135172"
+    },
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/11989273/1/Raadsvoorstel+Herbenoeming+voorzitter+en+vicevoorzitter+Rekenkamer?connection_type=17&connection_id=8753494": "Raadsvoorstel Herbenoeming voorzitter en vicevoorzitter Rekenkamer"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/12024256/1?connection_type=17&connection_id=8782954",
+    "pdf_text": " \n \n \n  gemeente Eindhoven  \nInboeknummer   \nDossiernummer      \n \nRaadsvoorstel    Herbenoeming voorzitter en vicevoorzitter van de \nrekenkamer   \n \n \n   \n   Raadsbesluit   \n \nDe raad van de gemeente Eindhoven;  \ngezien het voorstel van de Agendacommissie ; \ngelet op artikel  81c van de Gemeentewet en artikel 3  van de Verordening op de \nrekenkamer gemeente Eindhoven 20 22; \n \n \nbesluit:  \n \n1. Drs. W.F.P. Hartmann  per 8 november 2022  te herbenoemen als voorzitter van \nde rekenkamer  voor een periode van zes jaar ; \n2. Drs. T.M.A.J. Verhagen per  8 november 2022  te herbenoemen als \nvicevoorzitter van de rekenkamercommissie  voor een periode van zes jaar . \n \n \nAldus vastgesteld in de openbare vergadering van  8 november 2022.  \n \n \n \n \n \nJ. Jongbloed , griffier.  \n \n \n ",
+    "bst": "",
+    "related": [
+        {
+            "id": 905295,
+            "weight": 0.3493757502562064
+        },
+        {
+            "id": 792344,
+            "weight": 0.3267856154677125
+        },
+        {
+            "id": 831803,
+            "weight": 0.29609833124438073
+        },
+        {
+            "id": 776994,
+            "weight": 0.12231660869079379
+        },
+        {
+            "id": 1015799,
+            "weight": 0.11924222404750894
+        },
+        {
+            "id": 780980,
+            "weight": 0.11230978706685661
+        },
+        {
+            "id": 973929,
+            "weight": 0.09330958054246737
+        },
+        {
+            "id": 1104215,
+            "weight": 0.07829946665957395
+        }
+    ],
+    "videostarttime": {
+        "1013582": 857
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_08.11.22_NC_Eindhoven_Raad.mp4/playlist.m3u8",
+    "keywords": {
+        "gemeente Eindhoven": 0.9982709358423858,
+        "Raadsvoorstel Herbenoeming": 1.9977786555132035,
+        "Eindhoven Inboeknummer": 0.9963868908759499,
+        "Inboeknummer Dossiernummer": 0.9948925514911192,
+        "Dossiernummer Raadsvoorstel": 0.9940567598089295,
+        "Herbenoeming voorzitter": 1.9907185763552353,
+        "rekenkamer gemeente": 0.9847902972925865,
+        "Eindhoven": 0.9831655959932732,
+        "gemeente": 0.9659399593805926,
+        "Raadsvoorstel": 1.9585595886930025,
+        "artikel": 0.9383539415094853,
+        "Agendacommissie": 0.9353917225416712,
+        "Dossiernummer": 0.9287153941257776,
+        "Raadsbesluit": 0.9287153941257776,
+        "Verordening": 0.9287153941257776,
+        "november": 0.8920942359203061,
+        "voorzitter": 1.8861668349760505,
+        "zes jaar": 0.8658586390262191,
+        "Drs": 0.8325184956082523,
+        "gezien": 0.8255127900811844,
+        "gelet": 0.8255127900811844,
+        "raad": 0.8012408659201862,
+        "jaar": 0.7797592494488033,
+        "per": 0.7598851841649089,
+        "herbenoemen": 0.7598851841649089,
+        "periode": 0.7598851841649089,
+        "zes": 0.7598851841649089,
+        "Hartmann per": 0.6256146393190809,
+        "Jongbloed": 0.620142712977598,
+        "Verhagen per": 0.5573929597265648
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": "10-04-2026",
+    "meeting_id": []
+}

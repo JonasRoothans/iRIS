@@ -1,0 +1,185 @@
+{
+    "module_id": 795420,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230019,
+    "title": "Erfgoed - Raadsvoorstel Erfgoedverordening gemeente Eindhoven en gewijzigde cultuurhistorische waardenkaart",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/795420",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. van Lanschot (Wethouder)",
+    "result": "",
+    "date": "15-11-2022",
+    "meeting_url": {
+        "1032641": "https://raadsinformatie.eindhoven.nl/vergadering/1032641#ai_7109501"
+    },
+    "attachment": null,
+    "parent": 784763,
+    "children": [],
+    "text": "De suggestie mee te nemen om het erfgoed breder bekend en nog meer zichtbaar te maken voor de stad en de inwoners bij de update van de erfgoeddoelen 2023 – 2026.\nDe update van de Erfgoeddoelen 2023-2026 wordt verwacht in het 2e kwartaal 2023. Dit heeft er o.m. te maken dat over de inhoud nog wordt afgestemd met de erfgoedstichtingen, zodat er een goed afgestemd document ontstaat.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 795427,
+            "weight": 5.768396597221031
+        },
+        {
+            "id": 784763,
+            "weight": 3.839843995370515
+        },
+        {
+            "id": 898863,
+            "weight": 0.5482227818183767
+        },
+        {
+            "id": 1061333,
+            "weight": 0.37964588597491983
+        },
+        {
+            "id": 896955,
+            "weight": 0.20095107870529513
+        },
+        {
+            "id": 973400,
+            "weight": 0.19227346058510866
+        },
+        {
+            "id": 792365,
+            "weight": 0.1912338759295974
+        },
+        {
+            "id": 780717,
+            "weight": 0.19031198478076347
+        },
+        {
+            "id": 790749,
+            "weight": 0.19012040487643567
+        },
+        {
+            "id": 953062,
+            "weight": 0.18972944643698353
+        },
+        {
+            "id": 817437,
+            "weight": 0.18453409987633426
+        },
+        {
+            "id": 892522,
+            "weight": 0.18047455579422456
+        },
+        {
+            "id": 922219,
+            "weight": 0.17384081443614904
+        },
+        {
+            "id": 889102,
+            "weight": 0.1512141851225881
+        },
+        {
+            "id": 855743,
+            "weight": 0.14891082218097126
+        },
+        {
+            "id": 1140939,
+            "weight": 0.10024749250578521
+        },
+        {
+            "id": 845813,
+            "weight": 0.09193229170368408
+        },
+        {
+            "id": 1009251,
+            "weight": 0.08316171003271648
+        },
+        {
+            "id": 1038657,
+            "weight": 0.07902607845306718
+        },
+        {
+            "id": 1090192,
+            "weight": 0.0768835697219339
+        },
+        {
+            "id": 798909,
+            "weight": 0.07663370094481518
+        },
+        {
+            "id": 1062480,
+            "weight": 0.07645266619380975
+        },
+        {
+            "id": 926816,
+            "weight": 0.07439531817750987
+        },
+        {
+            "id": 863511,
+            "weight": 0.0743416235421134
+        },
+        {
+            "id": 1090175,
+            "weight": 0.07395081072117002
+        },
+        {
+            "id": 970349,
+            "weight": 0.07050543209347411
+        },
+        {
+            "id": 856856,
+            "weight": 0.06731813249566572
+        },
+        {
+            "id": 955449,
+            "weight": 0.060309577262416085
+        }
+    ],
+    "videostarttime": {
+        "1032641": 725
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_15.11.22_Eindhoven_menings_RZ.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Erfgoedverordening": 1.9967868104266324,
+        "Erfgoedverordening gemeente": 1.9922475548071574,
+        "gemeente Eindhoven": 1.9922475548071574,
+        "erfgoed breder": 0.9858314167862301,
+        "gewijzigde cultuurhistorische": 1.983517932188731,
+        "cultuurhistorische waardenkaart": 1.983517932188731,
+        "suggestie mee": 0.9835179321887312,
+        "breder bekend": 0.9835179321887312,
+        "Erfgoeddoelen 2023-2026": 0.9547684562304536,
+        "Raadsvoorstel": 1.9469831086504135,
+        "Erfgoed": 1.9451432228568577,
+        "Eindhoven": 1.9395872150704945,
+        "update": 0.9255970874963351,
+        "maken": 0.8841552224995306,
+        "gemeente": 1.8726625972269573,
+        "gewijzigde": 1.8726625972269573,
+        "waardenkaart": 1.8726625972269573,
+        "mee": 1.8726625972269573,
+        "nemen": 0.8726625972269574,
+        "breder": 0.8726625972269574,
+        "bekend": 0.8726625972269574,
+        "zichtbaar": 0.8726625972269574,
+        "stad": 0.8726625972269574,
+        "inwoners": 0.8726625972269574,
+        "document ontstaat": 0.808160075320847,
+        "afgestemd": 0.8079637093614329,
+        "afgestemd document": 0.8050686685434063,
+        "kwartaal": 0.746685539939776,
+        "2023-2026": 0.6636652862827714,
+        "verwacht": 0.6636652862827714,
+        "erfgoedstichtingen": 0.6210379950658809,
+        "zodat": 0.6210379950658809,
+        "ontstaat": 0.6210379950658809,
+        "inhoud": 0.575257815492165,
+        "document": 0.575257815492165
+    },
+    "svz": "De raad heeft de RIB, met als bijlage het uitvoeringsprogramma, op 13 juni ontvangen.\nHet meer zichtbaar make...  Lees verder ",
+    "afgedaan": "04-07-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

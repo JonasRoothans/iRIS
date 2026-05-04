@@ -1,0 +1,100 @@
+{
+    "module_id": 12555991,
+    "vote_id": null,
+    "member_id": [
+        194511
+    ],
+    "party_list": [
+        "GroenLinks"
+    ],
+    "poho_id": [],
+    "title": "7. Rondvraag Energiecompensatie Blokverwarming - GL",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "27-03-2023",
+    "meeting_url": {
+        "1059807": "https://raadsinformatie.eindhoven.nl/vergadering/1013477/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://api.notubiz.nl/document/12555991/1",
+    "pdf_text": " \n \n \nRondvraag  meningsvorming 28 maart 2023: Zekerheid voor  \nhuurders over energiecompensatie   \n \nGeacht college,  \n \nBinnenkort gaat de regeling in om mensen met een blokaansluiting voor gas, \nwarmte of elektriciteit te compenseren voor de hoge energiekosten. Die \ncompensatie gaat via de huurbazen en van hen wordt verwacht dat zij dit \ndoorrekenen in de servicekosten  aan huurders . Dit gaat om studenten, mensen die \nwonen in woonzorginitiatieven en veel corporatiewoningen. GroenLinks vindt het \nbelang rijk dat inwoners die de dupe worden van de hoge energiekosten geholpen \nworden.  \n \nVragen:  \n \n1. Hoe wil het college voorkomen dat er huurbazen zijn die de \nenergiecompensatie niet doorberekenen waardoor bijvoorbeeld studenten  \ngeen  of te weinig compensatie krijg en? Kan het huurteam hier een rol in \nspelen?  \n2. In een artikel in de krant  lezen we dat duizenden huurders van flats van \nWoonbedrijf een flink hogere energierekening krijgen en waarschijnlijk \nmaar een lage compensatie. Zijn deze signalen bij het college bekend en \nkloppen deze  signalen?  \n3. Is het college met Woonbedrijf en andere corporaties in gesprek, \nbijvoorbee ld over mogelijkheden rondom het verlagen van \nvoorschotbedragen?   \n4. Welke andere acties overweegt het college om dit probleem aan te pakken \nen te zorgen voor goede compensatie voor de hogere energierekeningen \nvan huurders?  \n \nHet lid  van de raad,  \n \nLotte Meerh off, raadslid GroenLinks  \n \n \n \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 12604245,
+            "weight": 3.105996881113984
+        },
+        {
+            "id": 853281,
+            "weight": 0.1617101601873701
+        },
+        {
+            "id": 945823,
+            "weight": 0.14449097791532758
+        },
+        {
+            "id": 775117,
+            "weight": 0.13911912471712626
+        },
+        {
+            "id": "a_8569261",
+            "weight": 0.12630202593181664
+        },
+        {
+            "id": 1074243,
+            "weight": 0.12222587954527696
+        }
+    ],
+    "videostarttime": {
+        "1059807": 1489
+    },
+    "videolink": null,
+    "keywords": {
+        "Energiecompensatie Blokverwarming": 1.9207189354479093,
+        "Binnenkort gaat": 0.9193083017734903,
+        "hoge energiekosten": 0.9084271885636723,
+        "college": 0.9061298717910836,
+        "Rondvraag Energiecompensatie": 1.8921814569010489,
+        "Geacht college": 0.8907735628414761,
+        "Rondvraag meningsvorming": 0.8844522252265352,
+        "huurders": 0.8754469940098172,
+        "Rondvraag": 1.873317582982652,
+        "gaat": 0.869848444584479,
+        "compensatie": 1.8681675503729687,
+        "hoge": 0.8125971311283416,
+        "Woonbedrijf": 0.8099976858306904,
+        "Blokverwarming": 1.808769824752631,
+        "Zekerheid": 0.8087698247526309,
+        "mensen": 0.7941354490562457,
+        "Geacht": 0.7901977505035391,
+        "Lotte Meerh": 0.7775768670833987,
+        "huurbazen": 0.7409713875861499,
+        "studenten": 0.7409713875861499,
+        "gaat via": 0.7295214379389445,
+        "signalen": 0.7087908725404923,
+        "GroenLinks": 0.7057530298555699,
+        "energiekosten geholpen": 0.674174410660054,
+        "gas": 0.5911847616635393,
+        "warmte": 0.5911847616635393,
+        "Lotte": 0.5873804661772859,
+        "Meerh off": 0.5783305866398064,
+        "college voorkomen": 0.5624946991292654,
+        "regeling": 0.5485571116945551,
+        "blokaansluiting": 0.5485571116945551,
+        "elektriciteit": 0.5485571116945551
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194511,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1059807
+    ]
+}

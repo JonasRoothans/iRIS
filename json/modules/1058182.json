@@ -1,0 +1,93 @@
+{
+    "module_id": 1058182,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 231116,
+    "title": "Internationale activiteiten te herijken - Initiatiefvoorstel Internationaal Beleid",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1058182",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "J. Dijsselbloem (Burgemeester)",
+    "result": "",
+    "date": "24-06-2025",
+    "meeting_url": {
+        "1256622": "https://raadsinformatie.eindhoven.nl/vergadering/1256622#ai_9382847"
+    },
+    "attachment": null,
+    "parent": 1036878,
+    "children": [],
+    "text": "De burgemeester en zegt toe:\nEen keer in de vier jaar, aan de start van een nieuwe bestuursperiode de internationale activiteiten aan de hand van het nieuwe bestuursprogramma te herijken en de raad hierover te informeren per brief.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1058181,
+            "weight": 3.984524510259443
+        },
+        {
+            "id": 1139088,
+            "weight": 0.2283637231091612
+        },
+        {
+            "id": 1062477,
+            "weight": 0.1254680751761446
+        },
+        {
+            "id": 15117249,
+            "weight": 0.11547391454385317
+        },
+        {
+            "id": 982801,
+            "weight": 0.11133948995556166
+        },
+        {
+            "id": 1109452,
+            "weight": 0.10763415417304391
+        },
+        {
+            "id": 1074243,
+            "weight": 0.08346659850963946
+        },
+        {
+            "id": 804725,
+            "weight": 0.08065003520742052
+        }
+    ],
+    "videostarttime": {
+        "1256622": 766
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_24.06.25_NC_Eindhoven_Raad.mp4/playlist.m3u8",
+    "keywords": {
+        "Initiatiefvoorstel Internationaal": 1.9966375065475237,
+        "Internationaal Beleid": 1.9959488621996417,
+        "Beleid": 1.9364799850381633,
+        "activiteiten": 1.9084877031288716,
+        "herijken": 1.9084877031288716,
+        "vier jaar": 0.8942335105753364,
+        "per brief": 0.8942335105753364,
+        "burgemeester": 0.8712734215621654,
+        "zegt": 0.8712734215621654,
+        "raad hierover": 0.8700552834424166,
+        "informeren per": 0.8700552834424166,
+        "nieuwe bestuursperiode": 0.8697856680472931,
+        "nieuwe": 0.8301297733746699,
+        "jaar": 0.7179449044285453,
+        "keer": 0.6608820992268439,
+        "vier": 0.6608820992268439,
+        "start": 0.6608820992268439,
+        "hand": 0.6608820992268439,
+        "bestuursprogramma": 0.6608820992268439,
+        "raad": 0.6608820992268439,
+        "per": 0.6608820992268439
+    },
+    "svz": null,
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "02-10-2025",
+    "meeting_id": [
+        1256622
+    ]
+}

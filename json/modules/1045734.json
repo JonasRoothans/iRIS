@@ -1,0 +1,57 @@
+{
+    "module_id": 1045734,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Gebiedskader Vaartbroek - Raadsvoorstel Kadernota 2026",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1045734",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "13-05-2025",
+    "meeting_url": {
+        "1256605": "https://raadsinformatie.eindhoven.nl/vergadering/1256605#ai_9262973"
+    },
+    "attachment": null,
+    "parent": 1034468,
+    "children": [],
+    "text": "Wethouder Verhees zegt toe Komt in het raadsvoorstel terug op de acht punten in het aangekondigde amendement A8.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1061826,
+            "weight": 0.3804347250806624
+        }
+    ],
+    "videostarttime": {
+        "1256605": 13274
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_13.05.25_NC_01-EINDHOVEN-RAA.mp4/playlist.m3u8",
+    "keywords": {
+        "Wethouder Verhees": 0.9944028274550927,
+        "Gebiedskader Vaartbroek": 1.9933749944312513,
+        "Raadsvoorstel Kadernota": 1.9898047172745241,
+        "Verhees zegt": 0.9836335688345734,
+        "aangekondigde amendement": 0.9805899584790301,
+        "acht punten": 0.96776056316734,
+        "Vaartbroek": 1.9389136078667915,
+        "Kadernota": 1.9389136078667915,
+        "Komt": 0.9088828397919207,
+        "amendement": 0.8922607228460988,
+        "zegt": 0.8232727580700172,
+        "terug": 0.8232727580700172,
+        "acht": 0.8232727580700172
+    },
+    "svz": "Het concept gebiedskader wordt begin Q4 voorgelegd aan uw Raad",
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": [
+        1256605
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "module_id": "o_9908024",
+    "vote_id": 9908024,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Ordevoorstel 2 - Raadsvoorstel Concept Herzien Woonprogramma 2025 2030 af te voeren van de raadsagenda (EVE)",
+    "url": "",
+    "type": "Ordevoorstel",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "verworpen",
+    "date": "16-12-2025",
+    "meeting_url": {
+        "1256326": "https://raadsinformatie.eindhoven.nl/vergadering/1256326/Ordevoorstel%202%20-%20Raadsvoorstel%20Concept%20Herzien%20Woonprogramma%202025%202030%20af%20te%20voeren%20van%20de%20raadsagenda%20%28EVE%29 16-12-2025#voting_397955"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": "o_8885915",
+            "weight": 0.5951803688576132
+        },
+        {
+            "id": "o_8726235",
+            "weight": 0.5760643805810193
+        },
+        {
+            "id": "o_9205533",
+            "weight": 0.568317833048514
+        },
+        {
+            "id": "o_9902485",
+            "weight": 0.5652994224697298
+        },
+        {
+            "id": "o_9202790",
+            "weight": 0.5645194826507368
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Raadsvoorstel Concept": 1.9873976398760465,
+        "Herzien Woonprogramma": 1.9873976398760465,
+        "Concept Herzien": 1.9785907845614,
+        "EVE": 1.9696036283675864,
+        "Ordevoorstel": 1.9550880231213545,
+        "Concept": 1.8552226942577967,
+        "Herzien": 1.8552226942577967,
+        "raadsagenda": 1.8416830712200127,
+        "voeren": 1.702634417439785
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1256326
+    ]
+}

@@ -1,0 +1,160 @@
+{
+    "module_id": 14480512,
+    "vote_id": null,
+    "member_id": [
+        80968
+    ],
+    "party_list": [
+        "SP"
+    ],
+    "poho_id": [],
+    "title": "Rondvraag 3 -  Fiets parkeren stationsgebied (SP)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "03-09-2024",
+    "meeting_url": {
+        "1148044": "https://raadsinformatie.eindhoven.nl/vergadering/1148041/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://api.notubiz.nl/document/14480512/1",
+    "pdf_text": " \n \n \nRondvraag   \nFiets parkeren  stationsgebied              Datum 3 september 2024                 \n \nVorig jaar trof de gemeente maatregelen om het fiets parkeren  rondom Eindhoven \nCentraal beter te reguleren. Dat was ook hard nodig want grote aantallen fout \ngeparkeerde fietsen vorm den vooral voor mensen met een fysieke beperking een \ngrote hindernis om zich daar vrij te bewegen.  \n \nSinds vorige week zijn er met de komst van nieuwe studenten weer vele \nduizenden fietsers bijgekomen in onze stad. Rond het station trof onze fractie weer \neen toenemende fietsenchaos. Sommige fietsen stonden zelfs midden op de \nblindegeleidelijn van het 18 Septemberplein naar het station.  \n \nJuist nu er de komende jaren de bewaakte rijwielstalling op het station enkele \njaren buiten gebruik zal worden gesteld is het zaak het gebied rondom het station \ngoed toegankelijk te houden.  \n \nDaarom vindt de SP het van groot belang dat er juist nu goed toezicht en goede \nhandhaving plaatsvindt op het op een goede manier stallen van fietsen rondom het \nstation.  \n \nVandaar onze rondvraag:  \n \n1. Is het college net als de SP van mening dat het station goed en veilig \nbereikbaar moet zijn voor iedereen en in het bijzonder ook voor mensen met \neen fysieke beperking?  \n2. Is het college het met de SP eens dat juist nu een grote groep ‘nieuwe’ \nfietsers in Eindhoven is aangekomen het erg belangrijk is dat er actief en \nduidelijk wordt gehandhaafd op het goed stallen van fietsen rond het station ? \n3. Hoe is toezicht en handhaving van fiets parkeren  op dit moment geregeld in \nhet stationsgebied?  En hoe in de komende tijd?  \n \n \nHet lid van de raad,  \n \nJannie Visscher  \n \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 14613123,
+            "weight": 4.914548325995862
+        },
+        {
+            "id": "a_8235495",
+            "weight": 0.827229194722388
+        },
+        {
+            "id": 13163994,
+            "weight": 0.5209308106728223
+        },
+        {
+            "id": 1045674,
+            "weight": 0.2744421545062079
+        },
+        {
+            "id": 884778,
+            "weight": 0.24850916087748273
+        },
+        {
+            "id": 1129552,
+            "weight": 0.13482816289037405
+        },
+        {
+            "id": 976632,
+            "weight": 0.12301575276706282
+        },
+        {
+            "id": 867137,
+            "weight": 0.1150176090358865
+        },
+        {
+            "id": 893438,
+            "weight": 0.09848062751598528
+        },
+        {
+            "id": 933107,
+            "weight": 0.09435470499506213
+        },
+        {
+            "id": 821835,
+            "weight": 0.08166867223579782
+        },
+        {
+            "id": 14114942,
+            "weight": 0.08016507317380873
+        },
+        {
+            "id": 12424216,
+            "weight": 0.06710159868074392
+        },
+        {
+            "id": 1007170,
+            "weight": 0.06652073405841981
+        },
+        {
+            "id": 999479,
+            "weight": 0.05820224907238262
+        },
+        {
+            "id": 861369,
+            "weight": 0.056875777071635436
+        },
+        {
+            "id": "a_8569264",
+            "weight": 0.05144743497428003
+        }
+    ],
+    "videostarttime": {
+        "1148044": 1069
+    },
+    "videolink": null,
+    "keywords": {
+        "Vorig jaar": 0.9884359542855369,
+        "Eindhoven Centraal": 0.9803996762414132,
+        "Fiets parkeren": 1.9737793183883166,
+        "stationsgebied Datum": 0.9724505916543918,
+        "gemeente maatregelen": 0.9652813185000373,
+        "station": 1.961219161524128,
+        "Datum": 0.937591183283185,
+        "Vorig": 0.937591183283185,
+        "Centraal": 0.9340695370992369,
+        "Fiets": 1.9321550657663817,
+        "jaar trof": 0.9283364827013456,
+        "parkeren stationsgebied": 1.9115773890813161,
+        "Rondvraag Fiets": 0.8993290491919409,
+        "goed": 0.893939036216467,
+        "fysieke beperking": 0.8616202521548768,
+        "Eindhoven": 0.8542135503148925,
+        "grote": 0.8531939785881664,
+        "september": 0.8424955173938493,
+        "reguleren": 0.8297525266383599,
+        "trof": 0.8174679164575593,
+        "jaar": 0.816823200455036,
+        "gemeente": 0.816823200455036,
+        "Jannie Visscher": 0.8012657060017632,
+        "geparkeerde fietsen": 0.7923210940308835,
+        "fietsen vorm": 0.7923210940308835,
+        "mensen": 0.7724426320498577,
+        "fysieke": 0.7724426320498577,
+        "hard nodig": 0.7628297597908875,
+        "aantallen fout": 0.7628297597908875,
+        "fout geparkeerde": 0.7628297597908875,
+        "grote aantallen": 0.7610995969980748,
+        "grote hindernis": 0.7610995969980748,
+        "komende": 0.736974352359512,
+        "toezicht": 0.736974352359512,
+        "jaren": 0.7353647834106738,
+        "college": 0.7315661514142673,
+        "handhaving": 0.7268237857477685,
+        "goed toegankelijk": 0.630642679448941,
+        "duizenden fietsers": 0.6207285412309473,
+        "fietsers bijgekomen": 0.6207285412309473,
+        "nieuwe studenten": 0.6061660921655929,
+        "vele duizenden": 0.6061660921655929,
+        "Jannie": 0.5928307770760877,
+        "grote groep": 0.5857445324844834,
+        "bewegen": 0.5839079340007756,
+        "hard": 0.5621600713002953,
+        "fout": 0.5621600713002953,
+        "toenemende fietsenchaos": 0.5169659021060651
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 80968,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1148044
+    ]
+}

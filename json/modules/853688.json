@@ -1,0 +1,260 @@
+{
+    "module_id": 853688,
+    "vote_id": null,
+    "member_id": [
+        194500,
+        194495
+    ],
+    "party_list": [
+        "FVD",
+        "Partij voor de Dieren"
+    ],
+    "poho_id": 231116,
+    "title": "Gebruik sensoren - Verbetering cameraregister (Vrije motie VM2)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/853688",
+    "type": "Vrije motie",
+    "member": "Virginia Jonkers en Nicolas Knoester",
+    "party": null,
+    "poho": "J. Dijsselbloem (Burgemeester)",
+    "result": "Ingetrokken na toezegging",
+    "date": "20-06-2023",
+    "meeting_url": {
+        "1013498": "https://raadsinformatie.eindhoven.nl/vergadering/1013498#ai_6964963"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": "Burgemeester Dijsselbloem zegt toe:\n\nwanneer de gemeente sensoren gebruikt om persoonsgegevens te verzamelen deze ook zullen worden opgenomen in het register;",
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/12844657/2/Verbetering+cameraregister+%28Vrije+motie+VM2%29?connection_type=17&connection_id=9463018",
+    "pdf_text": " \n \n \nVrije m otie Verbetering cameraregister             VM2 \n \nDe indiener s van d eze vrije motie stellen de gemeenteraad voor om in de \nvergadering van 20 juni  2023 een besluit te nemen  over een verbetering van het \ncameraregister . \n \nDe indiener s hoorden  dat: \n• In het huidige cameraregister1 alleen camera’s staan die worden gebruikt \nvoor “Openbare Orde & Veiligheid”  \n• De gemeente Utrecht een nauwkeuriger en completer cameraregister \nheeft2 \n \nDe ind ieners vinden dat:  \n• Eindhoven niet alleen voorop dient te lopen met technologie, maar ook \ntransparantie rondom technologie om onnodige onrust en wantrouwen \nonder inwoners te voorkomen of beperken  \n \nDe indieners roepen het college van burgemeester en wethoude rs op om:  \nhet cameraregister uit te breiden met camera’s die voor alle andere doeleinden \nworden gebruikt naar voorbeeld van (maar niet beperkt tot ) de gemeente Utrecht . \n \nEindhoven, 20 juni 2023  \n \nDe leden  van de raad,  \n \nNicolas Knoester  (FvD) , voorsteller  \nVirginia Jonkers (PvdD), voorsteller  \n \n \nDeze vrije motie is ingetrokken na toezegging in de vergadering van  20 juni 2023 . \n \nJ. Jongbloed , griffier . \n \n1 https://www.eindhoven.nl/stad -en-wonen/veiligheid/cameratoezicht -in-eindhoven   \n2 https://gu -\ngeo.maps.arcgis.com/apps/webappviewer/index.html?id=6a7afc21965246c9abdb74325\n946b99d   \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 857640,
+            "weight": 1.4099548887366082
+        },
+        {
+            "id": 857632,
+            "weight": 1.4036462386535145
+        },
+        {
+            "id": "ai_6964963",
+            "weight": 1.387132553655535
+        },
+        {
+            "id": 835268,
+            "weight": 0.4335394384523285
+        },
+        {
+            "id": 867120,
+            "weight": 0.38456748576573685
+        },
+        {
+            "id": 858025,
+            "weight": 0.26504344380039285
+        },
+        {
+            "id": 888562,
+            "weight": 0.25619469025787406
+        },
+        {
+            "id": "m_9838049",
+            "weight": 0.25445388951639814
+        },
+        {
+            "id": 858645,
+            "weight": 0.2536022246270793
+        },
+        {
+            "id": 1098744,
+            "weight": 0.24223607454898952
+        },
+        {
+            "id": 1140576,
+            "weight": 0.18471044925026225
+        },
+        {
+            "id": 1000447,
+            "weight": 0.1514025556258745
+        },
+        {
+            "id": 1009576,
+            "weight": 0.14970571445132044
+        },
+        {
+            "id": 831680,
+            "weight": 0.14921778181569234
+        },
+        {
+            "id": 983014,
+            "weight": 0.13995138772832097
+        },
+        {
+            "id": 1053124,
+            "weight": 0.13314949227676495
+        },
+        {
+            "id": 949826,
+            "weight": 0.1157363620448303
+        },
+        {
+            "id": 14505981,
+            "weight": 0.11148431079910363
+        },
+        {
+            "id": 1096061,
+            "weight": 0.10700452700419211
+        },
+        {
+            "id": 894948,
+            "weight": 0.1041458560437439
+        },
+        {
+            "id": 776890,
+            "weight": 0.0993413643018142
+        },
+        {
+            "id": 975121,
+            "weight": 0.0979411147579861
+        },
+        {
+            "id": 980314,
+            "weight": 0.09544622990737936
+        },
+        {
+            "id": 1104264,
+            "weight": 0.09439431125616292
+        },
+        {
+            "id": 956987,
+            "weight": 0.09300331174945493
+        },
+        {
+            "id": 884007,
+            "weight": 0.09061671342139435
+        },
+        {
+            "id": 845544,
+            "weight": 0.09000523017897719
+        },
+        {
+            "id": 918527,
+            "weight": 0.08944896374932765
+        },
+        {
+            "id": 1022042,
+            "weight": 0.08833176492638611
+        },
+        {
+            "id": 817517,
+            "weight": 0.08619892016134474
+        },
+        {
+            "id": 955572,
+            "weight": 0.08175845964599451
+        },
+        {
+            "id": 949316,
+            "weight": 0.0796851226938791
+        },
+        {
+            "id": 1022809,
+            "weight": 0.0783393440675591
+        },
+        {
+            "id": 16142060,
+            "weight": 0.07585850179187688
+        },
+        {
+            "id": 984130,
+            "weight": 0.06778764764523224
+        },
+        {
+            "id": 1093494,
+            "weight": 0.0650164999381221
+        },
+        {
+            "id": 854133,
+            "weight": 0.05752237074460639
+        }
+    ],
+    "videostarttime": {
+        "1013498": 6585
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_20.06.23_NC_EINDHOVEN_RAA.mp4/playlist.m3u8",
+    "keywords": {
+        "Vrije motie": 1.9989284203437125,
+        "gemeente Utrecht": 0.9987972640362023,
+        "Openbare Orde": 0.9982707306805493,
+        "Nicolas Knoester": 0.9982707306805493,
+        "Verbetering cameraregister": 1.998238014913284,
+        "Virginia Jonkers": 0.9980674986292588,
+        "Burgemeester Dijsselbloem": 0.9972980476452618,
+        "voorsteller Virginia": 0.9970980243402873,
+        "Dijsselbloem zegt": 0.9962505688430291,
+        "otie Verbetering": 0.9961177615584268,
+        "eze vrije": 0.9960430084232689,
+        "indieners roepen": 0.9953144732007507,
+        "motie stellen": 0.9947079521147936,
+        "Gebruik sensoren": 1.9943634597758817,
+        "sensoren gebruikt": 0.9941148029149094,
+        "ind ieners": 0.9934829529038504,
+        "onnodige onrust": 0.9934829529038504,
+        "juni": 0.9873721472389864,
+        "Veiligheid": 0.981985466646831,
+        "Eindhoven": 0.9813494058773623,
+        "gemeente": 0.9806806654501462,
+        "Utrecht": 0.9792979453512557,
+        "motie": 1.9781930262393177,
+        "gebruikt": 0.9755878427931883,
+        "vergadering": 0.9688340712475337,
+        "camera": 1.9645497285079516,
+        "sensoren": 1.9600556658771886,
+        "technologie": 0.9600556658771886,
+        "Orde": 0.9584514247018768,
+        "Nicolas": 0.9584514247018768,
+        "Knoester": 0.9584514247018768,
+        "Jonkers": 0.9584514247018768,
+        "Jongbloed": 0.9584514247018768,
+        "Virginia": 0.9535778543914203,
+        "FvD": 0.9395921883878843,
+        "PvdD": 0.9395921883878843,
+        "griffier": 0.9395921883878843,
+        "cameratoezicht": 0.9395921883878843,
+        "https": 0.9395921883878843,
+        "apps": 0.9395921883878843,
+        "webappviewer": 0.9395921883878843,
+        "index.html": 0.9395921883878843,
+        "huidige": 0.929840516383886,
+        "raad": 0.929840516383886,
+        "register": 1.9298405163838859,
+        "eze": 0.9195335461667128,
+        "besluit": 0.9195335461667128,
+        "nemen": 0.9195335461667128,
+        "staan": 0.9195335461667128,
+        "nauwkeuriger": 0.9195335461667128,
+        "completer": 0.9195335461667128,
+        "ind": 0.9195335461667128,
+        "dient": 0.9195335461667128,
+        "lopen": 0.9195335461667128,
+        "transparantie": 0.9195335461667128,
+        "onrust": 0.9195335461667128,
+        "wantrouwen": 0.9195335461667128,
+        "voorkomen": 0.9195335461667128,
+        "beperken": 0.9195335461667128,
+        "wethoude": 0.9195335461667128,
+        "breiden": 0.9195335461667128,
+        "doeleinden": 0.9195335461667128,
+        "voorbeeld": 0.9195335461667128,
+        "ingetrokken": 0.9195335461667128,
+        "toezegging": 0.9195335461667128,
+        "zegt": 0.9195335461667128,
+        "persoonsgegevens": 0.9195335461667128,
+        "opgenomen": 0.9195335461667128
+    },
+    "svz": null,
+    "afgedaan": "12-09-2023",
+    "eersteIndiener": 194500,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

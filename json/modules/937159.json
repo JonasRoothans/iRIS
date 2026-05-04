@@ -1,0 +1,95 @@
+{
+    "module_id": 937159,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Kosten-baten analyse van het maatregelenpakket Eindhoven Bouwt - Agenderingsverzoek VVD Raadsinformatiebrief Jaarrapportage woningbouwproductie 2023 en doorkijk 2024 - 2027",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/937159",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "16-04-2024",
+    "meeting_url": {
+        "1147925": "https://raadsinformatie.eindhoven.nl/vergadering/1147925#ai_8329710"
+    },
+    "attachment": null,
+    "parent": 924333,
+    "children": [],
+    "text": "Wethouder Verhees zegt toe om de kosten-baten analyse van het maatregelenpakket Eindhoven Bouwt Door nog schriftelijk toe te sturen",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 937161,
+            "weight": 5.459037157715436
+        },
+        {
+            "id": 924333,
+            "weight": 2.766404629662887
+        },
+        {
+            "id": 879558,
+            "weight": 2.6149691975083553
+        },
+        {
+            "id": 1025528,
+            "weight": 2.019726986636808
+        },
+        {
+            "id": 1150885,
+            "weight": 1.321061616739431
+        },
+        {
+            "id": 1027145,
+            "weight": 0.6226617933977381
+        },
+        {
+            "id": 999862,
+            "weight": 0.2456920808629277
+        },
+        {
+            "id": 1060207,
+            "weight": 0.24397195186164675
+        },
+        {
+            "id": 1139088,
+            "weight": 0.226463031417693
+        },
+        {
+            "id": 930770,
+            "weight": 0.1773022228785007
+        }
+    ],
+    "videostarttime": {
+        "1147925": 12958
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_16.04.24_NC_EINDHOVEN_Meningsvorming_RAA.mp4/playlist.m3u8",
+    "keywords": {
+        "Eindhoven Bouwt": 1.9960307358218816,
+        "maatregelenpakket Eindhoven": 1.9942875928286834,
+        "Agenderingsverzoek VVD": 1.993873521324968,
+        "Wethouder Verhees": 0.9938735213249681,
+        "VVD Raadsinformatiebrief": 1.9909081409866451,
+        "Raadsinformatiebrief Jaarrapportage": 1.9909081409866451,
+        "Jaarrapportage woningbouwproductie": 1.9887065393461696,
+        "Kosten-baten analyse": 1.9837938599421638,
+        "Verhees zegt": 0.9814743438745291,
+        "Bouwt": 1.9485733858802923,
+        "analyse": 1.926243971302865,
+        "VVD": 1.9050792862861081,
+        "Jaarrapportage": 1.9050792862861081,
+        "doorkijk": 1.882350835013669,
+        "sturen": 0.8823508350136691,
+        "zegt": 0.8083800907189356,
+        "schriftelijk": 0.8083800907189356
+    },
+    "svz": null,
+    "afgedaan": "08-04-2025",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

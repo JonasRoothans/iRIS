@@ -1,0 +1,64 @@
+{
+    "module_id": 809119,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230013,
+    "title": "Dashboard - Raadsvoorstel Uitvoering gebiedsontwikkeling Fellenoord (Hoe)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/809119",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Steenbakkers (Wethouder)",
+    "result": "",
+    "date": "10-01-2023",
+    "meeting_url": {
+        "1058157": "https://raadsinformatie.eindhoven.nl/vergadering/1058157#ai_7220808"
+    },
+    "attachment": null,
+    "parent": 798901,
+    "children": [],
+    "text": "Een eerste aanzet te zullen doen voor een dashboard ter ondersteuning van sturing en controle vanuit de raad, college en de organisatie. Deze wordt in overleg met de Raadscommissie verder uitgewerkt.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 902702,
+            "weight": 0.36617735520623407
+        },
+        {
+            "id": 809124,
+            "weight": 0.24250896165408053
+        },
+        {
+            "id": "a_7349640",
+            "weight": 0.21448492653615192
+        }
+    ],
+    "videostarttime": {},
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_10.01.2022_NC_Eindhoven_Meningsvorming.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Uitvoering": 1.995011274683204,
+        "gebiedsontwikkeling Fellenoord": 1.9894875238730254,
+        "Uitvoering gebiedsontwikkeling": 1.985723489256499,
+        "Fellenoord": 1.9394292406438942,
+        "Uitvoering": 1.9180469003645362,
+        "Dashboard": 1.8988733338156445,
+        "raad": 0.8828347043014149,
+        "college": 0.8828347043014149,
+        "organisatie": 0.8828347043014149,
+        "aanzet": 0.8282485847338824,
+        "ondersteuning": 0.8282485847338824,
+        "sturing": 0.8282485847338824,
+        "controle": 0.8282485847338824,
+        "Raadscommissie": 0.7633372369042007,
+        "uitgewerkt": 0.6844966924285637,
+        "overleg": 0.5813280487168225
+    },
+    "svz": null,
+    "afgedaan": "04-07-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

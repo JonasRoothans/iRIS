@@ -1,0 +1,66 @@
+{
+    "module_id": 1045788,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230022,
+    "title": "Cliënttevredenheidsonderzoeken Jeugd en Wmo - Raadsvoorstel Kadernota 2026",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1045788",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Toub (Wethouder)",
+    "result": "",
+    "date": "13-05-2025",
+    "meeting_url": {
+        "1256605": "https://raadsinformatie.eindhoven.nl/vergadering/1256605#ai_9262973"
+    },
+    "attachment": null,
+    "parent": 1034468,
+    "children": [],
+    "text": "Wethouder Toub zegt toe de raad te informeren over de nieuwe aanpak.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 975722,
+            "weight": 0.23176566484342878
+        },
+        {
+            "id": 1036316,
+            "weight": 0.22403770677198204
+        },
+        {
+            "id": 847787,
+            "weight": 0.17139962183414614
+        }
+    ],
+    "videostarttime": {
+        "1256605": 13274
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_13.05.25_NC_01-EINDHOVEN-RAA.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Kadernota": 1.9967389880162214,
+        "Wethouder Toub": 0.9950748962302097,
+        "Cliënttevredenheidsonderzoeken Jeugd": 1.9917067928775634,
+        "Toub zegt": 0.986202801796007,
+        "nieuwe aanpak": 0.9846191788281083,
+        "Wmo": 1.9429876123096683,
+        "Kadernota": 1.9429876123096683,
+        "Jeugd": 1.9140368224837343,
+        "Toub": 0.9140368224837344,
+        "aanpak": 0.9043195497355658,
+        "zegt": 0.8416830712200127,
+        "raad": 0.8416830712200127,
+        "informeren": 0.8416830712200127,
+        "nieuwe": 0.8416830712200127
+    },
+    "svz": null,
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": [
+        1256605
+    ]
+}

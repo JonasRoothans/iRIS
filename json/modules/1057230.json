@@ -1,0 +1,97 @@
+{
+    "module_id": 1057230,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230019,
+    "title": "Website - Raadsvoorstel Zesde wijziging ASV Eindhoven",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1057230",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. van Lanschot (Wethouder)",
+    "result": "",
+    "date": "19-06-2025",
+    "meeting_url": {
+        "1256618": "https://raadsinformatie.eindhoven.nl/vergadering/1256618#ai_9403683"
+    },
+    "attachment": null,
+    "parent": 1047421,
+    "children": [],
+    "text": "Wethouder Van Lanschot heeft toegezegd dat:\ner nu een leesbare variant van de verordening op de website van de gemeente komt;",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1057232,
+            "weight": 3.4142872519981298
+        },
+        {
+            "id": 1057242,
+            "weight": 3.4110675127696477
+        },
+        {
+            "id": 1057237,
+            "weight": 3.4018689960794752
+        },
+        {
+            "id": 1047421,
+            "weight": 3.3715426685202576
+        },
+        {
+            "id": 1114088,
+            "weight": 0.8762398619438124
+        },
+        {
+            "id": 826203,
+            "weight": 0.5684337797596316
+        },
+        {
+            "id": 944752,
+            "weight": 0.19054509269617417
+        },
+        {
+            "id": 997118,
+            "weight": 0.18211638972357372
+        },
+        {
+            "id": 775301,
+            "weight": 0.18040515408630692
+        },
+        {
+            "id": 1112893,
+            "weight": 0.17694220688249795
+        }
+    ],
+    "videostarttime": {
+        "1256618": 13215
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/19.06.25 Eindhoven Meningsvorming.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Zesde": 1.9963382832242549,
+        "ASV Eindhoven": 1.99493589928251,
+        "Eindhoven Wethouder": 0.9949358992825099,
+        "Zesde wijziging": 1.9907055857825466,
+        "wijziging ASV": 1.9907055857825466,
+        "gemeente komt": 0.988571558349425,
+        "leesbare variant": 0.9828812762754603,
+        "Zesde": 1.9290170103721622,
+        "ASV": 1.9290170103721622,
+        "Wethouder": 0.9290170103721623,
+        "Lanschot": 0.9290170103721623,
+        "Website": 1.915140197013009,
+        "komt": 0.9129032426367572,
+        "toegezegd": 0.8702671774635906,
+        "leesbare": 0.8702671774635906,
+        "variant": 0.8702671774635906,
+        "verordening": 0.8702671774635906
+    },
+    "svz": null,
+    "afgedaan": "Q4 2025",
+    "eersteIndiener": null,
+    "lastScrapeDate": "02-10-2025",
+    "meeting_id": [
+        1256618
+    ]
+}

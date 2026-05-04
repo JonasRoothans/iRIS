@@ -1,0 +1,63 @@
+{
+    "module_id": "ai_7826362",
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Werksessies - Initiatiefvoorstel - Lokale Inclusie Agenda",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/moties_en_toezeggingen/879000?parent_event=1127249",
+    "type": "Agenda",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "12-09-2023",
+    "meeting_url": "https://raadsinformatie.eindhoven.nl/vergadering/1127249#ai_7826362",
+    "attachment": null,
+    "parent": null,
+    "children": [
+        879000,
+        879006
+    ],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 856465,
+            "weight": 0.5668171650684036
+        },
+        {
+            "id": 1054527,
+            "weight": 0.4571888002324009
+        },
+        {
+            "id": 1022333,
+            "weight": 0.2807515583404198
+        },
+        {
+            "id": 864025,
+            "weight": 0.2515703752322439
+        },
+        {
+            "id": 1028139,
+            "weight": 0.23780604340309727
+        }
+    ],
+    "videostarttime": 729,
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_12.09.23_NC_Eindhoven_Cie.mp4/playlist.m3u8",
+    "keywords": {
+        "Lokale Inclusie": 1.9873976398760465,
+        "Inclusie Agenda": 1.9873976398760465,
+        "Initiatiefvoorstel": 1.9696036283675864,
+        "Werksessies": 1.9550880231213545,
+        "Lokale": 1.9140368224837343,
+        "Agenda": 1.9140368224837343
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": null,
+    "meeting_id": []
+}

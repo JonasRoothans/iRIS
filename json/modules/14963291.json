@@ -1,0 +1,154 @@
+{
+    "module_id": 14963291,
+    "vote_id": null,
+    "member_id": [
+        194514,
+        133670
+    ],
+    "party_list": [
+        "PvdA",
+        "GroenLinks"
+    ],
+    "poho_id": [],
+    "title": "Vraag V6 Vragenhalfuur - Onbetaalbare bomen geveld voor wat (GL, PvdA)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "17-12-2024",
+    "meeting_url": {
+        "1148345": "https://raadsinformatie.eindhoven.nl/vergadering/1148345/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/14963291/1/Vraag+V6+Vragenhalfuur+-+Onbetaalbare+bomen+geveld+voor+wat+%28GL%2C+PvdA%29?connection_type=1&connection_id=7855669",
+    "pdf_text": "  \n \nVragenhalfuur - Onbetaalbare bomen geveld voor wat?           V6               \n \nAfgelopen donderdag hebben we via het Eindhovens Dagblad vernomen1 dat er \nongeveer 40 bomen op het parkeer terrein aan de Hofdijkstraat  gekapt zijn. In het \nkrantenartikel lezen we dat de uitvoerende partij niet het gevoel heeft dat er een \nkapvergunning noodzakelijk was. Echter, kijkend naar de overgebleven stammen \nlijkt dat ons sterk. Vandaar dat we enkele vragen hebben:  \n \n1. Hoe kijkt het college op dit moment naar deze situatie?  \n2. Wil het college de raad actief informeren over de lopende onderzoeken  \nrondom deze casus ? \n3. Denkt het college dat de in mei vastgestelde Verordening bomen 2024 \nvoldoende afschrikt op dit moment?  \n \nOp de Groene kaart2 staan er geen bomen aangegeven op het terrein. Na een \ngesprek met enkele inwoners, waaronder verschillende Stadsboswachters, vragen \nwe het volgende af:  \n \n4. Komt er een mogelijkheid zodat inwoners bomen op de Groene kaart \nkunnen plaatsen?  \n \nEindhoven, 17-12-2024  \n \n \nDe leden van de raad  en/of commissie , \n \nBart Habraken , GroenLinks Eindhoven  \nRosa van den Nieuwenhof , PvdA Eindhoven  \n \n \n \n1 Veertig bomen illegaal gekapt bij oude Lidl in Eindhoven, buurman Frank kon alleen de \ngrootste nog redden | Eindhoven | ed.nl  \n2 Groene kaart  \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 1120756,
+            "weight": 0.6624448344129436
+        },
+        {
+            "id": 999545,
+            "weight": 0.418499088879113
+        },
+        {
+            "id": 865496,
+            "weight": 0.2495138929069891
+        },
+        {
+            "id": 15169776,
+            "weight": 0.1742681933037863
+        },
+        {
+            "id": 1021295,
+            "weight": 0.16084784931163582
+        },
+        {
+            "id": 1144329,
+            "weight": 0.14732817384468647
+        },
+        {
+            "id": "ai_8588294",
+            "weight": 0.14652628173096707
+        },
+        {
+            "id": 924181,
+            "weight": 0.14638255585071128
+        },
+        {
+            "id": 950197,
+            "weight": 0.13435460486595976
+        },
+        {
+            "id": 1076920,
+            "weight": 0.13237385627279394
+        },
+        {
+            "id": 15944212,
+            "weight": 0.1321813646550894
+        },
+        {
+            "id": 1080140,
+            "weight": 0.11241815776874144
+        },
+        {
+            "id": 1094272,
+            "weight": 0.11065048765167801
+        },
+        {
+            "id": 1085543,
+            "weight": 0.08809199156038403
+        },
+        {
+            "id": 776998,
+            "weight": 0.0820608752957786
+        },
+        {
+            "id": 806370,
+            "weight": 0.07243252343857444
+        },
+        {
+            "id": 858405,
+            "weight": 0.04993175419505504
+        }
+    ],
+    "videostarttime": {
+        "1148345": 1509
+    },
+    "videolink": null,
+    "keywords": {
+        "Onbetaalbare bomen": 1.98881054100548,
+        "Vragenhalfuur": 1.9790042513995987,
+        "bomen geveld": 1.9706506290623453,
+        "geveld": 1.940061853576144,
+        "bomen": 1.9339268439423898,
+        "Eindhoven": 0.9326209462131858,
+        "Eindhovens Dagblad": 0.9302049830410652,
+        "Groene": 0.8992212330789203,
+        "Groene kaart": 0.8920860614390125,
+        "Hofdijkstraat gekapt": 0.8627908456361907,
+        "Vraag": 1.848726215826649,
+        "college": 0.8377646284040998,
+        "Dagblad": 0.8063449020178709,
+        "Bart Habraken": 0.7988958430307563,
+        "Verordening bomen": 0.7789461949135323,
+        "PvdA": 1.753946114183454,
+        "terrein": 0.7300925135615843,
+        "gekapt": 0.7136185509901896,
+        "vragen": 0.7094622599083669,
+        "kaart": 0.7064276484997343,
+        "GroenLinks Eindhoven": 0.702865541356666,
+        "inwoners": 0.6942935581828753,
+        "parkeer terrein": 0.6661218267545231,
+        "vastgestelde Verordening": 0.6404075757037208,
+        "Denkt": 0.6333923624127598,
+        "verschillende Stadsboswachters": 0.6238844125945355,
+        "Nieuwenhof": 0.5908145439358581,
+        "Veertig": 0.5908145439358581,
+        "buurman Frank": 0.5801376372795757,
+        "Rosa": 0.5651018230350249,
+        "Lidl": 0.5651018230350249,
+        "Frank": 0.5651018230350249,
+        "oude Lidl": 0.5498785885775501,
+        "krantenartikel lezen": 0.5491371586999616,
+        "uitvoerende partij": 0.5491371586999616,
+        "kapvergunning noodzakelijk": 0.5491371586999616,
+        "donderdag": 0.5363108475225105,
+        "via": 0.5363108475225105,
+        "parkeer": 0.5363108475225105,
+        "bomen illegaal": 0.5072139932421597
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 133670,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1148345
+    ]
+}

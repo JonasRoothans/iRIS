@@ -1,0 +1,83 @@
+{
+    "module_id": 966047,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230014,
+    "title": "Illegale bijzet - Raadsvoorstel Jaarstukken 2023",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/966047",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "R. Thijs (Wethouder)",
+    "result": "",
+    "date": "26-06-2024",
+    "meeting_url": {
+        "1147976": "https://raadsinformatie.eindhoven.nl/vergadering/1147976#ai_8483475"
+    },
+    "attachment": null,
+    "parent": 946916,
+    "children": [],
+    "text": "Wethouder Thijs zegt toe om de raad te informeren over de mogelijkheid tot hogere opruimpremie voor illegale bijzet.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1038657,
+            "weight": 1.3599342355931556
+        },
+        {
+            "id": 979297,
+            "weight": 0.20843097355223805
+        },
+        {
+            "id": 1034706,
+            "weight": 0.18602159795506756
+        },
+        {
+            "id": 891231,
+            "weight": 0.17959076959879722
+        },
+        {
+            "id": 891237,
+            "weight": 0.1768568271172847
+        },
+        {
+            "id": 13256903,
+            "weight": 0.16677230711265187
+        },
+        {
+            "id": 12943387,
+            "weight": 0.15822718817509537
+        },
+        {
+            "id": 984130,
+            "weight": 0.11351036880335524
+        }
+    ],
+    "videostarttime": {
+        "1147976": null
+    },
+    "videolink": null,
+    "keywords": {
+        "Raadsvoorstel Jaarstukken": 1.9960459170124993,
+        "Wethouder Thijs": 0.9941166189494695,
+        "Illegale bijzet": 1.9914093364528824,
+        "Thijs zegt": 0.9824814136594371,
+        "hogere opruimpremie": 0.9646681625357204,
+        "bijzet": 1.9582141219340863,
+        "Jaarstukken": 1.937242452303071,
+        "Thijs": 0.9068005435230696,
+        "zegt": 0.815267491605084,
+        "raad": 0.815267491605084,
+        "informeren": 0.815267491605084,
+        "mogelijkheid": 0.815267491605084,
+        "hogere": 0.815267491605084
+    },
+    "svz": "Zie rib d.d. 16 oktober.\nvoorstel college: afvoeren...  Lees verder ",
+    "afgedaan": "19-11-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

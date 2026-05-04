@@ -1,0 +1,92 @@
+{
+    "module_id": 1030771,
+    "vote_id": 9108790,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Raadsvoorstel gewijzigde vaststelling Bestemmingsplan Buitengebied Eindhoven 2023",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/moties_en_toezeggingen/1030771?parent_event=1256317",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "25-03-2025",
+    "meeting_url": {
+        "1256317": "https://raadsinformatie.eindhoven.nl/vergadering/1256317#ai_9044363"
+    },
+    "attachment": null,
+    "parent": 1013568,
+    "children": [],
+    "text": "Wethouder Verhees zegt toe in gesprek te gaan met de eigenaar van het perceel en binnen de regels te onderzoeken wat wel mogelijk is.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1027452,
+            "weight": 1.1372001364539925
+        },
+        {
+            "id": "o_9202790",
+            "weight": 1.1365122857676109
+        },
+        {
+            "id": 1027454,
+            "weight": 1.136143000932163
+        },
+        {
+            "id": 1013568,
+            "weight": 0.5693864593354286
+        },
+        {
+            "id": 1028150,
+            "weight": 0.5685828322699232
+        },
+        {
+            "id": 889740,
+            "weight": 0.28390766498553166
+        },
+        {
+            "id": 831335,
+            "weight": 0.2686859185467167
+        },
+        {
+            "id": 912836,
+            "weight": 0.2605009613618858
+        },
+        {
+            "id": 1082736,
+            "weight": 0.2536534600613486
+        }
+    ],
+    "videostarttime": {
+        "1256317": 2340
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_25.03.25_01-EINDHOVEN-RAA-ONDERTITEL_2025.03.25_205144.mp4/playlist.m3u8",
+    "keywords": {
+        "Buitengebied Eindhoven": 1.9950748962302098,
+        "Wethouder Verhees": 0.9950748962302097,
+        "Bestemmingsplan Buitengebied": 1.9925553183866471,
+        "vaststelling Bestemmingsplan": 1.986202801796007,
+        "Verhees zegt": 0.986202801796007,
+        "Raadsvoorstel gewijzigde": 1.9846191788281082,
+        "gewijzigde vaststelling": 1.9742913828560065,
+        "Eindhoven": 1.9429876123096683,
+        "gewijzigde": 1.8416830712200127,
+        "zegt": 0.8416830712200127,
+        "gesprek": 0.8416830712200127,
+        "gaan": 0.8416830712200127,
+        "eigenaar": 0.8416830712200127,
+        "perceel": 0.8416830712200127,
+        "regels": 0.8416830712200127,
+        "onderzoeken": 0.8416830712200127
+    },
+    "svz": "De eigenaar is geinformeerd over de mogelijkheden op het perceel. Daarnaast is er een (ambtelijk) gesprek aang...  Lees verder ",
+    "afgedaan": "03-06-2025",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": [
+        1256317
+    ]
+}

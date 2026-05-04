@@ -1,0 +1,145 @@
+{
+    "module_id": 12424215,
+    "vote_id": null,
+    "member_id": [
+        194402
+    ],
+    "party_list": [
+        "D66"
+    ],
+    "poho_id": [],
+    "title": "Vraag V3 Vragenhalfuur Kansengelijkheid voor alle studenten (D66)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "14-02-2023",
+    "meeting_url": {
+        "1013452": "https://raadsinformatie.eindhoven.nl/vergadering/1013452/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/12424215/1/Vraag+V3+Vragenhalfuur+Kansengelijkheid+voor+alle+studenten+%28D66%29?connection_type=1&connection_id=6964790",
+    "pdf_text": " \n \nVraag voor het Vragenhalfuur          V3 \n \nKansengelijkheid voor alle studenten . Meer waardering voor \nhet MBO.  \n \nDe helft van alle studenten studeert aan het MBO. We zien in de samenleving nog \nveelvuldig voorbeelden waarbij MBO studenten achtergesteld worden op studenten van \nde Hogeschool en Universiteit.   \n \nGisteren kwam onderwijsminister Dijkgraaf naar Eindhoven toe . Hij ging hier in gesprek \nmet studenten van het Summa College. Hierbij kwamen meermaals voorbeelden voorbij \nover de manier waarop studenten van het Summa College zich ongelijk behandel d \nvoelen in vergelijking met de studenten van de Hogeschool en Universi teit. De minister \nriep in deze bijeenkomst steden en instellingen op om alle studenten gelijk te \nbehandelen.  \n \n1. Kan de wethouder begrijpen dat studenten van het MBO zich ongelijk, en soms \nzelfs denigrerend, behandel d voelen?  \n2. Ziet de wethouder mogelijkheden om als gemeente een bijdrage te leveren aan \nmeer kansengelijkheid voor alle studenten? Bijvoorbeeld door het studenten \nsport centrum beschikbaar te maken voor alle studenten ? \n \n \nChris Dams (D66)  \n \n \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 993330,
+            "weight": 0.34849341245072474
+        },
+        {
+            "id": 1128665,
+            "weight": 0.3238740216122491
+        },
+        {
+            "id": 13283054,
+            "weight": 0.2391782532129283
+        },
+        {
+            "id": 1139113,
+            "weight": 0.13520481507434096
+        },
+        {
+            "id": 1000421,
+            "weight": 0.13506509320227866
+        },
+        {
+            "id": 776915,
+            "weight": 0.1142427618603351
+        },
+        {
+            "id": 15038731,
+            "weight": 0.10396139606007394
+        },
+        {
+            "id": 1034694,
+            "weight": 0.1027718869406912
+        },
+        {
+            "id": 909337,
+            "weight": 0.10177960720187187
+        },
+        {
+            "id": 920227,
+            "weight": 0.09954965810418909
+        },
+        {
+            "id": 861369,
+            "weight": 0.09299858022039745
+        },
+        {
+            "id": "a_8568072",
+            "weight": 0.08047829555197576
+        },
+        {
+            "id": 1053245,
+            "weight": 0.07998151513555422
+        },
+        {
+            "id": 815740,
+            "weight": 0.07825382154242203
+        },
+        {
+            "id": 1011191,
+            "weight": 0.07804459604300837
+        },
+        {
+            "id": 863894,
+            "weight": 0.07755494787798607
+        },
+        {
+            "id": 822562,
+            "weight": 0.07690379672055654
+        },
+        {
+            "id": 776868,
+            "weight": 0.06938806236139032
+        },
+        {
+            "id": 890632,
+            "weight": 0.06352194389803013
+        }
+    ],
+    "videostarttime": {
+        "1013452": 941
+    },
+    "videolink": null,
+    "keywords": {
+        "Vragenhalfuur Kansengelijkheid": 1.979577021987503,
+        "studenten": 1.9709607400735771,
+        "Vragenhalfuur": 1.9672945836931488,
+        "Vraag": 1.959865570467124,
+        "Summa College": 0.9569855421476676,
+        "MBO": 0.9568398977275353,
+        "waarbij MBO": 0.8856276358074155,
+        "Hogeschool": 0.8707528140484282,
+        "Summa": 0.8637074317794546,
+        "Chris Dams": 0.8072865750830692,
+        "waardering": 0.7753538621403068,
+        "studenten studeert": 0.7664303274800262,
+        "onderwijsminister Dijkgraaf": 0.7323445522670471,
+        "Universiteit": 0.7322103430970264,
+        "voorbeelden": 0.7321417855940637,
+        "ongelijk": 0.7190041058296703,
+        "behandel": 0.7190041058296703,
+        "wethouder": 0.706421742496893,
+        "Dijkgraaf": 0.6713387660368482,
+        "Eindhoven": 0.6713387660368482,
+        "Ziet": 0.609395020913233,
+        "Chris": 0.5980352856613903,
+        "Dams": 0.5980352856613903,
+        "ongelijk behandel": 0.5383647744898248,
+        "veelvuldig voorbeelden": 0.5326898790879679
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194402,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1013452
+    ]
+}

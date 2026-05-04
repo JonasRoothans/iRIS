@@ -1,0 +1,109 @@
+{
+    "module_id": 984487,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Wijkontwikkeling/leefbare wijken - Raadsvoorstel Begroting 2025",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/984487",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "29-10-2024",
+    "meeting_url": {
+        "1148141": "https://raadsinformatie.eindhoven.nl/vergadering/1148141#ai_8729567"
+    },
+    "attachment": null,
+    "parent": 975511,
+    "children": [],
+    "text": "Wethouder Verhees zegt toe dat de raad middels een collegebrief wordt geïnformeerd over hoe de 1,8 miljoen euro besteed wordt.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1139068,
+            "weight": 0.6505781094917729
+        },
+        {
+            "id": 1022720,
+            "weight": 0.33022657222249285
+        },
+        {
+            "id": 1000397,
+            "weight": 0.2884215995468261
+        },
+        {
+            "id": 863575,
+            "weight": 0.284578914824891
+        },
+        {
+            "id": 904448,
+            "weight": 0.26586924971002107
+        },
+        {
+            "id": 1021307,
+            "weight": 0.09565916780673803
+        },
+        {
+            "id": 819546,
+            "weight": 0.09560064611868344
+        },
+        {
+            "id": 973404,
+            "weight": 0.09416196645891974
+        },
+        {
+            "id": 1003503,
+            "weight": 0.08362702105864575
+        },
+        {
+            "id": 852093,
+            "weight": 0.0794243680614162
+        },
+        {
+            "id": 790670,
+            "weight": 0.07391984517876846
+        },
+        {
+            "id": 926421,
+            "weight": 0.06706854834740102
+        },
+        {
+            "id": 796421,
+            "weight": 0.0657028844015951
+        },
+        {
+            "id": 1031702,
+            "weight": 0.05591720723223901
+        }
+    ],
+    "videostarttime": {
+        "1148141": null
+    },
+    "videolink": null,
+    "keywords": {
+        "Raadsvoorstel Begroting": 1.9967389880162214,
+        "Wethouder Verhees": 0.9950748962302097,
+        "leefbare wijken": 1.990760667672852,
+        "Verhees zegt": 0.986202801796007,
+        "miljoen euro": 0.9846191788281083,
+        "raad middels": 0.9742913828560066,
+        "euro besteed": 0.9742913828560066,
+        "Wijkontwikkeling": 1.9550880231213545,
+        "Begroting": 1.9429876123096683,
+        "wijken": 1.9043195497355658,
+        "zegt": 0.8416830712200127,
+        "raad": 0.8416830712200127,
+        "collegebrief": 0.8416830712200127,
+        "geïnformeerd": 0.8416830712200127,
+        "euro": 0.8416830712200127
+    },
+    "svz": "Hierover is uw Raad geinformeerd dmv collegebrief Gebiedsgericht werken, zie  https://raadsinformatie.ein...  Lees verder ",
+    "afgedaan": "28-01-2025",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

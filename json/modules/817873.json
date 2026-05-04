@@ -1,0 +1,81 @@
+{
+    "module_id": 817873,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230019,
+    "title": "Raadsvoorstel investeringsbudget nieuwbouw Tongelreep (Motie M1)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/817873",
+    "type": "Motie",
+    "member": "",
+    "party": null,
+    "poho": "M. van Lanschot (Wethouder)",
+    "result": "Ingetrokken na toezegging",
+    "date": "24-01-2023",
+    "meeting_url": {
+        "1013447": "https://raadsinformatie.eindhoven.nl/vergadering/1013447#ai_7243548"
+    },
+    "attachment": null,
+    "parent": 799172,
+    "children": [],
+    "text": "Wethouder Van Lanschot zegt toe de motie te omarmen",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 832867,
+            "weight": 1.712526850474378
+        },
+        {
+            "id": 832868,
+            "weight": 1.7119918248094872
+        },
+        {
+            "id": 832869,
+            "weight": 1.711292572646124
+        },
+        {
+            "id": 831872,
+            "weight": 1.3805703083544458
+        },
+        {
+            "id": 799286,
+            "weight": 1.058066674171815
+        },
+        {
+            "id": 832479,
+            "weight": 0.7714129653396382
+        },
+        {
+            "id": 1107607,
+            "weight": 0.6493369091815115
+        },
+        {
+            "id": 799172,
+            "weight": 0.489743653111541
+        }
+    ],
+    "videostarttime": {
+        "1013447": 15132
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_24.01.23_Eindhoven_NC_Raadsvergadering.mp4/playlist.m3u8",
+    "keywords": {
+        "nieuwbouw Tongelreep": 1.9886475638983352,
+        "Lanschot zegt": 0.9830130098510689,
+        "Raadsvoorstel investeringsbudget": 1.9795649447096366,
+        "investeringsbudget nieuwbouw": 1.9661075580628975,
+        "Tongelreep": 1.9380026978816607,
+        "Wethouder": 0.9380026978816607,
+        "Motie": 1.9157178949357476,
+        "Raadsvoorstel": 1.889394506617173,
+        "omarmen": 0.889394506617173,
+        "nieuwbouw": 1.8189436545351538,
+        "zegt": 0.8189436545351538
+    },
+    "svz": null,
+    "afgedaan": "13-06-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

@@ -1,0 +1,117 @@
+{
+    "module_id": 900276,
+    "vote_id": null,
+    "member_id": [
+        194500
+    ],
+    "party_list": [
+        "FVD"
+    ],
+    "poho_id": [],
+    "title": "Beantwoording raadsvragen Budgetoverschrijding bijscholingsbudget (FvD)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/4/Raadsvragen/900276",
+    "type": "Raadsvraag",
+    "member": "Nicolas Knoester",
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "05-12-2023",
+    "meeting_url": null,
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/13572619/1?connection_type=17&connection_id=10047006": "Vraag",
+        "https://raadsinformatie.eindhoven.nl/document/13648404/2?connection_type=17&connection_id=10112193": "Antwoord"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/13572619/1?connection_type=17&connection_id=10047006",
+    "pdf_text": " \n \n \nRaadsvragen Budgetoverschrijding bijscholingsbudget  \n \ndatum:  29 november  2023  \n \n \nGeacht college,  \n \nInleiding  \nGeacht college,  \n \nN.a.v. technische vragen (zie bijlage) het volgende. Het verheugt FVD \ndat onze ambtenaren het laatste jaar meer gebruik zijn gaan maken van \nhun bijscholingsbudget. Dat is iets wat de kwaliteit ten goede komt en \nwaar we trots op mogen zijn. Dat is in sommige gemeenten wel anders. \nHelaas heeft er in 2022 wel een forse budget overschrij ding \nplaatsgevonden van €119.215, -  \n \nRaadsvragen:  \n1. Deelt het college de mening dat forse budgetoverschrijdingen door de \ngemeente het vertrouwen van inwoners ondermijnt?  \n \n2. Uit welke middelen is de overschrijding gedekt?  \n \n3. Wat is de reden voor de overschrijding? Is er geen sprake van tijdige \nbijsturing geweest?   \n \n3. Wat is de prognose voor 2023?  \n \n \nNamens de fractie , \nForum voor Democratie  \n \nNicolas Knoester , raadslid  \n \n \n \n \nBijlage  \n \n \n",
+    "bst": "23bst01853",
+    "related": [
+        {
+            "id": 903599,
+            "weight": 0.3307776817636017
+        },
+        {
+            "id": 831103,
+            "weight": 0.33040300268254796
+        },
+        {
+            "id": 852706,
+            "weight": 0.18339992827053656
+        },
+        {
+            "id": 1085543,
+            "weight": 0.13316262964488768
+        },
+        {
+            "id": 896181,
+            "weight": 0.09359170509876553
+        },
+        {
+            "id": 884204,
+            "weight": 0.09212575214403486
+        },
+        {
+            "id": 861565,
+            "weight": 0.08756091565483361
+        },
+        {
+            "id": 885516,
+            "weight": 0.08471892739212279
+        },
+        {
+            "id": 892419,
+            "weight": 0.0784467414837717
+        },
+        {
+            "id": 803411,
+            "weight": 0.07126391930784806
+        },
+        {
+            "id": 1146887,
+            "weight": 0.06730372501685578
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Inleiding Geacht": 0.9963284065855489,
+        "Budgetoverschrijding bijscholingsbudget": 1.9937779475555262,
+        "raadsvragen Budgetoverschrijding": 1.9933395695810994,
+        "Geacht college": 0.9871926498085999,
+        "technische vragen": 0.9762270511529829,
+        "Geacht": 0.9707094258875627,
+        "bijscholingsbudget datum": 0.9622128693494805,
+        "Beantwoording raadsvragen": 1.959479094143072,
+        "raadsvragen": 1.914814166411333,
+        "verheugt FVD": 0.9115876757889596,
+        "FvD": 1.9066956264734243,
+        "november": 0.8756198264197466,
+        "college": 0.8578895846994983,
+        "datum": 0.8476158829651534,
+        "volgende": 0.8476158829651534,
+        "bijlage": 0.821618428292607,
+        "Nicolas Knoester": 0.7892846064761403,
+        "Democratie Nicolas": 0.7666909209112645,
+        "laatste jaar": 0.7662166184389246,
+        "gaan maken": 0.7662166184389246,
+        "overschrijding": 1.7316260470094016,
+        "forse": 0.7282692080470679,
+        "raadslid Bijlage": 0.7023528026710524,
+        "goede komt": 0.611448095398045,
+        "Knoester": 0.5998485970492455,
+        "Nicolas": 0.5650594939632438,
+        "ambtenaren": 0.5647013101930445,
+        "jaar": 0.5647013101930445,
+        "gebruik": 0.5647013101930445,
+        "gaan": 0.5647013101930445,
+        "maken": 0.5647013101930445,
+        "forse budget": 0.5027952005524892
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194500,
+    "lastScrapeDate": "02-04-2026",
+    "meeting_id": []
+}

@@ -1,0 +1,54 @@
+{
+    "module_id": 813336,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 231116,
+    "title": "Onderdeel opkomstbevordering - Graag een goed gevulde goodiebag voor 18-jarigen! (rondvraag).",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/813336",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "J. Dijsselbloem (Burgemeester)",
+    "result": "",
+    "date": "17-01-2023",
+    "meeting_url": {
+        "1057550": "https://raadsinformatie.eindhoven.nl/vergadering/1057550#ai_7216509"
+    },
+    "attachment": null,
+    "parent": "ai_7216509",
+    "children": [],
+    "text": "Graag een goed gevulde goodiebag voor 18-jarigen schriftelijk te beantwoorden wat betreft het onderdeel opkomstbevordering/verkiezingen",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": "ai_7216509",
+            "weight": 4.170805995227057
+        },
+        {
+            "id": 12324103,
+            "weight": 2.480436782595297
+        }
+    ],
+    "videostarttime": {
+        "1057550": 872
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_17.01.2023_Eindhoven_meningsvorming_raadzaal.mp4/playlist.m3u8",
+    "keywords": {
+        "Onderdeel opkomstbevordering": 1.8955467798490129,
+        "Graag": 1.8869604260870618,
+        "goed gevulde": 1.8765809788589776,
+        "gevulde goodiebag": 1.8765809788589776,
+        "goed": 1.777530218279601,
+        "Onderdeel": 1.7219747178688936,
+        "rondvraag": 1.713876352982594,
+        "verkiezingen": 0.6313355412835506
+    },
+    "svz": "VOORSTEL COLLEGE: AFVOEREN De suggestie om informatie over opkomstbevordering/verkiezing toe te voegen in de g...  Lees verder ",
+    "afgedaan": "28-03-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

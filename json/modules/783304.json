@@ -1,0 +1,205 @@
+{
+    "module_id": 783304,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 231116,
+    "title": "Formatie en bezetting - Raadsvoorstel Regionaal Veiligheidsplan 2023-2026",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/783304",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "J. Dijsselbloem (Burgemeester)",
+    "result": "",
+    "date": "27-09-2022",
+    "meeting_url": {
+        "1018979": "https://raadsinformatie.eindhoven.nl/vergadering/1018979#ai_7011677"
+    },
+    "attachment": null,
+    "parent": 778194,
+    "children": [],
+    "text": "De burgemeester beantwoordt de vragen en doet de volgende toezeggingen:\nDe raad ontvangt een overzicht van de formatie en bezetting (eenheid, district en basisteams), met daarbij het onderscheid en inzicht in welke taken er in de eenheid gezamenlijk zijn georganiseerd en wat dat betekent voor de basisteams. Ook wordt hier een politieke duiding bij gegeven.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 783302,
+            "weight": 3.955482348806582
+        },
+        {
+            "id": 778194,
+            "weight": 2.3232296289115832
+        },
+        {
+            "id": 826742,
+            "weight": 0.7699662477027337
+        },
+        {
+            "id": "a_7092416",
+            "weight": 0.7467516063517013
+        },
+        {
+            "id": 866427,
+            "weight": 0.6610339812899879
+        },
+        {
+            "id": 1125838,
+            "weight": 0.6587898079934401
+        },
+        {
+            "id": 894948,
+            "weight": 0.36590456376219466
+        },
+        {
+            "id": 825029,
+            "weight": 0.32723935105997703
+        },
+        {
+            "id": 1139081,
+            "weight": 0.26504164177147904
+        },
+        {
+            "id": 1037377,
+            "weight": 0.19469213424845988
+        },
+        {
+            "id": 982310,
+            "weight": 0.19461148350262247
+        },
+        {
+            "id": 991365,
+            "weight": 0.19188119773465231
+        },
+        {
+            "id": 1096887,
+            "weight": 0.18963663773836792
+        },
+        {
+            "id": 879839,
+            "weight": 0.18830585525692356
+        },
+        {
+            "id": 937995,
+            "weight": 0.17753972058165224
+        },
+        {
+            "id": 931275,
+            "weight": 0.1410975875368211
+        },
+        {
+            "id": 891067,
+            "weight": 0.13591517321904478
+        },
+        {
+            "id": 845573,
+            "weight": 0.12826934352334432
+        },
+        {
+            "id": 862377,
+            "weight": 0.12413696881048558
+        },
+        {
+            "id": 879066,
+            "weight": 0.12330292230632044
+        },
+        {
+            "id": "i_7006130",
+            "weight": 0.11706789317243743
+        },
+        {
+            "id": 979297,
+            "weight": 0.10647873879740784
+        },
+        {
+            "id": 933006,
+            "weight": 0.07134646523334279
+        },
+        {
+            "id": 856074,
+            "weight": 0.06887011237036371
+        },
+        {
+            "id": 1091457,
+            "weight": 0.06779716096526575
+        },
+        {
+            "id": 966048,
+            "weight": 0.06467044697935191
+        },
+        {
+            "id": 988942,
+            "weight": 0.06402637136886298
+        },
+        {
+            "id": 776130,
+            "weight": 0.06131711121187455
+        },
+        {
+            "id": "a_7462821",
+            "weight": 0.06034498872435698
+        },
+        {
+            "id": 12077315,
+            "weight": 0.05847078421306528
+        },
+        {
+            "id": 16451950,
+            "weight": 0.05739075616203196
+        },
+        {
+            "id": 826918,
+            "weight": 0.05728203863725455
+        },
+        {
+            "id": 776928,
+            "weight": 0.051971065980952524
+        },
+        {
+            "id": 1080541,
+            "weight": 0.045791312091262415
+        },
+        {
+            "id": "r_7006036",
+            "weight": 0.04186316266266754
+        }
+    ],
+    "videostarttime": {
+        "1018979": 650
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_27.09.22_NC_Eindhoven_meningRZ.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Regionaal": 1.996516103027352,
+        "Regionaal Veiligheidsplan": 1.9959060107392206,
+        "Veiligheidsplan 2023-2026": 1.9912850518904164,
+        "volgende toezeggingen": 0.9848873451648248,
+        "burgemeester beantwoordt": 0.981351464520125,
+        "Regionaal": 1.9361462855328107,
+        "bezetting": 1.9354933085575614,
+        "Formatie": 1.9060278557487633,
+        "basisteams": 0.8769335545566386,
+        "eenheid gezamenlijk": 0.8695069327805943,
+        "2023-2026": 1.864696141084181,
+        "burgemeester": 0.8646961410841809,
+        "beantwoordt": 0.8646961410841809,
+        "vragen": 0.8646961410841809,
+        "volgende": 0.8646961410841809,
+        "raad ontvangt": 0.8584800716573164,
+        "eenheid": 0.8360835691473695,
+        "politieke duiding": 0.7573478788678754,
+        "district": 0.699597843486603,
+        "raad": 0.6478991681091815,
+        "overzicht": 0.6478991681091815,
+        "daarbij": 0.6478991681091815,
+        "onderscheid": 0.6478991681091815,
+        "taken": 0.6478991681091815,
+        "georganiseerd": 0.6478991681091815,
+        "betekent": 0.6478991681091815,
+        "duiding": 0.5581068562325531
+    },
+    "svz": null,
+    "afgedaan": "07-10-2022",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

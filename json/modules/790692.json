@@ -1,0 +1,119 @@
+{
+    "module_id": 790692,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230014,
+    "title": "Laadpalenbeleid",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/moties_en_toezeggingen/790692?parent_event=1034745",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "R. Thijs (Wethouder)",
+    "result": "",
+    "date": "01-11-2022",
+    "meeting_url": {
+        "1034745": "https://raadsinformatie.eindhoven.nl/vergadering/1034745#ai_7087454"
+    },
+    "attachment": null,
+    "parent": "ai_7087454",
+    "children": [],
+    "text": "De raad informeren over de uitkomsten van gesprekken in aanloop naar (herijking van) het laadpalenbeleid en wat hierbij qua wet- en regelgeving mogelijk en nodig is.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": "ai_7087454",
+            "weight": 1.871187337047098
+        },
+        {
+            "id": "ai_6986875",
+            "weight": 0.2155450452237987
+        },
+        {
+            "id": 795427,
+            "weight": 0.20438585905355688
+        },
+        {
+            "id": 787218,
+            "weight": 0.20065342251503562
+        },
+        {
+            "id": 1139110,
+            "weight": 0.10334965609644305
+        },
+        {
+            "id": 827645,
+            "weight": 0.0947193747835189
+        },
+        {
+            "id": 776860,
+            "weight": 0.08394283069768979
+        },
+        {
+            "id": 992512,
+            "weight": 0.07568369979705594
+        },
+        {
+            "id": 13976012,
+            "weight": 0.07310598268453479
+        },
+        {
+            "id": 863856,
+            "weight": 0.07043482616321432
+        },
+        {
+            "id": 1013484,
+            "weight": 0.06467315510041392
+        },
+        {
+            "id": 1133030,
+            "weight": 0.06443226036867034
+        },
+        {
+            "id": 956511,
+            "weight": 0.06317721759993637
+        },
+        {
+            "id": 863894,
+            "weight": 0.06228672764643344
+        },
+        {
+            "id": 1105348,
+            "weight": 0.06182528125796036
+        },
+        {
+            "id": 790713,
+            "weight": 0.06062995573167026
+        },
+        {
+            "id": 11875831,
+            "weight": 0.05411954593674962
+        }
+    ],
+    "videostarttime": {
+        "1034745": 17716
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_01.11.22_NC_Eindhoven_CIE.mp4/playlist.m3u8",
+    "keywords": {
+        "qua wet": 0.9883687361390812,
+        "raad informeren": 0.982583130261109,
+        "hierbij qua": 0.982583130261109,
+        "Laadpalenbeleid": 1.9141719604621108,
+        "herijking": 0.9121242426778802,
+        "wet": 0.9121242426778802,
+        "raad": 0.869161491508279,
+        "uitkomsten": 0.869161491508279,
+        "gesprekken": 0.869161491508279,
+        "aanloop": 0.869161491508279,
+        "qua": 0.869161491508279,
+        "regelgeving": 0.869161491508279,
+        "nodig": 0.869161491508279
+    },
+    "svz": null,
+    "afgedaan": "12-09-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

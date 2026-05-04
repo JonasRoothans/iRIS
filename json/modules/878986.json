@@ -1,0 +1,86 @@
+{
+    "module_id": 878986,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230022,
+    "title": "Taakgebied jeugd - Raadsvoorstel Herverdeling budgetten Jeugd t.g.v. verfijning IV-3",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/878986",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Toub (Wethouder)",
+    "result": "",
+    "date": "12-09-2023",
+    "meeting_url": {
+        "1127249": "https://raadsinformatie.eindhoven.nl/vergadering/1127249#ai_7824986"
+    },
+    "attachment": null,
+    "parent": 865707,
+    "children": [],
+    "text": "Wethouder Toub zegt toe:\ndat er een verheldering volgt over de verdeling van 2 naar 12 taakvelden van het taakgebied jeugd voor de komende begroting.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 880020,
+            "weight": 4.667874073448289
+        },
+        {
+            "id": 865707,
+            "weight": 2.565553763662071
+        },
+        {
+            "id": 776876,
+            "weight": 0.22304070049134705
+        },
+        {
+            "id": 795415,
+            "weight": 0.10148048570691764
+        },
+        {
+            "id": 878028,
+            "weight": 0.0886992162986022
+        },
+        {
+            "id": 1051065,
+            "weight": 0.08820977592687683
+        },
+        {
+            "id": 946916,
+            "weight": 0.08666962161616426
+        },
+        {
+            "id": 1000389,
+            "weight": 0.07747333335347294
+        }
+    ],
+    "videostarttime": {
+        "1127249": 10583
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_12.09.23_NC_Eindhoven_Cie.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Herverdeling": 1.995971143289092,
+        "Wethouder Toub": 0.9959711432890921,
+        "Herverdeling budgetten": 1.98942676810179,
+        "Toub zegt": 0.9894267681017902,
+        "Taakgebied jeugd": 1.9893577159612494,
+        "komende begroting": 0.9864200125422472,
+        "verheldering volgt": 0.9797250471623898,
+        "jeugd": 1.9527230539416014,
+        "Raadsvoorstel": 1.9459349046344045,
+        "verfijning": 1.9442188739665514,
+        "Toub": 0.9257803925045389,
+        "taakvelden": 0.9049570236831653,
+        "budgetten": 1.859031748249504,
+        "zegt": 0.859031748249504,
+        "volgt": 0.859031748249504,
+        "komende": 0.859031748249504
+    },
+    "svz": null,
+    "afgedaan": "03-10-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

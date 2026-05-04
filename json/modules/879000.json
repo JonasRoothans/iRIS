@@ -1,0 +1,82 @@
+{
+    "module_id": 879000,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230022,
+    "title": "Werksessies - Initiatiefvoorstel - Lokale Inclusie Agenda",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/moties_en_toezeggingen/879000?parent_event=1127249",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Toub (Wethouder)",
+    "result": "",
+    "date": "12-09-2023",
+    "meeting_url": {
+        "1127249": "https://raadsinformatie.eindhoven.nl/vergadering/1127249#ai_7826362"
+    },
+    "attachment": null,
+    "parent": "ai_7826362",
+    "children": [],
+    "text": "Wethouder Toub zegt toe:\nDat er een terugkoppeling komt naar de raad van de werksessies.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": "ai_7826362",
+            "weight": 1.7804724799168348
+        },
+        {
+            "id": 879006,
+            "weight": 1.0497434143714965
+        },
+        {
+            "id": 856465,
+            "weight": 0.56726563481393
+        },
+        {
+            "id": 1054527,
+            "weight": 0.43625239036806307
+        },
+        {
+            "id": 1022333,
+            "weight": 0.28097369095686914
+        },
+        {
+            "id": 864025,
+            "weight": 0.251769419490455
+        },
+        {
+            "id": 1028139,
+            "weight": 0.23799419722472107
+        },
+        {
+            "id": 984438,
+            "weight": 0.17660690499096468
+        }
+    ],
+    "videostarttime": {
+        "1127249": 729
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_12.09.23_NC_Eindhoven_Cie.mp4/playlist.m3u8",
+    "keywords": {
+        "Lokale Inclusie": 1.992417746077161,
+        "Inclusie Agenda": 1.9889700829295436,
+        "Agenda Wethouder": 0.9889700829295436,
+        "Wethouder Toub": 0.9889700829295436,
+        "Toub zegt": 0.9748507335304121,
+        "Initiatiefvoorstel": 1.9594539728475473,
+        "Lokale": 1.9279533661754509,
+        "Agenda": 1.8955510399770437,
+        "Toub": 0.8955510399770436,
+        "Werksessies": 1.865557124393915,
+        "zegt": 0.7651264580801691,
+        "terugkoppeling komt": 0.6371163693529026
+    },
+    "svz": null,
+    "afgedaan": "03-10-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

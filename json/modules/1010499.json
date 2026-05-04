@@ -1,0 +1,143 @@
+{
+    "module_id": 1010499,
+    "vote_id": null,
+    "member_id": [
+        194500
+    ],
+    "party_list": [
+        "FVD"
+    ],
+    "poho_id": [],
+    "title": "Beantwoording raadsvragen - Gehandicaptenparkeerkaart (FvD)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/4/Raadsvragen/1010499",
+    "type": "Raadsvraag",
+    "member": "Nicolas Knoester",
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "17-01-2025",
+    "meeting_url": null,
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/15054250/1?connection_type=17&connection_id=11432697": "Vraag",
+        "https://raadsinformatie.eindhoven.nl/document/15122530/1?connection_type=17&connection_id=11499988": "Antwoord"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": " \n \n \nRaadsvragen - Gehandicaptenparkeerkaart  \n \ndatum:  16 januari 2025  \n \nGeacht college,  \n \nIn diverse gemeenten, zoals Son en Breugel  en Hardenberg , wordt de \nGehandicaptenparkeerkaart (GPK) kosteloos verstrek t. Dit is een \nbelangrijke stap in het bevorderen van toegankelijkheid voor \ngehandicapten . Voor FVD is het van  groot belang dat ook Eindhoven \nhierin het goede voorbeeld geeft en deze maatregel invoert.  \n \nUit eerder gestelde technische vragen  van FVD  (zie bijlage)  blijkt dat de \nfinanciële impact van het kosteloos  verstrekken van de GPK in \nEindhoven relatief beperkt is, namelijk circa €75.000 per jaar. Gezien het \nrelatief lage kostenplaatje en het grote maatschappelijke belang van \ntoegankelijkheid , is het van belang om deze mogelijkheid te verkennen.  \n \n1. Is het college bereid om te kijken hoe de GPK gratis of fors \ngoedkoper kan worden?  \n \nNicolas Knoester  (FVD) \n \n \n  \nBijlage  \n \nTechnische vra ag \n \n \nHoeveel zou het kosten het om de GPK gratis te maken?  \n \nHet kost de gemeente € 75.000 om te innen (gegevens begroting 2024 \nuitgaven voor de GPK).  \nDe GPK -inkomsten zijn voor 2024 geraamd op € 130.000.  \nAls we het aanschaf tarief voor de GPK zouden verlagen of de GPK \ngratis zouden maken dan dekken de inkomsten de kosten niet meer.  \nDe personele kosten zitten namelijk niet in de genoemde uitgaven. GPK -\nhouders zijn in Eindhoven overigens vrijgesteld van parkeerbelasting.  ",
+    "bst": "7867065_1.5.1.",
+    "related": [
+        {
+            "id": 883872,
+            "weight": 0.42252588686092785
+        },
+        {
+            "id": 1081466,
+            "weight": 0.1462793035623162
+        },
+        {
+            "id": 936504,
+            "weight": 0.14051635202637106
+        },
+        {
+            "id": 856465,
+            "weight": 0.11692528843340413
+        },
+        {
+            "id": 1037226,
+            "weight": 0.11038541973494147
+        },
+        {
+            "id": 12756250,
+            "weight": 0.0868840283265008
+        },
+        {
+            "id": 1085541,
+            "weight": 0.07841008978295277
+        },
+        {
+            "id": 926103,
+            "weight": 0.06409957103308819
+        },
+        {
+            "id": 958683,
+            "weight": 0.06369232234593004
+        },
+        {
+            "id": 982296,
+            "weight": 0.0635399010223526
+        },
+        {
+            "id": 1124907,
+            "weight": 0.06289528909304891
+        },
+        {
+            "id": 16332004,
+            "weight": 0.060532260668155174
+        },
+        {
+            "id": 15990695,
+            "weight": 0.05403739875789275
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Gehandicaptenparkeerkaart datum": 0.9901947919300479,
+        "Beantwoording raadsvragen": 1.9868768735600506,
+        "GPK": 0.9818818582915724,
+        "GPK gratis": 0.9736727240228065,
+        "Geacht college": 0.9706230411101396,
+        "raadsvragen": 1.9638153089777708,
+        "diverse gemeenten": 0.963115109542442,
+        "FvD": 1.9492412469582847,
+        "Geacht": 0.9355298023958607,
+        "Hardenberg": 0.9355298023958607,
+        "Eindhoven": 0.9320895182946154,
+        "Son": 0.9302422869395822,
+        "Breugel": 0.9302422869395822,
+        "kosteloos verstrek": 0.924592275221008,
+        "Eindhoven relatief": 0.8938636579757803,
+        "belang": 0.8631718055378306,
+        "januari": 0.8404010440581324,
+        "Bijlage Technische": 0.8394377352204692,
+        "kosteloos": 0.8235933479185202,
+        "datum": 0.8210135229797151,
+        "bijlage": 0.8140237337943707,
+        "diverse": 0.8012543041442499,
+        "verstrek": 0.8012543041442499,
+        "toegankelijkheid": 0.7926631420898186,
+        "college": 0.7786684142732248,
+        "groot belang": 0.7654804659616635,
+        "relatief": 0.764512752771929,
+        "maatregel invoert": 0.7509133854251987,
+        "technische vragen": 0.7389426773712887,
+        "belangrijke stap": 0.7274523320637591,
+        "goede voorbeeld": 0.7274523320637591,
+        "voorbeeld geeft": 0.7274523320637591,
+        "namelijk": 0.720280946242038,
+        "Nicolas Knoester": 0.7184575657828176,
+        "maken": 0.7123690473081568,
+        "uitgaven": 0.7060167816317697,
+        "inkomsten": 0.7060167816317697,
+        "maatschappelijke belang": 0.6688714042338051,
+        "relatief beperkt": 0.644754157859264,
+        "Hoeveel": 0.6314178627686109,
+        "per jaar": 0.6204665953217465,
+        "college bereid": 0.6071765923217619,
+        "gehandicapten": 0.569102841531252,
+        "invoert": 0.569102841531252,
+        "financiële impact": 0.5512259724874664,
+        "stap": 0.5372097449506745,
+        "bevorderen": 0.5372097449506745,
+        "groot": 0.5372097449506745,
+        "goede": 0.5372097449506745,
+        "geeft": 0.5372097449506745
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194500,
+    "lastScrapeDate": "02-04-2026",
+    "meeting_id": []
+}

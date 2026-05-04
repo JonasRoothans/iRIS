@@ -1,0 +1,48 @@
+{
+    "module_id": 1149336,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Raadsvoorstel Benoemen voorzitters van de Meningsvormende vergadering",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/19/Raadsvoorstellen/1149336",
+    "type": "Raadsvoorstel",
+    "member": null,
+    "party": null,
+    "poho": "",
+    "result": "",
+    "date": "26-05-2026",
+    "meeting_url": {
+        "1374866": "https://raadsinformatie.eindhoven.nl/vergadering/1374866#ai_10169765"
+    },
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/16786312/2/Raadsvoorstel+benoeming+voorzitters+meningsvormende+vergadering?connection_type=17&connection_id=13177586": "Raadsvoorstel benoeming voorzitters meningsvormende vergadering",
+        "https://raadsinformatie.eindhoven.nl/document/16786312/3/Raadsvoorstel+benoeming+voorzitters+meningsvormende+vergadering?connection_type=17&connection_id=13177586": "Raadsvoorstel benoeming voorzitters meningsvormende vergadering"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/16786312/3?connection_type=17&connection_id=13177586",
+    "pdf_text": "",
+    "bst": "",
+    "related": [
+        {
+            "id": 1102268,
+            "weight": 0.922309807625283
+        }
+    ],
+    "videostarttime": {},
+    "videolink": null,
+    "keywords": {
+        "Raadsvoorstel Benoemen": 1.9765416191248102,
+        "Meningsvormende vergadering": 1.9765416191248102,
+        "Benoemen voorzitters": 1.955011371234592,
+        "Benoemen": 1.8552226942577967,
+        "vergadering": 1.8416830712200127
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": "10-04-2026",
+    "meeting_id": []
+}

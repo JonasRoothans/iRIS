@@ -1,0 +1,91 @@
+{
+    "module_id": "o_7006000",
+    "vote_id": 7006000,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Ordevoorstel (Roothans) over 6.12 bp IX Stratum binnen de ring 2007 (Hofdijkstraat 1)",
+    "url": "https://raadsinformatie.eindhoven.nl/vergadering/1013429/Ordevoorstel%20%28Roothans%29%20over%206.12%20bp%20IX%20Stratum%20binnen%20de%20ring%202007%20%28Hofdijkstraat%201%29 24-05-2022#voting_7006000",
+    "type": "Ordevoorstel",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "verworpen",
+    "date": "24-05-2022",
+    "meeting_url": {
+        "1013429": "https://raadsinformatie.eindhoven.nl/vergadering/1013429/Ordevoorstel%20%28Roothans%29%20over%206.12%20bp%20IX%20Stratum%20binnen%20de%20ring%202007%20%28Hofdijkstraat%201%29 24-05-2022#voting_7006000"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 942835,
+            "weight": 0.784061716234813
+        },
+        {
+            "id": "r_7006036",
+            "weight": 0.7803841042229087
+        },
+        {
+            "id": 15555133,
+            "weight": 0.43103760587541795
+        },
+        {
+            "id": 777522,
+            "weight": 0.42975542263142374
+        },
+        {
+            "id": 15944212,
+            "weight": 0.3700751024690158
+        },
+        {
+            "id": "o_8674111",
+            "weight": 0.33581008508521465
+        },
+        {
+            "id": 1032695,
+            "weight": 0.2611429880792681
+        },
+        {
+            "id": 813416,
+            "weight": 0.17277396886403207
+        },
+        {
+            "id": 1148253,
+            "weight": 0.16879642316161297
+        },
+        {
+            "id": 999545,
+            "weight": 0.16653208606941672
+        },
+        {
+            "id": 785761,
+            "weight": 0.12565410910082683
+        },
+        {
+            "id": 1120756,
+            "weight": 0.11236243357864667
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Roothans": 1.9696036283675864,
+        "Hofdijkstraat": 1.9696036283675864,
+        "Ordevoorstel": 1.9550880231213545,
+        "Stratum": 1.8552226942577967,
+        "ring": 1.8416830712200127
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1013429
+    ]
+}

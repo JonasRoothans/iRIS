@@ -1,0 +1,110 @@
+{
+    "module_id": 14236769,
+    "vote_id": null,
+    "member_id": [
+        195133
+    ],
+    "party_list": [
+        "SP"
+    ],
+    "poho_id": [],
+    "title": "Rondvraag 1 - Huisarts failliet en dan...... (SP)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "04-06-2024",
+    "meeting_url": {
+        "1147942": "https://raadsinformatie.eindhoven.nl/vergadering/1147939/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://api.notubiz.nl/document/14236769/1",
+    "pdf_text": " \n \n \nRondvraag Huisarts failliet en dan…?                       \n \nSchuldeisers hebben het faillissement van huisartsenorganisatie Co -med \naangevraagd1. Omdat Co -Med ook een vestiging heeft in Eindhoven zullen door \neen faillissement ook Eindhovenaren getroffen worden.  \nDe SP weet dat de zorgverzekeraars formeel aan zet zijn in dit dossier, maar dat \nwil volgens de SP niet zeggen dat de gemeente rustig aan de zijlijn kan blijven \nstaan.  \n \nInmiddels is bekend geworden dat Co -Med vandaag niet failliet gaat doordat Co -\nMed één van de schuldeisers heeft betaald2. Van vier anderen is nu al van bekend \ndat zij nog op hun geld wachten3. Daardoor blijft het risico op een faillissement \nvolgens de SP vrij groot  \n \nDat brengt ons bij de volgende vragen:  \n \n1. Is het college het met de SP eens dat de gemeente een zorgplicht heeft \nnaar onze inwoners?  \n2. Hoe gaat het college onze inwoners die informatie willen over de huidige \nsituatie helpen?  \n3. Hoe gaat het college de inwoners die getroffen worden wanneer het \nfaillissement van Co -Med alsnog wordt uitgesproken bijstaan?  \n4. Heeft het college al contact opgenomen met de zorgverzekeraars (of gaat \nhet college dit doen) om de huidige situatie te bespreken en het belang van \ngoede toegankelijke huisartsenzorg voor onze inwoners onder de aandacht \nbrengen?  \n \nEindhoven, 04-06-2024  \n \n \nDe leden van de raad  en/of commissie , \n \nAlex Paauw , commissielid SP  \n \n \n \n1 https://www.omroepbrabant.nl/nieuws/4479371/faillissement -dreigt -voor-co-med-\nbrabanders -mogelijk -zonder -huisarts  \n2 https://www.omroepbrabant.nl/nieuws/4484101/huisartsenketen -co-med-betaalt -schuld -\npraktijken -blijven -open  \n3 https://www.ed.nl/binnenland/huisartsenketen -co-med-betaalt -achterstallige -rekening -\nnieuw -faillissement -afgewend~ab03c755/  \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 969451,
+            "weight": 0.9519400667464715
+        },
+        {
+            "id": 14252624,
+            "weight": 0.569542677714327
+        },
+        {
+            "id": 957736,
+            "weight": 0.34998336643837547
+        },
+        {
+            "id": 1060077,
+            "weight": 0.29221112325013504
+        },
+        {
+            "id": 1000417,
+            "weight": 0.2555015849094346
+        },
+        {
+            "id": 864037,
+            "weight": 0.21378083667696446
+        },
+        {
+            "id": 940798,
+            "weight": 0.20335488989538528
+        },
+        {
+            "id": 15620375,
+            "weight": 0.12848303920094284
+        },
+        {
+            "id": 1144336,
+            "weight": 0.11730100548026307
+        },
+        {
+            "id": 872078,
+            "weight": 0.07724362633006755
+        }
+    ],
+    "videostarttime": {
+        "1147942": 15848
+    },
+    "videolink": null,
+    "keywords": {
+        "Huisarts failliet": 1.978733292582471,
+        "Rondvraag Huisarts": 0.9757590758730249,
+        "med": 0.9527727943132844,
+        "Huisarts": 1.9458281177096093,
+        "Rondvraag": 1.9271848293922027,
+        "faillissement": 0.9204769325504535,
+        "college": 0.9157779380364307,
+        "inwoners": 0.8901597894453589,
+        "gaat": 0.8882760839616295,
+        "Med vandaag": 0.8191752227588414,
+        "Med één": 0.8137651104674026,
+        "Eindhovenaren getroffen": 0.7990034473891429,
+        "Eindhoven": 0.7816103931701102,
+        "Alex Paauw": 0.7810889702478057,
+        "huidige situatie": 0.7684647506245131,
+        "Schuldeisers": 0.7469449910809145,
+        "gemeente": 0.7344119228787609,
+        "getroffen": 0.7310055059030227,
+        "bekend": 0.7260693212010954,
+        "zorgverzekeraars": 0.7251159403456803,
+        "huidige": 0.7249442419736465,
+        "situatie": 0.7123256580505548,
+        "blijven": 0.7105696028241766,
+        "gaat doordat": 0.5919221337246342,
+        "Alex": 0.5762128163301625,
+        "Paauw": 0.5762128163301625
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 195133,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1147942
+    ]
+}

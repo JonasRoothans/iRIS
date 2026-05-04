@@ -1,0 +1,65 @@
+{
+    "module_id": 925082,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": null,
+    "title": "Collegebrief - Raadsvoorstel Masterplan Mobiliteit 2050",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/925082",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Esselbrugge (Wethouder)",
+    "result": "",
+    "date": "05-03-2024",
+    "meeting_url": {
+        "1147884": "https://raadsinformatie.eindhoven.nl/vergadering/1147884#ai_8184759"
+    },
+    "attachment": null,
+    "parent": 906466,
+    "children": [],
+    "text": "Wethouder Esselbrugge zegt toe dat er een collegebrief volgt aan te geven wat er al gebeurt om huidige twee P+R’s aantrekkelijk te maken",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": "a_9477053",
+            "weight": 0.14862023612057573
+        },
+        {
+            "id": 871943,
+            "weight": 0.11909397459642675
+        },
+        {
+            "id": 944416,
+            "weight": 0.10884121735647567
+        }
+    ],
+    "videostarttime": {
+        "1147884": 6141
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_05.03.24_Eindhoven_raadzaal.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Masterplan": 1.9944028274550927,
+        "Masterplan Mobiliteit": 1.9944028274550927,
+        "Wethouder Esselbrugge": 0.9944028274550927,
+        "Esselbrugge zegt": 0.9836335688345734,
+        "huidige twee": 0.96776056316734,
+        "collegebrief volgt": 0.9532798096956149,
+        "Mobiliteit": 1.9389136078667915,
+        "Wethouder": 0.9389136078667913,
+        "Masterplan": 1.9088828397919206,
+        "maken": 0.8922607228460988,
+        "zegt": 0.8232727580700172,
+        "volgt": 0.8232727580700172,
+        "gebeurt": 0.8232727580700172,
+        "twee": 0.8232727580700172,
+        "aantrekkelijk": 0.8232727580700172
+    },
+    "svz": null,
+    "afgedaan": "03-09-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

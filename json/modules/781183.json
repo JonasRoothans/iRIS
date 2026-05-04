@@ -1,0 +1,81 @@
+{
+    "module_id": 781183,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Vragen D66 - Agenderingsverzoek SP Beleid kamerbewoning en  woningsplitsing n.a.v. brief van het college aan de raad d.d. 26 juli 2022",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/781183",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "14-09-2022",
+    "meeting_url": {
+        "1015775": "https://raadsinformatie.eindhoven.nl/vergadering/1015775#ai_7000799"
+    },
+    "attachment": null,
+    "parent": 777032,
+    "children": [],
+    "text": "Binnen een maand de vragen van D66 (zie bijlage in RIS) te beantwoorden.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 781179,
+            "weight": 0.654331264661954
+        },
+        {
+            "id": 781186,
+            "weight": 0.6526800258066027
+        },
+        {
+            "id": 781185,
+            "weight": 0.652523722764481
+        },
+        {
+            "id": 798656,
+            "weight": 0.6517331592324122
+        },
+        {
+            "id": 786262,
+            "weight": 0.30022056300894856
+        },
+        {
+            "id": 882851,
+            "weight": 0.1950532484257128
+        },
+        {
+            "id": 856725,
+            "weight": 0.14406800253140992
+        },
+        {
+            "id": 1048957,
+            "weight": 0.11140312893084055
+        }
+    ],
+    "videostarttime": {
+        "1015775": 2410
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_14.09.22_NC_Eindhoven_cie.mp4/playlist.m3u8",
+    "keywords": {
+        "Beleid kamerbewoning": 1.9739285298306717,
+        "Agenderingsverzoek": 1.9269954416074646,
+        "Beleid": 1.8944213207745162,
+        "woningsplitsing": 1.8486953664663606,
+        "brief": 1.8486953664663606,
+        "RIS": 0.7852266554730316,
+        "juli": 1.7841975672733128,
+        "Vragen": 1.769634479111563,
+        "college": 1.759335692988926,
+        "raad": 1.759335692988926,
+        "beantwoorden": 0.6175984951469868
+    },
+    "svz": null,
+    "afgedaan": "22-11-2022",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

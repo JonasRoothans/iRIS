@@ -1,0 +1,103 @@
+{
+    "module_id": 12755170,
+    "vote_id": null,
+    "member_id": [
+        131137
+    ],
+    "party_list": [
+        "PvdA"
+    ],
+    "poho_id": [],
+    "title": "1. Rondvraag - Voortgang van zorg in relatie tot faillissement EPI (PvdA)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "16-05-2023",
+    "meeting_url": {
+        "1096270": "https://raadsinformatie.eindhoven.nl/vergadering/1013488/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://api.notubiz.nl/document/12755170/1",
+    "pdf_text": " \n \n \nRondvraag  PvdA meningsvorming 16 mei 2023:  \nVoortgang van zorg in relatie tot faillissement E PI  \n                                             \nGeacht college,  \n \n“De Eindhovense psychologenpraktijk EPI aan de Geldropseweg is failliet \nverklaard. Daarmee staat de zorg voor 350 cliënten uit de regio Eindhoven en \nHelmond op de tocht, onder wie 175 kinderen”  (3-5-23 stond in het ED \nPsychologische hulp voor 175 kinderen op de tocht; praktijk EPI won rechtszaak \ntegen gemeente maar is toch failliet ).  \n \nDe vragen die we als PvdA hebben is:  \n1. Geven we als gemeente Eindhoven, als schuldeiser, aan de curator mee \ndat er een aanbieder wordt gevonden die minimaal het bestaande \nzorgaanbod waarborgt?   \n2. Op welke termijn is he t voor iedereen  duidelijk  dat de te bieden hulp cq. \nzorg wordt voortgezet?  \n \nLid van de raad,  \n \nWil van Haalen  \nFractie PvdA  \n \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 821169,
+            "weight": 0.9398021929519781
+        },
+        {
+            "id": 921493,
+            "weight": 0.818804945153889
+        },
+        {
+            "id": 856439,
+            "weight": 0.4478419228872112
+        },
+        {
+            "id": 11753466,
+            "weight": 0.44375191504007705
+        },
+        {
+            "id": 12083179,
+            "weight": 0.4322319265203017
+        },
+        {
+            "id": 13124449,
+            "weight": 0.341256663578491
+        }
+    ],
+    "videostarttime": {
+        "1096270": 10894
+    },
+    "videolink": null,
+    "keywords": {
+        "EPI": 1.9314525390232367,
+        "Voortgang": 1.9297519203668352,
+        "faillissement EPI": 1.9270922548818383,
+        "zorg": 1.9153541208491571,
+        "Geacht college": 0.914520389005864,
+        "Eindhovense psychologenpraktijk": 0.9043228376577015,
+        "psychologenpraktijk EPI": 0.9036902951754446,
+        "Rondvraag PvdA": 0.9003700876533975,
+        "PvdA": 1.889354903535491,
+        "EPI won": 0.8800700996885343,
+        "Eindhoven": 0.8591639199721463,
+        "relatie": 1.851983475174883,
+        "gemeente Eindhoven": 0.8453890265677118,
+        "Psychologische hulp": 0.84473034772379,
+        "tocht": 0.8300733373689806,
+        "Haalen Fractie": 0.8287121203730872,
+        "failliet verklaard": 0.824199425471568,
+        "failliet": 0.8059483808673804,
+        "Fractie PvdA": 0.7962712681012739,
+        "Geacht": 0.7955902951259435,
+        "Geldropseweg": 0.7955902951259435,
+        "PvdA meningsvorming": 0.7944504194310846,
+        "gemeente": 0.7622991614292169,
+        "hulp": 0.7532760538446754,
+        "Helmond": 0.7276283403716124,
+        "Daarmee staat": 0.6692695090702765,
+        "mei": 0.658801059530294,
+        "won rechtszaak": 0.6279304409996718,
+        "Haalen": 0.6175880175057382,
+        "college": 0.6147529200838107,
+        "verklaard": 0.6147529200838107,
+        "bieden hulp": 0.5533570015730346,
+        "cliënten": 0.5227344113920129,
+        "stond": 0.5227344113920129,
+        "praktijk": 0.5227344113920129
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 131137,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1096270
+    ]
+}

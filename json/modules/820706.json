@@ -1,0 +1,84 @@
+{
+    "module_id": 820706,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230013,
+    "title": "Gesprek - Voortgang scholenbouw - Rondvraag SP",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/820706",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Steenbakkers (Wethouder)",
+    "result": "",
+    "date": "07-02-2023",
+    "meeting_url": {
+        "1059802": "https://raadsinformatie.eindhoven.nl/vergadering/1059802#ai_7231204"
+    },
+    "attachment": null,
+    "parent": "ai_7231204",
+    "children": [],
+    "text": "Wethouder Steenbakkers zegt toe in gesprek te gaan met het schoolbestuur SKPO, de raad op de hoogte te houden over hoe deze gesprekken volgen en bij nieuws de raad actief te informeren.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": "ai_7231204",
+            "weight": 1.3210277824923546
+        },
+        {
+            "id": 12398967,
+            "weight": 0.6622522911966835
+        },
+        {
+            "id": 1035069,
+            "weight": 0.2878346873553557
+        },
+        {
+            "id": 822933,
+            "weight": 0.19349158451351292
+        },
+        {
+            "id": 850376,
+            "weight": 0.17731548491214089
+        },
+        {
+            "id": 1036401,
+            "weight": 0.1216994340874927
+        },
+        {
+            "id": 803046,
+            "weight": 0.1058103372536694
+        }
+    ],
+    "videostarttime": {
+        "1059802": 923
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_02.07.23_NC_Eindhoven_MeningsvormingRAA.mp4/playlist.m3u8",
+    "keywords": {
+        "Voortgang scholenbouw": 1.9953064933215678,
+        "Wethouder Steenbakkers": 0.9947921293594372,
+        "schoolbestuur SKPO": 0.9930017675883739,
+        "Steenbakkers zegt": 0.9903272356647718,
+        "gesprekken volgen": 0.9819657531014517,
+        "raad actief": 0.981654379026057,
+        "Voortgang": 1.9477854136835422,
+        "Rondvraag": 1.9477854136835422,
+        "SKPO": 0.9477854136835422,
+        "raad": 0.9323232633202561,
+        "Wethouder": 0.9280216057445018,
+        "Gesprek": 1.9121770219248537,
+        "informeren": 0.9105311194950351,
+        "zegt": 0.8669031394610134,
+        "gaan": 0.8669031394610134,
+        "hoogte": 0.8669031394610134,
+        "volgen": 0.8669031394610134,
+        "nieuws": 0.8669031394610134
+    },
+    "svz": null,
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

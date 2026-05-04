@@ -1,0 +1,121 @@
+{
+    "module_id": 968919,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230013,
+    "title": "Informeren Raadscommissie (Knoop XL) - Raadsvoorstel Aanvullend uitvoeringsbudget Fietsenstalling Stationsplein Zuid",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/968919",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Steenbakkers (Wethouder)",
+    "result": "",
+    "date": "03-09-2024",
+    "meeting_url": {
+        "1254481": "https://raadsinformatie.eindhoven.nl/vergadering/1254481#ai_8585907"
+    },
+    "attachment": null,
+    "parent": 957613,
+    "children": [],
+    "text": "Wethouder Steenbakkers zegt toe om de Raadscommissie te informeren als het lukt om eerder te starten (vóór een uitspraak van de RvS), met de bijbehorende risico’s.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 957613,
+            "weight": 3.805879568353169
+        },
+        {
+            "id": 1096312,
+            "weight": 1.276007731613858
+        },
+        {
+            "id": 1146296,
+            "weight": 0.5692898407043452
+        },
+        {
+            "id": 1089986,
+            "weight": 0.569280805893967
+        },
+        {
+            "id": 1096007,
+            "weight": 0.5680497540557244
+        },
+        {
+            "id": 788331,
+            "weight": 0.5667262442718008
+        },
+        {
+            "id": 776973,
+            "weight": 0.2829594067301137
+        },
+        {
+            "id": 809927,
+            "weight": 0.23274918801523903
+        },
+        {
+            "id": 918527,
+            "weight": 0.18167578177645236
+        },
+        {
+            "id": 16166531,
+            "weight": 0.15043636513994782
+        },
+        {
+            "id": 936126,
+            "weight": 0.14410198700461774
+        },
+        {
+            "id": 845621,
+            "weight": 0.10024808749720149
+        },
+        {
+            "id": 883277,
+            "weight": 0.09714236530292705
+        },
+        {
+            "id": 933670,
+            "weight": 0.08663340220322154
+        },
+        {
+            "id": 1051513,
+            "weight": 0.06968154885824977
+        },
+        {
+            "id": 1038657,
+            "weight": 0.06781178139582902
+        }
+    ],
+    "videostarttime": {},
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_03.09.24_NC_Eindhoven_KnoopXL.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Aanvullend": 1.9962420823737148,
+        "Fietsenstalling Stationsplein": 1.994811031548232,
+        "Stationsplein Zuid": 1.994811031548232,
+        "Zuid Wethouder": 0.9948110315482319,
+        "Wethouder Steenbakkers": 0.9948110315482319,
+        "Aanvullend uitvoeringsbudget": 1.9903774059002022,
+        "uitvoeringsbudget Fietsenstalling": 1.9903774059002022,
+        "Steenbakkers zegt": 0.9903774059002022,
+        "Informeren Raadscommissie": 1.9839974916232967,
+        "bijbehorende risico": 0.9820880399369938,
+        "Knoop": 1.94789233482645,
+        "Aanvullend": 1.9281516732835193,
+        "Zuid": 1.9281516732835193,
+        "Informeren": 1.9125711315562282,
+        "starten": 0.9108445850790093,
+        "vóór": 0.9108445850790093,
+        "RvS": 0.9108445850790093,
+        "zegt": 0.8673471920127543,
+        "lukt": 0.8673471920127543,
+        "uitspraak": 0.8673471920127543,
+        "risico": 0.8673471920127543
+    },
+    "svz": null,
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

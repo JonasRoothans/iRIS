@@ -1,0 +1,58 @@
+{
+    "module_id": "ai_6999808",
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Specifieke eisen - VM1: Ingetrokken na toezegging Vrije motie VM1 Communicatie over bijzondere bijstand voor studenten (D66, PvdA, Volt, GL, SP, OAHvE, CDA, PvdD)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/moties_en_toezeggingen/784598?parent_event=1018924",
+    "type": "Agenda",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "19-07-2022",
+    "meeting_url": "https://raadsinformatie.eindhoven.nl/vergadering/1018924#ai_6999808",
+    "attachment": null,
+    "parent": null,
+    "children": [
+        784608,
+        784602,
+        784606,
+        784598
+    ],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 976632,
+            "weight": 0.1686451326453866
+        }
+    ],
+    "videostarttime": 10377,
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/19.07.22 Eindhoven raad 1500 ruw.mp4/playlist.m3u8",
+    "keywords": {
+        "Vrije motie": 1.9902364022988395,
+        "Specifieke eisen": 1.9884973029113144,
+        "toezegging Vrije": 1.9838708471774884,
+        "bijzondere bijstand": 1.9683848454160142,
+        "Volt": 1.9671938591885305,
+        "CDA": 1.9671938591885305,
+        "PvdA": 1.949620161743442,
+        "OAHvE": 1.949620161743442,
+        "Ingetrokken": 1.939268865040284,
+        "Communicatie": 1.939268865040284,
+        "Vrije": 1.9093278638943105,
+        "eisen": 1.893360937333929,
+        "motie": 1.893360937333929,
+        "studenten": 1.893360937333929,
+        "bijstand": 1.8249392446001187
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": null,
+    "meeting_id": []
+}

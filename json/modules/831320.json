@@ -1,0 +1,109 @@
+{
+    "module_id": 831320,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "OV bussen - Raadsvoorstel Ontwikkelingsvisie Stads-hart Woensel.",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/831320",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "28-03-2023",
+    "meeting_url": {
+        "1059806": "https://raadsinformatie.eindhoven.nl/vergadering/1059806#ai_7439253"
+    },
+    "attachment": null,
+    "parent": 821834,
+    "children": [],
+    "text": "Wethouder Verhees zegt toe:\n\nom nog technisch te beantwoorde welke route de OV bussen (lijn 2 en 3) gaan rijden.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 831317,
+            "weight": 4.404486814856078
+        },
+        {
+            "id": 918990,
+            "weight": 0.44164559770505496
+        },
+        {
+            "id": 903669,
+            "weight": 0.43763592298327736
+        },
+        {
+            "id": 821834,
+            "weight": 0.4346937158330318
+        },
+        {
+            "id": 991683,
+            "weight": 0.2993506833436064
+        },
+        {
+            "id": 1107289,
+            "weight": 0.29922843339025806
+        },
+        {
+            "id": 16665371,
+            "weight": 0.28947287513247283
+        },
+        {
+            "id": 1000410,
+            "weight": 0.2637959376108847
+        },
+        {
+            "id": 920288,
+            "weight": 0.2205018910681794
+        },
+        {
+            "id": 797806,
+            "weight": 0.21761782264937754
+        },
+        {
+            "id": 831978,
+            "weight": 0.21315018767038818
+        },
+        {
+            "id": "a_8235311",
+            "weight": 0.2110450016662797
+        },
+        {
+            "id": 829438,
+            "weight": 0.20781533879917954
+        },
+        {
+            "id": "a_8235925",
+            "weight": 0.20682736006570676
+        },
+        {
+            "id": 12555993,
+            "weight": 0.15979770330219675
+        }
+    ],
+    "videostarttime": {
+        "1059806": 8701
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_28.03.23_NC_eindhoven_raa.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Ontwikkelingsvisie": 1.9925435514263843,
+        "Stads-hart Woensel": 1.9925435514263843,
+        "Ontwikkelingsvisie Stads-hart": 1.9891352626693428,
+        "Raadsvoorstel": 1.9286091334017768,
+        "Woensel": 1.9286091334017768,
+        "bussen": 1.9158289796902654,
+        "Wethouder Verhees": 0.8814600993649114,
+        "gaan rijden": 0.8415892763831536,
+        "Verhees zegt": 0.8286010131567998,
+        "lijn": 0.7931513497120453,
+        "gaan": 0.6302050259372803
+    },
+    "svz": null,
+    "afgedaan": "18-04-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

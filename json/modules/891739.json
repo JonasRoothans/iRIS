@@ -1,0 +1,73 @@
+{
+    "module_id": 891739,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Studio040 - Raadsvoorstel Vaststellen Begroting 2024",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/891739",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "31-10-2023",
+    "meeting_url": {
+        "1153547": "https://raadsinformatie.eindhoven.nl/vergadering/1153547#ai_7885375"
+    },
+    "attachment": null,
+    "parent": 879979,
+    "children": [],
+    "text": "Wethouder Verhees zegt toe om vanuit bestaande communicatiebudgetten te bekijken hoe Studio040 kan worden betrokken bij het onder de aandacht krijgen van gemeentelijke informatie naar de inwoners.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 15561384,
+            "weight": 0.2362548694946955
+        },
+        {
+            "id": 15534430,
+            "weight": 0.2359596526024442
+        },
+        {
+            "id": 1122811,
+            "weight": 0.2286308402074294
+        },
+        {
+            "id": 14295462,
+            "weight": 0.20579603394811316
+        },
+        {
+            "id": 15548500,
+            "weight": 0.1289910653922653
+        }
+    ],
+    "videostarttime": {
+        "1153547": null
+    },
+    "videolink": null,
+    "keywords": {
+        "Raadsvoorstel Vaststellen": 1.9944628874809336,
+        "Vaststellen Begroting": 1.9944628874809336,
+        "Wethouder Verhees": 0.9944628874809335,
+        "Verhees zegt": 0.9838708471774884,
+        "bestaande communicatiebudgetten": 0.9683848454160142,
+        "aandacht krijgen": 0.9683848454160142,
+        "gemeentelijke informatie": 0.9683848454160142,
+        "Begroting": 1.939268865040284,
+        "inwoners": 0.8933609373339291,
+        "zegt": 0.8249392446001187,
+        "bestaande": 0.8249392446001187,
+        "bekijken": 0.8249392446001187,
+        "aandacht": 0.8249392446001187,
+        "krijgen": 0.8249392446001187,
+        "informatie": 0.8249392446001187
+    },
+    "svz": null,
+    "afgedaan": "14-11-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

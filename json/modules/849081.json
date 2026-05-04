@@ -1,0 +1,125 @@
+{
+    "module_id": 849081,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230014,
+    "title": "Elektriciteit inbrengen - Raadsvoorstel Startnotitie publiek energiebedrijf",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/849081",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "R. Thijs (Wethouder)",
+    "result": "",
+    "date": "16-05-2023",
+    "meeting_url": {
+        "1096272": "https://raadsinformatie.eindhoven.nl/vergadering/1096272#ai_7524931"
+    },
+    "attachment": null,
+    "parent": 833122,
+    "children": [],
+    "text": "Wethouder Thijs gaat in op de ingebrachte punten en zegt daarbij toe:\n\nDat de mogelijkheid van elektriciteit inbrengen bij het onderzoek naar een publiek energiebedrijf een belangrijk onderwerp is en op de agenda staat bij gesprekken over eventuele deelname van het op te richten energiebedrijf.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 849289,
+            "weight": 5.386119378724454
+        },
+        {
+            "id": 833122,
+            "weight": 1.6436265993034043
+        },
+        {
+            "id": 863931,
+            "weight": 0.802341736688651
+        },
+        {
+            "id": 15004793,
+            "weight": 0.512778823752171
+        },
+        {
+            "id": 881034,
+            "weight": 0.4846479753907608
+        },
+        {
+            "id": 849282,
+            "weight": 0.36735911221630024
+        },
+        {
+            "id": 849083,
+            "weight": 0.3651315919190012
+        },
+        {
+            "id": 831137,
+            "weight": 0.3627458793458836
+        },
+        {
+            "id": 991304,
+            "weight": 0.3257131909064171
+        },
+        {
+            "id": 1046814,
+            "weight": 0.288677088530789
+        },
+        {
+            "id": 831978,
+            "weight": 0.2532666489996578
+        },
+        {
+            "id": 993459,
+            "weight": 0.19841429543155467
+        },
+        {
+            "id": 779484,
+            "weight": 0.12130043321008986
+        },
+        {
+            "id": 779485,
+            "weight": 0.12041035612725855
+        },
+        {
+            "id": 953040,
+            "weight": 0.1200491288637625
+        }
+    ],
+    "videostarttime": {
+        "1096272": 8888
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_16.05.23_NC_EINDHOVEN_RAA.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Startnotitie": 1.9959413296748865,
+        "Wethouder Thijs": 0.994422553770599,
+        "Thijs gaat": 0.9893197389527989,
+        "Startnotitie publiek": 1.9888289232428886,
+        "Elektriciteit inbrengen": 1.9887499543087879,
+        "energiebedrijf Wethouder": 0.9851704717841087,
+        "publiek energiebedrijf": 1.985010642317167,
+        "ingebrachte punten": 0.9794529570497091,
+        "zegt daarbij": 0.9794529570497091,
+        "belangrijk onderwerp": 0.9794529570497091,
+        "agenda staat": 0.9794529570497091,
+        "eventuele deelname": 0.9794529570497091,
+        "Raadsvoorstel": 1.945723135456876,
+        "inbrengen": 1.9258296262303893,
+        "publiek": 1.9258296262303893,
+        "Thijs": 0.9255250991051333,
+        "gaat": 0.8581079216494943,
+        "punten": 0.8581079216494943,
+        "zegt": 0.8581079216494943,
+        "mogelijkheid": 0.8581079216494943,
+        "onderzoek": 0.8581079216494943,
+        "belangrijk": 0.8581079216494943,
+        "agenda": 0.8581079216494943,
+        "gesprekken": 0.8581079216494943,
+        "eventuele": 0.8581079216494943,
+        "deelname": 0.8581079216494943,
+        "richten": 0.8581079216494943
+    },
+    "svz": null,
+    "afgedaan": "10-12-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

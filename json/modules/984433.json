@@ -1,0 +1,71 @@
+{
+    "module_id": 984433,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230013,
+    "title": "Bekendheid huiswerkbegeleiding - Raadsvoorstel Begroting 2025",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/984433",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Steenbakkers (Wethouder)",
+    "result": "",
+    "date": "29-10-2024",
+    "meeting_url": {
+        "1148141": "https://raadsinformatie.eindhoven.nl/vergadering/1148141#ai_8729567"
+    },
+    "attachment": null,
+    "parent": 975511,
+    "children": [],
+    "text": "Wethouder Steenbakkers zegt toe hierover aandacht te vragen in het LEA-overleg",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 948261,
+            "weight": 0.24909786151324664
+        },
+        {
+            "id": 1096531,
+            "weight": 0.24209670712800302
+        },
+        {
+            "id": 996967,
+            "weight": 0.2198638206511844
+        },
+        {
+            "id": 1085536,
+            "weight": 0.2083695237699729
+        },
+        {
+            "id": 1117830,
+            "weight": 0.203563417720907
+        }
+    ],
+    "videostarttime": {
+        "1148141": null
+    },
+    "videolink": null,
+    "keywords": {
+        "Raadsvoorstel Begroting": 1.9925553183866471,
+        "Wethouder Steenbakkers": 0.9873976398760466,
+        "Bekendheid huiswerkbegeleiding": 1.9742913828560065,
+        "Steenbakkers zegt": 0.955011371234592,
+        "Begroting": 1.9140368224837343,
+        "Wethouder": 0.9140368224837344,
+        "hierover aandacht": 0.9029960071342576,
+        "Bekendheid": 1.8416830712200127,
+        "LEA-overleg": 0.8416830712200127,
+        "zegt": 0.7026344174397849,
+        "hierover": 0.7026344174397849,
+        "aandacht": 0.7026344174397849,
+        "vragen": 0.7026344174397849
+    },
+    "svz": "Wethouder Steenbakkers heeft in het LEA overleg van 4 november 2024 aandacht voor huiswerkbegeleiding gevraagd...  Lees verder ",
+    "afgedaan": "03-06-2025",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

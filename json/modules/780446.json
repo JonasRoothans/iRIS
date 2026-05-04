@@ -1,0 +1,100 @@
+{
+    "module_id": 780446,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Raadsvoorstel benoeming lid auditcommissie",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/19/Raadsvoorstellen/780446",
+    "type": "Raadsvoorstel",
+    "member": null,
+    "party": null,
+    "poho": "",
+    "result": "Afgerond",
+    "date": "21-09-2022",
+    "meeting_url": {
+        "1013082": "https://raadsinformatie.eindhoven.nl/vergadering/1013082#ai_7026514"
+    },
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/11830330/1/Raadsvoorstel+benoeming+lid+auditcommissie?connection_type=17&connection_id=8633924": "Raadsvoorstel benoeming lid auditcommissie"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/11869405/1?connection_type=17&connection_id=8656518",
+    "pdf_text": " \n \n \n  \n   \n \n \n  gemeente Eindhoven  \nRaadsnummer   \nInboeknummer   \nDossiernummer      \n \n  \n \n \n \n \n \nRaadsbesluit   \n   benoeming l id auditcommissie   \n \nDe raad van de gemeente Eindhoven;  \nGelet op artikel 2, lid 1 van de Verordening op de auditcommissie gemeente Eindhoven  \n2020;  \n \nbesluit:  \n \n1. I.M. Teklenburg te benoemen tot lid van de Auditcommissie.  \n \nAldus vastgesteld in de openbare vergadering van 21 september  2022.  \n \n \n \nJ. Jongbloed , griffier . \n \n \n ",
+    "bst": "",
+    "related": [
+        {
+            "id": 787186,
+            "weight": 0.6543258776660273
+        },
+        {
+            "id": 789881,
+            "weight": 0.5382758730755477
+        },
+        {
+            "id": 826914,
+            "weight": 0.5321269043814725
+        },
+        {
+            "id": 846881,
+            "weight": 0.5302204734391733
+        },
+        {
+            "id": 1105224,
+            "weight": 0.522845517331479
+        },
+        {
+            "id": 877235,
+            "weight": 0.5204869557077557
+        },
+        {
+            "id": 802773,
+            "weight": 0.51658254983717
+        },
+        {
+            "id": 1112373,
+            "weight": 0.48193473613335924
+        },
+        {
+            "id": 788357,
+            "weight": 0.32930304599756205
+        },
+        {
+            "id": 785761,
+            "weight": 0.32388555816041553
+        }
+    ],
+    "videostarttime": {
+        "1013082": 817
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_21.09.22_NC_EINDHOVEN_RAA.mp4/playlist.m3u8",
+    "keywords": {
+        "gemeente Eindhoven": 0.9974543632616858,
+        "Eindhoven Raadsnummer": 0.9951028072878441,
+        "Raadsnummer Inboeknummer": 0.9938886564672935,
+        "Dossiernummer Raadsbesluit": 0.9938886564672935,
+        "Raadsbesluit benoeming": 0.9846953165018151,
+        "auditcommissie gemeente": 0.9816516525217851,
+        "Eindhoven": 0.9791570598703808,
+        "gemeente": 0.9595971383149362,
+        "Gelet": 0.9339956797842859,
+        "Inboeknummer": 0.9220627054862205,
+        "Verordening": 0.9220627054862205,
+        "benoeming lid": 1.9093631524563657,
+        "besluit": 0.8726990170696506,
+        "lid": 1.856774372626091,
+        "lid auditcommissie": 1.8565120477926982,
+        "Raadsvoorstel": 1.8343443735921787,
+        "artikel": 0.8343443735921788,
+        "raad": 0.7940760572612409,
+        "Jongbloed": 0.6665608790235842,
+        "september": 0.5250572586286262
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": "10-04-2026",
+    "meeting_id": []
+}

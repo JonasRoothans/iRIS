@@ -1,0 +1,146 @@
+{
+    "module_id": 14203675,
+    "vote_id": null,
+    "member_id": [
+        194501
+    ],
+    "party_list": [
+        "SP"
+    ],
+    "poho_id": [],
+    "title": "Vraag V2 Vragenhalfuur - Speeltuin De Splinter (SP)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "28-05-2024",
+    "meeting_url": {
+        "1147937": "https://raadsinformatie.eindhoven.nl/vergadering/1147937/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/14203675/1/Vraag+V2+Vragenhalfuur+-+Speeltuin+De+Splinter+%28SP%29?connection_type=1&connection_id=7853457",
+    "pdf_text": " \n \n \nVragenhalfuur  Speeltuin De Splinter           V2 \n \n \nGeachte college, al veel te lang in de ogen van de SP is speeltuin De Splinter  \ngesloten. Deze grote speeltuin midden in Woensel vervult een hele belangrijke rol  \nin de leefbaarheid van de stad en biedt kinderen de kans om samen te spelen en  \nzich te ontwikkelen.  \n \nHierover hebben wij de volgende vragen:  \n \n1] Bent u het met ons eens dat De Splinter zo snel mogelijk weer zijn deuren zou \nmoeten kunnen openen?  \n2] Wat doet u als college eraan om dit te real iseren?  \n3] Wanneer kan speeltuin De Splinter volgens uw inschatting weer open?  \n \n \nBij voorbaat dank voor uw beantwoording.  \n \nMarc König, raadslid voor de SP.  \n \n \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 796384,
+            "weight": 0.6532620400051661
+        },
+        {
+            "id": 14205698,
+            "weight": 0.6482273985342202
+        },
+        {
+            "id": 14120556,
+            "weight": 0.6470872642774573
+        },
+        {
+            "id": 1093575,
+            "weight": 0.6287402890096384
+        },
+        {
+            "id": 973948,
+            "weight": 0.4967810332658513
+        },
+        {
+            "id": 958911,
+            "weight": 0.27818540256418145
+        },
+        {
+            "id": 13645066,
+            "weight": 0.2683855090989437
+        },
+        {
+            "id": 870789,
+            "weight": 0.2647909490603177
+        },
+        {
+            "id": 1061354,
+            "weight": 0.21844473148638568
+        },
+        {
+            "id": 12756250,
+            "weight": 0.2044870480843396
+        },
+        {
+            "id": 775126,
+            "weight": 0.15430773401777584
+        },
+        {
+            "id": 833134,
+            "weight": 0.11957699202144563
+        },
+        {
+            "id": 780554,
+            "weight": 0.1166061292827112
+        },
+        {
+            "id": 858100,
+            "weight": 0.11383783933647128
+        },
+        {
+            "id": 863437,
+            "weight": 0.11087723063627869
+        },
+        {
+            "id": 821636,
+            "weight": 0.09847959848413142
+        },
+        {
+            "id": 1139066,
+            "weight": 0.09010344915550962
+        },
+        {
+            "id": 14115505,
+            "weight": 0.07268255163610696
+        }
+    ],
+    "videostarttime": {
+        "1147937": 986
+    },
+    "videolink": null,
+    "keywords": {
+        "Vragenhalfuur Speeltuin": 0.9913630531011218,
+        "Geachte college": 0.9763893764148451,
+        "Splinter gesloten": 0.974564074987331,
+        "Splinter": 1.967921794865728,
+        "Speeltuin": 1.9656181486618431,
+        "Geachte": 0.9385789117790337,
+        "Woensel vervult": 0.9068981639531509,
+        "Vraag": 1.865139177875652,
+        "gesloten": 0.8453467884875261,
+        "ogen": 0.8249636609850672,
+        "college": 0.8122304478266467,
+        "Woensel": 0.799245568911448,
+        "belangrijke rol": 0.7804924530556185,
+        "biedt kinderen": 0.7804924530556185,
+        "Marc König": 0.7275901262282238,
+        "volgende vragen": 0.6686397804325532,
+        "König": 0.6461002863738319,
+        "ontwikkelen": 0.6114767838091438,
+        "grote": 0.5757396146780972,
+        "midden": 0.5757396146780972,
+        "vervult": 0.5757396146780972,
+        "rol": 0.5757396146780972,
+        "leefbaarheid": 0.5757396146780972,
+        "stad": 0.5757396146780972,
+        "biedt": 0.5757396146780972,
+        "samen": 0.5757396146780972,
+        "real iseren": 0.5673759491924448,
+        "Hierover": 0.5192876537290148,
+        "vragen": 0.5192876537290148,
+        "openen": 0.5192876537290148
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194501,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1147937
+    ]
+}

@@ -1,0 +1,157 @@
+{
+    "module_id": 780301,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230013,
+    "title": "Raadsvoorstel tot (gewijzigde) vaststelling bestemmingsplan  Lichthoven fase 1, kavels C en D",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/780301",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Steenbakkers (Wethouder)",
+    "result": "",
+    "date": "17-05-2022",
+    "meeting_url": {
+        "1013503": "https://raadsinformatie.eindhoven.nl/vergadering/1013503#ai_6964687"
+    },
+    "attachment": null,
+    "parent": "ai_6964687",
+    "children": [],
+    "text": "Wethouder Torunoglu zegt toe met de ontwikkelaar in gesprek te gaan om te kijken of deze afspraken nagekomen kunnen worden (inspanningsverplichting) en hij informeert de raad hier voor de raadsvergadering over.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 845621,
+            "weight": 1.65945682814518
+        },
+        {
+            "id": "o_7006010",
+            "weight": 1.6032882215287771
+        },
+        {
+            "id": "ai_6964687",
+            "weight": 1.4294624907308573
+        },
+        {
+            "id": "r_7006024",
+            "weight": 0.9780947418045087
+        },
+        {
+            "id": 809927,
+            "weight": 0.8915450498792878
+        },
+        {
+            "id": 933176,
+            "weight": 0.5663900423642783
+        },
+        {
+            "id": 1140875,
+            "weight": 0.3219573319544529
+        },
+        {
+            "id": 813932,
+            "weight": 0.2520134650424614
+        },
+        {
+            "id": 1126669,
+            "weight": 0.1495928918210249
+        },
+        {
+            "id": 956497,
+            "weight": 0.13395536104897024
+        },
+        {
+            "id": 878018,
+            "weight": 0.132506750757191
+        },
+        {
+            "id": 966828,
+            "weight": 0.1324819141894748
+        },
+        {
+            "id": 13256785,
+            "weight": 0.13030354211464365
+        },
+        {
+            "id": 917938,
+            "weight": 0.12543735163455763
+        },
+        {
+            "id": 827634,
+            "weight": 0.12366268281742625
+        },
+        {
+            "id": 790659,
+            "weight": 0.08015796459084755
+        },
+        {
+            "id": 790669,
+            "weight": 0.07784405980703638
+        },
+        {
+            "id": 873676,
+            "weight": 0.074399739091836
+        },
+        {
+            "id": 779483,
+            "weight": 0.0728697101718048
+        },
+        {
+            "id": 1133031,
+            "weight": 0.06758385470442332
+        },
+        {
+            "id": 997004,
+            "weight": 0.0608119626101696
+        },
+        {
+            "id": 1147108,
+            "weight": 0.05597976253070232
+        },
+        {
+            "id": 1015331,
+            "weight": 0.05098865575291942
+        },
+        {
+            "id": 1133049,
+            "weight": 0.04740185316666168
+        }
+    ],
+    "videostarttime": {
+        "1013503": 12053
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/17.05.22 Eindhoven Meningsvormend CK ruw.mp4/playlist.m3u8",
+    "keywords": {
+        "Wethouder Torunoglu": 0.9955568117209928,
+        "Lichthoven fase": 1.9948424095925446,
+        "bestemmingsplan Lichthoven": 0.9922565679365212,
+        "Torunoglu zegt": 0.9922565679365212,
+        "vaststelling bestemmingsplan": 1.9910067820787356,
+        "afspraken nagekomen": 0.9864720047380254,
+        "gewijzigde": 1.9550880231213545,
+        "inspanningsverplichting": 0.9550880231213544,
+        "Wethouder": 0.9334903489260249,
+        "Raadsvoorstel": 1.9228514046076703,
+        "vaststelling": 1.9228514046076703,
+        "fase": 1.9228514046076703,
+        "kavels": 1.9228514046076703,
+        "zegt": 0.8844689164123877,
+        "ontwikkelaar": 0.8844689164123877,
+        "gesprek": 0.8844689164123877,
+        "gaan": 0.8844689164123877,
+        "kijken": 0.8844689164123877,
+        "afspraken": 0.8844689164123877,
+        "nagekomen": 0.8844689164123877,
+        "informeert": 0.8844689164123877,
+        "raad": 0.8844689164123877,
+        "raadsvergadering": 0.8844689164123877
+    },
+    "svz": null,
+    "afgedaan": "01-03-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

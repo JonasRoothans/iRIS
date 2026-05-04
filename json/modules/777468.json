@@ -1,0 +1,79 @@
+{
+    "module_id": 777468,
+    "vote_id": null,
+    "member_id": [
+        133670
+    ],
+    "party_list": [
+        "GroenLinks"
+    ],
+    "poho_id": [],
+    "title": "Beantwoording raadsvragen GroenLinks (Habraken) over Beschermen we zo de Klotputten",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/4/Raadsvragen/777468",
+    "type": "Raadsvraag",
+    "member": "Bart Habraken",
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "22-06-2022",
+    "meeting_url": null,
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/11772456/1?connection_type=17&connection_id=8592950": "Vraag"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": "22bst00991",
+    "related": [
+        {
+            "id": 787674,
+            "weight": 0.6266675595780773
+        },
+        {
+            "id": 975178,
+            "weight": 0.42974659090076606
+        },
+        {
+            "id": 12467390,
+            "weight": 0.277623323218256
+        },
+        {
+            "id": 12804675,
+            "weight": 0.27372351423397095
+        },
+        {
+            "id": 791582,
+            "weight": 0.25903247934938384
+        },
+        {
+            "id": 944432,
+            "weight": 0.2513050785063241
+        },
+        {
+            "id": 955449,
+            "weight": 0.2403466247344015
+        },
+        {
+            "id": 995075,
+            "weight": 0.18388643772072943
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Habraken": 1.9696036283675864,
+        "Beantwoording raadsvragen": 1.9505961599793435,
+        "raadsvragen GroenLinks": 1.9505961599793435,
+        "Klotputten": 1.9140368224837343,
+        "Beschermen": 1.8552226942577967,
+        "GroenLinks": 1.8416830712200127,
+        "raadsvragen": 1.702634417439785
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": "02-04-2026",
+    "meeting_id": []
+}

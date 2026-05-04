@@ -1,0 +1,119 @@
+{
+    "module_id": 782522,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230014,
+    "title": "Stiltegebied - Raadsvoorstel startnotitie participatieproces Wielewaal",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/782522",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "R. Thijs (Wethouder)",
+    "result": "",
+    "date": "21-09-2022",
+    "meeting_url": {
+        "1013082": "https://raadsinformatie.eindhoven.nl/vergadering/1013082#ai_6984875"
+    },
+    "attachment": null,
+    "parent": 771653,
+    "children": [],
+    "text": "In fase 2 een brede discussie over het onderwerp ‘stiltegebieden’ te willen voeren, waarbij de mogelijkheid wordt verkend om in de planvorming rekening te houden met een gefaseerde (in zowel tijd als ruimte) overgang naar stiltegebieden.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 771653,
+            "weight": 0.9852600961257676
+        },
+        {
+            "id": 797499,
+            "weight": 0.7363062536316577
+        },
+        {
+            "id": 903669,
+            "weight": 0.4671344977458508
+        },
+        {
+            "id": "a_7037807",
+            "weight": 0.4321258844491499
+        },
+        {
+            "id": "a_7037805",
+            "weight": 0.42570288236613574
+        },
+        {
+            "id": "a_7037808",
+            "weight": 0.41938263407251153
+        },
+        {
+            "id": "a_7038460",
+            "weight": 0.4115895996702036
+        },
+        {
+            "id": 982801,
+            "weight": 0.3007700722845983
+        },
+        {
+            "id": 15241402,
+            "weight": 0.2490695372583904
+        },
+        {
+            "id": 1133037,
+            "weight": 0.114900377938063
+        },
+        {
+            "id": 889102,
+            "weight": 0.107727759211833
+        },
+        {
+            "id": 1141642,
+            "weight": 0.10405707175622902
+        },
+        {
+            "id": 1134427,
+            "weight": 0.0907750811043448
+        },
+        {
+            "id": 1104185,
+            "weight": 0.08603051915027525
+        }
+    ],
+    "videostarttime": {
+        "1013082": 2530
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_21.09.22_NC_EINDHOVEN_RAA.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel startnotitie": 1.9944512587062486,
+        "participatieproces Wielewaal": 1.9922565679365212,
+        "willen voeren": 0.9910067820787357,
+        "startnotitie participatieproces": 1.9864720047380255,
+        "brede discussie": 0.9864720047380254,
+        "planvorming rekening": 0.9864720047380254,
+        "zowel tijd": 0.9864720047380254,
+        "Stiltegebied": 1.9550880231213545,
+        "Raadsvoorstel": 1.9522369003446032,
+        "Wielewaal": 1.933490348926025,
+        "fase": 0.9228514046076703,
+        "onderwerp": 0.9228514046076703,
+        "voeren": 0.9228514046076703,
+        "waarbij": 0.9228514046076703,
+        "gefaseerde": 0.9228514046076703,
+        "ruimte": 0.9228514046076703,
+        "overgang": 0.9228514046076703,
+        "startnotitie": 1.8844689164123878,
+        "brede": 0.8844689164123877,
+        "willen": 0.8844689164123877,
+        "mogelijkheid": 0.8844689164123877,
+        "rekening": 0.8844689164123877,
+        "houden": 0.8844689164123877,
+        "zowel": 0.8844689164123877,
+        "tijd": 0.8844689164123877
+    },
+    "svz": null,
+    "afgedaan": "05-03-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

@@ -1,0 +1,109 @@
+{
+    "module_id": 796381,
+    "vote_id": null,
+    "member_id": [
+        194376,
+        194242
+    ],
+    "party_list": [
+        "Volt",
+        "VVD"
+    ],
+    "poho_id": [],
+    "title": "Beantwoording raadsvragen Verzoek om informatie Fuutlaan (VVD, Volt)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/4/Raadsvragen/796381",
+    "type": "Raadsvraag",
+    "member": "Marieke van Gastel en Jacco Rubenkamp",
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "23-11-2022",
+    "meeting_url": null,
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/12087032/1?connection_type=17&connection_id=8835937": "Vraag",
+        "https://raadsinformatie.eindhoven.nl/document/12330097/2?connection_type=17&connection_id=9010467": "Antwoord"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/12087032/1?connection_type=17&connection_id=8835937",
+    "pdf_text": " \n  \n \n \nRaadsvragen van de fractie (s): \n \n \nVerzoek om informatie  \n \ndatum:  23 november 2022  \n \n \nGeacht college,  \n \n \nInleiding  \nWe zijn bezig met het dossier  Fuutlaan  10: inloop en 24 uurs \nbasisvoorziening voor dak - en thuislozen. Omwonenden hebben een \nWOO verzoek ingediend. Veel tekst in dit WOO verzoek is zwartgelakt. \nWij concluderen daaruit dat op grond  van de wet open overheid \nbepaalde informatie niet openbaar gemaa kt kan worden . Als raadsleden \nwillen wij graag goed en volledig geïnformeerd zijn op dit dossier. Om \nons raadswerk goed te kunnen doen willen wij u daarom verzoeken \ndeze informatie voor ons inzichtelijk te maken.  \n \n \nRaadsvragen  \n1. Graag ontvangen wij de zwartgelakte tekst van het WOO \nverzoek dat gestuurd is aan de omwonenden . \n2. Wij verzoeken u voor ons inzichtelijk te maken welke stukken zijn \nzwartgelakt . \n \n \nNamens de fractie(s),  \n \nMarieke van Gastel  (VVD) , raadslid   \nJacco Rubenkamp (Volt) , raadslid  \n \n",
+    "bst": "23bst00050",
+    "related": [
+        {
+            "id": 832734,
+            "weight": 0.730969773429651
+        },
+        {
+            "id": 1062577,
+            "weight": 0.18769534417520542
+        },
+        {
+            "id": 776872,
+            "weight": 0.11070366509134728
+        },
+        {
+            "id": 926421,
+            "weight": 0.10773854005326929
+        },
+        {
+            "id": 783004,
+            "weight": 0.10513628181248323
+        },
+        {
+            "id": 926041,
+            "weight": 0.10098987314509145
+        },
+        {
+            "id": 804504,
+            "weight": 0.09602131569544703
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Geacht college": 0.986480219752649,
+        "WOO verzoek": 0.9690559029753585,
+        "Fuutlaan": 1.967759049972504,
+        "dossier Fuutlaan": 0.9644782762410752,
+        "uurs basisvoorziening": 0.9523990865896075,
+        "Geacht": 0.9293601142081953,
+        "Inleiding": 0.9293601142081953,
+        "WOO": 0.9122976494210278,
+        "VVD": 1.900407383934085,
+        "Volt": 1.900407383934085,
+        "Beantwoording raadsvragen": 1.8972520849531347,
+        "informatie datum": 0.8707788870919881,
+        "november": 0.8608331358579104,
+        "raadsvragen": 1.8355294659073098,
+        "verzoek ingediend": 0.8313139203475766,
+        "datum": 0.8111628596067121,
+        "college": 0.8111628596067121,
+        "inloop": 0.8111628596067121,
+        "uurs": 0.8111628596067121,
+        "dak": 0.8111628596067121,
+        "thuislozen": 0.8111628596067121,
+        "Jacco Rubenkamp": 0.7948765762104917,
+        "fractie": 0.7903938294661255,
+        "bezig": 0.7593798446519131,
+        "zwartgelakt": 0.7356843372465688,
+        "dossier": 0.7340089666876048,
+        "inzichtelijk": 0.7238852272278502,
+        "willen": 0.7101405742464738,
+        "raadslid": 0.6990672271526022,
+        "maken": 0.6915104177499727,
+        "Omwonenden": 0.682099473336674,
+        "goed": 0.682099473336674,
+        "tekst": 0.6752002102936712,
+        "graag": 0.6694397546961286,
+        "Namens": 0.6111690234404887,
+        "Marieke": 0.6111690234404887,
+        "Gastel": 0.6111690234404887,
+        "Jacco": 0.5622533079161258
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194242,
+    "lastScrapeDate": "02-04-2026",
+    "meeting_id": []
+}

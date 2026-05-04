@@ -1,0 +1,75 @@
+{
+    "module_id": 966035,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230019,
+    "title": "Volgorde behandeling jaarrekening en kadernota - Raadsvoorstel Jaarstukken 2023",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/966035",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. van Lanschot (Wethouder)",
+    "result": "",
+    "date": "26-06-2024",
+    "meeting_url": {
+        "1147977": "https://raadsinformatie.eindhoven.nl/vergadering/1147977#ai_8483500"
+    },
+    "attachment": null,
+    "parent": 946916,
+    "children": [],
+    "text": "Wethouder van Lanschot zegt toe dat hij komt naar de auditcommissie met scenario’s (terugbrengen van het aantal zorgaanbieders) en brengt daarbij de risico’s in kaart.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 992053,
+            "weight": 0.359810025293956
+        },
+        {
+            "id": 782833,
+            "weight": 0.35113342942320613
+        },
+        {
+            "id": 955171,
+            "weight": 0.348338342177522
+        },
+        {
+            "id": 1112886,
+            "weight": 0.2887184546700051
+        }
+    ],
+    "videostarttime": {
+        "1147977": 762
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_26.06.24_NC_Eindhoven_Cie.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Jaarstukken": 1.9967389880162214,
+        "Lanschot zegt": 0.986202801796007,
+        "Volgorde behandeling": 1.9846191788281082,
+        "aantal zorgaanbieders": 0.9846191788281083,
+        "behandeling jaarrekening": 1.9742913828560065,
+        "brengt daarbij": 0.9742913828560066,
+        "Jaarstukken": 1.9429876123096683,
+        "Wethouder": 0.9429876123096684,
+        "Volgorde": 1.9043195497355658,
+        "kadernota": 1.9043195497355658,
+        "terugbrengen": 0.9043195497355658,
+        "kaart": 0.9043195497355658,
+        "jaarrekening": 1.8416830712200127,
+        "zegt": 0.8416830712200127,
+        "komt": 0.8416830712200127,
+        "auditcommissie": 0.8416830712200127,
+        "scenario": 0.8416830712200127,
+        "aantal": 0.8416830712200127,
+        "brengt": 0.8416830712200127,
+        "daarbij": 0.8416830712200127,
+        "risico": 0.8416830712200127
+    },
+    "svz": null,
+    "afgedaan": "19-11-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

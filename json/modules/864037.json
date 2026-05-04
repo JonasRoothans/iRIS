@@ -1,0 +1,140 @@
+{
+    "module_id": 864037,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230013,
+    "title": "Laat huisartsen het werk doen waartoe zij opgeleid zijn (Vraag V3 vragenhalfuur)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/864037",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Steenbakkers (Wethouder)",
+    "result": "",
+    "date": "11-07-2023",
+    "meeting_url": {
+        "1102274": "https://raadsinformatie.eindhoven.nl/vergadering/1102274#ai_7585701"
+    },
+    "attachment": null,
+    "parent": "ai_7585701",
+    "children": [],
+    "text": "Wethouder Steenbakkers zegt toe dat het meenemen van zorgverzekeraars als aandachtspunt wordt meegegeven in de gesprekken met het expat centre.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1014907,
+            "weight": 0.4830638162204446
+        },
+        {
+            "id": 892445,
+            "weight": 0.30328812725393967
+        },
+        {
+            "id": 1041867,
+            "weight": 0.2759992624378285
+        },
+        {
+            "id": 14252624,
+            "weight": 0.2715653188623514
+        },
+        {
+            "id": 956743,
+            "weight": 0.2174291514307014
+        },
+        {
+            "id": 14236769,
+            "weight": 0.21378083667696446
+        },
+        {
+            "id": 1117275,
+            "weight": 0.180785625415261
+        },
+        {
+            "id": 958683,
+            "weight": 0.16509199087324986
+        },
+        {
+            "id": 917672,
+            "weight": 0.14721228510382042
+        },
+        {
+            "id": 849282,
+            "weight": 0.10267269635575241
+        },
+        {
+            "id": 833413,
+            "weight": 0.10107054104512606
+        },
+        {
+            "id": 906452,
+            "weight": 0.09530746113278778
+        },
+        {
+            "id": 951155,
+            "weight": 0.0933700700673272
+        },
+        {
+            "id": 913896,
+            "weight": 0.0927346943683241
+        },
+        {
+            "id": 901651,
+            "weight": 0.09083589030536295
+        },
+        {
+            "id": 864019,
+            "weight": 0.08977539913680688
+        },
+        {
+            "id": 1046816,
+            "weight": 0.08661313846772203
+        },
+        {
+            "id": 958585,
+            "weight": 0.0864233032639679
+        },
+        {
+            "id": 845128,
+            "weight": 0.08377728901037919
+        },
+        {
+            "id": 945680,
+            "weight": 0.07768228772837699
+        },
+        {
+            "id": 15563305,
+            "weight": 0.0761242746228105
+        }
+    ],
+    "videostarttime": {
+        "1102274": 1133
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_11.07.23_Eindhoven_raad.mp4/playlist.m3u8",
+    "keywords": {
+        "Wethouder Steenbakkers": 0.9968131692799578,
+        "Steenbakkers zegt": 0.9922565679365212,
+        "Laat huisartsen": 1.9910067820787356,
+        "expat centre": 0.9910067820787357,
+        "Vraag": 1.9696036283675864,
+        "vragenhalfuur": 1.9550880231213545,
+        "Wethouder": 0.9522369003446032,
+        "Laat": 1.9228514046076703,
+        "centre": 0.9228514046076703,
+        "werk": 1.8844689164123878,
+        "waartoe": 1.8844689164123878,
+        "opgeleid": 1.8844689164123878,
+        "zegt": 0.8844689164123877,
+        "meenemen": 0.8844689164123877,
+        "zorgverzekeraars": 0.8844689164123877,
+        "aandachtspunt": 0.8844689164123877,
+        "gesprekken": 0.8844689164123877,
+        "expat": 0.8844689164123877
+    },
+    "svz": null,
+    "afgedaan": "06-02-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

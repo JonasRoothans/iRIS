@@ -1,0 +1,93 @@
+{
+    "module_id": 15345664,
+    "vote_id": null,
+    "member_id": [
+        194406
+    ],
+    "party_list": [
+        "GroenLinks"
+    ],
+    "poho_id": [],
+    "title": "Rondvraag 1 - Geluidsdagen; luister naar het studentengeluid!",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "31-03-2025",
+    "meeting_url": {
+        "1256349": "https://raadsinformatie.eindhoven.nl/vergadering/1256347/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://api.notubiz.nl/document/15345664/1",
+    "pdf_text": " \n \n \nRondvraag  \nGeluidsdagen; luister naar het studentengeluid!             \n \nElk jaar zijn er veel studenten en studentenorganisaties die mooie \nevenementen organiseren op het TU/e -terrein. Om evenementen te \norganiseren op de TU/e -campus kunnen studenten(organisaties) \nzogenoemde ‘geluidsdagen’ aanvragen bij de TU/e. Dit zijn in tota al 36 \ndagen. Studentenorganisaties vinden dat het systeem met de \ngeluidsdagen verbeterd kan worden; van de hoeveelheid dagen tot de \nmanier van aanvragen. Hierbij moet er volgens GroenLinks een balans \ngevonden  worden tussen rust voor het dommelgebied en reu ring op de \ncampus.  \n \nDe geluidsdagen zijn afhankelijk van het locatieprofiel. De \nlocatie profielen  worden geactualiseerd. Voor o.a. het TU/e -terrein is \nhiermee eind november mee gestart. In gesprek met \nstudentenorganisaties als DAS,  Groep1 en FSE heeft GroenLinks \ngehoord dat zij tot op heden nog niet betrokken zijn bij deze actualis atie.  \n \nHierover heeft GroenLinks de volgende vragen:  \n \n1. Is het college het met GroenLinks eens dat het TU/e -terrein wat \nbetreft de evenementen die worden georganiseerd maatwerk \nnodig is?  \n2. Is het college bereid om met studentenorganisaties (zoals DAS, \nGroep1 , FSE en Compositum ) in gesprek te gaan en hun input \nmee te nemen in de actualisering van het locatieprofiel?  \n \n \nEindhoven, 31 maart 2025  \n \n \nNamens de fractie van GroenLinks,  \nSep Wittenbols, Raadslid  \n \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 891691,
+            "weight": 1.8855994888778747
+        },
+        {
+            "id": 850611,
+            "weight": 0.23236057052940925
+        },
+        {
+            "id": "a_9477053",
+            "weight": 0.15936309463487172
+        },
+        {
+            "id": 1036331,
+            "weight": 0.15372881009596304
+        },
+        {
+            "id": 16332004,
+            "weight": 0.13112785620073425
+        },
+        {
+            "id": 1142714,
+            "weight": 0.12193447129076602
+        }
+    ],
+    "videostarttime": {
+        "1256349": 9318
+    },
+    "videolink": null,
+    "keywords": {
+        "Rondvraag Geluidsdagen": 0.9285100565388876,
+        "GroenLinks": 0.8996449458871434,
+        "luister": 1.898939133192576,
+        "studentengeluid": 1.898939133192576,
+        "Rondvraag": 1.886459715975635,
+        "evenementen": 0.8480317687622565,
+        "terrein": 0.8413527805706783,
+        "DAS": 0.8220091041610387,
+        "FSE": 0.7998158639666623,
+        "organiseren": 0.7780367405387688,
+        "Sep Wittenbols": 0.7702288986292912,
+        "geluidsdagen verbeterd": 0.7611326297181096,
+        "evenementen organiseren": 0.7462572902138253,
+        "locatieprofiel": 0.742852822095343,
+        "aanvragen": 0.734343591150837,
+        "campus": 0.7280036123565715,
+        "dagen": 1.7280036123565714,
+        "gesprek": 0.7022553350534108,
+        "college": 0.6992834159934183,
+        "mee": 0.6885045830108594,
+        "Raadslid": 0.5937414947837629,
+        "Compositum": 0.5728927773658685,
+        "Namens": 0.5677494432237188,
+        "Sep": 0.5677494432237188,
+        "Studentenorganisaties vinden": 0.5149920503323737
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194406,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1256349
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "module_id": 15242088,
+    "vote_id": null,
+    "member_id": [
+        194402,
+        194511
+    ],
+    "party_list": [
+        "GroenLinks",
+        "D66"
+    ],
+    "poho_id": [],
+    "title": "Rondvraag 3 - Duurzaam proosten geslaagd (GL, D66)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "11-03-2025",
+    "meeting_url": {
+        "1256336": "https://raadsinformatie.eindhoven.nl/vergadering/1256334/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://api.notubiz.nl/document/15242088/1",
+    "pdf_text": "           \n \n \nRondvraag  \nDuurzaam proosten geslaagd!   \n \nVorige week was weer een van de mooiste feestjes van het jaar: Carnaval! Dit jaar heeft de \nhoreca in Eindhoven geweldig werk geleverd bij de invoering van hardcups. Voor het eerst was \ner geen zee van plastic bekertje s, wat een groot compliment verdient voor zowel de gemeente \nals de horeca. Dit laat zien dat duurzaam ondernemen succesvol kan zijn.  Het is een mooie \nuitvoering van de motie van GroenLinks, D66, Volt en 50plus.  \n \nToch is er een punt van zorg. Het statiegeldsysteem voor de cups (€1 met €0,50 retour) en \nvooral de pitchers (€5 met €2,50 retour) leidde tot discussie  en onduidelijkheid . Een deel van de  \ncarnavalsvierders gaf aan dat zij zich op extra kosten gejaagd voelde. Dit sentiment kwam naar \nvoren, zowel op straat als in een opiniestuk in het Eindhovens Dagblad1. \nD66 en GroenLinks  willen de transitie naar duurzaamheid op een positieve manier vormgeven. \nDe hardcups  zullen  bij stadsbrede evenementen vaker gebruikt worden. Als het \nstatiegeldsysteem als een verdienmodel wordt ervaren, kan dit het draagvlak voor verdere \nduurzame initiatieven ondermijnen.  \n \nDaarom hebben we de volgende vragen voor het college:  \n1. Gaat het college het hardcup  beker systeem evalueren, met in ieder geval focus op \nduurzaamheid, afname afval en gebruikerservaring? En wil zij de raad hiervan op de \nhoogte brengen?  \n2. Wat gebeurde er met de overige 50% statiegeld?  \n3. Hoe staat het college tegenover het idee om meer statiegeld terug te geven of eventuele \nwinsten ten goede te laten komen aan (verduurzaming van) evenementen in de stad?  \n \n \nNamens de fractie s, \n \nLotte Meerhoff (GroenLinks)  \nChris Dams (D66)  \n \n1 https://www.ed.nl/opinie/carnavalsvierder -wordt-benadeeld -door-oneerlijk-eindhovens -statiegeldsysteem -\nvoor-bekers~a180df8a/  \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 996940,
+            "weight": 0.7998875440174412
+        },
+        {
+            "id": 11765920,
+            "weight": 0.35994147167517276
+        },
+        {
+            "id": 999856,
+            "weight": 0.249483002404155
+        },
+        {
+            "id": 807093,
+            "weight": 0.24838136938091113
+        },
+        {
+            "id": 982548,
+            "weight": 0.14253830717967622
+        },
+        {
+            "id": 15004584,
+            "weight": 0.14080053002031498
+        },
+        {
+            "id": 15018132,
+            "weight": 0.12005196432475353
+        }
+    ],
+    "videostarttime": {
+        "1256336": 79
+    },
+    "videolink": null,
+    "keywords": {
+        "proosten geslaagd": 1.9963679081972279,
+        "Duurzaam proosten": 1.9906073077624082,
+        "Rondvraag Duurzaam": 0.987565852665336,
+        "Rondvraag": 1.9702840499304237,
+        "geslaagd": 1.9595884366099319,
+        "proosten": 1.955385320488967,
+        "Duurzaam": 1.9311175867124184,
+        "statiegeldsysteem": 0.8493405261341913,
+        "college": 0.8491298110250055,
+        "GroenLinks": 0.8434729254757669,
+        "Eindhoven geweldig": 0.8346625299808653,
+        "jaar": 0.8341270784072456,
+        "Carnaval": 0.8328353690535207,
+        "Vorige week": 0.8300670665408624,
+        "mooiste feestjes": 0.8161468515494116,
+        "horeca": 0.8147745687608491,
+        "retour": 0.7948908969651436,
+        "Lotte Meerhoff": 0.7835789817648304,
+        "Chris Dams": 0.7835789817648304,
+        "hardcups": 0.7609415346782835,
+        "zowel": 0.7596936506246829,
+        "evenementen": 0.7231864448669152,
+        "Eindhoven": 0.7083913174175381,
+        "geweldig werk": 0.6898617066463693,
+        "werk geleverd": 0.6898617066463693,
+        "Volt": 0.672601302711056,
+        "week": 0.6059179814778789,
+        "mooiste": 0.6059179814778789,
+        "feestjes": 0.6059179814778789,
+        "plastic bekertje": 0.5941287505242366,
+        "groot compliment": 0.5941287505242366,
+        "compliment verdient": 0.5941287505242366,
+        "Lotte": 0.5781988492842164,
+        "Chris": 0.5781988492842164,
+        "Dams": 0.5781988492842164,
+        "college tegenover": 0.5529497228940989,
+        "laat zien": 0.5187342274463668,
+        "ondernemen succesvol": 0.5187342274463668,
+        "invoering": 0.5134593555477842
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194511,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1256336
+    ]
+}

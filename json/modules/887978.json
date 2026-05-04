@@ -1,0 +1,116 @@
+{
+    "module_id": 887978,
+    "vote_id": null,
+    "member_id": [
+        194500
+    ],
+    "party_list": [
+        "FVD"
+    ],
+    "poho_id": [],
+    "title": "Beantwoording raadsvragen Evaluatie stadsgezanten (FvD)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/4/Raadsvragen/887978",
+    "type": "Raadsvraag",
+    "member": "Nicolas Knoester",
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "24-10-2023",
+    "meeting_url": null,
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/13390972/1?connection_type=17&connection_id=9881629": "Vraag",
+        "https://raadsinformatie.eindhoven.nl/document/13484714/1?connection_type=17&connection_id=9978775": "Antwoord"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/13390972/1?connection_type=17&connection_id=9881629",
+    "pdf_text": " \n \n \nRaadsvragen van de fracti e: Forum voor Democratie  \n \n \nEvaluatie stadsgezanten  \n \ndatum:  16 oktober 2023  \n \n \nGeacht college,  \n \n \nInleiding  \nVorig jaar werden de stadsgezanten met de nodige tamtam \ngeïntroduceerd in Eindhoven. Inmiddels zijn we ruim een jaar verder en \nis het de hoogste tijd om de eerste resultaten te evalueren.  \n \n \nRaadsvragen  \n1. Wat hebben de stadsgezanten concreet gedaan tot nu toe? \n2. Wat hebben de diverse projecten onder hun beheer ongeveer \ngekost?  \n3. Wat hebben ze effectief bereikt en hoe wordt dat bepaald en \nonderzocht?  \n4. Hoe en wanneer worden de stadsgezanten door het college \ngemonitord, geëvalueerd en bijgestuurd?  \n \nNamens de fracti e, \nForum voor Democratie  \n \nNicolas Knoester , raadslid  \n \n \n",
+    "bst": "23bst01631",
+    "related": [
+        {
+            "id": 900244,
+            "weight": 2.5646796584007645
+        },
+        {
+            "id": 13169507,
+            "weight": 0.39458830547543033
+        },
+        {
+            "id": 884007,
+            "weight": 0.20279279740751685
+        },
+        {
+            "id": 877381,
+            "weight": 0.19381661183365492
+        },
+        {
+            "id": 832339,
+            "weight": 0.16519860774554693
+        },
+        {
+            "id": 989352,
+            "weight": 0.1651160191729696
+        },
+        {
+            "id": 930147,
+            "weight": 0.16509149193808953
+        },
+        {
+            "id": 986820,
+            "weight": 0.16423936933894953
+        },
+        {
+            "id": 814698,
+            "weight": 0.16108009397530934
+        },
+        {
+            "id": 863194,
+            "weight": 0.15941027577666275
+        },
+        {
+            "id": 997134,
+            "weight": 0.14092412214984423
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Inleiding Vorig": 0.9955112383073824,
+        "Evaluatie stadsgezanten": 1.9881706196814055,
+        "raadsvragen Evaluatie": 1.9842272377685855,
+        "Vorig jaar": 0.9800235618646218,
+        "Evaluatie": 1.9706756281563957,
+        "Geacht college": 0.9677250577195895,
+        "nodige tamtam": 0.9643578921261241,
+        "tamtam geïntroduceerd": 0.9643578921261241,
+        "Beantwoording raadsvragen": 1.9562210474519468,
+        "Geacht": 0.9370356995308518,
+        "Eindhoven": 0.9370356995308518,
+        "stadsgezanten datum": 0.9334147566303017,
+        "Vorig": 0.9290279933613612,
+        "Forum": 0.8834431606507064,
+        "Democratie Nicolas": 0.8703986991369679,
+        "FvD": 1.8676992988550127,
+        "oktober": 0.8676992988550127,
+        "jaar": 0.8620216856406532,
+        "datum": 0.8415820637321322,
+        "Nicolas Knoester": 0.8224198988467112,
+        "nodige": 0.8144859357106892,
+        "tamtam": 0.8144859357106892,
+        "fracti": 0.784232037384351,
+        "hoogste tijd": 0.7576528155479476,
+        "college": 0.7517177281867012,
+        "Knoester": 0.626606195543902,
+        "Nicolas": 0.5961345207220997,
+        "college gemonitord": 0.5636979060777275,
+        "ruim": 0.5583304088356926,
+        "tijd": 0.5583304088356926,
+        "resultaten": 0.5583304088356926
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194500,
+    "lastScrapeDate": "02-04-2026",
+    "meeting_id": []
+}

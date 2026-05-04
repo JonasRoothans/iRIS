@@ -1,0 +1,162 @@
+{
+    "module_id": 1062479,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230019,
+    "title": "Wachtlijsten zwemlessen voor volwassenen (Vraag V4 Vragenhalfuur)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1062479",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. van Lanschot (Wethouder)",
+    "result": "",
+    "date": "01-07-2025",
+    "meeting_url": {
+        "1256322": "https://raadsinformatie.eindhoven.nl/vergadering/1256322#ai_8588215"
+    },
+    "attachment": null,
+    "parent": "ai_8588215",
+    "children": [],
+    "text": "Wethouder Van Lanschot zegt toe het inzicht in de lengte van de wachtlijsten voor volwassen zwemlessen in Eindhoven (uitgesplitst naar locatie en type les) te delen via de reeds toegezegde collegebrief over de staat van zwemmen.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 15747142,
+            "weight": 1.1448173370423997
+        },
+        {
+            "id": 1066501,
+            "weight": 0.8545311493603958
+        },
+        {
+            "id": 824832,
+            "weight": 0.7222568275878029
+        },
+        {
+            "id": 997901,
+            "weight": 0.5846328229840303
+        },
+        {
+            "id": "a_9477086",
+            "weight": 0.5322533419082879
+        },
+        {
+            "id": 1060107,
+            "weight": 0.5164466518355052
+        },
+        {
+            "id": 976790,
+            "weight": 0.429015968223152
+        },
+        {
+            "id": "ai_7854318",
+            "weight": 0.410124486018179
+        },
+        {
+            "id": 1090197,
+            "weight": 0.26359032746940664
+        },
+        {
+            "id": 984409,
+            "weight": 0.2616679755282429
+        },
+        {
+            "id": 1090018,
+            "weight": 0.259169279982746
+        },
+        {
+            "id": 859504,
+            "weight": 0.24942467745298363
+        },
+        {
+            "id": 982316,
+            "weight": 0.24780711908716424
+        },
+        {
+            "id": 1133048,
+            "weight": 0.2462347375998728
+        },
+        {
+            "id": 883125,
+            "weight": 0.2211916433739076
+        },
+        {
+            "id": 12876589,
+            "weight": 0.21515235965904878
+        },
+        {
+            "id": 909641,
+            "weight": 0.2135320844272606
+        },
+        {
+            "id": 1136754,
+            "weight": 0.20197269245844862
+        },
+        {
+            "id": "a_9477017",
+            "weight": 0.18276898776267908
+        },
+        {
+            "id": 826742,
+            "weight": 0.14995336096403603
+        },
+        {
+            "id": 1009567,
+            "weight": 0.09859194974801301
+        },
+        {
+            "id": "a_8882426",
+            "weight": 0.09545665219488633
+        },
+        {
+            "id": 996944,
+            "weight": 0.08869692859643011
+        },
+        {
+            "id": 775281,
+            "weight": 0.07655732724377844
+        },
+        {
+            "id": 956461,
+            "weight": 0.07038048035919238
+        }
+    ],
+    "videostarttime": {
+        "1256322": 915
+    },
+    "videolink": null,
+    "keywords": {
+        "Lanschot zegt": 0.9932290164330604,
+        "type les": 0.9913526605785579,
+        "delen via": 0.9879225372842758,
+        "toegezegde collegebrief": 0.9879225372842758,
+        "volwassen zwemlessen": 0.9852497832989587,
+        "Vraag": 1.9666441767539071,
+        "Vragenhalfuur": 1.9666441767539071,
+        "Wethouder": 0.9529374482182398,
+        "Eindhoven": 0.9529374482182398,
+        "Wachtlijsten": 1.9334683526937526,
+        "zwemlessen": 1.9334683526937526,
+        "uitgesplitst": 0.9215194237915593,
+        "les": 1.9215194237915592,
+        "zegt": 0.8907601800270539,
+        "inzicht": 0.8907601800270539,
+        "lengte": 0.8907601800270539,
+        "volwassen": 1.890760180027054,
+        "locatie": 0.8907601800270539,
+        "type": 0.8907601800270539,
+        "via": 0.8907601800270539,
+        "toegezegde": 0.8907601800270539,
+        "staat": 0.8907601800270539
+    },
+    "svz": "Ìn de raadsbief van 16 juli 2025 bent u hierover geinformeerd. VOORSTEL COLLEGE: AFVOEREN\nIn de menings...  Lees verder ",
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "02-10-2025",
+    "meeting_id": [
+        1256322
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "module_id": 819546,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "RIB \"het stille midden\"-  Raadsvoorstel Kaders voor samenspraak omgevingsvisie 2.0",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/819546",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "31-01-2023",
+    "meeting_url": {
+        "1059674": "https://raadsinformatie.eindhoven.nl/vergadering/1059674#ai_7319714"
+    },
+    "attachment": null,
+    "parent": 804274,
+    "children": [],
+    "text": "Wethouder Verhees zegt toe: de raad middels een RIB te informeren over hoe het proces eruit gaat zien om de ongehoorde groep, “het stille midden”, te betrekken.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 900825,
+            "weight": 1.743035188752542
+        },
+        {
+            "id": 850904,
+            "weight": 0.983126767185191
+        },
+        {
+            "id": 849507,
+            "weight": 0.9819875242816548
+        },
+        {
+            "id": 855034,
+            "weight": 0.5572469348182181
+        },
+        {
+            "id": 918140,
+            "weight": 0.4962630714391184
+        },
+        {
+            "id": 1057330,
+            "weight": 0.40970710381775044
+        },
+        {
+            "id": 16503560,
+            "weight": 0.2487107721849308
+        },
+        {
+            "id": 1006860,
+            "weight": 0.15038479944664535
+        },
+        {
+            "id": 12076667,
+            "weight": 0.13501881758865214
+        },
+        {
+            "id": 862085,
+            "weight": 0.12312287389751844
+        },
+        {
+            "id": 784515,
+            "weight": 0.11923355174265948
+        },
+        {
+            "id": 783640,
+            "weight": 0.10993054978812097
+        },
+        {
+            "id": 1021307,
+            "weight": 0.09634067902638746
+        },
+        {
+            "id": 984487,
+            "weight": 0.09560064611868344
+        },
+        {
+            "id": 973404,
+            "weight": 0.0948328110635441
+        },
+        {
+            "id": 1003503,
+            "weight": 0.08422281082374669
+        },
+        {
+            "id": 852093,
+            "weight": 0.07999021657534827
+        },
+        {
+            "id": 790670,
+            "weight": 0.0744464774399424
+        },
+        {
+            "id": 926421,
+            "weight": 0.06754636944110631
+        },
+        {
+            "id": 796421,
+            "weight": 0.06617097600127828
+        },
+        {
+            "id": 1031702,
+            "weight": 0.0563155820558338
+        }
+    ],
+    "videostarttime": {
+        "1059674": 7851
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_31.01.23_NC_Eindhoven_Raad.mp4/playlist.m3u8",
+    "keywords": {
+        "stille midden": 1.9965941257608257,
+        "Raadsvoorstel Kaders": 1.9961414021979684,
+        "Wethouder Verhees": 0.9961414021979685,
+        "Verhees zegt": 0.99002873730536,
+        "samenspraak omgevingsvisie": 1.9874488827529952,
+        "ongehoorde groep": 0.9874488827529952,
+        "raad middels": 0.9812325942824494,
+        "proces eruit": 0.9812325942824494,
+        "eruit gaat": 0.9812325942824494,
+        "gaat zien": 0.9812325942824494,
+        "midden": 1.9664839973887518,
+        "RIB": 1.9542440982148446,
+        "stille": 1.9495340884944485,
+        "Kaders": 1.9272594566554075,
+        "groep": 0.9086726557282306,
+        "betrekken": 0.9086726557282306,
+        "samenspraak": 1.864273515476003,
+        "zegt": 0.864273515476003,
+        "raad": 0.864273515476003,
+        "informeren": 0.864273515476003,
+        "proces": 0.864273515476003,
+        "eruit": 0.864273515476003,
+        "gaat": 0.864273515476003,
+        "zien": 0.864273515476003
+    },
+    "svz": null,
+    "afgedaan": "06-12-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

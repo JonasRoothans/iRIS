@@ -1,0 +1,73 @@
+{
+    "module_id": 984409,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 231116,
+    "title": "Personen met onbegrepen gedrag - Raadsvoorstel Begroting 2025",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/984409",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "J. Dijsselbloem (Burgemeester)",
+    "result": "",
+    "date": "29-10-2024",
+    "meeting_url": {
+        "1148141": "https://raadsinformatie.eindhoven.nl/vergadering/1148141#ai_8729567"
+    },
+    "attachment": null,
+    "parent": 975511,
+    "children": [],
+    "text": "Burgemeester Dijsselbloem zegt toe te Kijken naar preventiemogelijkheden bij personen met verward of onbegrepen gedrag in relatie tot de wachtlijsten bij GGZ.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1062479,
+            "weight": 0.2616679755282429
+        },
+        {
+            "id": 15747142,
+            "weight": 0.25886040757176854
+        },
+        {
+            "id": 1066501,
+            "weight": 0.1290195050488409
+        },
+        {
+            "id": 1090197,
+            "weight": 0.1107024311696951
+        },
+        {
+            "id": 883125,
+            "weight": 0.0928958695525493
+        }
+    ],
+    "videostarttime": {
+        "1148141": null
+    },
+    "videolink": null,
+    "keywords": {
+        "Raadsvoorstel Begroting": 1.995961662644749,
+        "Burgemeester Dijsselbloem": 0.9940014963468521,
+        "Dijsselbloem zegt": 0.9820078095172579,
+        "onbegrepen gedrag": 1.9775865515369104,
+        "Begroting": 1.936580012774709,
+        "Burgemeester": 0.9365800127747091,
+        "GGZ": 0.9365800127747091,
+        "Kijken": 0.9059801740839759,
+        "Personen": 1.8964340077229784,
+        "gedrag": 1.8964340077229784,
+        "zegt": 0.8120163182304413,
+        "preventiemogelijkheden": 0.8120163182304413,
+        "verward": 0.8120163182304413,
+        "relatie": 0.8120163182304413,
+        "wachtlijsten": 0.8120163182304413
+    },
+    "svz": "COLLEGE: GRAAG AFVOEREN Vraag is schriftelijk beantwoord voorafgaand aan raadsbehandeling Begroting ",
+    "afgedaan": "19-11-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

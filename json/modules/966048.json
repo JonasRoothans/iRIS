@@ -1,0 +1,134 @@
+{
+    "module_id": 966048,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230013,
+    "title": "Onderbesteding programma economie - Raadsvoorstel Jaarstukken 2023",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/966048",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Steenbakkers (Wethouder)",
+    "result": "",
+    "date": "26-06-2024",
+    "meeting_url": {
+        "1147976": "https://raadsinformatie.eindhoven.nl/vergadering/1147976#ai_8483475"
+    },
+    "attachment": null,
+    "parent": 946916,
+    "children": [],
+    "text": "Wethouder Steenbakkers zegt toe dat hij schriftelijk terug komt op de vraag naar een duiding van de onderbesteding op programma economie van 23%.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 966042,
+            "weight": 0.15532647295318597
+        },
+        {
+            "id": 850793,
+            "weight": 0.15512936417541703
+        },
+        {
+            "id": 945619,
+            "weight": 0.1525715702334345
+        },
+        {
+            "id": 966038,
+            "weight": 0.14493170130835484
+        },
+        {
+            "id": 966043,
+            "weight": 0.14127513130014072
+        },
+        {
+            "id": 856074,
+            "weight": 0.1000921409256951
+        },
+        {
+            "id": 904196,
+            "weight": 0.0950735274016051
+        },
+        {
+            "id": 1060110,
+            "weight": 0.09506325426627793
+        },
+        {
+            "id": 906717,
+            "weight": 0.09470289255906447
+        },
+        {
+            "id": 1121877,
+            "weight": 0.0869590207850129
+        },
+        {
+            "id": 826918,
+            "weight": 0.08325065382437846
+        },
+        {
+            "id": 1057251,
+            "weight": 0.0829895123339557
+        },
+        {
+            "id": 854132,
+            "weight": 0.0810427596696077
+        },
+        {
+            "id": 1124788,
+            "weight": 0.07578217802722047
+        },
+        {
+            "id": 776928,
+            "weight": 0.07553196998212808
+        },
+        {
+            "id": 966055,
+            "weight": 0.06965563638016278
+        },
+        {
+            "id": "r_7006030",
+            "weight": 0.06920814219411682
+        },
+        {
+            "id": 1080541,
+            "weight": 0.06655064592261997
+        },
+        {
+            "id": 783304,
+            "weight": 0.06467044697935191
+        },
+        {
+            "id": "r_7006036",
+            "weight": 0.06084168346195613
+        }
+    ],
+    "videostarttime": {
+        "1147976": null
+    },
+    "videolink": null,
+    "keywords": {
+        "Raadsvoorstel Jaarstukken": 1.995938552108243,
+        "Wethouder Steenbakkers": 0.9939699682206337,
+        "Steenbakkers zegt": 0.9818770709856466,
+        "programma economie": 1.97727066683562,
+        "schriftelijk terug": 0.9630055957942216,
+        "terug komt": 0.9630055957942216,
+        "Onderbesteding programma": 1.9391585630796708,
+        "Jaarstukken": 1.9363995341461675,
+        "Wethouder": 0.9363995341461676,
+        "programma": 1.8957382726236962,
+        "economie": 1.8957382726236962,
+        "zegt": 0.811122679823941,
+        "terug": 0.811122679823941,
+        "komt": 0.811122679823941,
+        "vraag": 0.811122679823941,
+        "duiding": 0.811122679823941
+    },
+    "svz": null,
+    "afgedaan": "03-09-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

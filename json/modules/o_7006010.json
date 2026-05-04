@@ -1,0 +1,72 @@
+{
+    "module_id": "o_7006010",
+    "vote_id": 7006010,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Ordevoorstel (Brokman) over 6.14 Bestemmingsplan Lichthoven Fase 1 kavels C en D",
+    "url": "https://raadsinformatie.eindhoven.nl/vergadering/1013429/Ordevoorstel%20%28Brokman%29%20over%206.14%20Bestemmingsplan%20Lichthoven%20Fase%201%20kavels%20C%20en%20D 24-05-2022#voting_7006010",
+    "type": "Ordevoorstel",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "verworpen",
+    "date": "24-05-2022",
+    "meeting_url": {
+        "1013429": "https://raadsinformatie.eindhoven.nl/vergadering/1013429/Ordevoorstel%20%28Brokman%29%20over%206.14%20Bestemmingsplan%20Lichthoven%20Fase%201%20kavels%20C%20en%20D 24-05-2022#voting_7006010"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 845621,
+            "weight": 1.9564746472461352
+        },
+        {
+            "id": 780301,
+            "weight": 1.6032882215287771
+        },
+        {
+            "id": "ai_6964687",
+            "weight": 1.555858266737901
+        },
+        {
+            "id": "r_7006024",
+            "weight": 1.274706760802157
+        },
+        {
+            "id": 809927,
+            "weight": 1.218404319167469
+        },
+        {
+            "id": 933176,
+            "weight": 0.5642762696598064
+        },
+        {
+            "id": 813932,
+            "weight": 0.2510729485366583
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Bestemmingsplan Lichthoven": 1.9873976398760465,
+        "Lichthoven Fase": 1.9873976398760465,
+        "Brokman": 1.9696036283675864,
+        "Ordevoorstel": 1.9550880231213545,
+        "Fase": 1.9140368224837343,
+        "kavels": 1.8416830712200127
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1013429
+    ]
+}

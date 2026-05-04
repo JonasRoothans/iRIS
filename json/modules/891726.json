@@ -1,0 +1,88 @@
+{
+    "module_id": 891726,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Woningbouwproductie, de woningaantallen - Raadsvoorstel Vaststellen Begroting 2024",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/891726",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "31-10-2023",
+    "meeting_url": {
+        "1153547": "https://raadsinformatie.eindhoven.nl/vergadering/1153547#ai_7885375"
+    },
+    "attachment": null,
+    "parent": 879979,
+    "children": [],
+    "text": "Wethouder Verhees zegt toe met een nadere toelichting de raad te informeren over de woningbouwproductie, de woningaantallen benoemd in de begroting en de financiële consequentie bij meer bouw (o.a. toename fte’s).",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1025528,
+            "weight": 0.48871200626106975
+        },
+        {
+            "id": 826810,
+            "weight": 0.48058956761765925
+        },
+        {
+            "id": 826811,
+            "weight": 0.4785738809086676
+        },
+        {
+            "id": 826809,
+            "weight": 0.47619454232104
+        },
+        {
+            "id": 950071,
+            "weight": 0.4706550803628907
+        },
+        {
+            "id": "ai_7818784",
+            "weight": 0.463173247085777
+        },
+        {
+            "id": 993565,
+            "weight": 0.24298814003267794
+        },
+        {
+            "id": 941379,
+            "weight": 0.16127895877176668
+        }
+    ],
+    "videostarttime": {
+        "1153547": null
+    },
+    "videolink": null,
+    "keywords": {
+        "Raadsvoorstel Vaststellen": 1.9976979834862272,
+        "Wethouder Verhees": 0.9976979834862272,
+        "Vaststellen Begroting": 1.9960979608527998,
+        "Verhees zegt": 0.9951222169572376,
+        "toename fte": 0.9933821310757113,
+        "woningaantallen benoemd": 0.9922591927779991,
+        "nadere toelichting": 0.9915263616072252,
+        "financiële consequentie": 0.9915263616072252,
+        "Woningbouwproductie": 1.9663018778741996,
+        "Begroting": 1.9633001961314651,
+        "bouw": 1.9282782566731311,
+        "zegt": 0.9083351803487221,
+        "nadere": 0.9083351803487221,
+        "raad": 0.9083351803487221,
+        "informeren": 0.9083351803487221,
+        "benoemd": 0.9083351803487221,
+        "financiële": 0.9083351803487221,
+        "fte": 0.9083351803487221
+    },
+    "svz": null,
+    "afgedaan": "14-11-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

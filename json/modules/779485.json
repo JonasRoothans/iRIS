@@ -1,0 +1,141 @@
+{
+    "module_id": 779485,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Actualiseren bestemmingsplan - Raadsvoorstel Tot vaststelling paraplubestemmingsplan parkeren, kamerbewoning en woningsplitsing 2021",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/779485",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "17-05-2022",
+    "meeting_url": {
+        "1013503": "https://raadsinformatie.eindhoven.nl/vergadering/1013503#ai_6964652"
+    },
+    "attachment": null,
+    "parent": "ai_6964652",
+    "children": [],
+    "text": "De wethouder beantwoordt gestelde vragen en zegt daarbij toe: wat het gemeenteblad is en de gang van zaken bij actualisering van een onderliggend bestemmingsplan.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 779484,
+            "weight": 1.658544854971053
+        },
+        {
+            "id": "r_7006035",
+            "weight": 0.43859771474943676
+        },
+        {
+            "id": 779483,
+            "weight": 0.43773855748408014
+        },
+        {
+            "id": 793832,
+            "weight": 0.338936786929851
+        },
+        {
+            "id": 779482,
+            "weight": 0.21606981825728694
+        },
+        {
+            "id": 787218,
+            "weight": 0.21360208059711266
+        },
+        {
+            "id": 787214,
+            "weight": 0.21326557871086071
+        },
+        {
+            "id": 775238,
+            "weight": 0.2119805503643796
+        },
+        {
+            "id": "ai_6964652",
+            "weight": 0.2100802551261857
+        },
+        {
+            "id": 849282,
+            "weight": 0.12182510024203425
+        },
+        {
+            "id": 831137,
+            "weight": 0.12141375681595318
+        },
+        {
+            "id": 849083,
+            "weight": 0.1207029810196755
+        },
+        {
+            "id": 849289,
+            "weight": 0.12055444900833308
+        },
+        {
+            "id": 953040,
+            "weight": 0.12054402187102849
+        },
+        {
+            "id": 849081,
+            "weight": 0.12041035612725855
+        },
+        {
+            "id": 1121877,
+            "weight": 0.11686280727672362
+        },
+        {
+            "id": 1009794,
+            "weight": 0.09070635178151709
+        },
+        {
+            "id": 865499,
+            "weight": 0.08803341084118899
+        },
+        {
+            "id": 931952,
+            "weight": 0.08618165979643215
+        },
+        {
+            "id": "r_7006036",
+            "weight": 0.0671856781223698
+        },
+        {
+            "id": 955252,
+            "weight": 0.06426804208838244
+        }
+    ],
+    "videostarttime": {
+        "1013503": 869
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/17.05.22 Eindhoven Meningsvormend CK ruw.mp4/playlist.m3u8",
+    "keywords": {
+        "Actualiseren bestemmingsplan": 1.992070281305542,
+        "paraplubestemmingsplan parkeren": 1.9889858340862185,
+        "wethouder beantwoordt": 0.983490674140851,
+        "beantwoordt gestelde": 0.983490674140851,
+        "gestelde vragen": 0.983490674140851,
+        "zegt daarbij": 0.983490674140851,
+        "Raadsvoorstel": 1.9491682568306277,
+        "Actualiseren": 1.914515891408352,
+        "parkeren": 1.914515891408352,
+        "kamerbewoning": 1.914515891408352,
+        "woningsplitsing": 1.914515891408352,
+        "vaststelling": 1.8725590541318342,
+        "wethouder": 0.8725590541318342,
+        "vragen": 0.8725590541318342,
+        "zegt": 0.8725590541318342,
+        "gemeenteblad": 0.8725590541318342,
+        "gang": 0.8725590541318342,
+        "zaken": 0.8725590541318342,
+        "onderliggend": 0.8725590541318342
+    },
+    "svz": "Het gemeenteblad te raadplegen via https://www.officielebekendmakingen.nl/gemeenteblad is het offici...  Lees verder ",
+    "afgedaan": "17-01-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

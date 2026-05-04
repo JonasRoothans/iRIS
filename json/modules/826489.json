@@ -1,0 +1,58 @@
+{
+    "module_id": 826489,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Vergroening straat - Raadsvoorstel Vaststelling bestemmingsplan IV Stratum binnen de Ring II (Stuiverstraat 82-88)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/826489",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "07-03-2023",
+    "meeting_url": {
+        "1079005": "https://raadsinformatie.eindhoven.nl/vergadering/1079005#ai_7365115"
+    },
+    "attachment": null,
+    "parent": 813437,
+    "children": [],
+    "text": "Wethouder Verhees zegt toe om de mogelijkheid om de bestaande straat te vergroenen te onderzoeken",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 826490,
+            "weight": 3.7998241801922337
+        }
+    ],
+    "videostarttime": {
+        "1079005": null
+    },
+    "videolink": null,
+    "keywords": {
+        "Raadsvoorstel Vaststelling": 1.9963680616730715,
+        "Wethouder Verhees": 0.9963680616730715,
+        "Stuiverstraat 82-88": 1.9955555047812115,
+        "Vaststelling bestemmingsplan": 1.9908061971427136,
+        "Verhees zegt": 0.9908061971427136,
+        "Vergroening straat": 1.9852467708582042,
+        "bestaande straat": 0.977857134924228,
+        "Raadsvoorstel": 1.9488238367093007,
+        "Vaststelling": 1.9292874875007535,
+        "Stratum": 1.9292874875007535,
+        "Ring": 1.9292874875007535,
+        "82-88": 1.9135373032571326,
+        "onderzoeken": 0.9135373032571327,
+        "zegt": 0.8711678236248828,
+        "mogelijkheid": 0.8711678236248828,
+        "vergroenen": 0.8711678236248828
+    },
+    "svz": null,
+    "afgedaan": "03-09-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

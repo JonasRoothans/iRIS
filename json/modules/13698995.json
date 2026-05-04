@@ -1,0 +1,81 @@
+{
+    "module_id": 13698995,
+    "vote_id": null,
+    "member_id": [
+        194388
+    ],
+    "party_list": [
+        "Volt"
+    ],
+    "poho_id": [],
+    "title": "1. Rondvraag - Is het actieplan AVG 2.0 gereed (Volt)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "15-01-2024",
+    "meeting_url": {
+        "1146935": "https://raadsinformatie.eindhoven.nl/vergadering/1146933/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://api.notubiz.nl/document/13698995/1",
+    "pdf_text": "   \n \n   \n  \n \n \nRondvraag  - Is het actieplan AVG  2.0 gereed?  \n \n \n \nInleiding  \n \nAls onderdeel van het antwoord op de raadsvragen “AVG, hoe staat het \nermee?” ontvingen wij een planning voor het indienen van een nieuw \nverbeterplan bij de Autoriteit Persoonsgegevens. Dit moest  uiterlijk 31 \ndecember ingediend worden.  Naast het verbeterplan, zou de programma \norganisatie worden ingericht, om de uitvoering van de maatregelen te \nkunnen sturen en monitoren.   \n \n \nVragen  \n \n1) Is het gelukt om het verbeterplan 2.0 tijdig bij de Autoriteit \nPersoonsgegevens aan te leveren?  \na. Zo ja, kan dit nieuwe plan met de raad gedeeld worden?  \nb. Zo nee, waarom niet, wat zijn daarvan de consequenties \nen wat gaat het college doen om dit te herstellen?  \n2) Is de genoemde programma -organisatie ingericht?  \na. Zo ja, kan de raad periodiek geïnformeerd worden over \nde resultaten van de monitoring?  \nb. Zo nee, op welke termijn gaat dit alsnog gebeuren?  \n \nEindhoven, 14 januari 2024  \n \n \nInge Teklenburg, raadslid Volt  \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 888562,
+            "weight": 0.20562940634936586
+        },
+        {
+            "id": 936165,
+            "weight": 0.09362819538477134
+        },
+        {
+            "id": 948371,
+            "weight": 0.07468220137424014
+        },
+        {
+            "id": 11753464,
+            "weight": 0.06468970186555045
+        }
+    ],
+    "videostarttime": {
+        "1146935": 988
+    },
+    "videolink": null,
+    "keywords": {
+        "actieplan AVG": 1.9813878024593659,
+        "Autoriteit Persoonsgegevens": 0.9589215949551149,
+        "AVG": 1.956244892461561,
+        "Rondvraag": 1.9221846064533188,
+        "gereed": 1.8917110433848336,
+        "Autoriteit": 0.8671969080349999,
+        "verbeterplan": 0.8541056819066271,
+        "Volt": 1.8523766969700088,
+        "Inge Teklenburg": 0.8029543679561617,
+        "nee": 0.7682306019497473,
+        "ingericht": 0.7628713463698972,
+        "raadslid Volt": 0.7624586116959321,
+        "raad": 0.7371123418899308,
+        "programma": 0.7295457140517438,
+        "organisatie": 0.7295457140517438,
+        "gaat": 0.7165548743713275,
+        "Inge": 0.5942784714948517,
+        "Inleiding": 0.5297714288103641,
+        "raadsvragen": 0.5297714288103641,
+        "ermee": 0.5297714288103641,
+        "december ingediend": 0.5143260003212318
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194388,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1146935
+    ]
+}

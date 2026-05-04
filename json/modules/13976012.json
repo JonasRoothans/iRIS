@@ -1,0 +1,241 @@
+{
+    "module_id": 13976012,
+    "vote_id": null,
+    "member_id": [
+        77830
+    ],
+    "party_list": [
+        "SP"
+    ],
+    "poho_id": [],
+    "title": "Vraag V1 Vragenhalfuur - Gehandicapten parkeren (SP)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "27-03-2024",
+    "meeting_url": {
+        "1147900": "https://raadsinformatie.eindhoven.nl/vergadering/1147900/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/13976012/1/Vraag+V1+Vragenhalfuur+-+Gehandicapten+parkeren+%28SP%29?connection_type=1&connection_id=7853231",
+    "pdf_text": " \n \n \nVragenhalfuur  Gehandicapten parkeren          V1 \n \nGeacht college,  \n \nIn het Eindhovens Dagblad van 27 maart lezen wij dat er zorgen leven bij de \nbelangenorganisatie “Eindhoven Toegankelijk” over de mogelijke invoering van \neen nieuw systeem voor parkeercontroles wat negatief kan uitpakken voor \nautomobilisten met een gehandicaptenparkeerkaart. Omdat de SP niet zou \nwillen dat gehandicapten er met een nieuw controlesysteem op achteruit gaan \nhebben wij hierover de volgende vragen:  \n \n1] Kan het college ons geruststellen en toezeggen dat bij de keuze voor een nieuw \nparkeercontrolesysteem voorkomen wordt dat houders van een \ngehandicaptenparkeerkaart er op achteruit zullen gaan?  \n \n2] Wil het college, alvorens een definitief besluit wordt genomen over het nieuwe \nparkeercontrolesysteem, de raad informeren over dit nieuwe controlesysteem \nen wat dit betekent voor het gehandicaptenparkeren?  \n \nBij voorbaat dank voor de beantwoording,  \n \nMet vriendelijke groet, Murat Memis, fractie SP.  \n \n \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 878041,
+            "weight": 0.3310405911402889
+        },
+        {
+            "id": 831978,
+            "weight": 0.2657380183585764
+        },
+        {
+            "id": 1097868,
+            "weight": 0.26396210700566447
+        },
+        {
+            "id": 966136,
+            "weight": 0.2563574491285587
+        },
+        {
+            "id": "a_8288827",
+            "weight": 0.2459102580384794
+        },
+        {
+            "id": 940759,
+            "weight": 0.20149357398040077
+        },
+        {
+            "id": 955604,
+            "weight": 0.189682685310775
+        },
+        {
+            "id": 949827,
+            "weight": 0.176344451441255
+        },
+        {
+            "id": "ai_6986875",
+            "weight": 0.1468908911665753
+        },
+        {
+            "id": 795427,
+            "weight": 0.13928606406633465
+        },
+        {
+            "id": 787218,
+            "weight": 0.13674246150383165
+        },
+        {
+            "id": 987185,
+            "weight": 0.1107191062543158
+        },
+        {
+            "id": 944421,
+            "weight": 0.10662652705941777
+        },
+        {
+            "id": 1057349,
+            "weight": 0.09649046984843068
+        },
+        {
+            "id": 896950,
+            "weight": 0.07903329444789116
+        },
+        {
+            "id": 1009576,
+            "weight": 0.07859778905224055
+        },
+        {
+            "id": 790692,
+            "weight": 0.07310598268453479
+        },
+        {
+            "id": 975323,
+            "weight": 0.07188292783564307
+        },
+        {
+            "id": 1139110,
+            "weight": 0.07043132478412187
+        },
+        {
+            "id": "o_8726235",
+            "weight": 0.06737717326149112
+        },
+        {
+            "id": 1009004,
+            "weight": 0.06507287331990098
+        },
+        {
+            "id": 827645,
+            "weight": 0.06454991047576968
+        },
+        {
+            "id": 776860,
+            "weight": 0.05720584852890501
+        },
+        {
+            "id": 1020525,
+            "weight": 0.056065758683379305
+        },
+        {
+            "id": 1139081,
+            "weight": 0.05568303562877837
+        },
+        {
+            "id": 852706,
+            "weight": 0.054309092589756205
+        },
+        {
+            "id": 901249,
+            "weight": 0.05383422821622924
+        },
+        {
+            "id": 944752,
+            "weight": 0.05354248063286584
+        },
+        {
+            "id": 776920,
+            "weight": 0.05334627183578095
+        },
+        {
+            "id": "a_8510366",
+            "weight": 0.053256192393039525
+        },
+        {
+            "id": 992512,
+            "weight": 0.05157736796236792
+        },
+        {
+            "id": "a_7345195",
+            "weight": 0.05045789742858196
+        },
+        {
+            "id": 16400316,
+            "weight": 0.044140684293979375
+        },
+        {
+            "id": 15376655,
+            "weight": 0.04201078931801923
+        },
+        {
+            "id": 776873,
+            "weight": 0.03996690928272056
+        },
+        {
+            "id": 856439,
+            "weight": 0.03288327189795047
+        }
+    ],
+    "videostarttime": {
+        "1147900": 1791
+    },
+    "videolink": null,
+    "keywords": {
+        "Eindhoven Toegankelijk": 0.9959323051087189,
+        "Eindhovens Dagblad": 0.9952531783076275,
+        "Gehandicapten parkeren": 1.9936043249778361,
+        "Vragenhalfuur Gehandicapten": 0.9921988439372492,
+        "Geacht college": 0.9825202003990877,
+        "maart lezen": 0.9774675552283836,
+        "Vragenhalfuur": 1.9741581713765153,
+        "zorgen leven": 0.972326087554862,
+        "mogelijke invoering": 0.972326087554862,
+        "nieuw systeem": 0.9647548005869561,
+        "parkeren": 1.9578366093229422,
+        "Geacht": 0.9403009732597618,
+        "Eindhoven": 0.9321393328710248,
+        "nieuw": 0.930844316690036,
+        "Dagblad": 0.9303809404231946,
+        "Murat Memis": 0.913281329027847,
+        "nieuw parkeercontrolesysteem": 0.9122347688350461,
+        "college": 0.9040771336416646,
+        "Vraag": 1.8938480757621128,
+        "maart": 0.8657162060332301,
+        "belangenorganisatie": 0.8657162060332301,
+        "achteruit gaan": 0.8563979784461981,
+        "lezen": 0.8359003649319552,
+        "zorgen": 0.8359003649319552,
+        "mogelijke": 0.8359003649319552,
+        "invoering": 0.8359003649319552,
+        "negatief": 0.8359003649319552,
+        "uitpakken": 0.8359003649319552,
+        "automobilisten": 0.8359003649319552,
+        "volgende vragen": 0.8345868169087869,
+        "parkeercontrolesysteem voorkomen": 0.8128285104619865,
+        "gaan": 0.8115837989628292,
+        "Murat": 0.7175134710318346,
+        "Memis": 0.7175134710318346,
+        "definitief besluit": 0.6696164669405328,
+        "raad informeren": 0.6696164669405328,
+        "vragen": 0.64989190643652,
+        "vriendelijke groet": 0.6316899109538878,
+        "willen": 0.5945959883910023,
+        "hierover": 0.5945959883910023,
+        "geruststellen": 0.5945959883910023,
+        "toezeggen": 0.5945959883910023,
+        "keuze": 0.5945959883910023,
+        "voorkomen": 0.5945959883910023,
+        "houders": 0.5945959883910023,
+        "voorbaat dank": 0.5685320794099628,
+        "alvorens": 0.5602628683528562,
+        "beantwoording": 0.5097183483546989,
+        "groet": 0.5097183483546989,
+        "fractie": 0.5097183483546989,
+        "besluit": 0.5016657162740861,
+        "genomen": 0.5016657162740861,
+        "betekent": 0.5016657162740861
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 77830,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1147900
+    ]
+}

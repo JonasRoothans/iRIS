@@ -1,0 +1,101 @@
+{
+    "module_id": "ai_7066629",
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Van Buurthuis naar huizen in de buurt - Raadsvoorstel vaststellen Begroting 2022 (Amendement BA01) ",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/moties_en_toezeggingen/794220?parent_event=1013582",
+    "type": "Agenda",
+    "member": null,
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "08-11-2022",
+    "meeting_url": "https://raadsinformatie.eindhoven.nl/vergadering/1013582#ai_7066629",
+    "attachment": null,
+    "parent": null,
+    "children": [
+        791808,
+        793474,
+        791810,
+        791820,
+        791694,
+        791825,
+        791698,
+        791699,
+        791573,
+        791703,
+        791576,
+        791833,
+        791578,
+        791708,
+        791581,
+        791582,
+        793505,
+        793390,
+        791726,
+        793392,
+        793398,
+        791741,
+        791871,
+        793548,
+        791654,
+        791655,
+        791656,
+        794220,
+        791795,
+        791798,
+        794233,
+        791806
+    ],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 815455,
+            "weight": 0.45776649704655575
+        },
+        {
+            "id": 14613122,
+            "weight": 0.45748957207198304
+        },
+        {
+            "id": 904066,
+            "weight": 0.45563872905007846
+        },
+        {
+            "id": 982448,
+            "weight": 0.4509459506247994
+        },
+        {
+            "id": 931636,
+            "weight": 0.44716247934831693
+        },
+        {
+            "id": 1009564,
+            "weight": 0.20087382348755403
+        },
+        {
+            "id": 864549,
+            "weight": 0.16614199737270585
+        }
+    ],
+    "videostarttime": 22940,
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_08.11.22_NC_Eindhoven_Raad.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel vaststellen": 1.9737669269624916,
+        "vaststellen Begroting": 1.9737669269624916,
+        "Amendement": 1.9696036283675864,
+        "Begroting": 1.9140368224837343,
+        "Buurthuis": 1.8552226942577967,
+        "huizen": 1.702634417439785
+    },
+    "svz": "Het raadsvoorstel Vaststellen beleid op (buurt)ontmoeting 'Verbinding maak je samen' wordt behandeld in de raa...  Lees verder ",
+    "afgedaan": "Q1 2025",
+    "eersteIndiener": null,
+    "lastScrapeDate": "30-05-2025",
+    "meeting_id": []
+}

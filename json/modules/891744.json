@@ -1,0 +1,82 @@
+{
+    "module_id": 891744,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230024,
+    "title": "Reserve transformatiefonds sociaal domein - Raadsvoorstel Vaststellen Begroting 2024",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/891744",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Lammers (Wethouder)",
+    "result": "",
+    "date": "31-10-2023",
+    "meeting_url": {
+        "1153547": "https://raadsinformatie.eindhoven.nl/vergadering/1153547#ai_7885375"
+    },
+    "attachment": null,
+    "parent": 879979,
+    "children": [],
+    "text": "Wethouder Lammers zegt toe de raad te informeren over de opstart (invulling/besteding) van de reserve transformatiefonds sociaal domein.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 893181,
+            "weight": 0.7727904049841015
+        },
+        {
+            "id": 1096902,
+            "weight": 0.7718849518413367
+        },
+        {
+            "id": 1096887,
+            "weight": 0.7446598908951378
+        },
+        {
+            "id": 956743,
+            "weight": 0.2955215425212637
+        },
+        {
+            "id": "a_7983922",
+            "weight": 0.25720347440516395
+        },
+        {
+            "id": 920187,
+            "weight": 0.24564525447034252
+        },
+        {
+            "id": 879979,
+            "weight": 0.2213924240019925
+        }
+    ],
+    "videostarttime": {
+        "1153547": null
+    },
+    "videolink": null,
+    "keywords": {
+        "sociaal domein": 1.9961861939357,
+        "Raadsvoorstel Vaststellen": 1.9959765564963066,
+        "Vaststellen Begroting": 1.9959765564963066,
+        "Wethouder Lammers": 0.9959765564963066,
+        "transformatiefonds sociaal": 1.9942476680763406,
+        "Reserve transformatiefonds": 1.9920535931931465,
+        "Lammers zegt": 0.9894461489867605,
+        "domein": 1.964510038931285,
+        "sociaal": 1.9466759623527752,
+        "Begroting": 1.9459734296908733,
+        "invulling": 0.9442917363350415,
+        "Reserve": 1.9266551061625883,
+        "opstart": 0.9050760148990649,
+        "zegt": 0.8591992907689896,
+        "raad": 0.8591992907689896,
+        "informeren": 0.8591992907689896
+    },
+    "svz": "VOORSTEL COLLEGE AFVOEREN: Het Raadsvoorstel Start Transformatie Sociaal (2)040 is aangenomen in de Raadsverga...  Lees verder ",
+    "afgedaan": "18-06-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

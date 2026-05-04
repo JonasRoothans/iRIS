@@ -1,0 +1,201 @@
+{
+    "module_id": 987699,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Nadere toelichting - Raadsvoorstel Gewijzigde vaststelling bestemmingsplan ‘II Vredeoord (VB terrein)'",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/987699",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "12-11-2024",
+    "meeting_url": {
+        "1148323": "https://raadsinformatie.eindhoven.nl/vergadering/1148323#ai_8759846"
+    },
+    "attachment": null,
+    "parent": 977708,
+    "children": [],
+    "text": "Wethouder Verhees zegt toe met een nadere toelichting te komen, met daarin:\n\nonderbouwing waarom 116 woningen in de categorie duur nodig zijn voor de financiële haalbaarheid van de ontwikkeling;\nwat de 35% toeslag omdat het een monumentaal pand is, betekent voor de huurprijs;\nof er een voetbalveld voorzien is in het plan;\nwelke gesprekken gevoerd zijn over ‘het karakter Vredeoord’;\nwaarom dit voorstel niet gesplitst is in het plan van Trudo en het plan van de ontwikkelaar;\nconsequenties als besluitvorming (gedeeltelijk) wordt uitgesteld.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1123634,
+            "weight": 0.43172011632625434
+        },
+        {
+            "id": 977708,
+            "weight": 0.4258825476680143
+        },
+        {
+            "id": "r_8748177",
+            "weight": 0.4161940951982373
+        },
+        {
+            "id": 991152,
+            "weight": 0.41515667305086756
+        },
+        {
+            "id": 850345,
+            "weight": 0.40944280991522103
+        },
+        {
+            "id": 891295,
+            "weight": 0.38095619876064457
+        },
+        {
+            "id": 896181,
+            "weight": 0.2943782614553368
+        },
+        {
+            "id": 1103191,
+            "weight": 0.2509113252793171
+        },
+        {
+            "id": 1017964,
+            "weight": 0.23548432370715103
+        },
+        {
+            "id": 777034,
+            "weight": 0.20495446992813743
+        },
+        {
+            "id": 991140,
+            "weight": 0.20431164008301012
+        },
+        {
+            "id": 1089938,
+            "weight": 0.17602796231780257
+        },
+        {
+            "id": 991221,
+            "weight": 0.1755713787198123
+        },
+        {
+            "id": 1020852,
+            "weight": 0.17059237982356784
+        },
+        {
+            "id": 831605,
+            "weight": 0.16239617336154766
+        },
+        {
+            "id": "a_8235495",
+            "weight": 0.1619370865949104
+        },
+        {
+            "id": 1112893,
+            "weight": 0.15477634574135757
+        },
+        {
+            "id": "a_8288826",
+            "weight": 0.1529376464699349
+        },
+        {
+            "id": 1046082,
+            "weight": 0.1519898207011252
+        },
+        {
+            "id": 920515,
+            "weight": 0.14960273903127627
+        },
+        {
+            "id": 784738,
+            "weight": 0.14644100701375923
+        },
+        {
+            "id": 1117265,
+            "weight": 0.1403665599115844
+        },
+        {
+            "id": 1013807,
+            "weight": 0.08638562520065594
+        },
+        {
+            "id": 834369,
+            "weight": 0.07831787450820635
+        },
+        {
+            "id": 986094,
+            "weight": 0.07825012888302053
+        },
+        {
+            "id": 956454,
+            "weight": 0.07696451463538784
+        },
+        {
+            "id": 955583,
+            "weight": 0.0744414434174302
+        },
+        {
+            "id": 803327,
+            "weight": 0.07437568600219124
+        },
+        {
+            "id": 1141277,
+            "weight": 0.06699606125101512
+        },
+        {
+            "id": 1140187,
+            "weight": 0.062865170729561
+        },
+        {
+            "id": 776911,
+            "weight": 0.05985856371978684
+        }
+    ],
+    "videostarttime": {
+        "1148323": 15909
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_12.11.24_Eindhoven_mening_raadzaal.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Gewijzigde": 1.9977348222733324,
+        "Wethouder Verhees": 0.9977348222733325,
+        "Nadere toelichting": 1.9965991489776045,
+        "karakter Vredeoord’": 0.996094686532163,
+        "Gewijzigde vaststelling": 1.9952250390646054,
+        "Verhees zegt": 0.9952250390646054,
+        "vaststelling bestemmingsplan": 1.9935604841440138,
+        "categorie duur": 0.9917527038386342,
+        "duur nodig": 0.9917527038386342,
+        "financiële haalbaarheid": 0.9917527038386342,
+        "monumentaal pand": 0.9917527038386342,
+        "voetbalveld voorzien": 0.9917527038386342,
+        "gesprekken gevoerd": 0.9917527038386342,
+        "plan": 1.980539967375562,
+        "Nadere": 1.9589033108498026,
+        "Vredeoord": 1.956987876504642,
+        "Gewijzigde": 1.9474553193541997,
+        "Trudo": 0.9474553193541998,
+        "gedeeltelijk": 0.9470301889622766,
+        "terrein": 1.929255403389956,
+        "komen": 0.929255403389956,
+        "onderbouwing": 0.929255403389956,
+        "woningen": 0.929255403389956,
+        "ontwikkeling": 0.929255403389956,
+        "toeslag": 0.929255403389956,
+        "betekent": 0.929255403389956,
+        "huurprijs": 0.929255403389956,
+        "consequenties": 0.929255403389956,
+        "besluitvorming": 0.929255403389956,
+        "uitgesteld": 0.929255403389956,
+        "zegt": 0.9095575617173112,
+        "duur": 0.9095575617173112,
+        "nodig": 0.9095575617173112,
+        "financiële": 0.9095575617173112,
+        "pand": 0.9095575617173112,
+        "voorzien": 0.9095575617173112,
+        "gevoerd": 0.9095575617173112,
+        "karakter": 0.9095575617173112,
+        "gesplitst": 0.9095575617173112
+    },
+    "svz": null,
+    "afgedaan": "10-12-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

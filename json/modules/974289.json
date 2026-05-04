@@ -1,0 +1,90 @@
+{
+    "module_id": 974289,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Nadere toelichting - Raadsvoorstel concept Gebiedskader Sectie-C",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/974289",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "24-09-2024",
+    "meeting_url": {
+        "1269685": "https://raadsinformatie.eindhoven.nl/vergadering/1269685#ai_8671994"
+    },
+    "attachment": null,
+    "parent": 966365,
+    "children": [],
+    "text": "Wethouder Verhees zegt toe met een nadere toelichting te komen waarin wordt toegelicht wat de gevolgen zijn van een mogelijke uitkomst waarin geen draagvlak blijkt voor betaald parkeren in verband met de randvoorwaarde betaald parkeren voor de ontwikkeling van het gebied Sectie C.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 859507,
+            "weight": 0.13419996737960835
+        },
+        {
+            "id": 989926,
+            "weight": 0.13217755673215517
+        },
+        {
+            "id": 1124906,
+            "weight": 0.12170758242922786
+        },
+        {
+            "id": 844331,
+            "weight": 0.10387384734769411
+        },
+        {
+            "id": 1146297,
+            "weight": 0.10320505825656909
+        },
+        {
+            "id": 844066,
+            "weight": 0.10293581171424752
+        }
+    ],
+    "videostarttime": {
+        "1269685": 637
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_24.09.24_EINDHOVENMeningsvorming.mp4/playlist.m3u8",
+    "keywords": {
+        "Wethouder Verhees": 0.9945467616220511,
+        "Raadsvoorstel concept": 1.9924999532167174,
+        "concept Gebiedskader": 1.9896640502883658,
+        "Gebiedskader Sectie-C": 1.9896640502883658,
+        "Sectie-C Wethouder": 0.9896640502883659,
+        "Verhees zegt": 0.9896640502883659,
+        "Nadere toelichting": 1.9894336456199246,
+        "betaald parkeren": 0.9894336456199246,
+        "mogelijke uitkomst": 0.9803239103286833,
+        "draagvlak blijkt": 0.9803239103286833,
+        "randvoorwaarde betaald": 0.9796088628062294,
+        "komen waarin": 0.973456950158989,
+        "Nadere": 1.9280705905941975,
+        "betaald": 0.9280705905941976,
+        "parkeren": 0.9280705905941976,
+        "Sectie": 1.926354485153803,
+        "waarin": 0.9069309285035954,
+        "concept": 1.8610884751234922,
+        "zegt": 0.8610884751234922,
+        "komen": 0.8610884751234922,
+        "toegelicht": 0.8610884751234922,
+        "gevolgen": 0.8610884751234922,
+        "mogelijke": 0.8610884751234922,
+        "uitkomst": 0.8610884751234922,
+        "blijkt": 0.8610884751234922,
+        "verband": 0.8610884751234922,
+        "ontwikkeling": 0.8610884751234922,
+        "gebied": 0.8610884751234922
+    },
+    "svz": null,
+    "afgedaan": "08-10-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

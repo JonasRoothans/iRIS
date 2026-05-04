@@ -1,0 +1,84 @@
+{
+    "module_id": 984501,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230024,
+    "title": "Invorderingsopbrengsten en kosten inzake aanmaningen, dwangbevelen en wettelijke rente - Raadsvoorstel Begroting 2025",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/984501",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Lammers (Wethouder)",
+    "result": "",
+    "date": "29-10-2024",
+    "meeting_url": {
+        "1148141": "https://raadsinformatie.eindhoven.nl/vergadering/1148141#ai_8729567"
+    },
+    "attachment": null,
+    "parent": 975511,
+    "children": [],
+    "text": "Wethouder Lammer zegt toe dat de raad technisch wordt  geïnformeerd.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 973400,
+            "weight": 0.21626736906590105
+        },
+        {
+            "id": 796519,
+            "weight": 0.10547152207860773
+        },
+        {
+            "id": 790708,
+            "weight": 0.10438822882100059
+        },
+        {
+            "id": 790707,
+            "weight": 0.1042287787421451
+        },
+        {
+            "id": 984519,
+            "weight": 0.09775346983380981
+        },
+        {
+            "id": 781186,
+            "weight": 0.09274860251020228
+        },
+        {
+            "id": 781185,
+            "weight": 0.09219269041121635
+        },
+        {
+            "id": 850906,
+            "weight": 0.06938838935803669
+        }
+    ],
+    "videostarttime": {
+        "1148141": null
+    },
+    "videolink": null,
+    "keywords": {
+        "Raadsvoorstel Begroting": 1.9967389880162214,
+        "Wethouder Lammer": 0.9950748962302097,
+        "Lammer zegt": 0.986202801796007,
+        "wettelijke rente": 1.9846191788281082,
+        "raad technisch": 0.9742913828560066,
+        "Begroting": 1.9429876123096683,
+        "Invorderingsopbrengsten": 1.9043195497355658,
+        "aanmaningen": 1.9043195497355658,
+        "dwangbevelen": 1.9043195497355658,
+        "rente": 1.9043195497355658,
+        "geïnformeerd": 0.9043195497355658,
+        "kosten": 1.8416830712200127,
+        "zegt": 0.8416830712200127,
+        "raad": 0.8416830712200127
+    },
+    "svz": "VOORSTEL COLLEGE AFVOEREN: raad is op 29-10-2024 technisch geïnformeerd.  ...  Lees verder ",
+    "afgedaan": "19-11-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

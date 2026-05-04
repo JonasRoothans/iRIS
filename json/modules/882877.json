@@ -1,0 +1,77 @@
+{
+    "module_id": 882877,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230014,
+    "title": "2.4 Rondvragen - Klimaatstress",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/882877",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "R. Thijs (Wethouder)",
+    "result": "",
+    "date": "03-10-2023",
+    "meeting_url": {
+        "1142109": "https://raadsinformatie.eindhoven.nl/vergadering/1142109#ai_7818784"
+    },
+    "attachment": null,
+    "parent": "ai_7818784",
+    "children": [],
+    "text": "Wethouder Thijs zegt toe in een mededeling terug te komen op hoe hij Jong040 zal betrekken bij het opstellen van de nieuwe communicatiestrategie rond klimaat van de gemeente.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": "ai_7820969",
+            "weight": 0.5541912075541088
+        },
+        {
+            "id": 883423,
+            "weight": 0.551181036242234
+        },
+        {
+            "id": 12484012,
+            "weight": 0.2635693629478528
+        },
+        {
+            "id": 12555993,
+            "weight": 0.24196876517857605
+        },
+        {
+            "id": 12640662,
+            "weight": 0.2322204343028214
+        },
+        {
+            "id": 12622720,
+            "weight": 0.16090587002634957
+        }
+    ],
+    "videostarttime": {
+        "1142109": 694
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_03.10.23_EINDHOVEN_RAA.mp4/playlist.m3u8",
+    "keywords": {
+        "Klimaatstress Wethouder": 0.9950748962302097,
+        "Wethouder Thijs": 0.9925553183866472,
+        "Thijs zegt": 0.986202801796007,
+        "mededeling terug": 0.9742913828560066,
+        "nieuwe communicatiestrategie": 0.9742913828560066,
+        "Rondvragen": 1.9696036283675864,
+        "Thijs": 0.9140368224837344,
+        "gemeente": 0.9043195497355658,
+        "zegt": 0.8416830712200127,
+        "terug": 0.8416830712200127,
+        "komen": 0.8416830712200127,
+        "betrekken": 0.8416830712200127,
+        "opstellen": 0.8416830712200127,
+        "nieuwe": 0.8416830712200127,
+        "klimaat": 0.8416830712200127
+    },
+    "svz": "Gesprek geweest met Jong040 op 31 januari. Onderwerp wordt door hen meegenomen op eigen wijze. (zelf agenda-be...  Lees verder ",
+    "afgedaan": "06-02-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

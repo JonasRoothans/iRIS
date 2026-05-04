@@ -1,0 +1,132 @@
+{
+    "module_id": 894051,
+    "vote_id": null,
+    "member_id": [
+        194500
+    ],
+    "party_list": [
+        "FVD"
+    ],
+    "poho_id": [],
+    "title": "Beantwoording vervolg raadsvragen Voormalige ambtenaren als externe inhuur (FvD)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/4/Raadsvragen/894051",
+    "type": "Raadsvraag",
+    "member": "Nicolas Knoester",
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "13-11-2023",
+    "meeting_url": null,
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/13473883/1?connection_type=17&connection_id=9964955": "Vraag",
+        "https://raadsinformatie.eindhoven.nl/document/13614699/2?connection_type=17&connection_id=10078133": "Antwoord"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/13473883/1?connection_type=17&connection_id=9964955",
+    "pdf_text": " \n \n \nVervolg r aadsvragen  voormalige ambtenaren als externe inhuur  \n \ndatum:  10 november 2023  \n \n \nGeacht college,  \n \n \nInleiding  \nNaar aanleiding van de beantwoording stelt FVD vervolgvragen.  \n \n \nRaadsvragen  \n1. Heeft het college data beschikbaar over de tevredenheid van \nonze ambtenaren over hun arbeidsvoorwaarden/beloning?  \n2. Zo nee, is het college dan bereid z o snel mogelijk  een \nonafhankelijk onderzoek door een externe partij in te stellen om \nuit te zoeken wat onze ambtenaren van hun beloning vinden en \nverwachten?  \n \n \nNamens de fracti e, \nForum voor Democratie  \n \nNicolas Knoester , raadslid  \n \n \n",
+    "bst": "23bst01812",
+    "related": [
+        {
+            "id": 877381,
+            "weight": 2.969534507400008
+        },
+        {
+            "id": 998975,
+            "weight": 0.461869829111756
+        },
+        {
+            "id": 937328,
+            "weight": 0.3227599829241649
+        },
+        {
+            "id": 848601,
+            "weight": 0.2631165309625658
+        },
+        {
+            "id": 882823,
+            "weight": 0.2523191620143145
+        },
+        {
+            "id": 932415,
+            "weight": 0.24462100619106705
+        },
+        {
+            "id": "r_7006014",
+            "weight": 0.23352624577197761
+        },
+        {
+            "id": 834947,
+            "weight": 0.23253261333218153
+        },
+        {
+            "id": 798449,
+            "weight": 0.22161554157410138
+        },
+        {
+            "id": 14603414,
+            "weight": 0.15887238253494038
+        },
+        {
+            "id": 937183,
+            "weight": 0.15678352296259707
+        },
+        {
+            "id": 946698,
+            "weight": 0.1352074168864095
+        },
+        {
+            "id": "a_8285576",
+            "weight": 0.11727131086528535
+        },
+        {
+            "id": 1149735,
+            "weight": 0.10035279066638225
+        },
+        {
+            "id": "a_8285028",
+            "weight": 0.09730737875803482
+        },
+        {
+            "id": 923623,
+            "weight": 0.094870518640106
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "FVD vervolgvragen": 0.975272266678177,
+        "aadsvragen voormalige": 0.9722247342839402,
+        "Voormalige ambtenaren": 1.97043753353784,
+        "stelt FVD": 0.9666682493203069,
+        "Beantwoording vervolg": 1.9656340586999606,
+        "inhuur datum": 0.9643187014497249,
+        "Geacht college": 0.9606342458340031,
+        "externe inhuur": 1.949664833607422,
+        "vervolg raadsvragen": 1.9425797161319862,
+        "Voormalige": 1.942430359524901,
+        "vervolg": 1.9312849594017014,
+        "FvD": 1.9312849594017014,
+        "Geacht": 0.9295847590786294,
+        "Inleiding": 0.9295847590786294,
+        "inhuur": 1.9018951436362261,
+        "november": 0.8800411021949401,
+        "ambtenaren": 1.8787895775472845,
+        "externe": 1.844617363261919,
+        "Nicolas Knoester": 0.834809994800783,
+        "datum": 0.8244123303001077,
+        "college": 0.8207074481474426,
+        "Democratie Nicolas": 0.8024323367481186,
+        "beloning": 0.6963677104267747,
+        "Forum": 0.65095685358795,
+        "Knoester": 0.65095685358795,
+        "Nicolas": 0.5938299454560052,
+        "raadslid": 0.5089338007353867
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194500,
+    "lastScrapeDate": "02-04-2026",
+    "meeting_id": []
+}

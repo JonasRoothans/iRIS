@@ -1,0 +1,39 @@
+{
+    "module_id": "ai_7365033",
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "OZB - Rondvraag Ons huis jouw OZB-aanslag (D66)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/moties_en_toezeggingen/826533?parent_event=1079006",
+    "type": "Agenda",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "07-03-2023",
+    "meeting_url": "https://raadsinformatie.eindhoven.nl/vergadering/1079006#ai_7365033",
+    "attachment": null,
+    "parent": null,
+    "children": [
+        826533
+    ],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [],
+    "videostarttime": 957,
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_07.03.23_NC_Eindhoven_Meningsvorming.mp4/playlist.m3u8",
+    "keywords": {
+        "OZB": 1.9696036283675864,
+        "Rondvraag": 1.9140368224837343,
+        "OZB-aanslag": 1.8416830712200127,
+        "huis": 1.702634417439785
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": null,
+    "meeting_id": []
+}

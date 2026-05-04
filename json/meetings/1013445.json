@@ -1,0 +1,160 @@
+{
+    "meeting_id": 1013445,
+    "meeting_subid": {
+        "Raadzaal": 1057550,
+        "Commissiekamer": 1057549
+    },
+    "subtitles": {
+        "Raadzaal": null,
+        "Commissiekamer": null
+    },
+    "speakers": {
+        "Raadzaal": {
+            "723": {
+                "start": 723,
+                "end": 906,
+                "id": 230886
+            },
+            "900": {
+                "start": 900,
+                "end": 982,
+                "id": 230115
+            },
+            "984": {
+                "start": 984,
+                "end": 990,
+                "id": 230886
+            },
+            "1078": {
+                "start": 1078,
+                "end": 1087,
+                "id": 230886
+            },
+            "1083": {
+                "start": 1083,
+                "end": 1111,
+                "id": 230115
+            },
+            "1109": {
+                "start": 1109,
+                "end": 1127,
+                "id": 230019
+            },
+            "1128": {
+                "start": 1128,
+                "end": 1130,
+                "id": 230115
+            },
+            "1131": {
+                "start": 1131,
+                "end": 1148,
+                "id": 230886
+            },
+            "1139": {
+                "start": 1139,
+                "end": 1225,
+                "id": 229951
+            },
+            "1226": {
+                "start": 1226,
+                "end": 1231,
+                "id": 230886
+            },
+            "1230": {
+                "start": 1230,
+                "end": 1365,
+                "id": 230024
+            },
+            "3044": {
+                "start": 3044,
+                "end": 5451477,
+                "id": 230019
+            },
+            "1365": {
+                "start": 1365,
+                "end": 1415,
+                "id": 230886
+            },
+            "3156": {
+                "start": 3156,
+                "end": 3168,
+                "id": 230885
+            },
+            "3322": {
+                "start": 3322,
+                "end": 3500,
+                "id": 230885
+            },
+            "3370": {
+                "start": 3370,
+                "end": 3383,
+                "id": 231019
+            }
+        }
+    },
+    "title": "Vergadering Raadzaal 17-01-2023 Gemeente Eindhoven",
+    "meeting_url": "https://raadsinformatie.eindhoven.nl/vergadering/1013445/",
+    "video_url": {
+        "Raadzaal": "http://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_17.01.2023_Eindhoven_meningsvorming_raadzaal.mp4/playlist.m3u8",
+        "Commissiekamer": "http://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_17.01.2023_Eindhoven_meningsvorming_ciezaal.mp4/playlist.m3u8"
+    },
+    "api_url": "api.notubiz.nl/events/1013445",
+    "date": "17-01-2023",
+    "type": "Raadsavond ",
+    "agenda": {
+        "Raadzaal": {
+            "null": {
+                "title": "Dinerpauze",
+                "id": 7230534,
+                "module_id": []
+            },
+            "-1": {
+                "title": "Opening meningsvormende vergadering en vaststellen volgorde van de agenda",
+                "id": 7216502,
+                "module_id": []
+            },
+            "774": {
+                "title": "Mededelingen, verslagen, lijsten moties en toezeggingen en rondvragen",
+                "id": 7216505,
+                "module_id": []
+            },
+            "804": {
+                "title": "Verslagen",
+                "id": 7216508,
+                "module_id": []
+            },
+            "827": {
+                "title": "Lijsten moties en toezeggingen",
+                "id": 7216507,
+                "module_id": []
+            },
+            "872": {
+                "title": "Rondvragen",
+                "id": 7216509,
+                "module_id": [
+                    12321433,
+                    12324103
+                ]
+            },
+            "1381": {
+                "title": "Sluiting",
+                "id": 7216510,
+                "module_id": []
+            },
+            "3263": {
+                "title": "BESLOTEN VERGADERING: Meningsvorming inzake Raadsvoorstel Investeringsbudget nieuwbouw Tongelreep",
+                "id": 7230257,
+                "module_id": [
+                    799172
+                ]
+            }
+        },
+        "Commissiekamer": {
+            "null": {
+                "title": "Raadscommissie Knoop XL van 19.30 tot 21.30 uur (voor de agenda zie bijgevoegde link)",
+                "id": 7230462,
+                "module_id": []
+            }
+        }
+    }
+}

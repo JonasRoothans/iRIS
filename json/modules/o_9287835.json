@@ -1,0 +1,86 @@
+{
+    "module_id": "o_9287835",
+    "vote_id": 9287835,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Ordevoorstel: 7.4 Initiatiefvoorstel verdichtingsbeleid Eindhoven afvoeren van de agenda",
+    "url": "https://raadsinformatie.eindhoven.nl/vergadering/1256318/Ordevoorstel%3A%207.4%20Initiatiefvoorstel%20verdichtingsbeleid%20Eindhoven%20afvoeren%20van%20de%20agenda 15-04-2025#voting_9287835",
+    "type": "Ordevoorstel",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "verworpen",
+    "date": "15-04-2025",
+    "meeting_url": {
+        "1256318": "https://raadsinformatie.eindhoven.nl/vergadering/1256318/Ordevoorstel%3A%207.4%20Initiatiefvoorstel%20verdichtingsbeleid%20Eindhoven%20afvoeren%20van%20de%20agenda 15-04-2025#voting_9287835"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": "o_9287837",
+            "weight": 1.9110347308282798
+        },
+        {
+            "id": 1022809,
+            "weight": 0.3890878330956379
+        },
+        {
+            "id": "a_9280979",
+            "weight": 0.19230316802250447
+        },
+        {
+            "id": "a_9282236",
+            "weight": 0.19058020239204343
+        },
+        {
+            "id": "a_9282234",
+            "weight": 0.1894310974409513
+        },
+        {
+            "id": "a_9281843",
+            "weight": 0.18626643912514465
+        },
+        {
+            "id": "a_9281842",
+            "weight": 0.18531327795682773
+        },
+        {
+            "id": "a_9281846",
+            "weight": 0.18505146385087484
+        },
+        {
+            "id": "a_9281764",
+            "weight": 0.1823746049296186
+        },
+        {
+            "id": 1080140,
+            "weight": 0.15548617115410207
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Initiatiefvoorstel verdichtingsbeleid": 1.9737669269624916,
+        "Ordevoorstel": 1.9550880231213545,
+        "verdichtingsbeleid Eindhoven": 1.955011371234592,
+        "Eindhoven afvoeren": 1.955011371234592,
+        "Initiatiefvoorstel": 1.9140368224837343,
+        "Eindhoven": 1.8552226942577967,
+        "agenda": 1.8416830712200127,
+        "afvoeren": 1.702634417439785
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": "19-08-2025",
+    "meeting_id": [
+        1256318
+    ]
+}

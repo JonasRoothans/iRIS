@@ -1,0 +1,125 @@
+{
+    "module_id": 854131,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 231116,
+    "title": "Model camera's in Duitse steden - Commissienotitie 2.0 Camerabeleid art. 151c Gemeentewet",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/854131",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "J. Dijsselbloem (Burgemeester)",
+    "result": "",
+    "date": "06-06-2023",
+    "meeting_url": {
+        "1102751": "https://raadsinformatie.eindhoven.nl/vergadering/1102751#ai_7611637"
+    },
+    "attachment": null,
+    "parent": 845544,
+    "children": [],
+    "text": "Burgemeester Dijsselbloem zegt toe:\n\nzich te verdiepen in het model van sommige Duitse steden waar camera’s juist bij demonstraties uitgezet worden omwille van de privacy en het demonstratierecht;",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 854127,
+            "weight": 0.6942650636582283
+        },
+        {
+            "id": 854132,
+            "weight": 0.6926380831637446
+        },
+        {
+            "id": 854130,
+            "weight": 0.6916309112035008
+        },
+        {
+            "id": 854128,
+            "weight": 0.6915552270252607
+        },
+        {
+            "id": 854129,
+            "weight": 0.6889810540291004
+        },
+        {
+            "id": 854133,
+            "weight": 0.6886369476237078
+        },
+        {
+            "id": 866658,
+            "weight": 0.5954168369173213
+        },
+        {
+            "id": 1136748,
+            "weight": 0.3965499872120375
+        },
+        {
+            "id": 803180,
+            "weight": 0.19534704843548475
+        },
+        {
+            "id": 874916,
+            "weight": 0.17976419039485836
+        },
+        {
+            "id": 826203,
+            "weight": 0.17190129964403064
+        },
+        {
+            "id": 803277,
+            "weight": 0.17092576932158746
+        },
+        {
+            "id": 1125026,
+            "weight": 0.16519940171295322
+        },
+        {
+            "id": 1013807,
+            "weight": 0.1539541056226178
+        },
+        {
+            "id": "a_8512346",
+            "weight": 0.1379662946660683
+        },
+        {
+            "id": 799172,
+            "weight": 0.13755157417791541
+        },
+        {
+            "id": 982987,
+            "weight": 0.13079220648532214
+        },
+        {
+            "id": 1085070,
+            "weight": 0.11640862164564086
+        }
+    ],
+    "videostarttime": {
+        "1102751": 2558
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_06.06.23_NC_Eindhoven_RAA.mp4/playlist.m3u8",
+    "keywords": {
+        "Camerabeleid art": 1.987853293875236,
+        "Commissienotitie": 1.9573394620452889,
+        "Duitse steden": 1.9547250662036344,
+        "Gemeentewet Burgemeester": 0.930504111329524,
+        "Burgemeester Dijsselbloem": 0.9041167492583797,
+        "Duitse": 1.8930167405945615,
+        "art": 1.839948547641243,
+        "Dijsselbloem zegt": 0.8096777604819819,
+        "steden": 1.8059710766962138,
+        "Gemeentewet": 1.780319876897788,
+        "Model": 1.761347226282989,
+        "camera": 1.761347226282989,
+        "Model camera": 1.7049641814245402,
+        "Burgemeester": 0.7042060887013171,
+        "demonstratierecht": 0.6017609163173754
+    },
+    "svz": "COLLEGE GRAAG AFDOEN : Verwerkt in nieuwe versie camerabeleid en begeleidende Burgemeestersbrief",
+    "afgedaan": "04-07-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

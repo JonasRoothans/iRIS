@@ -1,0 +1,89 @@
+{
+    "module_id": 1030770,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230014,
+    "title": "Openbaar toilet Kerkstraat (Vraag V3 Vragenhalfuur)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1030770",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "R. Thijs (Wethouder)",
+    "result": "",
+    "date": "25-03-2025",
+    "meeting_url": {
+        "1256317": "https://raadsinformatie.eindhoven.nl/vergadering/1256317#ai_8588160"
+    },
+    "attachment": null,
+    "parent": "ai_8588160",
+    "children": [],
+    "text": "Wethouder Thijs zegt toe met de technisch beheerder van het openbaar in gesprek te gaan over de afstelling van het toilet in de Kerkstraat en zal hij de raad daarover informeren.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 15313524,
+            "weight": 4.506818581716021
+        },
+        {
+            "id": 16209761,
+            "weight": 0.7616834163048558
+        },
+        {
+            "id": 874001,
+            "weight": 0.19744076523114812
+        },
+        {
+            "id": 893837,
+            "weight": 0.19475797616908763
+        },
+        {
+            "id": 776973,
+            "weight": 0.1945898202668075
+        },
+        {
+            "id": 800416,
+            "weight": 0.19450414843962743
+        },
+        {
+            "id": 960626,
+            "weight": 0.16348330517950405
+        },
+        {
+            "id": 803352,
+            "weight": 0.1467925442362473
+        }
+    ],
+    "videostarttime": {
+        "1256317": 1211
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_25.03.25_01-EINDHOVEN-RAA-ONDERTITEL_2025.03.25_205144.mp4/playlist.m3u8",
+    "keywords": {
+        "Wethouder Thijs": 0.996923634098416,
+        "Thijs zegt": 0.9926938809797948,
+        "daarover informeren": 0.990447010173902,
+        "toilet Kerkstraat": 1.9891918436844183,
+        "technisch beheerder": 0.9866760970662082,
+        "raad daarover": 0.9866760970662082,
+        "Openbaar toilet": 1.9793341126038344,
+        "Vraag": 1.965522926648077,
+        "Vragenhalfuur": 1.965522926648077,
+        "Thijs": 0.936746627747451,
+        "toilet": 1.9288532225686497,
+        "zegt": 0.8853321719593765,
+        "technisch": 0.8853321719593765,
+        "beheerder": 0.8853321719593765,
+        "gesprek": 0.8853321719593765,
+        "gaan": 0.8853321719593765,
+        "afstelling": 0.8853321719593765
+    },
+    "svz": "opdracht is verstrekt",
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": [
+        1256317
+    ]
+}

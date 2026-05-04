@@ -1,0 +1,54 @@
+{
+    "module_id": "ai_6997495",
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Het verankeren van brede welvaart (JRM02)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/moties_en_toezeggingen/775267?parent_event=1018631",
+    "type": "Agenda",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "12-07-2022",
+    "meeting_url": "https://raadsinformatie.eindhoven.nl/vergadering/1018631#ai_6997495",
+    "attachment": null,
+    "parent": null,
+    "children": [
+        775281,
+        775267,
+        774909,
+        774911
+    ],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 850256,
+            "weight": 0.2522886215232544
+        },
+        {
+            "id": 1042213,
+            "weight": 0.21836907552869453
+        },
+        {
+            "id": 13722334,
+            "weight": 0.2004613146457222
+        }
+    ],
+    "videostarttime": 827,
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/12.07.22 Eindhoven raad ruw.mp4/playlist.m3u8",
+    "keywords": {
+        "brede welvaart": 1.9505961599793435,
+        "verankeren": 1.702634417439785,
+        "brede": 1.702634417439785
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": null,
+    "meeting_id": []
+}

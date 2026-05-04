@@ -1,0 +1,39 @@
+{
+    "module_id": "ai_7087593",
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "bodycams BOA’s  ",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/moties_en_toezeggingen/790655?parent_event=1034744",
+    "type": "Agenda",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "01-11-2022",
+    "meeting_url": "https://raadsinformatie.eindhoven.nl/vergadering/1034744#ai_7087593",
+    "attachment": null,
+    "parent": null,
+    "children": [
+        790659,
+        790669,
+        790655
+    ],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [],
+    "videostarttime": 1225,
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_01.11.22_NC_Eindhoven_Raad.mp4/playlist.m3u8",
+    "keywords": {
+        "bodycams BOA": 1.9765416191248102,
+        "BOA": 1.8552226942577967
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": null,
+    "meeting_id": []
+}

@@ -1,0 +1,95 @@
+{
+    "module_id": "a_7402312",
+    "vote_id": 7402312,
+    "member_id": [
+        131152,
+        131137,
+        194514
+    ],
+    "party_list": [
+        "PvdA",
+        "GroenLinks"
+    ],
+    "poho_id": [],
+    "title": "Aangekondigd amendement A7 Leefbaarheidsscores (GL, PvdA)",
+    "url": "https://raadsinformatie.eindhoven.nl/vergadering/1013452/Aangekondigd%20amendement%20A7%20Leefbaarheidsscores%20%28GL%2C%20PvdA%29 14-02-2023#voting_7402312",
+    "type": "Amendement",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "aangenomen",
+    "date": "14-02-2023",
+    "meeting_url": {
+        "1013452": "https://raadsinformatie.eindhoven.nl/vergadering/1013452/Aangekondigd%20amendement%20A7%20Leefbaarheidsscores%20%28GL%2C%20PvdA%29 14-02-2023#voting_7402312"
+    },
+    "attachment": null,
+    "parent": 804895,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/12421411/2/Aangenomen+amendement+A7+Leefbaarheidsscores+%28GL%2C+PvdA%29?connection_type=1&connection_id=7287599",
+    "pdf_text": " \n \n   \n \nAmendement - Geen grote verschillen in leefbaarheidsscores     A7 \n \nDe indieners van dit amendement stellen de gemeenteraad voor om in de vergadering van \n14 februari 2023 een besluit te nemen.  \n \nZij hebben het voorstel Raadsvoorstel Startnotitie Pact Woensel Zuid (22bst01465) van het \ncollege gelezen. Na het gesprek in de v ergaderingen van 31 januari en 7 februari 2023 \nstellen zij een aanpassing van het besluit voor.  \n \nDe indieners vinden dat:  \n• Het pact Woensel Zuid de ambitie moet hebben om het perspectief van inwoners \nduurzaam te verbeteren ; \n• Als het gaat om zaken als armoede, werk, onderwijsachterstanden en veiligheid, de \ninwoners van Woensel Zuid dezelfde kansen  krijgen als alle andere Eindhovenaren ; \n• De leefbaarheidsscores goede, meetbare indicatoren zijn ; \n• De leefbaarheidsscores over de gehel e linie een inhaalslag behoeven  in Woensel \nZuid; \n• De inwoners van Woensel Zuid hoge ambities van de partners uit het Pact mogen \nverwachten ; \n• De samenwerking in het Pact als streefdoel moet hebben dat de leefbaarheidsscores \nvoor Woensel Zuid over de gehele li nie opgetrokken  worden naar het stedelijk \ngemiddelde . \n \nDe indieners stellen voor het ontwerp raadsbesluit als volgt aan te passen en/of aan te \nvullen:  \n \nToe te voegen, als beslispunt 1c:  \n1c. Streefresultaten, vast te stellen in samenspraak met partners, die tot uitdrukking brengen \ndat er in 2045 geen grote verschillen meer zijn in de leefbaarheidsscores van Woensel Zuid \nin vergelijking met het stedelijk gemiddelde, in ieder geval op de gebieden armoede/ \ninkomen, arbeidsparticipatie, (on)veilighe id. \n \nIndieners:  \nJeannette Vos (GroenLinks ), voorsteller  \nWil van Haalen  (PvdA ), voorsteller  \nRosa van den Nieuwenhof (PvdA ), voorsteller  \n \n \n--------------------------------------------------------------------------------------------------------  \nDit amendement is aangenomen  in de vergadering van 14 februari 2023.  \n \nJ. Jongbloed, griffier.  \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 909697,
+            "weight": 0.30035177659802853
+        },
+        {
+            "id": 1132396,
+            "weight": 0.257862190517229
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Woensel Zuid": 0.9968936528900028,
+        "Pact Woensel": 0.9870336850068256,
+        "Zuid": 0.97754926816777,
+        "Startnotitie Pact": 0.9614362625615819,
+        "Raadsvoorstel Startnotitie": 0.9587972508544429,
+        "Pact": 0.9533350798220006,
+        "Leefbaarheidsscores": 1.9531015979037525,
+        "Aangekondigd amendement": 1.9458540647737532,
+        "amendement": 1.9253528309151522,
+        "februari": 0.9199081034844588,
+        "grote verschillen": 0.9168151157431204,
+        "indieners": 0.9151974420753126,
+        "stellen": 0.9126641730693823,
+        "PvdA": 1.906183677650201,
+        "voorstel Raadsvoorstel": 0.9033424637471683,
+        "Zuid hoge": 0.8984035162877271,
+        "stedelijk gemiddelde": 0.8923711612672728,
+        "Jeannette Vos": 0.866715275808059,
+        "besluit": 0.8384900788328792,
+        "nemen": 0.8279749125138116,
+        "grote": 0.8165497173247472,
+        "gemeenteraad": 0.8136285489761266,
+        "voorsteller Rosa": 0.8102417925575867,
+        "vergadering": 0.8031050009357982,
+        "gemiddelde": 0.7954277899519745,
+        "armoede": 0.7835370123369181,
+        "stedelijk": 0.7835370123369181,
+        "college gelezen": 0.7719407814504026,
+        "partners": 0.7609903540284657,
+        "Eindhovenaren": 0.7063247056549722,
+        "inwoners duurzaam": 0.6809759430503072,
+        "Vos": 0.6570580038650111,
+        "Haalen": 0.6570580038650111,
+        "Nieuwenhof": 0.6570580038650111,
+        "Rosa": 0.6424316870545972,
+        "Jongbloed": 0.6405267741638625,
+        "gebieden armoede": 0.6342936182577861,
+        "hoge ambities": 0.5866616565758271,
+        "gelezen": 0.5808600350061512,
+        "voorstel": 0.5569331582018078,
+        "college": 0.5569331582018078,
+        "meetbare indicatoren": 0.5065668596964706
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 131152,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1013452
+    ]
+}

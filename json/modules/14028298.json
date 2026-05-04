@@ -1,0 +1,119 @@
+{
+    "module_id": 14028298,
+    "vote_id": null,
+    "member_id": [
+        80968
+    ],
+    "party_list": [
+        "SP"
+    ],
+    "poho_id": [],
+    "title": "4. Rondvraag - Is er in Eindhoven geen plek voor de fiets (SP)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "09-04-2024",
+    "meeting_url": {
+        "1147920": "https://raadsinformatie.eindhoven.nl/vergadering/1147917/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://api.notubiz.nl/document/14028298/1",
+    "pdf_text": " \n \n \nRondvraag  Is er in Eindhoven geen plek voor de fiets?                       \n \nVragen  \nDe gemeente Eindhoven moedigt mensen aan om zoveel mogelijk de fiets te \nkiezen als vervoermiddel  in plaats van de auto. Belangrijke voorwaarde is dat de \ngemeente daarvoor dan ook goede faciliteiten biedt zoals veilige \nparkeergelegenheid. Omdat er een groot tekort aan bewaakte fietsparkeerplaatsen  \nbij het centraal station  dreigt in de komende jaren heeft wethouder Steenbakkers \nvorig jaar november toegezegd op zoek te gaan naar meer bewaakte \nfietsenstallingen nabij het station.  \n \nDe gemeente Eindhoven dringt er niet alleen bij inwoners op aan te kiezen voor de \nfiets maar probeert ook het eigen personeel zoveel mogelijk op de fiets naar het \nwerk te komen. Maar helaas: ook hier ontbreken de nodige faciliteiten: de \nfietsenstalling onder het stadhuis is vaak overvol zodat de gangpaden vol \ngeparkeerd worden.  \n \nWanneer het de gemeente menens is met “De fiets op 1” dan horen daar volgens \nde SP  ook passende faciliteiten bij. En zou de gemeente zelf als eerste het goede \nvoorbeeld moeten geven.  \n \nVandaar de volgende rondvraag:  \n \n1] Hoe staat het met de zoektocht naar extra bewaakte fietsparkeerplaatsen bij het \nstation?  \n2] Kunt u de fietsparkeergelegenheid bij het stadhuis uitbreiden/aanpassen zodat \nmedewerkers en raadsleden die op de fiets naar het stadhuis komen deze ook \nfatsoenlijk kan parkeren?  \n \nEindhoven, 9 april 2024.  \n \nHet lid van de raad ,  \nJannie Visscher, fractie SP.  \n \nZIE TER ILLUSTRATIE BIJLAGE FIETS ENSTALLING  STADHUIS OP \nDONDERDAG 21 MAART  EN DINSDAG 2 APRIL.  \n \n \nDonderdag 21 maart  \n \n \nDinsdag 2 april  \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 898197,
+            "weight": 0.41623301524782935
+        },
+        {
+            "id": 884504,
+            "weight": 0.1860443594277379
+        },
+        {
+            "id": 987540,
+            "weight": 0.1769947558007605
+        },
+        {
+            "id": 950222,
+            "weight": 0.15658868876334703
+        },
+        {
+            "id": 971744,
+            "weight": 0.14699759557458472
+        },
+        {
+            "id": 792398,
+            "weight": 0.1349597355379318
+        },
+        {
+            "id": 776868,
+            "weight": 0.11398369239111976
+        },
+        {
+            "id": 15708198,
+            "weight": 0.09142204303778698
+        },
+        {
+            "id": 13782139,
+            "weight": 0.08957978766072391
+        },
+        {
+            "id": 14295465,
+            "weight": 0.08687969421036199
+        },
+        {
+            "id": 11799047,
+            "weight": 0.07506233764013648
+        }
+    ],
+    "videostarttime": {
+        "1147920": 1583
+    },
+    "videolink": null,
+    "keywords": {
+        "gemeente Eindhoven": 0.9654682916552322,
+        "fiets": 1.9652197097842392,
+        "Eindhoven": 1.960361811473259,
+        "gemeente": 0.9348085285035569,
+        "stadhuis": 0.9000573565265976,
+        "april": 0.8813279722717889,
+        "Rondvraag": 1.8722310256069545,
+        "BIJLAGE FIETS": 0.8606290316417745,
+        "FIETS ENSTALLING": 0.8606290316417745,
+        "plek": 1.8425140405240428,
+        "faciliteiten": 0.8391980897307082,
+        "bewaakte": 0.8385626695529944,
+        "station": 0.8385626695529944,
+        "bewaakte fietsparkeerplaatsen": 0.8341534094249226,
+        "ENSTALLING STADHUIS": 0.7867761727133685,
+        "Jannie Visscher": 0.7853855025990271,
+        "MAART": 0.7796103264960641,
+        "DINSDAG": 0.7796103264960641,
+        "kiezen": 0.7648929284393219,
+        "ILLUSTRATIE BIJLAGE": 0.7604254982079788,
+        "goede": 0.7309388372981711,
+        "wethouder Steenbakkers": 0.7261842856861297,
+        "Steenbakkers vorig": 0.7261842856861297,
+        "komen": 0.7165187397465964,
+        "zodat": 0.713742002730447,
+        "volgende rondvraag": 0.6306149002811947,
+        "stadhuis uitbreiden": 0.6167846925512652,
+        "Jannie": 0.5796507299720308,
+        "moedigt mensen": 0.5573106272828952,
+        "centraal station": 0.5562084259719433,
+        "station dreigt": 0.5562084259719433
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 80968,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1147920
+    ]
+}

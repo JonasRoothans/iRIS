@@ -1,0 +1,46 @@
+{
+    "module_id": "r_7006026",
+    "vote_id": 7006026,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Raadsvoorstel Rekenkamerleidraad Knoop XL",
+    "url": "https://raadsinformatie.eindhoven.nl/vergadering/1013429/Raadsvoorstel%20Rekenkamerleidraad%20Knoop%20XL 24-05-2022#voting_7006026",
+    "type": "Raadsvoorstel",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "aangenomen",
+    "date": "24-05-2022",
+    "meeting_url": {
+        "1013429": "https://raadsinformatie.eindhoven.nl/vergadering/1013429/Raadsvoorstel%20Rekenkamerleidraad%20Knoop%20XL 24-05-2022#voting_7006026"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 813293,
+            "weight": 0.8868712048152424
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Rekenkamerleidraad Knoop": 1.9785907845614,
+        "Raadsvoorstel Rekenkamerleidraad": 1.9765416191248102,
+        "Knoop": 1.8552226942577967,
+        "Raadsvoorstel": 1.8416830712200127
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1013429
+    ]
+}

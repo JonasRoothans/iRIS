@@ -1,0 +1,195 @@
+{
+    "module_id": 973404,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230019,
+    "title": "Raadsinformatiebrief - Raadsvoorstel Planoptimalisatie VDMA",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/973404",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. van Lanschot (Wethouder)",
+    "result": "",
+    "date": "19-09-2024",
+    "meeting_url": {
+        "1148108": "https://raadsinformatie.eindhoven.nl/vergadering/1148108#ai_8651464"
+    },
+    "attachment": null,
+    "parent": 958754,
+    "children": [],
+    "text": "Wethouder Van Lanschot zegt toe de raad middels een RIB te informeren als een BOPA (vergunningsaanvraag) wordt ingediend in fase 2 of 3, waarover de raad geen bindend advies hoeft af te geven",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 973400,
+            "weight": 1.7677673904017106
+        },
+        {
+            "id": 973397,
+            "weight": 1.7628113614498588
+        },
+        {
+            "id": "o_8726235",
+            "weight": 1.436574730077338
+        },
+        {
+            "id": 997118,
+            "weight": 0.4418514773840255
+        },
+        {
+            "id": 904290,
+            "weight": 0.2723216577309335
+        },
+        {
+            "id": 975790,
+            "weight": 0.2205772607079194
+        },
+        {
+            "id": 975788,
+            "weight": 0.21945641526714377
+        },
+        {
+            "id": 1023820,
+            "weight": 0.20555460239138215
+        },
+        {
+            "id": 1000793,
+            "weight": 0.1964661781890711
+        },
+        {
+            "id": 1112167,
+            "weight": 0.16013064539204347
+        },
+        {
+            "id": 1021307,
+            "weight": 0.09489086272335727
+        },
+        {
+            "id": 819546,
+            "weight": 0.0948328110635441
+        },
+        {
+            "id": 984487,
+            "weight": 0.09416196645891974
+        },
+        {
+            "id": 888194,
+            "weight": 0.09401529189861267
+        },
+        {
+            "id": 1109494,
+            "weight": 0.08874371930198266
+        },
+        {
+            "id": 1045664,
+            "weight": 0.08504448425889456
+        },
+        {
+            "id": 1003503,
+            "weight": 0.08295535448595347
+        },
+        {
+            "id": 1084768,
+            "weight": 0.08083382561307399
+        },
+        {
+            "id": 905916,
+            "weight": 0.0804388376049959
+        },
+        {
+            "id": 891630,
+            "weight": 0.07982033085053578
+        },
+        {
+            "id": 852093,
+            "weight": 0.07878645590803876
+        },
+        {
+            "id": 1051079,
+            "weight": 0.07790952106670189
+        },
+        {
+            "id": 790670,
+            "weight": 0.07332614366415455
+        },
+        {
+            "id": 776928,
+            "weight": 0.06821425976896839
+        },
+        {
+            "id": 926421,
+            "weight": 0.06652987434665723
+        },
+        {
+            "id": 1034759,
+            "weight": 0.06631431830859812
+        },
+        {
+            "id": 1096737,
+            "weight": 0.06603762491068073
+        },
+        {
+            "id": 796421,
+            "weight": 0.06517517899461822
+        },
+        {
+            "id": 16692001,
+            "weight": 0.06314441780168223
+        },
+        {
+            "id": 1078720,
+            "weight": 0.062281440335219776
+        },
+        {
+            "id": 775281,
+            "weight": 0.062104884769161844
+        },
+        {
+            "id": 1031702,
+            "weight": 0.055468097381609946
+        },
+        {
+            "id": 1136748,
+            "weight": 0.055369964781665046
+        },
+        {
+            "id": 984130,
+            "weight": 0.0526409618389868
+        }
+    ],
+    "videostarttime": {
+        "1148108": 2355
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_19.09.24_NC_Eindhoven_CIE2.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Planoptimalisatie": 1.9944951307860712,
+        "Planoptimalisatie VDMA": 1.991754617348321,
+        "VDMA Wethouder": 0.9917546173483209,
+        "Lanschot zegt": 0.9839975957128145,
+        "bindend advies": 0.9687165620161616,
+        "advies hoeft": 0.9687165620161616,
+        "raad middels": 0.9664661734243852,
+        "Raadsinformatiebrief": 1.9499157062066383,
+        "vergunningsaanvraag": 0.9499157062066383,
+        "Raadsvoorstel": 1.9394602615105205,
+        "BOPA": 0.9394602615105205,
+        "VDMA": 1.9095679685862796,
+        "RIB": 0.9095679685862796,
+        "raad": 0.9068548584199232,
+        "fase": 0.8939496594793399,
+        "waarover": 0.8939496594793399,
+        "zegt": 0.8258320597005766,
+        "informeren": 0.8258320597005766,
+        "ingediend": 0.8258320597005766,
+        "advies": 0.8258320597005766,
+        "hoeft": 0.8258320597005766
+    },
+    "svz": null,
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

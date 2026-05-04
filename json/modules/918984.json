@@ -1,0 +1,111 @@
+{
+    "module_id": 918984,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230013,
+    "title": "Woningbouw - Raadsvoorstel Gebiedskader Spoorzone Fuutlaan",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/918984",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Steenbakkers (Wethouder)",
+    "result": "",
+    "date": "06-02-2024",
+    "meeting_url": {
+        "1146954": "https://raadsinformatie.eindhoven.nl/vergadering/1146954#ai_8131954"
+    },
+    "attachment": null,
+    "parent": 905875,
+    "children": [],
+    "text": "Wethouder Steenbakkers zegt toe in het vervolgtraject te onderzoeken of meer woningbouw mogelijk is, en de raad hierin mee te nemen",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 918983,
+            "weight": 3.376623305035977
+        },
+        {
+            "id": 905875,
+            "weight": 1.9080087264410228
+        },
+        {
+            "id": "a_8235495",
+            "weight": 0.8717417475007226
+        },
+        {
+            "id": 920184,
+            "weight": 0.6722122197165444
+        },
+        {
+            "id": 896066,
+            "weight": 0.4978931817167072
+        },
+        {
+            "id": 896065,
+            "weight": 0.4970992407110223
+        },
+        {
+            "id": 884474,
+            "weight": 0.496668195664012
+        },
+        {
+            "id": 950549,
+            "weight": 0.3693768693423013
+        },
+        {
+            "id": 944423,
+            "weight": 0.25504361301460843
+        },
+        {
+            "id": "a_8029254",
+            "weight": 0.23395513909521767
+        },
+        {
+            "id": 1090156,
+            "weight": 0.1968885681485678
+        },
+        {
+            "id": 926664,
+            "weight": 0.1618864330561084
+        },
+        {
+            "id": 1090175,
+            "weight": 0.13128996906509022
+        },
+        {
+            "id": 785112,
+            "weight": 0.10994280040523911
+        }
+    ],
+    "videostarttime": {
+        "1146954": 703
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_06.02.24_NC_EINDHOVEN_CIE.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Gebiedskader": 1.9943786065225821,
+        "Gebiedskader Spoorzone": 1.9915950184697044,
+        "Spoorzone Fuutlaan": 1.9915950184697044,
+        "Fuutlaan Wethouder": 0.9915950184697044,
+        "Wethouder Steenbakkers": 0.9915950184697044,
+        "Steenbakkers zegt": 0.9835374423226297,
+        "Raadsvoorstel": 1.9387707991710164,
+        "Spoorzone": 1.908704180676506,
+        "Fuutlaan": 1.908704180676506,
+        "Wethouder": 0.908704180676506,
+        "nemen": 0.8918156922046329,
+        "Woningbouw": 1.8731064435667122,
+        "zegt": 0.8225994208119777,
+        "vervolgtraject": 0.8225994208119777,
+        "onderzoeken": 0.8225994208119777,
+        "raad": 0.8225994208119777,
+        "mee": 0.8225994208119777
+    },
+    "svz": null,
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

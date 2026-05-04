@@ -1,0 +1,63 @@
+{
+    "module_id": 966053,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Organisatiebrede taakstelling € 2 mln. structureel - Raadsvoorstel Jaarstukken 2023",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/966053",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "26-06-2024",
+    "meeting_url": {
+        "1147977": "https://raadsinformatie.eindhoven.nl/vergadering/1147977#ai_8483500"
+    },
+    "attachment": null,
+    "parent": 946916,
+    "children": [],
+    "text": "Wethouder Verhees zegt toe en komt met een concreet voorstel voor invulling van de taakstelling.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 966055,
+            "weight": 1.9450183081771353
+        },
+        {
+            "id": 1036443,
+            "weight": 0.14581392523554562
+        },
+        {
+            "id": 791726,
+            "weight": 0.14380549093370706
+        },
+        {
+            "id": "a_9418522",
+            "weight": 0.08452031960236088
+        }
+    ],
+    "videostarttime": {
+        "1147977": 762
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_26.06.24_NC_Eindhoven_Cie.mp4/playlist.m3u8",
+    "keywords": {
+        "Organisatiebrede taakstelling": 1.9602315159749213,
+        "Raadsvoorstel Jaarstukken": 1.9535253627984708,
+        "Wethouder Verhees": 0.9357238187272349,
+        "mln": 1.930154452434737,
+        "taakstelling": 1.8676867600788203,
+        "Verhees zegt": 0.8286010131567998,
+        "structureel": 1.7931513497120453,
+        "Jaarstukken": 1.789261613511582,
+        "concreet voorstel": 0.6474112663477751
+    },
+    "svz": null,
+    "afgedaan": "10-12-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

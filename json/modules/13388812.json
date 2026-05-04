@@ -1,0 +1,90 @@
+{
+    "module_id": 13388812,
+    "vote_id": null,
+    "member_id": [
+        194376
+    ],
+    "party_list": [
+        "Volt"
+    ],
+    "poho_id": [],
+    "title": "1. Rondvraag - Klimaatmissie 2030 (Volt)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "24-10-2023",
+    "meeting_url": {
+        "1152281": "https://raadsinformatie.eindhoven.nl/vergadering/1013521/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://api.notubiz.nl/document/13388812/1",
+    "pdf_text": " \n \n \nRondvraag  meningsvorming 24 oktober 2023: Klimaatlabel voor  \nklimaatmissie  \n \nIn de raadsvergadering van september 2023 heeft de gemeenteraad besloten mee \nte doen met de EU Klimaatmissie 2030. In de debatten daaromheen bleek dat er \nveel onduidelijkheid was over de inhoud en invulling van de klimaatmissie 2030. \nOm de controlerende ta ak als raadslid goed in te vullen blijven we daarom scherp \nop de uitvoering van de klimaatmissie.  \n \nDe Europese Commissie heeft 12 oktober bekend gemaakt dat tien steden die \nmeedoen aan de Klimaatmissie 2030 een Klimaatmissie -label hebben gekregen. \nDeze st eden zouden koplopers zijn op weg naar klimaatneutraliteit. Daarom de \nvolgende vragen:  \n \n1. Heeft het college zicht op de betekenis van dit label?  \no Zitten er voor - en of nadelen aan m.b.t. extra \nsubsidiemogelijkheden of netwerk?  \no Op welke manier zet het college  zich in om ook zo’n label te \nontvangen?  \n2. Heeft het college zicht op waarom specifiek deze steden dit label hebben \nmogen ontvangen?  \no Is het college bereid contact te leggen met deze specifieke steden \nom te kijken wat wij van hen kunnen leren?  \n \nHet lid  van d e raad  en/of commissie , \n \nJacco Rubenkamp (Volt), raadslid  \n \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 945540,
+            "weight": 0.9582808920171195
+        },
+        {
+            "id": 877730,
+            "weight": 0.4803921872447532
+        },
+        {
+            "id": 971744,
+            "weight": 0.46148140168616153
+        },
+        {
+            "id": 822641,
+            "weight": 0.23258413701405525
+        },
+        {
+            "id": 1023857,
+            "weight": 0.22387502332386408
+        }
+    ],
+    "videostarttime": {
+        "1152281": 1187
+    },
+    "videolink": null,
+    "keywords": {
+        "Klimaatmissie": 1.9644667009657657,
+        "Rondvraag meningsvorming": 0.8972419349679728,
+        "Rondvraag": 1.8927060890130811,
+        "college": 0.8886915261427518,
+        "label": 0.8829032519170623,
+        "Volt": 1.863834206792825,
+        "Europese Commissie": 0.808490259252144,
+        "steden": 0.8079750452554442,
+        "oktober": 0.7907906036902286,
+        "Jacco Rubenkamp": 0.7809949294894272,
+        "zicht": 0.7268206069111669,
+        "ontvangen": 0.7222554939037326,
+        "gemeenteraad besloten": 0.718942251594526,
+        "besloten mee": 0.718942251594526,
+        "raadslid": 0.7015149519262043,
+        "Europese": 0.6501881457502858,
+        "oktober bekend": 0.6324602282831525,
+        "Zitten": 0.5858883059526447,
+        "Jacco": 0.5761381503908983,
+        "september": 0.5657592227702395,
+        "debatten daaromheen": 0.5380680323080065,
+        "daaromheen bleek": 0.5380680323080065,
+        "raadsvergadering": 0.5316037304461185,
+        "mee": 0.5316037304461185,
+        "college bereid": 0.5247173255359617,
+        "zo’n label": 0.5011233204957466
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194376,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1152281
+    ]
+}

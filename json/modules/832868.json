@@ -1,0 +1,110 @@
+{
+    "module_id": 832868,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230019,
+    "title": "KNZB - Financiële bijdrage - Raadsvoorstel Investeringsbudget Nieuwbouw Tongelreep",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/832868",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. van Lanschot (Wethouder)",
+    "result": "",
+    "date": "04-04-2023",
+    "meeting_url": {
+        "1013482": "https://raadsinformatie.eindhoven.nl/vergadering/1013482#ai_7513452"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": "Wethouder van Lanschot zegt toe:\n\nindien nodig in gesprek te gaan met de KNZB voor een (financiële) bijdrage.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 832867,
+            "weight": 2.05255193528382
+        },
+        {
+            "id": 832869,
+            "weight": 2.050825209654718
+        },
+        {
+            "id": 817873,
+            "weight": 1.7119918248094872
+        },
+        {
+            "id": 831872,
+            "weight": 1.390599508359527
+        },
+        {
+            "id": 799286,
+            "weight": 1.0657555812487338
+        },
+        {
+            "id": 832479,
+            "weight": 0.775482666122164
+        },
+        {
+            "id": 1107607,
+            "weight": 0.6540507685064784
+        },
+        {
+            "id": 799172,
+            "weight": 0.4903210482495544
+        },
+        {
+            "id": 905338,
+            "weight": 0.26627100106986573
+        },
+        {
+            "id": 898910,
+            "weight": 0.26570380711953784
+        },
+        {
+            "id": 955448,
+            "weight": 0.26212760730725854
+        },
+        {
+            "id": 1142978,
+            "weight": 0.23594390704873996
+        },
+        {
+            "id": 1000490,
+            "weight": 0.18086099551465964
+        },
+        {
+            "id": 926910,
+            "weight": 0.1406395161721366
+        }
+    ],
+    "videostarttime": {
+        "1013482": null
+    },
+    "videolink": null,
+    "keywords": {
+        "Raadsvoorstel Investeringsbudget": 1.99393559042845,
+        "Investeringsbudget Nieuwbouw": 1.9909921280949754,
+        "Nieuwbouw Tongelreep": 1.9909921280949754,
+        "Tongelreep Wethouder": 0.9909921280949754,
+        "Financiële bijdrage": 1.9852667433173141,
+        "Lanschot zegt": 0.9817340051000278,
+        "Raadsvoorstel": 1.9362031970929363,
+        "KNZB": 1.9358833957751478,
+        "bijdrage": 1.9272856804094287,
+        "Nieuwbouw": 1.9055147919613478,
+        "Tongelreep": 1.9055147919613478,
+        "Wethouder": 0.9055147919613479,
+        "zegt": 0.8101466487076916,
+        "nodig": 0.8101466487076916,
+        "gesprek": 0.8101466487076916,
+        "gaan": 0.8101466487076916
+    },
+    "svz": null,
+    "afgedaan": "13-06-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

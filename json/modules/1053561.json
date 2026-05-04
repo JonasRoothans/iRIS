@@ -1,0 +1,76 @@
+{
+    "module_id": 1053561,
+    "vote_id": 10105743,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Initiatiefvoorstel Verbod fossiele reclame en vijftiende wijziging APV Eindhoven",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/19/Raadsvoorstellen/1053561",
+    "type": "Raadsvoorstel",
+    "member": null,
+    "party": null,
+    "poho": "",
+    "result": "aangenomen",
+    "date": "02-09-2025",
+    "meeting_url": {
+        "1374861": "https://raadsinformatie.eindhoven.nl/vergadering/1374861#ai_10105742",
+        "1256639": "https://raadsinformatie.eindhoven.nl/vergadering/1256639#ai_9588274"
+    },
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/15659540/1/Initiatiefvoorstel+Verbod+fossiele+reclame+en+vijftiende+wijziging+APV+Eindhoven?connection_type=17&connection_id=11976262": "main",
+        "http://raadsinformatie.eindhoven.nl/document/15659539/1?connection_type=16&connection_id=1053561": " Bijlage 1 Juridische en wetenschappelijke onderbouwing voor fossielvrije reclame ",
+        "https://raadsinformatie.eindhoven.nl/document/15659540/4/Initiatiefvoorstel+Verbod+fossiele+reclame+en+vijftiende+wijziging+APV+Eindhoven?connection_type=17&connection_id=11976262": "Initiatiefvoorstel Verbod fossiele reclame en vijftiende wijziging APV Eindhoven",
+        "http://raadsinformatie.eindhoven.nl/document/16665555/2?connection_type=16&connection_id=1053561": " Nadere toelichting met herzien ontwerp raadsbesluit Verbod fossiele reclame en vijftiende wijziging APV Eindhoven ",
+        "http://raadsinformatie.eindhoven.nl/document/15868201/1?connection_type=16&connection_id=1053561": " Beantwoording technische vragen D66 nav initiatiefvoorstel verbod op fossiele reclame van de PvdD ",
+        "http://raadsinformatie.eindhoven.nl/document/15922950/1?connection_type=16&connection_id=1053561": " Commissieadvies Initiatiefvoorstel Verbod fossiele reclame en vijftiende wijziging APV Eindhoven ",
+        "http://raadsinformatie.eindhoven.nl/document/16001174/1?connection_type=16&connection_id=1053561": " Beantwoording technische vragen GL Initiatiefvoorstel verbod fossiele reclame "
+    },
+    "parent": null,
+    "children": [
+        "a_10115166"
+    ],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/16699604/1?connection_type=17&connection_id=13082688",
+    "pdf_text": "",
+    "bst": "",
+    "related": [
+        {
+            "id": 1072502,
+            "weight": 2.498979766326272
+        },
+        {
+            "id": 920652,
+            "weight": 0.47546242622378904
+        },
+        {
+            "id": 937101,
+            "weight": 0.4074766763365656
+        }
+    ],
+    "videostarttime": {
+        "1256323": null,
+        "1256639": 17615,
+        "1374861": 13989
+    },
+    "videolink": null,
+    "keywords": {
+        "APV Eindhoven": 1.9873976398760465,
+        "Initiatiefvoorstel Verbod": 1.9765416191248102,
+        "Verbod fossiele": 1.955011371234592,
+        "wijziging APV": 1.955011371234592,
+        "fossiele reclame": 1.9029960071342575,
+        "vijftiende wijziging": 1.9029960071342575,
+        "Verbod": 1.8552226942577967,
+        "APV": 1.8552226942577967,
+        "reclame": 1.702634417439785,
+        "vijftiende": 1.702634417439785
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": "10-04-2026",
+    "meeting_id": [
+        1256323,
+        1374861
+    ]
+}

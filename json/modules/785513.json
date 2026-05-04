@@ -1,0 +1,105 @@
+{
+    "module_id": 785513,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 231116,
+    "title": "Ruimere sluitingstijden - Burgerinitiatief Sluitingstijden binnenstad",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/785513",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "J. Dijsselbloem (Burgemeester)",
+    "result": "",
+    "date": "04-10-2022",
+    "meeting_url": {
+        "1018987": "https://raadsinformatie.eindhoven.nl/vergadering/1018987#ai_7011862"
+    },
+    "attachment": null,
+    "parent": 778921,
+    "children": [],
+    "text": "Te zullen kijken of er mogelijkheden zijn om versneld ruimere sluitingstijden mogelijk te maken en hierover voor het einde van 2022 aan de raad terug te koppelen. Hierbij wordt o.a. gekeken naar de mogelijkheid voor meer \"verlaatjes\".",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 785515,
+            "weight": 2.7622127311717124
+        },
+        {
+            "id": 785514,
+            "weight": 2.7611866307673094
+        },
+        {
+            "id": 803411,
+            "weight": 1.9744232709956577
+        },
+        {
+            "id": "a_8569521",
+            "weight": 0.711253852895011
+        },
+        {
+            "id": 888194,
+            "weight": 0.4826953813829435
+        },
+        {
+            "id": 778921,
+            "weight": 0.4770657645495206
+        },
+        {
+            "id": 833135,
+            "weight": 0.2635796420821556
+        },
+        {
+            "id": 859239,
+            "weight": 0.26302120035701526
+        },
+        {
+            "id": 920652,
+            "weight": 0.20519917428448795
+        },
+        {
+            "id": 775301,
+            "weight": 0.19813110738735015
+        },
+        {
+            "id": 958773,
+            "weight": 0.14942673290470462
+        },
+        {
+            "id": 845668,
+            "weight": 0.14655810090067456
+        }
+    ],
+    "videostarttime": {
+        "1018987": 720
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_01-EINDHOVEN-RAA-ONDERTITEL_2022.10.04_172616.mp4/playlist.m3u8",
+    "keywords": {
+        "Burgerinitiatief Sluitingstijden": 1.9897537050142797,
+        "Sluitingstijden binnenstad": 1.9687797141871102,
+        "versneld ruimere": 0.9639734585162146,
+        "raad terug": 0.9617599567301622,
+        "Burgerinitiatief": 1.9357068859133262,
+        "Ruimere": 1.909403505214022,
+        "koppelen": 0.8680582011155167,
+        "binnenstad": 1.808084390305143,
+        "kijken": 0.8080843903051429,
+        "mogelijkheden": 0.8080843903051429,
+        "versneld": 0.8080843903051429,
+        "maken": 0.8080843903051429,
+        "hierover": 0.8080843903051429,
+        "einde": 0.8080843903051429,
+        "raad": 0.8080843903051429,
+        "terug": 0.8080843903051429,
+        "verlaatjes": 0.7710455516585915,
+        "Hierbij": 0.654495770866986,
+        "gekeken": 0.654495770866986
+    },
+    "svz": null,
+    "afgedaan": "17-01-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

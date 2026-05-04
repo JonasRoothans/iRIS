@@ -1,0 +1,167 @@
+{
+    "module_id": 949024,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230022,
+    "title": "De Sociale 7 - Raadsvoorstel Vereenvoudiging Sociaal Domein",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/949024",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Lammers (Wethouder)",
+    "result": "",
+    "date": "04-06-2024",
+    "meeting_url": {
+        "1147942": "https://raadsinformatie.eindhoven.nl/vergadering/1147942#ai_8424221"
+    },
+    "attachment": null,
+    "parent": 941292,
+    "children": [],
+    "text": "Wethouder Toub zegt toe de integraliteit is gewaarborgd binnen de voorgestelde toekomstrichting van scenario 1 conform de uitgangspunten van De Sociale 7. In de uitwerking van de klantreizen binnen deze toekomstrichting zal terugkomen",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 949028,
+            "weight": 1.1618178676085564
+        },
+        {
+            "id": 949026,
+            "weight": 0.6640267613235783
+        },
+        {
+            "id": 996947,
+            "weight": 0.6636580903887428
+        },
+        {
+            "id": 949434,
+            "weight": 0.3274842435956768
+        },
+        {
+            "id": "a_8512346",
+            "weight": 0.29323816586188545
+        },
+        {
+            "id": 1050953,
+            "weight": 0.2250075296629981
+        },
+        {
+            "id": 1051400,
+            "weight": 0.21582669281995973
+        },
+        {
+            "id": 860025,
+            "weight": 0.21318714498734503
+        },
+        {
+            "id": 845855,
+            "weight": 0.15453395687093552
+        },
+        {
+            "id": 930054,
+            "weight": 0.15217882419699635
+        },
+        {
+            "id": 804341,
+            "weight": 0.14848214548926267
+        },
+        {
+            "id": 958683,
+            "weight": 0.13779287805054616
+        },
+        {
+            "id": 884453,
+            "weight": 0.0874369583354735
+        },
+        {
+            "id": 970363,
+            "weight": 0.08731406238766756
+        },
+        {
+            "id": 1104821,
+            "weight": 0.08366263137415839
+        },
+        {
+            "id": 775293,
+            "weight": 0.08158684902952047
+        },
+        {
+            "id": 1121876,
+            "weight": 0.08025861286861029
+        },
+        {
+            "id": 831978,
+            "weight": 0.0770747130292611
+        },
+        {
+            "id": 775122,
+            "weight": 0.07470694720662409
+        },
+        {
+            "id": 851550,
+            "weight": 0.07303048032930738
+        },
+        {
+            "id": 1148681,
+            "weight": 0.07175206447183156
+        },
+        {
+            "id": 1146306,
+            "weight": 0.07107146911909974
+        },
+        {
+            "id": 1146310,
+            "weight": 0.06745578720995979
+        },
+        {
+            "id": 1078521,
+            "weight": 0.06497042424032938
+        },
+        {
+            "id": 833196,
+            "weight": 0.061976348986205944
+        },
+        {
+            "id": 1023254,
+            "weight": 0.05567934845193427
+        },
+        {
+            "id": 1036340,
+            "weight": 0.049080133891789564
+        }
+    ],
+    "videostarttime": {
+        "1147942": 18517
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_04.06.24_Eindhoven_meningRZ.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Vereenvoudiging": 1.997062531658247,
+        "Vereenvoudiging Sociaal": 1.9965272823575253,
+        "Sociaal Domein": 1.9965272823575253,
+        "Domein Wethouder": 0.9965272823575253,
+        "Wethouder Toub": 0.9965272823575253,
+        "Toub zegt": 0.993214749879528,
+        "Sociale": 1.981806909897702,
+        "voorgestelde toekomstrichting": 0.9779849851528089,
+        "Raadsvoorstel": 1.9502128362288529,
+        "Domein": 1.9411722887587484,
+        "Toub": 0.9411722887587483,
+        "scenario": 0.9072504339146608,
+        "conform": 0.9072504339146608,
+        "zegt": 0.8854362910940643,
+        "integraliteit": 0.8854362910940643,
+        "gewaarborgd": 0.8854362910940643,
+        "voorgestelde": 0.8854362910940643,
+        "uitgangspunten": 0.8854362910940643,
+        "terugkomen": 0.737976518894883,
+        "uitwerking": 0.6899556168175172,
+        "klantreizen": 0.6899556168175172
+    },
+    "svz": null,
+    "afgedaan": "03-06-2025",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

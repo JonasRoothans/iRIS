@@ -1,0 +1,129 @@
+{
+    "module_id": 937183,
+    "vote_id": null,
+    "member_id": [
+        194500
+    ],
+    "party_list": [
+        "FVD"
+    ],
+    "poho_id": [],
+    "title": "Beantwoording raadsvragen Subsidieregeling geslachtswijziging paspoort (FvD)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/4/Raadsvragen/937183",
+    "type": "Raadsvraag",
+    "member": "Nicolas Knoester",
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "19-04-2024",
+    "meeting_url": null,
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/14075354/1?connection_type=17&connection_id=10509066": "Vraag",
+        "https://raadsinformatie.eindhoven.nl/document/14126428/1?connection_type=17&connection_id=10565142": "Antwoord"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": " \n \n \nRaadsvragen Subsidieregeling geslachtswijziging paspoort  \n \ndatum:  18 april 2024  \n \n \nGeacht college,  \n \n \nInleiding  \nNav het besluit van het college inzake de subsidieregeling \nnaamswijziging en wijziging geslachtsregistratie stelt FVD raadsvragen.  \n \n \nRaadsvragen  \n1. O.b.v. welke methode bepaalt het college dat deze mensen niet \ngewoon kunnen sparen voor de dingen die ze graag willen?  \n \n2. Gaat het college nu ook voor allerlei andere niche doelgroepen \nmet speciale wensen subsidies verstrekken om kosten te dekken \nwaarvoor ieder ander redelijkerwijs geacht wordt te sparen?  \n \n3. Maakt het college zich niet onbedoeld schuldig aan discriminatie \naangezien er geen algemeen belang of zwaarwegende \nnoodzaak speelt?  \n \nNamens de fractie , \nForum voor Democratie  \n \nNicolas Knoester , raadslid  \n \n \n",
+    "bst": "24bst00587",
+    "related": [
+        {
+            "id": 14603414,
+            "weight": 0.6375850812320505
+        },
+        {
+            "id": 930556,
+            "weight": 0.3372802440196851
+        },
+        {
+            "id": 879979,
+            "weight": 0.2607757444311817
+        },
+        {
+            "id": 998975,
+            "weight": 0.24035275446189325
+        },
+        {
+            "id": 862589,
+            "weight": 0.1715047967020932
+        },
+        {
+            "id": 1036032,
+            "weight": 0.16484566055697727
+        },
+        {
+            "id": 803180,
+            "weight": 0.16416049719791545
+        },
+        {
+            "id": 981192,
+            "weight": 0.16343457781183432
+        },
+        {
+            "id": 814803,
+            "weight": 0.15771774064816574
+        },
+        {
+            "id": 894051,
+            "weight": 0.15678352296259707
+        },
+        {
+            "id": 946698,
+            "weight": 0.13611226989540257
+        },
+        {
+            "id": 1149735,
+            "weight": 0.10102438492272113
+        },
+        {
+            "id": 1073436,
+            "weight": 0.08588346730440913
+        },
+        {
+            "id": 1131328,
+            "weight": 0.07641825865256124
+        },
+        {
+            "id": 1080504,
+            "weight": 0.06423344314615875
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Inleiding Nav": 0.9944177097362047,
+        "Subsidieregeling geslachtswijziging": 1.994266764908356,
+        "raadsvragen Subsidieregeling": 1.989365925837113,
+        "geslachtswijziging paspoort": 1.9879691009234564,
+        "stelt FVD": 0.9731375147958126,
+        "paspoort datum": 0.9700696020700755,
+        "FVD raadsvragen": 0.968761994984756,
+        "wijziging geslachtsregistratie": 0.9504918824864552,
+        "geslachtsregistratie stelt": 0.9504918824864552,
+        "FvD": 1.9397775249749887,
+        "Nav": 0.9180269097787264,
+        "college": 0.9013284640846859,
+        "april": 0.8759957952921015,
+        "Beantwoording": 1.8306727530800861,
+        "datum": 0.8306727530800863,
+        "Nicolas Knoester": 0.8261303199667115,
+        "Geacht": 0.8219746382077978,
+        "Democratie Nicolas": 0.7978629291943988,
+        "Geacht college": 0.78690778652441,
+        "besluit": 0.7828072593251983,
+        "naamswijziging": 0.7828072593251983,
+        "sparen": 0.7173278110663472,
+        "redelijkerwijs geacht": 0.7093870369265307,
+        "Gaat": 0.6894420334811777,
+        "Forum": 0.6387914842987279,
+        "Knoester": 0.6387914842987279,
+        "Nicolas": 0.5899413391571493,
+        "graag willen": 0.5784790368756221
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194500,
+    "lastScrapeDate": "02-04-2026",
+    "meeting_id": []
+}

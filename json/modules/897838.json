@@ -1,0 +1,83 @@
+{
+    "module_id": 897838,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230019,
+    "title": "Enquêterecht - Raadsvoorstel Zienswijze wijzigingsvoorstellen gemeenschappelijke regelingen MRE, GGD BZO, ODZOB, VRBZO en GRWRE",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/897838",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. van Lanschot (Wethouder)",
+    "result": "",
+    "date": "21-11-2023",
+    "meeting_url": {
+        "1165167": "https://raadsinformatie.eindhoven.nl/vergadering/1165167#ai_7968114"
+    },
+    "attachment": null,
+    "parent": 884453,
+    "children": [],
+    "text": "Wethouder Van Lanschot zegt toe met een nadere toelichting te komen over het enquêterecht in de gewijzigde GR MRE. Er zal ambtelijke ondersteuning komen om het amendement zoals in Helmond is aangenomen ook in Eindhoven te stemming voor te leggen.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": "a_8038134",
+            "weight": 1.3861842558263946
+        },
+        {
+            "id": 898115,
+            "weight": 0.48517137005129074
+        },
+        {
+            "id": "a_8041789",
+            "weight": 0.4408903992373551
+        },
+        {
+            "id": 975323,
+            "weight": 0.3715006669503993
+        }
+    ],
+    "videostarttime": {
+        "1165167": 9780
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_21.11.23_NC_Eindhoven_Raad.mp4/playlist.m3u8",
+    "keywords": {
+        "GGD BZO": 1.9961565894010647,
+        "Raadsvoorstel Zienswijze": 1.994807829676303,
+        "GRWRE Wethouder": 0.9929824438202003,
+        "regelingen MRE": 1.9885828169861317,
+        "Zienswijze wijzigingsvoorstellen": 1.9848659236312987,
+        "Lanschot zegt": 0.9848659236312988,
+        "MRE": 1.9683961091727773,
+        "wijzigingsvoorstellen gemeenschappelijke": 1.9670546976172631,
+        "gemeenschappelijke regelingen": 1.9670546976172631,
+        "nadere toelichting": 0.967054697617263,
+        "ODZOB": 1.9590315282414075,
+        "GGD": 1.9381235476886027,
+        "BZO": 1.9381235476886027,
+        "Zienswijze": 1.9165215401194904,
+        "GRWRE": 1.9165215401194904,
+        "Enquêterecht": 1.893995505614497,
+        "komen": 0.8310058395499031,
+        "ondersteuning komen": 0.8298418588420928,
+        "zegt": 0.8214096096399881,
+        "nadere": 0.8214096096399881,
+        "gewijzigde": 0.8214096096399881,
+        "ambtelijke ondersteuning": 0.7728513660987084,
+        "Helmond": 0.7596860970200927,
+        "Eindhoven": 0.7596860970200927,
+        "leggen": 0.6741853748714983,
+        "ambtelijke": 0.5697642641670678,
+        "amendement": 0.5697642641670678,
+        "aangenomen": 0.5697642641670678,
+        "stemming": 0.5697642641670678
+    },
+    "svz": null,
+    "afgedaan": "12-12-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

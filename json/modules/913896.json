@@ -1,0 +1,103 @@
+{
+    "module_id": 913896,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230014,
+    "title": "Structureel voorkomen wachtlijst - Weg met de bomenwachtlijst (Vrije Motie VM1)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/913896",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "R. Thijs (Wethouder)",
+    "result": "",
+    "date": "23-01-2024",
+    "meeting_url": {
+        "1146938": "https://raadsinformatie.eindhoven.nl/vergadering/1146938#ai_7847334"
+    },
+    "attachment": null,
+    "parent": 913095,
+    "children": [],
+    "text": "Wethouder Thijs zegt toe:\nde wethouder zal een voorstel voor het structureel voorkomen van de wachtlijst meenemen in het actualiseren van het doelgerichte beheerplan. Het aanpassen van dit beheerplan kan mogelijk (financiële) consequenties hebben, hiervoor zal hij bij de raad terugkomen;",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 796421,
+            "weight": 0.3406336232051068
+        },
+        {
+            "id": 776926,
+            "weight": 0.33752740721792585
+        },
+        {
+            "id": 956743,
+            "weight": 0.20619819219420016
+        },
+        {
+            "id": 776890,
+            "weight": 0.11622881928137721
+        },
+        {
+            "id": 872624,
+            "weight": 0.115790632827969
+        },
+        {
+            "id": 849282,
+            "weight": 0.0973693004684689
+        },
+        {
+            "id": 864037,
+            "weight": 0.0927346943683241
+        },
+        {
+            "id": 864019,
+            "weight": 0.08513819275711193
+        },
+        {
+            "id": 845128,
+            "weight": 0.07944990553107589
+        },
+        {
+            "id": 945680,
+            "weight": 0.07366973190899953
+        },
+        {
+            "id": 15563305,
+            "weight": 0.07219219550843518
+        }
+    ],
+    "videostarttime": {
+        "1146938": 4248
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_23.04.24_NC_EINDHOVEN-RAA-Raadsvergadering .mp4/playlist.m3u8",
+    "keywords": {
+        "Vrije Motie": 1.9965271114724312,
+        "Wethouder Thijs": 0.9912401626634998,
+        "Structureel voorkomen": 1.989301158918523,
+        "Thijs zegt": 0.987721667741902,
+        "voorkomen wachtlijst": 1.9730934432682727,
+        "wachtlijst meenemen": 0.9699381852769576,
+        "doelgerichte beheerplan": 0.9508715324874474,
+        "Vrije": 1.9411708463920152,
+        "Motie": 1.9411708463920152,
+        "voorkomen": 1.927630439278364,
+        "Thijs": 0.9247634626455856,
+        "raad terugkomen": 0.8547950472631518,
+        "beheerplan": 0.8547674679626871,
+        "zegt": 0.8387830721692531,
+        "meenemen": 0.8387830721692531,
+        "actualiseren": 0.8387830721692531,
+        "financiële": 0.77119901146999,
+        "consequenties": 0.6832627195384354,
+        "hiervoor": 0.6832627195384354,
+        "aanpassen": 0.5996876131092437,
+        "raad": 0.5996876131092437
+    },
+    "svz": null,
+    "afgedaan": "19-09-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

@@ -1,0 +1,112 @@
+{
+    "module_id": 879013,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230013,
+    "title": "Uitwerking van BIC 3 t/m 6 - Raadsvoorstel Gebiedsvisie Eindhoven Noordwest",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/879013",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Steenbakkers (Wethouder)",
+    "result": "",
+    "date": "12-09-2023",
+    "meeting_url": {
+        "1127251": "https://raadsinformatie.eindhoven.nl/vergadering/1127251#ai_7800139"
+    },
+    "attachment": null,
+    "parent": 857634,
+    "children": [],
+    "text": "Wethouder Steenbakkers zegt toe:\nnog in deze raadsperiode met de raad in gesprek te gaan over de verdere uitwerking van BIC 3 t/m 6, binnen de reeds vastgestelde kaders, visies en het bestuursakkoord.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 879018,
+            "weight": 2.2832156096377703
+        },
+        {
+            "id": 857634,
+            "weight": 1.7901132436752576
+        },
+        {
+            "id": 877119,
+            "weight": 0.8860923471975435
+        },
+        {
+            "id": "o_8726235",
+            "weight": 0.3511681392244382
+        },
+        {
+            "id": 776865,
+            "weight": 0.3235682935522314
+        },
+        {
+            "id": 833871,
+            "weight": 0.24864948857739821
+        },
+        {
+            "id": 1148692,
+            "weight": 0.2299010809650527
+        },
+        {
+            "id": 1105348,
+            "weight": 0.11694552505857163
+        },
+        {
+            "id": 1023028,
+            "weight": 0.10798008559130652
+        },
+        {
+            "id": 1148212,
+            "weight": 0.10697109528661401
+        },
+        {
+            "id": 1148207,
+            "weight": 0.105820357458459
+        },
+        {
+            "id": 1148211,
+            "weight": 0.09390564729656917
+        },
+        {
+            "id": 1148253,
+            "weight": 0.07891687751160834
+        }
+    ],
+    "videostarttime": {
+        "1127251": 4339
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_12.09.23_NC_Eindhoven_Raad.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Gebiedsvisie": 1.9962274996488607,
+        "Gebiedsvisie Eindhoven": 1.9947921293594373,
+        "Eindhoven Noordwest": 1.9947921293594373,
+        "Noordwest Wethouder": 0.9947921293594372,
+        "Wethouder Steenbakkers": 0.9947921293594372,
+        "Steenbakkers zegt": 0.9903272356647718,
+        "vastgestelde kaders": 0.9879484628578314,
+        "verdere uitwerking": 0.981654379026057,
+        "BIC": 1.9798330777266926,
+        "Raadsvoorstel": 1.9477854136835422,
+        "Eindhoven": 1.9280216057445019,
+        "Noordwest": 1.9280216057445019,
+        "Wethouder": 0.9280216057445018,
+        "kaders": 0.9105311194950351,
+        "visies": 0.9105311194950351,
+        "bestuursakkoord": 0.9105311194950351,
+        "zegt": 0.8669031394610134,
+        "raadsperiode": 0.8669031394610134,
+        "raad": 0.8669031394610134,
+        "gesprek": 0.8669031394610134,
+        "gaan": 0.8669031394610134,
+        "verdere": 0.8669031394610134
+    },
+    "svz": "Zit opgesloten in verdere besluitvorming door raad, opvolgend op intentieovereenkomst ASML BIC Noord.  VO...  Lees verder ",
+    "afgedaan": "10-12-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

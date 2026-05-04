@@ -1,0 +1,78 @@
+{
+    "module_id": 953103,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230013,
+    "title": "Uitwerking van de KPI’s integraal de clusters in beeld te brengen - Clusterpaspoort Ontwikkelvisie Fellenoord: Cluster 1A",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/moties_en_toezeggingen/953103?parent_event=1229974",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Steenbakkers (Wethouder)",
+    "result": "",
+    "date": "17-06-2024",
+    "meeting_url": {
+        "1229974": "https://raadsinformatie.eindhoven.nl/vergadering/1229974#ai_8382517"
+    },
+    "attachment": null,
+    "parent": "ai_8382517",
+    "children": [],
+    "text": "Wethouder Steenbakkers zegt toe dat de Fellenoord BV in de aanstaande AVA te verzoeken om bij de uitwerking van de KPI’s integraal de clusters in beeld te brengen in een tussenproduct, met een specificatie van de voorzieningen, doelgroepen wonen, de openbare ruimte en gelinkt aan het doorontwikkelde dashboard.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 950170,
+            "weight": 0.33516920930942734
+        },
+        {
+            "id": 775097,
+            "weight": 0.33393028092084326
+        },
+        {
+            "id": "a_7349640",
+            "weight": 0.29893573225819947
+        },
+        {
+            "id": 1041995,
+            "weight": 0.2749325110341151
+        }
+    ],
+    "videostarttime": {},
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_17.06.24_Eindhoven_raadscie.mp4/playlist.m3u8",
+    "keywords": {
+        "Clusterpaspoort Ontwikkelvisie": 1.9979593675213583,
+        "Wethouder Steenbakkers": 0.9979593675213583,
+        "Ontwikkelvisie Fellenoord": 1.997601483799187,
+        "Steenbakkers zegt": 0.9959220476126788,
+        "aanstaande AVA": 0.9959220476126788,
+        "doelgroepen wonen": 0.9950366049887367,
+        "doorontwikkelde dashboard": 0.9940759792162036,
+        "openbare ruimte": 0.9929281236175771,
+        "KPI": 1.9807878037959648,
+        "clusters": 1.9754891888865704,
+        "Fellenoord": 1.9753149152920835,
+        "integraal": 1.9682516406217632,
+        "beeld": 1.9682516406217632,
+        "Uitwerking": 1.9626674187358066,
+        "brengen": 1.9626674187358066,
+        "Wethouder": 0.9579813748133186,
+        "AVA": 0.9515339502675586,
+        "tussenproduct": 0.9297228245302857,
+        "voorzieningen": 0.9297228245302857,
+        "wonen": 0.9297228245302857,
+        "dashboard": 0.9297228245302857,
+        "zegt": 0.9162013357029808,
+        "verzoeken": 0.9162013357029808,
+        "specificatie": 0.9162013357029808,
+        "ruimte": 0.9162013357029808,
+        "gelinkt": 0.9162013357029808
+    },
+    "svz": null,
+    "afgedaan": "03-09-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

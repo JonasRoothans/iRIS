@@ -1,0 +1,101 @@
+{
+    "module_id": 819553,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "BIZ aanvraag - Raadsvoorstel Ontwikkelkader Kastelenplein",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/819553",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "31-01-2023",
+    "meeting_url": {
+        "1059674": "https://raadsinformatie.eindhoven.nl/vergadering/1059674#ai_7319717"
+    },
+    "attachment": null,
+    "parent": 806370,
+    "children": [],
+    "text": "Wethouder Verhees zegt toe: de ondernemers / winkeliersvereniging te zullen attenderen op de mogelijkheid een BIZ aan te vragen, om de leefbaarheid van het gebied in de toekomst te borgen.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 822616,
+            "weight": 1.2260200438436777
+        },
+        {
+            "id": 822617,
+            "weight": 1.2260200438436777
+        },
+        {
+            "id": 819550,
+            "weight": 1.225466691664673
+        },
+        {
+            "id": 806370,
+            "weight": 0.5677418383766094
+        },
+        {
+            "id": "a_7400520",
+            "weight": 0.45269646621450754
+        },
+        {
+            "id": 791795,
+            "weight": 0.25969235295540827
+        },
+        {
+            "id": 892417,
+            "weight": 0.20535732247616426
+        },
+        {
+            "id": 1117157,
+            "weight": 0.19939062764751583
+        },
+        {
+            "id": 15091771,
+            "weight": 0.1967470529187559
+        },
+        {
+            "id": "r_7006025",
+            "weight": 0.19480828612280462
+        },
+        {
+            "id": 973945,
+            "weight": 0.11807062498320547
+        }
+    ],
+    "videostarttime": {
+        "1059674": 11371
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_31.01.23_NC_Eindhoven_Raad.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Ontwikkelkader": 1.997176487655985,
+        "Ontwikkelkader Kastelenplein": 1.9962980755468125,
+        "Kastelenplein Wethouder": 0.9962980755468125,
+        "Wethouder Verhees": 0.9962980755468125,
+        "BIZ aanvraag": 1.9945203755837684,
+        "Verhees zegt": 0.9934814726810703,
+        "BIZ": 1.9644035334577208,
+        "Raadsvoorstel": 1.9536388942802476,
+        "Ontwikkelkader": 1.939268865040284,
+        "ondernemers": 0.9234508042798444,
+        "winkeliersvereniging": 0.9234508042798444,
+        "vragen": 0.9234508042798444,
+        "borgen": 0.9234508042798444,
+        "zegt": 0.8933609373339291,
+        "attenderen": 0.8933609373339291,
+        "mogelijkheid": 0.8933609373339291,
+        "leefbaarheid": 0.8933609373339291,
+        "gebied": 0.8933609373339291,
+        "toekomst": 0.8933609373339291
+    },
+    "svz": null,
+    "afgedaan": "12-09-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

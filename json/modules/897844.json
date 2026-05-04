@@ -1,0 +1,89 @@
+{
+    "module_id": 897844,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": null,
+    "title": "Kopje “Participatie” - Raadsvoorstel Vaststellen van de Verordening inwonersparticipatie Eindhoven",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/897844",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Esselbrugge (Wethouder)",
+    "result": "",
+    "date": "24-11-2023",
+    "meeting_url": {
+        "1165167": "https://raadsinformatie.eindhoven.nl/vergadering/1165167#ai_7968136"
+    },
+    "attachment": null,
+    "parent": 863923,
+    "children": [],
+    "text": "Stadsgezant van Kessel (namens wethouder Esselbrugge) zegt toe om te bespreken of er in raadsvoorstellen een kopje “Participatie” kan worden toegevoegd zodat in ieder raadsvoorstel participatie benoemd wordt, of wordt beschreven waarom er van is afgezien.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 897846,
+            "weight": 0.982842075413038
+        },
+        {
+            "id": "a_8038134",
+            "weight": 0.20818353050205265
+        },
+        {
+            "id": "a_7402558",
+            "weight": 0.18687872443313935
+        },
+        {
+            "id": "a_7006139",
+            "weight": 0.1856380209522679
+        },
+        {
+            "id": "a_7462821",
+            "weight": 0.18219893639350523
+        },
+        {
+            "id": "a_7402555",
+            "weight": 0.1684487950818897
+        },
+        {
+            "id": 1124827,
+            "weight": 0.16178943830945763
+        },
+        {
+            "id": 12324103,
+            "weight": 0.14495314368065015
+        }
+    ],
+    "videostarttime": {
+        "1165167": 14543
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_21.11.23_NC_Eindhoven_Raad.mp4/playlist.m3u8",
+    "keywords": {
+        "Eindhoven Stadsgezant": 0.9944382766382968,
+        "wethouder Esselbrugge": 0.9922721024977365,
+        "Raadsvoorstel Vaststellen": 1.990531288760418,
+        "Verordening inwonersparticipatie": 1.9893636485376285,
+        "inwonersparticipatie Eindhoven": 1.9893636485376285,
+        "namens wethouder": 0.9863104761726914,
+        "participatie benoemd": 0.9811075642016728,
+        "toegevoegd zodat": 0.9795647319439736,
+        "Kopje": 1.946266036123308,
+        "Kessel": 0.9458098151611949,
+        "Vaststellen": 1.925629564456709,
+        "Verordening": 1.925629564456709,
+        "Eindhoven": 1.925629564456709,
+        "namens": 0.9045697757305796,
+        "zegt": 0.9045697757305796,
+        "afgezien": 0.9045697757305796,
+        "bespreken": 0.858486641091518,
+        "zodat": 0.858486641091518,
+        "benoemd": 0.858486641091518
+    },
+    "svz": "Wethouder Esselbrugge heeft ihn de raad van 28 november aangegeven dat er geen apart kopje in de in de raadsvo...  Lees verder ",
+    "afgedaan": "12-12-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

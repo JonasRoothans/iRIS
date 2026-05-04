@@ -1,0 +1,131 @@
+{
+    "module_id": 784785,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Raadsvoorstel Benoemen CRK-lid landschapsarchitectuur",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/19/Raadsvoorstellen/784785",
+    "type": "Raadsvoorstel",
+    "member": null,
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "Afgerond",
+    "date": "11-10-2022",
+    "meeting_url": {
+        "1013161": "https://raadsinformatie.eindhoven.nl/vergadering/1013161#ai_7082844"
+    },
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/11909389/1/22bst01210+Raadsvoorstel+Benoemen+CRK-lid+landschapsarchitectuur?connection_type=17&connection_id=8688527": "22bst01210 Raadsvoorstel Benoemen CRK-lid landschapsarchitectuur"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/11930339/1?connection_type=17&connection_id=8705626",
+    "pdf_text": " \n \n  gemeente Eindhoven  \nInboeknummer          22bst01210  \nDossiernummer        22.40.451  \nB&W beslisdatum      04 oktober 2022     \n \nRaadsvoorstel    Benoemen CRK -lid landschapsarchitectuur  \n \n \n   Raadsbesluit   \nDe raad van de gemeente Eindhoven;  \ngezien het voorstel van burgemeester en wethouders van 4 oktober 2022 ; \n \nbesluit:  \n \nMet ingang van 29 november  2022 N. Dietz  benoemen als vakdeskundig lid voor de \nduur van één jaar met jaarlijks stilzwijgende verlenging tot 29 november  2025.  \n \nAldus vastgesteld in de openbare vergadering van 11 oktober 2022  \n \n \n \n \n \nJ. Jongbloed , griffier.  \n \n ",
+    "bst": "22bst01210",
+    "related": [
+        {
+            "id": 870858,
+            "weight": 2.427418492854293
+        },
+        {
+            "id": 11753464,
+            "weight": 0.4248516369998436
+        },
+        {
+            "id": 922965,
+            "weight": 0.19037395578060248
+        },
+        {
+            "id": 898848,
+            "weight": 0.18657244352682467
+        },
+        {
+            "id": 928179,
+            "weight": 0.16562415622423812
+        },
+        {
+            "id": 790212,
+            "weight": 0.15528533270086142
+        },
+        {
+            "id": 1090187,
+            "weight": 0.14815645143721687
+        },
+        {
+            "id": 780554,
+            "weight": 0.11120854594067892
+        },
+        {
+            "id": 792357,
+            "weight": 0.08559641404302566
+        },
+        {
+            "id": 938319,
+            "weight": 0.07737891326691057
+        },
+        {
+            "id": 780518,
+            "weight": 0.07287629755583291
+        },
+        {
+            "id": 835425,
+            "weight": 0.07161714034744375
+        },
+        {
+            "id": 984847,
+            "weight": 0.07144252327618163
+        },
+        {
+            "id": 792344,
+            "weight": 0.04987661983609682
+        }
+    ],
+    "videostarttime": {
+        "1013161": 2721
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_11.10.22_Eindhoven_raad.mp4/playlist.m3u8",
+    "keywords": {
+        "Eindhoven Inboeknummer": 0.996105560185267,
+        "gemeente Eindhoven": 0.995506568051825,
+        "Raadsvoorstel Benoemen": 1.9950484566672113,
+        "Benoemen CRK": 1.9900384504856463,
+        "landschapsarchitectuur Raadsbesluit": 0.987918599303398,
+        "CRK-lid landschapsarchitectuur": 1.9711873966696987,
+        "Eindhoven": 0.9679069154524538,
+        "oktober": 0.9557996471804879,
+        "Dossiernummer": 0.9509497212514233,
+        "november": 0.939810218392077,
+        "CRK": 1.9395612474701487,
+        "Dietz benoemen": 0.9393035484583022,
+        "gemeente": 0.9306172992785661,
+        "Raadsbesluit": 0.9280523323260701,
+        "vakdeskundig lid": 0.8714346327166919,
+        "beslisdatum": 0.8654425866934637,
+        "gezien": 0.8654425866934637,
+        "lid": 1.8622794723574805,
+        "CRK-lid": 1.8312044085868018,
+        "raad": 0.8312044085868017,
+        "voorstel": 1.8312044085868018,
+        "wethouders": 0.8312044085868017,
+        "ingang": 0.8312044085868017,
+        "één jaar": 0.793646526313655,
+        "jaarlijks stilzwijgende": 0.793646526313655,
+        "stilzwijgende verlenging": 0.793646526313655,
+        "Jongbloed": 0.7544354266367943,
+        "openbare vergadering": 0.6543908774166823,
+        "Dietz": 0.6493566395693422,
+        "griffier": 0.6337129236877881,
+        "duur": 0.5864113590954805,
+        "één": 0.5864113590954805,
+        "jaar": 0.5864113590954805,
+        "jaarlijks": 0.5864113590954805,
+        "verlenging": 0.5864113590954805
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": "10-04-2026",
+    "meeting_id": []
+}

@@ -1,0 +1,125 @@
+{
+    "module_id": 822130,
+    "vote_id": null,
+    "member_id": [
+        194500
+    ],
+    "party_list": [
+        "FVD"
+    ],
+    "poho_id": [],
+    "title": "Beantwoording raadsvragen Cookiemuur website Gemeente Eindhoven (FvD)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/4/Raadsvragen/822130",
+    "type": "Raadsvraag",
+    "member": "Nicolas Knoester",
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "15-02-2023",
+    "meeting_url": null,
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/12427033/1?connection_type=17&connection_id=9099177": "Vraag",
+        "https://raadsinformatie.eindhoven.nl/document/12536961/2?connection_type=17&connection_id=9189698": "Antwoord"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/12427033/1?connection_type=17&connection_id=9099177",
+    "pdf_text": "  \n \n \nRaadsvragen van de fractie (s): Forum voor Democratie  \n \n \nCookiemuur website Gemeente Eindhoven  \n \ndatum:  14 februari 2023  \n \n \nGeacht college,  \n \nDe website van de Gemeente Eindhoven (eindhoven.nl) maakt gebruik \nvan een cookiemuur. FVD heeft signalen van inwoners ontvangen dat \ndeze cookiemuur als intimiderend en wantrouwend overkomt.  \n \nEr is immers ook geen keuze om de (statistiek)cookies af te wijzen. Pas \nals je de melding sluit heb je toegang tot de website van de gemeente.  \n \nRaadsvragen:  \n1. Deelt het college de mening van deze inwoners en van FVD dat deze \ncookiemuur onnodig intimiderend en wantrouwend overkomt?  \n2. Waarom heeft het college gekozen voor een cookiemuur i.p.v. een \noptie waarbij het mogelijk is om de statistiekcookies af te wijzen?  \n3. Gaat het college deze cookiemuur/melding aanpassen naar een meer \ngebruiksvriendelijke cookiemelding waarbij er ook de mogelijkheid is om \nde (statistiek)cookies af te wijzen?  \n \nVolgens de privacyverklaring1 worden er geen persoonsgegevens \nverzameld . \n \n4. Welke gegevens worden er wél verzameld?  \n4a. Worden er IP adresse n verzameld?  \n4b. Worden er MAC adressen verzame ld? \n5. Hoelang worden verzamelde gegevens bewaard ? \n \n1 https://www.eindhoven.nl/privacy/privacyverklaring -cookies -op-\neindhovennl?ori gin=/bestuur -en-beleid/privacy/specifieke -\nprivacyverklaringen%3Ff%255B0%255D%3Dm4%253A847   \n6. Worden zoekopdrachten opgeslagen ? \n6a. Zo ja, hoelang blijven deze opgeslagen?  \n7. Waar vindt de dataopslag plaats?  \n8. Zijn er derden die toegang hebben tot  de (mogelijke ) gegevens die \nverzameld worden?  \n8a. Zo ja, welke derde partijen?  \n9. Hoe is de toezicht hierop ingericht?  \n \nNamens de fractie(s),  \n \nNicolas Knoester, raadslid  \n ",
+    "bst": "23bst00284",
+    "related": [
+        {
+            "id": 830042,
+            "weight": 1.887797497491246
+        },
+        {
+            "id": 922219,
+            "weight": 0.32405713777415274
+        },
+        {
+            "id": 14603414,
+            "weight": 0.24936292235058716
+        },
+        {
+            "id": 935942,
+            "weight": 0.20863077179401632
+        },
+        {
+            "id": "a_8569807",
+            "weight": 0.18512721687039332
+        },
+        {
+            "id": 13911703,
+            "weight": 0.15272620275080903
+        },
+        {
+            "id": 870789,
+            "weight": 0.13966512543343423
+        },
+        {
+            "id": 873713,
+            "weight": 0.13753356842420975
+        },
+        {
+            "id": 931636,
+            "weight": 0.13572072611805416
+        },
+        {
+            "id": 1100070,
+            "weight": 0.12811093497455078
+        },
+        {
+            "id": 1023853,
+            "weight": 0.11618617140106802
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Gemeente Eindhoven": 1.99761741026559,
+        "Eindhoven datum": 0.9912656128154365,
+        "website Gemeente": 1.9782226333545463,
+        "Democratie Cookiemuur": 0.9782195001378731,
+        "Geacht college": 0.9702945688969575,
+        "Gemeente": 1.9612553741109238,
+        "maakt gebruik": 0.9592175024378293,
+        "Cookiemuur": 1.9565243941558361,
+        "FvD": 1.9375072982582342,
+        "Beantwoording raadsvragen": 1.9371170240868116,
+        "Forum": 0.9346240287070589,
+        "Geacht": 0.9346240287070589,
+        "website": 1.9326730916765464,
+        "Democratie": 0.9299567079705464,
+        "raadsvragen": 1.8957018441539542,
+        "college": 0.8896824240078423,
+        "wantrouwend overkomt": 0.8843560135251135,
+        "wijzen": 0.8686187563664699,
+        "verzameld": 0.863978125200682,
+        "februari": 0.8288128024847273,
+        "datum": 0.8109181899549079,
+        "maakt": 0.8109181899549079,
+        "overkomt": 0.7901994518312823,
+        "statistiek": 0.7825997506116396,
+        "Hoelang": 0.7722147352102378,
+        "intimiderend": 0.7627339543223909,
+        "inwoners": 0.7499216604705771,
+        "fractie": 0.7287526030456165,
+        "Nicolas Knoester": 0.7280943346000142,
+        "melding": 0.7216208394642113,
+        "waarbij": 0.7089999569102771,
+        "opgeslagen": 0.703131201323786,
+        "inwoners ontvangen": 0.6876557247895435,
+        "college gekozen": 0.5655769184594615,
+        "MAC": 0.5562239456408855,
+        "Nicolas": 0.5376384857357333,
+        "Knoester": 0.5376384857357333,
+        "signalen": 0.524139456154916,
+        "ontvangen": 0.524139456154916,
+        "MAC adressen": 0.5162460836213657
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194500,
+    "lastScrapeDate": "02-04-2026",
+    "meeting_id": []
+}

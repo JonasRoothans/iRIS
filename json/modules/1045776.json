@@ -1,0 +1,81 @@
+{
+    "module_id": 1045776,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230019,
+    "title": "Volgorde jaarrekening en kadernota - Raadsvoorstel Kadernota 2026",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1045776",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. van Lanschot (Wethouder)",
+    "result": "",
+    "date": "13-05-2025",
+    "meeting_url": {
+        "1256605": "https://raadsinformatie.eindhoven.nl/vergadering/1256605#ai_9262973"
+    },
+    "attachment": null,
+    "parent": 1034468,
+    "children": [],
+    "text": "Wethouder van Lanschot zegt toe dat hij het gaat proberen dit in het licht van de juiste volgorde (eerst jaarrekening) beter in elkaar te schuiven voor de volgende bestuursperiode en bespreekt dit met de Auditcommissie.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1045914,
+            "weight": 0.32910858006150207
+        },
+        {
+            "id": 945609,
+            "weight": 0.2422042366256931
+        },
+        {
+            "id": "o_8726235",
+            "weight": 0.18741134509436141
+        },
+        {
+            "id": 1140916,
+            "weight": 0.1644796257251963
+        },
+        {
+            "id": 1124696,
+            "weight": 0.12560884444434656
+        },
+        {
+            "id": 1115942,
+            "weight": 0.12535934063811813
+        }
+    ],
+    "videostarttime": {
+        "1256605": 13274
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_13.05.25_NC_01-EINDHOVEN-RAA.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Kadernota": 1.996073156867138,
+        "Lanschot zegt": 0.9899159628320426,
+        "gaat proberen": 0.9809531161051778,
+        "volgende bestuursperiode": 0.9809531161051778,
+        "juiste volgorde": 0.9744634421147604,
+        "Volgorde jaarrekening": 1.965688148467383,
+        "kadernota": 1.9631517058118049,
+        "Wethouder": 0.9469244989829453,
+        "Auditcommissie": 0.9469244989829453,
+        "zegt": 0.8632854036423235,
+        "gaat": 0.8632854036423235,
+        "licht": 0.8632854036423235,
+        "juiste": 0.8632854036423235,
+        "elkaar": 0.8632854036423235,
+        "schuiven": 0.8632854036423235,
+        "volgende": 0.8632854036423235,
+        "bespreekt": 0.8632854036423235
+    },
+    "svz": null,
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": [
+        1256605
+    ]
+}

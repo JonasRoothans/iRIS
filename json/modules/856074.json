@@ -1,0 +1,100 @@
+{
+    "module_id": 856074,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": null,
+    "title": "Vervoerscijfers - Raadsvoorstel Voorkeursalternatief Tracé HOV4 en plan van aanpak Voorlopig Ontwerp",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/856074",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Esselbrugge (Wethouder)",
+    "result": "",
+    "date": "13-06-2023",
+    "meeting_url": {
+        "1102755": "https://raadsinformatie.eindhoven.nl/vergadering/1102755#ai_7663383"
+    },
+    "attachment": null,
+    "parent": 845507,
+    "children": [],
+    "text": "Wethouder Esselbrugge zegt toe dat:\n\ndat vervoerscijfers en stromen mee worden genomen bij het vervolg van het voorlopig ontwerp en dat groeiprognoses hierin een duiding krijgen.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": "a_7688307",
+            "weight": 1.885790551073795
+        },
+        {
+            "id": 845507,
+            "weight": 0.981840926608158
+        },
+        {
+            "id": 920829,
+            "weight": 0.9107872018659725
+        },
+        {
+            "id": 1117460,
+            "weight": 0.4532887463438529
+        },
+        {
+            "id": 966048,
+            "weight": 0.1000921409256951
+        },
+        {
+            "id": 826918,
+            "weight": 0.08865690824159278
+        },
+        {
+            "id": 776928,
+            "weight": 0.08043697706133016
+        },
+        {
+            "id": 1080541,
+            "weight": 0.07087241046090965
+        },
+        {
+            "id": 783304,
+            "weight": 0.06887011237036371
+        },
+        {
+            "id": "r_7006036",
+            "weight": 0.06479271092969038
+        }
+    ],
+    "videostarttime": {
+        "1102755": 629
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_13.06.23_NC_Eindhoven_Cie.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Voorkeursalternatief": 1.996125834475464,
+        "Voorkeursalternatief Tracé": 1.996125834475464,
+        "Voorlopig Ontwerp": 1.995232862808546,
+        "Wethouder Esselbrugge": 0.994660538930283,
+        "Ontwerp Wethouder": 0.9928671614628791,
+        "Esselbrugge zegt": 0.989974343833986,
+        "duiding krijgen": 0.9873570893674407,
+        "aanpak Voorlopig": 1.9865860018837709,
+        "stromen mee": 0.9810979661980729,
+        "Ontwerp": 1.9514092845854152,
+        "Raadsvoorstel": 1.9470450518920317,
+        "Tracé": 1.9470450518920317,
+        "Vervoerscijfers": 1.9093941454864196,
+        "krijgen": 0.9083351803487221,
+        "plan": 1.8637965672861532,
+        "aanpak": 1.8637965672861532,
+        "zegt": 0.8637965672861532,
+        "mee": 0.8637965672861532,
+        "genomen": 0.8637965672861532,
+        "vervolg": 0.8637965672861532,
+        "groeiprognoses": 0.8637965672861532,
+        "duiding": 0.8637965672861532
+    },
+    "svz": null,
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

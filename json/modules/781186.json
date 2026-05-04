@@ -1,0 +1,131 @@
+{
+    "module_id": 781186,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Uithuiszetting studenten - Agenderingsverzoek SP Beleid kamerbewoning en  woningsplitsing n.a.v. brief van het college aan de raad d.d. 26 juli 2022",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/781186",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "14-09-2022",
+    "meeting_url": {
+        "1015775": "https://raadsinformatie.eindhoven.nl/vergadering/1015775#ai_7000799"
+    },
+    "attachment": null,
+    "parent": 777032,
+    "children": [],
+    "text": "De raad technisch te informeren of de gemeente termijnen hanteert bij uithuiszetting van studenten.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 781185,
+            "weight": 0.736892145154036
+        },
+        {
+            "id": 781179,
+            "weight": 0.6576372371165154
+        },
+        {
+            "id": 798656,
+            "weight": 0.6550260049032662
+        },
+        {
+            "id": 781183,
+            "weight": 0.6526800258066027
+        },
+        {
+            "id": 786262,
+            "weight": 0.3017374107666562
+        },
+        {
+            "id": 973400,
+            "weight": 0.1901792621753473
+        },
+        {
+            "id": 984501,
+            "weight": 0.09274860251020228
+        },
+        {
+            "id": 796519,
+            "weight": 0.09274860251020228
+        },
+        {
+            "id": 790708,
+            "weight": 0.09179598578701793
+        },
+        {
+            "id": 790707,
+            "weight": 0.09165577000466708
+        },
+        {
+            "id": 984519,
+            "weight": 0.08596157084802312
+        },
+        {
+            "id": 850906,
+            "weight": 0.061018140409457605
+        },
+        {
+            "id": 1125031,
+            "weight": 0.05861130152051798
+        },
+        {
+            "id": 891630,
+            "weight": 0.055535054680244215
+        },
+        {
+            "id": 785745,
+            "weight": 0.05132760278042447
+        },
+        {
+            "id": 858298,
+            "weight": 0.047262286798173334
+        },
+        {
+            "id": 1000447,
+            "weight": 0.04565074740976251
+        },
+        {
+            "id": 955427,
+            "weight": 0.045397037173040826
+        },
+        {
+            "id": 1129552,
+            "weight": 0.04164863792935537
+        }
+    ],
+    "videostarttime": {
+        "1015775": 2410
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_14.09.22_NC_Eindhoven_cie.mp4/playlist.m3u8",
+    "keywords": {
+        "Beleid kamerbewoning": 1.983901694341257,
+        "Agenderingsverzoek": 1.936728177187328,
+        "Uithuiszetting studenten": 1.9187139502965906,
+        "Beleid": 1.9149011032441021,
+        "studenten": 1.8924412775235375,
+        "woningsplitsing": 1.872288652432505,
+        "brief": 1.872288652432505,
+        "raad": 1.8585079036618266,
+        "raad technisch": 0.8567636307578723,
+        "college": 1.813825364561574,
+        "juli": 1.7775895560581398,
+        "gemeente termijnen": 0.7561811178263785,
+        "termijnen hanteert": 0.7561811178263785,
+        "informeren": 0.5572535423099841,
+        "gemeente": 0.5572535423099841,
+        "termijnen": 0.5572535423099841,
+        "hanteert": 0.5572535423099841
+    },
+    "svz": null,
+    "afgedaan": "17-01-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

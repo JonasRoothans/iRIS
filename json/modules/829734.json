@@ -1,0 +1,64 @@
+{
+    "module_id": 829734,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230022,
+    "title": "Beheergroep - Documenten onder geheimhouding m.b.t. Maatschappelijke opvang Fuutlaan 10",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/829734",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Toub (Wethouder)",
+    "result": "",
+    "date": "07-03-2023",
+    "meeting_url": {
+        "1079006": "https://raadsinformatie.eindhoven.nl/vergadering/1079006#ai_7365062"
+    },
+    "attachment": null,
+    "parent": 813324,
+    "children": [],
+    "text": "Wethouder Toub zegt toe:\n\nde beheergroep pakt signalen uit de buurt en van betrokkenen snel op.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 824910,
+            "weight": 1.4879767000889106
+        },
+        {
+            "id": 777622,
+            "weight": 0.7491578689300156
+        },
+        {
+            "id": 829739,
+            "weight": 0.7246784332450045
+        },
+        {
+            "id": 829743,
+            "weight": 0.6695073083823033
+        }
+    ],
+    "videostarttime": {
+        "1079006": 7828
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_07.03.23_NC_Eindhoven_Meningsvorming.mp4/playlist.m3u8",
+    "keywords": {
+        "Wethouder Toub": 0.9359775431869319,
+        "Documenten": 1.9287857479465438,
+        "opvang Fuutlaan": 1.8801016106288553,
+        "geheimhouding": 1.8561883823504717,
+        "Toub zegt": 0.8294977180039074,
+        "Beheergroep": 1.777016725916051,
+        "Maatschappelijke opvang": 1.7691248782303104,
+        "Toub": 0.713877262232496,
+        "pakt signalen": 0.6501339593358757,
+        "betrokkenen snel": 0.6501339593358757
+    },
+    "svz": null,
+    "afgedaan": "12-09-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

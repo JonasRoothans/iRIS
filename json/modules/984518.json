@@ -1,0 +1,117 @@
+{
+    "module_id": 984518,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230022,
+    "title": "Pilot OuderWijs (Samen Leren Ouder Worden) - Raadsvoorstel Begroting 2025",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/984518",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Toub (Wethouder)",
+    "result": "",
+    "date": "29-10-2024",
+    "meeting_url": {
+        "1148141": "https://raadsinformatie.eindhoven.nl/vergadering/1148141#ai_8729567"
+    },
+    "attachment": null,
+    "parent": 975511,
+    "children": [],
+    "text": "Wethouder Toub zegt toe dat de raad wordt geïnformeerd over de eerste inzichten/resultaten) in de wijk Gestel.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 853456,
+            "weight": 0.6496266250258764
+        },
+        {
+            "id": 890291,
+            "weight": 0.6493518994864586
+        },
+        {
+            "id": 909641,
+            "weight": 0.6301670767059002
+        },
+        {
+            "id": 1148670,
+            "weight": 0.5799550025526704
+        },
+        {
+            "id": 1106621,
+            "weight": 0.22109962701345026
+        },
+        {
+            "id": 883068,
+            "weight": 0.21628896980953954
+        },
+        {
+            "id": 784732,
+            "weight": 0.1882566286546716
+        },
+        {
+            "id": 1125026,
+            "weight": 0.18134496372666375
+        },
+        {
+            "id": 936126,
+            "weight": 0.17930309449958534
+        },
+        {
+            "id": 888288,
+            "weight": 0.16390177548925192
+        },
+        {
+            "id": 1118277,
+            "weight": 0.16316457025610032
+        },
+        {
+            "id": 880467,
+            "weight": 0.16125614587090056
+        },
+        {
+            "id": 13305635,
+            "weight": 0.15022171702066264
+        },
+        {
+            "id": 893858,
+            "weight": 0.14417419796060316
+        },
+        {
+            "id": 849353,
+            "weight": 0.10768703942399085
+        }
+    ],
+    "videostarttime": {
+        "1148141": null
+    },
+    "videolink": null,
+    "keywords": {
+        "Raadsvoorstel Begroting": 1.9977134700191637,
+        "Samen Leren": 1.9968131692799578,
+        "Wethouder Toub": 0.9968131692799578,
+        "Leren Ouder": 1.9955568117209928,
+        "wijk Gestel": 0.9944512587062486,
+        "Pilot OuderWijs": 1.9940124569368791,
+        "Toub zegt": 0.9922565679365212,
+        "resultaten": 0.9550880231213544,
+        "Samen": 1.9522369003446032,
+        "Begroting": 1.9522369003446032,
+        "Leren": 1.933490348926025,
+        "Ouder": 1.933490348926025,
+        "Toub": 0.9334903489260249,
+        "Pilot": 1.9228514046076703,
+        "inzichten": 0.9228514046076703,
+        "zegt": 0.8844689164123877,
+        "raad": 0.8844689164123877,
+        "geïnformeerd": 0.8844689164123877,
+        "wijk": 0.8844689164123877
+    },
+    "svz": null,
+    "afgedaan": "07-01-2025",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

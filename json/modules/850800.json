@@ -1,0 +1,49 @@
+{
+    "module_id": 850800,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": null,
+    "title": "Design Academy - Raadsvoorstel Kadernota 2024",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/850800",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Esselbrugge (Wethouder)",
+    "result": "",
+    "date": "23-05-2023",
+    "meeting_url": {
+        "1096274": "https://raadsinformatie.eindhoven.nl/vergadering/1096274#ai_7491703"
+    },
+    "attachment": null,
+    "parent": 837030,
+    "children": [],
+    "text": "Wethouder Esselbrugge zegt toe:\ndat ze duidelijkheid zal gegeven over wel/geen huisvesting in Eindhoven.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [],
+    "videostarttime": {
+        "1096274": 12343
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_23.05.23_Eindhoven_NC_Meningsvorming.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Kadernota": 1.9925553183866471,
+        "Wethouder Esselbrugge": 0.9873976398760466,
+        "Design Academy": 1.986202801796007,
+        "Esselbrugge zegt": 0.955011371234592,
+        "Academy": 1.9140368224837343,
+        "Kadernota": 1.9140368224837343,
+        "Wethouder": 0.9140368224837344,
+        "Eindhoven": 0.9140368224837344,
+        "Design": 1.8416830712200127,
+        "zegt": 0.7026344174397849,
+        "duidelijkheid": 0.7026344174397849,
+        "huisvesting": 0.7026344174397849
+    },
+    "svz": null,
+    "afgedaan": "12-09-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

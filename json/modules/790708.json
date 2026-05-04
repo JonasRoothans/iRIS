@@ -1,0 +1,88 @@
+{
+    "module_id": 790708,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Leegstandsboete",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/790708",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "01-11-2022",
+    "meeting_url": {
+        "1034745": "https://raadsinformatie.eindhoven.nl/vergadering/1034745#ai_7087333"
+    },
+    "attachment": null,
+    "parent": "ai_7087333",
+    "children": [],
+    "text": "De raad technisch informeren over of het juridisch mogelijk is om opbrengsten uit een leegstandsboete te gebruiken voor investeringen in extra betaalbare woningen en de verduurzaming van woningen.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": "r_7006020",
+            "weight": 0.9625100385782387
+        },
+        {
+            "id": 790707,
+            "weight": 0.5673703730498643
+        },
+        {
+            "id": 973400,
+            "weight": 0.2140460966491162
+        },
+        {
+            "id": 984501,
+            "weight": 0.10438822882100059
+        },
+        {
+            "id": 796519,
+            "weight": 0.10438822882100059
+        },
+        {
+            "id": 984519,
+            "weight": 0.09674944834353733
+        },
+        {
+            "id": 781186,
+            "weight": 0.09179598578701793
+        },
+        {
+            "id": 781185,
+            "weight": 0.0912457834361876
+        },
+        {
+            "id": 850906,
+            "weight": 0.06867570433305187
+        }
+    ],
+    "videostarttime": {
+        "1034745": 3871
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_01.11.22_NC_Eindhoven_CIE.mp4/playlist.m3u8",
+    "keywords": {
+        "raad technisch": 0.9642844799006663,
+        "technisch informeren": 0.9642844799006663,
+        "extra betaalbare": 0.9642844799006663,
+        "betaalbare woningen": 0.9474048486698453,
+        "Leegstandsboete": 1.8654616488366833,
+        "woningen": 0.8654616488366833,
+        "raad": 0.8143015634365182,
+        "informeren": 0.8143015634365182,
+        "juridisch": 0.8143015634365182,
+        "opbrengsten": 0.8143015634365182,
+        "gebruiken": 0.8143015634365182,
+        "investeringen": 0.8143015634365182,
+        "extra": 0.8143015634365182,
+        "verduurzaming": 0.8143015634365182
+    },
+    "svz": null,
+    "afgedaan": "17-01-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

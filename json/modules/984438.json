@@ -1,0 +1,51 @@
+{
+    "module_id": 984438,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Medewerkersvredenheidsonderzoek - Raadsvoorstel Begroting 2025",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/984438",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "29-10-2024",
+    "meeting_url": {
+        "1148141": "https://raadsinformatie.eindhoven.nl/vergadering/1148141#ai_8729567"
+    },
+    "attachment": null,
+    "parent": 975511,
+    "children": [],
+    "text": "Wethouder Verhees zegt toe dat dit is uitgevoerd. Terugkoppeling komt naar de raad",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 879000,
+            "weight": 0.17660690499096468
+        }
+    ],
+    "videostarttime": {
+        "1148141": null
+    },
+    "videolink": null,
+    "keywords": {
+        "Raadsvoorstel Begroting": 1.9904913876904107,
+        "Wethouder Verhees": 0.9843952930436723,
+        "Medewerkersvredenheidsonderzoek": 1.9410006237031718,
+        "Verhees zegt": 0.9394310778450328,
+        "Begroting": 1.9029482086059646,
+        "uitgevoerd": 0.7994920302806434,
+        "zegt": 0.6392688949833367,
+        "Terugkoppeling komt": 0.5543944983562055,
+        "raad": 0.5344664897230191
+    },
+    "svz": null,
+    "afgedaan": "10-12-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

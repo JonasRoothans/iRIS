@@ -1,0 +1,153 @@
+{
+    "module_id": 790709,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Organisatieontwikkelingen n.a.v. peilstokonderzoek",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/790709",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "01-11-2022",
+    "meeting_url": {
+        "1034745": "https://raadsinformatie.eindhoven.nl/vergadering/1034745#ai_7087333"
+    },
+    "attachment": null,
+    "parent": "ai_7087333",
+    "children": [],
+    "text": "Begin 2023 ontvangt de raad:- een ontwikkelstrategie over verbeterslagen in de organisatie;- en een E-visie over de architectuur van de systemen. Hierin staat de huidige stand van zaken, verbetervoorstellen en inzicht in wat nodig is om de systemen, privacyvraagstuk en informatiebeveiliging op orde te krijgen en te houden.Over beide ontwikkelingen wordt een discussie met de raad gepland.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1031043,
+            "weight": 0.37765567864965666
+        },
+        {
+            "id": 973929,
+            "weight": 0.3408725148827889
+        },
+        {
+            "id": 1009118,
+            "weight": 0.2929164095067634
+        },
+        {
+            "id": 870858,
+            "weight": 0.2899783859539895
+        },
+        {
+            "id": 873163,
+            "weight": 0.21131574004181403
+        },
+        {
+            "id": 777000,
+            "weight": 0.16325233220218394
+        },
+        {
+            "id": 870773,
+            "weight": 0.1621881008021377
+        },
+        {
+            "id": 936160,
+            "weight": 0.14640160454742415
+        },
+        {
+            "id": 850771,
+            "weight": 0.1385433105566639
+        },
+        {
+            "id": 996972,
+            "weight": 0.13735706423945618
+        },
+        {
+            "id": 11765920,
+            "weight": 0.1348828856347544
+        },
+        {
+            "id": 1129193,
+            "weight": 0.13448976427900464
+        },
+        {
+            "id": 1117281,
+            "weight": 0.1333272286662751
+        },
+        {
+            "id": 1125914,
+            "weight": 0.13331590768398213
+        },
+        {
+            "id": 1095839,
+            "weight": 0.12925584372053012
+        },
+        {
+            "id": 1140925,
+            "weight": 0.12653447747105975
+        },
+        {
+            "id": 867137,
+            "weight": 0.10743655895897727
+        },
+        {
+            "id": 1019862,
+            "weight": 0.10615960710884138
+        },
+        {
+            "id": 1022082,
+            "weight": 0.10469490352664619
+        },
+        {
+            "id": 912028,
+            "weight": 0.10195451935084403
+        },
+        {
+            "id": 830966,
+            "weight": 0.0994936380794132
+        },
+        {
+            "id": 950549,
+            "weight": 0.09838950823921445
+        },
+        {
+            "id": 989740,
+            "weight": 0.08740501736344493
+        }
+    ],
+    "videostarttime": {
+        "1034745": 3871
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_01.11.22_NC_Eindhoven_CIE.mp4/playlist.m3u8",
+    "keywords": {
+        "peilstokonderzoek Begin": 0.9956239666228148,
+        "raad gepland": 0.9589701245618413,
+        "Begin": 0.9512191276473811,
+        "systemen": 0.9474260637507057,
+        "E-visie": 0.9422838441881445,
+        "Organisatieontwikkelingen": 1.930154452434737,
+        "raad": 0.9224405319550666,
+        "ontvangt": 0.9106828776646961,
+        "organisatie": 0.9106828776646961,
+        "huidige stand": 0.9001975248697119,
+        "ontwikkelstrategie": 0.889577769082288,
+        "verbeterslagen": 0.889577769082288,
+        "architectuur": 0.889577769082288,
+        "zaken": 0.7459190011569088,
+        "privacyvraagstuk": 0.7459190011569088,
+        "staat": 0.6987595347625166,
+        "inzicht": 0.6987595347625166,
+        "nodig": 0.6987595347625166,
+        "informatiebeveiliging": 0.6987595347625166,
+        "orde": 0.6987595347625166,
+        "krijgen": 0.6987595347625166,
+        "houden.Over": 0.6987595347625166,
+        "discussie": 0.6987595347625166
+    },
+    "svz": null,
+    "afgedaan": "13-06-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

@@ -1,0 +1,106 @@
+{
+    "module_id": 817885,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Sociale huurwoningen toewijzen via een puntensysteem (Vraag V2)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/817885",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "24-01-2023",
+    "meeting_url": {
+        "1013447": "https://raadsinformatie.eindhoven.nl/vergadering/1013447#ai_6964807"
+    },
+    "attachment": null,
+    "parent": "ai_6964807",
+    "children": [],
+    "text": "Wethouder Verhees zegt toe dat de ontwikkelingen in Amsterdam m.b.t. het toewijzen van sociale huurwoningen via een puntensysteem worden gevolgd en eventueel nuttige uitkomsten voor Eindhoven worden meegenomen in het herzien van de huisvestingsverordening aan het einde van 2023.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 891729,
+            "weight": 1.8632876717206182
+        },
+        {
+            "id": 1035731,
+            "weight": 0.34390047770295057
+        },
+        {
+            "id": 890090,
+            "weight": 0.34349245780702004
+        },
+        {
+            "id": 992588,
+            "weight": 0.205724734055805
+        },
+        {
+            "id": 890084,
+            "weight": 0.17035966043008402
+        },
+        {
+            "id": 1022977,
+            "weight": 0.11715760064035383
+        },
+        {
+            "id": 1104187,
+            "weight": 0.08641057159829861
+        },
+        {
+            "id": 1140576,
+            "weight": 0.08200435903545555
+        },
+        {
+            "id": 861368,
+            "weight": 0.07401476079488953
+        },
+        {
+            "id": 925552,
+            "weight": 0.06498493676784967
+        },
+        {
+            "id": 1012995,
+            "weight": 0.06438418574287766
+        },
+        {
+            "id": 16588987,
+            "weight": 0.06175591386842636
+        }
+    ],
+    "videostarttime": {
+        "1013447": 1232
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_24.01.23_Eindhoven_NC_Raadsvergadering.mp4/playlist.m3u8",
+    "keywords": {
+        "Wethouder Verhees": 0.9960088148791948,
+        "Verhees zegt": 0.9895613119320202,
+        "Sociale huurwoningen": 1.9892327690262288,
+        "eventueel nuttige": 0.980065352374687,
+        "nuttige uitkomsten": 0.980065352374687,
+        "huurwoningen via": 0.9784655380524575,
+        "toewijzen via": 1.9719723899182129,
+        "Vraag": 1.9651862280621653,
+        "Amsterdam": 0.9462034868739245,
+        "Sociale": 1.9274043654499364,
+        "via": 1.9274043654499364,
+        "puntensysteem": 1.9274043654499364,
+        "Eindhoven": 0.9261045250666015,
+        "zegt": 0.8601964791213301,
+        "ontwikkelingen": 0.8601964791213301,
+        "gevolgd": 0.8601964791213301,
+        "nuttige": 0.8601964791213301,
+        "meegenomen": 0.8601964791213301,
+        "herzien": 0.8601964791213301,
+        "huisvestingsverordening": 0.8601964791213301
+    },
+    "svz": null,
+    "afgedaan": "28-03-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

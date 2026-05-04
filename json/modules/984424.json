@@ -1,0 +1,110 @@
+{
+    "module_id": 984424,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230014,
+    "title": "Verduurzaming gemeentepanden - Raadsvoorstel Begroting 2025",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/984424",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "R. Thijs (Wethouder)",
+    "result": "",
+    "date": "29-10-2024",
+    "meeting_url": {
+        "1148141": "https://raadsinformatie.eindhoven.nl/vergadering/1148141#ai_8729567"
+    },
+    "attachment": null,
+    "parent": 975511,
+    "children": [],
+    "text": "Wethouder Thijs zegt toe dat er een voorstel komt voor een brede aanpak inclusief middelen voor 2026. Mogelijk als onderdeel van het klimaatplan (voor zomer 2025).",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 984412,
+            "weight": 3.988167020983032
+        },
+        {
+            "id": 850874,
+            "weight": 0.3102096368813973
+        },
+        {
+            "id": 889555,
+            "weight": 0.2747334653022268
+        },
+        {
+            "id": 865473,
+            "weight": 0.27199797075164006
+        },
+        {
+            "id": 1000389,
+            "weight": 0.1369310472755463
+        },
+        {
+            "id": "a_7746581",
+            "weight": 0.13154271870862838
+        },
+        {
+            "id": 943628,
+            "weight": 0.06741286012293203
+        },
+        {
+            "id": 1076215,
+            "weight": 0.06193770257270013
+        },
+        {
+            "id": 779530,
+            "weight": 0.05842354783182402
+        },
+        {
+            "id": 984178,
+            "weight": 0.052911676484920775
+        },
+        {
+            "id": 1009564,
+            "weight": 0.0469169508573425
+        },
+        {
+            "id": 791808,
+            "weight": 0.04300625284585975
+        },
+        {
+            "id": 861372,
+            "weight": 0.03756595979281224
+        }
+    ],
+    "videostarttime": {
+        "1148141": null
+    },
+    "videolink": null,
+    "keywords": {
+        "Raadsvoorstel Begroting": 1.9963670520934393,
+        "Wethouder Thijs": 0.9950738088573137,
+        "Verduurzaming gemeentepanden": 1.9864424373819465,
+        "Thijs zegt": 0.9859817169773931,
+        "voorstel komt": 0.9703575153526894,
+        "brede aanpak": 0.9703575153526894,
+        "aanpak inclusief": 0.9703575153526894,
+        "inclusief middelen": 0.9703575153526894,
+        "Begroting": 1.9398352480992525,
+        "Thijs": 0.9185230124237733,
+        "Verduurzaming": 1.8843444175044812,
+        "gemeentepanden": 1.8843444175044812,
+        "zegt": 0.8303264779883116,
+        "komt": 0.8303264779883116,
+        "brede": 0.8303264779883116,
+        "aanpak": 0.8303264779883116,
+        "middelen": 0.8303264779883116,
+        "klimaatplan": 0.6876578807043846,
+        "zomer": 0.6876578807043846,
+        "onderdeel": 0.5848960630161828
+    },
+    "svz": "in behandeling ",
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

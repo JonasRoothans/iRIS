@@ -1,0 +1,157 @@
+{
+    "module_id": 15003842,
+    "vote_id": null,
+    "member_id": [
+        194495
+    ],
+    "party_list": [
+        "Partij voor de Dieren"
+    ],
+    "poho_id": [],
+    "title": "Rondvraag 2 - BuitenBeter app, niet zo beter (PvdD)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "07-01-2025",
+    "meeting_url": {
+        "1253869": "https://raadsinformatie.eindhoven.nl/vergadering/1253866/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://api.notubiz.nl/document/15003842/1",
+    "pdf_text": " \n \n \n \nRondvraag   \nBuiten Beter app, niet zo beter                         \n \nDe laatste maanden horen wij veel klachten over de BuitenBeter app. De \nmeldingen worden niet of traag afgehandeld en er vindt nauwelijks  terugkoppeling \nplaats. De late afhandeling van deze klachten kan vaak ook tot meer overlast lijden \nbijvoorbeeld als afval lang op een plek blijft  liggen, bepaalde stoffen het milieu \ninkomen, of er onveilige situaties ontstaan voor mensen.  \n \n1. Is het college bekend met de klachten over de BuitenBeter App?  \n2. Zoja, kan het college aangeven wat de reden is van deze slechte \nafhandeling en wat zij hieraan gaat doen?  \n3. Indien het college niet bekend is met deze klachten is zij bereid om hier \nverder onderzoek naar te doen?  \n \n \nEindhoven, 07-01-2025  \n \n \nDe leden van de raad,  \n \nVirginia Jonkers  \n \n \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 1124535,
+            "weight": 0.3185608940456993
+        },
+        {
+            "id": 867113,
+            "weight": 0.1859005909782624
+        },
+        {
+            "id": 1118239,
+            "weight": 0.17251707467436642
+        },
+        {
+            "id": 879394,
+            "weight": 0.15036857772023762
+        },
+        {
+            "id": 850149,
+            "weight": 0.1478017409654042
+        },
+        {
+            "id": 14570515,
+            "weight": 0.10855782374258068
+        },
+        {
+            "id": 956438,
+            "weight": 0.07911616781596821
+        },
+        {
+            "id": 888437,
+            "weight": 0.07550811239521776
+        },
+        {
+            "id": 1121929,
+            "weight": 0.07535631465193866
+        },
+        {
+            "id": 898863,
+            "weight": 0.07030988258715364
+        },
+        {
+            "id": 1117830,
+            "weight": 0.06501722119843822
+        },
+        {
+            "id": 1033061,
+            "weight": 0.05900484876549315
+        },
+        {
+            "id": 14928655,
+            "weight": 0.05713779550803222
+        },
+        {
+            "id": 1014957,
+            "weight": 0.05511964797731224
+        },
+        {
+            "id": 882987,
+            "weight": 0.053397204421378054
+        },
+        {
+            "id": 1133036,
+            "weight": 0.0450515752605523
+        },
+        {
+            "id": 1146306,
+            "weight": 0.041624883684215394
+        },
+        {
+            "id": 14022775,
+            "weight": 0.04090060253888495
+        },
+        {
+            "id": 1140875,
+            "weight": 0.040834141109880144
+        },
+        {
+            "id": 795268,
+            "weight": 0.03802450598136107
+        }
+    ],
+    "videostarttime": {
+        "1253869": 738
+    },
+    "videolink": null,
+    "keywords": {
+        "BuitenBeter app": 1.9828345794162292,
+        "laatste maanden": 0.9665071538445605,
+        "maanden horen": 0.9665071538445605,
+        "Rondvraag": 1.9648657847585005,
+        "app": 1.9551116324130065,
+        "klachten": 0.9083419138432535,
+        "PvdD": 1.871864875046429,
+        "college": 0.8600696628938764,
+        "Virginia Jonkers": 0.8540121385614867,
+        "laatste": 0.8199793647447415,
+        "horen": 0.8199793647447415,
+        "terugkoppeling plaats": 0.7991824237879805,
+        "traag afgehandeld": 0.7697456611135252,
+        "vindt nauwelijks": 0.7697456611135252,
+        "nauwelijks terugkoppeling": 0.7697456611135252,
+        "afhandeling": 0.7563140655821816,
+        "bekend": 0.7397764872948739,
+        "college bekend": 0.720443880049565,
+        "Zoja": 0.7112622757285574,
+        "blijft liggen": 0.6632851475202559,
+        "bepaalde stoffen": 0.6632851475202559,
+        "milieu inkomen": 0.6632851475202559,
+        "Virginia": 0.6430820708055316,
+        "Jonkers": 0.6430820708055316,
+        "overlast lijden": 0.6169563491617946,
+        "plek blijft": 0.6169563491617946,
+        "onveilige situaties": 0.6169563491617946,
+        "situaties ontstaan": 0.6169563491617946,
+        "meldingen": 0.5673801337835287,
+        "traag": 0.5673801337835287,
+        "vindt": 0.5673801337835287,
+        "bepaalde": 0.5213508306967691,
+        "inkomen": 0.5213508306967691
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194495,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1253869
+    ]
+}

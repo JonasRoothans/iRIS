@@ -1,0 +1,119 @@
+{
+    "module_id": 973397,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230019,
+    "title": "Nadere toelichting - Raadsvoorstel Planoptimalisatie VDMA",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/973397",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. van Lanschot (Wethouder)",
+    "result": "",
+    "date": "19-09-2024",
+    "meeting_url": {
+        "1148108": "https://raadsinformatie.eindhoven.nl/vergadering/1148108#ai_8651464"
+    },
+    "attachment": null,
+    "parent": 958754,
+    "children": [],
+    "text": "Wethouder Van Lanschot zegt toe met een nadere toelichting te komen, waarmee nogmaals uitgelegd wordt waarom short stay hier daadwerkelijk nodig en passend is.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 973400,
+            "weight": 1.7674284765972081
+        },
+        {
+            "id": 973404,
+            "weight": 1.7628113614498588
+        },
+        {
+            "id": "o_8726235",
+            "weight": 1.4363585103314513
+        },
+        {
+            "id": 997118,
+            "weight": 0.44176971933753695
+        },
+        {
+            "id": 975790,
+            "weight": 0.22053644616534493
+        },
+        {
+            "id": 975788,
+            "weight": 0.21941580812035355
+        },
+        {
+            "id": 1023820,
+            "weight": 0.20551656756837386
+        },
+        {
+            "id": 1000793,
+            "weight": 0.19642982504383574
+        },
+        {
+            "id": 848607,
+            "weight": 0.0865620221159843
+        },
+        {
+            "id": 1055164,
+            "weight": 0.08346263321720647
+        },
+        {
+            "id": 902042,
+            "weight": 0.07422060637356831
+        },
+        {
+            "id": 836957,
+            "weight": 0.0706895464365824
+        },
+        {
+            "id": 1013625,
+            "weight": 0.06544167109374904
+        },
+        {
+            "id": 11875831,
+            "weight": 0.05732360312952829
+        },
+        {
+            "id": 1103191,
+            "weight": 0.053291893561495815
+        }
+    ],
+    "videostarttime": {
+        "1148108": 2355
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_19.09.24_NC_Eindhoven_CIE2.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Planoptimalisatie": 1.9942255759236294,
+        "Planoptimalisatie VDMA": 1.9913860727695791,
+        "VDMA Wethouder": 0.9913860727695792,
+        "Lanschot zegt": 0.9829242431044253,
+        "Nadere toelichting": 1.9797144483111673,
+        "waarmee nogmaals": 0.9794166714683752,
+        "nogmaals uitgelegd": 0.9658687051637375,
+        "short stay": 0.9658687051637375,
+        "daadwerkelijk nodig": 0.9658687051637375,
+        "Raadsvoorstel": 1.9378744897269777,
+        "VDMA": 1.9075859254188583,
+        "Nadere": 1.901271501274267,
+        "komen": 0.8889857844605916,
+        "waarmee": 0.8889857844605916,
+        "zegt": 0.8183277722563624,
+        "nogmaals": 0.8183277722563624,
+        "uitgelegd": 0.8183277722563624,
+        "short": 0.8183277722563624,
+        "stay": 0.8183277722563624,
+        "nodig": 0.8183277722563624,
+        "passend": 0.8183277722563624
+    },
+    "svz": null,
+    "afgedaan": "19-11-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

@@ -1,0 +1,176 @@
+{
+    "module_id": 12865589,
+    "vote_id": null,
+    "member_id": [
+        195133
+    ],
+    "party_list": [
+        "SP"
+    ],
+    "poho_id": [],
+    "title": "1. Rondvraag - Eindhoven wil haar daklozen niet kennen (SP)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "13-06-2023",
+    "meeting_url": {
+        "1102756": "https://raadsinformatie.eindhoven.nl/vergadering/1013497/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://api.notubiz.nl/document/12865589/2",
+    "pdf_text": " \n \n \nRondvraag  meningsvorming 13 juni 2023: Eindhoven wil haar  \ndaklozen niet  kennen                      \n \nDe SP is geschrokken van het feit dat er geen goed beeld lijkt te zijn van het \naantal dak - en thuislozen in Eindhoven. Op technische vragen van de SP hebben \nwe te horen gekregen dat “ we weten niet hoeveel dak - en thuisloze mensen er in \ntotaliteit in Eindhove n zijn en hoeveel daarvan werken. Wij hebben wel zicht op de \ndak- en thuisloze mensen die zich gemeld hebben bij de gemeente of  \nSpringplank.”  \n \nOp de technische vraag of Eindhoven mee gaat doen met de E THOS1- telling van \nhet Kansfonds2 kregen we tot onze verbazing te horen dat “Eindhoven niet \nmeedoet omdat het een grote tijdsinvestering vraagt.”  \n   \nDat brengt ons tot de volgende vragen:  \n1. Is het college het eens met de SP dat het niet aansluiten bij deze telling  \neen gemiste kans is, aan gezien de gemeente Eindhoven  geen volledig \nbeeld heeft van de doelgroep?  \n2. Gaat het college de registratie in lijn brengen met  ETHOS  of ETHOS -light + \ndreigende dakloosheid ? \n3. Wanneer kan de raad een reëel beeld van de grootte en behoeftes van de \ndoelgroep ver wachten?  \n \nHet lid  van de raad  en/of commissie , \n \nAlex Paauw, commissielid  \n \n \n \n1 European Typology of Homelessness and Housing Exclusion  \n2 https://www.kansfonds.nl/themas/dak -en-thuisloosheid/telling/   \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 794790,
+            "weight": 0.8541791874657346
+        },
+        {
+            "id": 1090088,
+            "weight": 0.6344501717410518
+        },
+        {
+            "id": 1003503,
+            "weight": 0.5173749326852914
+        },
+        {
+            "id": 12866053,
+            "weight": 0.4415150266396982
+        },
+        {
+            "id": 926421,
+            "weight": 0.3905390540607779
+        },
+        {
+            "id": 1125026,
+            "weight": 0.2925206105841679
+        },
+        {
+            "id": 1116686,
+            "weight": 0.22188608899641282
+        },
+        {
+            "id": 13305635,
+            "weight": 0.17907856894044052
+        },
+        {
+            "id": 884801,
+            "weight": 0.17431099492366056
+        },
+        {
+            "id": 15018133,
+            "weight": 0.15559803954846466
+        },
+        {
+            "id": 1028065,
+            "weight": 0.1495963522867407
+        },
+        {
+            "id": 862436,
+            "weight": 0.12134628186177272
+        },
+        {
+            "id": 1042043,
+            "weight": 0.11828855358787436
+        },
+        {
+            "id": 953001,
+            "weight": 0.11590848895783015
+        },
+        {
+            "id": 918140,
+            "weight": 0.11282699381047982
+        },
+        {
+            "id": 1141637,
+            "weight": 0.1015707298864151
+        },
+        {
+            "id": 783640,
+            "weight": 0.09988819227351933
+        },
+        {
+            "id": 1140962,
+            "weight": 0.09815332212239525
+        },
+        {
+            "id": 1062577,
+            "weight": 0.09490279743387779
+        },
+        {
+            "id": 930155,
+            "weight": 0.08964490297370525
+        },
+        {
+            "id": 16451950,
+            "weight": 0.08937016753346208
+        },
+        {
+            "id": 12866052,
+            "weight": 0.06890018108844925
+        }
+    ],
+    "videostarttime": {
+        "1102756": 9123
+    },
+    "videolink": null,
+    "keywords": {
+        "Eindhoven": 1.963012277328417,
+        "Rondvraag meningsvorming": 0.9188061240237537,
+        "thuisloze mensen": 0.9153771540511646,
+        "dak": 1.9069995540245057,
+        "Rondvraag": 1.902811158620509,
+        "gemeente Eindhoven": 0.8860949747064929,
+        "aantal dak": 0.8688903191594297,
+        "hoeveel dak": 0.8685015493942093,
+        "daklozen": 1.8591217393023136,
+        "kennen": 1.8472718640973669,
+        "beeld": 0.8448001520294117,
+        "telling": 0.8448001520294117,
+        "Alex Paauw": 0.836145325667228,
+        "ETHOS": 0.828611320637653,
+        "European Typology": 0.8262196775881604,
+        "Housing Exclusion": 0.8262196775881604,
+        "gaat": 0.8061998261338879,
+        "horen": 0.7921687294824865,
+        "technische": 0.7789286460797464,
+        "vragen": 0.7699832299060287,
+        "gemeente": 0.7696141069868371,
+        "goed beeld": 0.7601734682597243,
+        "beeld lijkt": 0.7601734682597243,
+        "college": 0.7512802727845773,
+        "doelgroep": 0.7512802727845773,
+        "raad": 0.74475450870451,
+        "horen gekregen": 0.7318416596305268,
+        "Springplank": 0.7140505787062168,
+        "mee gaat": 0.7024711069862267,
+        "daarvan werken": 0.6783314186108276,
+        "Homelessness and": 0.6510915227214369,
+        "and Housing": 0.6510915227214369,
+        "juni": 0.6437749865767486,
+        "Alex": 0.624785131224906,
+        "Paauw": 0.624785131224906,
+        "European": 0.624785131224906,
+        "volgende vragen": 0.6060397111812202,
+        "Typology": 0.6054212124097722,
+        "geschrokken": 0.584545224979631,
+        "feit": 0.584545224979631,
+        "goed": 0.584545224979631,
+        "lijkt": 0.584545224979631,
+        "werken": 0.5215802067372399,
+        "tijdsinvestering vraagt": 0.5019032851949456
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 195133,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1102756
+    ]
+}

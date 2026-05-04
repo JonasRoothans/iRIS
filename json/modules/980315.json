@@ -1,0 +1,132 @@
+{
+    "module_id": 980315,
+    "vote_id": null,
+    "member_id": [
+        194376,
+        194514,
+        194371,
+        194406
+    ],
+    "party_list": [
+        "Volt",
+        "PvdA",
+        "GroenLinks",
+        "D66"
+    ],
+    "poho_id": [],
+    "title": "Beantwoording raadsvragen - m.b.t. Het Stroomhuis (Volt, GL, D66, PvdA)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/4/Raadsvragen/980315",
+    "type": "Raadsvraag",
+    "member": "Annelies Becker, Jacco Rubenkamp, Sep Wittenbols en Rosa van den Nieuwenhof",
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "18-10-2024",
+    "meeting_url": null,
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/14657707/1?connection_type=17&connection_id=11060521": "Vraag",
+        "https://raadsinformatie.eindhoven.nl/document/14727679/1?connection_type=17&connection_id=11091068": "Antwoord"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": " \n \n \nRaadsvragen - m.b.t. Het Stroomhuis  \n \ndatum:  17-10-2024  \n \n \nGeacht college,  \n \n \nHet was een schok voor cultureel Eindhoven: vanochtend 17 oktober \nbereikte ons het verschrikkelijke nieuws dat Het Stroomhuis is \nafgebrand. De initiatiefnemers, de makers, de bezoekers iedereen  die \ndeze culturele hotspot  een warm hart toedra agt, voel t onmacht.  Dat \ngevoel van onmacht delen de indieners . Het Stroomhuis was meer dan \nzomaar een plek; het was een broedplaats voor de rafelranden die \nEindhoven zo kleurrijk maken. Hier werden culturele grenzen verkend, \ntaboes doorbroken en nieuwe vormen van expressie gevonden. Met het \nverlies van Het Stroomhui s is Eindhoven iets verloren wat niemand kwijt \nwilde.  \n \nJuist nu, met de ontwikkelingen rondom KnoopXL en Fellenoord,  lagen \ner plannen voor de toekomst van Het Stroomhuis.  Dat leidt ons tot de \nvolgende vragen:  \n \nRaadsvragen  \n1. Wat was de reactie van het college op dit nieuws?  \n2. Welke stappen  gaat het college nemen voor huisvesting elders \nop korte termijn?  \n3. Wat betekent het gebrek van een officieel huurcontract voor de \nverplichtingen en mogelijkheden van de gemeente richting de \norganisatie van Het Stroomhuis?  \n4. In hoeverre is wederopbouw mogelijk op (grofweg) dezelfde \nlocatie?  \n5. In relatie tot de plannen die er al waren met betrekking tot \nKnoopXL en Fellenoord, hoe wordt de locatie van deze culturele \nhotspot geborgd in de toekomst?  \n \n \n \nNamens de fractie(s),  \n \nJacco Rubenkamp , raadslid  (Volt)  \nAnnelies Becker , raadslid  (D66)  \nRosa van den Nieuwenhof, raadslid (PvdA)  \nSep Wittenbols, raadslid (GroenLinks)  \n \n ",
+    "bst": "24bst01342",
+    "related": [
+        {
+            "id": 1045929,
+            "weight": 0.6544296997239448
+        },
+        {
+            "id": 1094398,
+            "weight": 0.6521616472052351
+        },
+        {
+            "id": 1144068,
+            "weight": 0.6493923381542265
+        },
+        {
+            "id": 982760,
+            "weight": 0.6430760737947889
+        },
+        {
+            "id": 12077315,
+            "weight": 0.2907799527776654
+        },
+        {
+            "id": 901651,
+            "weight": 0.2074530557615272
+        },
+        {
+            "id": 1011395,
+            "weight": 0.19689992644314572
+        },
+        {
+            "id": 1014907,
+            "weight": 0.08518905296641523
+        },
+        {
+            "id": 776972,
+            "weight": 0.08283654822439764
+        },
+        {
+            "id": 802844,
+            "weight": 0.07742185094335849
+        },
+        {
+            "id": 1144423,
+            "weight": 0.07389871913847565
+        },
+        {
+            "id": 12549640,
+            "weight": 0.06655509107694461
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Beantwoording raadsvragen": 1.9759541931935543,
+        "Stroomhuis": 1.969271386749325,
+        "raadsvragen": 1.9522641608976297,
+        "Eindhoven": 0.9134643527568272,
+        "raadslid": 0.9134120489461769,
+        "Volt": 1.862933621767036,
+        "culturele": 0.8622439185814733,
+        "Geacht college": 0.8594162519062287,
+        "Fellenoord": 0.843674732547962,
+        "cultureel Eindhoven": 0.8416264060572415,
+        "college": 0.8362583555688843,
+        "Jacco Rubenkamp": 0.7821119875623199,
+        "Annelies Becker": 0.7821119875623199,
+        "Sep Wittenbols": 0.7821119875623199,
+        "PvdA": 1.7793770539841676,
+        "onmacht": 0.762506084362859,
+        "nieuws": 0.7383214053558369,
+        "hotspot": 0.7337419533121128,
+        "KnoopXL": 0.7245346706306259,
+        "toekomst": 0.7245346706306259,
+        "plannen": 0.7119213603490246,
+        "locatie": 0.7036590032273169,
+        "oktober bereikte": 0.6444041821919495,
+        "verschrikkelijke nieuws": 0.6195027013729345,
+        "Jacco": 0.5770266638055428,
+        "Becker": 0.5770266638055428,
+        "Rosa": 0.5770266638055428,
+        "Nieuwenhof": 0.5770266638055428,
+        "Sep": 0.5770266638055428,
+        "toedra agt": 0.5367641067068895,
+        "vanochtend": 0.5321768964058775,
+        "datum": 0.5019091061698334,
+        "oktober": 0.5019091061698334,
+        "afgebrand": 0.5019091061698334,
+        "bezoekers iedereen": 0.5011870329591761,
+        "warm hart": 0.5011870329591761,
+        "hart toedra": 0.5011870329591761
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194376,
+    "lastScrapeDate": "02-04-2026",
+    "meeting_id": []
+}

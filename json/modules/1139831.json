@@ -1,0 +1,67 @@
+{
+    "module_id": 1139831,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230014,
+    "title": "Heldere criteria overdimensionering",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1139831",
+    "type": "Toezegging",
+    "member": "",
+    "party": "",
+    "poho": "R. Thijs (Wethouder)",
+    "result": "",
+    "date": "03-03-2026",
+    "meeting_url": {
+        "1374927": "https://raadsinformatie.eindhoven.nl/vergadering/1374927#ai_10009992"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": "Wethouder Thijs zegt toe: Heldere criteria op te stellen om binnen 5 jaar de investering van de overdimensionering te kunnen beoordelen.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 977779,
+            "weight": 0.12048446186714987
+        },
+        {
+            "id": 781432,
+            "weight": 0.11358699934982505
+        },
+        {
+            "id": 809927,
+            "weight": 0.11352429777443504
+        },
+        {
+            "id": "a_8568072",
+            "weight": 0.11101085955432288
+        }
+    ],
+    "videostarttime": {
+        "1374927": 15082
+    },
+    "videolink": null,
+    "keywords": {
+        "Heldere criteria": 1.9928449757106448,
+        "Wethouder Thijs": 0.9908229111873481,
+        "Thijs zegt": 0.9812086744887045,
+        "overdimensionering Wethouder": 0.9721975877075211,
+        "Heldere": 1.9672942499647372,
+        "criteria overdimensionering": 1.9348313511048418,
+        "Thijs": 0.9046394436356924,
+        "criteria": 1.8921584116952141,
+        "jaar": 0.8811428565852987,
+        "beoordelen": 0.8811428565852987,
+        "zegt": 0.8065790994832875,
+        "stellen": 0.8065790994832875,
+        "investering": 0.8065790994832875
+    },
+    "svz": "Planning volgt",
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "08-04-2026",
+    "meeting_id": []
+}

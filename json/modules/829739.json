@@ -1,0 +1,106 @@
+{
+    "module_id": 829739,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230022,
+    "title": "Protocol maatschappelijke opvang - Documenten onder geheimhouding m.b.t. Maatschappelijke opvang Fuutlaan 10",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/829739",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Toub (Wethouder)",
+    "result": "",
+    "date": "07-03-2023",
+    "meeting_url": {
+        "1079006": "https://raadsinformatie.eindhoven.nl/vergadering/1079006#ai_7365062"
+    },
+    "attachment": null,
+    "parent": 813324,
+    "children": [],
+    "text": "Wethouder Toub zegt toe:\n\nhet protocol maatschappelijke opvang (uit 2007) in 2023 te herijken.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 890080,
+            "weight": 1.1447403441347945
+        },
+        {
+            "id": 824910,
+            "weight": 0.7701179966334177
+        },
+        {
+            "id": 777622,
+            "weight": 0.7679377971939588
+        },
+        {
+            "id": 977654,
+            "weight": 0.7392100173441009
+        },
+        {
+            "id": 829734,
+            "weight": 0.7246784332450045
+        },
+        {
+            "id": 829743,
+            "weight": 0.6862905522686196
+        },
+        {
+            "id": 891691,
+            "weight": 0.48567004263343216
+        },
+        {
+            "id": 1014011,
+            "weight": 0.3481852543236073
+        },
+        {
+            "id": 1028065,
+            "weight": 0.3168256232295081
+        },
+        {
+            "id": 1037388,
+            "weight": 0.17873854224171687
+        },
+        {
+            "id": 1124827,
+            "weight": 0.17640138960354482
+        },
+        {
+            "id": 824885,
+            "weight": 0.14599787827942762
+        },
+        {
+            "id": 16452187,
+            "weight": 0.13767654826397854
+        },
+        {
+            "id": 1116686,
+            "weight": 0.12929953745885786
+        }
+    ],
+    "videostarttime": {
+        "1079006": 7828
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_07.03.23_NC_Eindhoven_Meningsvorming.mp4/playlist.m3u8",
+    "keywords": {
+        "maatschappelijke opvang": 1.9708151775997247,
+        "Protocol maatschappelijke": 1.9590400653662745,
+        "Wethouder Toub": 0.9456924300920415,
+        "Documenten": 1.932355437212735,
+        "opvang Fuutlaan": 1.9272320951914255,
+        "opvang": 1.8876571243306606,
+        "Toub zegt": 0.8589458041843605,
+        "geheimhouding": 1.8531245182075013,
+        "Protocol": 1.8415093463552066,
+        "Toub": 0.7440673240556659,
+        "herijken": 0.6258099089032378,
+        "zegt": 0.5169923609236631
+    },
+    "svz": null,
+    "afgedaan": "14-11-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

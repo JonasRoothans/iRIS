@@ -1,0 +1,80 @@
+{
+    "module_id": 1045745,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 248564,
+    "title": "Fietsparkeren - Raadsvoorstel Kadernota 2026",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1045745",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "R. Strijk (Wethouder)",
+    "result": "",
+    "date": "13-05-2025",
+    "meeting_url": {
+        "1256605": "https://raadsinformatie.eindhoven.nl/vergadering/1256605#ai_9262973"
+    },
+    "attachment": null,
+    "parent": 1034468,
+    "children": [],
+    "text": "Wethouder Strijk zegt toe als de kadernota wordt aangenomen, volgt een brief over drie mogelijke locaties voor fietsenstallingen inclusief aantallen.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 984173,
+            "weight": 0.43775595152028396
+        },
+        {
+            "id": 1009635,
+            "weight": 0.38681968709953046
+        },
+        {
+            "id": 1117271,
+            "weight": 0.32586670883441926
+        },
+        {
+            "id": 16314362,
+            "weight": 0.19252166583764452
+        },
+        {
+            "id": 1050622,
+            "weight": 0.17376515039035476
+        },
+        {
+            "id": 938795,
+            "weight": 0.1480769982778836
+        }
+    ],
+    "videostarttime": {
+        "1256605": 13274
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_13.05.25_NC_01-EINDHOVEN-RAA.mp4/playlist.m3u8",
+    "keywords": {
+        "Wethouder Strijk": 0.9944446555520121,
+        "Raadsvoorstel Kadernota": 1.9899024562525731,
+        "Strijk zegt": 0.9837989814664826,
+        "inclusief aantallen": 0.9808597720080376,
+        "drie mogelijke": 0.9681962193601596,
+        "mogelijke locaties": 0.9681962193601596,
+        "fietsenstallingen inclusief": 0.9681962193601596,
+        "Fietsparkeren": 1.9494526570124346,
+        "Kadernota": 1.9178439982730446,
+        "aangenomen": 0.8930274509376158,
+        "volgt": 0.8930274509376158,
+        "aantallen": 0.8930274509376158,
+        "zegt": 0.8244338371947252,
+        "brief": 0.8244338371947252,
+        "locaties": 0.8244338371947252,
+        "inclusief": 0.8244338371947252
+    },
+    "svz": null,
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": [
+        1256605
+    ]
+}

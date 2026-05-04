@@ -1,0 +1,85 @@
+{
+    "module_id": 1014013,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Projecten/plannen voor betaalbare woningen - Raadsvoorstel Bindend advies omgevingsvergunning Jacobuskerk, Orionstraat 5",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1014013",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "28-01-2025",
+    "meeting_url": {
+        "1256307": "https://raadsinformatie.eindhoven.nl/vergadering/1256307#ai_8953587"
+    },
+    "attachment": null,
+    "parent": 1009569,
+    "children": [],
+    "text": "Wethouder Verhees zegt toe te kijken of de projecten/plannen voor betaalbare woningen in de buurt, gedeeld kunnen worden met de raad.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1014016,
+            "weight": 4.871291225495679
+        },
+        {
+            "id": 1014018,
+            "weight": 4.86641494331575
+        },
+        {
+            "id": 1009569,
+            "weight": 1.7212374364251168
+        },
+        {
+            "id": 1146335,
+            "weight": 0.6614124145028298
+        },
+        {
+            "id": 1015907,
+            "weight": 0.6365555538324258
+        },
+        {
+            "id": 1015062,
+            "weight": 0.2975908728602492
+        },
+        {
+            "id": 1083889,
+            "weight": 0.280169728287442
+        }
+    ],
+    "videostarttime": {
+        "1256307": 908
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_28.01.25_02-EINDHOVEN-CIE-ONDERTITEL_2025.01.28_195251.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Bindend": 1.9959971424483507,
+        "Wethouder Verhees": 0.9959971424483507,
+        "omgevingsvergunning Jacobuskerk": 1.9923905118139655,
+        "betaalbare woningen": 1.992161081224927,
+        "Bindend advies": 1.9895197066514645,
+        "Verhees zegt": 0.9895197066514646,
+        "advies omgevingsvergunning": 1.9799603253146458,
+        "Orionstraat": 1.9651241665644967,
+        "plannen": 1.964762168666574,
+        "Projecten": 1.947040344861187,
+        "Jacobuskerk": 1.9461201476161438,
+        "woningen": 1.9271339807412375,
+        "Bindend": 1.9260039070593873,
+        "buurt": 0.905528004489154,
+        "gedeeld": 0.905528004489154,
+        "raad": 0.905528004489154,
+        "advies": 1.8598358971669666,
+        "zegt": 0.8598358971669666,
+        "kijken": 0.8598358971669666
+    },
+    "svz": "De nadere toelichting hierover is toegevoegd aan de stukken van de raadsvergadering van 4 februari, bij agenda...  Lees verder ",
+    "afgedaan": "18-02-2025",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

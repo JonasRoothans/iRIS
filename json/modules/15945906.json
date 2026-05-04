@@ -1,0 +1,171 @@
+{
+    "module_id": 15945906,
+    "vote_id": null,
+    "member_id": [
+        194371
+    ],
+    "party_list": [
+        "D66"
+    ],
+    "poho_id": [],
+    "title": "Vraag V5 Vragenhalfuur – Melding van de meldingenkaart (D66)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "09-09-2025",
+    "meeting_url": {
+        "1256323": "https://raadsinformatie.eindhoven.nl/vergadering/1256323/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/15945906/1/Vraag+V5+Vragenhalfuur+%E2%80%93+Melding+van+de+meldingenkaart+%28D66%29?connection_type=1&connection_id=8588220",
+    "pdf_text": " \n \nVragenhalfuur – Melding van de meldingenkaart     V5 \n \nTijdens het reces viel de meldingenkaart op de deurmat. Een mooi \noverzicht van waar je terecht kunt met vragen, zorgen en problemen in \nEindhoven. Helaas ontbreekt de STOP -app in dit overzicht.  \n \nSlachtoffers van straatintimidatie voelen vaak dat zij nergens terecht \nkunnen met hun verhaal. Er is vaak geen bewijs, geen begrip of \nconsequentie voor de dader. Het enige wat wel kan wanneer er helaas \nweer een incident heeft plaatsgevonden, is een melding  maken. Zo \ncreëren we samen bewustwording van de ernst en schaal van het \nprobleem. Het vergt al onze aandacht om een hardnekkig probleem te \nbestrijden.  \n \nEen campagne rondom het bestaan van deze app, hoort daarbij. \nDaarom hebben we de volgende vragen aan het college:  \n \n1. Waarom ontbreekt de STOP -app op de meldingenkaart?  \n2. Kan de STOP -app de volgende keer wel worden meegenomen \nop de meldingenkaart?  \n \nEindhoven, 9 september 2025  \n \nLid van de raad,   \nAnnelies Becker, (D66)  \n \n  \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 777010,
+            "weight": 0.22863625467189694
+        },
+        {
+            "id": 1114568,
+            "weight": 0.1948908146561799
+        },
+        {
+            "id": 1000381,
+            "weight": 0.15758454128629415
+        },
+        {
+            "id": 955577,
+            "weight": 0.15627531133853653
+        },
+        {
+            "id": 15169664,
+            "weight": 0.117982181245269
+        },
+        {
+            "id": 856604,
+            "weight": 0.08803346815376191
+        },
+        {
+            "id": 13305197,
+            "weight": 0.08425161347446451
+        },
+        {
+            "id": 966136,
+            "weight": 0.08359308092558664
+        },
+        {
+            "id": 12506006,
+            "weight": 0.07591419066294197
+        },
+        {
+            "id": 1122575,
+            "weight": 0.07237522662206874
+        },
+        {
+            "id": 851544,
+            "weight": 0.07095297110134581
+        },
+        {
+            "id": 820253,
+            "weight": 0.07071659984361368
+        },
+        {
+            "id": 16166531,
+            "weight": 0.06958650934504389
+        },
+        {
+            "id": 13124449,
+            "weight": 0.06906167145498678
+        },
+        {
+            "id": 851200,
+            "weight": 0.058708770983760754
+        },
+        {
+            "id": 1127199,
+            "weight": 0.05507015111105801
+        },
+        {
+            "id": 791703,
+            "weight": 0.05473624399437866
+        },
+        {
+            "id": 865499,
+            "weight": 0.05124124035186286
+        },
+        {
+            "id": 979133,
+            "weight": 0.04596643941040041
+        },
+        {
+            "id": 889102,
+            "weight": 0.04549066946498247
+        },
+        {
+            "id": "a_7640214",
+            "weight": 0.041158044863079155
+        },
+        {
+            "id": 781624,
+            "weight": 0.04114822133551622
+        },
+        {
+            "id": 935250,
+            "weight": 0.03883289789380347
+        },
+        {
+            "id": 861859,
+            "weight": 0.03515760393070235
+        },
+        {
+            "id": 14963289,
+            "weight": 0.032238285514964146
+        },
+        {
+            "id": 975785,
+            "weight": 0.029267514189871537
+        }
+    ],
+    "videostarttime": {
+        "1256323": 971
+    },
+    "videolink": null,
+    "keywords": {
+        "Vragenhalfuur": 1.9792838370364203,
+        "reces viel": 0.9639607148506104,
+        "STOP": 0.9145941014691635,
+        "Melding": 1.9139601881846482,
+        "meldingenkaart": 1.9135523465673625,
+        "app": 0.872021957881486,
+        "Vraag": 1.8506766048670176,
+        "deurmat": 0.8322882222686896,
+        "reces": 0.8134909232634768,
+        "viel": 0.8134909232634768,
+        "Eindhoven": 0.8111642976109794,
+        "overzicht": 0.8068073261415778,
+        "Annelies Becker": 0.7910457499561289,
+        "Helaas": 0.7541808204821009,
+        "ontbreekt": 0.7400153454033793,
+        "vragen": 0.7348091343342754,
+        "probleem": 0.7220362423981084,
+        "volgende": 0.7177575729667854,
+        "nergens terecht": 0.6692704874829275,
+        "zorgen": 0.588288421381151,
+        "Lid": 0.5842610916950544,
+        "Becker": 0.5842610916950544,
+        "mooi": 0.5567092524904342
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194371,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1256323
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "module_id": 14534175,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Rondvraag 1 - Bijlage - Bestuurlijk besluit dossier Prinsejagt def.",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "17-09-2024",
+    "meeting_url": {
+        "1148108": "https://raadsinformatie.eindhoven.nl/vergadering/1148105/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://api.notubiz.nl/document/14534175/1",
+    "pdf_text": "",
+    "bst": null,
+    "related": [
+        {
+            "id": 11766401,
+            "weight": 0.8307920566507631
+        },
+        {
+            "id": 966136,
+            "weight": 0.5043471963987961
+        },
+        {
+            "id": "a_8420728",
+            "weight": 0.27362155513022796
+        },
+        {
+            "id": 1128790,
+            "weight": 0.2345181553913322
+        }
+    ],
+    "videostarttime": {
+        "1148108": 669
+    },
+    "videolink": null,
+    "keywords": {
+        "Prinsejagt def": 1.9765416191248102,
+        "Bestuurlijk besluit": 1.9737669269624916,
+        "Bijlage": 1.9696036283675864,
+        "Rondvraag": 1.9550880231213545,
+        "dossier Prinsejagt": 1.955011371234592,
+        "besluit dossier": 1.9029960071342575,
+        "def": 1.8416830712200127,
+        "besluit": 1.702634417439785,
+        "dossier": 1.702634417439785
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1148108
+    ]
+}

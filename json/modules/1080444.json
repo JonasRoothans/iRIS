@@ -1,0 +1,41 @@
+{
+    "module_id": 1080444,
+    "vote_id": 9611951,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Aangekondigde Motie M4 - Evenementen op de Markt (D66)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/moties_en_toezeggingen/1080444?parent_event=1256323",
+    "type": "Moties",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "aangenomen",
+    "date": "09-09-2025",
+    "meeting_url": {
+        "1256323": "https://raadsinformatie.eindhoven.nl/vergadering/1256323/Aangekondigde%20Motie%20M4%20-%20Evenementen%20op%20de%20Markt%20%28D66%29 09-09-2025#voting_9611951"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Aangekondigde Motie": 1.986202801796007,
+        "Motie": 1.9140368224837343,
+        "Evenementen": 1.9140368224837343,
+        "Markt": 1.9140368224837343
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-12-2025",
+    "meeting_id": [
+        1256323
+    ]
+}

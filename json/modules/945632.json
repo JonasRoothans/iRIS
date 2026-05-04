@@ -1,0 +1,99 @@
+{
+    "module_id": 945632,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230019,
+    "title": "Maatschappelijke infrastructuur - Raadsvoorstel Kadernota 2025",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/945632",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. van Lanschot (Wethouder)",
+    "result": "",
+    "date": "21-05-2024",
+    "meeting_url": {
+        "1147935": "https://raadsinformatie.eindhoven.nl/vergadering/1147935#ai_8359842"
+    },
+    "attachment": null,
+    "parent": 933747,
+    "children": [],
+    "text": "Wethouder van Lanschot zegt toe  en houdt de vinger aan de pols en bestendigt de lijn om  het weerstandsvermogen in te zetten iendien nodig.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 991544,
+            "weight": 1.3086087918356653
+        },
+        {
+            "id": 997013,
+            "weight": 0.442165238273309
+        },
+        {
+            "id": 892084,
+            "weight": 0.44148655628412947
+        },
+        {
+            "id": 905577,
+            "weight": 0.4402129942783639
+        },
+        {
+            "id": 920922,
+            "weight": 0.43991996471309275
+        },
+        {
+            "id": 891752,
+            "weight": 0.43866340969804496
+        },
+        {
+            "id": "r_9119780",
+            "weight": 0.43216811571689473
+        },
+        {
+            "id": 945736,
+            "weight": 0.21946405524519927
+        },
+        {
+            "id": 891695,
+            "weight": 0.18351616213923186
+        },
+        {
+            "id": 1128296,
+            "weight": 0.14000217269520962
+        },
+        {
+            "id": 1150885,
+            "weight": 0.11804916512487423
+        }
+    ],
+    "videostarttime": {
+        "1147935": 11473
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_21.05.24_NC_Eindhoven_Raad.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Kadernota": 1.9977134700191637,
+        "Maatschappelijke infrastructuur": 1.9940124569368791,
+        "Lanschot zegt": 0.9922565679365212,
+        "iendien nodig": 0.9910067820787357,
+        "zetten iendien": 0.9864720047380254,
+        "Kadernota": 1.9522369003446032,
+        "Wethouder": 0.9522369003446032,
+        "infrastructuur": 1.9228514046076703,
+        "nodig": 0.9228514046076703,
+        "zegt": 0.8844689164123877,
+        "houdt": 0.8844689164123877,
+        "vinger": 0.8844689164123877,
+        "pols": 0.8844689164123877,
+        "bestendigt": 0.8844689164123877,
+        "lijn": 0.8844689164123877,
+        "weerstandsvermogen": 0.8844689164123877,
+        "zetten": 0.8844689164123877
+    },
+    "svz": null,
+    "afgedaan": "03-06-2025",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

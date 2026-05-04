@@ -1,0 +1,140 @@
+{
+    "module_id": 881030,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230013,
+    "title": "Menselijk kapitaal - Commissienotitie Regionale Visie Werklocaties",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/881030",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Steenbakkers (Wethouder)",
+    "result": "",
+    "date": "26-09-2023",
+    "meeting_url": {
+        "1142076": "https://raadsinformatie.eindhoven.nl/vergadering/1142076#ai_7818767"
+    },
+    "attachment": null,
+    "parent": 873163,
+    "children": [],
+    "text": "Wethouder Steenbakkers zegt toe:\nmeer nadruk op het menselijk kapitaal (o.a. voor mensen met een afstand tot de arbeidsmarkt) en het benadrukken en concretiseren van de breedte van de MKB mee te nemen als inbreng voor de visie;",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 881033,
+            "weight": 2.791632734766226
+        },
+        {
+            "id": 881034,
+            "weight": 2.7909995923836397
+        },
+        {
+            "id": 1046082,
+            "weight": 1.3766937342399708
+        },
+        {
+            "id": 894988,
+            "weight": 1.1372136062345537
+        },
+        {
+            "id": 984905,
+            "weight": 0.8532106964879735
+        },
+        {
+            "id": 873163,
+            "weight": 0.5683798245236689
+        },
+        {
+            "id": 1043848,
+            "weight": 0.5309354191307131
+        },
+        {
+            "id": 887576,
+            "weight": 0.38907244791234236
+        },
+        {
+            "id": 948254,
+            "weight": 0.30582816385673256
+        },
+        {
+            "id": 883443,
+            "weight": 0.2609476715250501
+        },
+        {
+            "id": 1009567,
+            "weight": 0.14221883865639623
+        },
+        {
+            "id": 864025,
+            "weight": 0.13082369552824316
+        },
+        {
+            "id": 792301,
+            "weight": 0.12112763855257778
+        },
+        {
+            "id": 851544,
+            "weight": 0.11821174623603448
+        },
+        {
+            "id": 1046816,
+            "weight": 0.11647016093011042
+        },
+        {
+            "id": 942835,
+            "weight": 0.11477131358314029
+        },
+        {
+            "id": 792202,
+            "weight": 0.10448261293966038
+        },
+        {
+            "id": 925506,
+            "weight": 0.0891525386468104
+        },
+        {
+            "id": 974516,
+            "weight": 0.08347986758606368
+        },
+        {
+            "id": 15747142,
+            "weight": 0.0802012564714311
+        }
+    ],
+    "videostarttime": {
+        "1142076": 655
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_26.09.23_Eindhoven_meningsvormingCK.mp4/playlist.m3u8",
+    "keywords": {
+        "Commissienotitie Regionale": 1.9969805619603023,
+        "Menselijk kapitaal": 1.9967075315939562,
+        "Werklocaties Wethouder": 0.9960537201904824,
+        "Wethouder Steenbakkers": 0.9960537201904824,
+        "Regionale Visie": 1.9938911815635043,
+        "Visie Werklocaties": 1.9938911815635043,
+        "Steenbakkers zegt": 0.9928744486576183,
+        "MKB mee": 0.9928744486576183,
+        "kapitaal": 1.970301508515406,
+        "Visie": 1.9515779060703795,
+        "Menselijk": 1.9449310490502232,
+        "Wethouder": 0.9373041636189465,
+        "MKB": 0.9373041636189465,
+        "arbeidsmarkt": 0.9188341998937524,
+        "zegt": 0.8871514043326156,
+        "nadruk": 0.8871514043326156,
+        "afstand": 0.8871514043326156,
+        "concretiseren": 0.8871514043326156,
+        "breedte": 0.8871514043326156,
+        "mee": 0.8871514043326156,
+        "nemen": 0.8871514043326156,
+        "inbreng": 0.8871514043326156
+    },
+    "svz": "De wethouder heeft dit ingebracht en hierover is raad in november 2023 met collegebrief geïnformeerd Teru...  Lees verder ",
+    "afgedaan": "06-02-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

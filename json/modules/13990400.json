@@ -1,0 +1,138 @@
+{
+    "module_id": 13990400,
+    "vote_id": null,
+    "member_id": [
+        194514
+    ],
+    "party_list": [
+        "PvdA"
+    ],
+    "poho_id": [],
+    "title": "Vraag V6 Vragenhalfuur - Huisvesting Design Academy Eindhoven (PvdA)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "02-04-2024",
+    "meeting_url": {
+        "1147900": "https://raadsinformatie.eindhoven.nl/vergadering/1147900/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/13990400/1/Vraag+V6+Vragenhalfuur+-+Huisvesting+Design+Academy+Eindhoven+%28PvdA%29?connection_type=1&connection_id=7853231",
+    "pdf_text": " \n \n \nVraag vragenhalfuur  Huisvesting Design Academy          V6 \n \n1. Wat is de stand van zaken rondom de nieuwe huisvesting van de Design \nAcademy  Eindhoven (DAE) ? \n2. Heeft de locatie Microlab op Strijp -S, nog steeds de voorkeur van zowel \nDAE als van de gemeente ? \n \nEerder gaven jullie aan dat h et behoud van DAE voor Eindhoven van groot belang  \nis. Een vertrek van DAE zou een groot verlies vormen voor het in decennia \nzorgvuldig opgebouwde, onderscheidende TDK -profiel van de stad.  \n \n3. Welke stappen worden er ondernomen om DAE hier te houden?   \n \n \nEindhoven, 02-04-2024  \n \n \nHet lid van de raad   \n \nRosa van den Nieuwenhof, raadslid PvdA  \n \n \n \n \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 861814,
+            "weight": 3.4428852141163917
+        },
+        {
+            "id": 933712,
+            "weight": 0.6075011104407727
+        },
+        {
+            "id": 12424217,
+            "weight": 0.5979674546984357
+        },
+        {
+            "id": 960412,
+            "weight": 0.5539415140696051
+        },
+        {
+            "id": 14351597,
+            "weight": 0.4955124348719091
+        },
+        {
+            "id": 941547,
+            "weight": 0.4954130619710674
+        },
+        {
+            "id": 890229,
+            "weight": 0.24561327454820345
+        },
+        {
+            "id": 921690,
+            "weight": 0.2395487901573974
+        },
+        {
+            "id": 974079,
+            "weight": 0.12440798373362007
+        },
+        {
+            "id": 786268,
+            "weight": 0.12311389407451662
+        },
+        {
+            "id": 777040,
+            "weight": 0.10721533111619917
+        },
+        {
+            "id": 1058315,
+            "weight": 0.10218504625133482
+        },
+        {
+            "id": 1045149,
+            "weight": 0.08460128819506925
+        },
+        {
+            "id": 1113611,
+            "weight": 0.06993686360295404
+        },
+        {
+            "id": 976697,
+            "weight": 0.054762347012450446
+        }
+    ],
+    "videostarttime": {
+        "1147900": 1791
+    },
+    "videolink": null,
+    "keywords": {
+        "Design Academy": 1.9969864126918266,
+        "Vraag vragenhalfuur": 0.9935862325680083,
+        "Huisvesting Design": 1.9930937530927988,
+        "Academy Eindhoven": 1.9919954094037415,
+        "vragenhalfuur Huisvesting": 0.9873227939383892,
+        "Academy": 1.969266076269435,
+        "Design": 1.9676081462000765,
+        "Vraag": 1.9643128778335068,
+        "DAE": 0.9581687262009119,
+        "locatie Microlab": 0.9037514955869875,
+        "zowel DAE": 0.9014862140169503,
+        "onderscheidende TDK": 0.8639461927350466,
+        "PvdA": 1.8232511060456866,
+        "Strijp": 0.8137359938129815,
+        "groot": 0.8051848822678052,
+        "groot belang": 0.7994330118821178,
+        "Microlab": 0.7952308292738326,
+        "raadslid PvdA": 0.7518306002583843,
+        "TDK": 0.7499106442399857,
+        "raad Rosa": 0.7371611418191374,
+        "Nieuwenhof": 0.6818806686250107,
+        "zorgvuldig opgebouwde": 0.666425321070245,
+        "Rosa": 0.6558165388760814,
+        "verlies vormen": 0.6247746625170815,
+        "decennia zorgvuldig": 0.6247746625170815,
+        "gemeente": 0.6132300573783735,
+        "stand": 0.5712339360294663,
+        "zaken": 0.5712339360294663,
+        "locatie": 0.5712339360294663,
+        "voorkeur": 0.5712339360294663,
+        "behoud": 0.5712339360294663,
+        "belang": 0.5712339360294663,
+        "opgebouwde": 0.5211311471177141,
+        "profiel": 0.5211311471177141
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194514,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1147900
+    ]
+}

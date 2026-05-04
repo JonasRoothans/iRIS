@@ -1,0 +1,66 @@
+{
+    "module_id": 925103,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": null,
+    "title": "Keuze voor het sectorenmodel - Raadsvoorstel Masterplan Mobiliteit 2050",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/925103",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Esselbrugge (Wethouder)",
+    "result": "",
+    "date": "05-03-2024",
+    "meeting_url": {
+        "1147884": "https://raadsinformatie.eindhoven.nl/vergadering/1147884#ai_8184759"
+    },
+    "attachment": null,
+    "parent": 906466,
+    "children": [],
+    "text": "Wethouder Esselbrugge zegt toe om in 2025 Q1 naar de raad te komen met de keuze voor het sectorenmodel",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1035304,
+            "weight": 0.35637028658630265
+        },
+        {
+            "id": "a_8235495",
+            "weight": 0.35057322410214226
+        },
+        {
+            "id": "a_8288827",
+            "weight": 0.3045730526383487
+        },
+        {
+            "id": 960621,
+            "weight": 0.27307563571971327
+        }
+    ],
+    "videostarttime": {
+        "1147884": 6141
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_05.03.24_Eindhoven_raadzaal.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Masterplan": 1.9940823475428064,
+        "Masterplan Mobiliteit": 1.9940823475428064,
+        "Wethouder Esselbrugge": 0.9940823475428064,
+        "Esselbrugge zegt": 0.9823410414915972,
+        "sectorenmodel": 1.9578615573087685,
+        "Mobiliteit": 1.9370446783282913,
+        "Wethouder": 0.9370446783282913,
+        "Masterplan": 1.906555320515322,
+        "Keuze": 1.8982008816438842,
+        "zegt": 0.8143015634365182,
+        "raad": 0.8143015634365182,
+        "komen": 0.8143015634365182
+    },
+    "svz": null,
+    "afgedaan": "03-06-2025",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

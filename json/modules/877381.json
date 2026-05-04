@@ -1,0 +1,100 @@
+{
+    "module_id": 877381,
+    "vote_id": null,
+    "member_id": [
+        194500
+    ],
+    "party_list": [
+        "FVD"
+    ],
+    "poho_id": [],
+    "title": "Beantwoording raadsvragen voormalige ambtenaren als externe inhuur (FvD)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/4/Raadsvragen/877381",
+    "type": "Raadsvraag",
+    "member": "Nicolas Knoester",
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "19-09-2023",
+    "meeting_url": null,
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/13168084/1?connection_type=17&connection_id=9757404": "Vraag",
+        "https://raadsinformatie.eindhoven.nl/document/13382167/2?connection_type=17&connection_id=9874085": "Antwoord"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/13168084/1?connection_type=17&connection_id=9757404",
+    "pdf_text": " \n \n \nRaadsvragen van de fracti e: Forum voor Democratie  \n \n \nVoormalige ambtenaren als externe inhuur  \n \ndatum:  18 september 2023  \n \n \nGeacht college,  \n \nNaar aanleiding van technische vragen van FVD blijkt er een stijgende \ntrend te zijn van externe inhuur die voormalige ambtenaren zijn. Dit was \n0,7% in 2020, 1,5% in 2021, en 1,5% in 2022. Dit jaar is het zelfs al \nverdubbeld naar 3%.  \n \nFVD vindt deze ontwikkeling zorgelijk en stelt daarom de volgende \nraadsvragen:  \n \n1. Deelt het college de mening dat deze trend nie t wenselijk is? Zo ja, \nwelke maatregelen is het college bereid te treffen om deze trend niet \nverder te laten stijgen?  \n2. Wat is volgens het college de primaire reden dat voormalig e \nambtenaren later via een externe organisatie weer ingehuurd worden?  \n3. Welke rol spe elt de hoogte van lonen hierin?  \n \nNamens de fracti e, \nForum voor Democratie  \n \nNicolas Knoester, raadslid  \n \n",
+    "bst": "23bst01417",
+    "related": [
+        {
+            "id": 894051,
+            "weight": 2.969534507400008
+        },
+        {
+            "id": 882823,
+            "weight": 0.25526225590527923
+        },
+        {
+            "id": 932415,
+            "weight": 0.24747430747494553
+        },
+        {
+            "id": "r_7006014",
+            "weight": 0.2362501358714242
+        },
+        {
+            "id": 834947,
+            "weight": 0.23524491353278698
+        },
+        {
+            "id": 798449,
+            "weight": 0.22420050318122886
+        },
+        {
+            "id": 887978,
+            "weight": 0.19381661183365492
+        },
+        {
+            "id": 884007,
+            "weight": 0.1917236188713077
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "voormalige ambtenaren": 1.981687768838427,
+        "externe inhuur": 1.9724060579179774,
+        "inhuur datum": 0.9701709492657856,
+        "voormalige": 1.9650379921398295,
+        "Geacht college": 0.9640721225511159,
+        "Democratie Voormalige": 0.9627499907235398,
+        "inhuur": 1.9486720057942661,
+        "technische vragen": 0.9429532937373761,
+        "Geacht": 0.930700426022506,
+        "Beantwoording raadsvragen": 1.9197076762480405,
+        "FVD blijkt": 0.9193992477427986,
+        "FvD": 1.8929752119699246,
+        "ambtenaren": 1.8758752159266165,
+        "externe": 1.8758752159266165,
+        "college": 0.8748843938735907,
+        "raadsvragen": 1.8682918237411665,
+        "Forum": 0.8663232290644465,
+        "september": 0.8545417905989604,
+        "stijgende trend": 0.8459952782009431,
+        "Democratie": 0.8288033266368927,
+        "datum": 0.8118956902327968,
+        "trend": 0.8085140130833233,
+        "Nicolas Knoester": 0.7731773633141882,
+        "aanleiding": 0.7676898428825765,
+        "fracti": 0.7414257614879829,
+        "Knoester": 0.5908657182803052,
+        "Nicolas": 0.5481037443218666
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194500,
+    "lastScrapeDate": "02-04-2026",
+    "meeting_id": []
+}

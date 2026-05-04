@@ -1,0 +1,133 @@
+{
+    "module_id": 1045703,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 248564,
+    "title": "Doorstroming op de ring - Raadsvoorstel Verkeerscirculatieplan Eindhoven binnen de Ring en Verbeterplan Ring",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1045703",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "R. Strijk (Wethouder)",
+    "result": "",
+    "date": "13-05-2025",
+    "meeting_url": {
+        "1256605": "https://raadsinformatie.eindhoven.nl/vergadering/1256605#ai_9271218"
+    },
+    "attachment": null,
+    "parent": 1035304,
+    "children": [],
+    "text": "Wethouder Strijk zegt toe dat de doorstroming op de ring en de radialen zal worden verbeterd.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1045701,
+            "weight": 0.7391293399079224
+        },
+        {
+            "id": 1045682,
+            "weight": 0.6485363155351079
+        },
+        {
+            "id": 1045686,
+            "weight": 0.5671797702522094
+        },
+        {
+            "id": 1045698,
+            "weight": 0.5669860851539148
+        },
+        {
+            "id": 1045691,
+            "weight": 0.5664664978602151
+        },
+        {
+            "id": 1045674,
+            "weight": 0.5656934758841394
+        },
+        {
+            "id": 1045676,
+            "weight": 0.5647263026102907
+        },
+        {
+            "id": 1045922,
+            "weight": 0.22116368761126212
+        },
+        {
+            "id": 905845,
+            "weight": 0.17551169873689648
+        },
+        {
+            "id": 997004,
+            "weight": 0.17227633045449323
+        },
+        {
+            "id": 918944,
+            "weight": 0.164270259283037
+        },
+        {
+            "id": 918921,
+            "weight": 0.164032230420793
+        },
+        {
+            "id": 1061826,
+            "weight": 0.13341702189353902
+        },
+        {
+            "id": 935518,
+            "weight": 0.11089998733518058
+        },
+        {
+            "id": 1030763,
+            "weight": 0.09152477087248462
+        },
+        {
+            "id": 1035304,
+            "weight": 0.08683588387728802
+        },
+        {
+            "id": 815680,
+            "weight": 0.08473727943255539
+        },
+        {
+            "id": 925585,
+            "weight": 0.08032749143673835
+        },
+        {
+            "id": 941395,
+            "weight": 0.07645005704082526
+        },
+        {
+            "id": 944416,
+            "weight": 0.05829240569141211
+        }
+    ],
+    "videostarttime": {
+        "1256605": 628
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_13.05.25_NC_01-EINDHOVEN-RAA.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Verkeerscirculatieplan": 1.997028212442585,
+        "Verkeerscirculatieplan Eindhoven": 1.9962846189762344,
+        "Wethouder Strijk": 0.9962846189762344,
+        "Verbeterplan Ring": 1.9954804637379413,
+        "Ring Wethouder": 0.9954804637379413,
+        "Strijk zegt": 0.9930709124642287,
+        "ring": 1.9815124608440478,
+        "Raadsvoorstel": 1.951299585970765,
+        "Doorstroming": 1.9435258962856978,
+        "Eindhoven": 1.9391589935561924,
+        "verbeterd": 0.9143319737251393,
+        "zegt": 0.8868952689031186,
+        "radialen": 0.8868952689031186
+    },
+    "svz": null,
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": [
+        1256605
+    ]
+}

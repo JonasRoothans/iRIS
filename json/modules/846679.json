@@ -1,0 +1,85 @@
+{
+    "module_id": 846679,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": null,
+    "title": "Visie op deelvervoer op korte termijn (Vrije motie VM1)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/846679",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Esselbrugge (Wethouder)",
+    "result": "",
+    "date": "09-05-2023",
+    "meeting_url": {
+        "1013486": "https://raadsinformatie.eindhoven.nl/vergadering/1013486#ai_6964918"
+    },
+    "attachment": null,
+    "parent": 844362,
+    "children": [],
+    "text": "Wethouder Esselbrugge zegt toe:\n\npunten 3 t/m 7 uit de motie mee te nemen in het tot stand komen van het masterplan mobiliteit.\n\n(Zie vrije motie VM1).",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1104185,
+            "weight": 0.5970933934779086
+        },
+        {
+            "id": 844362,
+            "weight": 0.597055988865137
+        },
+        {
+            "id": 847787,
+            "weight": 0.29111649777431864
+        },
+        {
+            "id": 975722,
+            "weight": 0.29102784241070345
+        },
+        {
+            "id": 945816,
+            "weight": 0.2533698958657378
+        },
+        {
+            "id": 945785,
+            "weight": 0.23495139963636255
+        },
+        {
+            "id": 1139858,
+            "weight": 0.19667986453392725
+        }
+    ],
+    "videostarttime": {
+        "1013486": 13755
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_09.05.23_NC_EINDHOVEN_RAA.mp4/playlist.m3u8",
+    "keywords": {
+        "Wethouder Esselbrugge": 0.9942644849350584,
+        "Esselbrugge zegt": 0.9824381336171352,
+        "korte termijn": 1.9723845482084776,
+        "masterplan mobiliteit": 0.9723845482084775,
+        "stand komen": 0.9594127244803244,
+        "Vrije motie": 1.9564542149226867,
+        "Wethouder": 0.934741890638741,
+        "motie mee": 0.9202938072693163,
+        "punten": 0.9186150840119441,
+        "Vrije": 1.8928359253095532,
+        "Visie": 1.8639289198004674,
+        "mobiliteit": 0.8639289198004674,
+        "deelvervoer": 1.8025051867596535,
+        "korte": 1.8025051867596535,
+        "zegt": 0.8025051867596535,
+        "mee": 0.8025051867596535,
+        "nemen": 0.8025051867596535,
+        "stand": 0.8025051867596535,
+        "masterplan": 0.8025051867596535
+    },
+    "svz": "Wordt meegenomen in het Masterplan Mobilitet",
+    "afgedaan": "05-03-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

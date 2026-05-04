@@ -1,0 +1,136 @@
+{
+    "module_id": 822613,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230022,
+    "title": "Testen kunnen we als de beste (Vraag V4 Vragenhalfuur)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/822613",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Toub (Wethouder)",
+    "result": "",
+    "date": "14-02-2023",
+    "meeting_url": {
+        "1013452": "https://raadsinformatie.eindhoven.nl/vergadering/1013452#ai_6964790"
+    },
+    "attachment": null,
+    "parent": "ai_6964790",
+    "children": [],
+    "text": "Wethouder Toub zegt toe voor de zomervakantie met antwoord op de vraag of de tijdelijke testcapaciteit kan worden omgezet in permanente capaciteit, of moet worden gewacht op resultaten van onderzoek wat in 2024 zal plaatsvinden.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 12424218,
+            "weight": 0.760508279877584
+        },
+        {
+            "id": 1057237,
+            "weight": 0.7303850133325998
+        },
+        {
+            "id": 776965,
+            "weight": 0.3463380965047716
+        },
+        {
+            "id": 835450,
+            "weight": 0.30944401070937533
+        },
+        {
+            "id": 1009564,
+            "weight": 0.14283755972678971
+        },
+        {
+            "id": 952299,
+            "weight": 0.13688408160185297
+        },
+        {
+            "id": 14963289,
+            "weight": 0.13329930547691474
+        },
+        {
+            "id": 1125036,
+            "weight": 0.1280058008325942
+        },
+        {
+            "id": 935942,
+            "weight": 0.12065797945262755
+        },
+        {
+            "id": 890084,
+            "weight": 0.11913510821376591
+        },
+        {
+            "id": 996953,
+            "weight": 0.1189385964320869
+        },
+        {
+            "id": 15563305,
+            "weight": 0.10192401172296535
+        },
+        {
+            "id": 1031698,
+            "weight": 0.09390942562468595
+        },
+        {
+            "id": 835022,
+            "weight": 0.08988347314921069
+        },
+        {
+            "id": 953324,
+            "weight": 0.08225751121817182
+        },
+        {
+            "id": 980028,
+            "weight": 0.07736123928372254
+        },
+        {
+            "id": 776868,
+            "weight": 0.07562437641081309
+        },
+        {
+            "id": 1027056,
+            "weight": 0.07340364935675747
+        },
+        {
+            "id": 863852,
+            "weight": 0.05674611624963756
+        },
+        {
+            "id": 838678,
+            "weight": 0.05658546389605272
+        }
+    ],
+    "videostarttime": {
+        "1013452": 941
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_14.02.23_NC_Eindhoven_Raadsvergadering .mp4/playlist.m3u8",
+    "keywords": {
+        "Wethouder Toub": 0.9971951862462098,
+        "Toub zegt": 0.9935382540297395,
+        "permanente capaciteit": 0.9918625667218259,
+        "Vragenhalfuur": 1.9673194359251733,
+        "Vraag": 1.9544000532142298,
+        "Toub": 0.9394602615105205,
+        "Testen": 1.923887562153248,
+        "capaciteit": 0.9238875621532482,
+        "plaatsvinden": 0.9238875621532482,
+        "zegt": 0.8939496594793399,
+        "zomervakantie": 0.8939496594793399,
+        "antwoord": 0.8939496594793399,
+        "tijdelijke": 0.8939496594793399,
+        "omgezet": 0.8939496594793399,
+        "permanente": 0.8939496594793399,
+        "gewacht": 0.8939496594793399,
+        "resultaten": 0.8939496594793399,
+        "onderzoek": 0.8939496594793399
+    },
+    "svz": null,
+    "afgedaan": "16-05-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

@@ -1,0 +1,156 @@
+{
+    "module_id": 1131248,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230013,
+    "title": "Raadvoorstel Voorkeursalternatief Multimodale Knoop",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1131248",
+    "type": "Toezegging",
+    "member": "",
+    "party": "",
+    "poho": "S. Steenbakkers (Wethouder)",
+    "result": "",
+    "date": "03-02-2026",
+    "meeting_url": {
+        "1453542": "https://raadsinformatie.eindhoven.nl/vergadering/1453542#ai_9962243"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": "Wethouders Steenbakkers zegt toe dat als de bestuursovereenkomst (BOK) ter besluitvorming naar de raad komt, hij een overzicht geeft op welke momenten de raad wordt geïnformeerd en besluiten neemt.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1123110,
+            "weight": 1.2155310452979826
+        },
+        {
+            "id": 1132658,
+            "weight": 0.8406890306757672
+        },
+        {
+            "id": 952253,
+            "weight": 0.5883699456797921
+        },
+        {
+            "id": "a_7038460",
+            "weight": 0.535640517705979
+        },
+        {
+            "id": 1132476,
+            "weight": 0.44575236508457683
+        },
+        {
+            "id": 955584,
+            "weight": 0.26236904036215997
+        },
+        {
+            "id": 1111855,
+            "weight": 0.18765391640705797
+        },
+        {
+            "id": 1102826,
+            "weight": 0.1232969085619344
+        },
+        {
+            "id": 826277,
+            "weight": 0.12120771447468245
+        },
+        {
+            "id": 826276,
+            "weight": 0.12102094617824752
+        },
+        {
+            "id": 993565,
+            "weight": 0.12045572552665333
+        },
+        {
+            "id": 1129421,
+            "weight": 0.11351438247250478
+        },
+        {
+            "id": 911313,
+            "weight": 0.11279605618550803
+        },
+        {
+            "id": 15039359,
+            "weight": 0.11116241502118657
+        },
+        {
+            "id": 872624,
+            "weight": 0.10694589637092501
+        },
+        {
+            "id": 891735,
+            "weight": 0.10568032129595983
+        },
+        {
+            "id": 955541,
+            "weight": 0.10563929576850573
+        },
+        {
+            "id": 1036434,
+            "weight": 0.10132777047813935
+        },
+        {
+            "id": 1020983,
+            "weight": 0.0988841241366326
+        },
+        {
+            "id": 925286,
+            "weight": 0.09328817689679875
+        },
+        {
+            "id": 1139081,
+            "weight": 0.08992992209065319
+        },
+        {
+            "id": 900825,
+            "weight": 0.08822087666363977
+        },
+        {
+            "id": 1146302,
+            "weight": 0.08463741094539515
+        },
+        {
+            "id": 866954,
+            "weight": 0.078932660685079
+        },
+        {
+            "id": 999828,
+            "weight": 0.07612596825612772
+        }
+    ],
+    "videostarttime": {},
+    "videolink": null,
+    "keywords": {
+        "Voorkeursalternatief Multimodale": 1.9950069942505202,
+        "Multimodale Knoop": 1.9950069942505202,
+        "Knoop Wethouders": 0.9950069942505203,
+        "Wethouders Steenbakkers": 0.9950069942505203,
+        "Raadvoorstel Voorkeursalternatief": 1.9939060033797946,
+        "Steenbakkers zegt": 0.9908899454951228,
+        "besluiten neemt": 0.988871065019432,
+        "raad komt": 0.9888554409648239,
+        "overzicht geeft": 0.9833217925455495,
+        "BOK": 0.9672591276448286,
+        "raad": 0.9358708466691981,
+        "Knoop": 1.9295145440476715,
+        "Raadvoorstel": 1.9140661760036124,
+        "bestuursovereenkomst": 0.9140661760036124,
+        "komt": 0.9140661760036124,
+        "neemt": 0.9140661760036124,
+        "zegt": 0.8719195253013416,
+        "besluitvorming": 0.8719195253013416,
+        "momenten": 0.8719195253013416,
+        "geïnformeerd": 0.8719195253013416
+    },
+    "svz": "Bij de beantwoording van technische vragen (op RIS geplaatst) bij raadsvoorstel VKA MMK is reeds het gevraagde overzicht meegestuurd Beantwoording technische vragen VVD - Vaststellen BOK (VKA) met bijlage Betrokkenheid raad PS VKA. Daarin staat ook dat dit overzicht ter vaststelling wordt meegestuurd met de BOK. Hiermee kan de toezegging hier worden afgevoerd. VOORSTEL AAN RAADSCOMMISSIE KNOOP: AFVOEREN",
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "08-04-2026",
+    "meeting_id": []
+}

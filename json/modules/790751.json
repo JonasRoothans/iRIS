@@ -1,0 +1,47 @@
+{
+    "module_id": 790751,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230022,
+    "title": "Opvang vluchtelingen",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/790751",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Toub (Wethouder)",
+    "result": "",
+    "date": "01-11-2022",
+    "meeting_url": {
+        "1034744": "https://raadsinformatie.eindhoven.nl/vergadering/1034744#ai_7087609"
+    },
+    "attachment": null,
+    "parent": "ai_7087609",
+    "children": [],
+    "text": "De raad op korte termijn, voor het einde van het jaar, te informeren via een raadsinformatiebrief over de opvang van vluchtelingen in Eindhoven.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [],
+    "videostarttime": {
+        "1034744": 17721
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_01.11.22_NC_Eindhoven_Raad.mp4/playlist.m3u8",
+    "keywords": {
+        "korte termijn": 0.9781645723299163,
+        "informeren via": 0.9638542655336455,
+        "Eindhoven": 0.9368252687574651,
+        "Opvang vluchtelingen": 1.9206818736874034,
+        "jaar": 0.8855903541154853,
+        "Opvang": 1.8644556272244484,
+        "raad": 0.813225275191795,
+        "korte": 0.813225275191795,
+        "via": 0.813225275191795,
+        "raadsinformatiebrief": 0.813225275191795
+    },
+    "svz": null,
+    "afgedaan": "13-12-2022",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

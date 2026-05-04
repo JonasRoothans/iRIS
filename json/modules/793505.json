@@ -1,0 +1,151 @@
+{
+    "module_id": 793505,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230013,
+    "title": "Rijke Schooldag - Raadsvoorstel Vaststellen Begroting 2023",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/793505",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Steenbakkers (Wethouder)",
+    "result": "",
+    "date": "08-11-2022",
+    "meeting_url": {
+        "1013582": "https://raadsinformatie.eindhoven.nl/vergadering/1013582#ai_7066629"
+    },
+    "attachment": null,
+    "parent": 794220,
+    "children": [],
+    "text": "Met de scholen in de kwetsbare wijken die nog geen ‘rijke schooldag’ hebben in gesprek te gaan over de ‘rijke schooldag’, en andere interventies in de context van de ‘rijke schooldag’ mee te nemen, zoals schakelklassen, opvoedondersteuning en jeugdhulp op school, met de kanttekening dat dit niet ten koste moet gaan van het primaire onderwijsproces.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 821658,
+            "weight": 0.21466321384509365
+        },
+        {
+            "id": 776876,
+            "weight": 0.18533742021121835
+        },
+        {
+            "id": 984972,
+            "weight": 0.17372686880418706
+        },
+        {
+            "id": 913293,
+            "weight": 0.16536599601139942
+        },
+        {
+            "id": 943628,
+            "weight": 0.15267333604636799
+        },
+        {
+            "id": 878028,
+            "weight": 0.14553463612404924
+        },
+        {
+            "id": 15563305,
+            "weight": 0.13514585862196965
+        },
+        {
+            "id": "m_9908223",
+            "weight": 0.1344453541421852
+        },
+        {
+            "id": 920652,
+            "weight": 0.1092469580476455
+        },
+        {
+            "id": 1059754,
+            "weight": 0.1082067358507178
+        },
+        {
+            "id": 1146313,
+            "weight": 0.09269002450731761
+        },
+        {
+            "id": 1029708,
+            "weight": 0.09066298483786284
+        },
+        {
+            "id": 861841,
+            "weight": 0.08967242697880841
+        },
+        {
+            "id": "r_7006020",
+            "weight": 0.0822462800329641
+        },
+        {
+            "id": 1031769,
+            "weight": 0.07995866320642801
+        },
+        {
+            "id": 1103025,
+            "weight": 0.0790998995335606
+        },
+        {
+            "id": 854132,
+            "weight": 0.07388756911318957
+        },
+        {
+            "id": 951029,
+            "weight": 0.07225117887095321
+        },
+        {
+            "id": 855743,
+            "weight": 0.07065265206830153
+        },
+        {
+            "id": 863706,
+            "weight": 0.06703872586298104
+        },
+        {
+            "id": 984178,
+            "weight": 0.06612900127147896
+        },
+        {
+            "id": 862742,
+            "weight": 0.05932710025480819
+        },
+        {
+            "id": 898443,
+            "weight": 0.052306790326203084
+        }
+    ],
+    "videostarttime": {
+        "1013582": 22940
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_08.11.22_NC_Eindhoven_Raad.mp4/playlist.m3u8",
+    "keywords": {
+        "rijke schooldag’": 0.9983548142954424,
+        "Raadsvoorstel Vaststellen": 1.9974538068170509,
+        "Vaststellen Begroting": 1.9974538068170509,
+        "primaire onderwijsproces": 0.9921212755979494,
+        "schooldag’ mee": 0.9905369606057112,
+        "kwetsbare wijken": 0.989928393215686,
+        "Rijke": 1.9869211050631526,
+        "Begroting": 1.9543125883994414,
+        "gaan": 0.9425989663141365,
+        "nemen": 0.9217157613503831,
+        "schakelklassen": 0.9217157613503831,
+        "opvoedondersteuning": 0.9217157613503831,
+        "school": 0.9217157613503831,
+        "gesprek": 0.9001441991148997,
+        "interventies": 0.9001441991148997,
+        "context": 0.9001441991148997,
+        "mee": 0.9001441991148997,
+        "jeugdhulp": 0.9001441991148997,
+        "kanttekening": 0.9001441991148997,
+        "koste": 0.9001441991148997,
+        "primaire": 0.9001441991148997
+    },
+    "svz": null,
+    "afgedaan": "12-09-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

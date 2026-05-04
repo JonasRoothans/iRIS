@@ -1,0 +1,75 @@
+{
+    "module_id": 1143114,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230656,
+    "title": "Toegankelijkheid verkiezingen (Vraag V2)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1143114",
+    "type": "Toezegging",
+    "member": "",
+    "party": "",
+    "poho": "J. Dijsselbloem (Burgemeester)",
+    "result": "",
+    "date": "10-03-2026",
+    "meeting_url": {
+        "1374861": "https://raadsinformatie.eindhoven.nl/vergadering/1374861#ai_9410448"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": "Burgemeester Dijsselbloem zegt toe te bekijken of er aanvullende informatie op de website van de gemeente moet komen over de ondersteuning van mensen met een beperking bij het stemmen.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 16687924,
+            "weight": 1.9255929423187874
+        },
+        {
+            "id": 1036032,
+            "weight": 0.39016102780503287
+        },
+        {
+            "id": 901249,
+            "weight": 0.16953818506363338
+        },
+        {
+            "id": 14350095,
+            "weight": 0.14450260655363828
+        },
+        {
+            "id": 1088737,
+            "weight": 0.13455079321156801
+        }
+    ],
+    "videostarttime": {
+        "1374861": 1848
+    },
+    "videolink": null,
+    "keywords": {
+        "Burgemeester Dijsselbloem": 0.9968131692799578,
+        "Toegankelijkheid verkiezingen": 1.9940124569368791,
+        "Dijsselbloem zegt": 0.9922565679365212,
+        "aanvullende informatie": 0.9864720047380254,
+        "Vraag": 1.9696036283675864,
+        "Burgemeester": 0.9522369003446032,
+        "verkiezingen": 1.9228514046076703,
+        "stemmen": 0.9228514046076703,
+        "zegt": 0.8844689164123877,
+        "bekijken": 0.8844689164123877,
+        "aanvullende": 0.8844689164123877,
+        "informatie": 0.8844689164123877,
+        "website": 0.8844689164123877,
+        "komen": 0.8844689164123877,
+        "ondersteuning": 0.8844689164123877,
+        "mensen": 0.8844689164123877,
+        "beperking": 0.8844689164123877
+    },
+    "svz": "",
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "08-04-2026",
+    "meeting_id": []
+}

@@ -1,0 +1,141 @@
+{
+    "module_id": 785769,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Raadsvoorstel ontheffen van commissieleden van de fractie LPF als lid in de Meningsvormende vergadering",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/19/Raadsvoorstellen/785769",
+    "type": "Raadsvoorstel",
+    "member": null,
+    "party": null,
+    "poho": "",
+    "result": "Afgerond",
+    "date": "11-10-2022",
+    "meeting_url": {
+        "1013161": "https://raadsinformatie.eindhoven.nl/vergadering/1013161#ai_7092736"
+    },
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/11926912/1/Raadsvoorstel+ontheffing+commissieleden+LPF?connection_type=17&connection_id=8700769": "Raadsvoorstel ontheffing commissieleden LPF"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/11930317/1?connection_type=17&connection_id=8705614",
+    "pdf_text": " \n \n \n  \n   \n \n \n  gemeente Eindhoven  \nRaadsnummer   \nInboeknummer   \nDossiernummer      \n \nRaads voorstel    ontheffen  van commissiel eden  van de fractie  LPF als lid in \nde Meningsvormende vergadering   \n \n \n  Raadsbesluit   \n \nDe raad van de gemeente Eindhoven;  \ngelet op het verzoek van de fractie LPF ; \ngelet op het bepaalde in de Gemeentewet;  \ngelet op het bepaalde in de  Verordening op de meningsvormende vergadering gemeente \nEindhoven  2018 ; \n \n \n \nbesluit:  \n \nOnderstaand e commissiel eden te ontheffen van  hun lidmaatschap van de \nMeningsvormende Vergadering:  \n \n1. M.T.F. Nijs;  \n2. W. van Veen ; \n3. P. Strijbos -Nijs. \n \nAldus vastgesteld in de openbare vergadering van 11 oktober 2022. \n \n \n \nJ. Jongbloed , griffier . \n \n \n ",
+    "bst": "",
+    "related": [
+        {
+            "id": 785553,
+            "weight": 1.3835509225174931
+        },
+        {
+            "id": 779516,
+            "weight": 0.8650873779367632
+        },
+        {
+            "id": 891084,
+            "weight": 0.7175761630521106
+        },
+        {
+            "id": 1012995,
+            "weight": 0.5180612869378054
+        },
+        {
+            "id": 780932,
+            "weight": 0.34512983945854764
+        },
+        {
+            "id": 825873,
+            "weight": 0.22001001373642864
+        },
+        {
+            "id": 773075,
+            "weight": 0.2059162106355671
+        },
+        {
+            "id": 780938,
+            "weight": 0.12275687668231038
+        },
+        {
+            "id": 996073,
+            "weight": 0.12186631116020641
+        },
+        {
+            "id": 1115756,
+            "weight": 0.12130230811478739
+        },
+        {
+            "id": 858662,
+            "weight": 0.11605129466651554
+        },
+        {
+            "id": 899976,
+            "weight": 0.11482869495951996
+        },
+        {
+            "id": 820785,
+            "weight": 0.11169002659677743
+        },
+        {
+            "id": 1087045,
+            "weight": 0.11040428195314204
+        },
+        {
+            "id": 1008940,
+            "weight": 0.10985573612355187
+        },
+        {
+            "id": 1022971,
+            "weight": 0.0697345081789437
+        },
+        {
+            "id": 776934,
+            "weight": 0.05650249381757001
+        },
+        {
+            "id": 933762,
+            "weight": 0.05566109425533224
+        }
+    ],
+    "videostarttime": {
+        "1013161": 835
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_11.10.22_Eindhoven_raad.mp4/playlist.m3u8",
+    "keywords": {
+        "fractie LPF": 1.9986405029852221,
+        "gemeente Eindhoven": 0.9982406546898271,
+        "Meningsvormende vergadering": 1.9969768205843308,
+        "Eindhoven Raadsnummer": 0.9964359898423025,
+        "Raadsnummer Inboeknummer": 0.9949686065197864,
+        "Dossiernummer Raads": 0.993532247882373,
+        "commissiel eden": 0.9896758302168313,
+        "LPF": 1.985341304362467,
+        "vergadering gemeente": 0.9837482412664917,
+        "Eindhoven": 0.9832691397086525,
+        "Raads voorstel": 0.9815722623301751,
+        "voorstel ontheffen": 1.9760666222505114,
+        "gelet": 0.9731102938314237,
+        "gemeente": 0.9651321341548922,
+        "ontheffen": 1.9608917472248621,
+        "lid": 1.9368921168618396,
+        "bepaalde": 0.9368921168618397,
+        "Onderstaand": 0.9353863278489799,
+        "Inboeknummer": 0.9292454574493688,
+        "Raadsbesluit": 0.9292454574493688,
+        "Verordening": 0.9292454574493688,
+        "eden": 1.9288828237344346,
+        "Raads": 1.9091763032070554,
+        "Nijs": 0.8676278943251663,
+        "verzoek": 0.8007755543634781,
+        "lidmaatschap": 0.8007755543634781,
+        "Veen": 0.7001075728755555,
+        "Strijbos": 0.6716049863617313,
+        "Jongbloed": 0.6336391960413499
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": "10-04-2026",
+    "meeting_id": []
+}

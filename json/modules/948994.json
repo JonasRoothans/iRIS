@@ -1,0 +1,143 @@
+{
+    "module_id": 948994,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": null,
+    "title": "Brainport Agenda - Raadsvoorstel Oprichting vereniging Brainport voor Elkaar",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/948994",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Esselbrugge (Wethouder)",
+    "result": "",
+    "date": "07-06-2024",
+    "meeting_url": {
+        "1147940": "https://raadsinformatie.eindhoven.nl/vergadering/1147940#ai_8430501"
+    },
+    "attachment": null,
+    "parent": 941275,
+    "children": [],
+    "text": "Stadsgezant Van Kessel beantwoordt de vragen en zegt toe  jaarlijks met de raad in gesprek te gaan over de sociale brainport agenda voorafgaand aan de vaststelling van deze agenda in de ALV, zodat de raad input kan meegeven.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 949017,
+            "weight": 3.263775385768337
+        },
+        {
+            "id": 1102017,
+            "weight": 0.934009001629994
+        },
+        {
+            "id": 989926,
+            "weight": 0.7934469395434841
+        },
+        {
+            "id": 977899,
+            "weight": 0.7930493739815743
+        },
+        {
+            "id": 1020447,
+            "weight": 0.5884267732471652
+        },
+        {
+            "id": 941275,
+            "weight": 0.4975132583660896
+        },
+        {
+            "id": 988042,
+            "weight": 0.4251959060146564
+        },
+        {
+            "id": 1139975,
+            "weight": 0.4230408917641343
+        },
+        {
+            "id": 991304,
+            "weight": 0.39775902163549237
+        },
+        {
+            "id": 955392,
+            "weight": 0.25297030560471395
+        },
+        {
+            "id": 949458,
+            "weight": 0.24856932982001564
+        },
+        {
+            "id": 960647,
+            "weight": 0.2182766738494062
+        },
+        {
+            "id": 993459,
+            "weight": 0.21385032908513726
+        },
+        {
+            "id": 1011191,
+            "weight": 0.19091154730465437
+        },
+        {
+            "id": 996975,
+            "weight": 0.09215590314782329
+        },
+        {
+            "id": 1013807,
+            "weight": 0.08767333802467302
+        },
+        {
+            "id": 1000571,
+            "weight": 0.08351184131238718
+        },
+        {
+            "id": 1020983,
+            "weight": 0.07684978605608368
+        },
+        {
+            "id": 995717,
+            "weight": 0.0576085056912237
+        },
+        {
+            "id": 1048915,
+            "weight": 0.0573334962787204
+        }
+    ],
+    "videostarttime": {
+        "1147940": 359
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_04.06.24_Eindhoven_meningCK.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Oprichting": 1.997523987489314,
+        "Elkaar Stadsgezant": 0.9969827788331815,
+        "Brainport Agenda": 1.9965768561301767,
+        "Oprichting vereniging": 1.9946245582778395,
+        "Kessel beantwoordt": 0.9946245582778396,
+        "vereniging Brainport": 1.991896218204444,
+        "agenda voorafgaand": 0.991896218204444,
+        "raad input": 0.9909792700786032,
+        "Agenda": 1.9725131651742112,
+        "ALV": 0.954967146466897,
+        "raad": 0.954146225727864,
+        "Oprichting": 1.9451534419651697,
+        "Elkaar": 1.9451534419651697,
+        "Kessel": 0.9451534419651696,
+        "zodat": 0.9236180962250136,
+        "meegeven": 0.9236180962250136,
+        "vereniging": 1.9025152892917074,
+        "vragen": 0.9025152892917074,
+        "zegt": 0.9025152892917074,
+        "jaarlijks": 0.9025152892917074,
+        "gesprek": 0.9025152892917074,
+        "gaan": 0.9025152892917074,
+        "sociale": 0.9025152892917074,
+        "vaststelling": 0.9025152892917074,
+        "input": 0.9025152892917074
+    },
+    "svz": null,
+    "afgedaan": "11-03-2025",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

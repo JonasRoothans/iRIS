@@ -1,0 +1,79 @@
+{
+    "module_id": "a_9281850",
+    "vote_id": 9281850,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Aangekondigd Amendement A12 - Verdichten - een feest voor de wijk (D66)",
+    "url": "https://raadsinformatie.eindhoven.nl/vergadering/1256318/Aangekondigd%20Amendement%20A12%20-%20Verdichten%20-%20een%20feest%20voor%20de%20wijk%20%28D66%29 15-04-2025#voting_9281850",
+    "type": "Amendement",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "verworpen",
+    "date": "15-04-2025",
+    "meeting_url": {
+        "1256318": "https://raadsinformatie.eindhoven.nl/vergadering/1256318/Aangekondigd%20Amendement%20A12%20-%20Verdichten%20-%20een%20feest%20voor%20de%20wijk%20%28D66%29 15-04-2025#voting_9281850"
+    },
+    "attachment": null,
+    "parent": 1022809,
+    "children": [],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": "a_9696927",
+            "weight": 0.7773443612156685
+        },
+        {
+            "id": "a_9280979",
+            "weight": 0.7578895773082379
+        },
+        {
+            "id": 863090,
+            "weight": 0.7305832596932071
+        },
+        {
+            "id": 940702,
+            "weight": 0.5468755532787662
+        },
+        {
+            "id": 1007170,
+            "weight": 0.5401068411484821
+        },
+        {
+            "id": 1045505,
+            "weight": 0.2517520009825972
+        },
+        {
+            "id": 776880,
+            "weight": 0.25144365817641395
+        },
+        {
+            "id": 1015055,
+            "weight": 0.23780777146348406
+        },
+        {
+            "id": 16687924,
+            "weight": 0.22049921050855095
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Aangekondigd Amendement": 1.986202801796007,
+        "Verdichten": 1.9696036283675864,
+        "Amendement": 1.9140368224837343,
+        "wijk": 1.8416830712200127,
+        "feest": 1.702634417439785
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": "19-08-2025",
+    "meeting_id": [
+        1256318
+    ]
+}

@@ -1,0 +1,127 @@
+{
+    "module_id": "r_7006019",
+    "vote_id": 7006019,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Raadsvoorstel Zienswijze ontwerpbegroting 2023 ODZOB",
+    "url": "https://raadsinformatie.eindhoven.nl/vergadering/1013429/Raadsvoorstel%20Zienswijze%20ontwerpbegroting%202023%20ODZOB 24-05-2022#voting_7006019",
+    "type": "Raadsvoorstel",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "aangenomen",
+    "date": "24-05-2022",
+    "meeting_url": {
+        "1013429": "https://raadsinformatie.eindhoven.nl/vergadering/1013429/Raadsvoorstel%20Zienswijze%20ontwerpbegroting%202023%20ODZOB 24-05-2022#voting_7006019"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/11766434/1/Commissieadvies+Raadsvoorstel+Zienswijze+ontwerpbegroting+2023+ODZOB?connection_type=1&connection_id=6964455",
+    "pdf_text": " \n \n \n   gemeente Eindhoven  \nGriffie Gemeenteraad   \nRaadsnummer  22bst00 485 \nVerzenddatum  11 mei 2022   \n \nCommissie    advies  \n \nBetreft  Meningsvorming: Raadsvoorstel Zienswijze ontwerpbegroting 2023 ODZOB  \n \nDit raadsvoorstel is als hamerstuk geagendeerd in de meningsvormende vergadering \nvan 1 0 mei 2022.  \n \nDe fracties GL en SP  hebben  hierover het woord gevoerd.  \n \nDe SP heeft een stemvoorbehoud, de overige fracties hebben positief ge adviseerd.   \n \n \nDe secretaris van de meningsvorming , \nI. van Dijk  ",
+    "bst": null,
+    "related": [
+        {
+            "id": "r_7006020",
+            "weight": 1.9823131253510922
+        },
+        {
+            "id": "r_7006030",
+            "weight": 1.7709463261019625
+        },
+        {
+            "id": "r_7006036",
+            "weight": 1.7314896808662714
+        },
+        {
+            "id": "r_7006015",
+            "weight": 1.6266177501267334
+        },
+        {
+            "id": 1049629,
+            "weight": 0.7973134165587487
+        },
+        {
+            "id": 932415,
+            "weight": 0.7963579486851287
+        },
+        {
+            "id": 938200,
+            "weight": 0.3448086097464485
+        },
+        {
+            "id": 836589,
+            "weight": 0.3136949129778359
+        },
+        {
+            "id": 1013499,
+            "weight": 0.3127077399447839
+        },
+        {
+            "id": 835022,
+            "weight": 0.3066357702967078
+        },
+        {
+            "id": 957634,
+            "weight": 0.1200543816835311
+        },
+        {
+            "id": 788357,
+            "weight": 0.06251711619980058
+        },
+        {
+            "id": 1036434,
+            "weight": 0.054548926535268195
+        },
+        {
+            "id": 978671,
+            "weight": 0.04746405827415186
+        },
+        {
+            "id": 776901,
+            "weight": 0.04646933847098009
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Zienswijze ontwerpbegroting": 1.9976386003561357,
+        "Raadsvoorstel Zienswijze": 1.9972101608437256,
+        "Gemeenteraad Raadsnummer": 0.995531093493748,
+        "Eindhoven Griffie": 0.9946812838002053,
+        "Griffie Gemeenteraad": 0.9946812838002053,
+        "ODZOB gemeente": 0.9905347655064349,
+        "Commissie advies": 0.9892924341726959,
+        "gemeente Eindhoven": 0.9872412086171195,
+        "advies Betreft": 0.9872412086171195,
+        "Betreft Meningsvorming": 0.9827321258264978,
+        "Zienswijze": 1.9729318842097285,
+        "ODZOB": 1.9729318842097285,
+        "hamerstuk geagendeerd": 0.9690734331980937,
+        "meningsvormende vergadering": 0.9690734331980937,
+        "mei": 0.9673515022986185,
+        "Verzenddatum": 0.9502965283257436,
+        "Raadsnummer": 0.9388335540843554,
+        "Griffie": 0.9272636464926093,
+        "Betreft": 0.9272636464926093,
+        "advies": 0.8267983640306893,
+        "hamerstuk": 0.8267983640306893,
+        "vergadering": 0.8267983640306893,
+        "woord gevoerd": 0.822605996633759,
+        "fracties": 0.7923454733158801,
+        "overige fracties": 0.7282164796873059,
+        "Dijk": 0.7122457117454524,
+        "hierover": 0.5788530421570985,
+        "woord": 0.5788530421570985,
+        "stemvoorbehoud": 0.5520097972548731
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1013429
+    ]
+}

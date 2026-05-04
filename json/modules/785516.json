@@ -1,0 +1,62 @@
+{
+    "module_id": 785516,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": null,
+    "title": "Raadsvoorstel Brownfields en grootschalige logistiek",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/785516",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Esselbrugge (Wethouder)",
+    "result": "",
+    "date": "04-10-2022",
+    "meeting_url": {
+        "1018987": "https://raadsinformatie.eindhoven.nl/vergadering/1018987#ai_7011875"
+    },
+    "attachment": null,
+    "parent": 771656,
+    "children": [],
+    "text": "",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 771656,
+            "weight": 3.196635601367153
+        },
+        {
+            "id": 776865,
+            "weight": 2.5547897024642277
+        },
+        {
+            "id": 1121895,
+            "weight": 0.7308153535404038
+        },
+        {
+            "id": 798583,
+            "weight": 0.34347303597880835
+        },
+        {
+            "id": 1121686,
+            "weight": 0.29793918826440585
+        }
+    ],
+    "videostarttime": {
+        "1018987": 5247
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_01-EINDHOVEN-RAA-ONDERTITEL_2022.10.04_172616.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Brownfields": 1.9765416191248102,
+        "grootschalige logistiek": 1.9505961599793435,
+        "Brownfields": 1.8552226942577967,
+        "logistiek": 1.8416830712200127
+    },
+    "svz": null,
+    "afgedaan": "22-11-2022",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

@@ -1,0 +1,139 @@
+{
+    "module_id": 1015903,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 231116,
+    "title": "Duidelijk en kleurrijk vlaggenprotocol (Vrije Motie VM3)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1015903",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "J. Dijsselbloem (Burgemeester)",
+    "result": "",
+    "date": "04-02-2025",
+    "meeting_url": {
+        "1256308": "https://raadsinformatie.eindhoven.nl/vergadering/1256308#ai_8588091"
+    },
+    "attachment": null,
+    "parent": 1014949,
+    "children": [],
+    "text": "Burgemeester Dijsselbloem zegt toe de raad op de hoogte te houden van een vlag voor Keti Koti en een monument/muurschildering/vlag voor de Oekraïense gemeenschap.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1015055,
+            "weight": 2.9980534652396638
+        },
+        {
+            "id": 1014984,
+            "weight": 1.087950406193102
+        },
+        {
+            "id": 1097898,
+            "weight": 0.7667194097239034
+        },
+        {
+            "id": 1015020,
+            "weight": 0.6365861136040946
+        },
+        {
+            "id": 982310,
+            "weight": 0.6057647027988537
+        },
+        {
+            "id": 16211434,
+            "weight": 0.5124489167132248
+        },
+        {
+            "id": 1146336,
+            "weight": 0.3605676677074825
+        },
+        {
+            "id": 1139117,
+            "weight": 0.2983395252821256
+        },
+        {
+            "id": 14143981,
+            "weight": 0.28759138324226685
+        },
+        {
+            "id": 984947,
+            "weight": 0.2703387038408005
+        },
+        {
+            "id": 875659,
+            "weight": 0.21934104149543257
+        },
+        {
+            "id": 1082060,
+            "weight": 0.21545574368539352
+        },
+        {
+            "id": 864549,
+            "weight": 0.20133512213387958
+        },
+        {
+            "id": 1146676,
+            "weight": 0.09901244087269176
+        },
+        {
+            "id": 974126,
+            "weight": 0.09405374262727623
+        },
+        {
+            "id": 12466215,
+            "weight": 0.0891467518610643
+        },
+        {
+            "id": 975355,
+            "weight": 0.0861973618972996
+        },
+        {
+            "id": 866658,
+            "weight": 0.07899606516419393
+        },
+        {
+            "id": 774030,
+            "weight": 0.07265158098938572
+        },
+        {
+            "id": 865481,
+            "weight": 0.06764105621300859
+        }
+    ],
+    "videostarttime": {
+        "1256308": 3469
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_04.02.25_01-EINDHOVEN-RAA-ONDERTITEL_2025.02.04_201626.mp4/playlist.m3u8",
+    "keywords": {
+        "Vrije Motie": 1.9974016292610022,
+        "Burgemeester Dijsselbloem": 0.9964039574067836,
+        "Keti Koti": 0.9950213166954085,
+        "Oekraïense gemeenschap": 0.9939313939909533,
+        "Dijsselbloem zegt": 0.9909268688009216,
+        "kleurrijk vlaggenprotocol": 1.9889307255512767,
+        "muurschildering": 0.9499157062066383,
+        "Vrije": 1.9490918797634915,
+        "Motie": 1.9490918797634915,
+        "Burgemeester": 0.9490918797634916,
+        "vlag": 1.9361018090371074,
+        "Keti": 0.9296152089309594,
+        "Oekraïense": 0.9296152089309594,
+        "Duidelijk": 1.9142996649572777,
+        "monument": 0.9142996649572777,
+        "gemeenschap": 0.9142996649572777,
+        "kleurrijk": 1.8722515254716516,
+        "zegt": 0.8722515254716516,
+        "raad": 0.8722515254716516,
+        "hoogte": 0.8722515254716516,
+        "houden": 0.8722515254716516
+    },
+    "svz": "Bij de herdenking Keti Koti op 30 juni, achter het Stadhuis, zal ter plekke worden gevlagd.\nEen plan voor een ...  Lees verder ",
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

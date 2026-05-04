@@ -1,0 +1,148 @@
+{
+    "module_id": 779484,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Raadsvoorstel Tot vaststelling paraplubestemmingsplan parkeren, kamerbewoning en woningsplitsing 2021 (technische betekenis)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/779484",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "17-05-2022",
+    "meeting_url": {
+        "1013503": "https://raadsinformatie.eindhoven.nl/vergadering/1013503#ai_6964652"
+    },
+    "attachment": null,
+    "parent": "ai_6964652",
+    "children": [],
+    "text": "De wethouder beantwoordt gestelde vragen en zegt daarbij toe:Wat het technisch betekent nu aan het beleid wordt toegevoegd dat hospita- en inwoningvergunningsvrij in de hele stad (en dus ook in ‘op-slot wijken) mag plaatsvinden.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 779485,
+            "weight": 1.658544854971053
+        },
+        {
+            "id": "r_7006035",
+            "weight": 0.9308655432529123
+        },
+        {
+            "id": 779483,
+            "weight": 0.9284362025024382
+        },
+        {
+            "id": 873713,
+            "weight": 0.7868426534344541
+        },
+        {
+            "id": 779482,
+            "weight": 0.7060420918855231
+        },
+        {
+            "id": "ai_6964652",
+            "weight": 0.6840985221121324
+        },
+        {
+            "id": 787218,
+            "weight": 0.4541474589550475
+        },
+        {
+            "id": 787214,
+            "weight": 0.45345284585155754
+        },
+        {
+            "id": 775238,
+            "weight": 0.4506670855836845
+        },
+        {
+            "id": 849282,
+            "weight": 0.12272563515719105
+        },
+        {
+            "id": 831137,
+            "weight": 0.12231125106776089
+        },
+        {
+            "id": 849083,
+            "weight": 0.12159522119477714
+        },
+        {
+            "id": 849289,
+            "weight": 0.12144559123020532
+        },
+        {
+            "id": 953040,
+            "weight": 0.12143508701517874
+        },
+        {
+            "id": 849081,
+            "weight": 0.12130043321008986
+        },
+        {
+            "id": 1121877,
+            "weight": 0.11772666076854796
+        },
+        {
+            "id": 1009794,
+            "weight": 0.09137685594398827
+        },
+        {
+            "id": 865499,
+            "weight": 0.08868415654142098
+        },
+        {
+            "id": 931952,
+            "weight": 0.08681871729557365
+        },
+        {
+            "id": "r_7006036",
+            "weight": 0.06768231673647705
+        },
+        {
+            "id": 955252,
+            "weight": 0.06474311344653746
+        }
+    ],
+    "videostarttime": {
+        "1013503": 869
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/17.05.22 Eindhoven Meningsvormend CK ruw.mp4/playlist.m3u8",
+    "keywords": {
+        "technische betekenis": 1.9952931190527918,
+        "op-slot wijken": 0.9952931190527918,
+        "paraplubestemmingsplan parkeren": 1.9934079021435682,
+        "vaststelling paraplubestemmingsplan": 1.990760667672852,
+        "wethouder beantwoordt": 0.9907606676728519,
+        "beantwoordt gestelde": 0.9907606676728519,
+        "gestelde vragen": 0.9907606676728519,
+        "zegt daarbij": 0.9907606676728519,
+        "Raadsvoorstel": 1.931554181938611,
+        "parkeren": 1.931554181938611,
+        "kamerbewoning": 1.931554181938611,
+        "woningsplitsing": 1.931554181938611,
+        "technische": 1.931554181938611,
+        "betekenis": 1.931554181938611,
+        "hospita": 0.9315541819386112,
+        "stad": 0.9315541819386112,
+        "op-slot": 0.9315541819386112,
+        "wijken": 0.9315541819386112,
+        "plaatsvinden": 0.9315541819386112,
+        "vaststelling": 1.9043195497355658,
+        "wethouder": 0.9043195497355658,
+        "vragen": 0.9043195497355658,
+        "zegt": 0.9043195497355658,
+        "beleid": 0.9043195497355658,
+        "toegevoegd": 0.9043195497355658,
+        "inwoningvergunningsvrij": 0.9043195497355658
+    },
+    "svz": "Dat overeenkomstig de regels uit het bestemmingsplan inwoning is toegestaan. Leefbaarheidseffecten ervan worde...  Lees verder ",
+    "afgedaan": "17-01-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

@@ -1,0 +1,135 @@
+{
+    "module_id": 1121876,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 248564,
+    "title": "Veilig de Marathonloop op",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1121876",
+    "type": "Toezegging",
+    "member": "",
+    "party": "",
+    "poho": "R. Strijk (Wethouder)",
+    "result": "",
+    "date": "06-01-2026",
+    "meeting_url": {
+        "1374826": "https://raadsinformatie.eindhoven.nl/vergadering/1374826#ai_9410303"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": "Wethouder Strijk zegt toe nog dit kwartaal te kijken naar de verkeersveiligheid bij de kruising (zoals genoemd in vraag 2 van de rondvraag). HIj zal hier in de mededelingen nog op terugkomen.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1107289,
+            "weight": 0.7325669016593208
+        },
+        {
+            "id": 16451083,
+            "weight": 0.6407032441224015
+        },
+        {
+            "id": 16360928,
+            "weight": 0.6406742320674185
+        },
+        {
+            "id": "ai_7818784",
+            "weight": 0.3191021466982036
+        },
+        {
+            "id": 882876,
+            "weight": 0.30941975307321623
+        },
+        {
+            "id": 791319,
+            "weight": 0.3058432697590206
+        },
+        {
+            "id": 917707,
+            "weight": 0.29412405474618974
+        },
+        {
+            "id": 851550,
+            "weight": 0.178826493190908
+        },
+        {
+            "id": 1141636,
+            "weight": 0.17718310842159185
+        },
+        {
+            "id": 994808,
+            "weight": 0.17673911655199961
+        },
+        {
+            "id": 970363,
+            "weight": 0.09007179072306847
+        },
+        {
+            "id": 891735,
+            "weight": 0.08595857817579464
+        },
+        {
+            "id": 994550,
+            "weight": 0.085303997854392
+        },
+        {
+            "id": 775293,
+            "weight": 0.08416368899334928
+        },
+        {
+            "id": 949024,
+            "weight": 0.08025861286861029
+        },
+        {
+            "id": 1125036,
+            "weight": 0.07880022121022767
+        },
+        {
+            "id": 775122,
+            "weight": 0.07706649227335442
+        },
+        {
+            "id": 1142895,
+            "weight": 0.07582689510430539
+        },
+        {
+            "id": 1148681,
+            "weight": 0.0740182824887982
+        },
+        {
+            "id": 998551,
+            "weight": 0.0722403188576266
+        },
+        {
+            "id": 1122912,
+            "weight": 0.05194734921198733
+        }
+    ],
+    "videostarttime": {
+        "1374826": 5412
+    },
+    "videolink": null,
+    "keywords": {
+        "Wethouder Strijk": 0.9964153980334304,
+        "Strijk zegt": 0.9934162996063318,
+        "Marathonloop": 1.9402354746469466,
+        "Veilig": 1.9171906072432023,
+        "kruising": 0.9171906072432023,
+        "vraag": 0.9171906072432023,
+        "zegt": 0.8905598471857711,
+        "kwartaal": 0.8905598471857711,
+        "kijken": 0.8905598471857711,
+        "verkeersveiligheid": 0.8905598471857711,
+        "genoemd": 0.8905598471857711,
+        "terugkomen": 0.7612847776262324,
+        "mededelingen": 0.7008680462460691
+    },
+    "svz": "",
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "08-04-2026",
+    "meeting_id": []
+}

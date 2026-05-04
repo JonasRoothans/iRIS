@@ -1,0 +1,94 @@
+{
+    "module_id": 1014011,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 231116,
+    "title": "Herculesramp - Commissienotitie Vlaggenprotocol gemeente Eindhoven 2025",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1014011",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "J. Dijsselbloem (Burgemeester)",
+    "result": "",
+    "date": "28-01-2025",
+    "meeting_url": {
+        "1256305": "https://raadsinformatie.eindhoven.nl/vergadering/1256305#ai_8958153"
+    },
+    "attachment": null,
+    "parent": 999828,
+    "children": [],
+    "text": "Burgemeester Dijsselbloem zegt toe dat de Herculesramp wordt opgenomen in het protocol.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1014012,
+            "weight": 3.3004032986070353
+        },
+        {
+            "id": 1014984,
+            "weight": 1.3124480653834196
+        },
+        {
+            "id": 890080,
+            "weight": 0.37460784121498614
+        },
+        {
+            "id": 977654,
+            "weight": 0.37272108842641255
+        },
+        {
+            "id": 829739,
+            "weight": 0.3481852543236073
+        },
+        {
+            "id": 1037388,
+            "weight": 0.18351887215539264
+        },
+        {
+            "id": 1124827,
+            "weight": 0.18111921279355056
+        },
+        {
+            "id": 824885,
+            "weight": 0.1499025650700836
+        },
+        {
+            "id": 891691,
+            "weight": 0.1474434561134316
+        },
+        {
+            "id": 16452187,
+            "weight": 0.14135868259171566
+        },
+        {
+            "id": 1116686,
+            "weight": 0.1327576301510492
+        }
+    ],
+    "videostarttime": {
+        "1256305": 633
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_28.01.25_01-EINDHOVEN-RAA-ONDERTITEL_2025.01.28_194551.mp4/playlist.m3u8",
+    "keywords": {
+        "Commissienotitie Vlaggenprotocol": 1.9943213285331507,
+        "Burgemeester Dijsselbloem": 0.9943213285331507,
+        "gemeente Eindhoven": 1.9888571675437325,
+        "Vlaggenprotocol gemeente": 1.983309116005123,
+        "Dijsselbloem zegt": 0.9833091160051232,
+        "Commissienotitie": 1.9384341196608197,
+        "Eindhoven": 1.9384341196608197,
+        "Burgemeester": 0.9384341196608197,
+        "Herculesramp": 1.916513215640092,
+        "protocol": 1.890760180027054,
+        "zegt": 0.8210041347862065,
+        "opgenomen": 0.8210041347862065
+    },
+    "svz": "COLLEGE: GRAAG AFVOEREN. Dit is opgenomen in het nieuwe vlaggenprotocol dat inmiddels  is gepubliceerd op...  Lees verder ",
+    "afgedaan": "08-04-2025",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

@@ -1,0 +1,73 @@
+{
+    "module_id": 984524,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Buurtagenda - Raadsvoorstel Begroting 2025",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/984524",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "29-10-2024",
+    "meeting_url": {
+        "1148141": "https://raadsinformatie.eindhoven.nl/vergadering/1148141#ai_8729567"
+    },
+    "attachment": null,
+    "parent": 975511,
+    "children": [],
+    "text": "Wethouder Verhees (Stadsgezant Bellemakers) zegt toe de raad wordt geïnformeerd over de resultaten en ervaringen uit 2024, en een voorstel voor vervolg in 2025.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1059969,
+            "weight": 0.647498616899466
+        },
+        {
+            "id": 1036467,
+            "weight": 0.6437669478026624
+        },
+        {
+            "id": 956832,
+            "weight": 0.6433825806511655
+        },
+        {
+            "id": 1000397,
+            "weight": 0.30897788121059927
+        },
+        {
+            "id": 1020312,
+            "weight": 0.3047555456589395
+        }
+    ],
+    "videostarttime": {
+        "1148141": null
+    },
+    "videolink": null,
+    "keywords": {
+        "Raadsvoorstel Begroting": 1.996284846557492,
+        "Wethouder Verhees": 0.996284846557492,
+        "Stadsgezant Bellemakers": 0.996284846557492,
+        "Buurtagenda": 1.9494526570124346,
+        "Begroting": 1.9391608500592699,
+        "Verhees": 0.9391608500592697,
+        "Stadsgezant": 0.9391608500592697,
+        "Bellemakers": 0.9391608500592697,
+        "zegt": 0.8930274509376158,
+        "raad": 0.8244338371947252,
+        "geïnformeerd": 0.8244338371947252,
+        "resultaten": 0.8244338371947252,
+        "ervaringen": 0.8244338371947252,
+        "voorstel": 1.824433837194725,
+        "vervolg": 0.8244338371947252
+    },
+    "svz": null,
+    "afgedaan": "03-06-2025",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

@@ -1,0 +1,147 @@
+{
+    "module_id": 941547,
+    "vote_id": null,
+    "member_id": [
+        199768,
+        194514,
+        194371,
+        194372
+    ],
+    "party_list": [
+        "PvdA",
+        "VVD",
+        "D66"
+    ],
+    "poho_id": [],
+    "title": "Beantwoording Raadsvragen Mogelijk vertrek Design Academy Eindhoven (VVD, PvdA, D66)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/4/Raadsvragen/941547",
+    "type": "Raadsvraag",
+    "member": "Peter de Roij van Zuijdewijn, Rosa van den Nieuwenhof, Ceciel van Bergeijk en Annelies Becker",
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "08-05-2024",
+    "meeting_url": null,
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/14129303/1?connection_type=17&connection_id=10566727": "Vraag",
+        "https://raadsinformatie.eindhoven.nl/document/14132305/1?connection_type=17&connection_id=10568991": "Antwoord"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": " \n \n \n \nRaadsvragen  Mogelijk vertrek Design Academy Eindhoven  \n8 mei 2024  \n \nDinsdagavond 7 mei 2024 lazen we een verontrustend bericht op de \nwebsite van Studio 040.  \n  \n‘De Design Academy laat aan Studio040 weten dat er voor de zomer \neen beslissing wordt genomen, en dat een langer verblijf in Eindhoven \nop dit moment ver weg lijkt. Over een verhuizing naar Roermond wordt \ndan weer niet gerept. “Hoewel het onze absolute voorkeur is om in \nEindhoven te blijven, liggen er op dit moment geen haal bare opties op \ntafel.”  \n  \nRaadsvragen  \n  \n1.     Klopt het bericht dat is gepubliceerd op de website van Studio \n 040?   \n2.     Hoe verhoudt zich dit tot de laatste  raadsinformatiebrief?  \n3.     Is er nog steeds de intentie om de Design Academy in Eindhoven \n te houden?  \n4.    Wat gaat het College concreet doen om vertrek uit Eindhoven te \n voorkomen?  \n5.    Gaat de wethouder de voortgang op korte termijn delen met de \n gemeenteraad?  \n \n \nNamens de fracties van de VVD, PvdA en D66,  \n \nPeter de Roij van Zuijdewijn , raadslid  VVD \nCeciel van Bergeijk, raadslid  VVD \nRosa van den Nieuwenhof, raadslid  PvdA  \nAnnelies Becker, raadsli d D66 \n",
+    "bst": "24bst00600",
+    "related": [
+        {
+            "id": 960412,
+            "weight": 0.49711494816920515
+        },
+        {
+            "id": 12424217,
+            "weight": 0.4962106485927975
+        },
+        {
+            "id": 13990400,
+            "weight": 0.4954130619710674
+        },
+        {
+            "id": 14351597,
+            "weight": 0.49492037235119885
+        },
+        {
+            "id": 789322,
+            "weight": 0.32305423361212837
+        },
+        {
+            "id": 1016282,
+            "weight": 0.27108190047351277
+        },
+        {
+            "id": 861814,
+            "weight": 0.24751313283982768
+        },
+        {
+            "id": 890229,
+            "weight": 0.24531980378094306
+        },
+        {
+            "id": 921690,
+            "weight": 0.23926256553304392
+        },
+        {
+            "id": 1057193,
+            "weight": 0.07683815020961415
+        },
+        {
+            "id": 976801,
+            "weight": 0.07201686588179736
+        },
+        {
+            "id": 1073436,
+            "weight": 0.0655044358154287
+        },
+        {
+            "id": 1144232,
+            "weight": 0.06470359581700123
+        },
+        {
+            "id": 1146887,
+            "weight": 0.06314354783630353
+        },
+        {
+            "id": 16400316,
+            "weight": 0.056782250286663186
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Design Academy": 1.9966569253531303,
+        "Academy Eindhoven": 1.9896152757474797,
+        "vertrek Design": 1.9741611465006492,
+        "Design": 1.9723959106992397,
+        "Academy": 1.9701225429573992,
+        "Beantwoording Raadsvragen": 1.954991525790925,
+        "mei": 0.953451076795392,
+        "Dinsdagavond": 0.9411310875378687,
+        "VVD": 1.9306918027613869,
+        "raadslid VVD": 0.9222282631865227,
+        "Raadsvragen": 1.9193663590301555,
+        "verontrustend bericht": 0.8954551264671955,
+        "Studio": 0.8932573010892961,
+        "VVD Ceciel": 0.8643925467708429,
+        "VVD Rosa": 0.8643925467708429,
+        "vertrek": 1.8516573962944853,
+        "PvdA": 1.8252810739787708,
+        "lazen": 0.8219520601118995,
+        "website": 0.7932226955699943,
+        "moment": 0.7914076001507448,
+        "Annelies Becker": 0.786341896987404,
+        "gaat": 0.769083763168691,
+        "bericht": 0.7623603758883267,
+        "langer verblijf": 0.7265160482794906,
+        "Roermond": 0.7234449819726085,
+        "PvdA Annelies": 0.7083891989356716,
+        "College concreet": 0.595362535897173,
+        "Peter": 0.5912928111001698,
+        "Zuijdewijn": 0.5912928111001698,
+        "Bergeijk": 0.5912928111001698,
+        "Nieuwenhof": 0.5912928111001698,
+        "Becker": 0.5912928111001698,
+        "College": 0.5873531584530564,
+        "genomen": 0.5706715585569608,
+        "lijkt": 0.5706715585569608,
+        "Roij": 0.5692644355055094,
+        "Rosa": 0.5692644355055094,
+        "zomer": 0.5365859624651452,
+        "beslissing": 0.5365859624651452,
+        "langer": 0.5365859624651452,
+        "ver": 1.5365859624651452
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194372,
+    "lastScrapeDate": "02-04-2026",
+    "meeting_id": []
+}

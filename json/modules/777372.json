@@ -1,0 +1,80 @@
+{
+    "module_id": 777372,
+    "vote_id": null,
+    "member_id": [
+        47266,
+        57511
+    ],
+    "party_list": [
+        " Ouderen Appèl - Hart voor Eindhoven",
+        "50PLUS"
+    ],
+    "poho_id": [],
+    "title": "Beantwoording raadsvragen van OAHvE (Rennenberg en Verbeek) over Verschil CO2uitstoot",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/4/Raadsvragen/777372",
+    "type": "Raadsvraag",
+    "member": "Niek Rennenberg en Cor Verbeek",
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "30-06-2022",
+    "meeting_url": null,
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/11771779/1?connection_type=17&connection_id=8591933": "Vraag"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": "22bst01022",
+    "related": [
+        {
+            "id": 967369,
+            "weight": 0.18458844112871298
+        },
+        {
+            "id": 813416,
+            "weight": 0.1434253569841419
+        },
+        {
+            "id": 785566,
+            "weight": 0.12670156739099273
+        },
+        {
+            "id": 15376655,
+            "weight": 0.12323917226637149
+        },
+        {
+            "id": 12703162,
+            "weight": 0.12299358441732666
+        },
+        {
+            "id": 1110693,
+            "weight": 0.12117533140841338
+        },
+        {
+            "id": 1136380,
+            "weight": 0.11945319457688848
+        },
+        {
+            "id": 858405,
+            "weight": 0.11756832655393966
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Beantwoording raadsvragen": 1.9505961599793435,
+        "Rennenberg": 1.9140368224837343,
+        "Verbeek": 1.9140368224837343,
+        "Verschil": 1.9140368224837343,
+        "OAHvE": 1.8416830712200127,
+        "raadsvragen": 1.702634417439785
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": "02-04-2026",
+    "meeting_id": []
+}

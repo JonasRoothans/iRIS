@@ -1,0 +1,100 @@
+{
+    "module_id": 14288441,
+    "vote_id": null,
+    "member_id": [
+        194242
+    ],
+    "party_list": [
+        "VVD"
+    ],
+    "poho_id": [],
+    "title": "Rondvraag 1 - Geen pauzeknop dan vergrootglas erop! (VVD)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "17-06-2024",
+    "meeting_url": {
+        "1147969": "https://raadsinformatie.eindhoven.nl/vergadering/1147966/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://api.notubiz.nl/document/14288441/1",
+    "pdf_text": " \n \n \nRondvraag  - Geen pauzeknop, dan vergrootglas erop!   \n \nIn navolging op de motie pauzeknop voor de gehandicapten parkeerapp en de \nreactie op aanvullende technische vragen, heb ik de volgende vragen aan de \nwethouder:   \n  \n1. In uw beantwoording op mijn technische vragen vermeldde u dat er een \ngebruikerspanel wordt ingesteld zodra de app live gaat, om snel te kunnen \nreageren als er problemen ontstaan. Kunt u toelichten wie de leden van dit panel \nzullen zijn en op welke criteria deze worden geselecteerd? W elke instantie is \nverantwoordelijk voor de samenstelling van dit panel en hoe wordt de \nonafhankelijkheid gewaarborgd?  \n  \n2. Communicatie met inwoners is cruciaal voor het succes van nieuwe initiatieven. \nKunt u gedetailleerd uiteenzetten hoe de gemeente de inwoners zal informeren en \nbetrekken bij de invoering van deze app? Welke kanalen en strategieën worden \ningezet om een zo  breed mogelijke doelgroep te bereiken en te ondersteunen? Is \nde wethouder bereid om na een paar maanden te evalueren hoe de app \nfunctioneert en dit terug te koppelen aan de raad?  \n  \n3. Het is belangrijk dat inwoners snel en eenvoudig hulp kunnen krijgen bij \nproblemen met de app. Is er een specifiek telefoonnummer of e -mailadres \nbeschikbaar waar inwoners terechtkunnen met hun vragen en problemen? Hoe \nwordt ervoor gezorgd dat de respons  op meldingen efficiënt en effectief is, en \nwelke maatregelen worden genomen om de tevredenheid van de inwoners te \nwaarborgen?  \nAls blijkt dat de app niet goed werkt welke maatregelen gaat de wethouder dan \nnemen?  \n \n \nEindhoven, 15 juni 2024  \n \n \nDe leden van de raad  en/of commissie , \n \nMarieke van Gastel, VVD  \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 926416,
+            "weight": 0.5843856127902917
+        },
+        {
+            "id": 15376655,
+            "weight": 0.3894985914048867
+        },
+        {
+            "id": 1146297,
+            "weight": 0.22657415735213482
+        },
+        {
+            "id": 864810,
+            "weight": 0.12650041862369577
+        },
+        {
+            "id": 775221,
+            "weight": 0.10566611931863026
+        },
+        {
+            "id": 957736,
+            "weight": 0.08365496843054514
+        },
+        {
+            "id": 16395091,
+            "weight": 0.0737434360705014
+        }
+    ],
+    "videostarttime": {
+        "1147969": 10070
+    },
+    "videolink": null,
+    "keywords": {
+        "vergrootglas erop": 1.9815069112233357,
+        "Rondvraag": 1.9411180473513596,
+        "technische vragen": 0.9306517790308317,
+        "app": 0.9278486198047601,
+        "pauzeknop": 1.9242615660250517,
+        "vragen": 0.9205160072903695,
+        "inwoners": 0.9201583963742964,
+        "erop": 1.9086468391996974,
+        "VVD": 1.863586354069695,
+        "wethouder": 0.855859306964169,
+        "problemen": 0.8412291388786028,
+        "volgende vragen": 0.808260537420747,
+        "vragen vermeldde": 0.7849685906552752,
+        "panel": 0.7753870108266688,
+        "aanvullende technische": 0.7595069400821072,
+        "leden": 0.752554020317053,
+        "app live": 0.748730166303323,
+        "gaat": 0.7383156333210179,
+        "raad": 0.733081332334031,
+        "maatregelen": 0.7300063641185799,
+        "app functioneert": 0.6861795388755918,
+        "problemen ontstaan": 0.6568196064882914,
+        "gehandicapten parkeerapp": 0.655763708596273,
+        "Communicatie": 0.6500666118969883,
+        "inwoners terechtkunnen": 0.63017898551742,
+        "live gaat": 0.588909591488886,
+        "Marieke": 0.5840631629531825,
+        "Gastel": 0.5840631629531825
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194242,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1147969
+    ]
+}

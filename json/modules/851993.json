@@ -1,0 +1,117 @@
+{
+    "module_id": 851993,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230022,
+    "title": "Bestaande kanalen - Studenten die vragen worden overgeslagen! (Vrije Motie VM3)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/851993",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Toub (Wethouder)",
+    "result": "",
+    "date": "30-05-2023",
+    "meeting_url": {
+        "1013491": "https://raadsinformatie.eindhoven.nl/vergadering/1013491#ai_6964908"
+    },
+    "attachment": null,
+    "parent": 850170,
+    "children": [],
+    "text": "Wethouder Toub zeg toe:\n\ndit zal gebeuren via bestaande kanalen, zoals de Lokale Educatieve Agenda (LEA), campagne preventie jeugdbeleid en MBO aanvalsplan;",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 851544,
+            "weight": 1.1979837408000025
+        },
+        {
+            "id": 984496,
+            "weight": 0.8764189019133154
+        },
+        {
+            "id": 851992,
+            "weight": 0.7629800460503448
+        },
+        {
+            "id": 851991,
+            "weight": 0.7443109547640273
+        },
+        {
+            "id": 851994,
+            "weight": 0.7361722952771359
+        },
+        {
+            "id": 850133,
+            "weight": 0.5804958437019777
+        },
+        {
+            "id": 987185,
+            "weight": 0.29177193733885526
+        },
+        {
+            "id": 958683,
+            "weight": 0.2613393666022963
+        },
+        {
+            "id": 930054,
+            "weight": 0.2394039136311685
+        },
+        {
+            "id": 998310,
+            "weight": 0.22601586577423163
+        },
+        {
+            "id": 1014943,
+            "weight": 0.22115560302155965
+        },
+        {
+            "id": 831970,
+            "weight": 0.19450169370995365
+        },
+        {
+            "id": 1148869,
+            "weight": 0.17802406839983606
+        },
+        {
+            "id": 943204,
+            "weight": 0.16504440034785658
+        }
+    ],
+    "videostarttime": {
+        "1013491": 17337
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_30.05.23_NC_EINDHOVEN_Raadszaal.mp4/playlist.m3u8",
+    "keywords": {
+        "Bestaande kanalen": 1.9666353685802642,
+        "Vrije Motie": 1.9527634990159721,
+        "Wethouder Toub": 0.9347792422615359,
+        "Educatieve Agenda": 0.9347792422615359,
+        "Studenten": 1.9279533661754509,
+        "kanalen": 1.9142935937179588,
+        "Lokale Educatieve": 0.9093552164976786,
+        "MBO aanvalsplan": 0.8788290425983258,
+        "LEA": 0.8720144832666421,
+        "overgeslagen": 1.8527529409114831,
+        "Toub zeg": 0.8252441785047904,
+        "Vrije": 1.7876186023336857,
+        "Motie": 1.7876186023336857,
+        "Agenda": 0.7876186023336856,
+        "via bestaande": 0.7680027236028186,
+        "vragen": 1.765126458080169,
+        "campagne preventie": 0.7601632286028537,
+        "Toub": 0.7117098893976368,
+        "Lokale": 0.7117098893976368,
+        "MBO": 0.7117098893976368,
+        "gebeuren via": 0.6371163693529026,
+        "preventie jeugdbeleid": 0.6371163693529026,
+        "campagne": 0.6251159567819775
+    },
+    "svz": null,
+    "afgedaan": "04-06-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

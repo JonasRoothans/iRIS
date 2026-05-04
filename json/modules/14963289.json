@@ -1,0 +1,137 @@
+{
+    "module_id": 14963289,
+    "vote_id": null,
+    "member_id": [
+        80968
+    ],
+    "party_list": [
+        "SP"
+    ],
+    "poho_id": [],
+    "title": "Vraag V5 Vragenhalfuur - Over duurzame kerstboom (SP)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "17-12-2024",
+    "meeting_url": {
+        "1148345": "https://raadsinformatie.eindhoven.nl/vergadering/1148345/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/14963289/1/Vraag+V5+Vragenhalfuur+-+Over+duurzame+kerstboom+%28SP%29?connection_type=1&connection_id=7855669",
+    "pdf_text": " \n \n \nVragenhalfuur  - Duurzame (permanente) kerstboom     V5 \n \nInleiding  \nIn de donkere winterdagen zijn veel mensen op zoek naar warmte en gezelligheid , \nniet alleen in huis maar ook op straat.  Een door velen gewaardeerde \nsfeermaker is een mooi verlichte kerstboom  in de openbare ruimte.  \n \nMaar om voor de kerstsfeer ieder jaar een gezonde boom om te kappen: dat past \nniet binne n de Eindhovense duurzaamheidsdoelstellingen. Daarom legt de SP \neen gezellig en duurzaam idee voor.  \n \nVRAAG  aan het college:  Bent u bereid bij het vergroenen van de binnenstad een \nmooie naaldboom te planten op een centrale plaats in het centrum die jaarlijks  \nin december  dienst kan doen als kerstboom?  \n \n \nBij voorbaat dank,  \n \nJannie Visscher, fractie SP.  \n \n \n \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 13989855,
+            "weight": 0.16038437210214077
+        },
+        {
+            "id": 952299,
+            "weight": 0.13699539122463555
+        },
+        {
+            "id": 822613,
+            "weight": 0.13329930547691474
+        },
+        {
+            "id": 1125036,
+            "weight": 0.12810989093012723
+        },
+        {
+            "id": 15563305,
+            "weight": 0.10200689296937916
+        },
+        {
+            "id": 11766401,
+            "weight": 0.0969498835713297
+        },
+        {
+            "id": 835022,
+            "weight": 0.08995656342657199
+        },
+        {
+            "id": 979133,
+            "weight": 0.047814093109753694
+        },
+        {
+            "id": 889102,
+            "weight": 0.04731919925326133
+        },
+        {
+            "id": "a_7640214",
+            "weight": 0.042812421726391534
+        },
+        {
+            "id": 781624,
+            "weight": 0.04280220333515685
+        },
+        {
+            "id": 935250,
+            "weight": 0.0403938138222593
+        },
+        {
+            "id": 777010,
+            "weight": 0.04004091527429187
+        },
+        {
+            "id": 861859,
+            "weight": 0.03657078880636758
+        },
+        {
+            "id": 15945906,
+            "weight": 0.032238285514964146
+        },
+        {
+            "id": 975785,
+            "weight": 0.030443942722457755
+        }
+    ],
+    "videostarttime": {
+        "1148345": 1509
+    },
+    "videolink": null,
+    "keywords": {
+        "Vragenhalfuur": 1.9826249480533749,
+        "donkere winterdagen": 0.9691239041493955,
+        "duurzame kerstboom": 1.962543264296667,
+        "duurzame": 1.951200881301514,
+        "Inleiding": 0.9388559046750875,
+        "kerstboom": 1.9075178396631702,
+        "permanente": 0.8946765898734284,
+        "Jannie Visscher": 0.8723826009039976,
+        "Vraag": 1.8690900534728487,
+        "gezelligheid": 0.8618957189882782,
+        "straat": 0.8618957189882782,
+        "Eindhovense duurzaamheidsdoelstellingen": 0.8542734775714385,
+        "donkere": 0.8269355144966599,
+        "mensen": 0.8269355144966599,
+        "zoek": 0.8269355144966599,
+        "warmte": 0.8269355144966599,
+        "huis": 0.8269355144966599,
+        "openbare ruimte": 0.8228501879145387,
+        "velen gewaardeerde": 0.7846849250517207,
+        "gewaardeerde sfeermaker": 0.7846849250517207,
+        "mooi verlichte": 0.7846849250517207,
+        "Eindhovense": 0.7159342708114702,
+        "Jannie": 0.6635860003200496,
+        "ruimte": 0.6424669595172497,
+        "gezonde boom": 0.6403274036871414,
+        "velen": 0.5790865765342761,
+        "sfeermaker": 0.5790865765342761,
+        "mooi": 0.5790865765342761,
+        "kappen": 0.5522467028411626
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 80968,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1148345
+    ]
+}

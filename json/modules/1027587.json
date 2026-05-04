@@ -1,0 +1,185 @@
+{
+    "module_id": 1027587,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 231116,
+    "title": "Informeren doormiddel van een collegebrief - Raadsvoorstel 1e wijziging begroting 2025 Veiligheidsregio Brabant Zuidoost (VRBZO)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1027587",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "J. Dijsselbloem (Burgemeester)",
+    "result": "",
+    "date": "11-03-2025",
+    "meeting_url": {
+        "1256336": "https://raadsinformatie.eindhoven.nl/vergadering/1256336#ai_9081021"
+    },
+    "attachment": null,
+    "parent": 1013545,
+    "children": [],
+    "text": "De burgmeester zegt toe de raad in de loop van het jaar middels een collegebrief te informeren over weerbaarheid en de rol van betrokken organisaties en personen in aanloop naar een agenderingsverzoek over hoe betrokken organisaties zijn voorbereid op rampen en crisissen.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1027586,
+            "weight": 1.484669861216016
+        },
+        {
+            "id": 1013545,
+            "weight": 0.9283825546592686
+        },
+        {
+            "id": 945574,
+            "weight": 0.6529672298789156
+        },
+        {
+            "id": 891115,
+            "weight": 0.6387865014974247
+        },
+        {
+            "id": 1033644,
+            "weight": 0.4174938733646028
+        },
+        {
+            "id": 1098676,
+            "weight": 0.31025595860383437
+        },
+        {
+            "id": 1072389,
+            "weight": 0.2844846682253799
+        },
+        {
+            "id": 888405,
+            "weight": 0.20123539402476878
+        },
+        {
+            "id": 1093494,
+            "weight": 0.18525689681339547
+        },
+        {
+            "id": 799670,
+            "weight": 0.18213952279341594
+        },
+        {
+            "id": 1106935,
+            "weight": 0.17160415602460544
+        },
+        {
+            "id": 905255,
+            "weight": 0.14258487417500035
+        },
+        {
+            "id": 776981,
+            "weight": 0.13469334121381
+        },
+        {
+            "id": 855500,
+            "weight": 0.10591188683433583
+        },
+        {
+            "id": 950055,
+            "weight": 0.08751853385982669
+        },
+        {
+            "id": 1015905,
+            "weight": 0.08670164584888666
+        },
+        {
+            "id": 803411,
+            "weight": 0.08215888456134356
+        },
+        {
+            "id": 832852,
+            "weight": 0.07916556553859029
+        },
+        {
+            "id": 1124937,
+            "weight": 0.07760096514656255
+        },
+        {
+            "id": 1036316,
+            "weight": 0.07738990112648217
+        },
+        {
+            "id": 1125902,
+            "weight": 0.07260752509671888
+        },
+        {
+            "id": 803355,
+            "weight": 0.07092882974466011
+        },
+        {
+            "id": 917672,
+            "weight": 0.0706153083891978
+        },
+        {
+            "id": 982973,
+            "weight": 0.07059411424954279
+        },
+        {
+            "id": "a_7586976",
+            "weight": 0.07018911142505165
+        },
+        {
+            "id": 799238,
+            "weight": 0.06567694655846429
+        },
+        {
+            "id": 861827,
+            "weight": 0.06356458267591682
+        },
+        {
+            "id": 1058165,
+            "weight": 0.06262611870602616
+        },
+        {
+            "id": 902707,
+            "weight": 0.059116378951005286
+        },
+        {
+            "id": 999124,
+            "weight": 0.0504983375052976
+        }
+    ],
+    "videostarttime": {
+        "1256336": 5807
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/11.03.25 Eindhoven meningv ciekamer.mp4/playlist.m3u8",
+    "keywords": {
+        "Veiligheidsregio Brabant": 1.9969836213843117,
+        "Brabant Zuidoost": 1.9969836213843117,
+        "betrokken organisaties": 0.9938757415773796,
+        "wijziging begroting": 1.9933803745996617,
+        "burgmeester zegt": 0.9871235098411706,
+        "jaar middels": 0.9871235098411706,
+        "Informeren doormiddel": 1.9840786788587441,
+        "Raadsvoorstel": 1.9659149321094045,
+        "VRBZO": 1.9659149321094045,
+        "Zuidoost": 1.9520103179949988,
+        "collegebrief": 1.944999304452483,
+        "betrokken": 0.944999304452483,
+        "Brabant": 1.9373342912018368,
+        "Informeren": 1.930502604839509,
+        "wijziging": 1.9189068799424867,
+        "begroting": 1.9189068799424867,
+        "crisissen": 0.9189068799424867,
+        "zegt": 0.8872489734321727,
+        "raad": 0.8872489734321727,
+        "loop": 0.8872489734321727,
+        "jaar": 0.8872489734321727,
+        "weerbaarheid": 0.8872489734321727,
+        "rol": 0.8872489734321727,
+        "personen": 0.8872489734321727,
+        "agenderingsverzoek": 0.8872489734321727,
+        "voorbereid": 0.8872489734321727,
+        "rampen": 0.8872489734321727
+    },
+    "svz": null,
+    "afgedaan": "31-12-2025",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

@@ -1,0 +1,59 @@
+{
+    "module_id": 984412,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230014,
+    "title": "Verduurzaming gemeentepanden - Raadsvoorstel Begroting 2025",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/984412",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "R. Thijs (Wethouder)",
+    "result": "",
+    "date": "29-10-2024",
+    "meeting_url": {
+        "1148141": "https://raadsinformatie.eindhoven.nl/vergadering/1148141#ai_8729567"
+    },
+    "attachment": null,
+    "parent": 975511,
+    "children": [],
+    "text": "Wethouder Thijs zegt toe dat er een voorstel komt naar de raad voor 15 panden",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 984424,
+            "weight": 3.988167020983032
+        },
+        {
+            "id": 850874,
+            "weight": 0.28867511102509164
+        }
+    ],
+    "videostarttime": {
+        "1148141": null
+    },
+    "videolink": null,
+    "keywords": {
+        "Raadsvoorstel Begroting": 1.9925553183866471,
+        "Wethouder Thijs": 0.9873976398760466,
+        "Verduurzaming gemeentepanden": 1.9742913828560065,
+        "panden": 1.9550880231213545,
+        "Thijs zegt": 0.955011371234592,
+        "Begroting": 1.9140368224837343,
+        "voorstel komt": 0.9029960071342576,
+        "Thijs": 0.8552226942577967,
+        "Verduurzaming": 1.8416830712200127,
+        "gemeentepanden": 1.8416830712200127,
+        "zegt": 0.7026344174397849,
+        "komt": 0.7026344174397849,
+        "raad": 0.7026344174397849
+    },
+    "svz": "Raadsvoorstel vastgesteld in raad 25 februari.\nVoorstel college: afvoeren ...  Lees verder ",
+    "afgedaan": "11-03-2025",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

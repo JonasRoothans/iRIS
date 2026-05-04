@@ -1,0 +1,98 @@
+{
+    "module_id": 997121,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230013,
+    "title": "Taxibranche - Raadsvoorstel Definitief vaststellen VO Stationsplein en Stationsweg",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/997121",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Steenbakkers (Wethouder)",
+    "result": "",
+    "date": "10-12-2024",
+    "meeting_url": {
+        "1297922": "https://raadsinformatie.eindhoven.nl/vergadering/1297922#ai_8847912"
+    },
+    "attachment": null,
+    "parent": 984847,
+    "children": [],
+    "text": "Wethouder Steenbakkers zegt toe na te vragen of verslagen van overleggen met de taxibranche gedeeld kunnen worden.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 984847,
+            "weight": 1.2603592885129185
+        },
+        {
+            "id": "a_8950516",
+            "weight": 1.242369176482849
+        },
+        {
+            "id": "a_8950514",
+            "weight": 0.6061669931534192
+        },
+        {
+            "id": 774744,
+            "weight": 0.34844950490270155
+        },
+        {
+            "id": 1146295,
+            "weight": 0.305499856287835
+        },
+        {
+            "id": 12963887,
+            "weight": 0.28507094012833517
+        },
+        {
+            "id": 15912198,
+            "weight": 0.24117147365492228
+        },
+        {
+            "id": 987078,
+            "weight": 0.13098763398336463
+        },
+        {
+            "id": 1126057,
+            "weight": 0.12104292507974325
+        },
+        {
+            "id": 844347,
+            "weight": 0.09507532100606723
+        },
+        {
+            "id": 883343,
+            "weight": 0.0760045913414394
+        },
+        {
+            "id": 922221,
+            "weight": 0.06930943166756921
+        }
+    ],
+    "videostarttime": {},
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_10.12.24_02-EINDHOVEN-CIE-ONDERTITEL_2024.12.10_170520.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Definitief": 1.9943786065225821,
+        "Stationsweg Wethouder": 0.9915950184697044,
+        "Wethouder Steenbakkers": 0.9915950184697044,
+        "Definitief vaststellen": 1.9835374423226297,
+        "Steenbakkers zegt": 0.9835374423226297,
+        "taxibranche gedeeld": 0.952855479489136,
+        "Definitief": 1.908704180676506,
+        "Stationsplein": 1.908704180676506,
+        "Wethouder": 0.908704180676506,
+        "vaststellen": 1.8225994208119776,
+        "zegt": 0.8225994208119777,
+        "vragen": 0.8225994208119777,
+        "overleggen": 0.8225994208119777,
+        "gedeeld": 0.8225994208119777
+    },
+    "svz": null,
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

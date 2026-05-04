@@ -1,0 +1,160 @@
+{
+    "module_id": 796136,
+    "vote_id": null,
+    "member_id": [
+        194500
+    ],
+    "party_list": [
+        "FVD"
+    ],
+    "poho_id": [],
+    "title": "Beantwoording raadsvragen Programmamanager maatschappelijke onrust (FvD)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/4/Raadsvragen/796136",
+    "type": "Raadsvraag",
+    "member": "Nicolas Knoester",
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "16-11-2022",
+    "meeting_url": null,
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/12084419/1?connection_type=17&connection_id=8833503": "Vraag",
+        "https://raadsinformatie.eindhoven.nl/document/12157901/2?connection_type=17&connection_id=8889296": "Antwoord"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/12084419/1?connection_type=17&connection_id=8833503",
+    "pdf_text": " \n \n \nRaadsvragen van de fractie  Forum voor Democratie : \n \n \nProgrammamanager maatschappelijke onrust  \n \ndatum:  15 november 2022  \n \n \nGeacht college,  \n \n \nInleiding  \n \nFVD heeft van verontruste inwoners en organisaties begrepen dat er \neen programmamanager actief is in Eindhoven specifiek gericht op: \n“maatschappelijke onrust, polarisatie & radicalisering”.  \n \nRaadsvragen  \n1. Is dit juist?  \nZo ja, wat is precies zijn / haar opdracht?  \n2. Hoe wordt dit budgettair gedekt?  \n3. Welke portefeuillehouder(s) is/zijn verantwoordelijk  voor deze \ntaakvelden ? \n4. Is dit niet een taak van de politie c.q. justitie?  \n5. Krijgt de raad ook inzage in de rapportages?  \n \n \nNamens de fractie  Forum voor Democratie , \n \nNicolas Knoester , raadslid  \n \n \n",
+    "bst": "22bst01595",
+    "related": [
+        {
+            "id": 776937,
+            "weight": 0.8183060270807357
+        },
+        {
+            "id": "a_7462821",
+            "weight": 0.3693048978386203
+        },
+        {
+            "id": 844568,
+            "weight": 0.3057990445211053
+        },
+        {
+            "id": 1052766,
+            "weight": 0.2840033020101788
+        },
+        {
+            "id": 776864,
+            "weight": 0.2780654834417878
+        },
+        {
+            "id": 1102017,
+            "weight": 0.2652424354730251
+        },
+        {
+            "id": 975788,
+            "weight": 0.252484905173636
+        },
+        {
+            "id": 915421,
+            "weight": 0.24661109313346283
+        },
+        {
+            "id": 1034759,
+            "weight": 0.24474588800994834
+        },
+        {
+            "id": 935518,
+            "weight": 0.24471736509118872
+        },
+        {
+            "id": 928284,
+            "weight": 0.24379250190241156
+        },
+        {
+            "id": 940782,
+            "weight": 0.19073323849483287
+        },
+        {
+            "id": 1076920,
+            "weight": 0.1885650809806558
+        },
+        {
+            "id": 862085,
+            "weight": 0.09778169525887319
+        },
+        {
+            "id": 971444,
+            "weight": 0.08952070972608238
+        },
+        {
+            "id": 1036407,
+            "weight": 0.0861716132530847
+        },
+        {
+            "id": 984141,
+            "weight": 0.08105738352962445
+        },
+        {
+            "id": 891691,
+            "weight": 0.07651657368546799
+        },
+        {
+            "id": 1115507,
+            "weight": 0.07265359723631588
+        },
+        {
+            "id": 833997,
+            "weight": 0.06547181290582166
+        },
+        {
+            "id": 954552,
+            "weight": 0.0650998540070945
+        },
+        {
+            "id": 1085543,
+            "weight": 0.05145545605962923
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Programmamanager maatschappelijke": 1.9946850569589347,
+        "maatschappelijke onrust": 1.9942508215616777,
+        "Inleiding FVD": 0.9917318385345377,
+        "Geacht college": 0.9880450041269484,
+        "Eindhoven specifiek": 0.9813564304121342,
+        "raadsvragen Programmamanager": 1.9732099360634445,
+        "onrust datum": 0.9728939875357638,
+        "Beantwoording raadsvragen": 1.949927909091532,
+        "onrust": 1.949143832512839,
+        "verontruste inwoners": 0.9483586321235566,
+        "organisaties begrepen": 0.9483586321235566,
+        "specifiek gericht": 0.9483586321235566,
+        "FvD": 1.9399656037974498,
+        "Geacht": 0.9317028229882741,
+        "Eindhoven": 0.9174072774629208,
+        "fractie Forum": 0.9164308557548773,
+        "raadsvragen": 1.9081096559261579,
+        "Democratie": 0.8751478415702711,
+        "november": 0.8731746894049544,
+        "polarisatie": 0.8731746894049544,
+        "radicalisering": 0.8731746894049544,
+        "Forum": 0.8529338557322157,
+        "datum": 0.8270241478593345,
+        "college": 0.8270241478593345,
+        "Nicolas Knoester": 0.8162763310828977,
+        "inwoners": 0.7784024074017611,
+        "begrepen": 0.7784024074017611,
+        "actief": 0.7784024074017611,
+        "Krijgt": 0.6197466262626445,
+        "Nicolas": 0.6060352282665515,
+        "Knoester": 0.6060352282665515
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194500,
+    "lastScrapeDate": "02-04-2026",
+    "meeting_id": []
+}

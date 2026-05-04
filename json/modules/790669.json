@@ -1,0 +1,96 @@
+{
+    "module_id": 790669,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 231116,
+    "title": "Inzet politiecapaciteit voetbalwedstrijden - overleg OM en politie",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/790669",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "J. Dijsselbloem (Burgemeester)",
+    "result": "",
+    "date": "01-11-2022",
+    "meeting_url": {
+        "1034744": "https://raadsinformatie.eindhoven.nl/vergadering/1034744#ai_7087593"
+    },
+    "attachment": null,
+    "parent": "ai_7087593",
+    "children": [],
+    "text": "Gaat in gesprek met OM en politie over de mogelijkheden om de inzet van de politie in Eindhoven te verminderen en informeert de raad hierover.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 790659,
+            "weight": 4.909506153631121
+        },
+        {
+            "id": 810287,
+            "weight": 0.41679424752273125
+        },
+        {
+            "id": 1144514,
+            "weight": 0.33111821676180825
+        },
+        {
+            "id": 780301,
+            "weight": 0.07784405980703638
+        },
+        {
+            "id": 873676,
+            "weight": 0.07403408967645644
+        },
+        {
+            "id": 779483,
+            "weight": 0.07251158032822687
+        },
+        {
+            "id": 1133031,
+            "weight": 0.06725170304282588
+        },
+        {
+            "id": 997004,
+            "weight": 0.06051309249519454
+        },
+        {
+            "id": 1147108,
+            "weight": 0.055704641035757674
+        },
+        {
+            "id": 1015331,
+            "weight": 0.05073806385038558
+        },
+        {
+            "id": 1133049,
+            "weight": 0.0471688891790205
+        }
+    ],
+    "videostarttime": {
+        "1034744": 1225
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_01.11.22_NC_Eindhoven_Raad.mp4/playlist.m3u8",
+    "keywords": {
+        "politie Gaat": 0.9900658022406805,
+        "politiecapaciteit voetbalwedstrijden": 1.9895324492313393,
+        "raad hierover": 0.9895324492313392,
+        "Inzet politiecapaciteit": 1.9815044415877456,
+        "Gaat": 0.9351929067888918,
+        "Eindhoven": 0.9351929067888918,
+        "Inzet": 1.9242576083608427,
+        "voetbalwedstrijden": 1.9135861398317613,
+        "overleg": 1.9135861398317613,
+        "gesprek": 0.8801220524830884,
+        "mogelijkheden": 0.8801220524830884,
+        "verminderen": 0.8801220524830884,
+        "informeert": 0.8801220524830884,
+        "raad": 0.8801220524830884
+    },
+    "svz": "COLLEGE: GRAAG AFVOEREN . In de Jaarrapportage Veiligheid 2023 is hier een stand van zaken over opgenomen. Ver...  Lees verder ",
+    "afgedaan": "26-03-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

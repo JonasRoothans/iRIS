@@ -1,0 +1,145 @@
+{
+    "module_id": 795427,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230019,
+    "title": "Raad informeren - Raadsvoorstel Erfgoedverordening gemeente Eindhoven en gewijzigde cultuurhistorische waardenkaart.",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/795427",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. van Lanschot (Wethouder)",
+    "result": "",
+    "date": "15-11-2022",
+    "meeting_url": {
+        "1032641": "https://raadsinformatie.eindhoven.nl/vergadering/1032641#ai_7109501"
+    },
+    "attachment": null,
+    "parent": 784763,
+    "children": [],
+    "text": "De raad te informeren via een nadere toelichting over of er extra bomen toegevoegd kunnen worden aan de bomenkaart en wat de voorwaarden zijn om gebouwen te slopen.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 795420,
+            "weight": 5.768396597221031
+        },
+        {
+            "id": 784763,
+            "weight": 3.833222798000101
+        },
+        {
+            "id": 898863,
+            "weight": 0.5473714135359731
+        },
+        {
+            "id": "ai_6986875",
+            "weight": 0.4106698231220702
+        },
+        {
+            "id": 787218,
+            "weight": 0.3822973775506184
+        },
+        {
+            "id": 1061333,
+            "weight": 0.37825842607477794
+        },
+        {
+            "id": 790692,
+            "weight": 0.20438585905355688
+        },
+        {
+            "id": 896955,
+            "weight": 0.20157021170510203
+        },
+        {
+            "id": 1139110,
+            "weight": 0.19690819125433967
+        },
+        {
+            "id": 792365,
+            "weight": 0.19182307009581848
+        },
+        {
+            "id": 817437,
+            "weight": 0.18510265194163897
+        },
+        {
+            "id": 892522,
+            "weight": 0.18103060034913618
+        },
+        {
+            "id": 827645,
+            "weight": 0.18046524265121888
+        },
+        {
+            "id": 776860,
+            "weight": 0.15993310075484837
+        },
+        {
+            "id": 889102,
+            "weight": 0.15168007807848316
+        },
+        {
+            "id": 992512,
+            "weight": 0.14419729099599413
+        },
+        {
+            "id": 13976012,
+            "weight": 0.13928606406633465
+        },
+        {
+            "id": 863920,
+            "weight": 0.10809374388472699
+        },
+        {
+            "id": 1023254,
+            "weight": 0.10631537026568998
+        },
+        {
+            "id": 984200,
+            "weight": 0.10244765211961242
+        },
+        {
+            "id": 1045702,
+            "weight": 0.09770984221357697
+        }
+    ],
+    "videostarttime": {
+        "1032641": 725
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_15.11.22_Eindhoven_menings_RZ.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Erfgoedverordening": 1.9948313975694116,
+        "Erfgoedverordening gemeente": 1.98496665516998,
+        "gemeente Eindhoven": 1.98496665516998,
+        "cultuurhistorische waardenkaart": 1.9779087843482661,
+        "gewijzigde cultuurhistorische": 1.9673582704763235,
+        "Raadsvoorstel": 1.9382736426768026,
+        "Eindhoven": 1.9166964394324466,
+        "waardenkaart": 1.8784322960955446,
+        "Raad informeren": 1.872078478482727,
+        "Raad": 1.831615399521664,
+        "informeren via": 0.8311747317738392,
+        "gemeente": 1.8222081924231195,
+        "gewijzigde": 1.8222081924231195,
+        "nadere toelichting": 0.7745777745062465,
+        "extra bomen": 0.7745777745062465,
+        "bomen toegevoegd": 0.7745777745062465,
+        "slopen": 0.6753821159206399,
+        "via": 0.5711005492332668,
+        "nadere": 0.5711005492332668,
+        "extra": 0.5711005492332668,
+        "bomen": 0.5711005492332668,
+        "voorwaarden": 0.5711005492332668,
+        "gebouwen": 0.5711005492332668
+    },
+    "svz": "Is uitgevoerd.\nVOORSTEL COLLEGE: AFVOEREN...  Lees verder ",
+    "afgedaan": "13-12-2022",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

@@ -1,0 +1,69 @@
+{
+    "module_id": "ai_8881621",
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Burgermotie Appartementen SPAR Buurtsuper V4 (BuM1)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/moties_en_toezeggingen/991227?parent_event=1148345",
+    "type": "Agenda",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "17-12-2024",
+    "meeting_url": "https://raadsinformatie.eindhoven.nl/vergadering/1148345#ai_8881621",
+    "attachment": null,
+    "parent": null,
+    "children": [
+        991227
+    ],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": "m_8882147",
+            "weight": 2.0525937864538557
+        },
+        {
+            "id": 1109494,
+            "weight": 0.6123889960814233
+        },
+        {
+            "id": 1135885,
+            "weight": 0.605434016151481
+        },
+        {
+            "id": "ai_9055795",
+            "weight": 0.6001087524879333
+        },
+        {
+            "id": 1011395,
+            "weight": 0.45565515464242623
+        },
+        {
+            "id": 1047600,
+            "weight": 0.22772809363754543
+        },
+        {
+            "id": 965292,
+            "weight": 0.1967727193200545
+        }
+    ],
+    "videostarttime": 3341,
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_17.12.24_NC_EINDHOVEN-RAA1.mp4/playlist.m3u8",
+    "keywords": {
+        "SPAR Buurtsuper": 1.9873976398760465,
+        "Appartementen SPAR": 1.9785907845614,
+        "Burgermotie Appartementen": 1.9765416191248102,
+        "SPAR": 1.8552226942577967,
+        "Burgermotie": 1.8416830712200127
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": null,
+    "meeting_id": []
+}

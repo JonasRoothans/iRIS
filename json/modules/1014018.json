@@ -1,0 +1,131 @@
+{
+    "module_id": 1014018,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Gerichte doorstroom voor wijkbewoners - Raadsvoorstel Bindend advies omgevingsvergunning Jacobuskerk, Orionstraat 5",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1014018",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "28-01-2025",
+    "meeting_url": {
+        "1256307": "https://raadsinformatie.eindhoven.nl/vergadering/1256307#ai_8953587"
+    },
+    "attachment": null,
+    "parent": 1009569,
+    "children": [],
+    "text": "Wethouder Verhees zegt toe met de ontwikkelaar te bespreken of hier gerichte doorstroom voor wijkbewoners gerealiseerd kan worden, en de raad hierover te informeren.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1014013,
+            "weight": 4.86641494331575
+        },
+        {
+            "id": 1014016,
+            "weight": 4.853368821778098
+        },
+        {
+            "id": 1009569,
+            "weight": 1.7187471900903852
+        },
+        {
+            "id": 1146335,
+            "weight": 0.6607779100264356
+        },
+        {
+            "id": 1015907,
+            "weight": 0.6359448949764321
+        },
+        {
+            "id": 836075,
+            "weight": 0.3881028187263926
+        },
+        {
+            "id": 955064,
+            "weight": 0.35720918475687036
+        },
+        {
+            "id": 856543,
+            "weight": 0.338034361204638
+        },
+        {
+            "id": 1015062,
+            "weight": 0.29768139881167605
+        },
+        {
+            "id": 1083889,
+            "weight": 0.2802549547964759
+        },
+        {
+            "id": 949342,
+            "weight": 0.18927740271267846
+        },
+        {
+            "id": 1146336,
+            "weight": 0.17351237266073694
+        },
+        {
+            "id": 1118693,
+            "weight": 0.16725128772646583
+        },
+        {
+            "id": 802844,
+            "weight": 0.154881885047152
+        },
+        {
+            "id": 1133337,
+            "weight": 0.1536493432786778
+        },
+        {
+            "id": 1119943,
+            "weight": 0.15211736145632165
+        },
+        {
+            "id": 1051400,
+            "weight": 0.1381871899867971
+        },
+        {
+            "id": 1052626,
+            "weight": 0.13050050104378627
+        }
+    ],
+    "videostarttime": {
+        "1256307": 908
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_28.01.25_02-EINDHOVEN-CIE-ONDERTITEL_2025.01.28_195251.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Bindend": 1.9940823475428064,
+        "Wethouder Verhees": 0.9940823475428064,
+        "omgevingsvergunning Jacobuskerk": 1.9881710059141824,
+        "Gerichte doorstroom": 1.9852642936187381,
+        "Bindend advies": 1.9823410414915972,
+        "Verhees zegt": 0.9823410414915972,
+        "Orionstraat": 1.9657219494640203,
+        "advies omgevingsvergunning": 1.9642844799006665,
+        "raad hierover": 0.9642844799006663,
+        "wijkbewoners gerealiseerd": 0.9607065229152042,
+        "Jacobuskerk": 1.9370446783282913,
+        "Bindend": 1.906555320515322,
+        "Gerichte": 1.8982008816438842,
+        "wijkbewoners": 1.8982008816438842,
+        "informeren": 0.8863079377134112,
+        "advies": 1.8143015634365183,
+        "zegt": 0.8143015634365182,
+        "ontwikkelaar": 0.8143015634365182,
+        "bespreken": 0.8143015634365182,
+        "gerealiseerd": 0.8143015634365182,
+        "raad": 0.8143015634365182
+    },
+    "svz": "Er komt een voorrangsregeling voor een specifiek postcodegebied, denk hierbij aan de wijken Eckart, Oude Grach...  Lees verder ",
+    "afgedaan": "03-06-2025",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

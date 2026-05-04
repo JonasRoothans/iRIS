@@ -1,0 +1,226 @@
+{
+    "module_id": 16332004,
+    "vote_id": null,
+    "member_id": [
+        194371,
+        194406,
+        194514,
+        194458,
+        194495
+    ],
+    "party_list": [
+        "Partij voor de Dieren",
+        "D66",
+        "PvdA",
+        "GroenLinks",
+        "CDA"
+    ],
+    "poho_id": [],
+    "title": "Rondvraag 2 - Nachtambassade ook op donderdag (D66, CDA, PvdD, PvdA, GL)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "04-12-2025",
+    "meeting_url": {
+        "1409853": "https://raadsinformatie.eindhoven.nl/vergadering/1409852/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://api.notubiz.nl/document/16332004/1",
+    "pdf_text": "    \n \nRondvraag – Nachtambassade ook op donderdag  \n \nTwee weken geleden was de opening van de nachtambassade. Een veilige haven in het hartje van het \nEindhovense uitgaansleven. Een hele mooie en belangrijke stap voor onze stad.  \n \nDe inzet van Nachtambassade richt zich op: preventie en herstel, een veilige plek voor bezoekers die zich \nangstig, overprikkeld of onveilig voelen. De pilotperiode  van zes weken  wordt gebruikt voor dataverzameling en \ninzicht in patronen en behoeften als input voor toekomstig beleid.  \n \nVorige week was het jaarlijkse studentendiner. Studentenfractie DAS organiseert dit om zo de gemeenteraad en \nverschillende studenten met elkaar in gesprek te laten gaan. Tijdens deze gesprekken kwam meermaals de vraag \nnaar voren waarom de nachtambassade al leen op vrijdag en zaterdag is geopend. Jongeren behoren tot de \ngrootste groep die te maken heeft met straatintimidatie en ander grensoverschrijdend gedrag. Donderdag is de \ndrukbezochtste  stapavond voor de Eindhovense studenten. Deze stapavond en daarmee eigenlijk ook deze \ndoelgroep, wordt nu niet meegenomen in de pilot. De indieners  hopen dat de pilot kan worden uitgebreid en ook \nop de donderdag de deuren wil openen!  \n \nDaarom hebben we de volgende vragen aan het college:  \n \n1. Is het college het met de indieners  eens dat studenten ook een safe space verdienen op stapavonden?  \n2. Is het college bereid om in gesprek te gaan met de initiatiefnemers om te kijken naar een uitbreiding van \nde donderdag?    \n3. Kan dit in beide gevallen worden meegenomen in de evaluatie?  \n \nEindhoven, 9 december  2025  \n \nLeden van de raad,   \nAnnelies Becker, Raadslid D66  \nYouri Gerrits, Commissielid CDA  \nVirginia Jonkers, Raadslid PvdD  \nRosa van den Nieuwenhof, Raadslid PvdA  \nSep Wittenbols , Raadslid GroenLinks  \n \n \n \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 1146302,
+            "weight": 0.9481755165415987
+        },
+        {
+            "id": 11875831,
+            "weight": 0.23987797196244282
+        },
+        {
+            "id": 1089938,
+            "weight": 0.18387339445626524
+        },
+        {
+            "id": 1133347,
+            "weight": 0.18053469754626553
+        },
+        {
+            "id": 884039,
+            "weight": 0.16589416047349845
+        },
+        {
+            "id": 16532271,
+            "weight": 0.16396250026351497
+        },
+        {
+            "id": 883443,
+            "weight": 0.15765790746493133
+        },
+        {
+            "id": 14351597,
+            "weight": 0.1448337444693885
+        },
+        {
+            "id": 15345664,
+            "weight": 0.13112785620073425
+        },
+        {
+            "id": "a_9477053",
+            "weight": 0.12370562612967052
+        },
+        {
+            "id": 1142714,
+            "weight": 0.09465165164101852
+        },
+        {
+            "id": 918990,
+            "weight": 0.08558748390563371
+        },
+        {
+            "id": 1141629,
+            "weight": 0.0813107362261155
+        },
+        {
+            "id": 787362,
+            "weight": 0.07883482114228763
+        },
+        {
+            "id": 1007610,
+            "weight": 0.07838416054818415
+        },
+        {
+            "id": 16556259,
+            "weight": 0.0739957156976178
+        },
+        {
+            "id": 13478967,
+            "weight": 0.07284893386038756
+        },
+        {
+            "id": 1085541,
+            "weight": 0.07175294830297349
+        },
+        {
+            "id": 862349,
+            "weight": 0.07098360429825863
+        },
+        {
+            "id": 12324230,
+            "weight": 0.07092039813307299
+        },
+        {
+            "id": 802993,
+            "weight": 0.0690655802008809
+        },
+        {
+            "id": 1142978,
+            "weight": 0.06741058827656424
+        },
+        {
+            "id": 13780819,
+            "weight": 0.06649757670217381
+        },
+        {
+            "id": 12326423,
+            "weight": 0.06358590365684882
+        },
+        {
+            "id": 1010499,
+            "weight": 0.060532260668155174
+        },
+        {
+            "id": 830105,
+            "weight": 0.060017053297223656
+        },
+        {
+            "id": 926103,
+            "weight": 0.05865741538252772
+        },
+        {
+            "id": 958683,
+            "weight": 0.05828474275739746
+        },
+        {
+            "id": 982296,
+            "weight": 0.05814526224690198
+        },
+        {
+            "id": 1124907,
+            "weight": 0.05755537889685302
+        },
+        {
+            "id": 859551,
+            "weight": 0.049521371802412145
+        },
+        {
+            "id": 15990695,
+            "weight": 0.049449537556137575
+        }
+    ],
+    "videostarttime": {
+        "1409853": 10641
+    },
+    "videolink": null,
+    "keywords": {
+        "Twee weken": 0.9758294302872894,
+        "donderdag Twee": 0.9750559744941857,
+        "Rondvraag": 1.9733580245526332,
+        "Nachtambassade": 1.9607221571071412,
+        "Twee": 0.9365370809252475,
+        "Raadslid": 0.9320133479052333,
+        "Eindhovense uitgaansleven": 0.8740589841476819,
+        "Eindhovense": 0.8552103046743621,
+        "college": 0.8472581340627888,
+        "studenten": 0.8439196173828849,
+        "Commissielid CDA": 0.8392326281819917,
+        "CDA": 1.8362580519905776,
+        "opening": 0.8346818906107358,
+        "CDA Virginia": 0.8327194561397766,
+        "veilige haven": 0.8319586262201681,
+        "weken": 0.8140635413022917,
+        "Annelies Becker": 0.7821733472528357,
+        "Youri Gerrits": 0.7821733472528357,
+        "Raadslid GroenLinks": 0.7749972392109986,
+        "Virginia Jonkers": 0.7728962589768362,
+        "Sep Wittenbols": 0.7728962589768362,
+        "gesprek": 0.7510236858100553,
+        "PvdD": 1.739457476376503,
+        "pilot": 0.7384684738144676,
+        "indieners": 0.7334036317906072,
+        "stapavond": 0.7322698862445218,
+        "meegenomen": 0.731909770113305,
+        "gaan": 0.730219720874382,
+        "Studentenfractie DAS": 0.7210405251895748,
+        "DAS organiseert": 0.7084367364547233,
+        "PvdD Rosa": 0.7046156397747929,
+        "PvdA Sep": 0.7046156397747929,
+        "belangrijke stap": 0.6656904707026186,
+        "DAS": 0.6380846904831612,
+        "haven": 0.5924593335933013,
+        "hartje": 0.5924593335933013,
+        "verschillende studenten": 0.587440636518116,
+        "Becker": 0.5770755709664548,
+        "Youri": 0.5770755709664548,
+        "Jonkers": 0.5770755709664548,
+        "Nieuwenhof": 0.5770755709664548,
+        "Rosa": 0.562397054553871,
+        "Sep": 0.562397054553871,
+        "college bereid": 0.5407339889714577,
+        "stad": 0.5216639014950586,
+        "toekomstig beleid": 0.5119323371412244
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194371,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1409853
+    ]
+}

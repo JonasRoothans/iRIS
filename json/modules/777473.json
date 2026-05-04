@@ -1,0 +1,100 @@
+{
+    "module_id": 777473,
+    "vote_id": null,
+    "member_id": [
+        194373
+    ],
+    "party_list": [
+        "Volt"
+    ],
+    "poho_id": [],
+    "title": "Beantwoording raadsvragen Volt (Brokmann) over Nieuwbouw Lorentz Casimir",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/4/Raadsvragen/777473",
+    "type": "Raadsvraag",
+    "member": "Robin Brokmann",
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "22-06-2022",
+    "meeting_url": null,
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/11772477/1?connection_type=17&connection_id=8593033": "Vraag"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": "22bst01054",
+    "related": [
+        {
+            "id": 777512,
+            "weight": 1.9478779409854787
+        },
+        {
+            "id": 783662,
+            "weight": 1.8051216771210963
+        },
+        {
+            "id": 797806,
+            "weight": 0.8790201344829822
+        },
+        {
+            "id": 12507261,
+            "weight": 0.8715804080921088
+        },
+        {
+            "id": 851075,
+            "weight": 0.7579943072607752
+        },
+        {
+            "id": 944422,
+            "weight": 0.5688322090598446
+        },
+        {
+            "id": 777444,
+            "weight": 0.5385562671990184
+        },
+        {
+            "id": 920714,
+            "weight": 0.2696112986334415
+        },
+        {
+            "id": 1050869,
+            "weight": 0.22206186945987444
+        },
+        {
+            "id": 1148207,
+            "weight": 0.21789903833426702
+        },
+        {
+            "id": 1148253,
+            "weight": 0.21560520652787396
+        },
+        {
+            "id": 785761,
+            "weight": 0.2027550139285327
+        },
+        {
+            "id": 894796,
+            "weight": 0.14424452153754813
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Lorentz Casimir": 1.9873976398760465,
+        "Nieuwbouw Lorentz": 1.9785907845614,
+        "raadsvragen Volt": 1.9737669269624916,
+        "Brokmann": 1.9696036283675864,
+        "Beantwoording raadsvragen": 1.9505961599793435,
+        "Volt": 1.9140368224837343,
+        "Casimir": 1.9140368224837343,
+        "Lorentz": 1.8552226942577967
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": "02-04-2026",
+    "meeting_id": []
+}

@@ -1,0 +1,121 @@
+{
+    "module_id": 984519,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230022,
+    "title": "Houtstook i.r.t. volksgezondheid en schone lucht akkoord - Raadsvoorstel Begroting 2025",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/984519",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Toub (Wethouder)",
+    "result": "",
+    "date": "29-10-2024",
+    "meeting_url": {
+        "1148141": "https://raadsinformatie.eindhoven.nl/vergadering/1148141#ai_8729567"
+    },
+    "attachment": null,
+    "parent": 975511,
+    "children": [],
+    "text": "Wethouder Toub zegt toe dat de raad technisch wordt geïnformeerd.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1061320,
+            "weight": 0.9715659622284918
+        },
+        {
+            "id": 984311,
+            "weight": 0.6791177553505211
+        },
+        {
+            "id": 945770,
+            "weight": 0.6459158426151717
+        },
+        {
+            "id": 1023254,
+            "weight": 0.43231969134845244
+        },
+        {
+            "id": 888288,
+            "weight": 0.2119724059506549
+        },
+        {
+            "id": 1060207,
+            "weight": 0.20121068114596838
+        },
+        {
+            "id": 973400,
+            "weight": 0.20044164833673972
+        },
+        {
+            "id": 930190,
+            "weight": 0.19400532513541885
+        },
+        {
+            "id": 1053245,
+            "weight": 0.1870630876952616
+        },
+        {
+            "id": 1036333,
+            "weight": 0.17132929228308988
+        },
+        {
+            "id": 984501,
+            "weight": 0.09775346983380981
+        },
+        {
+            "id": 796519,
+            "weight": 0.09775346983380981
+        },
+        {
+            "id": 790708,
+            "weight": 0.09674944834353733
+        },
+        {
+            "id": 790707,
+            "weight": 0.09660166628667291
+        },
+        {
+            "id": 781186,
+            "weight": 0.08596157084802312
+        },
+        {
+            "id": 781185,
+            "weight": 0.08544633853196754
+        },
+        {
+            "id": 850906,
+            "weight": 0.0643107797465193
+        }
+    ],
+    "videostarttime": {
+        "1148141": null
+    },
+    "videolink": null,
+    "keywords": {
+        "Raadsvoorstel Begroting": 1.9925553183866471,
+        "Wethouder Toub": 0.9873976398760466,
+        "Houtstook": 1.9550880231213545,
+        "Toub zegt": 0.955011371234592,
+        "lucht akkoord": 1.9505961599793435,
+        "Begroting": 1.9140368224837343,
+        "schone lucht": 1.9029960071342575,
+        "raad technisch": 0.9029960071342576,
+        "Toub": 0.8552226942577967,
+        "volksgezondheid": 1.8416830712200127,
+        "geïnformeerd": 0.8416830712200127,
+        "schone": 1.702634417439785,
+        "lucht": 1.702634417439785,
+        "zegt": 0.7026344174397849,
+        "raad": 0.7026344174397849
+    },
+    "svz": null,
+    "afgedaan": "19-11-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

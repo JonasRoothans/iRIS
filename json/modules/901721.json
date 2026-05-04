@@ -1,0 +1,83 @@
+{
+    "module_id": 901721,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230013,
+    "title": "Maatschappelijke behoeftes - Clusterpaspoort Ontwikkelvisie Fellenoord: Cluster 9b",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/moties_en_toezeggingen/901721?parent_event=1149340",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Steenbakkers (Wethouder)",
+    "result": "",
+    "date": "05-12-2023",
+    "meeting_url": {
+        "1149340": "https://raadsinformatie.eindhoven.nl/vergadering/1149340#ai_8032578"
+    },
+    "attachment": null,
+    "parent": "ai_8032578",
+    "children": [],
+    "text": "Wethouder Steenbakkers zegt toe om voor de vrijkomende locaties door de verhuizing van overheidsdiensten, wordt gekeken naar invulling voor maatschappelijke behoeftes, waaronder wonen.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": "ai_8032578",
+            "weight": 3.1690452266663987
+        },
+        {
+            "id": 905855,
+            "weight": 1.0329986869902206
+        },
+        {
+            "id": 1089014,
+            "weight": 0.264316925143139
+        },
+        {
+            "id": 872919,
+            "weight": 0.26245206447416114
+        },
+        {
+            "id": 1111855,
+            "weight": 0.12242322920691819
+        },
+        {
+            "id": 956471,
+            "weight": 0.11891465984096583
+        },
+        {
+            "id": 972265,
+            "weight": 0.10117156122850385
+        }
+    ],
+    "videostarttime": {},
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_05.12.23_EINDHOVEN-Raadscommissie Knoop XL.mp4/playlist.m3u8",
+    "keywords": {
+        "Clusterpaspoort Ontwikkelvisie": 1.9942255759236294,
+        "Ontwikkelvisie Fellenoord": 1.9942255759236294,
+        "Wethouder Steenbakkers": 0.9942255759236293,
+        "Maatschappelijke behoeftes": 1.9918355768024778,
+        "waaronder wonen": 0.9875220639166741,
+        "Steenbakkers zegt": 0.9829242431044253,
+        "Cluster": 1.9662738269496023,
+        "vrijkomende locaties": 0.9658687051637375,
+        "behoeftes": 1.9593164607784943,
+        "Clusterpaspoort": 1.9378744897269777,
+        "Fellenoord": 1.9378744897269777,
+        "Wethouder": 0.9378744897269777,
+        "overheidsdiensten": 0.8889857844605916,
+        "wonen": 0.8889857844605916,
+        "zegt": 0.8183277722563624,
+        "locaties": 0.8183277722563624,
+        "verhuizing": 0.8183277722563624,
+        "gekeken": 0.8183277722563624,
+        "invulling": 0.8183277722563624
+    },
+    "svz": null,
+    "afgedaan": "10-12-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

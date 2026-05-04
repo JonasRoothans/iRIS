@@ -1,0 +1,162 @@
+{
+    "module_id": 1062482,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 248564,
+    "title": "Raadsvoorstel HOV4 vaststellen ontwerp en kredietaanvraag",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1062482",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "R. Strijk (Wethouder)",
+    "result": "",
+    "date": "01-07-2025",
+    "meeting_url": {
+        "1256322": "https://raadsinformatie.eindhoven.nl/vergadering/1256322#ai_9375568"
+    },
+    "attachment": null,
+    "parent": 1047369,
+    "children": [],
+    "text": "Wethouder Strijk zegt toe:\n\nde doorstroming op de Karel de Grote laan te monitoren en met verbetervoorstellen te komen indien nodig;\nbij de provincie te bepleiten dat het voordeel in het exploitatieresultaat ad € 470.000,- ten gunste komt van andere buslijnen in Eindhoven en een eenmalige compensatie groencompensatie.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1057251,
+            "weight": 0.6370617544109607
+        },
+        {
+            "id": 1057250,
+            "weight": 0.6344942746305824
+        },
+        {
+            "id": 1057253,
+            "weight": 0.6270481802355078
+        },
+        {
+            "id": 1057248,
+            "weight": 0.6268491859103821
+        },
+        {
+            "id": 1047369,
+            "weight": 0.42970144481267597
+        },
+        {
+            "id": 949028,
+            "weight": 0.42017389587906656
+        },
+        {
+            "id": 948371,
+            "weight": 0.31460902843631816
+        },
+        {
+            "id": "a_9477074",
+            "weight": 0.20808922508023808
+        },
+        {
+            "id": "a_9477053",
+            "weight": 0.19991356079555125
+        },
+        {
+            "id": 1060059,
+            "weight": 0.18569297575372332
+        },
+        {
+            "id": 974304,
+            "weight": 0.10061967503543352
+        },
+        {
+            "id": 877589,
+            "weight": 0.1003798738861838
+        },
+        {
+            "id": 1144514,
+            "weight": 0.09822057387299087
+        },
+        {
+            "id": 912028,
+            "weight": 0.09323505940888714
+        },
+        {
+            "id": 830966,
+            "weight": 0.09280195991145211
+        },
+        {
+            "id": 1097551,
+            "weight": 0.0926409321752872
+        },
+        {
+            "id": 790689,
+            "weight": 0.09132412256057586
+        },
+        {
+            "id": 825617,
+            "weight": 0.08009004162627525
+        },
+        {
+            "id": 1145711,
+            "weight": 0.07976160520031314
+        },
+        {
+            "id": 1121895,
+            "weight": 0.07814506608191357
+        },
+        {
+            "id": 951155,
+            "weight": 0.07543278372427538
+        },
+        {
+            "id": 16451083,
+            "weight": 0.06684795297814763
+        },
+        {
+            "id": 791825,
+            "weight": 0.06682477295756682
+        },
+        {
+            "id": 16360928,
+            "weight": 0.06609487998144097
+        }
+    ],
+    "videostarttime": {
+        "1256322": 2343
+    },
+    "videolink": null,
+    "keywords": {
+        "Wethouder Strijk": 0.9967389880162213,
+        "kredietaanvraag Wethouder": 0.9945151091550534,
+        "Strijk zegt": 0.9945151091550534,
+        "Grote laan": 0.9945151091550534,
+        "vaststellen ontwerp": 1.9934079021435682,
+        "compensatie groencompensatie": 0.9934079021435682,
+        "gunste komt": 0.9907606676728519,
+        "Raadsvoorstel": 1.9550880231213545,
+        "Karel": 0.9429876123096684,
+        "Grote": 0.9429876123096684,
+        "Eindhoven": 0.9429876123096684,
+        "nodig": 0.9315541819386112,
+        "ontwerp": 1.9043195497355658,
+        "zegt": 0.9043195497355658,
+        "doorstroming": 0.9043195497355658,
+        "laan": 0.9043195497355658,
+        "monitoren": 0.9043195497355658,
+        "verbetervoorstellen": 0.9043195497355658,
+        "komen": 0.9043195497355658,
+        "provincie": 0.9043195497355658,
+        "bepleiten": 0.9043195497355658,
+        "voordeel": 0.9043195497355658,
+        "exploitatieresultaat": 0.9043195497355658,
+        "buslijnen": 0.9043195497355658,
+        "eenmalige": 0.9043195497355658,
+        "compensatie": 0.9043195497355658
+    },
+    "svz": null,
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "02-10-2025",
+    "meeting_id": [
+        1256322
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "module_id": 984517,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230019,
+    "title": "Vrijwilligerswerving - Raadsvoorstel Begroting 2025",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/984517",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. van Lanschot (Wethouder)",
+    "result": "",
+    "date": "29-10-2024",
+    "meeting_url": {
+        "1148141": "https://raadsinformatie.eindhoven.nl/vergadering/1148141#ai_8729567"
+    },
+    "attachment": null,
+    "parent": 975511,
+    "children": [],
+    "text": "Wethouder van Lanschot zegt toe dat hij in gesprek gaat met bedrijven en werkgevers om werknemers aan te sporen om vrijwilliger te worden.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 984304,
+            "weight": 0.31836539599543856
+        },
+        {
+            "id": 881614,
+            "weight": 0.19149918791049736
+        },
+        {
+            "id": 15287074,
+            "weight": 0.08479561483560161
+        },
+        {
+            "id": 956672,
+            "weight": 0.08252330974267216
+        },
+        {
+            "id": 827135,
+            "weight": 0.07692683008803383
+        },
+        {
+            "id": 892441,
+            "weight": 0.0756430912108857
+        },
+        {
+            "id": 1044201,
+            "weight": 0.06406052735315625
+        },
+        {
+            "id": 1080458,
+            "weight": 0.06399882682544793
+        },
+        {
+            "id": 1136754,
+            "weight": 0.06311678050775155
+        },
+        {
+            "id": 807848,
+            "weight": 0.05015874207684005
+        }
+    ],
+    "videostarttime": {
+        "1148141": null
+    },
+    "videolink": null,
+    "keywords": {
+        "Raadsvoorstel Begroting": 1.9967389880162214,
+        "Lanschot zegt": 0.986202801796007,
+        "gesprek gaat": 0.9742913828560066,
+        "Vrijwilligerswerving": 1.9550880231213545,
+        "Begroting": 1.9429876123096683,
+        "Wethouder": 0.9429876123096684,
+        "zegt": 0.8416830712200127,
+        "gaat": 0.8416830712200127,
+        "bedrijven": 0.8416830712200127,
+        "werkgevers": 0.8416830712200127,
+        "sporen": 0.8416830712200127
+    },
+    "svz": "Dit is meegenomen in het uitvoeringsprogramma Vrijwillig voor elkaar. Over dit uitvoeringsprogramma is op 22 j...  Lees verder ",
+    "afgedaan": "18-02-2025",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

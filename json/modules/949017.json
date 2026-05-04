@@ -1,0 +1,125 @@
+{
+    "module_id": 949017,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": null,
+    "title": "Programmabureau - Raadsvoorstel Oprichting vereniging Brainport voor Elkaar",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/949017",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Esselbrugge (Wethouder)",
+    "result": "",
+    "date": "04-06-2024",
+    "meeting_url": {
+        "1147940": "https://raadsinformatie.eindhoven.nl/vergadering/1147940#ai_8430501"
+    },
+    "attachment": null,
+    "parent": 941275,
+    "children": [],
+    "text": "Stadsgezant Van Kessel beantwoordt de vragen en zegt toe het signaal mee te nemen dat maatschappelijke organisaties weinig wederkerigheid ervaren van het programmabureau.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 948994,
+            "weight": 3.263775385768337
+        },
+        {
+            "id": 989926,
+            "weight": 0.792237682527926
+        },
+        {
+            "id": 977899,
+            "weight": 0.7918407228779187
+        },
+        {
+            "id": 941275,
+            "weight": 0.49552524453549734
+        },
+        {
+            "id": 1020447,
+            "weight": 0.4945257438436532
+        },
+        {
+            "id": 1102017,
+            "weight": 0.42876969439331536
+        },
+        {
+            "id": 988042,
+            "weight": 0.4229175865062672
+        },
+        {
+            "id": 991304,
+            "weight": 0.39715281488940424
+        },
+        {
+            "id": 915841,
+            "weight": 0.310355576525165
+        },
+        {
+            "id": 920891,
+            "weight": 0.29161505940588317
+        },
+        {
+            "id": 831862,
+            "weight": 0.27758148732503474
+        },
+        {
+            "id": 1041650,
+            "weight": 0.26711471865013947
+        },
+        {
+            "id": 949458,
+            "weight": 0.24757607133447068
+        },
+        {
+            "id": 1139975,
+            "weight": 0.23250983435665146
+        },
+        {
+            "id": 16166531,
+            "weight": 0.22403867020369206
+        },
+        {
+            "id": 960647,
+            "weight": 0.21740446182447762
+        },
+        {
+            "id": 1011191,
+            "weight": 0.19014868362197007
+        }
+    ],
+    "videostarttime": {
+        "1147940": 359
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_04.06.24_Eindhoven_meningCK.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Oprichting": 1.994479650464072,
+        "Elkaar Stadsgezant": 0.9917333894806133,
+        "Oprichting vereniging": 1.9839367976979436,
+        "vereniging Brainport": 1.9839367976979436,
+        "Kessel beantwoordt": 0.9839367976979435,
+        "signaal mee": 0.9685575990805156,
+        "maatschappelijke organisaties": 0.9685575990805156,
+        "wederkerigheid ervaren": 0.9685575990805156,
+        "Programmabureau": 1.935870846669198,
+        "Oprichting": 1.9094525872683863,
+        "Brainport": 1.9094525872683863,
+        "Elkaar": 1.9094525872683863,
+        "Kessel": 0.9094525872683864,
+        "vereniging": 1.8254035696529312,
+        "vragen": 0.8254035696529312,
+        "zegt": 0.8254035696529312,
+        "mee": 0.8254035696529312,
+        "nemen": 0.8254035696529312,
+        "organisaties": 0.8254035696529312
+    },
+    "svz": null,
+    "afgedaan": "18-02-2025",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

@@ -1,0 +1,87 @@
+{
+    "module_id": 1139828,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230014,
+    "title": "Jaarlijkse rapportage Eindhoven Energie en energietransitie",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1139828",
+    "type": "Toezegging",
+    "member": "",
+    "party": "",
+    "poho": "R. Thijs (Wethouder)",
+    "result": "",
+    "date": "03-03-2026",
+    "meeting_url": {
+        "1374927": "https://raadsinformatie.eindhoven.nl/vergadering/1374927#ai_10009992"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": "Een jaarlijkse rapportage op te stellen over de financiën van Eindhoven Energie en daarin ook informatie op te nemen over de betaalbaarheid van de energietransitie voor inwoners.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 787901,
+            "weight": 1.3227816597757232
+        },
+        {
+            "id": 1057248,
+            "weight": 1.2658175575849382
+        },
+        {
+            "id": 1126036,
+            "weight": 0.49938229429168196
+        },
+        {
+            "id": 1046814,
+            "weight": 0.49907555572241574
+        },
+        {
+            "id": 1126821,
+            "weight": 0.4989634850289116
+        },
+        {
+            "id": 1076225,
+            "weight": 0.24768042751995217
+        },
+        {
+            "id": 991657,
+            "weight": 0.24738835505466994
+        },
+        {
+            "id": "a_10115066",
+            "weight": 0.24105907522550732
+        },
+        {
+            "id": 1141484,
+            "weight": 0.24003848850698448
+        }
+    ],
+    "videostarttime": {
+        "1374927": 15082
+    },
+    "videolink": null,
+    "keywords": {
+        "Eindhoven Energie": 1.9975631567763044,
+        "rapportage Eindhoven": 1.9874674716039902,
+        "Jaarlijkse rapportage": 1.9874115794045728,
+        "Energie": 1.9692965180966975,
+        "Jaarlijkse": 1.9216441851889194,
+        "rapportage": 1.9216441851889194,
+        "inwoners": 0.9004409516574496,
+        "energietransitie": 1.8990611885422428,
+        "stellen": 0.8526887086990356,
+        "financiën": 0.8526887086990356,
+        "informatie": 0.8526887086990356,
+        "nemen": 0.8526887086990356,
+        "betaalbaarheid": 0.8526887086990356
+    },
+    "svz": "planning volgt",
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "08-04-2026",
+    "meeting_id": []
+}

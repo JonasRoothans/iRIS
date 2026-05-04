@@ -1,0 +1,140 @@
+{
+    "module_id": 11753466,
+    "vote_id": null,
+    "member_id": [
+        131137
+    ],
+    "party_list": [
+        "PvdA"
+    ],
+    "poho_id": [],
+    "title": "Rondvraag PvdA Eindhoven de liefste",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "24-08-2022",
+    "meeting_url": {
+        "1013427": "https://raadsinformatie.eindhoven.nl/vergadering/1013406/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://api.notubiz.nl/document/11753466/1",
+    "pdf_text": " \n \n \nRondvraag  van de fractie:  PvdA  \n \n \nEindhoven de liefste  \n \ndatum: 12 april 2022  \n \nInleiding  \nDe woningmarkt in Eindhoven blijft nog steeds krap ondanks dat er flink \nwordt bijgebouwd. Corporaties hebben veel gebouwd voor gezinnen, \nterwijl sommige huurders nu alleen wonen in een driekamerwoning. In \nDen Haag werd er een creatief idee bedacht om doors troming in de \nhuursector te bevorderen.  \n \nVorige week lazen we in de krant1 over een initiatief van woning \ncoöperatie Staedion over het beter benutten van de bestaande \nwoningvoorraad. Dat initiatief gaat over het koppelen van alleenstaande \nhuurders. Daarm ee zou je twee vliegen in 1 klap slaan: huurders \ngelukkig maken in de liefde en de doorstroming op de woningmarkt \nbevorderen. Daarnaast zou het mogelijk een bijdrage kunnen leveren \naan het probleem van eenzaamheid.  \n \nDoor vrijgezelle bewoners uit de regio a an elkaar te koppelen \nkunnen we mensen  blij maken in de liefde én de doorstroom op de \nkrappe woningmarkt bevorderen. Want voor iedere twee singles die \ngaan samenwonen, blijft een (sociale) huurwoning achter.2 \n \n \nVragen  \n1. De PvdA is niet alleen voor het promootten van de sociale \ncohesie, maar ook zeker van de liefde. Is de wethouder bereid \ndeze creatieve mogelijkheid om huurders te matchen aan te \nbevelen bij de Eindhovense corporaties?  \n \nNamens de fractie  PvdA , \n \nWil van Haalen , raads lid \nIn samenwerking met Jan Hopstaken, (te benoemen) commissielid  \n \n1 \nhttps://krant.ed.nl/titles/eindhovensdagblad/7156/publications/13081/articles/15\n64740/10/2   \n2 https://www.staedion.nl/single   \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 856439,
+            "weight": 0.9805796155860964
+        },
+        {
+            "id": 12083179,
+            "weight": 0.9464004924301351
+        },
+        {
+            "id": 12755170,
+            "weight": 0.44375191504007705
+        },
+        {
+            "id": 888437,
+            "weight": 0.29856011799525634
+        },
+        {
+            "id": 774017,
+            "weight": 0.27970235984361436
+        },
+        {
+            "id": 998954,
+            "weight": 0.24456706428536468
+        },
+        {
+            "id": 925503,
+            "weight": 0.21625265644128192
+        },
+        {
+            "id": 820486,
+            "weight": 0.20275341336119349
+        },
+        {
+            "id": 13911705,
+            "weight": 0.15098631415138433
+        },
+        {
+            "id": 1043033,
+            "weight": 0.1244016935031765
+        },
+        {
+            "id": 1141695,
+            "weight": 0.11285995834477543
+        }
+    ],
+    "videostarttime": {
+        "1013427": 1480
+    },
+    "videolink": null,
+    "keywords": {
+        "liefste Rondvraag": 0.9932260044941926,
+        "PvdA Eindhoven": 1.9920433214832414,
+        "Eindhoven blijft": 0.982776629089284,
+        "krap ondanks": 0.9747156481237518,
+        "Rondvraag PvdA": 1.9714200688146442,
+        "liefste": 1.9507512789759538,
+        "Inleiding": 0.9412382077137469,
+        "woningmarkt bevorderen": 0.9324611184474283,
+        "huurders": 0.9100547453485843,
+        "PvdA": 1.8983107186052617,
+        "bevorderen": 0.8913775356902284,
+        "woningmarkt": 0.8782704312032685,
+        "april": 0.8665805542276727,
+        "datum": 0.8548895184386405,
+        "bijgebouwd": 0.8548895184386405,
+        "krap": 0.8429623642248913,
+        "flink": 0.8429623642248913,
+        "coöperatie Staedion": 0.8144290929688449,
+        "Jan Hopstaken": 0.8102905558962393,
+        "initiatief": 0.787535932426308,
+        "blijft": 0.7801624565911878,
+        "fractie PvdA": 0.7749512976385836,
+        "maken": 0.7699584266229151,
+        "Eindhovense corporaties": 0.7669024987270974,
+        "Corporaties": 0.7636047826106638,
+        "koppelen": 0.7636047826106638,
+        "twee": 0.7555584785223665,
+        "Haag": 0.7481843834342363,
+        "sociale": 0.7436043332965312,
+        "alleenstaande huurders": 0.7427459549513914,
+        "huurders gelukkig": 0.7294465847063616,
+        "Staedion": 0.7079816719814322,
+        "creatief idee": 0.6920304875884129,
+        "idee bedacht": 0.6920304875884129,
+        "Vragen": 0.648115054929667,
+        "gezinnen": 0.6291190140264796,
+        "driekamerwoning": 0.6291190140264796,
+        "gelukkig maken": 0.6257948711107462,
+        "Vorige week": 0.6209364418081421,
+        "bestaande woningvoorraad": 0.6209364418081421,
+        "Haalen": 0.6082059054953262,
+        "wonen": 0.6071622079314469,
+        "week lazen": 0.596873535335214,
+        "woning coöperatie": 0.596873535335214,
+        "Jan": 0.593003985203101,
+        "twee vliegen": 0.5928331462545238,
+        "iedere twee": 0.5508017300080469,
+        "sociale cohesie": 0.5320875581759528,
+        "klap slaan": 0.520705580246142,
+        "idee": 0.5147617227530839,
+        "troming": 0.5147617227530839,
+        "huursector": 0.5147617227530839
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 131137,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1013427
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "module_id": 792344,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Raadsvoorstel Benoeming 3e extern lid van de rekenkamer",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/19/Raadsvoorstellen/792344",
+    "type": "Raadsvoorstel",
+    "member": null,
+    "party": null,
+    "poho": "",
+    "result": "Afgerond",
+    "date": "29-11-2022",
+    "meeting_url": {
+        "1013585": "https://raadsinformatie.eindhoven.nl/vergadering/1013585#ai_7159131"
+    },
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/12026805/1/Raadsvoorstel+benoeming+3e+lid+Rekenkamer?connection_type=17&connection_id=8784970": "Raadsvoorstel benoeming 3e lid Rekenkamer"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/12120093/1?connection_type=17&connection_id=8860935",
+    "pdf_text": " \n \n \n  gemeente Eindhoven  \nInboeknummer   \nDossiernummer      \n \nRaadsvoorstel    Beno eming 3e extern lid  van de rekenkamer   \n \n  \n \n  \n \n   \n   Raadsbesluit   \n \nDe raad van de gemeente Eindhoven;  \ngezien het voorstel van de Agendacommissie ; \ngelet op artikel  81c van de Gemeentewet en artikel 3  van de Verordening op de \nrekenkamer gemeente Eindhoven 20 22; \n \n \nbesluit:  \nTe benoemen als 3e extern  rekenkamer lid vanaf 1 december 2022 v oor de periode van \n2022 -2028:  \nW.E.J.M. Bens MSc. RTTP.  \n  \n \n \nAldus vastgesteld in de openbare vergadering van  29 november 2022.  \n \n \n \n \n \nJ. Jongbloed , griffier.  \n \n \n ",
+    "bst": "",
+    "related": [
+        {
+            "id": 1109425,
+            "weight": 0.7972376619597281
+        },
+        {
+            "id": 942285,
+            "weight": 0.7899675899057453
+        },
+        {
+            "id": 1104200,
+            "weight": 0.4446956787388192
+        },
+        {
+            "id": 790022,
+            "weight": 0.3267856154677125
+        },
+        {
+            "id": 902576,
+            "weight": 0.3106278775145258
+        },
+        {
+            "id": 831803,
+            "weight": 0.29931785470121197
+        },
+        {
+            "id": 792357,
+            "weight": 0.06978726067275785
+        },
+        {
+            "id": 938319,
+            "weight": 0.0630874838754136
+        },
+        {
+            "id": 780518,
+            "weight": 0.059416474758369475
+        },
+        {
+            "id": 835425,
+            "weight": 0.058389876467865545
+        },
+        {
+            "id": 984847,
+            "weight": 0.05824751014088416
+        },
+        {
+            "id": 784785,
+            "weight": 0.04987661983609682
+        }
+    ],
+    "videostarttime": {
+        "1013585": 1091
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_29.11.22-EINDHOVEN-RAA-ONDERTITEL_2022.11.29_195657.mp4/playlist.m3u8",
+    "keywords": {
+        "gemeente Eindhoven": 0.9984601062372288,
+        "Eindhoven Inboeknummer": 0.9966193383490839,
+        "extern lid": 1.9956811965671175,
+        "rekenkamer gemeente": 0.9954980761877554,
+        "Inboeknummer Dossiernummer": 0.9953217775525793,
+        "Raadsvoorstel Benoeming": 1.9946341737585853,
+        "Dossiernummer Raadsvoorstel": 0.9940018104179942,
+        "extern rekenkamer": 0.9922304258349346,
+        "Beno eming": 0.9897182458190872,
+        "Eindhoven": 0.9835415934496976,
+        "gemeente": 0.9689558311302864,
+        "lid": 1.9645239653630417,
+        "artikel": 0.9451204929585493,
+        "Agendacommissie": 0.9389175515551742,
+        "Dossiernummer": 0.9317618977998716,
+        "Beno": 1.9317618977998716,
+        "Raadsbesluit": 0.9317618977998716,
+        "december": 0.8734676052105799,
+        "eming": 1.8508587540960828,
+        "gezien": 0.8508587540960828,
+        "gelet": 0.8508587540960828,
+        "raad": 0.8274025838397718,
+        "voorstel": 1.8274025838397718,
+        "oor": 1.8274025838397718,
+        "periode": 0.8274025838397718,
+        "RTTP": 0.7760654920184333,
+        "Jongbloed": 0.6846927558480778,
+        "MSc": 0.6215928833354168,
+        "openbare vergadering": 0.5335287377949888
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": "10-04-2026",
+    "meeting_id": []
+}

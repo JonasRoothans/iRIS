@@ -1,0 +1,133 @@
+{
+    "module_id": 789881,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Raadsvoorstel benoeming lid Raadscommissie Knoop XL",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/19/Raadsvoorstellen/789881",
+    "type": "Raadsvoorstel",
+    "member": null,
+    "party": null,
+    "poho": "",
+    "result": "Afgerond",
+    "date": "08-11-2022",
+    "meeting_url": {
+        "1013582": "https://raadsinformatie.eindhoven.nl/vergadering/1013582#ai_7134008"
+    },
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/11987175/1/Raadsvoorstel+benoeming+lid+Raadscommissie+Knoop+XL?connection_type=17&connection_id=8752051": "Raadsvoorstel benoeming lid Raadscommissie Knoop XL"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/12024262/1?connection_type=17&connection_id=8782955",
+    "pdf_text": " \n \n \n  \n   \n \n \n  gemeente Eindhoven  \nRaadsnummer   \nInboeknummer   \nDossiernummer      \n \nRaads voorstel    benoem ing lid raadscommissie Knoop  XL \n \n \n \nRaadsbesluit   \n    \n \nDe raad van de gemeente Eindhoven;  \ngelet op het bepaalde in de  Verordening op de raadscommissie Knoop  XL gemeente \nEindhoven 2022;  \ngelet op het raadsbesluit tot ontheffing leden van de Meningsvormende Vergadering d.d. \n11 oktober 2022;  \n \nbesluit:  \n \n1. De volgende perso on voor de periode 2022 -2026 te benoemen tot l id van de \nraadscommissie Knoop XL:  \n R.G.J.  Reker.  \n  \n \nAldus vastgesteld in de openbare vergadering van  8 november  2022 . \n \n \n \n \nJ. Jongbloed , griffier . \n \n \n ",
+    "bst": "",
+    "related": [
+        {
+            "id": 846881,
+            "weight": 1.8230580880539557
+        },
+        {
+            "id": 874990,
+            "weight": 0.9623405237693272
+        },
+        {
+            "id": 922221,
+            "weight": 0.6553983250321779
+        },
+        {
+            "id": 927676,
+            "weight": 0.6546271247062968
+        },
+        {
+            "id": 902576,
+            "weight": 0.652380117505232
+        },
+        {
+            "id": 844347,
+            "weight": 0.6477381460849893
+        },
+        {
+            "id": 826914,
+            "weight": 0.5499726557420731
+        },
+        {
+            "id": 1105224,
+            "weight": 0.5403800021047075
+        },
+        {
+            "id": 780446,
+            "weight": 0.5382758730755477
+        },
+        {
+            "id": 877235,
+            "weight": 0.537942342235887
+        },
+        {
+            "id": 802773,
+            "weight": 0.5339069956896775
+        },
+        {
+            "id": 1148212,
+            "weight": 0.33882978671822883
+        },
+        {
+            "id": 1148273,
+            "weight": 0.3361148297327301
+        },
+        {
+            "id": 1148253,
+            "weight": 0.3356228370440123
+        },
+        {
+            "id": 890134,
+            "weight": 0.1587011842424193
+        },
+        {
+            "id": 905295,
+            "weight": 0.1511343052803977
+        }
+    ],
+    "videostarttime": {
+        "1013582": 852
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_08.11.22_NC_Eindhoven_Raad.mp4/playlist.m3u8",
+    "keywords": {
+        "gemeente Eindhoven": 0.9981631957349181,
+        "Eindhoven Raadsnummer": 0.9962282805783605,
+        "Raadscommissie Knoop": 1.9950967005599831,
+        "Raadsnummer Inboeknummer": 0.9949318866864549,
+        "Dossiernummer Raads": 0.9932583784622557,
+        "lid Raadscommissie": 1.9870252907804238,
+        "Eindhoven": 0.9823616580851274,
+        "Raads voorstel": 0.9821681229816951,
+        "Meningsvormende Vergadering": 0.9765522518717076,
+        "Knoop": 1.973479441122814,
+        "benoeming lid": 1.9733967876574185,
+        "gemeente": 0.9654778929441015,
+        "voorstel benoem": 1.9642517859375683,
+        "ontheffing leden": 0.9642517859375682,
+        "Raadsbesluit": 0.9528489967290417,
+        "gelet": 0.9494111383701671,
+        "lid": 1.9302568774099789,
+        "Inboeknummer": 0.9289890356144912,
+        "Verordening": 0.9289890356144912,
+        "Raads": 1.9056979934580833,
+        "benoem": 1.8142195209675007,
+        "ing": 1.8142195209675007,
+        "bepaalde": 0.8142195209675007,
+        "leden": 0.8142195209675007,
+        "Jongbloed": 0.6775301339302072,
+        "oktober": 0.6533886555178521,
+        "volgende perso": 0.5971768855128332,
+        "Reker": 0.5135672221174075,
+        "periode": 0.5117258129670315
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": "10-04-2026",
+    "meeting_id": []
+}

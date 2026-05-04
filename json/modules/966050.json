@@ -1,0 +1,108 @@
+{
+    "module_id": 966050,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230013,
+    "title": "Inzet partners expats - Raadsvoorstel Jaarstukken 2023",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/966050",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Steenbakkers (Wethouder)",
+    "result": "",
+    "date": "26-06-2024",
+    "meeting_url": {
+        "1147977": "https://raadsinformatie.eindhoven.nl/vergadering/1147977#ai_8483500"
+    },
+    "attachment": null,
+    "parent": 946916,
+    "children": [],
+    "text": "Wethouder Steenbakkers zegt toe en gaat de uitdaging aan om de inzet van partners van expats in publieke sleutelberoepen (zoals zorg, onderwijs en veiligheidsdiensten) te bevorderen.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 949438,
+            "weight": 0.5224426617043884
+        },
+        {
+            "id": 1134277,
+            "weight": 0.5177684733240585
+        },
+        {
+            "id": 945589,
+            "weight": 0.4906254193136838
+        },
+        {
+            "id": 957730,
+            "weight": 0.2247223621844174
+        },
+        {
+            "id": 1038178,
+            "weight": 0.2076363378754241
+        },
+        {
+            "id": 787053,
+            "weight": 0.19782671969505355
+        },
+        {
+            "id": 992512,
+            "weight": 0.08470977000824281
+        },
+        {
+            "id": 1001572,
+            "weight": 0.08156634421817723
+        },
+        {
+            "id": 905864,
+            "weight": 0.0801567269302779
+        },
+        {
+            "id": "a_7593124",
+            "weight": 0.07378417785923336
+        },
+        {
+            "id": 996940,
+            "weight": 0.067568021114906
+        },
+        {
+            "id": 862409,
+            "weight": 0.06598964828005106
+        },
+        {
+            "id": 967233,
+            "weight": 0.05687974541604214
+        }
+    ],
+    "videostarttime": {
+        "1147977": 762
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_26.06.24_NC_Eindhoven_Cie.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Jaarstukken": 1.9960026066958854,
+        "Wethouder Steenbakkers": 0.994057405605391,
+        "Steenbakkers zegt": 0.9822385535328364,
+        "publieke sleutelberoepen": 0.9782573630501638,
+        "Jaarstukken": 1.936901047777873,
+        "Wethouder": 0.936901047777873,
+        "Inzet partners": 1.9211211764999008,
+        "partners expats": 1.9211211764999008,
+        "zorg": 0.8858386475196417,
+        "onderwijs": 0.8858386475196417,
+        "veiligheidsdiensten": 0.8858386475196417,
+        "bevorderen": 0.8858386475196417,
+        "Inzet": 1.8648039876484839,
+        "expats": 1.8648039876484839,
+        "zegt": 0.8135975602966119,
+        "gaat": 0.8135975602966119,
+        "uitdaging": 0.8135975602966119,
+        "publieke": 0.8135975602966119
+    },
+    "svz": "De inzet van partners van expats op de arbeidsmarkt, inclsuief sleutelberoepen, is onderdeel van het meerjaren...  Lees verder ",
+    "afgedaan": "07-01-2025",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

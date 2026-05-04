@@ -1,0 +1,87 @@
+{
+    "module_id": 783139,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": null,
+    "title": "Uitwerking Initiatiefvoorstel Nachtleven",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/moties_en_toezeggingen/783139?parent_event=1022089",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Esselbrugge (Wethouder)",
+    "result": "",
+    "date": "27-09-2022",
+    "meeting_url": {
+        "1022089": "https://raadsinformatie.eindhoven.nl/vergadering/1022089#ai_7011725"
+    },
+    "attachment": null,
+    "parent": "ai_7011725",
+    "children": [
+        783402
+    ],
+    "text": "Wethouder Esselbrugge zegt toe de raad te informeren via een collegebrief over de stand van zaken van de uitwerking van het Initiatiefvoorstel Nachtleven.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": "ai_7011725",
+            "weight": 3.7022353366830805
+        },
+        {
+            "id": 803411,
+            "weight": 1.7537256961242047
+        },
+        {
+            "id": 888328,
+            "weight": 0.43239168867182687
+        },
+        {
+            "id": 845668,
+            "weight": 0.21226445343223174
+        },
+        {
+            "id": 958773,
+            "weight": 0.2102559246145685
+        },
+        {
+            "id": 975121,
+            "weight": 0.19512618358694409
+        },
+        {
+            "id": 16557242,
+            "weight": 0.1803779658556275
+        },
+        {
+            "id": "a_9607705",
+            "weight": 0.15736325705742643
+        }
+    ],
+    "videostarttime": {
+        "1022089": null
+    },
+    "videolink": null,
+    "keywords": {
+        "Initiatiefvoorstel Nachtleven": 1.9970680167181247,
+        "Wethouder Esselbrugge": 0.9944679098912828,
+        "Nachtleven Wethouder": 0.9943044020932209,
+        "Esselbrugge zegt": 0.9894461489867605,
+        "Uitwerking Initiatiefvoorstel": 1.9853094981380266,
+        "informeren via": 0.979774186774646,
+        "Nachtleven": 1.9618234989707597,
+        "Wethouder": 0.9258268615973766,
+        "Uitwerking": 1.905191576648675,
+        "zegt": 0.8591992907689896,
+        "raad": 0.8591992907689896,
+        "via": 0.8591992907689896,
+        "collegebrief": 0.8591992907689896,
+        "stand": 0.8591992907689896,
+        "zaken": 0.8591992907689896
+    },
+    "svz": null,
+    "afgedaan": "17-01-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

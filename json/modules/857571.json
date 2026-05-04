@@ -1,0 +1,104 @@
+{
+    "module_id": 857571,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230014,
+    "title": "Helpen kleine dieren - Hitteprotocol groenbeleid (Vrije motie VM5)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/857571",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "R. Thijs (Wethouder)",
+    "result": "",
+    "date": "20-06-2023",
+    "meeting_url": {
+        "1013498": "https://raadsinformatie.eindhoven.nl/vergadering/1013498#ai_6964963"
+    },
+    "attachment": null,
+    "parent": 857640,
+    "children": [],
+    "text": "Wethouder Thijs zegt toe:\n\nvia de bestaande communicatiekanalen inwoners op te roepen om maatregelen te treffen die kleinere dieren helpen de hitte en droogte te doorstaan;",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 856604,
+            "weight": 2.7085618937677483
+        },
+        {
+            "id": 857577,
+            "weight": 2.226138230565808
+        },
+        {
+            "id": 1096312,
+            "weight": 0.3110979057791422
+        },
+        {
+            "id": 1060513,
+            "weight": 0.24216921427170632
+        },
+        {
+            "id": 1062445,
+            "weight": 0.23627313269011577
+        },
+        {
+            "id": 1096737,
+            "weight": 0.2018206045499068
+        },
+        {
+            "id": "a_9608741",
+            "weight": 0.12169842502579567
+        },
+        {
+            "id": 845621,
+            "weight": 0.11998069544506762
+        },
+        {
+            "id": 1036228,
+            "weight": 0.0983492674019481
+        },
+        {
+            "id": 790660,
+            "weight": 0.09584769758925839
+        }
+    ],
+    "videostarttime": {
+        "1013498": 6585
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_20.06.23_NC_EINDHOVEN_RAA.mp4/playlist.m3u8",
+    "keywords": {
+        "Wethouder Thijs": 0.9962801786985886,
+        "Hitteprotocol groenbeleid": 1.9954005939177595,
+        "Vrije motie": 1.9954005939177595,
+        "Thijs zegt": 0.9905079455060722,
+        "bestaande communicatiekanalen": 0.9824049535979776,
+        "communicatiekanalen inwoners": 0.9824049535979776,
+        "Helpen kleine": 1.9767480224360345,
+        "kleine dieren": 1.9767480224360345,
+        "dieren helpen": 0.9692173303909895,
+        "Vrije": 1.9481725340692115,
+        "Thijs": 0.9284928281749161,
+        "Helpen": 1.9135948575030888,
+        "dieren": 1.9135948575030888,
+        "groenbeleid": 1.9116617354033332,
+        "motie": 1.9116617354033332,
+        "via": 0.9116617354033332,
+        "doorstaan": 0.9116617354033332,
+        "kleine": 1.8685054612081637,
+        "zegt": 0.8685054612081637,
+        "bestaande": 0.8685054612081637,
+        "inwoners": 0.8685054612081637,
+        "roepen": 0.8685054612081637,
+        "maatregelen": 0.8685054612081637,
+        "treffen": 0.8685054612081637,
+        "hitte": 0.8685054612081637,
+        "droogte": 0.8685054612081637
+    },
+    "svz": null,
+    "afgedaan": "12-09-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

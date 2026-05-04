@@ -1,0 +1,123 @@
+{
+    "module_id": 904205,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 231116,
+    "title": "Standplaatsen - Raadsvoorstel Dertiende wijziging APV Eindhoven",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/904205",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "J. Dijsselbloem (Burgemeester)",
+    "result": "",
+    "date": "12-12-2023",
+    "meeting_url": {
+        "1044903": "https://raadsinformatie.eindhoven.nl/vergadering/1044903#ai_8005368"
+    },
+    "attachment": null,
+    "parent": 893837,
+    "children": [],
+    "text": "Burgemeester Dijsselbloem zegt toe:\n\neen technische vraag van het OAHvE over standplaatsen schriftelijk te beantwoorden.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 904196,
+            "weight": 3.2004465564694424
+        },
+        {
+            "id": 904202,
+            "weight": 3.187687464192209
+        },
+        {
+            "id": 893837,
+            "weight": 1.2627960825470266
+        },
+        {
+            "id": "a_8101832",
+            "weight": 0.34548620107229094
+        },
+        {
+            "id": 933056,
+            "weight": 0.34420910815085126
+        },
+        {
+            "id": "a_8106473",
+            "weight": 0.33776054230359426
+        },
+        {
+            "id": 920921,
+            "weight": 0.3136334358059752
+        },
+        {
+            "id": 1141894,
+            "weight": 0.30766639264184076
+        },
+        {
+            "id": 12866052,
+            "weight": 0.2749774706290979
+        },
+        {
+            "id": 12559868,
+            "weight": 0.2747087479632983
+        },
+        {
+            "id": 948991,
+            "weight": 0.2736985099154479
+        },
+        {
+            "id": 950055,
+            "weight": 0.15685763228606955
+        },
+        {
+            "id": 861841,
+            "weight": 0.15068923250495384
+        },
+        {
+            "id": 942837,
+            "weight": 0.14738459488533204
+        },
+        {
+            "id": 906717,
+            "weight": 0.13619256651956613
+        },
+        {
+            "id": 15548501,
+            "weight": 0.09698318376878999
+        },
+        {
+            "id": 16532271,
+            "weight": 0.07754459012394928
+        }
+    ],
+    "videostarttime": {
+        "1044903": 13007
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_12.12.23_NC_EINDHOVEN_CIE.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Dertiende": 1.9944028274550927,
+        "APV Eindhoven": 1.9916281572568182,
+        "Eindhoven Burgemeester": 0.9916281572568182,
+        "Burgemeester Dijsselbloem": 0.9916281572568182,
+        "Dertiende wijziging": 1.9836335688345734,
+        "wijziging APV": 1.9836335688345734,
+        "Dijsselbloem zegt": 0.9836335688345734,
+        "technische vraag": 0.96776056316734,
+        "standplaatsen schriftelijk": 0.9532798096956149,
+        "Dertiende": 1.9088828397919206,
+        "APV": 1.9088828397919206,
+        "beantwoorden": 0.8922607228460988,
+        "Standplaatsen": 1.8737182748260663,
+        "zegt": 0.8232727580700172,
+        "vraag": 0.8232727580700172,
+        "OAHvE": 0.8232727580700172,
+        "schriftelijk": 0.8232727580700172
+    },
+    "svz": null,
+    "afgedaan": "16-01-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

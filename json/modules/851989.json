@@ -1,0 +1,133 @@
+{
+    "module_id": 851989,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230014,
+    "title": "Wilhelminaplein - Groen Evenementenplein (Motie M12)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/851989",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "R. Thijs (Wethouder)",
+    "result": "",
+    "date": "30-05-2023",
+    "meeting_url": {
+        "1013491": "https://raadsinformatie.eindhoven.nl/vergadering/1013491#ai_7529863"
+    },
+    "attachment": null,
+    "parent": 833084,
+    "children": [],
+    "text": "Wethouder Thijs zegt toe in aanvulling op zijn toezegging tijdens de meningsvorming van 16 mei 2023 luidende:\nHet ontwerp van het Wilhelminaplein na het participatieproces met de raad te gaan delen.\ndat hij de uitkomst van het participatieproces met de raad zal bespreken. Het gaat hierbij om de belangenafwegingen, scenario’s en denkrichtingen. Daarbij gaat het dan om een concepten zodat de raad nog in de gelegenheid is wijzigingen aan te brengen.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 850611,
+            "weight": 2.203711074975261
+        },
+        {
+            "id": 849083,
+            "weight": 0.829132865491382
+        },
+        {
+            "id": 1037352,
+            "weight": 0.4227569541284545
+        },
+        {
+            "id": 833084,
+            "weight": 0.2066845277287724
+        },
+        {
+            "id": 1046515,
+            "weight": 0.17007889603893497
+        },
+        {
+            "id": 914011,
+            "weight": 0.16186762254474785
+        },
+        {
+            "id": 1009635,
+            "weight": 0.14022863336260738
+        },
+        {
+            "id": 1009558,
+            "weight": 0.11237367602204085
+        },
+        {
+            "id": 1044103,
+            "weight": 0.0814982588421668
+        },
+        {
+            "id": "a_9667388",
+            "weight": 0.07659702403721223
+        },
+        {
+            "id": 1097551,
+            "weight": 0.0716202042443146
+        },
+        {
+            "id": "a_8883150",
+            "weight": 0.06256033585317508
+        },
+        {
+            "id": 1146297,
+            "weight": 0.06015383607904037
+        },
+        {
+            "id": 1126057,
+            "weight": 0.0577960867200563
+        },
+        {
+            "id": "a_7151094",
+            "weight": 0.05003466574380548
+        },
+        {
+            "id": 794220,
+            "weight": 0.04991910495893191
+        },
+        {
+            "id": "r_7006036",
+            "weight": 0.04489405735899126
+        }
+    ],
+    "videostarttime": {
+        "1013491": 2931
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_30.05.23_NC_EINDHOVEN_Raadszaal.mp4/playlist.m3u8",
+    "keywords": {
+        "Groen Evenementenplein": 1.9965397268973368,
+        "Wethouder Thijs": 0.995957203395743,
+        "Thijs zegt": 0.9890209024614681,
+        "Motie": 1.9510215620001765,
+        "Groen": 1.9412774242612496,
+        "Thijs": 0.9314315123365222,
+        "Wilhelminaplein": 1.9113001515663153,
+        "mei": 0.8977950282198225,
+        "luidende": 0.8977950282198225,
+        "raad": 0.8927856143855059,
+        "participatieproces": 0.8550197364975115,
+        "gaan delen": 0.8444636155156976,
+        "zegt": 0.8416201613830652,
+        "aanvulling": 0.8416201613830652,
+        "toezegging": 0.8416201613830652,
+        "meningsvorming": 0.8416201613830652,
+        "gaat": 0.7581411339660071,
+        "Daarbij gaat": 0.6701298317408111,
+        "delen": 0.659453787683225,
+        "gaat hierbij": 0.6477491045574908,
+        "ontwerp": 0.604749597924681,
+        "bespreken": 0.5706554619786913,
+        "belangenafwegingen": 0.5202826752981353,
+        "scenario": 0.5202826752981353,
+        "denkrichtingen": 0.5202826752981353,
+        "concepten zodat": 0.5157277147237589,
+        "uitkomst": 0.5122375172390774
+    },
+    "svz": null,
+    "afgedaan": "08-10-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

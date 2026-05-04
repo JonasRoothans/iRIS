@@ -1,0 +1,130 @@
+{
+    "module_id": 980407,
+    "vote_id": null,
+    "member_id": [
+        194370,
+        194366
+    ],
+    "party_list": [
+        "Eindhoven voor Elkaar",
+        "PvdA",
+        "GroenLinks"
+    ],
+    "poho_id": [],
+    "title": "Beantwoording raadsvragen - Behoud de regie over de Fellenoord (PvdA, GL)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/4/Raadsvragen/980407",
+    "type": "Raadsvraag",
+    "member": "Rutger Rauws en Tjeerd Ritmeester",
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "18-10-2024",
+    "meeting_url": null,
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/14659609/1?connection_type=17&connection_id=11061659": "Vraag",
+        "https://raadsinformatie.eindhoven.nl/document/14813138/1?connection_type=17&connection_id=11161299": "Antwoord"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": " \n \nRaadsvragen  - Behoud de regie over de Fellenoord  \n \nGeacht college,  \n \nAfgelopen woensdag werd de gemeenteraad verrast met de mededeling \ndat het Rijk mogelijk een aandeel wil binnen de FellenoordBV. Het \ncollege liet de Raad weten dat hierover met het Rijk word gesproken.  \n \nMomenteel is het aandeel van de gemeente in de FellenoordBV 50%. \nAls de gemeente aandelen verkoopt heeft de gemeente een \nminderheidsaandeel. Dat brengt onnodige en onwenselijke risico's met \nzich mee, vooral t en aanzien van  stemrecht. Denk hierbij aan verlies van \nregie, geschillen tussen aandeelhouders, of onwenselijke \nstatuswijzigingen waardoor bijvoorbeeld aandelen aan private partijen \nkunnen worden verkocht.  \n \nWat de PvdA en GroenLinks betreft moeten we ten alle tijden \nvoorkomen dat het stemrecht van de gemeente in de FellenoordBV \nonder de 50% zakt.  \n \nRaadsvragen:  \n \n1) Deelt het college de opvatting van de PvdA en GroenLinks dat het \nstemrecht van de gemeente in de FellenoordBV nooit onder de 50% \nmoet zakken? Waarom wel/niet?  \n \n2) Kan het college bevestigen dat het opgeven van stemrecht in de \nFellenoordBV geen optie is in de gesprekken met het Rijk?  \n \n3) Kan het college beter uitleggen waar de gesprekken met het Rijk \nprecies over gaan, welke scenario's worden besproken, en wat de rol \nvan de Raad in het proces precies is?  \n \n \nTjeerd Ritmeester, Raadslid PvdA Eindhoven  \nRutger Rauws, Raadslid GroenLinks Eindhoven  \n",
+    "bst": "",
+    "related": [
+        {
+            "id": 953603,
+            "weight": 0.29405836973978183
+        },
+        {
+            "id": 14958260,
+            "weight": 0.1613780664818153
+        },
+        {
+            "id": 949695,
+            "weight": 0.1453625555138834
+        },
+        {
+            "id": 1035123,
+            "weight": 0.1322939957518111
+        },
+        {
+            "id": 883423,
+            "weight": 0.11622562731362437
+        },
+        {
+            "id": 862271,
+            "weight": 0.10884982993139798
+        },
+        {
+            "id": 12962388,
+            "weight": 0.0956640940114776
+        },
+        {
+            "id": 16361107,
+            "weight": 0.07194101832122152
+        },
+        {
+            "id": 1084768,
+            "weight": 0.07146139236542623
+        },
+        {
+            "id": 16400317,
+            "weight": 0.07121794981670676
+        },
+        {
+            "id": 1149732,
+            "weight": 0.069176147026083
+        },
+        {
+            "id": 1055048,
+            "weight": 0.0652069687136786
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Fellenoord Geacht": 0.9965992323530453,
+        "Behoud": 1.9766789005820484,
+        "Geacht college": 0.9751969484180227,
+        "gemeenteraad verrast": 0.9625283998063255,
+        "Rijk": 0.9468869298799243,
+        "Beantwoording raadsvragen": 1.9437417700959552,
+        "gemeente": 0.9412212205431622,
+        "Geacht": 0.9339289766373905,
+        "college": 0.9267371737108971,
+        "stemrecht": 0.9055539511790233,
+        "PvdA": 1.9030133275663204,
+        "raadsvragen": 1.9008732024949417,
+        "Rijk word": 0.8945466940044596,
+        "regie": 1.8854314039406141,
+        "Raad": 0.851814273906818,
+        "GroenLinks": 0.8468268348283428,
+        "Raadslid PvdA": 0.8444707992080186,
+        "aandeel": 0.8406576483701313,
+        "PvdA Eindhoven": 0.832931791653351,
+        "Eindhoven Rutger": 0.8155840450530643,
+        "woensdag": 0.8099521279246567,
+        "verrast": 0.8099521279246567,
+        "mededeling": 0.8099521279246567,
+        "GroenLinks Eindhoven": 0.7958156533037991,
+        "Rutger Rauws": 0.790545110948262,
+        "word gesproken": 0.7599733397764236,
+        "onwenselijke": 0.7495960291629647,
+        "gesprekken": 0.7319320313597959,
+        "college bevestigen": 0.6589346976261274,
+        "Deelt": 0.6256673155639771,
+        "Tjeerd Ritmeester": 0.6029842345155736,
+        "aandelen verkoopt": 0.5930195222151702,
+        "Rauws": 0.5895766028539635,
+        "Rutger": 0.578042493938093,
+        "weten": 0.5509875329991176,
+        "hierover": 0.5509875329991176,
+        "word": 0.5509875329991176,
+        "onwenselijke statuswijzigingen": 0.5215274682459485
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194370,
+    "lastScrapeDate": "02-04-2026",
+    "meeting_id": []
+}

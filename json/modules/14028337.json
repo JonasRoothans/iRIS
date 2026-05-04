@@ -1,0 +1,134 @@
+{
+    "module_id": 14028337,
+    "vote_id": null,
+    "member_id": [
+        194376
+    ],
+    "party_list": [
+        "Volt"
+    ],
+    "poho_id": [],
+    "title": "3. Rondvraag - EU-burgers informeren over Europese Verkiezingen (Volt)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "09-04-2024",
+    "meeting_url": {
+        "1147919": "https://raadsinformatie.eindhoven.nl/vergadering/1147917/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://api.notubiz.nl/document/14028337/1",
+    "pdf_text": " \n \n \nRondvraag  meningsvorming 9 april 2024: EU-burgers informeren  \nover Europese Verkiezingen  \n \n \nGeacht college,  \n \nVoor mensen met een Nederlands paspoort is stemmen voor de Europese \nverkiezingen niet zo moeilijk: voor hen is het wachten tot de stempas op de \ndeurmat valt.  \n \nMaar voor niet -Nederlandse EU -burgers is het net wat lastiger. Zij moeten via een \nzogeheten Y32  formulier zich inschrijven om te kunnen stemmen . Dit kan tot \nuiterlijk a.s. 23 april . Recentelijk heb ik met een paar Europese internationals \ngesproken die hier allemaal niet van op de hoogte waren. Dat terwijl de EU -\nverkiezingen per uits tek ook heel belangrijk zijn voor Eindhovenaren  die enkel een \nandere Europese nationaliteit hebben.  \n \nOp de website van de gemeente Eindhoven is het flink zoeken in zowel de \nNederlandse als Engelse variant van de site. Dat leidt ons tot de volgende vragen:  \n \n1. Wat doet de gemeente momenteel om deze doelgroep actief te \ninformeren?  \n \n2. Volt lijkt het een goed idee om tenmi nste op de Engelse variant van \nwww.eindhoven.nl  deze informatie tot 23 april een meer prominente plek te \ngeven  op de site . Welke mogelijkheden ziet het college hierin?  \n \nMet vriendelijke groet,  \n \nJacco Rubenkamp, raadslid Volt  \n \n \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 940759,
+            "weight": 0.15016084241683952
+        },
+        {
+            "id": 13283054,
+            "weight": 0.1421521367464852
+        },
+        {
+            "id": 1081851,
+            "weight": 0.1335888849445625
+        },
+        {
+            "id": 13990704,
+            "weight": 0.1280879104701714
+        },
+        {
+            "id": 12077315,
+            "weight": 0.12789295819981022
+        },
+        {
+            "id": 15119089,
+            "weight": 0.10550283732369836
+        },
+        {
+            "id": 13779916,
+            "weight": 0.09951499919007582
+        },
+        {
+            "id": 1057058,
+            "weight": 0.0633986902706832
+        },
+        {
+            "id": 953001,
+            "weight": 0.06104032440805779
+        },
+        {
+            "id": 971234,
+            "weight": 0.06043594716384576
+        },
+        {
+            "id": 989184,
+            "weight": 0.0589625458866304
+        },
+        {
+            "id": 777623,
+            "weight": 0.05775601547290502
+        },
+        {
+            "id": 775183,
+            "weight": 0.047484115730867936
+        },
+        {
+            "id": 1090801,
+            "weight": 0.04717351498432141
+        }
+    ],
+    "videostarttime": {
+        "1147919": 652
+    },
+    "videolink": null,
+    "keywords": {
+        "Europese Verkiezingen": 1.9801052000441186,
+        "Europese": 1.9564864262476163,
+        "Verkiezingen Geacht": 0.9452515649885567,
+        "EU-burgers informeren": 1.9405447500428126,
+        "Rondvraag meningsvorming": 0.9146954774915392,
+        "Nederlands paspoort": 0.9060180308212891,
+        "Engelse variant": 0.9018598016496724,
+        "Rondvraag": 1.9005178145174018,
+        "Volt": 1.8877520736094768,
+        "Geacht college": 0.8838460923343474,
+        "april": 0.8777098713334837,
+        "EU-burgers": 1.8692041242952135,
+        "informeren": 1.8645810146802015,
+        "Europese nationaliteit": 0.8420681907891634,
+        "Engelse": 0.8343457460089354,
+        "Jacco Rubenkamp": 0.8125399677418061,
+        "Geacht": 0.7994912697467018,
+        "deurmat valt": 0.7962585258553678,
+        "stemmen": 0.7938735644590869,
+        "site": 0.7695905296660198,
+        "gemeente Eindhoven": 0.755631735784281,
+        "variant": 0.7523824874001066,
+        "college": 0.7404945647204652,
+        "gemeente": 0.7393580640402262,
+        "raadslid Volt": 0.7180373079693207,
+        "Volt lijkt": 0.7051159278925092,
+        "Recentelijk": 0.6821529999898653,
+        "Eindhovenaren": 0.6401563115200215,
+        "moeilijk": 0.6049563089283017,
+        "Jacco": 0.6026759595584654,
+        "mensen": 0.5715490702744994,
+        "paspoort": 0.5715490702744994,
+        "wachten": 0.5715490702744994,
+        "lastiger": 0.5124536050203087
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194376,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1147919
+    ]
+}

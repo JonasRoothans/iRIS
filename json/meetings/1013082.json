@@ -1,0 +1,1431 @@
+{
+    "meeting_id": 1013082,
+    "meeting_subid": {
+        "Raadzaal": 1013082
+    },
+    "subtitles": {
+        "Raadzaal": null
+    },
+    "speakers": {
+        "Raadzaal": {
+            "674": {
+                "start": 674,
+                "end": 912,
+                "id": 231116
+            },
+            "900": {
+                "start": 900,
+                "end": 1020,
+                "id": 230121
+            },
+            "1019": {
+                "start": 1019,
+                "end": 1073,
+                "id": 231116
+            },
+            "1174": {
+                "start": 1174,
+                "end": 1253,
+                "id": 231116
+            },
+            "1242": {
+                "start": 1242,
+                "end": 1582,
+                "id": 229959
+            },
+            "1327": {
+                "start": 1327,
+                "end": 1330,
+                "id": 231116
+            },
+            "1330": {
+                "start": 1330,
+                "end": 1594,
+                "id": 230023
+            },
+            "1552": {
+                "start": 1552,
+                "end": 1594,
+                "id": 231116
+            },
+            "1588": {
+                "start": 1588,
+                "end": 1662,
+                "id": 229972
+            },
+            "1661": {
+                "start": 1661,
+                "end": 1754,
+                "id": 230023
+            },
+            "1753": {
+                "start": 1753,
+                "end": 1760,
+                "id": 231116
+            },
+            "1757": {
+                "start": 1757,
+                "end": 1773,
+                "id": 229972
+            },
+            "1773": {
+                "start": 1773,
+                "end": 1785,
+                "id": 231116
+            },
+            "1774": {
+                "start": 1774,
+                "end": 1795,
+                "id": 230023
+            },
+            "1794": {
+                "start": 1794,
+                "end": 1801,
+                "id": 229972
+            },
+            "1796": {
+                "start": 1796,
+                "end": 1797,
+                "id": 231116
+            },
+            "1801": {
+                "start": 1801,
+                "end": 1848,
+                "id": 231116
+            },
+            "1940": {
+                "start": 1940,
+                "end": 1955,
+                "id": 230121
+            },
+            "2279": {
+                "start": 2279,
+                "end": 2296,
+                "id": 230159
+            },
+            "2087": {
+                "start": 2087,
+                "end": 2324,
+                "id": 231116
+            },
+            "2320": {
+                "start": 2320,
+                "end": 2362,
+                "id": 229972
+            },
+            "2364": {
+                "start": 2364,
+                "end": 2400,
+                "id": 231116
+            },
+            "2390": {
+                "start": 2390,
+                "end": 2407,
+                "id": 230135
+            },
+            "2425": {
+                "start": 2425,
+                "end": 2455,
+                "id": 231116
+            },
+            "2454": {
+                "start": 2454,
+                "end": 2481,
+                "id": 229920
+            },
+            "2482": {
+                "start": 2482,
+                "end": 2713,
+                "id": 231116
+            },
+            "2541": {
+                "start": 2541,
+                "end": 2642,
+                "id": 230173
+            },
+            "2709": {
+                "start": 2709,
+                "end": 2866,
+                "id": 229920
+            },
+            "2864": {
+                "start": 2864,
+                "end": 2936,
+                "id": 231116
+            },
+            "2910": {
+                "start": 2910,
+                "end": 2990,
+                "id": 230132
+            },
+            "2990": {
+                "start": 2990,
+                "end": 3043,
+                "id": 231116
+            },
+            "2998": {
+                "start": 2998,
+                "end": 3067,
+                "id": 230115
+            },
+            "3068": {
+                "start": 3068,
+                "end": 3080,
+                "id": 231116
+            },
+            "3077": {
+                "start": 3077,
+                "end": 3118,
+                "id": 229920
+            },
+            "3118": {
+                "start": 3118,
+                "end": 3133,
+                "id": 231116
+            },
+            "3120": {
+                "start": 3120,
+                "end": 3137,
+                "id": 230132
+            },
+            "3139": {
+                "start": 3139,
+                "end": 3175,
+                "id": 231116
+            },
+            "3141": {
+                "start": 3141,
+                "end": 3167,
+                "id": 230115
+            },
+            "3168": {
+                "start": 3168,
+                "end": 3190,
+                "id": 230132
+            },
+            "3190": {
+                "start": 3190,
+                "end": 3220,
+                "id": 231116
+            },
+            "3193": {
+                "start": 3193,
+                "end": 3216,
+                "id": 230115
+            },
+            "3218": {
+                "start": 3218,
+                "end": 3237,
+                "id": 230132
+            },
+            "3238": {
+                "start": 3238,
+                "end": 3243,
+                "id": 231116
+            },
+            "3242": {
+                "start": 3242,
+                "end": 3270,
+                "id": 229922
+            },
+            "3270": {
+                "start": 3270,
+                "end": 3277,
+                "id": 231116
+            },
+            "3272": {
+                "start": 3272,
+                "end": 3307,
+                "id": 229920
+            },
+            "3306": {
+                "start": 3306,
+                "end": 3352,
+                "id": 231116
+            },
+            "3307": {
+                "start": 3307,
+                "end": 3348,
+                "id": 230132
+            },
+            "3348": {
+                "start": 3348,
+                "end": 3403,
+                "id": 229920
+            },
+            "3403": {
+                "start": 3403,
+                "end": 3417,
+                "id": 231116
+            },
+            "3420": {
+                "start": 3420,
+                "end": 3433,
+                "id": 231116
+            },
+            "3432": {
+                "start": 3432,
+                "end": 3455,
+                "id": 229948
+            },
+            "3455": {
+                "start": 3455,
+                "end": 3457,
+                "id": 231116
+            },
+            "3457": {
+                "start": 3457,
+                "end": 3494,
+                "id": 229920
+            },
+            "3493": {
+                "start": 3493,
+                "end": 3504,
+                "id": 231116
+            },
+            "3509": {
+                "start": 3509,
+                "end": 3796,
+                "id": 230014
+            },
+            "3791": {
+                "start": 3791,
+                "end": 3806,
+                "id": 231116
+            },
+            "3796": {
+                "start": 3796,
+                "end": 3863,
+                "id": 229920
+            },
+            "3862": {
+                "start": 3862,
+                "end": 4108,
+                "id": 230014
+            },
+            "3930": {
+                "start": 3930,
+                "end": 3962,
+                "id": 229920
+            },
+            "3931": {
+                "start": 3931,
+                "end": 3944,
+                "id": 231116
+            },
+            "3997": {
+                "start": 3997,
+                "end": 4006,
+                "id": 231116
+            },
+            "4006": {
+                "start": 4006,
+                "end": 4042,
+                "id": 230115
+            },
+            "4059": {
+                "start": 4059,
+                "end": 4079,
+                "id": 231116
+            },
+            "4061": {
+                "start": 4061,
+                "end": 4080,
+                "id": 230115
+            },
+            "4089": {
+                "start": 4089,
+                "end": 4092,
+                "id": 231116
+            },
+            "4091": {
+                "start": 4091,
+                "end": 4100,
+                "id": 230115
+            },
+            "4100": {
+                "start": 4100,
+                "end": 4107,
+                "id": 231116
+            },
+            "4108": {
+                "start": 4108,
+                "end": 4113,
+                "id": 231116
+            },
+            "4113": {
+                "start": 4113,
+                "end": 4146,
+                "id": 229972
+            },
+            "4146": {
+                "start": 4146,
+                "end": 4150,
+                "id": 231116
+            },
+            "4194": {
+                "start": 4194,
+                "end": 4256,
+                "id": 231116
+            },
+            "4222": {
+                "start": 4222,
+                "end": 4281,
+                "id": 229910
+            },
+            "4261": {
+                "start": 4261,
+                "end": 4286,
+                "id": 231116
+            },
+            "4274": {
+                "start": 4274,
+                "end": 4282,
+                "id": 229901
+            },
+            "4288": {
+                "start": 4288,
+                "end": 4289,
+                "id": 229910
+            },
+            "4290": {
+                "start": 4290,
+                "end": 4310,
+                "id": 229910
+            },
+            "4309": {
+                "start": 4309,
+                "end": 4372,
+                "id": 231116
+            },
+            "4311": {
+                "start": 4311,
+                "end": 4368,
+                "id": 229901
+            },
+            "4370": {
+                "start": 4370,
+                "end": 4391,
+                "id": 229922
+            },
+            "4392": {
+                "start": 4392,
+                "end": 4426,
+                "id": 231116
+            },
+            "4396": {
+                "start": 4396,
+                "end": 4420,
+                "id": 229916
+            },
+            "4425": {
+                "start": 4425,
+                "end": 4450,
+                "id": 229948
+            },
+            "4450": {
+                "start": 4450,
+                "end": 4455,
+                "id": 231116
+            },
+            "4454": {
+                "start": 4454,
+                "end": 4518,
+                "id": 229911
+            },
+            "4514": {
+                "start": 4514,
+                "end": 4519,
+                "id": 231116
+            },
+            "4518": {
+                "start": 4518,
+                "end": 4566,
+                "id": 229972
+            },
+            "4525": {
+                "start": 4525,
+                "end": 4534,
+                "id": 229911
+            },
+            "4567": {
+                "start": 4567,
+                "end": 4569,
+                "id": 231116
+            },
+            "4568": {
+                "start": 4568,
+                "end": 4581,
+                "id": 230115
+            },
+            "4583": {
+                "start": 4583,
+                "end": 4745,
+                "id": 231116
+            },
+            "4732": {
+                "start": 4732,
+                "end": 4745,
+                "id": 229920
+            },
+            "4964": {
+                "start": 4964,
+                "end": 5027,
+                "id": 231116
+            },
+            "4148": {
+                "start": 4148,
+                "end": 5810,
+                "id": 230014
+            },
+            "5042": {
+                "start": 5042,
+                "end": 5109,
+                "id": 231116
+            },
+            "5105": {
+                "start": 5105,
+                "end": 5216,
+                "id": 230033
+            },
+            "5217": {
+                "start": 5217,
+                "end": 5238,
+                "id": 231116
+            },
+            "5235": {
+                "start": 5235,
+                "end": 5378,
+                "id": 230132
+            },
+            "5377": {
+                "start": 5377,
+                "end": 5383,
+                "id": 231116
+            },
+            "5382": {
+                "start": 5382,
+                "end": 5443,
+                "id": 230172
+            },
+            "5443": {
+                "start": 5443,
+                "end": 5445,
+                "id": 231116
+            },
+            "5486": {
+                "start": 5486,
+                "end": 5490,
+                "id": 231116
+            },
+            "5488": {
+                "start": 5488,
+                "end": 5522,
+                "id": 230172
+            },
+            "5522": {
+                "start": 5522,
+                "end": 5524,
+                "id": 231116
+            },
+            "5546": {
+                "start": 5546,
+                "end": 5550,
+                "id": 231116
+            },
+            "5548": {
+                "start": 5548,
+                "end": 5585,
+                "id": 230151
+            },
+            "5581": {
+                "start": 5581,
+                "end": 5583,
+                "id": 231116
+            },
+            "5585": {
+                "start": 5585,
+                "end": 5617,
+                "id": 230132
+            },
+            "5619": {
+                "start": 5619,
+                "end": 5623,
+                "id": 231116
+            },
+            "5622": {
+                "start": 5622,
+                "end": 5657,
+                "id": 230172
+            },
+            "5658": {
+                "start": 5658,
+                "end": 5693,
+                "id": 230132
+            },
+            "5695": {
+                "start": 5695,
+                "end": 5705,
+                "id": 231116
+            },
+            "5811": {
+                "start": 5811,
+                "end": 5840,
+                "id": 231116
+            },
+            "5841": {
+                "start": 5841,
+                "end": 5885,
+                "id": 230172
+            },
+            "5885": {
+                "start": 5885,
+                "end": 5888,
+                "id": 231116
+            },
+            "5888": {
+                "start": 5888,
+                "end": 5919,
+                "id": 230151
+            },
+            "5921": {
+                "start": 5921,
+                "end": 5962,
+                "id": 231116
+            },
+            "5933": {
+                "start": 5933,
+                "end": 5936,
+                "id": 229964
+            },
+            "5948": {
+                "start": 5948,
+                "end": 5957,
+                "id": 229911
+            },
+            "5966": {
+                "start": 5966,
+                "end": 5987,
+                "id": 231116
+            },
+            "5986": {
+                "start": 5986,
+                "end": 6018,
+                "id": 229964
+            },
+            "6017": {
+                "start": 6017,
+                "end": 6105,
+                "id": 231116
+            },
+            "6021": {
+                "start": 6021,
+                "end": 6115,
+                "id": 229901
+            },
+            "6115": {
+                "start": 6115,
+                "end": 6131,
+                "id": 231116
+            },
+            "6125": {
+                "start": 6125,
+                "end": 6146,
+                "id": 230171
+            },
+            "6146": {
+                "start": 6146,
+                "end": 6188,
+                "id": 231116
+            },
+            "6151": {
+                "start": 6151,
+                "end": 6163,
+                "id": 229910
+            },
+            "6194": {
+                "start": 6194,
+                "end": 6298,
+                "id": 231116
+            },
+            "6304": {
+                "start": 6304,
+                "end": 6546,
+                "id": 229959
+            },
+            "6536": {
+                "start": 6536,
+                "end": 6591,
+                "id": 231116
+            },
+            "6552": {
+                "start": 6552,
+                "end": 6590,
+                "id": 230172
+            },
+            "6589": {
+                "start": 6589,
+                "end": 6667,
+                "id": 229959
+            },
+            "6629": {
+                "start": 6629,
+                "end": 6631,
+                "id": 231116
+            },
+            "6631": {
+                "start": 6631,
+                "end": 6666,
+                "id": 230172
+            },
+            "6668": {
+                "start": 6668,
+                "end": 6682,
+                "id": 229959
+            },
+            "6680": {
+                "start": 6680,
+                "end": 6689,
+                "id": 231116
+            },
+            "6688": {
+                "start": 6688,
+                "end": 6717,
+                "id": 229901
+            },
+            "6714": {
+                "start": 6714,
+                "end": 6737,
+                "id": 229959
+            },
+            "6715": {
+                "start": 6715,
+                "end": 6716,
+                "id": 231116
+            },
+            "6722": {
+                "start": 6722,
+                "end": 6738,
+                "id": 229901
+            },
+            "6737": {
+                "start": 6737,
+                "end": 6741,
+                "id": 231116
+            },
+            "6740": {
+                "start": 6740,
+                "end": 6797,
+                "id": 229983
+            },
+            "6796": {
+                "start": 6796,
+                "end": 6834,
+                "id": 229959
+            },
+            "6797": {
+                "start": 6797,
+                "end": 6826,
+                "id": 231116
+            },
+            "6830": {
+                "start": 6830,
+                "end": 6850,
+                "id": 229983
+            },
+            "6832": {
+                "start": 6832,
+                "end": 6833,
+                "id": 231116
+            },
+            "6850": {
+                "start": 6850,
+                "end": 6858,
+                "id": 229959
+            },
+            "6858": {
+                "start": 6858,
+                "end": 6863,
+                "id": 231116
+            },
+            "6862": {
+                "start": 6862,
+                "end": 6941,
+                "id": 229911
+            },
+            "6940": {
+                "start": 6940,
+                "end": 6944,
+                "id": 231116
+            },
+            "6941": {
+                "start": 6941,
+                "end": 6954,
+                "id": 229959
+            },
+            "6946": {
+                "start": 6946,
+                "end": 6951,
+                "id": 229911
+            },
+            "6954": {
+                "start": 6954,
+                "end": 6958,
+                "id": 231116
+            },
+            "6957": {
+                "start": 6957,
+                "end": 7012,
+                "id": 230151
+            },
+            "7011": {
+                "start": 7011,
+                "end": 7013,
+                "id": 231116
+            },
+            "7012": {
+                "start": 7012,
+                "end": 7032,
+                "id": 229959
+            },
+            "7033": {
+                "start": 7033,
+                "end": 7038,
+                "id": 231116
+            },
+            "7034": {
+                "start": 7034,
+                "end": 7043,
+                "id": 230151
+            },
+            "7039": {
+                "start": 7039,
+                "end": 7091,
+                "id": 229959
+            },
+            "7092": {
+                "start": 7092,
+                "end": 7108,
+                "id": 231116
+            },
+            "7107": {
+                "start": 7107,
+                "end": 7160,
+                "id": 229955
+            },
+            "7160": {
+                "start": 7160,
+                "end": 7191,
+                "id": 231116
+            },
+            "7167": {
+                "start": 7167,
+                "end": 7203,
+                "id": 230159
+            },
+            "7204": {
+                "start": 7204,
+                "end": 7213,
+                "id": 231116
+            },
+            "7228": {
+                "start": 7228,
+                "end": 7569,
+                "id": 230019
+            },
+            "7370": {
+                "start": 7370,
+                "end": 7376,
+                "id": 231116
+            },
+            "7373": {
+                "start": 7373,
+                "end": 7407,
+                "id": 230172
+            },
+            "7408": {
+                "start": 7408,
+                "end": 7409,
+                "id": 231116
+            },
+            "7416": {
+                "start": 7416,
+                "end": 7417,
+                "id": 231116
+            },
+            "7417": {
+                "start": 7417,
+                "end": 7435,
+                "id": 230151
+            },
+            "7434": {
+                "start": 7434,
+                "end": 7454,
+                "id": 231116
+            },
+            "7457": {
+                "start": 7457,
+                "end": 7480,
+                "id": 231116
+            },
+            "7479": {
+                "start": 7479,
+                "end": 7524,
+                "id": 229959
+            },
+            "7525": {
+                "start": 7525,
+                "end": 7527,
+                "id": 231116
+            },
+            "7538": {
+                "start": 7538,
+                "end": 7547,
+                "id": 230151
+            },
+            "7549": {
+                "start": 7549,
+                "end": 7589,
+                "id": 231116
+            },
+            "7575": {
+                "start": 7575,
+                "end": 7590,
+                "id": 229959
+            },
+            "7593": {
+                "start": 7593,
+                "end": 7635,
+                "id": 231116
+            },
+            "7634": {
+                "start": 7634,
+                "end": 7755,
+                "id": 229915
+            },
+            "7748": {
+                "start": 7748,
+                "end": 7753,
+                "id": 231116
+            },
+            "7756": {
+                "start": 7756,
+                "end": 7777,
+                "id": 231116
+            },
+            "7763": {
+                "start": 7763,
+                "end": 7778,
+                "id": 230173
+            },
+            "7779": {
+                "start": 7779,
+                "end": 7789,
+                "id": 231116
+            },
+            "7793": {
+                "start": 7793,
+                "end": 7903,
+                "id": 230024
+            },
+            "7903": {
+                "start": 7903,
+                "end": 7959,
+                "id": 231116
+            },
+            "7906": {
+                "start": 7906,
+                "end": 7959,
+                "id": 229915
+            },
+            "7959": {
+                "start": 7959,
+                "end": 7980,
+                "id": 230024
+            },
+            "7981": {
+                "start": 7981,
+                "end": 8016,
+                "id": 231116
+            },
+            "7987": {
+                "start": 7987,
+                "end": 8006,
+                "id": 229913
+            },
+            "7989": {
+                "start": 7989,
+                "end": 8008,
+                "id": 230024
+            },
+            "8017": {
+                "start": 8017,
+                "end": 8053,
+                "id": 230172
+            },
+            "8046": {
+                "start": 8046,
+                "end": 8076,
+                "id": 230024
+            },
+            "8053": {
+                "start": 8053,
+                "end": 8054,
+                "id": 231116
+            },
+            "8078": {
+                "start": 8078,
+                "end": 8101,
+                "id": 231116
+            },
+            "8080": {
+                "start": 8080,
+                "end": 8088,
+                "id": 230024
+            },
+            "8101": {
+                "start": 8101,
+                "end": 8130,
+                "id": 229915
+            },
+            "8128": {
+                "start": 8128,
+                "end": 8190,
+                "id": 231116
+            },
+            "8143": {
+                "start": 8143,
+                "end": 8158,
+                "id": 230172
+            },
+            "8192": {
+                "start": 8192,
+                "end": 8213,
+                "id": 231116
+            },
+            "8214": {
+                "start": 8214,
+                "end": 8343,
+                "id": 230173
+            },
+            "8342": {
+                "start": 8342,
+                "end": 8358,
+                "id": 231116
+            },
+            "8347": {
+                "start": 8347,
+                "end": 8361,
+                "id": 230061
+            },
+            "8362": {
+                "start": 8362,
+                "end": 8364,
+                "id": 231116
+            },
+            "8396": {
+                "start": 8396,
+                "end": 8410,
+                "id": 230061
+            },
+            "8397": {
+                "start": 8397,
+                "end": 8401,
+                "id": 231116
+            },
+            "8407": {
+                "start": 8407,
+                "end": 8407,
+                "id": 231116
+            },
+            "8409": {
+                "start": 8409,
+                "end": 8411,
+                "id": 231116
+            },
+            "8425": {
+                "start": 8425,
+                "end": 8446,
+                "id": 231116
+            },
+            "8431": {
+                "start": 8431,
+                "end": 8477,
+                "id": 230171
+            },
+            "8478": {
+                "start": 8478,
+                "end": 8479,
+                "id": 231116
+            },
+            "8479": {
+                "start": 8479,
+                "end": 8522,
+                "id": 230173
+            },
+            "8522": {
+                "start": 8522,
+                "end": 8523,
+                "id": 231116
+            },
+            "8523": {
+                "start": 8523,
+                "end": 8553,
+                "id": 230171
+            },
+            "8554": {
+                "start": 8554,
+                "end": 8558,
+                "id": 231116
+            },
+            "8557": {
+                "start": 8557,
+                "end": 8600,
+                "id": 230172
+            },
+            "8600": {
+                "start": 8600,
+                "end": 8607,
+                "id": 231116
+            },
+            "8605": {
+                "start": 8605,
+                "end": 8633,
+                "id": 229901
+            },
+            "8616": {
+                "start": 8616,
+                "end": 8651,
+                "id": 230173
+            },
+            "8631": {
+                "start": 8631,
+                "end": 8633,
+                "id": 231116
+            },
+            "8652": {
+                "start": 8652,
+                "end": 8657,
+                "id": 231116
+            },
+            "8659": {
+                "start": 8659,
+                "end": 8815,
+                "id": 230024
+            },
+            "8816": {
+                "start": 8816,
+                "end": 8833,
+                "id": 230173
+            },
+            "8831": {
+                "start": 8831,
+                "end": 8872,
+                "id": 230024
+            },
+            "8871": {
+                "start": 8871,
+                "end": 8875,
+                "id": 231116
+            },
+            "8874": {
+                "start": 8874,
+                "end": 8897,
+                "id": 230172
+            },
+            "8897": {
+                "start": 8897,
+                "end": 8937,
+                "id": 230024
+            },
+            "8932": {
+                "start": 8932,
+                "end": 8957,
+                "id": 231116
+            },
+            "8938": {
+                "start": 8938,
+                "end": 8940,
+                "id": 230173
+            },
+            "8945": {
+                "start": 8945,
+                "end": 8957,
+                "id": 230173
+            },
+            "9014": {
+                "start": 9014,
+                "end": 9049,
+                "id": 230173
+            },
+            "9016": {
+                "start": 9016,
+                "end": 9075,
+                "id": 231116
+            },
+            "9087": {
+                "start": 9087,
+                "end": 9095,
+                "id": 231116
+            },
+            "9111": {
+                "start": 9111,
+                "end": 9230,
+                "id": 229972
+            },
+            "9218": {
+                "start": 9218,
+                "end": 9249,
+                "id": 231116
+            },
+            "9244": {
+                "start": 9244,
+                "end": 9393,
+                "id": 230023
+            },
+            "9393": {
+                "start": 9393,
+                "end": 9424,
+                "id": 231116
+            },
+            "9417": {
+                "start": 9417,
+                "end": 9426,
+                "id": 229944
+            },
+            "9421": {
+                "start": 9421,
+                "end": 9426,
+                "id": 230023
+            },
+            "9427": {
+                "start": 9427,
+                "end": 9435,
+                "id": 231116
+            },
+            "9432": {
+                "start": 9432,
+                "end": 9444,
+                "id": 229972
+            },
+            "9441": {
+                "start": 9441,
+                "end": 9483,
+                "id": 231116
+            },
+            "513": {
+                "start": 513,
+                "end": 513,
+                "id": 229955
+            },
+            "630": {
+                "start": 630,
+                "end": 632,
+                "id": 230061
+            }
+        }
+    },
+    "title": "Vergadering Raadsvergadering 21-09-2022 Gemeente Eindhoven",
+    "meeting_url": "https://raadsinformatie.eindhoven.nl/vergadering/1013082/",
+    "video_url": {
+        "Raadzaal": "http://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_21.09.22_NC_EINDHOVEN_RAA.mp4/playlist.m3u8"
+    },
+    "api_url": "api.notubiz.nl/events/1013082",
+    "date": "21-09-2022",
+    "type": "Raadsvergadering",
+    "agenda": {
+        "Raadzaal": {
+            "null": {
+                "title": "Raadsvoorstel inzet rijksmiddelen aanpak energiearmoede",
+                "id": 7038478,
+                "module_id": []
+            },
+            "683": {
+                "title": "Opening en mededelingen ",
+                "id": 6962216,
+                "module_id": []
+            },
+            "775": {
+                "title": "Vaststellen van de volgorde van de agenda ",
+                "id": 6962214,
+                "module_id": []
+            },
+            "793": {
+                "title": "Benoemingen en ontheffingen",
+                "id": 6962213,
+                "module_id": []
+            },
+            "849": {
+                "title": "Raadsvoorstel ontheffen van een commissielid van de fractie OAHvE als lid in de Meningsvormende vergadering en Auditcommissie",
+                "id": 6969463,
+                "module_id": [
+                    773075
+                ]
+            },
+            "860": {
+                "title": "Raadsvoorstel  ontheffen van een commissielid van de fractie SP als lid in de Meningsvormende vergadering ",
+                "id": 7016145,
+                "module_id": [
+                    779516
+                ]
+            },
+            "817": {
+                "title": "Raadsvoorstel benoeming lid auditcommissie",
+                "id": 7026514,
+                "module_id": [
+                    780446
+                ]
+            },
+            "869": {
+                "title": "Raadsvoorstel benoemen commissielid van de fractie OAHvE als lid in de Meningsvormende vergadering",
+                "id": 7033560,
+                "module_id": [
+                    780938
+                ]
+            },
+            "901": {
+                "title": "Raadsvoorstel benoemen commissielid van de fractie SP als lid in de Meningsvormende vergadering",
+                "id": 7033497,
+                "module_id": [
+                    780932
+                ]
+            },
+            "1066": {
+                "title": "Beëdiging commissieleden",
+                "id": 7003850,
+                "module_id": []
+            },
+            "1199": {
+                "title": "Openbare besluitenlijst van de raadsvergadering d.d. 19 juli 2022, 21 juli 2022, 12 september 2022 en 13 september 2022",
+                "id": 6962218,
+                "module_id": []
+            },
+            "1224": {
+                "title": "Vragenhalfhuur ex artikel 38 van het Regiment van de orde van de raad",
+                "id": 6962217,
+                "module_id": []
+            },
+            "1816": {
+                "title": "Hamerstukken",
+                "id": 6962215,
+                "module_id": []
+            },
+            "2174": {
+                "title": "Raadsvoorstel Stormschade februari en mei 2022",
+                "id": 6984808,
+                "module_id": [
+                    771649
+                ]
+            },
+            "2180": {
+                "title": "Raadsvoorstel Algemene Verordening Ondergrondse Infrastructuren",
+                "id": 6984854,
+                "module_id": [
+                    771635
+                ]
+            },
+            "2188": {
+                "title": "Raadsvoorstel financiële ontmanteling investerings- en exploitatiemiddelen voor proeftuin ’t Ven- Lievendaal",
+                "id": 6984861,
+                "module_id": [
+                    771634
+                ]
+            },
+            "2201": {
+                "title": "Raadsvoorstel Begrotingswijzigingen Tussentijdse rapportage 1-2022",
+                "id": 6984863,
+                "module_id": [
+                    771657
+                ]
+            },
+            "2308": {
+                "title": "Raadsvoorstel Vaststelling bestemmingsplan 'III Strijp buiten de Ring 2019 (div. locaties 't Ven)'",
+                "id": 6984885,
+                "module_id": [
+                    771650
+                ]
+            },
+            "2209": {
+                "title": "Raadsvoorstel Gewijzigde vaststelling ex artikel 6:19 Awb bestemmingsplan ‘V Limbeek – Woenselse Watermolen 2007 (Zoutstraat 2-4)",
+                "id": 6984896,
+                "module_id": [
+                    771633
+                ]
+            },
+            "2224": {
+                "title": "Raadsvoorstel Vaststellen Grondexploitatie gebiedsontwikkeling winkelcentrum en woningbouw Ardèchelaan (899-300)",
+                "id": 6984903,
+                "module_id": [
+                    771654
+                ]
+            },
+            "2443": {
+                "title": "Raadsvoorstel Begrotingswijziging financiële middelen verbouwing atelierpanden en subsidieregeling makerspaces",
+                "id": 6984918,
+                "module_id": [
+                    771655
+                ]
+            },
+            "2246": {
+                "title": "Raadsvoorstel Verzoek om opheffing geheimhouding stukken met betrekking tot Aankoop Landgoed De Wielewaal",
+                "id": 6995574,
+                "module_id": [
+                    777965
+                ]
+            },
+            "2257": {
+                "title": "Raadsvoorstel Aanwijzing burgemeester Dijsselbloem als lid Algemeen Bestuur Metropoolregio Eindhoven",
+                "id": 7027781,
+                "module_id": [
+                    780518
+                ]
+            },
+            "2267": {
+                "title": "Raadsvoorstel Verordening op de rekenkamer Eindhoven 2022",
+                "id": 7034019,
+                "module_id": [
+                    780980
+                ]
+            },
+            "2514": {
+                "title": "Bespreekstukken",
+                "id": 6962221,
+                "module_id": []
+            },
+            "2530": {
+                "title": "Raadsvoorstel startnotitie participatieproces Wielewaal",
+                "id": 6984875,
+                "module_id": [
+                    771653
+                ]
+            },
+            "5092": {
+                "title": "Raadsvoorstel inzet rijksmiddelen aanpak energiearmoede",
+                "id": 6992299,
+                "module_id": [
+                    777690
+                ]
+            },
+            "6211": {
+                "title": "Vrije moties",
+                "id": 6962219,
+                "module_id": []
+            },
+            "9454": {
+                "title": "Raadsinformatiebrieven (RIB) ter kennisname",
+                "id": 6962220,
+                "module_id": []
+            },
+            "9465": {
+                "title": "Ingekomen stukken afdoen conform advies",
+                "id": 6962222,
+                "module_id": []
+            },
+            "9480": {
+                "title": "Sluiting",
+                "id": 6962223,
+                "module_id": []
+            }
+        }
+    }
+}

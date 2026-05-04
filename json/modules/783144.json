@@ -1,0 +1,46 @@
+{
+    "module_id": 783144,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230014,
+    "title": "Normoverschrijdingen - Rondvraag GL Behalen CO2-doelstellingen in 2025",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/783144",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "R. Thijs (Wethouder)",
+    "result": "",
+    "date": "27-09-2022",
+    "meeting_url": {
+        "1022089": "https://raadsinformatie.eindhoven.nl/vergadering/1022089#ai_7011725"
+    },
+    "attachment": null,
+    "parent": "ai_7011725",
+    "children": [],
+    "text": "In gesprek te gaan met Milieudefensie Eindhoven over het onderwerp handhaven t.a.v. normoverschrijdingen.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [],
+    "videostarttime": {
+        "1022089": null
+    },
+    "videolink": null,
+    "keywords": {
+        "Milieudefensie Eindhoven": 0.9915581283217061,
+        "Normoverschrijdingen": 1.9816666631739033,
+        "onderwerp handhaven": 0.9802560587882564,
+        "Rondvraag": 1.9386120372534896,
+        "Behalen": 1.9386120372534896,
+        "Eindhoven": 0.9085057211826901,
+        "gesprek": 0.8218485391955245,
+        "gaan": 0.8218485391955245,
+        "onderwerp": 0.8218485391955245
+    },
+    "svz": null,
+    "afgedaan": "10-11-2022",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

@@ -1,0 +1,98 @@
+{
+    "module_id": 777522,
+    "vote_id": null,
+    "member_id": [
+        194375
+    ],
+    "party_list": [
+        "Partij voor de Dieren"
+    ],
+    "poho_id": [],
+    "title": "Beantwoording raadsvragen PvdD (Roothans) over Biomassa bij het ir. Ottenbad",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/4/Raadsvragen/777522",
+    "type": "Raadsvraag",
+    "member": "Jonas Roothans",
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "08-06-2022",
+    "meeting_url": null,
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/11772666/1?connection_type=17&connection_id=8593525": "Vraag"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": "22bst00990",
+    "related": [
+        {
+            "id": 777360,
+            "weight": 1.8745532309646276
+        },
+        {
+            "id": 941360,
+            "weight": 0.7283088500146621
+        },
+        {
+            "id": 775227,
+            "weight": 0.6905465595527644
+        },
+        {
+            "id": "ai_6964474",
+            "weight": 0.6819079125515425
+        },
+        {
+            "id": 15555133,
+            "weight": 0.42975542263142374
+        },
+        {
+            "id": "o_7006000",
+            "weight": 0.42975542263142374
+        },
+        {
+            "id": 944421,
+            "weight": 0.33738068813207694
+        },
+        {
+            "id": "o_8674111",
+            "weight": 0.334811169773902
+        },
+        {
+            "id": 813416,
+            "weight": 0.17226002788798678
+        },
+        {
+            "id": 1148253,
+            "weight": 0.1682943139663273
+        },
+        {
+            "id": 999545,
+            "weight": 0.16603671246990925
+        },
+        {
+            "id": 785761,
+            "weight": 0.12528033291278196
+        },
+        {
+            "id": 1120756,
+            "weight": 0.1120281953877669
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Roothans": 1.9637447595933084,
+        "Beantwoording raadsvragen": 1.922031089187091,
+        "raadsvragen PvdD": 1.922031089187091,
+        "Biomassa": 1.8416830712200127,
+        "Ottenbad": 1.82118245171742,
+        "PvdD": 1.7994920302806434
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": "02-04-2026",
+    "meeting_id": []
+}

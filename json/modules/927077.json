@@ -1,0 +1,78 @@
+{
+    "module_id": 927077,
+    "vote_id": 8290601,
+    "member_id": [
+        194500
+    ],
+    "party_list": [
+        "FVD"
+    ],
+    "poho_id": [],
+    "title": "Nooit meer filmpje in raadsbesluit (Motie M31)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/moties_en_toezeggingen/927077?parent_event=1147888",
+    "type": "Motie",
+    "member": "Nicolas Knoester",
+    "party": null,
+    "poho": "",
+    "result": "Verworpen",
+    "date": "12-03-2024",
+    "meeting_url": {
+        "1147888": "https://raadsinformatie.eindhoven.nl/vergadering/1147888#ai_8127798"
+    },
+    "attachment": null,
+    "parent": 906466,
+    "children": [],
+    "text": "",
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/13928673/1/Nooit+meer+filmpje+in+raadsbesluit+%28Motie+M31%29?connection_type=17&connection_id=10382268",
+    "pdf_text": " \n \nMotie Nooit meer filmpje in besluit       M31 \n \n \nMasterplan Mobiliteit in 2050 – we gaan vooruit  \n \nDe indieners horen  dat: \n- In het Masterplan Mobiliteit een filmpje als beslispunt is \nopgenomen  \n \nDraagt het college op:  \nNooit meer filmpjes als beslispunten op te nemen  \n \n12 maart 2024  \n \nHet lid van de raad,  \nNicolas Knoester (FvD), voorsteller  \n \n-----------------------------------------------------------------------------------------------  \n \nDeze motie is verworpen in de vergadering van 12 maart 2024.  \n \nJ. Jongbloed, griffier.  \n \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 1124696,
+            "weight": 1.2938759279854055
+        },
+        {
+            "id": 1115942,
+            "weight": 1.2936895772831145
+        }
+    ],
+    "videostarttime": {
+        "1147888": 20325
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_12.03.24_NC_EINDHOVEN_Raadsvergadering.mp4/playlist.m3u8",
+    "keywords": {
+        "Masterplan Mobiliteit": 0.9977596260699026,
+        "Nicolas Knoester": 0.9965880727915889,
+        "opgenomen Draagt": 0.9885903351529468,
+        "indieners horen": 0.9746075607935891,
+        "maart": 0.9700129306323887,
+        "Masterplan": 0.9666055381913959,
+        "Mobiliteit": 0.9666055381913959,
+        "Motie": 1.9663788876454926,
+        "filmpje": 1.9631037444371833,
+        "Nicolas": 0.9416876895915958,
+        "Knoester": 0.9416876895915958,
+        "Draagt": 0.9283132927173166,
+        "FvD": 0.9130067798113293,
+        "voorsteller": 0.9130067798113293,
+        "raadsbesluit": 1.8793479629860665,
+        "nemen": 0.8793479629860667,
+        "raad": 1.8793479629860665,
+        "gaan": 0.842635359018507,
+        "horen": 0.842635359018507,
+        "beslispunt": 0.842635359018507,
+        "college": 0.842635359018507,
+        "lid": 0.842635359018507,
+        "verworpen": 0.842635359018507,
+        "vergadering": 0.842635359018507,
+        "Jongbloed": 0.8230023843112544,
+        "griffier": 0.7513593783573682
+    },
+    "svz": null,
+    "afgedaan": "12-03-2024",
+    "eersteIndiener": 194500,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": [
+        1147888
+    ]
+}

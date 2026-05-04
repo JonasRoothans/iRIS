@@ -1,0 +1,119 @@
+{
+    "module_id": 899539,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Gesprekken woonbootbewoners - Raadsvoorstel Beslissing op bezwaar gericht tegen het Raadsbesluit inzake de “Uitkoopregeling woonboten bedrijventerrein De Hurk”",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/899539",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "28-11-2023",
+    "meeting_url": {
+        "1013527": "https://raadsinformatie.eindhoven.nl/vergadering/1013527#ai_7965394"
+    },
+    "attachment": null,
+    "parent": 889791,
+    "children": [],
+    "text": "Wethouder Verhees zegt, op expliciet verzoek van dhr. Janssen, toe in een informatieve bijeenkomst de uitkomst van de gesprekken met de woonbootbewoners nader toe te lichten.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 889791,
+            "weight": 0.9643450572218907
+        },
+        {
+            "id": 982961,
+            "weight": 0.9357264141886977
+        },
+        {
+            "id": 992795,
+            "weight": 0.9184764831143801
+        },
+        {
+            "id": 821750,
+            "weight": 0.20750025331380983
+        },
+        {
+            "id": 1139738,
+            "weight": 0.19430751378178024
+        },
+        {
+            "id": 826914,
+            "weight": 0.0732576759863328
+        },
+        {
+            "id": 785761,
+            "weight": 0.060097689089721185
+        },
+        {
+            "id": 802773,
+            "weight": 0.05390755591101317
+        },
+        {
+            "id": 813416,
+            "weight": 0.05349887186685429
+        },
+        {
+            "id": 846881,
+            "weight": 0.05286773569994727
+        },
+        {
+            "id": 973917,
+            "weight": 0.0486851499312184
+        },
+        {
+            "id": "a_7344706",
+            "weight": 0.04498006432768735
+        },
+        {
+            "id": 977803,
+            "weight": 0.04241708739079285
+        },
+        {
+            "id": 1104215,
+            "weight": 0.04238348142800443
+        }
+    ],
+    "videostarttime": {
+        "1013527": 13598
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_28.11.23_NC_Eindhoven_Raa.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Beslissing": 1.9965319273385072,
+        "Wethouder Verhees": 0.9965319273385072,
+        "Verhees zegt": 0.9934654729639166,
+        "Uitkoopregeling woonboten": 1.9930767142281907,
+        "bezwaar gericht": 1.9827349328316282,
+        "woonboten bedrijventerrein": 1.9827349328316282,
+        "expliciet verzoek": 0.9827349328316283,
+        "Hurk": 1.9472225013385587,
+        "Gesprekken woonbootbewoners": 1.9447654131500984,
+        "Beslissing": 1.9345159056540904,
+        "Raadsbesluit": 1.9345159056540904,
+        "woonbootbewoners nader": 0.9150572488600986,
+        "zegt": 0.9008598306126517,
+        "dhr": 0.9008598306126517,
+        "Gesprekken": 1.8856065783260842,
+        "bezwaar": 1.8697232035471778,
+        "gericht": 1.8697232035471778,
+        "woonboten": 1.8697232035471778,
+        "verzoek": 0.8697232035471777,
+        "informatieve bijeenkomst": 0.8673619751861409,
+        "Janssen": 0.7902479221977261,
+        "lichten": 0.7234775204118886,
+        "informatieve": 0.6577933426315203,
+        "bijeenkomst": 0.6577933426315203,
+        "nader": 0.6577933426315203
+    },
+    "svz": null,
+    "afgedaan": "05-03-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

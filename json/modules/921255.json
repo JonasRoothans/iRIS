@@ -1,0 +1,141 @@
+{
+    "module_id": 921255,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Deelgebieden - De raad langdurig in positie bij Zuidwest (Motie M4)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/921255",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "20-02-2024",
+    "meeting_url": {
+        "1147873": "https://raadsinformatie.eindhoven.nl/vergadering/1147873#ai_8132308"
+    },
+    "attachment": null,
+    "parent": 897087,
+    "children": [],
+    "text": "Wethouder Verhees zegt toe de motie te omarmen en maakt daarbij de volgende kanttekeningen:\nzij daarbij een voorstel zal doen hoe om te gaan met deelgebieden, met daarin aangegeven op welk moment de raad nog een kaderstellende rol heeft. Dit houdt ook verband met de nog lopende uitwerking van bestuurlijke processen als gevolg van de invoering van de Omgevingswet.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 920427,
+            "weight": 1.9365150350496356
+        },
+        {
+            "id": 991544,
+            "weight": 0.7621838185093823
+        },
+        {
+            "id": 897087,
+            "weight": 0.6200513096677636
+        },
+        {
+            "id": 951029,
+            "weight": 0.2507846836452043
+        },
+        {
+            "id": 884778,
+            "weight": 0.2452634683844668
+        },
+        {
+            "id": 884226,
+            "weight": 0.24412013120318002
+        },
+        {
+            "id": 1036228,
+            "weight": 0.21653036644769855
+        },
+        {
+            "id": 833109,
+            "weight": 0.21498433271124529
+        },
+        {
+            "id": 970716,
+            "weight": 0.21011523728854967
+        },
+        {
+            "id": 968648,
+            "weight": 0.20752215255178996
+        },
+        {
+            "id": 857634,
+            "weight": 0.2029221321331783
+        },
+        {
+            "id": 1036032,
+            "weight": 0.20003789903221247
+        },
+        {
+            "id": 845507,
+            "weight": 0.19607888364817624
+        },
+        {
+            "id": 902702,
+            "weight": 0.18765794999770716
+        },
+        {
+            "id": 936160,
+            "weight": 0.170032616131034
+        },
+        {
+            "id": 931102,
+            "weight": 0.16326638167041943
+        },
+        {
+            "id": 1026188,
+            "weight": 0.1458277799785102
+        },
+        {
+            "id": 1062557,
+            "weight": 0.14402805568477392
+        },
+        {
+            "id": 884039,
+            "weight": 0.13415544560890355
+        }
+    ],
+    "videostarttime": {
+        "1147873": 2812
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_20.02.24_NC_EINDHOVEN_RAA.mp4/playlist.m3u8",
+    "keywords": {
+        "Wethouder Verhees": 0.9969988309391367,
+        "Verhees zegt": 0.9930028992190197,
+        "raad langdurig": 1.9888831142610766,
+        "volgende kanttekeningen": 0.9888065357966564,
+        "maakt daarbij": 0.9867816798732667,
+        "kaderstellende rol": 0.9861444733909628,
+        "Motie": 1.9614114351120875,
+        "Deelgebieden": 1.9612167577787027,
+        "raad": 1.9529750544725673,
+        "Zuidwest": 1.9496589123707209,
+        "lopende uitwerking": 0.8898804303260214,
+        "bestuurlijke processen": 0.8898804303260214,
+        "zegt": 0.8830975852955731,
+        "omarmen": 0.8830975852955731,
+        "maakt": 0.8830975852955731,
+        "volgende": 0.8830975852955731,
+        "voorstel": 0.8830975852955731,
+        "gaan": 0.8830975852955731,
+        "aangegeven": 0.8830975852955731,
+        "moment": 0.8830975852955731,
+        "rol": 0.8830975852955731,
+        "Omgevingswet": 0.8445189963098283,
+        "houdt": 0.6850458222595124,
+        "verband": 0.6850458222595124,
+        "processen": 0.6850458222595124,
+        "gevolg": 0.6850458222595124,
+        "invoering": 0.6850458222595124
+    },
+    "svz": null,
+    "afgedaan": "10-12-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

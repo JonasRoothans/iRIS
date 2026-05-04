@@ -1,0 +1,146 @@
+{
+    "module_id": 1101426,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Raadsbrief Actualisatie portefeuilleverdeling november 2025",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/8/Raadsbrieven/1101426",
+    "type": "Raadsbrief",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "12-11-2025",
+    "meeting_url": null,
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/16215355/1/8068904_02+Raadsbrief+Actualisatie+portefeuilleverdeling+november+2025?connection_type=17&connection_id=12577283",
+    "pdf_text": " \n  \n \n gemeente Eindhoven  \nInboeknummer       8068904 _02 \nDossiernummer     25.46.105  \nB&W beslisdatum   11 november 2025  \nRaadsbrief  \n \nOnderwerp : Actualisatie portefeuilleverdeling en onderlinge vervanging college van \nburgemeester en wethouders november 2025  \n \nAan de leden van de gemeenteraad,   \n \n \nMet het vertrek van wethouder M.R.H. van Lanschot en de benoeming van wethouder \nR.R.A. van Dooren is de portefeuilleverdeling en onderlinge vervanging van het college \ngeactualiseerd.  \n \nBijgaand treft u het actualisatiebesluit aan.  \n \n \nBurgemeester en wethouders van Eindhoven,  \n \nSecretaris  \n \n \n \n \n \nBijlage:  Besluit Actualisatie portefeuilleverdeling en onderlinge vervanging college van \nburgemeester en wethouders november 2025  ",
+    "bst": "8068904_02",
+    "related": [
+        {
+            "id": 973169,
+            "weight": 2.664670534928998
+        },
+        {
+            "id": 859332,
+            "weight": 1.651182361252106
+        },
+        {
+            "id": 776883,
+            "weight": 1.3473465212743037
+        },
+        {
+            "id": 1112167,
+            "weight": 0.7938147800608717
+        },
+        {
+            "id": 1141629,
+            "weight": 0.7873322922586982
+        },
+        {
+            "id": 1101416,
+            "weight": 0.7851268412920018
+        },
+        {
+            "id": 1092907,
+            "weight": 0.7827994746402915
+        },
+        {
+            "id": 11765920,
+            "weight": 0.21420842635217988
+        },
+        {
+            "id": 866427,
+            "weight": 0.19626800834272282
+        },
+        {
+            "id": 1150885,
+            "weight": 0.1342922794323183
+        },
+        {
+            "id": 849353,
+            "weight": 0.1267703930395492
+        },
+        {
+            "id": 1140798,
+            "weight": 0.10316871875918315
+        },
+        {
+            "id": 987078,
+            "weight": 0.08267366328225191
+        },
+        {
+            "id": 1045688,
+            "weight": 0.08054083069183002
+        },
+        {
+            "id": 960412,
+            "weight": 0.08047931454842541
+        },
+        {
+            "id": 1123955,
+            "weight": 0.05841785681245204
+        },
+        {
+            "id": 845410,
+            "weight": 0.0545318815622647
+        },
+        {
+            "id": 776969,
+            "weight": 0.0516678386950707
+        },
+        {
+            "id": 924333,
+            "weight": 0.04875264395999104
+        },
+        {
+            "id": 948025,
+            "weight": 0.042787189539675696
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Raadsbrief Onderwerp": 0.9954049577702279,
+        "Eindhoven Inboeknummer": 0.9887285492966549,
+        "Raadsbrief Actualisatie": 1.9883563373009872,
+        "Actualisatie portefeuilleverdeling": 1.9865933116334755,
+        "onderlinge vervanging": 0.9796917949438981,
+        "gemeente Eindhoven": 0.9724322297217785,
+        "wethouders november": 0.970779890661289,
+        "Raadsbrief": 1.9625594623037834,
+        "vervanging college": 0.9602454945479536,
+        "college geactualiseerd": 0.9558339277977341,
+        "Dossiernummer": 0.9467944626904464,
+        "november": 1.946743450964672,
+        "portefeuilleverdeling november": 1.9433786859567124,
+        "Onderwerp": 0.9389161497675087,
+        "Secretaris Bijlage": 0.9346539770249047,
+        "Lanschot": 0.9310065595131254,
+        "Dooren": 0.9310065595131254,
+        "onderlinge": 0.9252328831338801,
+        "burgemeester": 0.9199507786339391,
+        "Eindhoven": 0.9087662198149863,
+        "college": 0.9041057770898013,
+        "wethouder": 0.8704067175169747,
+        "beslisdatum": 0.852970154276282,
+        "gemeenteraad": 0.852970154276282,
+        "leden": 0.8274224376708728,
+        "vertrek": 0.8274224376708728,
+        "benoeming": 0.8274224376708728,
+        "Bijgaand treft": 0.8133208955515174,
+        "Bijlage": 0.7523352283225172,
+        "Besluit": 0.7523352283225172,
+        "treft": 0.5799165868729428,
+        "actualisatiebesluit": 0.5799165868729428
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": null,
+    "meeting_id": []
+}

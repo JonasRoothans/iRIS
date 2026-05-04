@@ -1,0 +1,47 @@
+{
+    "module_id": "ai_7216509",
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Onderdeel opkomstbevordering - Graag een goed gevulde goodiebag voor 18-jarigen! (rondvraag).",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/moties_en_toezeggingen/813336?parent_event=1057550",
+    "type": "Agenda",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "17-01-2023",
+    "meeting_url": "https://raadsinformatie.eindhoven.nl/vergadering/1057550#ai_7216509",
+    "attachment": null,
+    "parent": null,
+    "children": [
+        813336
+    ],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 12324103,
+            "weight": 2.4458403951176733
+        }
+    ],
+    "videostarttime": 872,
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_17.01.2023_Eindhoven_meningsvorming_raadzaal.mp4/playlist.m3u8",
+    "keywords": {
+        "Onderdeel opkomstbevordering": 1.9581125335883751,
+        "Graag": 1.9029482086059646,
+        "goed gevulde": 1.8504069908205425,
+        "gevulde goodiebag": 1.8504069908205425,
+        "rondvraag": 1.82118245171742,
+        "Onderdeel": 1.7994920302806434,
+        "goed": 1.6392688949833367
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": null,
+    "meeting_id": []
+}

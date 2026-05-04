@@ -1,0 +1,122 @@
+{
+    "module_id": 1137719,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 248564,
+    "title": "Agenderingsverzoek Vrije Kruising Tongelre",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1137719",
+    "type": "Toezegging",
+    "member": "",
+    "party": "",
+    "poho": "R. Strijk (Wethouder)",
+    "result": "",
+    "date": "24-02-2026",
+    "meeting_url": {
+        "1458700": "https://raadsinformatie.eindhoven.nl/vergadering/1458700#ai_9989541"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": "Wethouder Strijk zegt toe eind Q2/begin Q3 met een raadsvoorstel te komen voor een zorgvuldig, integraal, breed onderzoek, met een voorstel voor financiën en met een participatieplan. Hierin neemt hij de keuze voor wel/geen onafhankelijk onderzoek en een evt. rol van de Rijksbouwmeester mee.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1123955,
+            "weight": 2.968941235981165
+        },
+        {
+            "id": 1139990,
+            "weight": 0.3609780856081583
+        },
+        {
+            "id": 1021311,
+            "weight": 0.205774369457412
+        },
+        {
+            "id": 1027870,
+            "weight": 0.19579014672429992
+        },
+        {
+            "id": 983826,
+            "weight": 0.19420198519539233
+        },
+        {
+            "id": 945622,
+            "weight": 0.15453295053863406
+        },
+        {
+            "id": 1082448,
+            "weight": 0.15085799295932473
+        },
+        {
+            "id": 815680,
+            "weight": 0.13902458485674704
+        },
+        {
+            "id": 921493,
+            "weight": 0.09814386501744105
+        },
+        {
+            "id": 881818,
+            "weight": 0.0889333948355416
+        },
+        {
+            "id": 1037388,
+            "weight": 0.08720758021088436
+        },
+        {
+            "id": 923629,
+            "weight": 0.08462735355246498
+        },
+        {
+            "id": 822641,
+            "weight": 0.0799198576922206
+        },
+        {
+            "id": 1080140,
+            "weight": 0.06921988777671075
+        },
+        {
+            "id": 1031043,
+            "weight": 0.0539025797187703
+        }
+    ],
+    "videostarttime": {},
+    "videolink": null,
+    "keywords": {
+        "Vrije Kruising": 1.9954090069825883,
+        "Kruising Tongelre": 1.9954090069825883,
+        "Tongelre Wethouder": 0.9954090069825882,
+        "Wethouder Strijk": 0.9954090069825882,
+        "Agenderingsverzoek Vrije": 1.992783732066056,
+        "Strijk zegt": 0.9905186321357414,
+        "breed onderzoek": 0.9736582909427088,
+        "Vrije": 1.9323981352057313,
+        "Tongelre": 1.9323981352057313,
+        "begin": 0.9239384089624966,
+        "integraal": 0.9239384089624966,
+        "onafhankelijk onderzoek": 0.9047435395022563,
+        "eind": 0.8940182120088614,
+        "zorgvuldig": 0.8940182120088614,
+        "breed": 0.8940182120088614,
+        "participatieplan": 0.8940182120088614,
+        "Rijksbouwmeester mee": 0.8881057403711118,
+        "zegt": 0.8610642488775619,
+        "raadsvoorstel": 0.8610642488775619,
+        "komen": 0.8610642488775619,
+        "financiën": 0.8610642488775619,
+        "evt": 0.7083577250004268,
+        "neemt": 0.6408648706914064,
+        "keuze": 0.6408648706914064,
+        "rol": 0.6250610511405896,
+        "mee": 0.6250610511405896
+    },
+    "svz": "",
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "08-04-2026",
+    "meeting_id": []
+}

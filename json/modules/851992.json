@@ -1,0 +1,132 @@
+{
+    "module_id": 851992,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230022,
+    "title": "Betrokken partijen - Studenten die vragen worden overgeslagen! (Vrije Motie VM3)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/851992",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Toub (Wethouder)",
+    "result": "",
+    "date": "30-05-2023",
+    "meeting_url": {
+        "1013491": "https://raadsinformatie.eindhoven.nl/vergadering/1013491#ai_6964908"
+    },
+    "attachment": null,
+    "parent": 850170,
+    "children": [],
+    "text": "Wethouder Toub zeg toe:\n\ndat hij daarbij niet kan garanderen dat de in de overwegingen genoemde partijen allemaal worden betrokken, maar het college in ieder geval de studentenorganisaties zal betrekken;",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 851991,
+            "weight": 0.7649979330152323
+        },
+        {
+            "id": 851993,
+            "weight": 0.7629800460503448
+        },
+        {
+            "id": 851994,
+            "weight": 0.7565269744569396
+        },
+        {
+            "id": 850133,
+            "weight": 0.5887110951051701
+        },
+        {
+            "id": 11753464,
+            "weight": 0.37634991805706214
+        },
+        {
+            "id": 15941802,
+            "weight": 0.22441547123473518
+        },
+        {
+            "id": 943204,
+            "weight": 0.167380129804419
+        },
+        {
+            "id": 985709,
+            "weight": 0.164626902155705
+        },
+        {
+            "id": 1028660,
+            "weight": 0.15839639435876068
+        },
+        {
+            "id": 984303,
+            "weight": 0.09707232098684691
+        },
+        {
+            "id": 13136282,
+            "weight": 0.08095855311000702
+        },
+        {
+            "id": 776864,
+            "weight": 0.0780762536693046
+        },
+        {
+            "id": 833997,
+            "weight": 0.07629806034706102
+        },
+        {
+            "id": 850611,
+            "weight": 0.0708006795908902
+        },
+        {
+            "id": 1098689,
+            "weight": 0.062106628746409306
+        },
+        {
+            "id": 12549639,
+            "weight": 0.061548632327610917
+        },
+        {
+            "id": 14115505,
+            "weight": 0.05072037693296337
+        },
+        {
+            "id": 1015799,
+            "weight": 0.05029614828896074
+        }
+    ],
+    "videostarttime": {
+        "1013491": 17337
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_30.05.23_NC_EINDHOVEN_Raadszaal.mp4/playlist.m3u8",
+    "keywords": {
+        "Vrije Motie": 1.964314744013567,
+        "Wethouder Toub": 0.9534736464543406,
+        "Studenten": 1.9384134364387582,
+        "Toub zeg": 0.8858847906700239,
+        "overgeslagen": 1.8789733374272006,
+        "Betrokken partijen": 1.8730467359075007,
+        "partijen allemaal": 0.8324071429789266,
+        "Betrokken": 1.8321818275880362,
+        "partijen": 1.8321818275880362,
+        "vragen": 1.8229490269407305,
+        "Vrije": 1.8143775453605158,
+        "Motie": 1.8143775453605158,
+        "overwegingen genoemde": 0.7761744247196275,
+        "Toub": 0.7604929310826181,
+        "zeg": 0.5723434852179847,
+        "daarbij": 0.5723434852179847,
+        "garanderen": 0.5723434852179847,
+        "genoemde": 0.5723434852179847,
+        "allemaal": 0.5723434852179847,
+        "college": 0.5723434852179847,
+        "geval": 0.5723434852179847,
+        "studentenorganisaties": 0.5723434852179847
+    },
+    "svz": null,
+    "afgedaan": "04-06-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

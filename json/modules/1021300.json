@@ -1,0 +1,103 @@
+{
+    "module_id": 1021300,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230013,
+    "title": "Partners en Raad betrekken - Raadsvoorstel Aankoop BIC1",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1021300",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Steenbakkers (Wethouder)",
+    "result": "",
+    "date": "18-02-2025",
+    "meeting_url": {
+        "1256331": "https://raadsinformatie.eindhoven.nl/vergadering/1256331#ai_9025497"
+    },
+    "attachment": null,
+    "parent": 1011625,
+    "children": [],
+    "text": "Wethouder Steenbakkers zegt toe aan de slag te gaan om partners te betrekken en dat de raad betrokken wordt bij deelnemingen door andere partijen",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 987695,
+            "weight": 0.39861023668409834
+        },
+        {
+            "id": 1021303,
+            "weight": 0.3984326993312491
+        },
+        {
+            "id": 1090160,
+            "weight": 0.39737203455340936
+        },
+        {
+            "id": 1090156,
+            "weight": 0.397222929801608
+        },
+        {
+            "id": 977747,
+            "weight": 0.3959360738774038
+        },
+        {
+            "id": 977750,
+            "weight": 0.3959279411766906
+        },
+        {
+            "id": 905916,
+            "weight": 0.39545690619908025
+        },
+        {
+            "id": 1029795,
+            "weight": 0.28078018753332706
+        },
+        {
+            "id": 953414,
+            "weight": 0.2374332854252351
+        },
+        {
+            "id": 850874,
+            "weight": 0.2022299680384433
+        },
+        {
+            "id": 1080157,
+            "weight": 0.1912293496420654
+        },
+        {
+            "id": 1011625,
+            "weight": 0.18141551916943066
+        },
+        {
+            "id": "a_8569201",
+            "weight": 0.15447755891934206
+        }
+    ],
+    "videostarttime": {
+        "1256331": 7614
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/18.02.25 Eindhoven Meningsvormend CK web.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Aankoop": 1.995938552108243,
+        "Wethouder Steenbakkers": 0.9939699682206337,
+        "Steenbakkers zegt": 0.9818770709856466,
+        "raad betrokken": 0.9659084096424934,
+        "Aankoop": 1.9363995341461675,
+        "Wethouder": 0.9363995341461676,
+        "Raad": 1.9127272929745576,
+        "partijen": 0.8841863851177117,
+        "Partners": 1.8624805647784535,
+        "zegt": 0.811122679823941,
+        "slag": 0.811122679823941,
+        "gaan": 0.811122679823941,
+        "deelnemingen": 0.811122679823941
+    },
+    "svz": null,
+    "afgedaan": "01-01-2026",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

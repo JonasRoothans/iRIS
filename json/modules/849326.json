@@ -1,0 +1,50 @@
+{
+    "module_id": 849326,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230019,
+    "title": "Bestuursakkoord - Agenderingsverzoek GL en PvdD over Effect- en prestatie-indicatoren.",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/849326",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. van Lanschot (Wethouder)",
+    "result": "",
+    "date": "28-03-2023",
+    "meeting_url": {
+        "1059807": "https://raadsinformatie.eindhoven.nl/vergadering/1059807#ai_7439917"
+    },
+    "attachment": null,
+    "parent": "ai_7439917",
+    "children": [],
+    "text": "Wethouder Van Lanschot zegt toe:\n\nin de kadernota terug te komen op het uitlijnen van indicatoren op het bestuursakkoord.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 849322,
+            "weight": 1.7137808600063644
+        }
+    ],
+    "videostarttime": {
+        "1059807": 8762
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_28.03.23_NC_eindhoven_cie.mp4/playlist.m3u8",
+    "keywords": {
+        "Agenderingsverzoek": 1.9284140041807984,
+        "Effect": 1.9284140041807984,
+        "Bestuursakkoord": 1.8670561017172147,
+        "prestatie-indicatoren": 1.854664276769145,
+        "Lanschot zegt": 0.8276066776823716,
+        "PvdD": 1.7678655974725495,
+        "kadernota terug": 0.6443787031069286,
+        "Wethouder": 0.6286955374931662
+    },
+    "svz": null,
+    "afgedaan": "13-06-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

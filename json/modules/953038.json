@@ -1,0 +1,129 @@
+{
+    "module_id": 953038,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230024,
+    "title": "Informatiebijeenkomst Stichting Cultuur Eindhoven  - Rondvraag GroenLinks inzake Step in the Arena",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/953038",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Lammers (Wethouder)",
+    "result": "",
+    "date": "18-06-2024",
+    "meeting_url": {
+        "1147967": "https://raadsinformatie.eindhoven.nl/vergadering/1147967#ai_7853595"
+    },
+    "attachment": null,
+    "parent": "ai_7853595",
+    "children": [],
+    "text": "Wethouder Lammers zegt toe dat Stichting Cultuur Eindhoven in het najaar een jaarlijkse informatiebijeenkomst organiseert. Tijdens deze informatiebijeenkomst kan de stichting inzicht geven in de dilemma’s als het gaat om uitvoering te geven aan de gestelde kaders en mogelijke oplossingsrichtingen als er knelpunten zijn.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": "ai_7853595",
+            "weight": 3.171139663632116
+        },
+        {
+            "id": 14294931,
+            "weight": 2.2707409599895234
+        },
+        {
+            "id": 12483694,
+            "weight": 0.9779033486696963
+        },
+        {
+            "id": 12467390,
+            "weight": 0.9518457752235817
+        },
+        {
+            "id": 806370,
+            "weight": 0.4217047380564132
+        },
+        {
+            "id": 818045,
+            "weight": 0.25440442831021043
+        },
+        {
+            "id": 1145763,
+            "weight": 0.1920415457083161
+        },
+        {
+            "id": "a_7090898",
+            "weight": 0.1743126159397281
+        },
+        {
+            "id": "a_7095090",
+            "weight": 0.1679028225522842
+        },
+        {
+            "id": 1027145,
+            "weight": 0.0647372554064897
+        },
+        {
+            "id": 804274,
+            "weight": 0.06272087937276508
+        },
+        {
+            "id": 831097,
+            "weight": 0.06171193853352791
+        },
+        {
+            "id": 977654,
+            "weight": 0.04936434719080897
+        },
+        {
+            "id": 967945,
+            "weight": 0.04151710392462904
+        },
+        {
+            "id": 866658,
+            "weight": 0.0405484909780647
+        },
+        {
+            "id": 969485,
+            "weight": 0.0336664182678309
+        }
+    ],
+    "videostarttime": {
+        "1147967": 11704
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_18.06.24_Eindhoven_CIE.mp4/playlist.m3u8",
+    "keywords": {
+        "Cultuur Eindhoven": 1.9970014787931092,
+        "Arena Wethouder": 0.9922019153918249,
+        "Wethouder Lammers": 0.9922019153918249,
+        "Stichting Cultuur": 1.991759193738728,
+        "Rondvraag GroenLinks": 1.9866414655887041,
+        "the Arena": 1.982050017159098,
+        "Lammers zegt": 0.982050017159098,
+        "Cultuur": 1.9657511199876117,
+        "informatiebijeenkomst organiseert": 0.9358789350805403,
+        "Rondvraag": 1.9342394717999283,
+        "Step": 1.912035546850734,
+        "jaarlijkse informatiebijeenkomst": 0.9042807549528598,
+        "organiseert": 0.8617261350060874,
+        "GroenLinks": 1.7995387698048062,
+        "the": 1.7995387698048062,
+        "zegt": 0.7995387698048062,
+        "najaar": 0.7995387698048062,
+        "jaarlijkse": 0.7995387698048062,
+        "gestelde kaders": 0.7234250532841837,
+        "mogelijke oplossingsrichtingen": 0.7234250532841837,
+        "inzicht": 0.534539040738843,
+        "dilemma": 0.534539040738843,
+        "gaat": 0.534539040738843,
+        "uitvoering": 0.534539040738843,
+        "kaders": 0.534539040738843,
+        "mogelijke": 0.534539040738843,
+        "knelpunten": 0.534539040738843
+    },
+    "svz": null,
+    "afgedaan": "19-11-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

@@ -1,0 +1,127 @@
+{
+    "module_id": 784606,
+    "vote_id": null,
+    "member_id": [
+        47266,
+        194371,
+        77830,
+        194376,
+        194511,
+        194514,
+        194424,
+        194495
+    ],
+    "party_list": [
+        "Partij voor de Dieren",
+        "D66",
+        "Volt",
+        "PvdA",
+        " Ouderen Appèl - Hart voor Eindhoven",
+        "GroenLinks",
+        "SP",
+        "CDA"
+    ],
+    "poho_id": 230024,
+    "title": "Begeleiding - VM1: Ingetrokken na toezegging Vrije motie VM1 Communicatie over bijzondere bijstand voor studenten (D66, PvdA, Volt, GL, SP, OAHvE, CDA, PvdD)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/784606",
+    "type": "Toezegging",
+    "member": "Annelies Becker, Sanne Franssen, Virginia Jonkers, Lotte Meerhoff, Murat Memiş, Rosa van den Nieuwenhof, Niek Rennenberg en Jacco Rubenkamp",
+    "party": null,
+    "poho": "S. Lammers (Wethouder)",
+    "result": "Ingetrokken na toezegging",
+    "date": "19-07-2022",
+    "meeting_url": {
+        "1018924": "https://raadsinformatie.eindhoven.nl/vergadering/1018924#ai_6999808"
+    },
+    "attachment": null,
+    "parent": "ai_6999808",
+    "children": [],
+    "text": "Er is begeleiding mogelijk voor studenten vanuit Werkplaats Financiën.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 784598,
+            "weight": 0.7747446016490783
+        },
+        {
+            "id": 784608,
+            "weight": 0.6572215716002032
+        },
+        {
+            "id": "ai_6999808",
+            "weight": 0.6554514335631066
+        },
+        {
+            "id": 784602,
+            "weight": 0.6551386848790939
+        },
+        {
+            "id": 808723,
+            "weight": 0.19339922408609939
+        },
+        {
+            "id": 884873,
+            "weight": 0.16956033978969476
+        },
+        {
+            "id": 976632,
+            "weight": 0.16851508673882679
+        },
+        {
+            "id": 12584029,
+            "weight": 0.16570288055220123
+        },
+        {
+            "id": "a_8569517",
+            "weight": 0.1539211839536134
+        },
+        {
+            "id": 926416,
+            "weight": 0.14910435913577064
+        },
+        {
+            "id": 1085536,
+            "weight": 0.1254744181881625
+        },
+        {
+            "id": 944417,
+            "weight": 0.07939927510615345
+        },
+        {
+            "id": 1096061,
+            "weight": 0.07422692304983411
+        },
+        {
+            "id": 1000233,
+            "weight": 0.07309426224233878
+        }
+    ],
+    "videostarttime": {},
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/19.07.22 Eindhoven raad 1500 ruw.mp4/playlist.m3u8",
+    "keywords": {
+        "Werkplaats Financiën": 0.9940823475428064,
+        "Vrije motie": 1.9892620020667107,
+        "toezegging Vrije": 1.9823410414915972,
+        "Volt": 1.9657219494640203,
+        "CDA": 1.9657219494640203,
+        "bijzondere bijstand": 1.9642844799006665,
+        "PvdA": 1.9460634396629826,
+        "OAHvE": 1.9460634396629826,
+        "Ingetrokken": 1.9370446783282913,
+        "Communicatie": 1.9370446783282913,
+        "Financiën": 0.9370446783282913,
+        "Vrije": 1.906555320515322,
+        "Werkplaats": 0.9065553205153221,
+        "studenten": 1.8982008816438842,
+        "motie": 1.8863079377134113,
+        "Begeleiding": 1.8654616488366833,
+        "bijstand": 1.8143015634365183
+    },
+    "svz": "VOORSTEL COLLEGE: AFVOEREN. Afgehandeld via collegebrief Stand van zaken 2022 beleidsplan armoede en schulden ...  Lees verder ",
+    "afgedaan": "28-03-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

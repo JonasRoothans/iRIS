@@ -1,0 +1,49 @@
+{
+    "module_id": "ai_8032578",
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": " Maatschappelijke behoeftes - Clusterpaspoort Ontwikkelvisie Fellenoord: Cluster 9b",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/moties_en_toezeggingen/901721?parent_event=1149340",
+    "type": "Agenda",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "05-12-2023",
+    "meeting_url": "https://raadsinformatie.eindhoven.nl/vergadering/1149340#ai_8032578",
+    "attachment": null,
+    "parent": null,
+    "children": [
+        901721,
+        901724,
+        901725
+    ],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 905855,
+            "weight": 0.338416820487441
+        }
+    ],
+    "videostarttime": 704,
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_05.12.23_EINDHOVEN-Raadscommissie Knoop XL.mp4/playlist.m3u8",
+    "keywords": {
+        "Clusterpaspoort Ontwikkelvisie": 1.9873976398760465,
+        "Ontwikkelvisie Fellenoord": 1.9873976398760465,
+        "Maatschappelijke behoeftes": 1.9742913828560065,
+        "Cluster": 1.9696036283675864,
+        "Clusterpaspoort": 1.9140368224837343,
+        "Fellenoord": 1.9140368224837343,
+        "behoeftes": 1.8416830712200127
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": null,
+    "meeting_id": []
+}

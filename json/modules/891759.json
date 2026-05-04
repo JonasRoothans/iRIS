@@ -1,0 +1,52 @@
+{
+    "module_id": 891759,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230022,
+    "title": "Uitkomsten pilot Servicebureau - Raadsvoorstel Vaststellen Begroting 2024",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/891759",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Toub (Wethouder)",
+    "result": "",
+    "date": "31-10-2023",
+    "meeting_url": {
+        "1153547": "https://raadsinformatie.eindhoven.nl/vergadering/1153547#ai_7885375"
+    },
+    "attachment": null,
+    "parent": 879979,
+    "children": [],
+    "text": "Wethouder Toub zegt toe de raad te informeren via een collegebrief voor eind 2023 over de uitkomsten van de pilot van het Servicebureau.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [],
+    "videostarttime": {
+        "1153547": null
+    },
+    "videolink": null,
+    "keywords": {
+        "Raadsvoorstel Vaststellen": 1.9960719709019283,
+        "Vaststellen Begroting": 1.9960719709019283,
+        "Wethouder Toub": 0.9960719709019282,
+        "Toub zegt": 0.9897851438824582,
+        "pilot Servicebureau": 1.9891841513696242,
+        "informeren via": 0.98062721456087,
+        "Uitkomsten pilot": 1.9648740344257338,
+        "Begroting": 1.9466563006222164,
+        "Toub": 0.926651880144024,
+        "pilot": 1.9078940813213519,
+        "eind": 0.9071640615197046,
+        "zegt": 0.8621427798543245,
+        "raad": 0.8621427798543245,
+        "via": 0.8621427798543245,
+        "collegebrief": 0.8621427798543245
+    },
+    "svz": null,
+    "afgedaan": "12-12-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

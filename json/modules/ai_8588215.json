@@ -1,0 +1,39 @@
+{
+    "module_id": "ai_8588215",
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230024,
+    "title": "Vragenhalfuur",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/moties_en_toezeggingen/1062472?parent_event=1256322",
+    "type": "Agenda",
+    "member": null,
+    "party": null,
+    "poho": "S. Lammers (Wethouder)",
+    "result": "",
+    "date": "01-07-2025",
+    "meeting_url": "https://raadsinformatie.eindhoven.nl/vergadering/1256322#ai_8588215",
+    "attachment": null,
+    "parent": null,
+    "children": [
+        1062472,
+        1062480,
+        1062479,
+        1062477
+    ],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Vragenhalfuur": 1.9550880231213545
+    },
+    "svz": "Gesprekken hebben reeds voor het zomerreces plaatsgevonden. Voorstel toezegging afvoeren.",
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": "02-10-2025",
+    "meeting_id": []
+}

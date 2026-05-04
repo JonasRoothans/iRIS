@@ -1,0 +1,180 @@
+{
+    "module_id": 787033,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Initiatiefvoorstel Auditplan 2022",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/19/Raadsvoorstellen/787033",
+    "type": "Raadsvoorstel",
+    "member": null,
+    "party": null,
+    "poho": "",
+    "result": "Afgerond",
+    "date": "29-11-2022",
+    "meeting_url": {
+        "1013585": "https://raadsinformatie.eindhoven.nl/vergadering/1013585#ai_7107107",
+        "1039912": "https://raadsinformatie.eindhoven.nl/vergadering/1039912#ai_7110074"
+    },
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/11945425/2/Initiatiefvoorstel+auditplan+2022?connection_type=17&connection_id=8717564": "Initiatiefvoorstel Auditplan 2022",
+        "http://raadsinformatie.eindhoven.nl/document/11945426/1?connection_type=16&connection_id=787033": " Bijlage - Auditplan gemeente Eindhoven 2022 ",
+        "http://raadsinformatie.eindhoven.nl/document/12087601/1?connection_type=16&connection_id=787033": " Commissieadvies Initiatiefvoorstel Auditplan 2022 "
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/12120709/1?connection_type=17&connection_id=8861568",
+    "pdf_text": " \n \n \n  gemeente Eindhoven  \n  \n   \n \nInitiatief voorstel    Auditplan 202 2 \n \n \n \n   Raadsbesluit   \n \nDe raad van de gemeente Eindhoven;  \ngezien het voorstel van de Auditcommissie ; \ngelet op de behandeling in de meningsvormende vergadering van 22 november 2022 ; \n \n \nbesluit:  \n \n1 De goedkeuringstoleranties vast te stellen,  \na. voor fouten 1% van het totaal van de lasten ;  \nb. voor onzekerheden 3% van het totaal van de ;  \nc. rapporteringstolerantie  voor fouten en onzekerheden op € 0,5 miljoen.  \n2 De door de accountant benoemde  aandachtsgebieden en de speerpunten van de \nauditcommissie vast te stellen.  \n3 De auditcommissie opdracht geven namens de raad het tijdspad \naccountantscontrole 202 2 te bewaken.  \n \nAldus vastgesteld in de openbare vergadering van 29 november 2022.  \n \n \n \n \nJ. Jongbloed , griffier.  \n \n ",
+    "bst": "",
+    "related": [
+        {
+            "id": 881076,
+            "weight": 2.7833303455708953
+        },
+        {
+            "id": 1085088,
+            "weight": 1.6345829506976717
+        },
+        {
+            "id": 1091098,
+            "weight": 0.40127812630684084
+        },
+        {
+            "id": 978671,
+            "weight": 0.39137530600458076
+        },
+        {
+            "id": 788399,
+            "weight": 0.3857083681432313
+        },
+        {
+            "id": 880022,
+            "weight": 0.3847638387532525
+        },
+        {
+            "id": 1081577,
+            "weight": 0.246352686082846
+        },
+        {
+            "id": 879660,
+            "weight": 0.18403820058685322
+        },
+        {
+            "id": 790670,
+            "weight": 0.17312254197374863
+        },
+        {
+            "id": 1106242,
+            "weight": 0.1493960733438935
+        },
+        {
+            "id": 776897,
+            "weight": 0.1361989383191223
+        },
+        {
+            "id": 1123624,
+            "weight": 0.13587886620796105
+        },
+        {
+            "id": 949028,
+            "weight": 0.12377615821903735
+        },
+        {
+            "id": 790697,
+            "weight": 0.11548237740886139
+        },
+        {
+            "id": 781432,
+            "weight": 0.08983250952920079
+        },
+        {
+            "id": 14295465,
+            "weight": 0.08404619942491161
+        },
+        {
+            "id": 955070,
+            "weight": 0.07050527861361079
+        },
+        {
+            "id": 1060209,
+            "weight": 0.06373923637446818
+        },
+        {
+            "id": 826569,
+            "weight": 0.06359124190675605
+        },
+        {
+            "id": 857640,
+            "weight": 0.062040769228406054
+        },
+        {
+            "id": 879659,
+            "weight": 0.05464882484518989
+        },
+        {
+            "id": 14478397,
+            "weight": 0.05454584725195384
+        },
+        {
+            "id": 1037355,
+            "weight": 0.04529702099843776
+        },
+        {
+            "id": 932261,
+            "weight": 0.044578843960374176
+        },
+        {
+            "id": 835022,
+            "weight": 0.04265399680176375
+        }
+    ],
+    "videostarttime": {
+        "1013585": 2624,
+        "1039912": 763
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_29.11.22-EINDHOVEN-RAA-ONDERTITEL_2022.11.29_195657.mp4/playlist.m3u8",
+    "keywords": {
+        "gemeente Eindhoven": 0.9974764444716842,
+        "Eindhoven Initiatief": 0.9969384561626096,
+        "voorstel Auditplan": 1.994866755294818,
+        "Initiatief voorstel": 0.993005792239504,
+        "Auditplan": 1.9772390162692361,
+        "Eindhoven": 0.9753499016485391,
+        "goedkeuringstoleranties vast": 0.9713111997310532,
+        "auditcommissie vast": 0.9682829333317161,
+        "meningsvormende vergadering": 0.9541887096787498,
+        "totaal": 0.9540658302102553,
+        "gemeente": 0.9490695171261891,
+        "fouten": 0.9490695171261891,
+        "voorstel": 1.9439058836863934,
+        "onzekerheden": 0.9439058836863933,
+        "Raadsbesluit": 0.9428001497549061,
+        "stellen": 0.922327410670647,
+        "vast": 0.9055912697270724,
+        "november": 0.8867612675474583,
+        "miljoen": 0.8811186335895532,
+        "raad": 0.8738641174395803,
+        "gezien": 0.8669191818382855,
+        "gelet": 0.8669191818382855,
+        "lasten": 0.8669191818382855,
+        "behandeling": 0.8522980520385337,
+        "rapporteringstolerantie": 0.8522980520385337,
+        "accountant benoemde": 0.8356187405977233,
+        "benoemde aandachtsgebieden": 0.8356187405977233,
+        "tijdspad accountantscontrole": 0.7433197043556167,
+        "Jongbloed": 0.6995640163081703,
+        "benoemde": 0.6242676850436101,
+        "speerpunten": 0.6242676850436101,
+        "bewaken": 0.5628203800666395,
+        "opdracht": 0.5327946393930877,
+        "namens": 0.5327946393930877,
+        "tijdspad": 0.5327946393930877,
+        "griffier": 0.5114944141565951
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": "10-04-2026",
+    "meeting_id": []
+}

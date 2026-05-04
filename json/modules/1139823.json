@@ -1,0 +1,119 @@
+{
+    "module_id": 1139823,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230014,
+    "title": "Business case Oude Toren",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1139823",
+    "type": "Toezegging",
+    "member": "",
+    "party": "",
+    "poho": "R. Thijs (Wethouder)",
+    "result": "",
+    "date": "03-03-2026",
+    "meeting_url": {
+        "1374927": "https://raadsinformatie.eindhoven.nl/vergadering/1374927#ai_10009992"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": "Wethouder Thijs zegt toe: Binnen 2 jaar een business case voor de Oude Toren op te stellen.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1126036,
+            "weight": 0.6291436175851441
+        },
+        {
+            "id": 881818,
+            "weight": 0.6079216923479328
+        },
+        {
+            "id": 977779,
+            "weight": 0.5814228239493987
+        },
+        {
+            "id": 883374,
+            "weight": 0.450531234558093
+        },
+        {
+            "id": 975788,
+            "weight": 0.4181669919715095
+        },
+        {
+            "id": 1023091,
+            "weight": 0.4041523112739136
+        },
+        {
+            "id": 787674,
+            "weight": 0.3927072616000647
+        },
+        {
+            "id": 958754,
+            "weight": 0.37356181219219153
+        },
+        {
+            "id": 950170,
+            "weight": 0.35524552093981815
+        },
+        {
+            "id": 775122,
+            "weight": 0.34320616370414114
+        },
+        {
+            "id": 812453,
+            "weight": 0.289787418640376
+        },
+        {
+            "id": 1128291,
+            "weight": 0.19574636824721264
+        },
+        {
+            "id": 1046636,
+            "weight": 0.17971399420004072
+        },
+        {
+            "id": 890250,
+            "weight": 0.17930282451447335
+        },
+        {
+            "id": 828275,
+            "weight": 0.17066875333232912
+        },
+        {
+            "id": 950071,
+            "weight": 0.16221558884500703
+        },
+        {
+            "id": 1133046,
+            "weight": 0.12722673921636668
+        }
+    ],
+    "videostarttime": {
+        "1374927": 15082
+    },
+    "videolink": null,
+    "keywords": {
+        "Oude Toren": 1.994371291543648,
+        "Wethouder Thijs": 0.9905657637342311,
+        "Toren Wethouder": 0.9896948230713907,
+        "Thijs zegt": 0.9803936904491555,
+        "case Oude": 1.9757362633860702,
+        "Business case": 1.9734570915264509,
+        "Oude": 1.947245620462173,
+        "Toren": 1.947245620462173,
+        "Thijs": 0.9033249603233848,
+        "case": 1.8877393958605404,
+        "jaar": 0.8774506524291965,
+        "stellen": 0.8774506524291965,
+        "zegt": 0.8010934971074093
+    },
+    "svz": "Planning volgt",
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "08-04-2026",
+    "meeting_id": []
+}

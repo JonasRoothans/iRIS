@@ -1,0 +1,114 @@
+{
+    "module_id": 11765916,
+    "vote_id": null,
+    "member_id": [
+        131155
+    ],
+    "party_list": [
+        "50PLUS"
+    ],
+    "poho_id": [],
+    "title": "Rondvraag Eindhoven hartveilig  jong geleerd oud gedaan (50PLUS)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "26-08-2022",
+    "meeting_url": {
+        "1013383": "https://raadsinformatie.eindhoven.nl/vergadering/1013382/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://api.notubiz.nl/document/11765916/1",
+    "pdf_text": " \n \n \nRondvraag   \n \n “Eindhoven hartveilig, jong geleerd oud gedaan ”   \n \nGeachte College,  \n \nIn Eindhoven hebben wij een goed systeem met betrekking tot het netwerk van \nAED’s in de stad. Al meer dan 2900 burgerhulpverleners zijn aangemeld bij het \nalarmsysteem HartslagNu.  \n \nEr bereiken binnen 50PLUS signalen dat er op scholen geen (of te weinig) \nreanimatietraining wordt gegeven. Hoe mooi zou het zijn als jongeren op school \nstandaard reanimatietraining krijgen. Dan blijft het netwerk AED’s ook voor de \ntoekomst effectief.  \n \n“Help mee Eindhoven Hartveilig te maken” staat op de website van \neindhovenhartveilig. Jongeren trainen met reanimatie is een must om ook in de \ntoekomst Eindhoven hartveilig te houden.  \n \nVragen:  \n1. Wordt er op scholen reanimatietraining ingezet?  \n2. Kan het college dit verplichtstellen op s cholen?  \n3. Worden de jongeren dan ook automatisch aangemeld als burgerhulpverlener?  \n \n \n \nEindhoven, 7 juni 2022  \n \n \nRuud van Acquoij , raadslid  \n \n \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 972333,
+            "weight": 2.2292486507506384
+        },
+        {
+            "id": 12640173,
+            "weight": 0.9092791932338812
+        },
+        {
+            "id": 874001,
+            "weight": 0.5717874518059284
+        },
+        {
+            "id": 781219,
+            "weight": 0.3080132363231058
+        },
+        {
+            "id": 1022042,
+            "weight": 0.30137370349027126
+        },
+        {
+            "id": "ai_6962219",
+            "weight": 0.2884323642529657
+        },
+        {
+            "id": 1052766,
+            "weight": 0.1213311859680514
+        },
+        {
+            "id": 915627,
+            "weight": 0.09444535554289578
+        },
+        {
+            "id": 862742,
+            "weight": 0.07350847694529608
+        },
+        {
+            "id": 890164,
+            "weight": 0.06896187897399035
+        }
+    ],
+    "videostarttime": {
+        "1013383": 6306
+    },
+    "videolink": null,
+    "keywords": {
+        "oud gedaan": 1.9905292225271478,
+        "geleerd oud": 1.9880147262430998,
+        "jong geleerd": 1.9853476053861874,
+        "Rondvraag Eindhoven": 1.9650536982890237,
+        "Geachte College": 0.9635708517807153,
+        "Rondvraag": 1.9555391799117956,
+        "Eindhoven hartveilig": 1.9523801307526192,
+        "Eindhoven": 1.9367115164064719,
+        "goed systeem": 0.9339389894346442,
+        "Geachte": 0.9288493010993637,
+        "oud": 1.9234993282505655,
+        "hartveilig jong": 0.914923405662803,
+        "jong": 1.906960071369491,
+        "AED": 0.860996939214766,
+        "netwerk AED": 0.8329541412380146,
+        "reanimatietraining": 0.7978250700737783,
+        "stad": 0.7976024748987549,
+        "jongeren": 0.7748692101642629,
+        "College": 0.7529981351334811,
+        "goed": 0.751067513880387,
+        "betrekking": 0.751067513880387,
+        "scholen": 0.6899211233522651,
+        "toekomst": 0.6899211233522651,
+        "alarmsysteem HartslagNu": 0.6654527231315555,
+        "aangemeld": 0.6615631479612595,
+        "Help mee": 0.6316283855860481,
+        "Help": 0.6264538535653592,
+        "Ruud": 0.5585351167651578,
+        "Acquoij": 0.5585351167651578,
+        "HartslagNu": 0.5315428040191108
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 131155,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1013383
+    ]
+}

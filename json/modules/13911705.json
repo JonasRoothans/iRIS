@@ -1,0 +1,112 @@
+{
+    "module_id": 13911705,
+    "vote_id": null,
+    "member_id": [
+        194371
+    ],
+    "party_list": [
+        "D66"
+    ],
+    "poho_id": [],
+    "title": "Vraag V3 Vragenhalfuur - Eindhoven Airport geen korte vluchten meer (D66)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "12-03-2024",
+    "meeting_url": {
+        "1147888": "https://raadsinformatie.eindhoven.nl/vergadering/1147888/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/13911705/1/Vraag+V3+Vragenhalfuur+-+Eindhoven+Airport+geen+korte+vluchten+meer+%28D66%29?connection_type=1&connection_id=7853126",
+    "pdf_text": " \n \n \n \nVraag vragenhalfuur  Eindhoven Airport – Geen korte \nvluchten meer                  V3 \n \nVorig jaar werden wij als gemeenteraad uitgenodigd voor een \nwerkbezoek bij Eindhoven Airport. Toen werd  er trots verteld dat de \nluchthaven inzet op verduurzaming en dat er alleen nog vluchten naar \nde UK gaan onder de 800 km.  \n \nVorige week lazen we in het artikel Deze stad is nu bereikbaar vanaf \nEindhoven Airport, en als het aan de Brainportregio ligt volgt er nog een \nhele lijst | Eindhoven | ed.nl  en dit schept een heel ander beeld. Gelukkig \nlezen we ook veel over positieve ontwikkelingen in het duurzaam reizen : \nhttps://www.ad.nl/binnenland/in -ruim-vijf-uur-van-groningen -naar-parijs -\narriva -wil-nieuwe -trein-vanaf -2026 -laten -rijden~ad7ddd9a/  D66 hoopt \ndat we hier ons voor blijven inzetten. Next station: Eindhoven \nInternationaal!  \n \nOok werd er verteld over de stimuleringsmaatregel waarin Eindhoven \nAirport een luchtvaartmaatschappij een tijdelijke financiële \ntegemoetkoming aanbied wanneer er wordt gestart met een verbinding \nnaar een zogeheten ‘Brainport bestemming’.  \n \nWe snappen dat we een beperkt aandeel hebben als gemeente in \nEindhoven Airport, maar toch hebben we de volgende vragen hierover \naan het college:   \n \n1. Wil de wethouder in gesprek gaan met Eindhoven Airport om aan \nte sturen  op dat de stimuleringsmaatregel niet geldt  voor \nbestemmingen dichterbij dan 800 km ? \n2. Wil de wethoude r Eindhoven  Airport  meenemen in de \ngesprekken met alternatieve vervoerders om zo locaties die \nbijvoorbeeld met de trein te bezoeken zijn, zo aantrekkelijk \nmogelijk te maken? Om  op deze manier concurrentie te \nvoorkomen.  \n \nNamens D66 Eindhoven,  Annelies Becker  \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 927083,
+            "weight": 1.9646308732024456
+        },
+        {
+            "id": 12876589,
+            "weight": 0.9715862451097699
+        },
+        {
+            "id": 13911704,
+            "weight": 0.4523867229584582
+        },
+        {
+            "id": 804895,
+            "weight": 0.2484664764536618
+        },
+        {
+            "id": 836075,
+            "weight": 0.17833178612549325
+        },
+        {
+            "id": 11753466,
+            "weight": 0.15098631415138433
+        },
+        {
+            "id": 797695,
+            "weight": 0.11867110030530821
+        },
+        {
+            "id": 1042495,
+            "weight": 0.11670990783783546
+        },
+        {
+            "id": 12506006,
+            "weight": 0.10883215027858997
+        },
+        {
+            "id": 909337,
+            "weight": 0.07609165625358363
+        }
+    ],
+    "videostarttime": {
+        "1147888": 1311
+    },
+    "videolink": null,
+    "keywords": {
+        "Eindhoven Airport": 1.9932316799390515,
+        "Vraag vragenhalfuur": 0.9927423343176798,
+        "Vorig jaar": 0.9858612848922877,
+        "korte vluchten": 1.9843803343997632,
+        "vragenhalfuur Eindhoven": 0.9780613638909633,
+        "Airport": 1.971918279778876,
+        "Vraag": 1.9616294734172015,
+        "gemeenteraad uitgenodigd": 0.9534008559199897,
+        "korte": 1.9352082094736751,
+        "Vorig": 0.9339285559238071,
+        "Eindhoven Internationaal": 0.9174050026045817,
+        "Airport meenemen": 0.81231684855708,
+        "Brainportregio ligt": 0.8045332918768694,
+        "Annelies Becker": 0.802135060600276,
+        "jaar": 0.7889920674677742,
+        "gemeenteraad": 0.7889920674677742,
+        "uitgenodigd": 0.7889920674677742,
+        "werkbezoek": 0.7889920674677742,
+        "verteld": 0.7376453971377271,
+        "gaan": 0.7212188714315223,
+        "stimuleringsmaatregel": 0.7175736036667967,
+        "luchthaven inzet": 0.6980981338976744,
+        "Becker": 0.5935749232873879,
+        "trots": 0.5184473534981796,
+        "inzet": 0.5184473534981796,
+        "verduurzaming": 0.5184473534981796,
+        "week lazen": 0.5059239695276083,
+        "ligt volgt": 0.5059239695276083
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194371,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1147888
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "module_id": 787068,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230014,
+    "title": "Voortgang - Asfaltcentrale Eindhoven - Vraag V2 Vragenhalfuur",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/787068",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "R. Thijs (Wethouder)",
+    "result": "",
+    "date": "17-10-2022",
+    "meeting_url": {
+        "1013161": "https://raadsinformatie.eindhoven.nl/vergadering/1013161#ai_6962481"
+    },
+    "attachment": null,
+    "parent": "ai_6962481",
+    "children": [],
+    "text": "De raad in januari 2023 meer informatie te geven over de voortgang hiervan.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1036407,
+            "weight": 0.41737786454273285
+        }
+    ],
+    "videostarttime": {
+        "1013161": 896
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_11.10.22_Eindhoven_raad.mp4/playlist.m3u8",
+    "keywords": {
+        "Asfaltcentrale Eindhoven": 1.9961702098238912,
+        "voortgang hiervan": 0.9707726042297166,
+        "Vraag": 1.9665111617927729,
+        "Eindhoven": 1.9382328660073909,
+        "Vragenhalfuur": 1.9382328660073909,
+        "januari": 0.8901249569566948,
+        "hiervan": 0.8901249569566948,
+        "informatie": 0.8200452308193469
+    },
+    "svz": null,
+    "afgedaan": "07-03-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

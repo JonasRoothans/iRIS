@@ -1,0 +1,132 @@
+{
+    "module_id": 861175,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230022,
+    "title": "Sociaal domein - Raadsvoorstel Zo werken we in Eindhoven De sociale 7",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/861175",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Toub (Wethouder) en S. Lammers (Wethouder)",
+    "result": "",
+    "date": "04-07-2023",
+    "meeting_url": {
+        "1119169": "https://raadsinformatie.eindhoven.nl/vergadering/1119169#ai_7657746"
+    },
+    "attachment": null,
+    "parent": 852087,
+    "children": [],
+    "text": "Wethouder Toub zegt toe:\n\nnader te bekijken hoe de gemeente een vorm van structureel overleg (continue gesprek/dialoog) over de samenwerking van de betrokken partners binnen het sociaal domein kan vormgeven en de raad hierover te informeren (voorafgaand of rondom het raadsvoorstel over de scenario’s vereenvoudiging sociaal domein).",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 803411,
+            "weight": 0.25201219070070696
+        },
+        {
+            "id": 776943,
+            "weight": 0.20124238633583894
+        },
+        {
+            "id": 885516,
+            "weight": 0.17741051255227538
+        },
+        {
+            "id": 1089823,
+            "weight": 0.16140044326199854
+        },
+        {
+            "id": 853743,
+            "weight": 0.1548953685549697
+        },
+        {
+            "id": 821751,
+            "weight": 0.13466585018354568
+        },
+        {
+            "id": "a_8512346",
+            "weight": 0.12986810200823823
+        },
+        {
+            "id": 862790,
+            "weight": 0.12443716178367285
+        },
+        {
+            "id": 831885,
+            "weight": 0.11727575115092138
+        },
+        {
+            "id": 1062557,
+            "weight": 0.11550749926017724
+        },
+        {
+            "id": 1081851,
+            "weight": 0.1131866659049813
+        },
+        {
+            "id": 824885,
+            "weight": 0.11011811936272875
+        },
+        {
+            "id": 1148670,
+            "weight": 0.09813728626575738
+        },
+        {
+            "id": 1036407,
+            "weight": 0.09789685254410896
+        },
+        {
+            "id": 984303,
+            "weight": 0.07956349157332272
+        },
+        {
+            "id": 1000421,
+            "weight": 0.0756148833149632
+        }
+    ],
+    "videostarttime": {
+        "1119169": 688
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_04.07.23_NC_EINDHOVEN_RAA.mp4/playlist.m3u8",
+    "keywords": {
+        "Wethouder Toub": 0.9975813893047434,
+        "Sociaal domein": 1.9974679942396154,
+        "Toub zegt": 0.9947909512242101,
+        "continue gesprek": 0.9943680404553782,
+        "structureel overleg": 0.992797484999081,
+        "vereenvoudiging sociaal": 0.9916338596634038,
+        "betrokken partners": 0.990784943518129,
+        "raad hierover": 0.990784943518129,
+        "Sociaal": 1.9710580028625777,
+        "domein": 1.9710580028625777,
+        "Raadsvoorstel": 1.961701803815329,
+        "Eindhoven": 1.9457693394352256,
+        "Toub": 0.9457693394352256,
+        "dialoog": 0.9439047522160353,
+        "nader": 0.9251640579948543,
+        "overleg": 0.9251640579948543,
+        "continue": 0.9251640579948543,
+        "gesprek": 0.9251640579948543,
+        "informeren": 0.9251640579948543,
+        "voorafgaand": 0.9251640579948543,
+        "werken": 1.9044441807726522,
+        "zegt": 0.9044441807726522,
+        "bekijken": 0.9044441807726522,
+        "gemeente": 0.9044441807726522,
+        "vorm": 0.9044441807726522,
+        "samenwerking": 0.9044441807726522,
+        "partners": 0.9044441807726522,
+        "vormgeven": 0.9044441807726522,
+        "raad": 0.9044441807726522,
+        "scenario": 0.9044441807726522
+    },
+    "svz": null,
+    "afgedaan": "07-01-2025",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

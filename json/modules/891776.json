@@ -1,0 +1,180 @@
+{
+    "module_id": 891776,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230022,
+    "title": "Gezondheid/voeding - Raadsvoorstel Vaststellen Begroting 2024",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/891776",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Toub (Wethouder)",
+    "result": "",
+    "date": "31-10-2023",
+    "meeting_url": {
+        "1153547": "https://raadsinformatie.eindhoven.nl/vergadering/1153547#ai_7885375"
+    },
+    "attachment": null,
+    "parent": 879979,
+    "children": [],
+    "text": "Wethouder Toub zegt toe de raad schriftelijk te informeren over de stand van zaken m.b.t. gezondheid/voeding en wat de status is van het hetgeen in de gezondheidsnota is vermeld over het eten van vooral plantaardige en weinige dierlijke producten (n.a.v. ingetrokken motie vorig jaar).",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 920652,
+            "weight": 0.5077791373751235
+        },
+        {
+            "id": 776736,
+            "weight": 0.3660820855468267
+        },
+        {
+            "id": 791808,
+            "weight": 0.3438832784077225
+        },
+        {
+            "id": 779530,
+            "weight": 0.3180349191943472
+        },
+        {
+            "id": 1042507,
+            "weight": 0.30687733058061445
+        },
+        {
+            "id": 1132392,
+            "weight": 0.2911072882784821
+        },
+        {
+            "id": 899212,
+            "weight": 0.23219247643902025
+        },
+        {
+            "id": 792350,
+            "weight": 0.219120872666583
+        },
+        {
+            "id": 15092253,
+            "weight": 0.20785548951108723
+        },
+        {
+            "id": "a_9477764",
+            "weight": 0.20576026346950124
+        },
+        {
+            "id": 987205,
+            "weight": 0.18498371834340066
+        },
+        {
+            "id": 783516,
+            "weight": 0.17457504643201727
+        },
+        {
+            "id": 776907,
+            "weight": 0.14173874273840883
+        },
+        {
+            "id": 826622,
+            "weight": 0.11740981608506373
+        },
+        {
+            "id": 891771,
+            "weight": 0.10751186544439176
+        },
+        {
+            "id": 984494,
+            "weight": 0.10698324806910095
+        },
+        {
+            "id": 984496,
+            "weight": 0.10698324806910095
+        },
+        {
+            "id": 984484,
+            "weight": 0.10438136535549665
+        },
+        {
+            "id": 984479,
+            "weight": 0.10438136535549665
+        },
+        {
+            "id": 1045784,
+            "weight": 0.0991545727864962
+        },
+        {
+            "id": 1148165,
+            "weight": 0.094244870215506
+        },
+        {
+            "id": 945682,
+            "weight": 0.08698752361907695
+        },
+        {
+            "id": 890291,
+            "weight": 0.0858816674863921
+        },
+        {
+            "id": 827135,
+            "weight": 0.08391710551888226
+        },
+        {
+            "id": 845128,
+            "weight": 0.07443480774983212
+        },
+        {
+            "id": 807093,
+            "weight": 0.07436980910896415
+        },
+        {
+            "id": 858405,
+            "weight": 0.07406154766844636
+        },
+        {
+            "id": 1096810,
+            "weight": 0.06031827632231014
+        },
+        {
+            "id": 955421,
+            "weight": 0.04994824541568765
+        }
+    ],
+    "videostarttime": {
+        "1153547": null
+    },
+    "videolink": null,
+    "keywords": {
+        "Raadsvoorstel Vaststellen": 1.997141598530046,
+        "Vaststellen Begroting": 1.997141598530046,
+        "Wethouder Toub": 0.9971415985300461,
+        "Toub zegt": 0.9933749944312512,
+        "dierlijke producten": 0.99159459710652,
+        "ingetrokken motie": 0.99159459710652,
+        "vorig jaar": 0.99159459710652,
+        "raad schriftelijk": 0.9882559258601293,
+        "motie vorig": 0.9882559258601293,
+        "Gezondheid": 1.9819067465100635,
+        "voeding": 1.9610519232132626,
+        "Begroting": 1.9533406017389154,
+        "Toub": 0.9389136078667913,
+        "zaken": 0.9226341477837946,
+        "producten": 0.9226341477837946,
+        "jaar": 0.9226341477837946,
+        "zegt": 0.8922607228460988,
+        "raad": 0.8922607228460988,
+        "informeren": 0.8922607228460988,
+        "stand": 0.8922607228460988,
+        "status": 0.8922607228460988,
+        "hetgeen": 0.8922607228460988,
+        "vermeld": 0.8922607228460988,
+        "plantaardige": 0.8922607228460988,
+        "dierlijke": 0.8922607228460988,
+        "motie": 0.8922607228460988
+    },
+    "svz": null,
+    "afgedaan": "14-11-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

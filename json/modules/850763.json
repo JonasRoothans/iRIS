@@ -1,0 +1,56 @@
+{
+    "module_id": 850763,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 231116,
+    "title": "Groenwachters - Raadsvoorstel Kadernota 2024",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/850763",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "J. Dijsselbloem (Burgemeester)",
+    "result": "",
+    "date": "23-05-2023",
+    "meeting_url": {
+        "1096274": "https://raadsinformatie.eindhoven.nl/vergadering/1096274#ai_7491703"
+    },
+    "attachment": null,
+    "parent": 837030,
+    "children": [],
+    "text": "Burgemeester Dijselbloem zegt toe:\nEn komt erop terug hoe invulling te geven aan groenwachters in de begroting.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 850893,
+            "weight": 0.9735169674414159
+        },
+        {
+            "id": 945676,
+            "weight": 0.2893985088593369
+        }
+    ],
+    "videostarttime": {
+        "1096274": 12343
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_23.05.23_Eindhoven_NC_Meningsvorming.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Kadernota": 1.9948175954337586,
+        "Burgemeester Dijselbloem": 0.9924645681206901,
+        "Dijselbloem zegt": 0.9750807104053406,
+        "Kadernota": 1.9281968961879823,
+        "Burgemeester": 0.9281968961879822,
+        "Groenwachters": 1.7746012204199308,
+        "zegt": 0.7665782139494473,
+        "komt erop": 0.6409740609546439,
+        "erop terug": 0.6409740609546439,
+        "begroting": 0.6270112451883871
+    },
+    "svz": "COLLEGE: GRAAG AFVOEREN. Bij de begrotingsbehandeling is aangegeven dat de inzet op de groene thema’s vo...  Lees verder ",
+    "afgedaan": "12-12-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

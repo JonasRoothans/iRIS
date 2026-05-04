@@ -1,0 +1,63 @@
+{
+    "module_id": 777483,
+    "vote_id": null,
+    "member_id": [
+        194508,
+        194511
+    ],
+    "party_list": [
+        "GroenLinks"
+    ],
+    "poho_id": [],
+    "title": "Beantwoording raadsvragen GL (Meerhoff en Mambre) over 1 op de 3 gezinnen komt niet rond",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/4/Raadsvragen/777483",
+    "type": "Raadsvraag",
+    "member": "Gisèle Mambre en Lotte Meerhoff",
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "21-06-2022",
+    "meeting_url": null,
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/11772512/1?connection_type=17&connection_id=8593125": "Vraag"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": "22bst01023",
+    "related": [
+        {
+            "id": 865499,
+            "weight": 0.3631266778332859
+        },
+        {
+            "id": 1148260,
+            "weight": 0.33605343868803395
+        },
+        {
+            "id": 1102268,
+            "weight": 0.2684724171266114
+        },
+        {
+            "id": 1148273,
+            "weight": 0.25469171797505824
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Beantwoording raadsvragen": 1.9505961599793435,
+        "gezinnen komt": 1.9505961599793435,
+        "Meerhoff": 1.9140368224837343,
+        "Mambre": 1.9140368224837343,
+        "raadsvragen": 1.702634417439785,
+        "komt": 1.702634417439785
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": "02-04-2026",
+    "meeting_id": []
+}

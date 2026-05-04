@@ -1,0 +1,116 @@
+{
+    "module_id": 984494,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 248564,
+    "title": "Plan Wet duurzaam werk (ingang 1 januari 2026) - Raadsvoorstel Begroting 2025",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/984494",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "R. Strijk (Wethouder)",
+    "result": "",
+    "date": "29-10-2024",
+    "meeting_url": {
+        "1148141": "https://raadsinformatie.eindhoven.nl/vergadering/1148141#ai_8729567"
+    },
+    "attachment": null,
+    "parent": 975511,
+    "children": [],
+    "text": "Wethouder Strijk zegt toe dat de raad schriftelijk wordt geïnformeerd over hoe die hierbij betrokken wordt.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 791694,
+            "weight": 0.24420689216238545
+        },
+        {
+            "id": 1000408,
+            "weight": 0.24371382001645728
+        },
+        {
+            "id": 862742,
+            "weight": 0.24173779081977717
+        },
+        {
+            "id": 1128309,
+            "weight": 0.2386828418401922
+        },
+        {
+            "id": 1117525,
+            "weight": 0.2334081397095818
+        },
+        {
+            "id": 1046801,
+            "weight": 0.2290301859486975
+        },
+        {
+            "id": 1051257,
+            "weight": 0.20855061190965823
+        },
+        {
+            "id": 891776,
+            "weight": 0.10698324806910095
+        },
+        {
+            "id": 891771,
+            "weight": 0.10599266983001183
+        },
+        {
+            "id": 984496,
+            "weight": 0.10547152207860773
+        },
+        {
+            "id": 984484,
+            "weight": 0.10290640524932049
+        },
+        {
+            "id": 984479,
+            "weight": 0.10290640524932049
+        },
+        {
+            "id": 1045784,
+            "weight": 0.09775346983380981
+        },
+        {
+            "id": 1148165,
+            "weight": 0.09291314377845282
+        },
+        {
+            "id": 945682,
+            "weight": 0.08575834706408338
+        }
+    ],
+    "videostarttime": {
+        "1148141": null
+    },
+    "videolink": null,
+    "keywords": {
+        "Raadsvoorstel Begroting": 1.9967389880162214,
+        "Wethouder Strijk": 0.9950748962302097,
+        "Plan Wet": 1.9917067928775634,
+        "Wet duurzaam": 1.986202801796007,
+        "Strijk zegt": 0.986202801796007,
+        "duurzaam werk": 1.9846191788281082,
+        "raad schriftelijk": 0.9742913828560066,
+        "hierbij betrokken": 0.9742913828560066,
+        "ingang": 1.9550880231213545,
+        "januari": 1.9550880231213545,
+        "Begroting": 1.9429876123096683,
+        "Wet": 1.9140368224837343,
+        "Plan": 1.9043195497355658,
+        "werk": 1.9043195497355658,
+        "zegt": 0.8416830712200127,
+        "raad": 0.8416830712200127,
+        "geïnformeerd": 0.8416830712200127,
+        "hierbij": 0.8416830712200127
+    },
+    "svz": null,
+    "afgedaan": "11-03-2025",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

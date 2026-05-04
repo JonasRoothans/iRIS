@@ -1,0 +1,104 @@
+{
+    "module_id": 788357,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Raadsvoorstel aanwijzingsbesluit plaatsvervangend griffier",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/19/Raadsvoorstellen/788357",
+    "type": "Raadsvoorstel",
+    "member": null,
+    "party": null,
+    "poho": "",
+    "result": "Afgerond",
+    "date": "08-11-2022",
+    "meeting_url": {
+        "1013582": "https://raadsinformatie.eindhoven.nl/vergadering/1013582#ai_7118155"
+    },
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/11963557/1/Raadsvoorstel+aanwijzingsbesluit+plv_+griffier+I_+van+Dijk?connection_type=17&connection_id=8734296": "Raadsvoorstel aanwijzingsbesluit plv. griffier I. van Dijk"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/12024263/1?connection_type=17&connection_id=8782956",
+    "pdf_text": " \n \n \n  gemeente Eindhoven  \nInboeknummer   \nBeslisdatum B&W   \nDossiernummer      \n \n  \n \n \n \nRaadsbesluit  \n   aanwijzingsbesluit plaatsvervangend griffier  \n \nDe raad van de gemeente Eindhoven;  \ngelet op artikel 107 t/m 107e van de Gemeentewet;  \n \nbesluit:  \n \n1. Mw. I. van Dijk per 9 november  2022, zo lang met betrokkene overeengekomen is \ndat zij de functie van  plaatsvervangend  griffier uitoefent bij de gemeente Eindhoven, \naan te wijzen als tweede plaatsvervangend griffier.  \n \n \nAldus vastgesteld in de openbare vergadering van 8 november 2022 . \n \n \n \nJ. Jongbloed , griffier.  \n \n ",
+    "bst": "",
+    "related": [
+        {
+            "id": 920945,
+            "weight": 0.8566317575429676
+        },
+        {
+            "id": 780446,
+            "weight": 0.32930304599756205
+        },
+        {
+            "id": 787186,
+            "weight": 0.32900981421405884
+        },
+        {
+            "id": "r_7006019",
+            "weight": 0.06251711619980058
+        },
+        {
+            "id": "r_7006020",
+            "weight": 0.06190254488871911
+        },
+        {
+            "id": "r_7006015",
+            "weight": 0.06063735245234916
+        },
+        {
+            "id": "r_7006030",
+            "weight": 0.05899193341061646
+        },
+        {
+            "id": 1036434,
+            "weight": 0.05377933724719182
+        },
+        {
+            "id": 978671,
+            "weight": 0.04679442400017942
+        },
+        {
+            "id": 776901,
+            "weight": 0.045813737941643555
+        }
+    ],
+    "videostarttime": {
+        "1013582": 871
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_08.11.22_NC_Eindhoven_Raad.mp4/playlist.m3u8",
+    "keywords": {
+        "Inboeknummer Beslisdatum": 0.9939837139344551,
+        "Dossiernummer Raadsbesluit": 0.9939837139344551,
+        "Raadsbesluit aanwijzingsbesluit": 0.9870973029731168,
+        "Eindhoven Inboeknummer": 0.9858373191306805,
+        "gemeente Eindhoven": 0.9810684628198609,
+        "aanwijzingsbesluit plaatsvervangend": 1.9742666928200419,
+        "plaatsvervangend griffier": 1.964928392794553,
+        "Eindhoven": 0.9398057710500276,
+        "Gemeentewet": 0.9345618261572621,
+        "Beslisdatum": 0.9226675564274444,
+        "Dossiernummer": 0.9226675564274444,
+        "Raadsbesluit": 0.9226675564274444,
+        "griffier": 1.917195750278541,
+        "griffier gemeente": 0.8594697304067038,
+        "november": 0.8563337441150038,
+        "Raadsvoorstel": 1.8378649065382922,
+        "gelet": 0.8378649065382923,
+        "artikel": 0.8378649065382923,
+        "Dijk per": 0.8272078853799502,
+        "raad": 0.7982454375711552,
+        "Dijk": 0.7021971790784852,
+        "Jongbloed": 0.6972525165582316,
+        "betrokkene overeengekomen": 0.5402770080956236,
+        "per": 0.5052633602845347
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": "10-04-2026",
+    "meeting_id": []
+}

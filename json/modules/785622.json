@@ -1,0 +1,100 @@
+{
+    "module_id": 785622,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230022,
+    "title": "Raadsvoorstel Preventief Jeugdbeleid 2022-2026 (raadsinformatiebrief))",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/785622",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Toub (Wethouder)",
+    "result": "",
+    "date": "10-10-2022",
+    "meeting_url": {
+        "1008258": "https://raadsinformatie.eindhoven.nl/vergadering/1008258#ai_6941251"
+    },
+    "attachment": null,
+    "parent": "ai_6941251",
+    "children": [],
+    "text": "De raad met een raadsinformatiebrief te informeren over de uitvoeringsplannen (het vaststellen van de uitvoeringsplannen is een collegebevoegdheid) en de evaluatie.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 920830,
+            "weight": 1.766969855035886
+        },
+        {
+            "id": 1133034,
+            "weight": 0.9266334949823695
+        },
+        {
+            "id": 794395,
+            "weight": 0.9263353066607245
+        },
+        {
+            "id": 1031705,
+            "weight": 0.9193163391865284
+        },
+        {
+            "id": 1139113,
+            "weight": 0.9089601298559593
+        },
+        {
+            "id": "i_7006130",
+            "weight": 0.8682562602746876
+        },
+        {
+            "id": 827645,
+            "weight": 0.8409309542392237
+        },
+        {
+            "id": 948261,
+            "weight": 0.4958124013426437
+        },
+        {
+            "id": 849402,
+            "weight": 0.44961512665736214
+        },
+        {
+            "id": 1000421,
+            "weight": 0.2212165207314754
+        },
+        {
+            "id": 1020698,
+            "weight": 0.19536098427337645
+        },
+        {
+            "id": 831302,
+            "weight": 0.18414813503456662
+        },
+        {
+            "id": 955443,
+            "weight": 0.16716636231839047
+        }
+    ],
+    "videostarttime": {},
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/23.11.21 Eindhoven meningsvormend B web.mp4/playlist.m3u8",
+    "keywords": {
+        "Preventief Jeugdbeleid": 1.9959929610529974,
+        "Raadsvoorstel Preventief": 1.9947716785677834,
+        "Jeugdbeleid 2022-2026": 1.9947716785677834,
+        "uitvoeringsplannen": 0.9438319918076871,
+        "Preventief": 1.936825268757465,
+        "raadsinformatiebrief": 1.929076656408336,
+        "2022-2026": 1.9176707496881054,
+        "collegebevoegdheid": 0.9176707496881054,
+        "evaluatie": 0.9176707496881054,
+        "raad": 1.8855903541154853,
+        "informeren": 0.8855903541154853,
+        "vaststellen": 0.8855903541154853
+    },
+    "svz": null,
+    "afgedaan": "13-12-2022",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

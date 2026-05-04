@@ -1,0 +1,126 @@
+{
+    "module_id": 14926559,
+    "vote_id": null,
+    "member_id": [
+        194375
+    ],
+    "party_list": [
+        "Partij voor de Dieren"
+    ],
+    "poho_id": [],
+    "title": "Rondvraag 2 - De nieuwe kaders van Keizer (PvdD)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "10-12-2024",
+    "meeting_url": {
+        "1148342": "https://raadsinformatie.eindhoven.nl/vergadering/1148341/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://api.notubiz.nl/document/14926559/1",
+    "pdf_text": " \n \n \n \nRondvraag   \nDe nieuwe kaders van Kei jzer                      \n \n \nMinister Keijzer kondigde een nieuw programma aan ‘STOER’. (Schrappen \nTegenstrijdige en Overbodige Regelgeving).  \n \nOnderdeel hiervan is het schrappen van het plaatsen van verblijfsvoorzieningen \nvoor diersoorten als de huismus, gierzwaluw en vleermuis bij nieuwbouw of \ningrijpende renovatie.  \n \n1. Is het college het met PvdD eens dat dit geen tegenstrijdige of overbodige \nregelgeving is ? \n2. Veel steden geven aan door te gaan met natuur  inclusief bouwen. Hoe \ngaan we in Eindhoven hiermee om?  \n \nEindhoven, 9 december 2025  \n \n \nDe leden van de raad  en/of commissie , \n \nJonas Roothans  \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 1128291,
+            "weight": 0.2879939401965395
+        },
+        {
+            "id": "a_9279992",
+            "weight": 0.2011576875873548
+        },
+        {
+            "id": 15117249,
+            "weight": 0.11159182702412279
+        },
+        {
+            "id": 930054,
+            "weight": 0.08995146536871643
+        },
+        {
+            "id": 918921,
+            "weight": 0.08167666814580661
+        },
+        {
+            "id": 15708198,
+            "weight": 0.07928537777647887
+        },
+        {
+            "id": 1046082,
+            "weight": 0.07879800350857206
+        },
+        {
+            "id": 13723290,
+            "weight": 0.07759289616112687
+        },
+        {
+            "id": "a_8288826",
+            "weight": 0.0758191122048539
+        },
+        {
+            "id": 15578108,
+            "weight": 0.07537015464659631
+        },
+        {
+            "id": 1132118,
+            "weight": 0.07157232376900051
+        },
+        {
+            "id": 827449,
+            "weight": 0.06781038011540592
+        },
+        {
+            "id": 1125029,
+            "weight": 0.062427180944850204
+        }
+    ],
+    "videostarttime": {
+        "1148342": 1574
+    },
+    "videolink": null,
+    "keywords": {
+        "Minister Keijzer": 0.9938366855239263,
+        "nieuwe kaders": 1.992914820456248,
+        "Kei jzer": 0.9846650407728245,
+        "jzer Minister": 0.9846650407728245,
+        "Keijzer kondigde": 0.9846650407728245,
+        "Rondvraag": 1.9613767731569662,
+        "nieuw programma": 0.961320367583295,
+        "nieuwe": 1.9408976192337473,
+        "kaders": 1.9408976192337473,
+        "Overbodige Regelgeving": 0.9393872799271625,
+        "Kei": 1.9217340385670751,
+        "STOER’": 0.8912661982560004,
+        "Jonas Roothans": 0.86176640020201,
+        "Schrappen Tegenstrijdige": 0.8568713998540054,
+        "Overbodige": 0.83559295726034,
+        "Regelgeving": 0.83559295726034,
+        "Schrappen": 0.8316308392879589,
+        "jzer": 0.8070253058333965,
+        "kondigde": 0.8070253058333965,
+        "PvdD": 1.769138762225556,
+        "Eindhoven": 0.7671822607660123,
+        "gaan": 0.7157575801927463,
+        "Onderdeel hiervan": 0.6529169369631826,
+        "ingrijpende renovatie": 0.6529169369631826,
+        "Jonas": 0.6515093679133135,
+        "inclusief bouwen": 0.5477977827410561,
+        "huismus": 0.5293971968654624,
+        "gierzwaluw": 0.5293971968654624,
+        "renovatie": 0.5293971968654624,
+        "december": 0.512904044093773
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194375,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1148342
+    ]
+}

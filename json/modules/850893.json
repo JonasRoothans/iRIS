@@ -1,0 +1,79 @@
+{
+    "module_id": 850893,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 231116,
+    "title": "Logbestanden - Raadsvoorstel Bodycam",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/850893",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "J. Dijsselbloem (Burgemeester)",
+    "result": "",
+    "date": "23-05-2023",
+    "meeting_url": {
+        "1096275": "https://raadsinformatie.eindhoven.nl/vergadering/1096275#ai_7538309"
+    },
+    "attachment": null,
+    "parent": 829632,
+    "children": [],
+    "text": "Burgemeester Dijselbloem zegt toe:\nDe raad jaarlijks te informeren over de logbestanden van de camerabeelden en hierbij op te nemen hoe vaak bezwaar is gemaakt en hoe daarmee is omgegaan.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 829632,
+            "weight": 3.896421838216051
+        },
+        {
+            "id": 850763,
+            "weight": 0.9735169674414159
+        },
+        {
+            "id": 912521,
+            "weight": 0.1186357026283302
+        },
+        {
+            "id": 966033,
+            "weight": 0.11541925350607782
+        },
+        {
+            "id": 1015055,
+            "weight": 0.11352994511200205
+        },
+        {
+            "id": 920227,
+            "weight": 0.11324096875060936
+        }
+    ],
+    "videostarttime": {
+        "1096275": 7950
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_23-05-23_NC_EINDHOVEN-Cie menings.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Bodycam": 1.9950339932017513,
+        "Bodycam Burgemeester": 0.9932669132263755,
+        "Burgemeester Dijselbloem": 0.9932669132263755,
+        "Dijselbloem zegt": 0.9858175908530219,
+        "Bodycam": 1.9182194673807273,
+        "Logbestanden": 1.8368464105776598,
+        "zegt": 0.8290047675385592,
+        "raad jaarlijks": 0.7890484683643522,
+        "omgegaan": 0.6856455681042661,
+        "raad": 0.5826235305644494,
+        "informeren": 0.5826235305644494,
+        "camerabeelden": 0.5826235305644494,
+        "hierbij": 0.5826235305644494,
+        "nemen": 0.5826235305644494,
+        "bezwaar": 0.5826235305644494,
+        "gemaakt": 0.5826235305644494,
+        "daarmee": 0.5826235305644494
+    },
+    "svz": "COLLEGE: GRAAG AFVOEREN In de jaarrapportage Veiligheid 2023 is hierover informatie opgenomen: zie onderstaand...  Lees verder ",
+    "afgedaan": "04-06-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

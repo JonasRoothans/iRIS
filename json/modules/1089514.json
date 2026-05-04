@@ -1,0 +1,94 @@
+{
+    "module_id": 1089514,
+    "vote_id": null,
+    "member_id": [
+        194500
+    ],
+    "party_list": [
+        "FVD"
+    ],
+    "poho_id": [],
+    "title": "Beantwoording raadsvragen - Antifa weren uit Eindhoven (FvD)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/4/Raadsvragen/1089514",
+    "type": "Raadsvraag",
+    "member": "Nicolas Knoester",
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "06-10-2025",
+    "meeting_url": null,
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/16059548/1?connection_type=17&connection_id=12425992": "Vraag",
+        "https://raadsinformatie.eindhoven.nl/document/16178676/1?connection_type=17&connection_id=12540269": "Antwoord"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": " \n \n \nRaadsvragen - Antifa weren uit Eindhoven  \ndatum:  6 oktober  2025  \n \n \nRecent heeft de Tweede Kamer een motie aangenomen om de links -\nextremistische organisatie Antifa  als terroristische organisatie aan te \nmerken \n(https://www.tweedekamer.nl/kamerstukken/detail?id=2025Z17241&did=\n2025D40130 ). \n \nMeer dan terecht, aangezien Antifa  o.a. verantwoordelijk is voor de \nbekladding van het partijkantoor van F vD in januari 2022 en voor de \naanval met een bierfles op Baudet in november 2023. Antifa  heeft \ntelkens bewezen dat zij bereid zijn om geweld te gebruiken. Iets wat we \nnooit mogen accepteren in onze democratische rechtsstaat.  \n \nDaarom de volgende vraag:  \n1. Staat het college achter het besluit van het parlement? Zo nee, \nwaarom niet?  \n2. Is het college bereid om, in navolging van de aangenomen motie, \ndemonstraties c.q. acties van Antifa zo veel als mogelijk te weren \nuit Eindhoven? Zo nee, waarom niet?  \n \n \nNamens de fracti e, \nForum voor Democratie  \n \nNicolas Knoester, raadslid  \n",
+    "bst": "8065895_1.1.2.",
+    "related": [
+        {
+            "id": 920652,
+            "weight": 0.4462388839239534
+        },
+        {
+            "id": 775301,
+            "weight": 0.3968185178606534
+        },
+        {
+            "id": 856601,
+            "weight": 0.37079017697134997
+        },
+        {
+            "id": 793203,
+            "weight": 0.2130940243976476
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Tweede Kamer": 0.9940665870387523,
+        "Beantwoording raadsvragen": 1.9861551569878255,
+        "extremistische organisatie": 0.9678768352714578,
+        "raadsvragen": 1.960760977654048,
+        "Antifa": 1.9580743226847481,
+        "organisatie Antifa": 0.9528867087653782,
+        "Eindhoven datum": 0.9479404431135141,
+        "Antifa weren": 1.9382709441640253,
+        "Recent": 0.9335576881928708,
+        "Tweede": 0.9231988592019381,
+        "Kamer": 0.9231988592019381,
+        "FvD": 1.8611110723759694,
+        "oktober": 0.8611110723759695,
+        "weren": 1.8543836458772156,
+        "datum": 0.8259923406166112,
+        "links": 0.8259923406166112,
+        "terroristische": 0.7895009856764033,
+        "Nicolas Knoester": 0.7776211333966341,
+        "Baudet": 0.7758402292995793,
+        "nee": 0.7585172668706279,
+        "Democratie Nicolas": 0.7516502344644747,
+        "motie": 0.71482731522456,
+        "aangenomen": 0.71482731522456,
+        "college": 0.710298115717336,
+        "bereid": 0.7013333048691479,
+        "Forum": 0.5921279512216528,
+        "Knoester": 0.5921279512216528,
+        "terecht": 0.577482815598684,
+        "verantwoordelijk": 0.577482815598684,
+        "januari": 0.577482815598684,
+        "november": 0.577482815598684,
+        "Nicolas": 0.5539703442781359,
+        "bekladding": 0.519211161713276,
+        "partijkantoor": 0.519211161713276,
+        "aanval": 0.519211161713276,
+        "bierfles": 0.519211161713276,
+        "telkens bewezen": 0.5078402008505387
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194500,
+    "lastScrapeDate": "02-04-2026",
+    "meeting_id": []
+}

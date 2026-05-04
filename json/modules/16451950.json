@@ -1,0 +1,173 @@
+{
+    "module_id": 16451950,
+    "vote_id": null,
+    "member_id": [
+        194371
+    ],
+    "party_list": [
+        "D66"
+    ],
+    "poho_id": [],
+    "title": "Rondvraag 3 - Data straatintimidatie inwonersenquete (D66)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "06-01-2026",
+    "meeting_url": {
+        "1374825": "https://raadsinformatie.eindhoven.nl/vergadering/1374824/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://api.notubiz.nl/document/16451950/1",
+    "pdf_text": " \n \nRondvraag – Inzichtelijke data voortgang straatintimidatie  \n \nVeel dat a over straatintimidatie zijn algeme ne landelijk  cijfers  of gaat over de grote vier \nsteden in de randstad. Het is moeilijk om een beeld te krijgen van de daadwerkelijke \naantallen in Eindhoven. Het aantal meldingen van straatintimidatie bij de politie en bij de \nSTOP -app komen niet overeen. Ze komen ook niet overeen met de aantallen in de \nandere grote steden. Dit kan natuurlijk (en hoogstwaarschijnlijk) komen omdat mensen \nniet melden , maar dat het wel vaak voorkomt. Toen wij zelf onlangs op straat stonden om \nverhalen van straatintimidatie te verzamelen, had helaas  elke voorbijkomende vrouw wel \neen ervaring om te delen.  \n \nOnlangs kwam de uitnodiging om deel te nemen aan de online inwonersenquête. Hierin \nstaan duidelijke vragen in welke wijken inwoners zich onveilig voelen en hoe  vaak. Ook \nwordt er gevraagd of je je gender en leeftijd in wilt vullen. Mogelijk een bron van data om \neen goed beeld te krijgen hoezeer straatintimidatie lokaal ervaren wordt. Helaas is deze \ndata niet bekend bij de raadsleden.  \n \nDaarom hebben we de volgende vragen aan het college:  \n \n1. Is het college het met D66 Eindhoven  eens dat goed beleid begint met goede \ndata?  \n2. Is er uit de data van de inwonersenqu ête een duidelijk onderscheid te maken in \ngevoel en ervaring van veiligheid tussen  vrouwen , mannen en anderen? En is \ner onderscheid te maken in gevoel en ervaring van veiligheid in \nleeftijdscategorieën ? \n3. Is het college bereid de data van de inwoners en ook mogelijke conclusies die \nhieruit zijn getrokken met de raad te delen?  \n \n \nEindhoven, 16 december 2025  \n \nLid van de raad,   \nAnnelies Becker, Raadslid D66  \n  \nScreenshot van de inleiding van de inwonerse nquête:  \n \n \n \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 865481,
+            "weight": 0.4296955892709137
+        },
+        {
+            "id": 827449,
+            "weight": 0.4265146520067233
+        },
+        {
+            "id": 974296,
+            "weight": 0.40911211123410685
+        },
+        {
+            "id": 826277,
+            "weight": 0.4040758679876018
+        },
+        {
+            "id": 893837,
+            "weight": 0.20656128288191244
+        },
+        {
+            "id": 889436,
+            "weight": 0.1975320100943532
+        },
+        {
+            "id": 826275,
+            "weight": 0.19258543145066442
+        },
+        {
+            "id": 15945905,
+            "weight": 0.18370081146588832
+        },
+        {
+            "id": 819075,
+            "weight": 0.17651967342148453
+        },
+        {
+            "id": 913508,
+            "weight": 0.1745518964014762
+        },
+        {
+            "id": 13540297,
+            "weight": 0.1172672906929095
+        },
+        {
+            "id": 12866053,
+            "weight": 0.09356282764198244
+        },
+        {
+            "id": 12865589,
+            "weight": 0.08937016753346208
+        },
+        {
+            "id": 918140,
+            "weight": 0.087246934760979
+        },
+        {
+            "id": 1141637,
+            "weight": 0.0785426833130953
+        },
+        {
+            "id": 933006,
+            "weight": 0.07803502084068464
+        },
+        {
+            "id": 1091457,
+            "weight": 0.0741529780285639
+        },
+        {
+            "id": 988942,
+            "weight": 0.07002868618342827
+        },
+        {
+            "id": 776130,
+            "weight": 0.0670654395513495
+        },
+        {
+            "id": "a_7462821",
+            "weight": 0.06600218297199369
+        },
+        {
+            "id": 12077315,
+            "weight": 0.06395227639820589
+        },
+        {
+            "id": 783304,
+            "weight": 0.05739075616203196
+        }
+    ],
+    "videostarttime": {
+        "1374825": 842
+    },
+    "videolink": null,
+    "keywords": {
+        "Inzichtelijke data": 0.9747532149000331,
+        "Rondvraag": 1.9708254623237145,
+        "landelijk cijfers": 0.9631863966267967,
+        "Data": 1.9442429357393687,
+        "straatintimidatie": 1.9408909336842555,
+        "grote vier": 0.9235920105289928,
+        "vier steden": 0.9235920105289928,
+        "data voortgang": 0.9206170342339809,
+        "Eindhoven": 0.8711858755822827,
+        "komen": 0.8650595243983872,
+        "college": 0.8347273424480721,
+        "ervaring": 0.8327801631582438,
+        "inwonersenquete": 1.8260394066514556,
+        "randstad": 0.8260394066514556,
+        "grote": 0.8116446142163176,
+        "algeme": 0.8115683629700254,
+        "cijfers": 0.8115683629700254,
+        "gaat": 0.8115683629700254,
+        "vier": 0.8115683629700254,
+        "aantallen": 0.8040065183478797,
+        "overeen": 0.7902516486285303,
+        "daadwerkelijke aantallen": 0.7878993447163848,
+        "Annelies Becker": 0.7707982325186038,
+        "beeld": 0.7510284574974044,
+        "krijgen": 0.7510284574974044,
+        "STOP": 0.7458509732880452,
+        "delen": 0.7454153057569479,
+        "onlangs": 0.7351203109638653,
+        "helaas": 0.7206532384938433,
+        "maken": 0.7200292355889678,
+        "gevoel": 0.7200292355889678,
+        "onderscheid": 0.7086381213239735,
+        "veiligheid": 0.7086381213239735,
+        "goed": 0.7069230978921555,
+        "raad": 0.7062166290447275,
+        "goede data": 0.6159583212205055,
+        "goed beeld": 0.5878274582383048,
+        "Lid": 0.5681853293520754,
+        "Becker": 0.5681853293520754,
+        "Screenshot": 0.5681853293520754,
+        "moeilijk": 0.5535922756459021
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194371,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1374825
+    ]
+}

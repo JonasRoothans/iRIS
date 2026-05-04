@@ -1,0 +1,107 @@
+{
+    "module_id": 780717,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230014,
+    "title": "Klusbussen - Raadsvoorstel Inzet rijksmiddelen aanpak energiearmoede",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/780717",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "R. Thijs (Wethouder)",
+    "result": "",
+    "date": "14-09-2022",
+    "meeting_url": {
+        "1015774": "https://raadsinformatie.eindhoven.nl/vergadering/1015774#ai_6982102"
+    },
+    "attachment": null,
+    "parent": 777690,
+    "children": [],
+    "text": "De suggestie mee te nemen om te kijken wat Ergon kan betekenen voor het bemensen van de klusbussen.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 777690,
+            "weight": 3.5238840118279806
+        },
+        {
+            "id": 780716,
+            "weight": 2.902953456597594
+        },
+        {
+            "id": 780714,
+            "weight": 2.9000313048324236
+        },
+        {
+            "id": "a_7038481",
+            "weight": 0.9022360132957079
+        },
+        {
+            "id": 780334,
+            "weight": 0.7670790425302406
+        },
+        {
+            "id": 879839,
+            "weight": 0.5656343052149599
+        },
+        {
+            "id": 1103025,
+            "weight": 0.5653782461603265
+        },
+        {
+            "id": 795420,
+            "weight": 0.19031198478076347
+        },
+        {
+            "id": 790749,
+            "weight": 0.18702527759479082
+        },
+        {
+            "id": 953062,
+            "weight": 0.18664068389105828
+        },
+        {
+            "id": 776899,
+            "weight": 0.1634892554838364
+        },
+        {
+            "id": 14261876,
+            "weight": 0.15730029796952275
+        },
+        {
+            "id": 855743,
+            "weight": 0.14648657977225119
+        },
+        {
+            "id": 791656,
+            "weight": 0.10454448260216626
+        }
+    ],
+    "videostarttime": {
+        "1015774": 2452
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_14.09.22_NC_Eindhoven_raad.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Inzet": 1.9943786065225821,
+        "Inzet rijksmiddelen": 1.9835374423226297,
+        "rijksmiddelen aanpak": 1.9675064304991428,
+        "aanpak energiearmoede": 1.9675064304991428,
+        "suggestie mee": 0.9675064304991429,
+        "Klusbussen": 1.9343461395313861,
+        "Inzet": 1.908704180676506,
+        "Ergon": 0.908704180676506,
+        "aanpak": 1.8225994208119776,
+        "mee": 0.8225994208119777,
+        "nemen": 0.8225994208119777,
+        "kijken": 0.8225994208119777,
+        "betekenen": 0.8225994208119777
+    },
+    "svz": "Er komt een bredere insteek voor de klusbus irt leer/werktrajecten. Daarin wordt de Ergon meegenomen. VOORSTEL...  Lees verder ",
+    "afgedaan": "13-12-2022",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

@@ -1,0 +1,111 @@
+{
+    "module_id": 1060110,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230013,
+    "title": "Onderwaterjacht / verlenging visverhuurrechten - Raadsvoorstel Concept Programma Stedelijke en Maatschappelijke Voorzieningen",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1060110",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Steenbakkers (Wethouder)",
+    "result": "",
+    "date": "24-06-2025",
+    "meeting_url": {
+        "1256624": "https://raadsinformatie.eindhoven.nl/vergadering/1256624#ai_9382892"
+    },
+    "attachment": null,
+    "parent": 1047216,
+    "children": [],
+    "text": "Wethouder Steenbakkers zegt toe:\nschriftelijk terug te komen op de vraag over de uitfasering van de onderwaterjacht/verlenging visverhuurrechten;",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1060107,
+            "weight": 2.2325745738208203
+        },
+        {
+            "id": 1080504,
+            "weight": 1.932169082420441
+        },
+        {
+            "id": 1060105,
+            "weight": 0.24785075090873143
+        },
+        {
+            "id": 1052816,
+            "weight": 0.2475468149445301
+        },
+        {
+            "id": 904196,
+            "weight": 0.09745736459159277
+        },
+        {
+            "id": 906717,
+            "weight": 0.09707743659305276
+        },
+        {
+            "id": 966048,
+            "weight": 0.09506325426627793
+        },
+        {
+            "id": 1121877,
+            "weight": 0.08913939794590832
+        },
+        {
+            "id": 1057251,
+            "weight": 0.08507035956122797
+        },
+        {
+            "id": 854132,
+            "weight": 0.08307479476664967
+        },
+        {
+            "id": 1124788,
+            "weight": 0.07768231131623216
+        },
+        {
+            "id": 966055,
+            "weight": 0.07140215511185852
+        },
+        {
+            "id": "r_7006030",
+            "weight": 0.07094344062808977
+        }
+    ],
+    "videostarttime": {
+        "1256624": 760
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_24.06.25_NC_Eindhoven_Cie.mp4/playlist.m3u8",
+    "keywords": {
+        "verlenging visverhuurrechten": 1.9976627306436892,
+        "Raadsvoorstel Concept": 1.9960912645715583,
+        "Concept Programma": 1.9946158678294683,
+        "Programma Stedelijke": 1.9946158678294683,
+        "Maatschappelijke Voorzieningen": 1.9946158678294683,
+        "Voorzieningen Wethouder": 0.9946158678294682,
+        "Wethouder Steenbakkers": 0.9946158678294682,
+        "Steenbakkers zegt": 0.9898530933786365,
+        "schriftelijk terug": 0.987151629039873,
+        "verlenging": 1.9658943220636491,
+        "Onderwaterjacht": 1.9486790076167484,
+        "Concept": 1.9268200947294645,
+        "Stedelijke": 1.9268200947294645,
+        "Wethouder": 0.9268200947294645,
+        "zegt": 0.8627358002359979,
+        "terug": 0.8627358002359979,
+        "komen": 0.8627358002359979,
+        "vraag": 0.8627358002359979,
+        "uitfasering": 0.8627358002359979
+    },
+    "svz": "De vraag is op 26 juni 2025 schriftelijk beantwoord. VOORSTEL: AFVOEREN",
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "02-10-2025",
+    "meeting_id": [
+        1256624
+    ]
+}

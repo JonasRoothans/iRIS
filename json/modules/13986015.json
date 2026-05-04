@@ -1,0 +1,117 @@
+{
+    "module_id": 13986015,
+    "vote_id": null,
+    "member_id": [
+        137276
+    ],
+    "party_list": [
+        "PvdA"
+    ],
+    "poho_id": [],
+    "title": "Vraag V2 Vragenhalfuur -  Betaald parkeren (PvdA)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "29-03-2024",
+    "meeting_url": {
+        "1147900": "https://raadsinformatie.eindhoven.nl/vergadering/1147900/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/13986015/1/Vraag+V2+Vragenhalfuur+-++Betaald+parkeren+%28PvdA%29?connection_type=1&connection_id=7853231",
+    "pdf_text": " \n \nVragenhalfuur  betaald parkeren       V2 \n \nMet de goedkeuring van het masterplan mobiliteit hebben we besloten om betaald parkeren \noveral binnen de ring in te voeren. Momenteel wordt echter nog steeds het \nreferendumsysteem gebruikt, waarbij de helft van de bewoners moet instemmen met de \ninvoering van betaald parkeren. Wat ons betreft is deze stap voor wijken binnen de ring nu \noverbodig. Het werkt vertragend, het is verwarrend voor de inwoners, zij denken na melijk dat \nde keuze bij h en ligt, en het is een onnodige  inzet van onze ambenarencapaciteit. Is de \nwethouder het ermee eens dat het referendumsysteem voor binnen de ring zo snel mogelijk \nniet meer gebruikt moet worden? Kan de wethouder aangeven wanneer het betaald \nparkeren binnen de ring volledig wordt ingevoerd? En kan de wethouder dit ook versnel d \ninvoeren in wijken waar er duidelijke signalen zijn dat dit gewenst is?  \n \nPatrick van Tuijn, raadslid PvdA  \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 1139066,
+            "weight": 0.16376193662670901
+        },
+        {
+            "id": 834493,
+            "weight": 0.11472068939935516
+        },
+        {
+            "id": 829568,
+            "weight": 0.11395316892886846
+        },
+        {
+            "id": 920227,
+            "weight": 0.09440286227398427
+        },
+        {
+            "id": 804898,
+            "weight": 0.09422662236151373
+        },
+        {
+            "id": 872231,
+            "weight": 0.08865885779044749
+        },
+        {
+            "id": 13305197,
+            "weight": 0.0868096915591351
+        },
+        {
+            "id": 1141268,
+            "weight": 0.08195487118046993
+        },
+        {
+            "id": 14027204,
+            "weight": 0.07552470716424245
+        },
+        {
+            "id": 969451,
+            "weight": 0.07332028483243465
+        },
+        {
+            "id": 799947,
+            "weight": 0.07021567732451564
+        }
+    ],
+    "videostarttime": {
+        "1147900": 1791
+    },
+    "videolink": null,
+    "keywords": {
+        "Betaald parkeren": 1.9917607076823494,
+        "Vragenhalfuur betaald": 0.9906386809678239,
+        "masterplan mobiliteit": 0.9652674062075725,
+        "Betaald": 1.963266971209404,
+        "parkeren overal": 0.9589092941303289,
+        "ring": 0.9165841177122498,
+        "wethouder": 0.8574060604569698,
+        "Vraag": 1.8558123476194812,
+        "voeren": 0.8365418554948086,
+        "goedkeuring": 0.8167877349804188,
+        "masterplan": 0.8167877349804188,
+        "mobiliteit": 0.8167877349804188,
+        "besloten": 0.8167877349804188,
+        "overal": 0.8167877349804188,
+        "referendumsysteem": 0.7900645403832466,
+        "PvdA": 1.786107583407877,
+        "gebruikt": 0.7751711794087084,
+        "wijken": 0.7475593657355863,
+        "ring volledig": 0.7307090394642446,
+        "Tuijn": 0.6283144385265382,
+        "raadslid PvdA": 0.6277897536571793,
+        "wethouder aangeven": 0.6263674012962804,
+        "Momenteel": 0.5957245584573945,
+        "waarbij": 0.5957245584573945,
+        "helft": 0.5621017326482669,
+        "bewoners": 0.5621017326482669,
+        "instemmen": 0.5621017326482669,
+        "werkt vertragend": 0.532179397111955,
+        "overbodig": 0.5028366779891332
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 137276,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1147900
+    ]
+}

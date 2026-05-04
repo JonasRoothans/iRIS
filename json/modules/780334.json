@@ -1,0 +1,67 @@
+{
+    "module_id": 780334,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230014,
+    "title": "Plan van aanpak energiearmoede",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/780334",
+    "type": "Motie",
+    "member": "",
+    "party": null,
+    "poho": "R. Thijs (Wethouder)",
+    "result": "",
+    "date": "05-07-2022",
+    "meeting_url": {
+        "1013296": "https://raadsinformatie.eindhoven.nl/vergadering/1013296"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": "De raad na de zomer te informeren via een raadsinformatiebrief over de aanpak van energiearmoede. Hierbij wordt ook ingegaan op woningen met lage energielabels.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 777690,
+            "weight": 0.7739339725650833
+        },
+        {
+            "id": 780717,
+            "weight": 0.7670790425302406
+        },
+        {
+            "id": 780716,
+            "weight": 0.7668425999937288
+        },
+        {
+            "id": 780714,
+            "weight": 0.7656551594051494
+        }
+    ],
+    "videostarttime": {
+        "1013296": null
+    },
+    "videolink": null,
+    "keywords": {
+        "informeren via": 0.9650422358505996,
+        "aanpak energiearmoede": 1.9493685780118084,
+        "aanpak": 1.8902372766190199,
+        "Plan": 1.8740438861215685,
+        "lage energielabels": 0.8285236933416377,
+        "raad": 0.8162148104626283,
+        "zomer": 0.8162148104626283,
+        "via": 0.8162148104626283,
+        "raadsinformatiebrief": 0.8162148104626283,
+        "Hierbij": 0.6664471297518616,
+        "ingegaan": 0.5611602798663584,
+        "woningen": 0.5611602798663584,
+        "lage": 0.5611602798663584
+    },
+    "svz": null,
+    "afgedaan": "27-09-2022",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

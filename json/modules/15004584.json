@@ -1,0 +1,220 @@
+{
+    "module_id": 15004584,
+    "vote_id": null,
+    "member_id": [
+        80968
+    ],
+    "party_list": [
+        "SP"
+    ],
+    "poho_id": [],
+    "title": "Rondvraag 3 - Nieuwjaarsreceptie (SP)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "07-01-2025",
+    "meeting_url": {
+        "1253869": "https://raadsinformatie.eindhoven.nl/vergadering/1253866/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://api.notubiz.nl/document/15004584/1",
+    "pdf_text": " \n \n \nRondvraag : Nieuwjaarsreceptie  \n                    \n \nEindhoven, 7 januari 2025  \n \n \nGeacht college,  \n \nAanstaande maandagavond is de nieuwjaarsbijeenkomst van onze gemeente in \nhet Parktheater. Graag zouden wij, globaal , inzicht krijgen in het \nuitnodigingsbeleid . Aanleiding hiervoor is dat wij vernamen dat  het Platform \nWoningsplitsing en Kamerverhuur hiervoor niet is uitgenodigd. Dit verwondert ons \nzeer: dit zijn mensen die zich met hart en ziel inzetten om het college en de \ngemeenteraad te adviseren over vaak moeilijke kwesties. Navraag leerde ons dat \nde Troep Troopers, die ook geweldig werk doen voor de leefbaarheid in onze \nbuurten ook niet zijn uitgenodigd. Nu vragen wij ons af hoe dat zit met vele andere \nvrijwilligersorganisaties  die zich inzetten voor onze gemeente en ons \ngemeentebestuur  zoals de Cliëntenraad Sociaal Domein, de J eugdraad , Jong 040, \nEindhoven Toegankelijk enz. enz.  \n \nHoe ziet het uitnodigingsbeleid  eruit?  \n \n \nHartelijk dank voor de beantwoording,  \n \nHet lid van de raad,  \nJannie Visscher, SP  \n \n \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 15018132,
+            "weight": 4.102911945591853
+        },
+        {
+            "id": 775242,
+            "weight": 0.478033572835304
+        },
+        {
+            "id": 953324,
+            "weight": 0.2450891603049271
+        },
+        {
+            "id": 1026224,
+            "weight": 0.21210597582670646
+        },
+        {
+            "id": 880467,
+            "weight": 0.20227847058640316
+        },
+        {
+            "id": 831097,
+            "weight": 0.20052193857987693
+        },
+        {
+            "id": 804274,
+            "weight": 0.19611321100680415
+        },
+        {
+            "id": 946278,
+            "weight": 0.19439640799841273
+        },
+        {
+            "id": 16661552,
+            "weight": 0.17748791124277896
+        },
+        {
+            "id": 15242088,
+            "weight": 0.14080053002031498
+        },
+        {
+            "id": 834369,
+            "weight": 0.13148910990559556
+        },
+        {
+            "id": 11766402,
+            "weight": 0.12408864608326327
+        },
+        {
+            "id": 1145711,
+            "weight": 0.11756128203397963
+        },
+        {
+            "id": 913551,
+            "weight": 0.1165729870194695
+        },
+        {
+            "id": 833122,
+            "weight": 0.11377222116091293
+        },
+        {
+            "id": 850988,
+            "weight": 0.11243351220599274
+        },
+        {
+            "id": 930491,
+            "weight": 0.10633405575193526
+        },
+        {
+            "id": 936504,
+            "weight": 0.10534286932806328
+        },
+        {
+            "id": 1031705,
+            "weight": 0.10190243291986523
+        },
+        {
+            "id": 1028294,
+            "weight": 0.09427923730020546
+        },
+        {
+            "id": 956675,
+            "weight": 0.07485657332042824
+        },
+        {
+            "id": 15004793,
+            "weight": 0.07133284168741878
+        },
+        {
+            "id": 865499,
+            "weight": 0.06782173224792978
+        },
+        {
+            "id": 829453,
+            "weight": 0.040541229272575696
+        },
+        {
+            "id": 1076199,
+            "weight": 0.04037529831738078
+        },
+        {
+            "id": 1097574,
+            "weight": 0.039769381200551915
+        },
+        {
+            "id": 1112373,
+            "weight": 0.03960976743376273
+        },
+        {
+            "id": 975178,
+            "weight": 0.03888111844917232
+        },
+        {
+            "id": 1133353,
+            "weight": 0.037866660490785284
+        },
+        {
+            "id": 993459,
+            "weight": 0.035373764867695265
+        },
+        {
+            "id": 833134,
+            "weight": 0.03416197435017197
+        },
+        {
+            "id": 890084,
+            "weight": 0.03204657156003623
+        }
+    ],
+    "videostarttime": {
+        "1253869": 738
+    },
+    "videolink": null,
+    "keywords": {
+        "Aanstaande maandagavond": 0.9910593807469541,
+        "Nieuwjaarsreceptie Eindhoven": 0.988532597269815,
+        "Geacht college": 0.9816507347632706,
+        "Rondvraag": 1.9783029915354189,
+        "Platform Woningsplitsing": 0.9590478416420816,
+        "Geacht": 0.9421282116559767,
+        "Aanstaande": 0.9421282116559767,
+        "Parktheater": 0.9421282116559767,
+        "Aanleiding hiervoor": 0.938122832203126,
+        "Eindhoven Toegankelijk": 0.912647113291207,
+        "Troep Troopers": 0.9076780159117727,
+        "januari": 0.896285360121626,
+        "Sociaal Domein": 0.8869218298197267,
+        "Eindhoven": 0.8801788783407911,
+        "Cliëntenraad Sociaal": 0.8733925159701141,
+        "Jannie Visscher": 0.8696687948298344,
+        "inzicht krijgen": 0.8505084867979399,
+        "nieuwjaarsbijeenkomst": 0.8468788823272192,
+        "college": 0.844322795164557,
+        "uitgenodigd": 0.843066577898828,
+        "hiervoor": 0.8342939459071814,
+        "gemeente": 0.821852616256652,
+        "Platform": 0.8016541980395713,
+        "Kamerverhuur": 0.8016541980395713,
+        "uitnodigingsbeleid": 0.7979164496916996,
+        "inzetten": 0.7766618603923805,
+        "Toegankelijk enz.": 0.7681837778904985,
+        "moeilijke kwesties": 0.7447297573925302,
+        "Jong": 0.7313955117183149,
+        "globaal": 0.7133229510316879,
+        "Domein": 0.6969531783608908,
+        "Troep": 0.6935948049301452,
+        "Sociaal": 0.6647696169650366,
+        "Navraag leerde": 0.6638787649181103,
+        "Graag": 0.6628480090107316,
+        "inzicht": 0.6628480090107316,
+        "Jannie": 0.660436229825694,
+        "krijgen": 0.614268558601389,
+        "vernamen": 0.614268558601389,
+        "geweldig werk": 0.6122989375861568,
+        "kwesties": 0.574363489211636,
+        "verwondert": 0.5222242716796857,
+        "mensen": 0.5222242716796857,
+        "hart": 0.5222242716796857,
+        "ziel": 0.5222242716796857,
+        "adviseren": 0.5222242716796857,
+        "moeilijke": 0.5222242716796857,
+        "Hartelijk dank": 0.5038655026347729
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 80968,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1253869
+    ]
+}

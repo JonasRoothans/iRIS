@@ -1,0 +1,72 @@
+{
+    "module_id": 1023737,
+    "vote_id": null,
+    "member_id": [
+        194500
+    ],
+    "party_list": [
+        "FVD"
+    ],
+    "poho_id": [],
+    "title": "Beantwoording vervolg raadsvragen - Contant geld (FvD)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/4/Raadsvragen/1023737",
+    "type": "Raadsvraag",
+    "member": "Nicolas Knoester",
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "28-02-2025",
+    "meeting_url": null,
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/15204568/1?connection_type=17&connection_id=11596536": "Vraag",
+        "https://raadsinformatie.eindhoven.nl/document/15279150/1?connection_type=17&connection_id=11653711": "Antwoord"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": " \n \nRaadsvragen - Vervolgvragen contant geld  \ndatum:  27 februari 2025  \n \n \nGeacht college,  \n \nHet college erkent in de beantwoording het belang van contant geld, \nmaar verwart stimuleren met verplichten. Dat was niet de vraag noch de \nbedoeling.  \n \nRaadsvragen:  \n1. Is het college daarom bereid om (als voorstander van contant \ngeld) ondernemers te stimuleren met bijvoorbeeld een \nposteractie zoals ook gedaan wordt voor energiebesparing (\"wij \nzijn gewoon open ondanks de gesloten deur\" )? \n \n \n \nNicolas Knoester (Forum voor Democratie)  \n",
+    "bst": "7895907 1.5.1.",
+    "related": [
+        {
+            "id": 1014921,
+            "weight": 2.364872301005217
+        },
+        {
+            "id": 791795,
+            "weight": 0.3475121129727156
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Vervolgvragen contant": 0.9755930161531643,
+        "Geacht college": 0.9596908363437321,
+        "Contant geld": 1.952181071244031,
+        "Beantwoording vervolg": 1.9336789991451122,
+        "Geacht": 0.9282978921682631,
+        "vervolg raadsvragen": 1.9268050235488694,
+        "geld datum": 0.9025205824456909,
+        "geld": 1.879196951489465,
+        "FvD": 1.8740227200368154,
+        "februari": 0.8740227200368154,
+        "verwart stimuleren": 0.8638816602939949,
+        "college erkent": 0.8474818149807773,
+        "college": 0.819869113728321,
+        "datum": 0.8161859702676946,
+        "verplichten": 0.8161859702676946,
+        "vervolg": 1.7551137497209996,
+        "erkent": 0.7551137497209998,
+        "belang": 0.7551137497209998,
+        "verwart": 0.7551137497209998,
+        "Nicolas Knoester": 0.7224937829140701,
+        "Knoester": 0.6465142575830616,
+        "Forum": 0.6465142575830616,
+        "Democratie": 0.6465142575830616
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194500,
+    "lastScrapeDate": "02-04-2026",
+    "meeting_id": []
+}

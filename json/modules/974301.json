@@ -1,0 +1,124 @@
+{
+    "module_id": 974301,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 248564,
+    "title": "Onderzoeksrapporten - Raadsvoorstel Sharing the Vibes Samen naar een bruisend Eindhoven",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/974301",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "R. Strijk (Wethouder)",
+    "result": "",
+    "date": "24-09-2024",
+    "meeting_url": {
+        "1266326": "https://raadsinformatie.eindhoven.nl/vergadering/1266326#ai_8650080"
+    },
+    "attachment": null,
+    "parent": 958773,
+    "children": [],
+    "text": "Wethouder Strijk zegt toe de onderzoeksrapporten van andere steden (Utrecht en Nijmegen), waaruit blijkt dat de overlast is afgenomen door invoering van venstertijden, en onderzoek van het Centrum voor Criminaliteitspreventie en Veiligheid.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 974303,
+            "weight": 1.2926810341622068
+        },
+        {
+            "id": 974304,
+            "weight": 1.2923145050067966
+        },
+        {
+            "id": 974297,
+            "weight": 1.2922039745655214
+        },
+        {
+            "id": 974296,
+            "weight": 1.2921112620819075
+        },
+        {
+            "id": 975797,
+            "weight": 0.4977303205884612
+        },
+        {
+            "id": 958773,
+            "weight": 0.49727184879174147
+        },
+        {
+            "id": 1146302,
+            "weight": 0.4558003634590767
+        },
+        {
+            "id": 1036407,
+            "weight": 0.3836679764441164
+        },
+        {
+            "id": 898105,
+            "weight": 0.30096432722675026
+        },
+        {
+            "id": 918269,
+            "weight": 0.29314744344785804
+        },
+        {
+            "id": 775163,
+            "weight": 0.25295631297440935
+        },
+        {
+            "id": 1020983,
+            "weight": 0.2468825780440559
+        },
+        {
+            "id": 1017964,
+            "weight": 0.18829070904819123
+        },
+        {
+            "id": 928284,
+            "weight": 0.18717641945639615
+        },
+        {
+            "id": 1121895,
+            "weight": 0.15544224805852214
+        }
+    ],
+    "videostarttime": {},
+    "videolink": null,
+    "keywords": {
+        "Raadsvoorstel Sharing": 1.9964485625184412,
+        "Vibes Samen": 1.9950794121108049,
+        "Eindhoven Wethouder": 0.9950794121108049,
+        "Wethouder Strijk": 0.9950794121108049,
+        "Sharing the": 1.9910758977906236,
+        "the Vibes": 1.9910758977906236,
+        "bruisend Eindhoven": 1.9910758977906236,
+        "Strijk zegt": 0.9910758977906236,
+        "waaruit blijkt": 0.9891704251339722,
+        "Utrecht": 0.9494266279582411,
+        "Nijmegen": 0.9494266279582411,
+        "Veiligheid": 0.9494266279582411,
+        "Samen": 1.9300250454887924,
+        "Eindhoven": 1.9300250454887924,
+        "Centrum": 0.9300250454887925,
+        "Criminaliteitspreventie": 0.9300250454887925,
+        "Onderzoeksrapporten": 1.9180214726161182,
+        "steden": 0.9152440777137386,
+        "waaruit": 0.9152440777137386,
+        "venstertijden": 0.9152440777137386,
+        "the": 1.8735952442343768,
+        "bruisend": 1.8735952442343768,
+        "zegt": 0.8735952442343768,
+        "blijkt": 0.8735952442343768,
+        "overlast": 0.8735952442343768,
+        "afgenomen": 0.8735952442343768,
+        "invoering": 0.8735952442343768,
+        "onderzoek": 0.8735952442343768
+    },
+    "svz": null,
+    "afgedaan": "11-03-2025",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

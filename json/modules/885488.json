@@ -1,0 +1,69 @@
+{
+    "module_id": 885488,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230013,
+    "title": "Gesprek CKE - Raadsommissie Knoop XL, Clusterpaspoort Ontwikkelvisie Fellenoord: Cluster 1b",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/moties_en_toezeggingen/885488?parent_event=1142673",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Steenbakkers (Wethouder)",
+    "result": "",
+    "date": "10-10-2023",
+    "meeting_url": {
+        "1142673": "https://raadsinformatie.eindhoven.nl/vergadering/1142673#ai_7877944"
+    },
+    "attachment": null,
+    "parent": "ai_7877944",
+    "children": [],
+    "text": "Wethouder Steenbakkers zegt toe:\nalsnog met CKE in gesprek te gaan over hun plannen op basis van het clusterpaspoort, en de raad te informeren als het wenselijk is het clusterpaspoort te wijzigen om die plannen te realiseren.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": "ai_7877944",
+            "weight": 2.966457091823477
+        },
+        {
+            "id": 885495,
+            "weight": 0.9961452297585249
+        },
+        {
+            "id": 885492,
+            "weight": 0.9946389180704567
+        }
+    ],
+    "videostarttime": {},
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_10.10.23_Eindhoven_raadscieknoopXL.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsommissie Knoop": 1.996759485822539,
+        "Ontwikkelvisie Fellenoord": 1.996759485822539,
+        "Wethouder Steenbakkers": 0.9967594858225391,
+        "Clusterpaspoort Ontwikkelvisie": 1.9932304756991368,
+        "Steenbakkers zegt": 0.9921624041437779,
+        "Gesprek CKE": 1.988083309173883,
+        "Clusterpaspoort": 1.9654273034807255,
+        "Cluster": 1.9644632780704123,
+        "CKE": 1.961165777762873,
+        "Fellenoord": 1.9501763796669402,
+        "Wethouder": 0.9501763796669402,
+        "Knoop": 1.9351703641317017,
+        "plannen": 0.9241882870408382,
+        "realiseren": 0.9135284062710763,
+        "zegt": 0.8800448969620189,
+        "gaan": 0.8800448969620189,
+        "basis": 0.8800448969620189,
+        "raad": 0.8800448969620189,
+        "informeren": 0.8800448969620189,
+        "wenselijk": 0.8800448969620189,
+        "wijzigen": 0.8800448969620189
+    },
+    "svz": null,
+    "afgedaan": "10-12-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

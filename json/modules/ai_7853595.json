@@ -1,0 +1,62 @@
+{
+    "module_id": "ai_7853595",
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Informatiebijeenkomst Stichting Cultuur Eindhoven  - Rondvraag GroenLinks inzake Step in the Arena",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/moties_en_toezeggingen/953038?parent_event=1147967",
+    "type": "Agenda",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "18-06-2024",
+    "meeting_url": "https://raadsinformatie.eindhoven.nl/vergadering/1147967#ai_7853595",
+    "attachment": null,
+    "parent": null,
+    "children": [
+        953038
+    ],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 14294931,
+            "weight": 2.236989769354832
+        },
+        {
+            "id": 12483694,
+            "weight": 0.9715659925572687
+        },
+        {
+            "id": 12467390,
+            "weight": 0.9456772866404232
+        },
+        {
+            "id": 806370,
+            "weight": 0.4091745059901719
+        }
+    ],
+    "videostarttime": 11704,
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_18.06.24_Eindhoven_CIE.mp4/playlist.m3u8",
+    "keywords": {
+        "Cultuur Eindhoven": 1.9873976398760465,
+        "Stichting Cultuur": 1.9785907845614,
+        "Informatiebijeenkomst Stichting": 1.9765416191248102,
+        "Rondvraag GroenLinks": 1.9737669269624916,
+        "the Arena": 1.9737669269624916,
+        "Rondvraag": 1.9140368224837343,
+        "Cultuur": 1.8552226942577967,
+        "Step": 1.8552226942577967,
+        "GroenLinks": 1.702634417439785,
+        "the": 1.702634417439785
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": null,
+    "meeting_id": []
+}

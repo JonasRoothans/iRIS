@@ -1,0 +1,156 @@
+{
+    "module_id": 12483693,
+    "vote_id": null,
+    "member_id": [
+        90571
+    ],
+    "party_list": [
+        "CDA"
+    ],
+    "poho_id": [],
+    "title": "Rondvraag CDA Versterk de bewonersorganisaties",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "07-03-2023",
+    "meeting_url": {
+        "1079006": "https://raadsinformatie.eindhoven.nl/vergadering/1013468/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://api.notubiz.nl/document/12483693/1",
+    "pdf_text": " \n \n \nRondvraag  van de fractie  CDA  meningsvorming  \n7 maart 2023: Versterk de bewonersorganisaties  \n \n \n \nGeacht college,  \n \nInleiding  \nHet CDA Eindhoven vindt het een goed besluit dat u opnieuw \naanvullende ondersteuning wil bieden aan besturen van \nbewonersorganisaties. Die aanvullende ondersteuning moet er onder \nandere toe leiden dat b ewonersorganisaties minder bezig zijn met \nadministrati eve en organisatorische zaken en meer inhoudelijke focus \nkunnen aanbrengen  in het besturen van de organisatie. Ook moet de \nkwetsbaarheid van een aantal bewonersorganisaties afnemen. \nBewonersorganisaties hebben namelijk steeds minder vrijwilligers.  \n \nNog niet alle bewonersorganisaties weten van deze ondersteuning  \nvanuit Support Punt af. Bovendien zien we dat het aantal \nbewonersorganisaties de afgelopen jaren helaas afneemt. \nBewonersorganisaties zijn van grote meerwaarde: ze organiseren \nactiviteiten en zorge n daarmee voor sociale cohesie in de wijk, maar \nzetten zich vaak ook in om de leefbaarheid te vergroten. Het oprichten \nvan een bewonersorganisatie vinden wij geen taak van de gemeente, \nmaar we kunnen als gemeente dit wel stimuleren en faciliteren.  \n \nDaarom  hebben we de volgende vragen:   \n \nVragen  \n1. Wilt u ervoor zorgen dat alle bewonersorganisaties op de hoogte \nzijn van deze extra ondersteuning vanuit SupportPunt?  \n2. Hoe kijkt u naar de afname van het aantal bewonersorganisaties \nin onze stad?  \n3. Bent u bereid om in (kwetsbare) wijken waar geen \nbewonersorganisatie is  dit te stimuleren en te faciliteren?  \n \nNamens de fractie  CDA , \n \nRemco van Dooren , raadslid  ",
+    "bst": null,
+    "related": [
+        {
+            "id": 941292,
+            "weight": 0.31001279182054603
+        },
+        {
+            "id": 825657,
+            "weight": 0.1989067468502663
+        },
+        {
+            "id": 973945,
+            "weight": 0.19116593841529914
+        },
+        {
+            "id": 983991,
+            "weight": 0.18659539148020407
+        },
+        {
+            "id": 829336,
+            "weight": 0.16642618726199554
+        },
+        {
+            "id": 776929,
+            "weight": 0.1646440469436369
+        },
+        {
+            "id": 13256903,
+            "weight": 0.09118637467428685
+        },
+        {
+            "id": 12324103,
+            "weight": 0.09071983797269195
+        },
+        {
+            "id": 1035069,
+            "weight": 0.08863960841317757
+        },
+        {
+            "id": 1093575,
+            "weight": 0.0870522491484024
+        },
+        {
+            "id": 792365,
+            "weight": 0.08235576755485743
+        },
+        {
+            "id": 817437,
+            "weight": 0.08190487333803144
+        },
+        {
+            "id": 14120556,
+            "weight": 0.07988226144088899
+        },
+        {
+            "id": 14926561,
+            "weight": 0.07526696800086603
+        },
+        {
+            "id": 1120826,
+            "weight": 0.07438606921878992
+        },
+        {
+            "id": 790647,
+            "weight": 0.0704895087210646
+        },
+        {
+            "id": 1094551,
+            "weight": 0.07035769827939473
+        },
+        {
+            "id": 1123607,
+            "weight": 0.06707009461198034
+        }
+    ],
+    "videostarttime": {
+        "1079006": 957
+    },
+    "videolink": null,
+    "keywords": {
+        "Geacht college": 0.9855376831443766,
+        "Eindhoven vindt": 0.9838397424250037,
+        "CDA Versterk": 1.9815428501663357,
+        "CDA Eindhoven": 0.9772267697702702,
+        "Rondvraag CDA": 1.9709635962074867,
+        "bewonersorganisaties Geacht": 0.9644506945012333,
+        "goed besluit": 0.9495615668927907,
+        "aanvullende ondersteuning": 0.9395812988026465,
+        "CDA meningsvorming": 0.9358700752073953,
+        "Inleiding": 0.9331739586699757,
+        "Geacht": 0.9274244089353476,
+        "CDA": 1.9233001152207667,
+        "aantal bewonersorganisaties": 0.909074095792117,
+        "fractie CDA": 0.9006924675827657,
+        "aanvullende": 0.8616584355271232,
+        "besturen": 0.8616584355271232,
+        "Support Punt": 0.8544281301864541,
+        "aantal": 0.8489692742684188,
+        "maart": 0.8259172641996355,
+        "college": 0.8035683921814781,
+        "vragen": 0.7812397686493417,
+        "vindt": 0.7808732024809366,
+        "goed": 0.7808732024809366,
+        "bieden": 0.7808732024809366,
+        "faciliteren": 0.7120469131768601,
+        "stimuleren": 0.6964585058114128,
+        "gemeente": 0.6818863063431879,
+        "administrati eve": 0.6779297277484719,
+        "organisatorische zaken": 0.6779297277484719,
+        "inhoudelijke focus": 0.6779297277484719,
+        "Punt": 0.643526245883141,
+        "Remco": 0.5686450693083438,
+        "Dooren": 0.5686450693083438,
+        "organisatie": 1.5408364266395609,
+        "volgende vragen": 0.5373494092180233,
+        "bezig": 0.5064308005900566,
+        "eve": 0.5064308005900566,
+        "zaken": 0.5064308005900566,
+        "focus": 0.5064308005900566,
+        "aanbrengen": 0.5064308005900566
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 90571,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1079006
+    ]
+}

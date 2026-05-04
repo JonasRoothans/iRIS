@@ -1,0 +1,45 @@
+{
+    "module_id": "r_9560955",
+    "vote_id": 9560955,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Raadsvoorstel Gewijzigde vaststelling TAM omgevingsplan Prinsejagt",
+    "url": "",
+    "type": "Raadsvoorstel",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "aangenomen",
+    "date": "09-09-2025",
+    "meeting_url": {
+        "1256323": "https://raadsinformatie.eindhoven.nl/vergadering/1256323/Raadsvoorstel%20Gewijzigde%20vaststelling%20TAM%20omgevingsplan%20Prinsejagt 09-09-2025#voting_9560955"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Raadsvoorstel Gewijzigde": 1.9765416191248102,
+        "omgevingsplan Prinsejagt": 1.9737669269624916,
+        "Gewijzigde vaststelling": 1.955011371234592,
+        "vaststelling TAM": 1.955011371234592,
+        "TAM omgevingsplan": 1.955011371234592,
+        "Prinsejagt": 1.9140368224837343,
+        "Gewijzigde": 1.8552226942577967,
+        "TAM": 1.8552226942577967
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1256323
+    ]
+}

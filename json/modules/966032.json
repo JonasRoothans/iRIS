@@ -1,0 +1,117 @@
+{
+    "module_id": 966032,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230019,
+    "title": "Analyse kredieten - Raadsvoorstel Jaarstukken 2023",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/966032",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. van Lanschot (Wethouder)",
+    "result": "",
+    "date": "26-06-2024",
+    "meeting_url": {
+        "1147977": "https://raadsinformatie.eindhoven.nl/vergadering/1147977#ai_8483500"
+    },
+    "attachment": null,
+    "parent": 946916,
+    "children": [],
+    "text": "Wethouder van Lanschot zegt toe in kader van de brede vraag naar de realisatiekracht te beginnen met een analyse van de ruimtelijke projecten en deze te bespreken met de auditcommissie. Hierbij wordt de prioriteringsvraag meegenomen. De geleerde lessen worden vervolgens toegepast op de niet ruimtelijke projecten.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1057330,
+            "weight": 0.5062566567421191
+        },
+        {
+            "id": 956636,
+            "weight": 0.33678468188496813
+        },
+        {
+            "id": 777965,
+            "weight": 0.24601282053011483
+        },
+        {
+            "id": 1144423,
+            "weight": 0.24054292891350126
+        },
+        {
+            "id": 891457,
+            "weight": 0.2390628032919969
+        },
+        {
+            "id": 1000417,
+            "weight": 0.15610232706583566
+        },
+        {
+            "id": 1085088,
+            "weight": 0.1497734055204242
+        },
+        {
+            "id": 851352,
+            "weight": 0.1432674748358381
+        },
+        {
+            "id": 1014949,
+            "weight": 0.08950373227060883
+        },
+        {
+            "id": 970859,
+            "weight": 0.08925220740405178
+        },
+        {
+            "id": 827698,
+            "weight": 0.08848287329409152
+        },
+        {
+            "id": 783170,
+            "weight": 0.08115998309687109
+        },
+        {
+            "id": 1096061,
+            "weight": 0.08017983304821337
+        },
+        {
+            "id": 891295,
+            "weight": 0.07871121318266708
+        }
+    ],
+    "videostarttime": {
+        "1147977": 762
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_26.06.24_NC_Eindhoven_Cie.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Jaarstukken": 1.9970904076234341,
+        "Lanschot zegt": 0.9915203112254419,
+        "Analyse kredieten": 1.9868281006781432,
+        "brede vraag": 0.9820375343224521,
+        "ruimtelijke projecten": 0.9674520511691701,
+        "Jaarstukken": 1.9461376642808315,
+        "Wethouder": 0.9461376642808315,
+        "Analyse": 1.939793492020852,
+        "auditcommissie": 0.8920328015491242,
+        "prioriteringsvraag meegenomen": 0.8854519245045089,
+        "projecten": 0.8763903267328468,
+        "zegt": 0.8671636012577444,
+        "kader": 0.8671636012577444,
+        "brede": 0.8671636012577444,
+        "vraag": 0.8671636012577444,
+        "realisatiekracht": 0.8671636012577444,
+        "beginnen": 0.8671636012577444,
+        "bespreken": 0.8671636012577444,
+        "geleerde lessen": 0.7644097438621342,
+        "Hierbij": 0.7040456181255577,
+        "meegenomen": 0.7040456181255577,
+        "lessen": 0.5633419964726948,
+        "toegepast": 0.5633419964726948
+    },
+    "svz": null,
+    "afgedaan": "13-05-2025",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

@@ -1,0 +1,104 @@
+{
+    "module_id": 891752,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230019,
+    "title": "Maatschappelijke infrastructuur - Raadsvoorstel Vaststellen Begroting 2024",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/891752",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. van Lanschot (Wethouder)",
+    "result": "",
+    "date": "31-10-2023",
+    "meeting_url": {
+        "1153547": "https://raadsinformatie.eindhoven.nl/vergadering/1153547#ai_7885375"
+    },
+    "attachment": null,
+    "parent": 879979,
+    "children": [],
+    "text": "Wethouder Lanschot zegt toe om een nadere toelichting over welke middelen beschikbaar zijn om te zorgen dat de maatschappelijke infrastructuur voldoende en op een eerlijke manier gecompenseerd wordt.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 997013,
+            "weight": 0.4390386779422185
+        },
+        {
+            "id": 945632,
+            "weight": 0.43866340969804496
+        },
+        {
+            "id": 892084,
+            "weight": 0.438364794928628
+        },
+        {
+            "id": 905577,
+            "weight": 0.4371002383084101
+        },
+        {
+            "id": 920922,
+            "weight": 0.43680928076177655
+        },
+        {
+            "id": "r_9119780",
+            "weight": 0.4291122452639412
+        },
+        {
+            "id": 945736,
+            "weight": 0.2179122199812843
+        },
+        {
+            "id": 891756,
+            "weight": 0.19773651941879253
+        },
+        {
+            "id": 891757,
+            "weight": 0.1976857761728135
+        },
+        {
+            "id": 945676,
+            "weight": 0.19634354126998604
+        },
+        {
+            "id": 945675,
+            "weight": 0.19634354126998604
+        },
+        {
+            "id": 891695,
+            "weight": 0.18221851523487742
+        }
+    ],
+    "videostarttime": {
+        "1153547": null
+    },
+    "videolink": null,
+    "keywords": {
+        "Raadsvoorstel Vaststellen": 1.9942475723085287,
+        "Vaststellen Begroting": 1.9942475723085287,
+        "Wethouder Lanschot": 0.9942475723085287,
+        "Lanschot zegt": 0.9830130098510689,
+        "Maatschappelijke infrastructuur": 1.9799127500673275,
+        "nadere toelichting": 0.9661075580628975,
+        "middelen beschikbaar": 0.9661075580628975,
+        "eerlijke manier": 0.9661075580628975,
+        "manier gecompenseerd": 0.9661075580628975,
+        "infrastructuur voldoende": 0.9631047221877411,
+        "Begroting": 1.9380026978816607,
+        "Wethouder": 0.9380026978816607,
+        "zegt": 0.8189436545351538,
+        "nadere": 0.8189436545351538,
+        "middelen": 0.8189436545351538,
+        "zorgen": 0.8189436545351538,
+        "voldoende": 0.8189436545351538,
+        "manier": 0.8189436545351538
+    },
+    "svz": "De raad heeft deze nadere toelichting op 3 november ontvangen.\nEn dit is in de raadsvergadering op 7 november...  Lees verder ",
+    "afgedaan": "14-11-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

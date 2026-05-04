@@ -1,0 +1,70 @@
+{
+    "module_id": 945675,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230019,
+    "title": "Immaterieel erfgoed beschermen - Raadsvoorstel Kadernota 2025",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/945675",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. van Lanschot (Wethouder)",
+    "result": "",
+    "date": "21-05-2024",
+    "meeting_url": {
+        "1147935": "https://raadsinformatie.eindhoven.nl/vergadering/1147935#ai_8359842"
+    },
+    "attachment": null,
+    "parent": 933747,
+    "children": [],
+    "text": "Wethouder Lanschot zegt toe om pramatisch onderzoek te doen.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": "a_9608059",
+            "weight": 0.8978976848464997
+        },
+        {
+            "id": 891756,
+            "weight": 0.1963742009830452
+        },
+        {
+            "id": 891752,
+            "weight": 0.19634354126998604
+        },
+        {
+            "id": 891757,
+            "weight": 0.19632380733591465
+        },
+        {
+            "id": 945676,
+            "weight": 0.1949908198465574
+        }
+    ],
+    "videostarttime": {
+        "1147935": 11473
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_21.05.24_NC_Eindhoven_Raad.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Kadernota": 1.9925553183866471,
+        "Wethouder Lanschot": 0.9873976398760466,
+        "Lanschot zegt": 0.955011371234592,
+        "Immaterieel erfgoed": 1.9505961599793435,
+        "erfgoed beschermen": 1.9505961599793435,
+        "Kadernota": 1.9140368224837343,
+        "Wethouder": 0.9140368224837344,
+        "pramatisch onderzoek": 0.9029960071342576,
+        "erfgoed": 1.702634417439785,
+        "zegt": 0.7026344174397849,
+        "pramatisch": 0.7026344174397849,
+        "onderzoek": 0.7026344174397849
+    },
+    "svz": null,
+    "afgedaan": "13-05-2025",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

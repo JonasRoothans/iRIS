@@ -1,0 +1,112 @@
+{
+    "module_id": 785553,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Raadsvoorstel ontheffen van een commissielid van de fractie PvdA als lid in de Meningsvormende vergadering",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/19/Raadsvoorstellen/785553",
+    "type": "Raadsvoorstel",
+    "member": null,
+    "party": null,
+    "poho": "",
+    "result": "Afgerond",
+    "date": "11-10-2022",
+    "meeting_url": {
+        "1013161": "https://raadsinformatie.eindhoven.nl/vergadering/1013161#ai_7090688"
+    },
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/11923450/1/Raadsvoorstel+ontheffing+commissielid+PvdA?connection_type=17&connection_id=8697810": "Raadsvoorstel ontheffing commissielid PvdA"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/11930337/1?connection_type=17&connection_id=8705625",
+    "pdf_text": " \n \n \n  \n   \n \n \n  gemeente Eindhoven  \nRaadsnummer   \nInboeknummer   \nDossiernummer      \n \nRaads voorstel    ontheffen  van een commissielid van de fractie  PvdA als lid \nin de Meningsvormende vergadering   \n \n \n \n  Raadsbesluit   \n \nDe raad van de gemeente Eindhoven;  \ngelet op het verzoek van de heer J. Hopstaken ; \ngelet op het bepaalde in de Gemeentewet;  \ngelet op het bepaalde in de  Verordening op de meningsvormende vergadering gemeente \nEindhoven  2018 ; \n \n \n \nbesluit:  \n \nOnderstaand commissielid te ontheffen van  zijn lidmaatschap van de Meningsvormende \nVergadering:  \n \nJ. Hopstaken . \n \nAldus vastgesteld in de openbare vergadering van 11 oktober 2022. \n \n \n \nJ. Jongbloed , griffier . \n \n \n ",
+    "bst": "",
+    "related": [
+        {
+            "id": 785769,
+            "weight": 1.3835509225174931
+        },
+        {
+            "id": 779516,
+            "weight": 0.9697464694879319
+        },
+        {
+            "id": 815434,
+            "weight": 0.23175888486551685
+        },
+        {
+            "id": 800580,
+            "weight": 0.21782633483015879
+        },
+        {
+            "id": 780932,
+            "weight": 0.08756500761354635
+        },
+        {
+            "id": 825873,
+            "weight": 0.08621589842392825
+        },
+        {
+            "id": 773075,
+            "weight": 0.07555315597539981
+        },
+        {
+            "id": 1022971,
+            "weight": 0.06136216301637506
+        },
+        {
+            "id": 776934,
+            "weight": 0.04971878811518383
+        },
+        {
+            "id": 933762,
+            "weight": 0.04897840722703797
+        }
+    ],
+    "videostarttime": {
+        "1013161": 813
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_11.10.22_Eindhoven_raad.mp4/playlist.m3u8",
+    "keywords": {
+        "Meningsvormende vergadering": 1.9972524054360574,
+        "Raadsnummer Inboeknummer": 0.9958649593301292,
+        "Dossiernummer Raads": 0.9946643429158876,
+        "gemeente Eindhoven": 0.9944625854310084,
+        "fractie PvdA": 1.9941951243310296,
+        "Eindhoven Raadsnummer": 0.9936489563212554,
+        "vergadering Raadsbesluit": 0.9910339060174967,
+        "Raads voorstel": 0.9870501405711776,
+        "vergadering": 1.9723042660285475,
+        "voorstel ontheffen": 1.9705909790438105,
+        "Eindhoven": 0.9672183724179995,
+        "Onderstaand commissielid": 0.9661970659691232,
+        "gelet": 0.9566043443736576,
+        "PvdA": 1.9464357584561163,
+        "lid": 1.9464357584561163,
+        "gemeente": 0.9446140083018465,
+        "commissielid": 1.9383934016964295,
+        "ontheffen": 1.9383934016964295,
+        "Inboeknummer": 0.9358282576158397,
+        "Raadsbesluit": 0.9358282576158397,
+        "Raads": 1.9172947664143396,
+        "Hopstaken": 0.8989828218378139,
+        "bepaalde": 0.852931568801467,
+        "verzoek": 0.845423270951374,
+        "heer": 0.845423270951374,
+        "Onderstaand": 0.8230835755731142,
+        "Jongbloed": 0.7615225736407699,
+        "oktober": 0.6818768626706764,
+        "lidmaatschap": 0.6116157868788298,
+        "vastgesteld": 0.6116157868788298,
+        "openbare": 0.6116157868788298,
+        "griffier": 0.5953375785888835
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": "10-04-2026",
+    "meeting_id": []
+}

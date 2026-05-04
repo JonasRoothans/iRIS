@@ -1,0 +1,133 @@
+{
+    "module_id": 884801,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230022,
+    "title": "Resultaten eerste ETHOS telling bekend Iedereen telt mee! (Vraag V3 vragenhalfuur)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/884801",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Toub (Wethouder)",
+    "result": "",
+    "date": "10-10-2023",
+    "meeting_url": {
+        "1013519": "https://raadsinformatie.eindhoven.nl/vergadering/1013519#ai_6965123"
+    },
+    "attachment": null,
+    "parent": "ai_6965123",
+    "children": [],
+    "text": "Wethouder Toub zegt toe de raad informatie te sturen met een uitsplitsing van het aantal daklozen in Eindhoven zoals benoemd in de door dhr. Rennenberg gestelde vragen tijdens het vragenhalfuur (volwassenen, kinderen etc.).",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 13305635,
+            "weight": 7.652578409912344
+        },
+        {
+            "id": 926421,
+            "weight": 1.0488069707126835
+        },
+        {
+            "id": 878954,
+            "weight": 0.7737836541414602
+        },
+        {
+            "id": 12527374,
+            "weight": 0.7642076987630994
+        },
+        {
+            "id": 12866052,
+            "weight": 0.716656121671451
+        },
+        {
+            "id": 1003503,
+            "weight": 0.4175106635454616
+        },
+        {
+            "id": 1090088,
+            "weight": 0.4169434583074134
+        },
+        {
+            "id": 976801,
+            "weight": 0.30047961705558884
+        },
+        {
+            "id": 930155,
+            "weight": 0.20482886941774592
+        },
+        {
+            "id": 1116686,
+            "weight": 0.19170775149459743
+        },
+        {
+            "id": 12865589,
+            "weight": 0.17431099492366056
+        },
+        {
+            "id": 844066,
+            "weight": 0.14927334616299828
+        },
+        {
+            "id": 1007610,
+            "weight": 0.13611308132321306
+        },
+        {
+            "id": 1090156,
+            "weight": 0.07613201496270883
+        },
+        {
+            "id": 1090160,
+            "weight": 0.0732384361476535
+        },
+        {
+            "id": 977747,
+            "weight": 0.0724556066416349
+        },
+        {
+            "id": 775257,
+            "weight": 0.061590840698657105
+        },
+        {
+            "id": 1036434,
+            "weight": 0.05415004291221335
+        }
+    ],
+    "videostarttime": {
+        "1013519": 1511
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_10.10.23_NC_Eindhoven_Raa.mp4/playlist.m3u8",
+    "keywords": {
+        "ETHOS telling": 1.9729687172003272,
+        "bekend Iedereen": 1.9729687172003272,
+        "Iedereen telt": 1.9729687172003272,
+        "telt mee": 1.9601133000369915,
+        "telling bekend": 1.935228036752451,
+        "Wethouder Toub": 0.9319846086575276,
+        "ETHOS": 1.8932868948805637,
+        "Vraag": 1.8680639689138205,
+        "Resultaten": 1.844483363133302,
+        "mee": 1.844483363133302,
+        "Toub zegt": 0.8151387462176294,
+        "vragenhalfuur": 1.7923200816915499,
+        "bekend": 1.753359025966584,
+        "telt": 1.753359025966584,
+        "volwassenen": 0.7071391278009544,
+        "Toub": 0.706765481999571,
+        "Eindhoven": 0.706765481999571,
+        "kinderen etc.": 0.6967819547144045,
+        "dhr": 0.609910185628769,
+        "raad informatie": 0.6051221325965328,
+        "aantal daklozen": 0.6051221325965328,
+        "Rennenberg gestelde": 0.5698192801526019,
+        "etc.": 0.5176425624081902
+    },
+    "svz": null,
+    "afgedaan": "09-04-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

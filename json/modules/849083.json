@@ -1,0 +1,130 @@
+{
+    "module_id": 849083,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230014,
+    "title": "Wilhelminaplein participatie-proces  - Raadsvoorstel Uitvoeringsstrategie Groenplan Centrum",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/849083",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "R. Thijs (Wethouder)",
+    "result": "",
+    "date": "16-05-2023",
+    "meeting_url": {
+        "1096270": "https://raadsinformatie.eindhoven.nl/vergadering/1096270#ai_7591381"
+    },
+    "attachment": null,
+    "parent": 833084,
+    "children": [],
+    "text": "Wethouder Thijs gaat in op de geadresseerde punten en zegt daarbij toe dat:\n\nHet ontwerp van het Wilhelminaplein na het participatie-proces met de raad te gaan delen.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 849282,
+            "weight": 2.845079907163982
+        },
+        {
+            "id": 833084,
+            "weight": 1.702798362343514
+        },
+        {
+            "id": 851989,
+            "weight": 0.829132865491382
+        },
+        {
+            "id": 1046515,
+            "weight": 0.8114711273471328
+        },
+        {
+            "id": 850611,
+            "weight": 0.46148677177630215
+        },
+        {
+            "id": 1037352,
+            "weight": 0.4291428695158421
+        },
+        {
+            "id": 849289,
+            "weight": 0.3653904470113769
+        },
+        {
+            "id": 849081,
+            "weight": 0.3651315919190012
+        },
+        {
+            "id": 850152,
+            "weight": 0.24692214194730322
+        },
+        {
+            "id": 850149,
+            "weight": 0.246909407471892
+        },
+        {
+            "id": 1021189,
+            "weight": 0.22480407939509586
+        },
+        {
+            "id": 914011,
+            "weight": 0.16431269868467638
+        },
+        {
+            "id": 1009635,
+            "weight": 0.14234684378776458
+        },
+        {
+            "id": 779484,
+            "weight": 0.12159522119477714
+        },
+        {
+            "id": 831137,
+            "weight": 0.12120914512086482
+        },
+        {
+            "id": 779485,
+            "weight": 0.1207029810196755
+        },
+        {
+            "id": 953040,
+            "weight": 0.12034087589074895
+        },
+        {
+            "id": 1009558,
+            "weight": 0.11407112601035825
+        }
+    ],
+    "videostarttime": {
+        "1096270": 662
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_16.05.23_NC_EINDHOVEN_CIE.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Uitvoeringsstrategie": 1.996211771781111,
+        "Uitvoeringsstrategie Groenplan": 1.994771750464896,
+        "Groenplan Centrum": 1.994771750464896,
+        "Centrum Wethouder": 0.9947717504648961,
+        "Wethouder Thijs": 0.9947717504648961,
+        "Thijs gaat": 0.9902730002011461,
+        "gaan delen": 0.9878582154526042,
+        "geadresseerde punten": 0.9818332532750705,
+        "zegt daarbij": 0.9818332532750705,
+        "Wilhelminaplein participatie-proces": 1.9784248827407867,
+        "Raadsvoorstel": 1.9476703023722708,
+        "Wilhelminaplein": 1.9401711161444517,
+        "Centrum": 1.9278816451194083,
+        "Thijs": 0.9278816451194083,
+        "delen": 0.9101926169182205,
+        "gaat": 0.8664237871272619,
+        "punten": 0.8664237871272619,
+        "zegt": 0.8664237871272619,
+        "ontwerp": 0.8664237871272619,
+        "raad": 0.8664237871272619
+    },
+    "svz": "Deze toezegging is aangevuld/aangescherpt bij raadsbehandeling.\nVoorstel college: deze afspraak afvoeren...  Lees verder ",
+    "afgedaan": "13-06-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

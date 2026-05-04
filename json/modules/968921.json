@@ -1,0 +1,63 @@
+{
+    "module_id": 968921,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230013,
+    "title": "Nadere toelichting - Raadsvoorstel Gewijzigde vaststelling bestemmingsplan ‘IV Emmasingelkwadrant-Fellenoord 2013 (Vonderpark Kwartier)’",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/968921",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Steenbakkers (Wethouder)",
+    "result": "",
+    "date": "03-09-2024",
+    "meeting_url": {
+        "1148042": "https://raadsinformatie.eindhoven.nl/vergadering/1148042#ai_8617194"
+    },
+    "attachment": null,
+    "parent": 958155,
+    "children": [],
+    "text": "Wethouder Steenbakkers zegt toe dat er een nadere toelichting volgt over de aantallen die in het raadsvoorstel staan.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 958155,
+            "weight": 2.6162514135136576
+        },
+        {
+            "id": 903373,
+            "weight": 2.56818243803633
+        }
+    ],
+    "videostarttime": {
+        "1148042": 16720
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_03.09.24_NC-EINDHOVEN-meningsvormingvoorbereiding.mp4/playlist.m3u8",
+    "keywords": {
+        "Vonderpark Kwartier": 1.9959829386801204,
+        "Wethouder Steenbakkers": 0.9940305405218103,
+        "Raadsvoorstel Gewijzigde": 1.9834791116657975,
+        "Gewijzigde vaststelling": 1.9821278527973845,
+        "Steenbakkers zegt": 0.9821278527973843,
+        "vaststelling bestemmingsplan": 1.9780678801779359,
+        "Nadere toelichting": 1.977873832834832,
+        "toelichting volgt": 0.9599275465413706,
+        "Kwartier": 1.936746627747451,
+        "Wethouder": 0.936746627747451,
+        "Gewijzigde": 1.9061862430964,
+        "Nadere": 1.8970715650248648,
+        "Emmasingelkwadrant-Fellenoord": 1.8853321719593765,
+        "staan": 0.8853321719593765,
+        "zegt": 0.8128383031389147,
+        "volgt": 0.8128383031389147,
+        "aantallen": 0.8128383031389147
+    },
+    "svz": "De toelichting is op 6 sept 2024 toevoegd aan het raadsdossier stukken op het RIS. Het raadsvoorstel is op 10 ...  Lees verder ",
+    "afgedaan": "19-09-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

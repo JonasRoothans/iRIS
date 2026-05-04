@@ -1,0 +1,146 @@
+{
+    "module_id": 780932,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Raadsvoorstel benoemen commissielid van de fractie SP als lid in de Meningsvormende vergadering",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/19/Raadsvoorstellen/780932",
+    "type": "Raadsvoorstel",
+    "member": null,
+    "party": null,
+    "poho": "",
+    "result": "Afgerond",
+    "date": "21-09-2022",
+    "meeting_url": {
+        "1013082": "https://raadsinformatie.eindhoven.nl/vergadering/1013082#ai_7033497"
+    },
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/11841345/1/Raadsvoorstel+benoeming+commissielid+fractie+SP?connection_type=17&connection_id=8639761": "Raadsvoorstel benoeming commissielid fractie SP",
+        "http://raadsinformatie.eindhoven.nl/document/11843236/1?connection_type=16&connection_id=780932": " Advies geloofsbrievencommissie benoemen commissielid F. Achhoud en A. Paauw "
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/11868855/1?connection_type=17&connection_id=8656165",
+    "pdf_text": " \n \n \n  \n   \n \n \n  gemeente Eindhoven  \nRaadsnummer   \nInboeknummer   \nDossiernummer      \n \nRaads voorstel    benoemen commissiel id van de fractie  SP als lid in de \nMeningsvormende vergadering  \n \n \n \n \n   Raadsbesluit   \n \nDe raad van de gemeente Eindhoven;  \ngelet op de voordracht van de fractie  SP; \ngelet op het bepaalde in de Gemeentewet;  \ngelet op het advies van de Geloofsbrievencommissie;  \ngelet op het bepaalde in de  Verordening op de meningsvormende vergadering gemeente \nEindhoven  2018 ; \n \nbesluit:  \n \nOnderstaand commissiel eden te benoemen als lid van de Meningsvormende \nVergadering:  \n \nA. Paauw  \n \n \nAldus vastgesteld in de openbare vergadering van 21 september  2022 . \n \n \n \n \nJ. Jongbloed , griffier . \n \n \n ",
+    "bst": "",
+    "related": [
+        {
+            "id": 825873,
+            "weight": 3.6825957834336585
+        },
+        {
+            "id": 780938,
+            "weight": 1.1174519092259811
+        },
+        {
+            "id": 1105348,
+            "weight": 0.39861535391835634
+        },
+        {
+            "id": 785769,
+            "weight": 0.34512983945854764
+        },
+        {
+            "id": 779516,
+            "weight": 0.22342187153152174
+        },
+        {
+            "id": 773075,
+            "weight": 0.20972425541348294
+        },
+        {
+            "id": 996073,
+            "weight": 0.12367329163273388
+        },
+        {
+            "id": 1115756,
+            "weight": 0.12310092579632025
+        },
+        {
+            "id": 858662,
+            "weight": 0.11645062156680783
+        },
+        {
+            "id": 899976,
+            "weight": 0.11522381495326549
+        },
+        {
+            "id": 820785,
+            "weight": 0.11207434658426761
+        },
+        {
+            "id": 891084,
+            "weight": 0.110821220778874
+        },
+        {
+            "id": 1087045,
+            "weight": 0.11078417775540805
+        },
+        {
+            "id": 1008940,
+            "weight": 0.11023374440611008
+        },
+        {
+            "id": 785553,
+            "weight": 0.08756500761354635
+        },
+        {
+            "id": 1022971,
+            "weight": 0.07138153588250389
+        },
+        {
+            "id": 776934,
+            "weight": 0.05783700057854083
+        },
+        {
+            "id": 933762,
+            "weight": 0.05697572838186485
+        }
+    ],
+    "videostarttime": {
+        "1013082": 901
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_21.09.22_NC_EINDHOVEN_RAA.mp4/playlist.m3u8",
+    "keywords": {
+        "Meningsvormende vergadering": 1.9995916272393588,
+        "gemeente Eindhoven": 0.9992023514712739,
+        "vergadering gemeente": 0.9983348308245767,
+        "Eindhoven Raadsnummer": 0.9982105723456232,
+        "Raadsnummer Inboeknummer": 0.9978059591715905,
+        "Dossiernummer Raads": 0.9972308389037466,
+        "Onderstaand commissiel": 0.9964614068745077,
+        "Raads voorstel": 0.9950855865305817,
+        "commissiel eden": 0.9930812569525721,
+        "benoemen commissielid": 1.9929473505157236,
+        "voorstel benoemen": 1.9929473505157236,
+        "gelet": 0.9894010815545058,
+        "Eindhoven": 0.9872746422222697,
+        "fractie": 1.9814032705413491,
+        "lid": 1.9791559401922476,
+        "gemeente": 0.9791559401922475,
+        "benoemen": 1.9718267428406555,
+        "bepaalde": 0.9666588145180447,
+        "Geloofsbrievencommissie": 0.9574787930535152,
+        "Onderstaand": 0.9574787930535152,
+        "Jongbloed": 0.9574787930535152,
+        "Inboeknummer": 0.9532107111419967,
+        "Raadsbesluit": 0.9532107111419967,
+        "Verordening": 0.9532107111419967,
+        "Paauw": 0.9532107111419967,
+        "Raads": 1.9409797822008854,
+        "september": 0.9353043678108641,
+        "griffier": 0.9353043678108641,
+        "voordracht": 0.9171405951747966,
+        "advies": 0.9171405951747966,
+        "eden": 0.9171405951747966,
+        "vastgesteld": 0.9171405951747966,
+        "openbare": 0.9171405951747966
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": "10-04-2026",
+    "meeting_id": []
+}

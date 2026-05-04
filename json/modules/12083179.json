@@ -1,0 +1,152 @@
+{
+    "module_id": 12083179,
+    "vote_id": null,
+    "member_id": [
+        194503
+    ],
+    "party_list": [
+        "PvdA"
+    ],
+    "poho_id": [],
+    "title": "Rondvraag PvdA Snelfietspad Helmond - Eindhoven",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "22-11-2022",
+    "meeting_url": {
+        "1039912": "https://raadsinformatie.eindhoven.nl/vergadering/1013584/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://api.notubiz.nl/document/12083179/1",
+    "pdf_text": "  \n \nRond vraag snelfietspad Helmond - Eindhoven  \nHet snelfietspad tussen Helmond en Eindhoven is de afgelopen jaren al verschillende malen hier in \nde raad besproken. Keer op keer kr egen we slecht nieuws: uitstel van oplevering. Ook nu weer is er \ngebleken uit antwoorden op vragen van de statenfractie van de PvdA dat we pas op zijn vroegst in \n2024 van het gehele traject kunnen genieten.  Wat dus wederom tot uitstel van een jaar zorgt. \nHoewel de grootste opgave nog in Nuenen ligt is ook het traject in  Eindhoven nog niet af.  \nBij de PvdA zien wij het snelfietspad als broodnodig voor onze grote ambitie met betrekking tot de \nmobiliteitsambitie  en ook als een belangrijk onderdeel in de uitvoering van  Fiets op 1 . Wij zijn dan \nook niet blij met deze nieuwe ve rtraging. Vandaar de volgende vraag : \n1. Wat gaat het  college doen om ervoor te zorgen dat het traject in Nuenen zonder verdere \nvertraging ook wordt gerealiseerd?  \nFlorian Lambert  \nCommissielid PvdA  \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 856439,
+            "weight": 0.9551233515533939
+        },
+        {
+            "id": 11753466,
+            "weight": 0.9464004924301351
+        },
+        {
+            "id": 12755170,
+            "weight": 0.4322319265203017
+        },
+        {
+            "id": 928345,
+            "weight": 0.3081908425492339
+        },
+        {
+            "id": 936165,
+            "weight": 0.23272625664773983
+        },
+        {
+            "id": 948371,
+            "weight": 0.21561180103572755
+        },
+        {
+            "id": 776897,
+            "weight": 0.21201144177179784
+        },
+        {
+            "id": 1027571,
+            "weight": 0.20011035525469203
+        },
+        {
+            "id": 890080,
+            "weight": 0.15785775138207436
+        },
+        {
+            "id": 16532271,
+            "weight": 0.13562408071901863
+        },
+        {
+            "id": 926103,
+            "weight": 0.10645286729092834
+        },
+        {
+            "id": 943161,
+            "weight": 0.10643507976775239
+        },
+        {
+            "id": 822455,
+            "weight": 0.10404318575443836
+        },
+        {
+            "id": 12077315,
+            "weight": 0.08217850659006701
+        },
+        {
+            "id": 984201,
+            "weight": 0.07382671368255109
+        },
+        {
+            "id": 1115591,
+            "weight": 0.06811513086073294
+        },
+        {
+            "id": 858298,
+            "weight": 0.06800736875452877
+        },
+        {
+            "id": 862409,
+            "weight": 0.0637078146592604
+        },
+        {
+            "id": 911491,
+            "weight": 0.06113139903502967
+        },
+        {
+            "id": 783640,
+            "weight": 0.04921201853045484
+        }
+    ],
+    "videostarttime": {
+        "1039912": 2345
+    },
+    "videolink": null,
+    "keywords": {
+        "Snelfietspad Helmond": 1.9901563834268297,
+        "Helmond": 1.981127327477941,
+        "raad besproken": 0.9679716992442562,
+        "verschillende malen": 0.9623222618551053,
+        "Eindhoven": 1.9396114678672898,
+        "Rondvraag PvdA": 1.9202411650383115,
+        "PvdA": 1.8866136135666016,
+        "traject": 0.854375267090701,
+        "Nuenen": 0.8358963289803333,
+        "PvdA Snelfietspad": 1.8170410673867203,
+        "jaren": 0.8094490308676375,
+        "raad": 0.8094490308676375,
+        "Keer": 0.8068301088061206,
+        "uitstel": 0.7926034671389589,
+        "Lambert Commissielid": 0.7882740636790052,
+        "slecht nieuws": 0.7784291349162353,
+        "Commissielid PvdA": 0.7660631290064079,
+        "gehele traject": 0.6885330726337866,
+        "Florian Lambert": 0.6316181367164688,
+        "Fiets": 0.6245241234232329,
+        "nieuws": 0.5967681173481767,
+        "oplevering": 0.5967681173481767,
+        "PvdA zien": 0.5847254830052333,
+        "Lambert": 0.5819917732304836,
+        "egen": 0.5501796245309557,
+        "slecht": 0.5501796245309557,
+        "jaar zorgt": 0.519631933345682,
+        "genieten": 0.5039203427767687
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194503,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1039912
+    ]
+}

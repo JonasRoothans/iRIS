@@ -1,0 +1,121 @@
+{
+    "module_id": 1049621,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230024,
+    "title": "Raadsvoorstel Ontwerpbegroting 2026 en meerjarenbegroting 2027 2029 GRWRE Ergon",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1049621",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Lammers (Wethouder)",
+    "result": "",
+    "date": "27-05-2025",
+    "meeting_url": {
+        "1256611": "https://raadsinformatie.eindhoven.nl/vergadering/1256611#ai_9267564"
+    },
+    "attachment": null,
+    "parent": 1034728,
+    "children": [
+        "a_9414495"
+    ],
+    "text": "Wethouder Lammers beantwoordt de vragen en zegt toe:\nde raad na de zomer te informeren over de brede financiële meerjarenstrategie sociaal domein (waaronder Ergon).",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 836579,
+            "weight": 0.8226376151049642
+        },
+        {
+            "id": 939062,
+            "weight": 0.822445953271961
+        },
+        {
+            "id": 1034728,
+            "weight": 0.8081854508650765
+        },
+        {
+            "id": "r_7006015",
+            "weight": 0.44289053171221593
+        },
+        {
+            "id": 1037345,
+            "weight": 0.4407173433797453
+        },
+        {
+            "id": 1052631,
+            "weight": 0.3335504317904925
+        },
+        {
+            "id": 953024,
+            "weight": 0.2472216274101959
+        },
+        {
+            "id": 1124227,
+            "weight": 0.24632502076486015
+        },
+        {
+            "id": 953021,
+            "weight": 0.2461789541281658
+        },
+        {
+            "id": "a_9416484",
+            "weight": 0.21355282655517027
+        },
+        {
+            "id": 865473,
+            "weight": 0.18145893181182104
+        },
+        {
+            "id": 882823,
+            "weight": 0.1591829562306674
+        },
+        {
+            "id": 975511,
+            "weight": 0.15144564629317186
+        },
+        {
+            "id": 1112893,
+            "weight": 0.12427081595837233
+        }
+    ],
+    "videostarttime": {
+        "1256611": 13055
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/27.05.25 Eindhoven meningsvorming Raadzaal.mp4/playlist.m3u8",
+    "keywords": {
+        "GRWRE Ergon": 1.9967451091507342,
+        "Raadsvoorstel Ontwerpbegroting": 1.9965116550758328,
+        "Wethouder Lammers": 0.9963505681708413,
+        "Ergon Wethouder": 0.9957289048134043,
+        "Lammers beantwoordt": 0.9936086308377367,
+        "sociaal domein": 0.991977229642248,
+        "brede financiële": 0.9887835633880929,
+        "financiële meerjarenstrategie": 0.9887835633880929,
+        "meerjarenstrategie sociaal": 0.9887835633880929,
+        "Ergon": 1.9647355848670927,
+        "GRWRE": 1.953999933161242,
+        "Lammers": 0.9396994037826354,
+        "Raadsvoorstel": 1.9244301386216662,
+        "meerjarenbegroting": 1.9244301386216662,
+        "domein": 0.9244301386216663,
+        "waaronder": 0.9244301386216663,
+        "vragen": 0.8946813234419382,
+        "zegt": 0.8946813234419382,
+        "raad": 0.8946813234419382,
+        "zomer": 0.8946813234419382,
+        "informeren": 0.8946813234419382,
+        "brede": 0.8946813234419382,
+        "sociaal": 0.8946813234419382
+    },
+    "svz": null,
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": [
+        1256611
+    ]
+}

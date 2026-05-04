@@ -1,0 +1,181 @@
+{
+    "module_id": 12482207,
+    "vote_id": null,
+    "member_id": [
+        1
+    ],
+    "party_list": [
+        "D66"
+    ],
+    "poho_id": [],
+    "title": "Rondvraag D66 Ons huis jouw OZB-aanslag",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "07-03-2023",
+    "meeting_url": {
+        "1079006": "https://raadsinformatie.eindhoven.nl/vergadering/1013468/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://api.notubiz.nl/document/12482207/1",
+    "pdf_text": " \nRondvraag : Ons huis, jouw OZB -aanslag?  \n \nBeste voorzitter,  \n \nEr bereikten D66 een aantal signalen van inwoners over de OZB -aanslag  (Onroerend \nZaak Belasting voor bezitters van een woning) . \n \nHet gaat om m ensen die met zijn tweeën een huis hebben gekocht en waarbij het huis \ndus op naam van beide bewoners/partners/echtgenoten staat . Deze mensen kregen een \nOZB-aanslag van de gemeente in hun berichtenbox op MijnOverheid , geadresseerd aan \nslecht één van beide bewoners/partners/echtgenoten.  \n \nDe bewoner aan wie het geadresseerd is moet inloggen met diens Dig iD om de aanslag \nte kunnen zien. Als de geadresseerde  het achterliggende taxatierapport wil zien waarop \nde aanslag gebaseerd is, moeten ze nogmaals inloggen op de gemeentelijke website, \nook met  hun Dig iD.  \nDe bewoner aan wie de OZB -aanslag niet geadresseerd  is, kan deze handeling niet \nuitvoeren mijn diens eigen Dig iD, terwijl deze wel mede -eigenaar van het huis is . Zowel \nde OZB -aanslag op MijnOverheid als het taxatierapport van de gemeente zijn dus niet \nzichtbaar op hun Dig iD. \n \nDit leidt bij ons tot de volgende vragen  aan het college : \n \n1. Bent u het met D66 eens dat een OZB -aanslag aan slechts één van de twee \nhuizenbezitters geen recht doet aan de feitelijke situatie?  En niet meer van \ndeze tijd is?  \n \n2. Is de wethouder bereid dit aan te kaarten in de gemeentelijke organisatie, \nzodat de aanslag van 2024 wél aan beide huizenbezitters kan worden \ngeadresseerd?    \n \n \nTom Brouwers  \nRaadslid  D66 Eindhoven  \n \n \n ",
+    "bst": null,
+    "related": [
+        {
+            "id": 12804676,
+            "weight": 0.8640775829565644
+        },
+        {
+            "id": 826533,
+            "weight": 0.7021404965567875
+        },
+        {
+            "id": 15119089,
+            "weight": 0.373027853026342
+        },
+        {
+            "id": 13128010,
+            "weight": 0.3177263767385785
+        },
+        {
+            "id": 1076209,
+            "weight": 0.2461780287222655
+        },
+        {
+            "id": 15091771,
+            "weight": 0.15414889380768576
+        },
+        {
+            "id": 926529,
+            "weight": 0.12215612659221915
+        },
+        {
+            "id": 977747,
+            "weight": 0.1215382355091192
+        },
+        {
+            "id": 1112871,
+            "weight": 0.10385466991889343
+        },
+        {
+            "id": 866937,
+            "weight": 0.0962426129238317
+        },
+        {
+            "id": 11753464,
+            "weight": 0.07201229276028628
+        },
+        {
+            "id": 15004793,
+            "weight": 0.05922812597930695
+        },
+        {
+            "id": 1074243,
+            "weight": 0.05715474647957217
+        },
+        {
+            "id": 882851,
+            "weight": 0.05636112901857041
+        },
+        {
+            "id": 14072820,
+            "weight": 0.04987767973786093
+        },
+        {
+            "id": 12503815,
+            "weight": 0.046294514881329754
+        },
+        {
+            "id": 1085541,
+            "weight": 0.042091939877356516
+        },
+        {
+            "id": 1046837,
+            "weight": 0.03665902296594178
+        },
+        {
+            "id": 1022334,
+            "weight": 0.03602212653353511
+        },
+        {
+            "id": 16361107,
+            "weight": 0.03476695527165657
+        },
+        {
+            "id": 849353,
+            "weight": 0.030879093228834524
+        },
+        {
+            "id": 1007170,
+            "weight": 0.029934072721778657
+        },
+        {
+            "id": 14478397,
+            "weight": 0.029634165146949457
+        }
+    ],
+    "videostarttime": {
+        "1079006": 957
+    },
+    "videolink": null,
+    "keywords": {
+        "OZB-aanslag Rondvraag": 0.9795743752913018,
+        "OZB": 1.9715588865951965,
+        "Rondvraag": 1.9632248259026326,
+        "aanslag": 1.9623133080829813,
+        "Onroerend Zaak": 0.9584157794182615,
+        "Zaak Belasting": 0.9559096890960459,
+        "Dig": 0.952662449714759,
+        "huis": 1.949643846194454,
+        "geadresseerd": 0.9048457394900545,
+        "partners": 0.857527619927952,
+        "bewoners": 0.8527336206418665,
+        "echtgenoten": 0.8338291867661625,
+        "Brouwers Raadslid": 0.7975838963757153,
+        "Zaak": 0.7945043902948236,
+        "gemeente": 0.7773496297703973,
+        "MijnOverheid": 0.7773496297703973,
+        "aanslag gebaseerd": 0.7732658224235052,
+        "één": 0.770053970660715,
+        "inloggen": 0.7652430545879075,
+        "zien": 0.7652430545879075,
+        "Beste voorzitter": 0.7553992869039824,
+        "taxatierapport": 0.7450769223797546,
+        "slecht één": 0.731768047039148,
+        "aantal signalen": 0.716249454683018,
+        "mensen kregen": 0.716249454683018,
+        "huizenbezitters": 0.709744399527239,
+        "Zowel": 0.670485773136499,
+        "Eindhoven": 0.6159461649458354,
+        "Raadslid": 0.5981022305403016,
+        "zien waarop": 0.5958396936798354,
+        "nogmaals inloggen": 0.5958396936798354,
+        "Tom Brouwers": 0.594022721590245,
+        "Beste": 0.5566835603624299,
+        "bereikten": 0.5566835603624299,
+        "woning": 0.5566835603624299,
+        "staat": 0.5566835603624299,
+        "achterliggende taxatierapport": 0.545336317200952,
+        "gemeentelijke website": 0.5435554699537509,
+        "ensen": 0.5298591026960107,
+        "tweeën": 0.5298591026960107,
+        "gekocht": 0.5298591026960107,
+        "waarbij": 0.5298591026960107,
+        "naam": 0.5298591026960107,
+        "kregen": 0.5298591026960107,
+        "berichtenbox": 0.5298591026960107
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 1,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1079006
+    ]
+}

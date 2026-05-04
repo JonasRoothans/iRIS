@@ -1,0 +1,115 @@
+{
+    "module_id": 1045691,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 248564,
+    "title": "Verkeer op de Tongelresestraat - Raadsvoorstel Verkeerscirculatieplan Eindhoven binnen de Ring en Verbeterplan Ring",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1045691",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "R. Strijk (Wethouder)",
+    "result": "",
+    "date": "13-05-2025",
+    "meeting_url": {
+        "1256605": "https://raadsinformatie.eindhoven.nl/vergadering/1256605#ai_9271218"
+    },
+    "attachment": null,
+    "parent": 1035304,
+    "children": [],
+    "text": "Wethouder Strijk zegt toe dat er een significante daling zal komen van verkeer op de Tongelresestraat.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1045686,
+            "weight": 0.5666486780135502
+        },
+        {
+            "id": 1045682,
+            "weight": 0.5665005888520421
+        },
+        {
+            "id": 1045703,
+            "weight": 0.5664664978602151
+        },
+        {
+            "id": 1045698,
+            "weight": 0.5664553083209243
+        },
+        {
+            "id": 1045701,
+            "weight": 0.5663772785419197
+        },
+        {
+            "id": 1045674,
+            "weight": 0.5651645752099239
+        },
+        {
+            "id": 1045676,
+            "weight": 0.5641990330872755
+        },
+        {
+            "id": 1133037,
+            "weight": 0.49014486715033806
+        },
+        {
+            "id": 790619,
+            "weight": 0.4810447909710679
+        },
+        {
+            "id": 1035304,
+            "weight": 0.23558815140033074
+        },
+        {
+            "id": 15912198,
+            "weight": 0.22774694802693926
+        },
+        {
+            "id": 1045922,
+            "weight": 0.22105022509513705
+        },
+        {
+            "id": 1048223,
+            "weight": 0.20866920513061438
+        },
+        {
+            "id": "a_8288827",
+            "weight": 0.14097179529332446
+        },
+        {
+            "id": 1149035,
+            "weight": 0.12734992994683028
+        }
+    ],
+    "videostarttime": {
+        "1256605": 628
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_13.05.25_NC_01-EINDHOVEN-RAA.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Verkeerscirculatieplan": 1.996003686905849,
+        "Verkeerscirculatieplan Eindhoven": 1.9945028675801522,
+        "Wethouder Strijk": 0.9945028675801522,
+        "Verbeterplan Ring": 1.9930416931432648,
+        "Ring Wethouder": 0.9930416931432647,
+        "Strijk zegt": 0.9895430428873434,
+        "significante daling": 0.9800192573215524,
+        "Tongelresestraat": 1.9788506941022397,
+        "Ring": 1.9532712233831024,
+        "Raadsvoorstel": 1.946166860671362,
+        "Verkeer": 1.9272856804094287,
+        "Eindhoven": 1.9260603005027346,
+        "zegt": 0.8600381007148484,
+        "daling": 0.8600381007148484,
+        "komen": 0.8600381007148484
+    },
+    "svz": null,
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": [
+        1256605
+    ]
+}

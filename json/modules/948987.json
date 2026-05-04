@@ -1,0 +1,85 @@
+{
+    "module_id": 948987,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230013,
+    "title": "Voorlopig Ontwerp Stedenbouwkundig Plan (VOSP) - Raadsvoorstel Intentieovereenkomst vestiging van ASML op BIC Noord",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/948987",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Steenbakkers (Wethouder)",
+    "result": "",
+    "date": "04-06-2024",
+    "meeting_url": {
+        "1147940": "https://raadsinformatie.eindhoven.nl/vergadering/1147940#ai_8430554"
+    },
+    "attachment": null,
+    "parent": 937473,
+    "children": [],
+    "text": "Wethouder Steenbakkers zegt toe het Voorlopig Ontwerp Stedenbouwkundig Plan (VOSP) voor wensen en bedenkingen naar de raad te brengen.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 949613,
+            "weight": 1.4874515815936338
+        },
+        {
+            "id": 948986,
+            "weight": 1.4861844158042365
+        },
+        {
+            "id": 948989,
+            "weight": 1.4856693091648223
+        },
+        {
+            "id": 948991,
+            "weight": 1.482816133767394
+        },
+        {
+            "id": 949263,
+            "weight": 0.24372304423356422
+        },
+        {
+            "id": 949454,
+            "weight": 0.23426920043917485
+        },
+        {
+            "id": 949456,
+            "weight": 0.20486025479015102
+        }
+    ],
+    "videostarttime": {
+        "1147940": 19757
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_04.06.24_Eindhoven_meningCK.mp4/playlist.m3u8",
+    "keywords": {
+        "Stedenbouwkundig Plan": 1.9980303978149798,
+        "Ontwerp Stedenbouwkundig": 1.9970325219384284,
+        "Voorlopig Ontwerp": 1.9945969584218672,
+        "Raadsvoorstel Intentieovereenkomst": 1.993847610332295,
+        "BIC Noord": 1.9908731145840193,
+        "Noord Wethouder": 0.9908731145840193,
+        "Wethouder Steenbakkers": 0.9908731145840193,
+        "VOSP": 1.9863073415441352,
+        "Intentieovereenkomst vestiging": 1.9813654284993234,
+        "Steenbakkers zegt": 0.9813654284993235,
+        "Plan": 1.9744584471733484,
+        "Ontwerp": 1.9615944657740938,
+        "Raadsvoorstel": 1.9357028592621113,
+        "ASML": 1.9048982714544986,
+        "BIC": 1.9048982714544986,
+        "brengen": 0.881855333256557,
+        "vestiging": 1.8076409655801426,
+        "zegt": 0.8076409655801425,
+        "raad": 0.8076409655801425
+    },
+    "svz": "Op 19 nov 2024 heeft de wethouder aan de raad laten weten dat in Q1 behandeling van de Anterieure Overeenkomst...  Lees verder ",
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

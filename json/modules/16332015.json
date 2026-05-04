@@ -1,0 +1,147 @@
+{
+    "module_id": 16332015,
+    "vote_id": null,
+    "member_id": [
+        194370
+    ],
+    "party_list": [
+        "Eindhoven voor Elkaar"
+    ],
+    "poho_id": [],
+    "title": "Rondvraag 3 - KPI's Knoop XL (EVE)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "04-12-2025",
+    "meeting_url": {
+        "1409853": "https://raadsinformatie.eindhoven.nl/vergadering/1409852/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://api.notubiz.nl/document/16332015/1",
+    "pdf_text": " \n \n \nRondvraag   \nKPI’s Knoop XL  \n \n \nEindhoven, 9 december 2025  \n \n \nTijdens de behandeling van het woondebat is herhaaldelijk gezegd dat de KPI’s \nvan KnoopXL  eens per raadsperiode herijkt worden en dat hier een uitspraak van \nde Raad onder ligt. In een toegezonden toelichting werd hiervoor verwezen naar \nde motie \"terugkijken om vooruit te kijken\". Deze motie heeft echter geen enkele \nbetrekking op een automatisc he herijking van KPI’s, indien een college de KPI’s \nom wat voor reden dan ook wil herzien kan het hiervoor altijd een voorstel doen, \nmaar er is geen sprake van een automatisch moment eens in de 4 jaar. Kan de \nwethouder dit bevestigen?  \n \nLid van de raad,  \nTjeerd Ritmeester EVE  \n \n \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 854654,
+            "weight": 0.2756847455574535
+        },
+        {
+            "id": 882885,
+            "weight": 0.27332979637513405
+        },
+        {
+            "id": 926404,
+            "weight": 0.19805182283770928
+        },
+        {
+            "id": 826999,
+            "weight": 0.17780931425338625
+        },
+        {
+            "id": 969485,
+            "weight": 0.14770035413177654
+        },
+        {
+            "id": 850176,
+            "weight": 0.10221399867832293
+        },
+        {
+            "id": 1125656,
+            "weight": 0.09271017373421822
+        },
+        {
+            "id": 1007082,
+            "weight": 0.08761245787515015
+        },
+        {
+            "id": 1080239,
+            "weight": 0.08746791081641467
+        },
+        {
+            "id": 1009251,
+            "weight": 0.08045969159675523
+        },
+        {
+            "id": 1142714,
+            "weight": 0.08024690952136813
+        },
+        {
+            "id": 979297,
+            "weight": 0.07866629028489878
+        },
+        {
+            "id": 971444,
+            "weight": 0.07057571268719968
+        },
+        {
+            "id": 970349,
+            "weight": 0.06704960134824949
+        },
+        {
+            "id": 791152,
+            "weight": 0.06524249910764418
+        },
+        {
+            "id": 909337,
+            "weight": 0.0644394588130892
+        },
+        {
+            "id": 15747144,
+            "weight": 0.05984093946141784
+        },
+        {
+            "id": 877730,
+            "weight": 0.05754679048100455
+        }
+    ],
+    "videostarttime": {
+        "1409853": 10641
+    },
+    "videolink": null,
+    "keywords": {
+        "KPI Knoop": 0.9921355406170159,
+        "Rondvraag KPI": 0.9906749423194946,
+        "KPI": 1.97335503632076,
+        "herhaaldelijk gezegd": 0.9701998829791417,
+        "per raadsperiode": 0.9701998829791417,
+        "raadsperiode herijkt": 0.9701998829791417,
+        "Eindhoven": 0.9392994356064461,
+        "Ritmeester EVE": 0.9242755032917501,
+        "EVE": 1.8982498549159794,
+        "december": 0.8840267298697011,
+        "Tjeerd Ritmeester": 0.8782048799589645,
+        "ligt": 0.8576077792898834,
+        "Raad": 0.8569879619947096,
+        "behandeling": 0.8298889534925814,
+        "woondebat": 0.8298889534925814,
+        "gezegd": 0.8298889534925814,
+        "KnoopXL": 0.8298889534925814,
+        "per": 0.8298889534925814,
+        "herijkt": 0.8298889534925814,
+        "uitspraak": 0.8298889534925814,
+        "hiervoor verwezen": 0.8061560536881154,
+        "hiervoor": 0.8047773139686323,
+        "motie": 0.8047773139686323,
+        "toegezonden toelichting": 0.7909017513597703,
+        "Tjeerd": 0.6861327247223932,
+        "automatisch moment": 0.6500798310525072,
+        "terugkijken": 0.6342571259389033,
+        "jaar": 0.6010290839109312,
+        "toegezonden": 0.584142631003453,
+        "toelichting": 0.584142631003453,
+        "verwezen": 0.584142631003453
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194370,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1409853
+    ]
+}

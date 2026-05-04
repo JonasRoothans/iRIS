@@ -1,0 +1,98 @@
+{
+    "module_id": 1021306,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230013,
+    "title": "Uitvoeringsprogramma - Raadsvoorstel Vaststellen Integraal Huisvestingsplan Eindhoven 2025-2040",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1021306",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Steenbakkers (Wethouder)",
+    "result": "",
+    "date": "18-02-2025",
+    "meeting_url": {
+        "1256331": "https://raadsinformatie.eindhoven.nl/vergadering/1256331#ai_9027821"
+    },
+    "attachment": null,
+    "parent": 999862,
+    "children": [],
+    "text": "De wethouder Steenbakkers zegt toe dat in het uitvoeringsprogramma het college de Eindhovense kwaliteitseisen van het IHP langs de kaders van huisvesting Ruimte-Ok te leggen om inzichtelijk te krijgen waar de normen ten positieve afwijken of waar een inhaalslag gemaakt kan worden.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 999862,
+            "weight": 2.908194725503881
+        },
+        {
+            "id": 926622,
+            "weight": 0.9939372218115278
+        },
+        {
+            "id": 1133825,
+            "weight": 0.495737142580131
+        },
+        {
+            "id": 1125027,
+            "weight": 0.12347965551643368
+        },
+        {
+            "id": "a_9831397",
+            "weight": 0.11116056989703627
+        },
+        {
+            "id": "a_9831396",
+            "weight": 0.10973754665115983
+        },
+        {
+            "id": "a_9831398",
+            "weight": 0.10964227796925001
+        },
+        {
+            "id": 1146887,
+            "weight": 0.10719190612429447
+        }
+    ],
+    "videostarttime": {
+        "1256331": 18
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/18.02.25 Eindhoven Meningsvormend CK web.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Vaststellen": 1.9972375081890656,
+        "Vaststellen Integraal": 1.996374421737865,
+        "Integraal Huisvestingsplan": 1.996374421737865,
+        "Huisvestingsplan Eindhoven": 1.996374421737865,
+        "Eindhoven 2025-2040": 1.9936660409266684,
+        "wethouder Steenbakkers": 0.9936660409266683,
+        "Steenbakkers zegt": 0.9936660409266683,
+        "Eindhovense kwaliteitseisen": 0.9936660409266683,
+        "huisvesting Ruimte-Ok": 0.9889120922939167,
+        "positieve afwijken": 0.9889120922939167,
+        "inhaalslag gemaakt": 0.9889120922939167,
+        "Integraal": 1.939896082242473,
+        "Eindhoven": 1.939896082242473,
+        "IHP": 0.9398960822424728,
+        "Uitvoeringsprogramma": 1.93718351512709,
+        "2025-2040": 1.8952798289436616,
+        "wethouder": 0.8952798289436618,
+        "zegt": 0.8952798289436618,
+        "college": 0.8952798289436618,
+        "kaders": 0.8952798289436618,
+        "Ruimte-Ok": 0.8952798289436618,
+        "leggen": 0.8952798289436618,
+        "inzichtelijk": 0.8952798289436618,
+        "krijgen": 0.8952798289436618,
+        "normen": 0.8952798289436618,
+        "positieve": 0.8952798289436618,
+        "afwijken": 0.8952798289436618,
+        "gemaakt": 0.8952798289436618
+    },
+    "svz": null,
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

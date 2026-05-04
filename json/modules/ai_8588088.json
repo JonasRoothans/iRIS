@@ -1,0 +1,36 @@
+{
+    "module_id": "ai_8588088",
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230019,
+    "title": "Vragenhalfuur",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/moties_en_toezeggingen/1015905?parent_event=1256308",
+    "type": "Agenda",
+    "member": null,
+    "party": null,
+    "poho": "M. van Lanschot (Wethouder)",
+    "result": "",
+    "date": "04-02-2025",
+    "meeting_url": "https://raadsinformatie.eindhoven.nl/vergadering/1256308#ai_8588088",
+    "attachment": null,
+    "parent": null,
+    "children": [
+        1015905
+    ],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [],
+    "videostarttime": 812,
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_04.02.25_01-EINDHOVEN-RAA-ONDERTITEL_2025.02.04_201626.mp4/playlist.m3u8",
+    "keywords": {
+        "Vragenhalfuur": 1.9550880231213545
+    },
+    "svz": null,
+    "afgedaan": "Q3 2025",
+    "eersteIndiener": null,
+    "lastScrapeDate": "30-05-2025",
+    "meeting_id": []
+}

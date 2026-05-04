@@ -1,0 +1,154 @@
+{
+    "module_id": 879066,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230014,
+    "title": "Evaluatie Stratumseind - Raadsvoorstel Vaststellen DO Fase 2 en actualisatie budget Herinrichting Binnenstad",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/879066",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "R. Thijs (Wethouder)",
+    "result": "",
+    "date": "12-09-2023",
+    "meeting_url": {
+        "1127249": "https://raadsinformatie.eindhoven.nl/vergadering/1127249#ai_7824996"
+    },
+    "attachment": null,
+    "parent": 863586,
+    "children": [],
+    "text": "Wethouder Thijs zegt toe:\nDe raad ontvangt voor het eind van het jaar, na afronding van Stratumseind, een evaluatie, waarin o.a. wordt meegenomen:\n\nde fasering in de uitvoering\nde projectbegroting (financiën), ook voor fase 3 en 4\nde risico’s m.b.t. archeologie.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 879053,
+            "weight": 3.4534534498661333
+        },
+        {
+            "id": 863586,
+            "weight": 0.9364286252992452
+        },
+        {
+            "id": 920655,
+            "weight": 0.3749878207952692
+        },
+        {
+            "id": 931275,
+            "weight": 0.1416393001060803
+        },
+        {
+            "id": 845573,
+            "weight": 0.12876180492435227
+        },
+        {
+            "id": 862377,
+            "weight": 0.12461356488479357
+        },
+        {
+            "id": 783304,
+            "weight": 0.12330292230632044
+        },
+        {
+            "id": 979297,
+            "weight": 0.10688754005455457
+        },
+        {
+            "id": 949028,
+            "weight": 0.1009052248934496
+        },
+        {
+            "id": 1133353,
+            "weight": 0.08504706911183392
+        },
+        {
+            "id": 792365,
+            "weight": 0.07834031055317531
+        },
+        {
+            "id": 817437,
+            "weight": 0.07828516135759189
+        },
+        {
+            "id": 983826,
+            "weight": 0.07034692684209586
+        },
+        {
+            "id": 894965,
+            "weight": 0.06976629129033832
+        },
+        {
+            "id": "r_8748211",
+            "weight": 0.0681143267245192
+        },
+        {
+            "id": 977662,
+            "weight": 0.0681143267245192
+        },
+        {
+            "id": 1146326,
+            "weight": 0.061519544984995955
+        },
+        {
+            "id": 1139142,
+            "weight": 0.06057048171652027
+        },
+        {
+            "id": 1032099,
+            "weight": 0.05984597192668219
+        },
+        {
+            "id": 917707,
+            "weight": 0.05577083022350989
+        },
+        {
+            "id": 855188,
+            "weight": 0.054893879719068686
+        },
+        {
+            "id": 1135885,
+            "weight": 0.054327194708418826
+        }
+    ],
+    "videostarttime": {
+        "1127249": 18636
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_12.09.23_NC_Eindhoven_Cie.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Vaststellen": 1.9964429360579925,
+        "Herinrichting Binnenstad": 1.995587973448424,
+        "Binnenstad Wethouder": 0.9955879734484242,
+        "Wethouder Thijs": 0.9955879734484242,
+        "budget Herinrichting": 1.991076184220744,
+        "Thijs zegt": 0.9910761842207441,
+        "actualisatie budget": 1.9818672939762765,
+        "Evaluatie Stratumseind": 1.9764636250198384,
+        "Fase": 1.9396996214912803,
+        "Vaststellen": 1.93372295962826,
+        "Binnenstad": 1.93372295962826,
+        "Thijs": 0.9337229596282598,
+        "Evaluatie": 1.8831401386094635,
+        "budget": 1.8665467619023945,
+        "zegt": 0.8665467619023944,
+        "raad ontvangt": 0.8617760135185049,
+        "waarin": 0.7856113627252281,
+        "financiën": 0.7856113627252281,
+        "archeologie": 0.7856113627252281,
+        "jaar": 0.7178919014790093,
+        "meegenomen": 0.7178919014790093,
+        "projectbegroting": 0.7178919014790093,
+        "raad": 0.6515200142362523,
+        "eind": 1.6515200142362523,
+        "afronding": 0.6515200142362523,
+        "fasering": 0.6515200142362523,
+        "uitvoering": 0.6515200142362523,
+        "risico": 0.6515200142362523
+    },
+    "svz": null,
+    "afgedaan": "14-05-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

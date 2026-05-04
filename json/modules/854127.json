@@ -1,0 +1,88 @@
+{
+    "module_id": 854127,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 231116,
+    "title": "Overzicht type camera's op website - Commissienotitie 2.0 Camerabeleid art. 151c Gemeentewet",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/854127",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "J. Dijsselbloem (Burgemeester)",
+    "result": "",
+    "date": "06-06-2023",
+    "meeting_url": {
+        "1102751": "https://raadsinformatie.eindhoven.nl/vergadering/1102751#ai_7611637"
+    },
+    "attachment": null,
+    "parent": 845544,
+    "children": [],
+    "text": "Burgemeester Dijsselbloem zegt toe:\n\ndat op de website van de gemeente ook een actueel overzicht zal komen van de type camera’s die de gemeente beheert met de bijhorende aanwijzingsbesluiten;",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 854132,
+            "weight": 0.6988174684815971
+        },
+        {
+            "id": 854130,
+            "weight": 0.6977874794167124
+        },
+        {
+            "id": 854128,
+            "weight": 0.6977101207750072
+        },
+        {
+            "id": 854129,
+            "weight": 0.6950634563416229
+        },
+        {
+            "id": 854133,
+            "weight": 0.6947117400830412
+        },
+        {
+            "id": 854131,
+            "weight": 0.6942650636582283
+        },
+        {
+            "id": 848863,
+            "weight": 0.1713566795431969
+        },
+        {
+            "id": 1144336,
+            "weight": 0.12171931279380667
+        }
+    ],
+    "videostarttime": {
+        "1102751": 2558
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_06.06.23_NC_Eindhoven_RAA.mp4/playlist.m3u8",
+    "keywords": {
+        "Camerabeleid art": 1.9937092735690851,
+        "type camera": 1.9767332697701216,
+        "Gemeentewet Burgemeester": 0.9636216414267418,
+        "Commissienotitie": 1.9567303594230592,
+        "Burgemeester Dijsselbloem": 0.9560357275926361,
+        "Overzicht type": 1.943709909375916,
+        "Dijsselbloem zegt": 0.9172837568490051,
+        "actueel overzicht": 0.8961459852580749,
+        "type": 1.8945671077936106,
+        "art": 1.8885276739410526,
+        "website": 1.873639123175975,
+        "bijhorende aanwijzingsbesluiten": 0.8726276228418608,
+        "gemeente": 0.8324379516819851,
+        "zegt": 0.6277205857325476,
+        "actueel": 0.6277205857325476,
+        "komen": 0.6277205857325476,
+        "beheert": 0.6277205857325476,
+        "bijhorende": 0.6277205857325476
+    },
+    "svz": "COLLEGE GRAAG AFDOEN : Verwerkt in nieuwe versie camerabeleid en begeleidende Burgemeestersbrief",
+    "afgedaan": "04-07-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

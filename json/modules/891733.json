@@ -1,0 +1,66 @@
+{
+    "module_id": 891733,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Technische vragen SP - Raadsvoorstel Vaststellen Begroting 2024",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/891733",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "31-10-2023",
+    "meeting_url": {
+        "1153547": "https://raadsinformatie.eindhoven.nl/vergadering/1153547#ai_7885375"
+    },
+    "attachment": null,
+    "parent": 879979,
+    "children": [],
+    "text": "Wethouder Verhees zegt toe de vragen van SP technisch te beantwoorden, over:\n\nmalafide verhuurders (panden zonder inschrijvingen); en\nof casuïstiek leidt tot handhaving.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1054433,
+            "weight": 0.6239837768069315
+        },
+        {
+            "id": 1048915,
+            "weight": 0.3183424741983476
+        },
+        {
+            "id": 775117,
+            "weight": 0.16296414147026939
+        }
+    ],
+    "videostarttime": {
+        "1153547": null
+    },
+    "videolink": null,
+    "keywords": {
+        "Raadsvoorstel Vaststellen": 1.994479650464072,
+        "Vaststellen Begroting": 1.994479650464072,
+        "Wethouder Verhees": 0.9944796504640722,
+        "malafide verhuurders": 0.9885640276407811,
+        "Verhees zegt": 0.9839367976979435,
+        "Technische vragen": 1.972835834150342,
+        "casuïstiek leidt": 0.9685575990805156,
+        "Begroting": 1.939368310851893,
+        "beantwoorden": 0.893667175349195,
+        "malafide": 0.893667175349195,
+        "panden": 0.893667175349195,
+        "inschrijvingen": 0.893667175349195,
+        "handhaving": 0.893667175349195,
+        "vragen": 1.8756461696415236,
+        "zegt": 0.8254035696529312,
+        "leidt": 0.8254035696529312
+    },
+    "svz": "AFVOEREN, opgenomen in de Nadere Toelichting zoals toegevoegd bij RV Begroting dd. 7/11...  Lees verder ",
+    "afgedaan": "14-11-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

@@ -1,0 +1,61 @@
+{
+    "module_id": 780333,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230014,
+    "title": "Verduurzamen van sociale huurwoningen",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/780333",
+    "type": "Motie",
+    "member": "",
+    "party": null,
+    "poho": "R. Thijs (Wethouder)",
+    "result": "",
+    "date": "05-07-2022",
+    "meeting_url": {
+        "1013296": "https://raadsinformatie.eindhoven.nl/vergadering/1013296"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": "In de (klimaat)begroting mee te nemen hoe meer inzicht gegeven kan worden in het aantal sociale huurwoningen dat jaarlijks wordt verduurzaamd.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 12399005,
+            "weight": 0.21892351828508058
+        },
+        {
+            "id": 827634,
+            "weight": 0.18747014459235176
+        },
+        {
+            "id": 1129552,
+            "weight": 0.12155047781483817
+        }
+    ],
+    "videostarttime": {
+        "1013296": null
+    },
+    "videolink": null,
+    "keywords": {
+        "begroting mee": 0.9781645723299163,
+        "sociale huurwoningen": 1.9780080020645119,
+        "aantal sociale": 0.960134645109679,
+        "klimaat": 0.9456999047935102,
+        "sociale": 1.8973709226202145,
+        "Verduurzamen": 1.8855903541154853,
+        "mee": 0.813225275191795,
+        "nemen": 0.813225275191795,
+        "inzicht": 0.813225275191795,
+        "aantal": 0.813225275191795,
+        "jaarlijks": 0.813225275191795
+    },
+    "svz": null,
+    "afgedaan": "22-11-2022",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

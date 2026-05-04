@@ -1,0 +1,53 @@
+{
+    "module_id": 850769,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230013,
+    "title": "Rijke schooldag/lunches - Raadsvoorstel Kadernota 2024",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/850769",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Steenbakkers (Wethouder)",
+    "result": "",
+    "date": "23-05-2023",
+    "meeting_url": {
+        "1096274": "https://raadsinformatie.eindhoven.nl/vergadering/1096274#ai_7491703"
+    },
+    "attachment": null,
+    "parent": 837030,
+    "children": [],
+    "text": "Wethouder Steenbakkers zegt toe:\nen gaat in gesprek met de scholen over ontbijt of lunch op school in 2024 en blijft de raad meenemen.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [],
+    "videostarttime": {
+        "1096274": 12343
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_23.05.23_Eindhoven_NC_Meningsvorming.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Kadernota": 1.9963102339467027,
+        "Wethouder Steenbakkers": 0.9944796504640722,
+        "Rijke schooldag": 1.988564027640781,
+        "Steenbakkers zegt": 0.9839367976979435,
+        "raad meenemen": 0.9810834768622357,
+        "lunches": 1.9497739219613173,
+        "Kadernota": 1.939368310851893,
+        "Wethouder": 0.9393683108518932,
+        "Rijke": 1.893667175349195,
+        "zegt": 0.8254035696529312,
+        "gaat": 0.8254035696529312,
+        "gesprek": 0.8254035696529312,
+        "scholen": 0.8254035696529312,
+        "ontbijt": 0.8254035696529312,
+        "blijft": 0.8254035696529312,
+        "raad": 0.8254035696529312
+    },
+    "svz": null,
+    "afgedaan": "12-09-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

@@ -1,0 +1,96 @@
+{
+    "module_id": 987540,
+    "vote_id": null,
+    "member_id": [
+        47266,
+        42076
+    ],
+    "party_list": [
+        " Ouderen Appèl - Hart voor Eindhoven"
+    ],
+    "poho_id": [],
+    "title": "Beantwoording raadsvragen - Bereikbaarheid van de binnenstad door mensen met een beperking (OAHvE)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/4/Raadsvragen/987540",
+    "type": "Raadsvraag",
+    "member": "Dré Rennenberg en Niek Rennenberg",
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "13-11-2024",
+    "meeting_url": null,
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/14803449/1?connection_type=17&connection_id=11153165": "Vraag",
+        "https://raadsinformatie.eindhoven.nl/document/15095336/1?connection_type=16&connection_id=987540": "Antwoord"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": " \n \n \n1 \n \n \n  \n \nRaadsvragen B ereikbaarheid van de binnenstad door mensen met een \nbeperking.  \n \nGeacht college,  \n \nHet Ouderen Appèl -Hart voor Eindhoven heeft  met veel zorg gesproken met mensen met \neen beperking, die voor hun vervoer van huis naar de binnenstad afhankelijk zijn van een  \nscootmobiel of driewielerfiets.  \nZowel de scootmobiel als de driewielerfiets kun je niet stallen in de stalling bij het station.  De \ntoegang tot die en andere bewaakte stallingen  zijn niet toegankelijk voor de scootmobiel en \nde driewielerfiets.  \nEen scootmobielgebruiker k reeg, toen de scootmobiel in de openbare ruimte werd \ngeparkeerd, het advies deze in een bewaakte fietsenstalling te plaatsen , daar diefstal van de \nscootmobiel op de loer lag.  \n \n \nDit brengt ons tot de volgende vragen:  \n \n1. Op welke wijze heeft u bij uw planning over de bereikbaarheid van de binnenstad \nrekening gehouden  met mensen met een beperking, die aangewezen zijn op een \nscootmobiel of driewielerfiets?  \n \n2. Zijn er op dit moment in de binnenstad bewaakte parkeerplaatsen voor scootmobiel \nen/of driewielerfiets? Zo ja, waar precies? Zo nee, waarom niet?   \n \n3. Wanneer gaat u de bereikbaarheid van de binnenstad verbeteren voor mensen met \neen beperking?  Welke veranderingen gaat u dan concreet aanbrengen?  Kan het \nimplementeren van (elektrische) rolstoelen en scooters door middel van speciale \nparkeerplaatsen aan de rand van de autovrije zone een oplossing bieden?  \n \n4. Bent u het met het Ouderen Appèl -Hart voor Eindhoven eens dat een betere \nbereikbaarheid van de binnenstad  voor mensen met eenbeperking een positieve \nuitwerking heeft op de omzet van de diverse MKB -organisaties die in de binnenstad \ngevestigd zijn? Zo nee, waarom niet.  \n \n5. In het kader van de eenzaamheidsbestrijding is een betere bereikbaarheid van de \nbinenstad  voor mensne met een beperking een gewenste situatie. Deelt u deze \nmening met het Ouderen Appèl -Hart voor Eindhoven? Zo nee, waarom niet ? \n \n \n \n \n2 \n \n \n  \nWij kijken uit naar uw antwoorden.  \n \nMet v riendelijke groet,  \n \nDre Rennenberg, raadslid Ouderen Appèl -Hart voor Eindhoven  \nNiek Rennneberg, fractievoorzitter  Ouderen Appèl -Hart voor Eindhoven  ",
+    "bst": "7861989 1.5.2.",
+    "related": [
+        {
+            "id": 898197,
+            "weight": 0.4190693180675606
+        },
+        {
+            "id": 940904,
+            "weight": 0.3572946844210835
+        },
+        {
+            "id": 988566,
+            "weight": 0.321197014965014
+        },
+        {
+            "id": 884504,
+            "weight": 0.18731210639136064
+        },
+        {
+            "id": 14028298,
+            "weight": 0.1769947558007605
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Ouderen Appèl": 0.9876129787694978,
+        "Beantwoording raadsvragen": 1.9823139089077744,
+        "binnenstad": 1.960202655597014,
+        "raadsvragen": 1.9588286667820065,
+        "scootmobiel": 0.9587403910740921,
+        "Appèl": 0.9543595685939367,
+        "Hart": 0.9543595685939367,
+        "mensen": 1.9468427980587266,
+        "Eindhoven": 0.9453661040307793,
+        "beperking": 1.9399432269227337,
+        "driewielerfiets": 0.934300466366569,
+        "Bereikbaarheid": 1.9318089177592719,
+        "bewaakte": 0.8442768190246752,
+        "nee": 0.834389047274979,
+        "binnenstad afhankelijk": 0.8110502816718235,
+        "OAHvE": 1.8008029835599046,
+        "raadslid Ouderen": 0.7589357767953486,
+        "fractievoorzitter Ouderen": 0.7589357767953486,
+        "Dre Rennenberg": 0.7340876661234439,
+        "Geacht college": 0.6979859417011234,
+        "gaat": 0.6951825183352771,
+        "parkeerplaatsen": 0.6911880001995991,
+        "zorg gesproken": 0.6681593083685841,
+        "bewaakte stallingen": 0.5732803286483023,
+        "MKB": 0.5633805871243088,
+        "Dre": 0.5416814605332431,
+        "Niek": 0.530653183454209,
+        "Geacht": 0.5183786365327292,
+        "college": 0.5183786365327292,
+        "diverse MKB": 0.5065100770576648,
+        "zorg": 0.5008412596572976,
+        "vervoer": 0.5008412596572976,
+        "huis": 0.5008412596572976,
+        "afhankelijk": 0.5008412596572976
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": "02-04-2026",
+    "meeting_id": []
+}

@@ -1,0 +1,156 @@
+{
+    "module_id": 15944211,
+    "vote_id": null,
+    "member_id": [
+        194495
+    ],
+    "party_list": [
+        "Partij voor de Dieren"
+    ],
+    "poho_id": [],
+    "title": "Vraag V3 Vragenhalfuur - De bomen die er nog wel staan (PvdD)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "09-09-2025",
+    "meeting_url": {
+        "1256323": "https://raadsinformatie.eindhoven.nl/vergadering/1256323/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/15944211/1/Vraag+V3+Vragenhalfuur+-+De+bomen+die+er+nog+wel+staan+%28PvdD%29?connection_type=1&connection_id=8588220",
+    "pdf_text": " \n \n \nVragenhalfuur  - De bomen die er nog wel staan            V3 \n \nBij de Pastoor Dijkmansstraat, Geldropseweg  en Sint -Jorislaan staat een groene \noase, waar helaas een kapvergunning voor is verleend  dit in verband met de bouw \nvan woningen.  \n \nWij hebben technisch uitgevraagd wat het verder gevolg gaat zijn en welke invloed \nwe hier als raad op hebben.   \n \nOmdat verder antwoord uitblijft en wij bang zijn dat dadelijk ook hier de bomen al \nworden gekapt voordat de raad en inwoners hier invloed op hebben kunnen \nuitoefenen besloten deze rondvraag te stellen.  \n \n1. Wat is de procedure rondom de vergunning en? \n \n2. Welke zeggenschap heeft de raad hier nog over?  \n \n3. Waarom wordt niet gekeken naar het behouden van dit mooie stukje groen door \nhet ontwerp anders in te delen, zodat er nog steeds gebouwd kan worden, maar \nde bomen kunnen worden behouden?  \n \n4. Trefpunt Groen Eindhoven is faliekant tegen dit voorstel; zi e hieronder een \nbeknopte weergave van hun advies, waarom wordt dit advies in de wind \ngeslagen?  \n \n \nEindhoven, 9 september 2025  \n \nHet lid  van de raad,  \n \nVirginia Jonkers (Partij voor de Dieren)  \n \n \n \n \n \n \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 1148672,
+            "weight": 0.6253831110702109
+        },
+        {
+            "id": 800585,
+            "weight": 0.45510385552979027
+        },
+        {
+            "id": 920714,
+            "weight": 0.20738095694660877
+        },
+        {
+            "id": 12716064,
+            "weight": 0.2024035781859608
+        },
+        {
+            "id": 999545,
+            "weight": 0.19249390327900084
+        },
+        {
+            "id": 1133842,
+            "weight": 0.1916577058066112
+        },
+        {
+            "id": 15944212,
+            "weight": 0.15803301562045918
+        },
+        {
+            "id": 13821739,
+            "weight": 0.15406076772818325
+        },
+        {
+            "id": 1118645,
+            "weight": 0.10743886782072871
+        },
+        {
+            "id": 881850,
+            "weight": 0.09726577947040645
+        },
+        {
+            "id": 924241,
+            "weight": 0.09717422188824412
+        },
+        {
+            "id": 1117157,
+            "weight": 0.09471990157038838
+        },
+        {
+            "id": 1046827,
+            "weight": 0.09440319745229563
+        },
+        {
+            "id": 1061167,
+            "weight": 0.09346666051799388
+        },
+        {
+            "id": 822238,
+            "weight": 0.08084570373584041
+        },
+        {
+            "id": 791694,
+            "weight": 0.07306980505523226
+        },
+        {
+            "id": 1041664,
+            "weight": 0.06687589130894998
+        }
+    ],
+    "videostarttime": {
+        "1256323": 971
+    },
+    "videolink": null,
+    "keywords": {
+        "Pastoor Dijkmansstraat": 0.9962592575106031,
+        "Jorislaan staat": 0.9908656713091231,
+        "Vragenhalfuur": 1.9813025094874193,
+        "groene oase": 0.9781648464327013,
+        "staan": 1.9595659249543096,
+        "Geldropseweg": 0.9416205298971484,
+        "Sint": 0.9416205298971484,
+        "bomen": 1.9404810264167274,
+        "Pastoor": 0.9361624646786333,
+        "raad": 0.9216534025167845,
+        "PvdD": 1.8788668566844917,
+        "oase": 0.8621813774554945,
+        "woningen": 0.8621813774554945,
+        "Virginia Jonkers": 0.8560230098709806,
+        "Trefpunt Groen": 0.8515147562147866,
+        "helaas": 0.844951522388947,
+        "kapvergunning": 0.844951522388947,
+        "verleend": 0.844951522388947,
+        "bouw": 0.844951522388947,
+        "invloed": 0.8308028862626672,
+        "Groen Eindhoven": 0.8249280572795314,
+        "technisch uitgevraagd": 0.8214377468547094,
+        "gevolg gaat": 0.8214377468547094,
+        "groen": 0.8107870191310427,
+        "behouden": 0.7487730981372497,
+        "advies": 0.7397089380505844,
+        "stukje groen": 0.7136708275241921,
+        "antwoord uitblijft": 0.6982390128344935,
+        "uitoefenen besloten": 0.6982390128344935,
+        "Virginia": 0.6452373416365489,
+        "Jonkers": 0.6452373416365489,
+        "Partij": 0.6452373416365489,
+        "Dieren": 0.6452373416365489,
+        "technisch": 0.6107590131667147,
+        "gaat": 0.6107590131667147,
+        "stellen": 0.5528405572852315,
+        "antwoord": 0.518533671567851,
+        "uitblijft": 0.518533671567851,
+        "bang": 0.518533671567851,
+        "dadelijk": 0.518533671567851,
+        "gekapt": 0.518533671567851,
+        "inwoners": 0.518533671567851,
+        "besloten": 0.518533671567851,
+        "rondvraag": 0.518533671567851
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194495,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1256323
+    ]
+}

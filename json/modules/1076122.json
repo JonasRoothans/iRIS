@@ -1,0 +1,151 @@
+{
+    "module_id": 1076122,
+    "vote_id": null,
+    "member_id": [
+        194514,
+        194371,
+        194406,
+        209254
+    ],
+    "party_list": [
+        "PvdA",
+        "GroenLinks",
+        "D66"
+    ],
+    "poho_id": [],
+    "title": "Beantwoording raadsvragen - Dweilen met de kraan open (D66, PvdA, GL)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/4/Raadsvragen/1076122",
+    "type": "Raadsvraag",
+    "member": "Annelies Becker, Sep Wittenbols en Rosa van den Nieuwenhof",
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "26-08-2025",
+    "meeting_url": null,
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/15890960/1?connection_type=17&connection_id=12265967": "Vraag",
+        "https://raadsinformatie.eindhoven.nl/document/16067255/1?connection_type=17&connection_id=12433970": "Antwoord"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": " \n \n \n \nRaadsvragen – Dweilen met de kraan open  \n \nOp 2 juli verscheen een artikel in het NRC  waarin de afname van het \naanbod aan studentenkamers wordt geschetst in verschillende \nstudentensteden. Ook Cursor  bericht hierover. In Eindhoven gaat het om \neen afname van 37,7%. Een enorme hoeveelheid gezien de grote (en \nstijgende) vraag naar studentenkamers. Dit roept vragen op, zeker met \nde verwachte groeiopgave van de TU/e en de toenemende stroom aan \nstudenten in  onze regio. Het lijkt dweilen met de kraan open. We voegen \nstudentenflats toe, maar het aanbod daalt nog steeds ten opzichte van \nde vraag.  \n \n \nBron: NRC  \n \nDaarom hebben  de fractie s van D66 , GroenLinks en PvdA  de \nvolgende raadsvragen:  \n \n1. Heeft het college kennisgenomen van data -onderzoek van NRC?  \n2. Herkent het college het beeld van het onderzoek over het \ndalende aanbod aan studentenkamers in Eindhoven?  \n3. Kan het college een reflectie geven van de impact van het \nhuidige beleid (waaronder de 30 -meter) op het steeds groter \noplopende tekort aan studentenhuisvesting?  \n \nNamens de fractie s, \n \nAnnelies Becker, raadslid D66  \nIn samenwerking met Mirko Bolsenbroek, commissielid D66  \nSep Wittenbols, raadslid GroenLinks  \nRosa van den Nieuwenhof, raadslid PvdA  ",
+    "bst": "8045710_1.4.1.",
+    "related": [
+        {
+            "id": 927030,
+            "weight": 0.616888404399444
+        },
+        {
+            "id": 986820,
+            "weight": 0.4281683632003974
+        },
+        {
+            "id": 1053124,
+            "weight": 0.3440124588479737
+        },
+        {
+            "id": 15393301,
+            "weight": 0.24912503772590266
+        },
+        {
+            "id": 1042883,
+            "weight": 0.23963814088218213
+        },
+        {
+            "id": 1090156,
+            "weight": 0.19186840792302676
+        },
+        {
+            "id": 999086,
+            "weight": 0.16591561768894594
+        },
+        {
+            "id": 1136118,
+            "weight": 0.14525293075289275
+        },
+        {
+            "id": 1087621,
+            "weight": 0.14363375173996465
+        },
+        {
+            "id": 1141695,
+            "weight": 0.13576374302142394
+        },
+        {
+            "id": 1131328,
+            "weight": 0.13536041720576444
+        },
+        {
+            "id": 776880,
+            "weight": 0.1314929360095508
+        },
+        {
+            "id": 829238,
+            "weight": 0.13049811375559753
+        },
+        {
+            "id": 1021295,
+            "weight": 0.10923023437878598
+        },
+        {
+            "id": 996664,
+            "weight": 0.10463645610793394
+        },
+        {
+            "id": 777045,
+            "weight": 0.09123330949020704
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "juli verscheen": 0.9691380788271179,
+        "verschillende studentensteden": 0.9691380788271179,
+        "kraan open": 1.9584656466068018,
+        "Beantwoording raadsvragen": 1.9480487631749361,
+        "NRC waarin": 0.9388991842385135,
+        "Dweilen": 1.9200069228569208,
+        "Cursor bericht": 0.9036267582570947,
+        "raadsvragen": 1.899643950059429,
+        "kraan": 1.8974223598443258,
+        "NRC": 0.8948323633222903,
+        "open": 1.8799853578869774,
+        "studentenkamers": 0.8685943979650427,
+        "aanbod": 0.8530576714816185,
+        "afname": 0.847785278383668,
+        "Eindhoven": 0.8466006133918288,
+        "college": 0.8410427902270872,
+        "raadslid": 0.836368645817085,
+        "juli": 0.8359653980071268,
+        "PvdA": 1.830774294898853,
+        "artikel": 0.8174898630998793,
+        "geschetst": 0.8174898630998793,
+        "verschillende": 0.8174898630998793,
+        "Annelies Becker": 0.8012079036572761,
+        "Sep Wittenbols": 0.8012079036572761,
+        "Cursor": 0.7987327621921871,
+        "Mirko Bolsenbroek": 0.7888467148127172,
+        "bericht hierover": 0.7849227790106381,
+        "fractie": 0.7403398763711196,
+        "onderzoek": 0.7135462264388894,
+        "GroenLinks": 0.7112052818922827,
+        "Herkent": 0.608140692176776,
+        "aanbod daalt": 0.5971630095394883,
+        "hierover": 0.5947102846102121,
+        "Becker": 0.5927813861266932,
+        "Sep": 0.5927813861266932,
+        "Nieuwenhof": 0.5927813861266932,
+        "Mirko": 0.5718744863410941,
+        "Rosa": 0.5718744863410941,
+        "dalende aanbod": 0.5686498043268595,
+        "bericht": 0.563258004745905,
+        "college kennisgenomen": 0.5254000773866927
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194371,
+    "lastScrapeDate": "02-04-2026",
+    "meeting_id": []
+}

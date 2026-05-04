@@ -1,0 +1,180 @@
+{
+    "module_id": 13911704,
+    "vote_id": null,
+    "member_id": [
+        194371
+    ],
+    "party_list": [
+        "D66"
+    ],
+    "poho_id": [],
+    "title": "Vraag V2 Vragenhalfuur - Tijdelijke sluiting Eindhoven Airport (D66)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "12-03-2024",
+    "meeting_url": {
+        "1147888": "https://raadsinformatie.eindhoven.nl/vergadering/1147888/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/13911704/1/Vraag+V2+Vragenhalfuur+-+Tijdelijke+sluiting+Eindhoven+Airport+%28D66%29?connection_type=1&connection_id=7853126",
+    "pdf_text": " \n \nVraag Vragenhalfuur T ijdelijke sluiting  Eindhoven Airport    V2 \n \nAls vervolg van de motie van mijn fractiegenoot de heer  Brouwers  -> \nVrije motie 'Next Station Eindhoven Internationaal'  willen we nu deze \nrondvraag stellen.  \nNaar  aanleiding van het artikel op het ED -> Reizigers opgelucht dat \nAirport pas over drie jaar tijdelijk sluit   zien we een nog hogere noodzaak \nom zo snel mogelijk in te zetten op een verbetering van de internationale \ntreinverbindingen.  \n \nWe hebben nog drie jaar de tijd om onze inwoners zo te faciliteren dat \nze de vliegreizen minimaal gaan missen.  \n \nDaarom hebben we de volgende vragen voor het college:  \n \n1. Hoe wil het college zich voorbereiden op de tijdelijke sluiting van \nEindhoven Airport?  \n2. Hoe gaat het college de aanloop naar en de vijf maanden lange \nsluiting  benutten om andere vervoersvormen onder de aan dacht \nte brengen?  \n \nNamens de fractie van D66 Eindhoven,  \nAnnelies Becker  \n \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 898448,
+            "weight": 1.2186501357811976
+        },
+        {
+            "id": 953324,
+            "weight": 0.5964321096418053
+        },
+        {
+            "id": 955064,
+            "weight": 0.5951580655071114
+        },
+        {
+            "id": 777390,
+            "weight": 0.5386431546634659
+        },
+        {
+            "id": 13911705,
+            "weight": 0.4523867229584582
+        },
+        {
+            "id": 958793,
+            "weight": 0.3180674447776728
+        },
+        {
+            "id": 960626,
+            "weight": 0.24421623302247436
+        },
+        {
+            "id": 826634,
+            "weight": 0.24348935412041728
+        },
+        {
+            "id": 826478,
+            "weight": 0.2331754720752025
+        },
+        {
+            "id": 1038652,
+            "weight": 0.2154199873212019
+        },
+        {
+            "id": 1139114,
+            "weight": 0.17952410754417378
+        },
+        {
+            "id": 885377,
+            "weight": 0.11217146890103546
+        },
+        {
+            "id": 1130079,
+            "weight": 0.11000842034162045
+        },
+        {
+            "id": 887816,
+            "weight": 0.10928052599962447
+        },
+        {
+            "id": 1038870,
+            "weight": 0.10904535574959627
+        },
+        {
+            "id": 822593,
+            "weight": 0.08701486963672728
+        },
+        {
+            "id": 1047369,
+            "weight": 0.08585645149239785
+        },
+        {
+            "id": 1129612,
+            "weight": 0.07698637844516193
+        },
+        {
+            "id": 844335,
+            "weight": 0.0737704751561686
+        },
+        {
+            "id": 15747144,
+            "weight": 0.0698736525840134
+        },
+        {
+            "id": "a_9477053",
+            "weight": 0.0653356886997496
+        },
+        {
+            "id": 1054304,
+            "weight": 0.06273641016160186
+        },
+        {
+            "id": 774744,
+            "weight": 0.04954560429403445
+        }
+    ],
+    "videostarttime": {
+        "1147888": 1311
+    },
+    "videolink": null,
+    "keywords": {
+        "Vraag Vragenhalfuur": 0.9958024616777678,
+        "Next Station": 0.9957831303487222,
+        "Vrije motie": 0.991375126420864,
+        "Eindhoven Airport": 1.989598263323705,
+        "heer Brouwers": 0.9890231264239608,
+        "Eindhoven Internationaal": 0.9862312101505842,
+        "Station Eindhoven": 0.9847436614530066,
+        "rondvraag stellen": 0.9720652827825366,
+        "Vraag": 1.9656926549501383,
+        "Airport": 1.9656847141610627,
+        "Vrije": 0.9383940788902071,
+        "Next": 0.9383940788902071,
+        "Tijdelijke sluiting": 1.9355526764289053,
+        "motie": 0.9305982194126605,
+        "drie jaar": 0.9301985172941104,
+        "Reizigers opgelucht": 0.9140440530320625,
+        "sluiting": 1.8981520019080036,
+        "college": 0.8660155984482928,
+        "Annelies Becker": 0.8561441666966658,
+        "willen": 0.8458073191099708,
+        "jaar": 0.8249989958004874,
+        "jaar tijdelijk": 0.8246278144842286,
+        "ijdelijke": 1.8237557382625322,
+        "vervolg": 0.8237557382625323,
+        "fractiegenoot": 0.8237557382625323,
+        "heer": 0.8237557382625323,
+        "Reizigers": 0.8143269153022168,
+        "internationale treinverbindingen": 0.8020075799433416,
+        "hogere noodzaak": 0.7779076729251055,
+        "gaan missen": 0.6676756466861268,
+        "sluiting benutten": 0.6585254830994014,
+        "Becker": 0.6453678599057738,
+        "vliegreizen minimaal": 0.6297140820721343,
+        "minimaal gaan": 0.6297140820721343,
+        "aanleiding": 0.5737005536326666,
+        "artikel": 0.5737005536326666,
+        "opgelucht": 0.5737005536326666,
+        "zien": 0.5737005536326666,
+        "hogere": 0.5737005536326666,
+        "snel": 0.5737005536326666,
+        "zetten": 0.5737005536326666,
+        "verbetering": 0.5737005536326666,
+        "internationale": 0.5737005536326666,
+        "volgende vragen": 0.5182048769151817
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194371,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1147888
+    ]
+}

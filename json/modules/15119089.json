@@ -1,0 +1,130 @@
+{
+    "module_id": 15119089,
+    "vote_id": null,
+    "member_id": [
+        45186,
+        77830
+    ],
+    "party_list": [
+        "CDA",
+        "SP"
+    ],
+    "poho_id": [],
+    "title": "Vraag V3 Vragenhalfuur - Therapeutisch zwemmen en reserveringssystemen (CDA, SP)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "04-02-2025",
+    "meeting_url": {
+        "1256308": "https://raadsinformatie.eindhoven.nl/vergadering/1256308/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/15119089/1/Vraag+V3+Vragenhalfuur+-+Therapeutisch+zwemmen+en+reserveringssystemen+%28CDA%2C+SP%29?connection_type=1&connection_id=8588088",
+    "pdf_text": " \n \n \nVragenhalfuur  - Therapeutisch zwemmen en reserveringssystemen    \n                          V3 \n \n \n \nBeste voorzitter,  \n \nHet CDA heeft recentelijk raadsvragen gesteld over  therapeutisch zwemmen en \nreserveringssystemen. H ierover nog 3 vragen.  \n \n1. De reuma therapeutische zwemlessen vinden momenteel plaats in het Ir. \nOttenbad, aangezien De Tongelreep wordt verbouwd. Mensen met reumatische \nklachten moeten in beweging blijven. De lesduur is nu ingekort naar 30 \nminuten. Hoe zorgen we ervoor dat deze mensen voldoende in beweging \nblijven?   \n2.  Welke alternatieven zijn er om meer therapeutische zwemlessen aan te \n bieden?  \n3.  We horen van zwemmers, ook bij babylessen, dat het digitale \n reserveringssysteem niet optimaal functioneert en dat de communicatie te \n wensen overlaat. Kan de wethouder dit bespreken en maatregelen nemen om \n dit te verbeteren?  \n \n  \nMiriam Frosi, raadslid CDA  \nMurat Memi ş, raadslid SP  \n \n \n \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 984221,
+            "weight": 1.5240472425940963
+        },
+        {
+            "id": 945905,
+            "weight": 0.5320808866592641
+        },
+        {
+            "id": 1045784,
+            "weight": 0.5176370118010406
+        },
+        {
+            "id": 945619,
+            "weight": 0.5176370118010406
+        },
+        {
+            "id": 12482207,
+            "weight": 0.373027853026342
+        },
+        {
+            "id": 1142978,
+            "weight": 0.2078662297353835
+        },
+        {
+            "id": 1139088,
+            "weight": 0.1965048124928165
+        },
+        {
+            "id": 965826,
+            "weight": 0.17167117413397237
+        },
+        {
+            "id": 955579,
+            "weight": 0.15596862012172782
+        },
+        {
+            "id": 13645065,
+            "weight": 0.15019100680553066
+        },
+        {
+            "id": 13990704,
+            "weight": 0.14520403932905065
+        },
+        {
+            "id": 12077315,
+            "weight": 0.14498303598042156
+        },
+        {
+            "id": 13779916,
+            "weight": 0.11281298760503448
+        },
+        {
+            "id": 14028337,
+            "weight": 0.10550283732369836
+        },
+        {
+            "id": 1021612,
+            "weight": 0.10411191229374632
+        }
+    ],
+    "videostarttime": {
+        "1256308": 812
+    },
+    "videolink": null,
+    "keywords": {
+        "Therapeutisch zwemmen": 1.997317494026292,
+        "Beste voorzitter": 0.9876309376864874,
+        "Vragenhalfuur": 1.9807436403562684,
+        "reserveringssystemen": 1.9754663866010205,
+        "zwemmen": 1.9674715694741898,
+        "recentelijk raadsvragen": 0.9458266801968064,
+        "raadsvragen gesteld": 0.9458266801968064,
+        "Beste": 0.9310528009804979,
+        "Vraag": 1.8698947026774204,
+        "CDA": 1.8607796870198927,
+        "beweging blijven": 0.8394825737851314,
+        "recentelijk": 0.7733077280702848,
+        "blijven": 0.7719953989449333,
+        "CDA Murat": 0.7515773136762103,
+        "beweging": 0.7335386000857342,
+        "Murat Memi": 0.7063515132040892,
+        "raadslid": 0.6936188643373495,
+        "Mensen": 0.6732442077576966,
+        "vragen": 0.6581341673284828,
+        "Tongelreep": 0.6396243448746325,
+        "Miriam Frosi": 0.5896491671928791,
+        "Frosi": 0.5741584884707553,
+        "Memi": 0.5235627149417821,
+        "Ottenbad": 0.5188172680373017
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 45186,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1256308
+    ]
+}

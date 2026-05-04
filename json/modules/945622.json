@@ -1,0 +1,105 @@
+{
+    "module_id": 945622,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230019,
+    "title": "Ottenbad - Raadsvoorstel Kadernota 2025",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/945622",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. van Lanschot (Wethouder)",
+    "result": "",
+    "date": "21-05-2024",
+    "meeting_url": {
+        "1147935": "https://raadsinformatie.eindhoven.nl/vergadering/1147935#ai_8359842"
+    },
+    "attachment": null,
+    "parent": 933747,
+    "children": [],
+    "text": "Wethouder van Lanschot zegt toe dat de raad wordt geïnformeerd over de stand van zaken; opties met voor en nadelen. Komt met een evt. investeringsvoorstel naar de raad.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 936494,
+            "weight": 0.22086359109532408
+        },
+        {
+            "id": 1021311,
+            "weight": 0.19012024362639016
+        },
+        {
+            "id": 778928,
+            "weight": 0.18036164113403774
+        },
+        {
+            "id": 1137719,
+            "weight": 0.15453295053863406
+        },
+        {
+            "id": 12798177,
+            "weight": 0.15348502154967816
+        },
+        {
+            "id": 901969,
+            "weight": 0.14617699044650087
+        },
+        {
+            "id": 845507,
+            "weight": 0.09607046964207708
+        },
+        {
+            "id": "a_7688307",
+            "weight": 0.08575211019371903
+        },
+        {
+            "id": 985703,
+            "weight": 0.07623979781866927
+        },
+        {
+            "id": 958793,
+            "weight": 0.07223534020352257
+        },
+        {
+            "id": 941379,
+            "weight": 0.07106437803882412
+        },
+        {
+            "id": 998975,
+            "weight": 0.06407127444646639
+        },
+        {
+            "id": 850152,
+            "weight": 0.056549850852640665
+        }
+    ],
+    "videostarttime": {
+        "1147935": 11473
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_21.05.24_NC_Eindhoven_Raad.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Kadernota": 1.995848835398635,
+        "Lanschot zegt": 0.9831607051905058,
+        "Kadernota": 1.9357037818245795,
+        "Wethouder": 0.9357037818245794,
+        "Ottenbad": 1.9212278477101434,
+        "zaken": 0.8680451276095132,
+        "opties": 0.8680451276095132,
+        "nadelen": 0.8680451276095132,
+        "raad": 0.8136864675386654,
+        "zegt": 0.8080666882018795,
+        "geïnformeerd": 0.8080666882018795,
+        "stand": 0.8080666882018795,
+        "Komt": 0.6544699595329786,
+        "evt": 0.6544699595329786,
+        "investeringsvoorstel": 0.5652288650823709
+    },
+    "svz": "Dit behoeft meer onderzoek. Om die reden is de termijn verzet naar Q4 2025",
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

@@ -1,0 +1,74 @@
+{
+    "module_id": 945545,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230013,
+    "title": "Project Beethoven - Raadsvoorstel Kadernota 2025",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/945545",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Steenbakkers (Wethouder)",
+    "result": "",
+    "date": "21-05-2024",
+    "meeting_url": {
+        "1147935": "https://raadsinformatie.eindhoven.nl/vergadering/1147935#ai_8359842"
+    },
+    "attachment": null,
+    "parent": 933747,
+    "children": [],
+    "text": "Wethouder Steenbakkers zegt toe dat Project Beethoven richting de begroting zal worden uitgewerkt.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 937473,
+            "weight": 0.27523168470256726
+        },
+        {
+            "id": 979186,
+            "weight": 0.2744959958954136
+        },
+        {
+            "id": 1085088,
+            "weight": 0.26964953807821657
+        },
+        {
+            "id": 1142714,
+            "weight": 0.24839743812041068
+        },
+        {
+            "id": 931102,
+            "weight": 0.23684267779654603
+        },
+        {
+            "id": 1117280,
+            "weight": 0.16487247072549188
+        }
+    ],
+    "videostarttime": {
+        "1147935": 11473
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_21.05.24_NC_Eindhoven_Raad.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Kadernota": 1.9959929610529974,
+        "Wethouder Steenbakkers": 0.9940442284278638,
+        "Project Beethoven": 1.9930623126452731,
+        "Steenbakkers zegt": 0.9821842957151471,
+        "Beethoven richting": 0.9807629263543427,
+        "Kadernota": 1.936825268757465,
+        "Wethouder": 0.9368252687574651,
+        "Project": 1.9322850659993183,
+        "uitgewerkt": 0.8855903541154853,
+        "zegt": 0.813225275191795,
+        "richting": 0.813225275191795,
+        "begroting": 0.813225275191795
+    },
+    "svz": null,
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

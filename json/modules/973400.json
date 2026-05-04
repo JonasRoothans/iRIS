@@ -1,0 +1,156 @@
+{
+    "module_id": 973400,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230019,
+    "title": "De raad technisch toe te sturen - Raadsvoorstel Planoptimalisatie VDMA",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/973400",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. van Lanschot (Wethouder)",
+    "result": "",
+    "date": "19-09-2024",
+    "meeting_url": {
+        "1148108": "https://raadsinformatie.eindhoven.nl/vergadering/1148108#ai_8651464"
+    },
+    "attachment": null,
+    "parent": 958754,
+    "children": [],
+    "text": "Wethouder Van Lanschot zegt toe de raad technisch toe te sturen:\n\nde adviezen van o.a. de supervisor, TGE en erfgoedstichtingen, als ook de wind- en zonstudies;\ninformatie over of de ontwikkelaar in gesprek is (geweest) met eigenaren van omliggende parkeergarages.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 973404,
+            "weight": 1.7677673904017106
+        },
+        {
+            "id": 973397,
+            "weight": 1.7674284765972081
+        },
+        {
+            "id": "o_8726235",
+            "weight": 1.4393929609723322
+        },
+        {
+            "id": 945770,
+            "weight": 0.5991705487163171
+        },
+        {
+            "id": 997118,
+            "weight": 0.44306195118197156
+        },
+        {
+            "id": 780554,
+            "weight": 0.3684187771549984
+        },
+        {
+            "id": 922219,
+            "weight": 0.25998961649749547
+        },
+        {
+            "id": 15031629,
+            "weight": 0.2228275799809972
+        },
+        {
+            "id": 975790,
+            "weight": 0.2211815429343599
+        },
+        {
+            "id": 975788,
+            "weight": 0.22005762688251462
+        },
+        {
+            "id": 984501,
+            "weight": 0.21626736906590105
+        },
+        {
+            "id": 796519,
+            "weight": 0.21626736906590105
+        },
+        {
+            "id": 790708,
+            "weight": 0.2140460966491162
+        },
+        {
+            "id": 790707,
+            "weight": 0.21371914726627023
+        },
+        {
+            "id": 1023820,
+            "weight": 0.20611772930840666
+        },
+        {
+            "id": 984519,
+            "weight": 0.20044164833673972
+        },
+        {
+            "id": 1000793,
+            "weight": 0.19700440692214782
+        },
+        {
+            "id": 795420,
+            "weight": 0.19227346058510866
+        },
+        {
+            "id": 781186,
+            "weight": 0.1901792621753473
+        },
+        {
+            "id": 781185,
+            "weight": 0.18903937488909023
+        },
+        {
+            "id": 898863,
+            "weight": 0.1832395995066872
+        },
+        {
+            "id": 850906,
+            "weight": 0.1422795851850767
+        },
+        {
+            "id": 984847,
+            "weight": 0.1327812031794856
+        },
+        {
+            "id": 1101955,
+            "weight": 0.13090969809820002
+        }
+    ],
+    "videostarttime": {
+        "1148108": 2355
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_19.09.24_NC_Eindhoven_CIE2.mp4/playlist.m3u8",
+    "keywords": {
+        "raad technisch": 1.9977661260715212,
+        "Raadsvoorstel Planoptimalisatie": 1.9977176564154613,
+        "Planoptimalisatie VDMA": 1.9972111268309016,
+        "VDMA Wethouder": 0.9972111268309016,
+        "Lanschot zegt": 0.9951772359817008,
+        "omliggende parkeergarages": 0.9934777502642635,
+        "sturen": 1.974063908789395,
+        "raad": 1.966653801307063,
+        "Raadsvoorstel": 1.9568201315238427,
+        "TGE": 0.9568201315238427,
+        "VDMA": 1.9472637033291633,
+        "supervisor": 0.9288004700809582,
+        "erfgoedstichtingen": 0.9288004700809582,
+        "wind": 0.9288004700809582,
+        "zonstudies": 0.9288004700809582,
+        "informatie": 0.9288004700809582,
+        "zegt": 0.9089883646927933,
+        "adviezen": 0.9089883646927933,
+        "ontwikkelaar": 0.9089883646927933,
+        "gesprek": 0.9089883646927933,
+        "eigenaren": 0.9089883646927933,
+        "omliggende": 0.9089883646927933
+    },
+    "svz": null,
+    "afgedaan": "19-11-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

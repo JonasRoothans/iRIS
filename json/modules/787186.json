@@ -1,0 +1,86 @@
+{
+    "module_id": 787186,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Raadsvoorstel Benoeming leden commissie klankbordgesprek burgemeester",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/19/Raadsvoorstellen/787186",
+    "type": "Raadsvoorstel",
+    "member": null,
+    "party": null,
+    "poho": "",
+    "result": "Afgerond",
+    "date": "29-11-2022",
+    "meeting_url": {
+        "1013585": "https://raadsinformatie.eindhoven.nl/vergadering/1013585#ai_7107092"
+    },
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/11947788/1/Raadsvoorstel+Benoeming+leden+commissie+klankbordgesprek+burgemeester?connection_type=17&connection_id=8719282": "Raadsvoorstel Benoeming leden commissie klankbordgesprek burgemeester"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/12120116/1?connection_type=17&connection_id=8860971",
+    "pdf_text": " \n \n \n  \n   \n \n \n  gemeente Eindhoven  \nRaadsnummer   \nInboeknummer   \nDossiernummer      \n \n  \n \n \nRaadsbesluit   \n    benoeming leden commissie klankbordgesprek   \n burgemeester   \n \nDe raad van de gemeente Eindhoven;  \ngelet op de Verordening klankbordgesprek burgemeester gemeente Eindhoven 2022;  \n \nbesluit:  \n \n1. te benoemen tot lid van de commissie klankbordgesprek burgemeester:  \na. R.H. van Acquoij;  \nb. E. de Bruijn;  \nc. G.V.A.A.D. Jonkers;  \nd. J.H.A. Migchielsen;  \ne. J.S. Rubenkamp.  \n  \n \nAldus vastgesteld in de openbare vergadering van  29 november  2022.  \n \n \n \nJ. Jongbloed , griffier . \n \n \n ",
+    "bst": "",
+    "related": [
+        {
+            "id": "r_7006013",
+            "weight": 1.934684408754384
+        },
+        {
+            "id": 785761,
+            "weight": 1.6483864957405445
+        },
+        {
+            "id": 829362,
+            "weight": 1.2898041624390564
+        },
+        {
+            "id": 787182,
+            "weight": 0.971953529949616
+        },
+        {
+            "id": 780446,
+            "weight": 0.6543258776660273
+        },
+        {
+            "id": 788357,
+            "weight": 0.32900981421405884
+        }
+    ],
+    "videostarttime": {
+        "1013585": 2632
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_29.11.22-EINDHOVEN-RAA-ONDERTITEL_2022.11.29_195657.mp4/playlist.m3u8",
+    "keywords": {
+        "gemeente Eindhoven": 0.9970172757348397,
+        "Eindhoven Raadsnummer": 0.9945168711361204,
+        "Raadsnummer Inboeknummer": 0.9930036365839923,
+        "Dossiernummer Raadsbesluit": 0.9930036365839923,
+        "Benoeming leden": 1.9918889539206799,
+        "Raadsbesluit benoeming": 0.9912127806537427,
+        "klankbordgesprek burgemeester": 1.9864330992552794,
+        "burgemeester gemeente": 0.9832028104218375,
+        "Verordening klankbordgesprek": 0.9817790240918757,
+        "leden commissie": 1.9792052744252107,
+        "Eindhoven": 0.9781922840822816,
+        "gemeente": 0.9548130723974193,
+        "leden": 1.923623708052364,
+        "Inboeknummer": 0.9166468092914788,
+        "Verordening": 0.9166468092914788,
+        "besluit": 0.8430951559016536,
+        "Raadsvoorstel": 1.797886822632945,
+        "gelet": 0.797886822632945,
+        "raad": 0.7513968612769308,
+        "Acquoij": 0.7207743562930405,
+        "Bruijn": 0.6780784799090163,
+        "Jongbloed": 0.5586663673856065
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": "10-04-2026",
+    "meeting_id": []
+}

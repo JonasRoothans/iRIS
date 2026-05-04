@@ -1,0 +1,116 @@
+{
+    "module_id": 948989,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230013,
+    "title": "Geïntensiveerd m.b.t. de Nederlandse taal en integratie in Eindhoven - Raadsvoorstel Intentieovereenkomst vestiging van ASML op BIC Noord",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/948989",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Steenbakkers (Wethouder)",
+    "result": "",
+    "date": "04-06-2024",
+    "meeting_url": {
+        "1147940": "https://raadsinformatie.eindhoven.nl/vergadering/1147940#ai_8430554"
+    },
+    "attachment": null,
+    "parent": 937473,
+    "children": [],
+    "text": "Wethouder Steenbakkers zegt toe met ASML, andere bedrijven uit de keten en het expatcenter te bespreken hoe geïntensiveerd kan worden op de Nederlandse taal en integratie in Eindhoven door buitenlandse werknemers.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 949613,
+            "weight": 1.4909600175326885
+        },
+        {
+            "id": 948986,
+            "weight": 1.4896888628857416
+        },
+        {
+            "id": 948991,
+            "weight": 1.4863098207636072
+        },
+        {
+            "id": 948987,
+            "weight": 1.4856693091648223
+        },
+        {
+            "id": 966051,
+            "weight": 0.8385096579957962
+        },
+        {
+            "id": 949263,
+            "weight": 0.2446966861580082
+        },
+        {
+            "id": 932122,
+            "weight": 0.24082249807607262
+        },
+        {
+            "id": 949454,
+            "weight": 0.23520507548484743
+        },
+        {
+            "id": 949456,
+            "weight": 0.2056786449154804
+        },
+        {
+            "id": 792398,
+            "weight": 0.10664905558495372
+        },
+        {
+            "id": 832734,
+            "weight": 0.09950664874009892
+        },
+        {
+            "id": 1045149,
+            "weight": 0.08185323122232092
+        },
+        {
+            "id": 974101,
+            "weight": 0.0793924394387199
+        },
+        {
+            "id": 795415,
+            "weight": 0.07696085966957526
+        }
+    ],
+    "videostarttime": {
+        "1147940": 19757
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_04.06.24_Eindhoven_meningCK.mp4/playlist.m3u8",
+    "keywords": {
+        "Nederlandse taal": 1.996750195485461,
+        "Raadsvoorstel Intentieovereenkomst": 1.995930496101516,
+        "BIC Noord": 1.9944086127164278,
+        "Noord Wethouder": 0.9944086127164278,
+        "Wethouder Steenbakkers": 0.9944086127164278,
+        "Intentieovereenkomst vestiging": 1.9892807261885401,
+        "Steenbakkers zegt": 0.9892807261885401,
+        "buitenlandse werknemers": 0.9861660977578529,
+        "Eindhoven": 1.9615327108241987,
+        "ASML": 1.952758313349055,
+        "taal": 1.9458526748531446,
+        "integratie": 1.9458526748531446,
+        "Raadsvoorstel": 1.9456463545038702,
+        "BIC": 1.9254325975589879,
+        "werknemers": 0.9040616841881561,
+        "Geïntensiveerd": 1.9038656455560534,
+        "vestiging": 1.8577717709682364,
+        "zegt": 0.8577717709682363,
+        "bedrijven": 0.8577717709682363,
+        "keten": 0.8577717709682363,
+        "expatcenter": 0.8577717709682363,
+        "bespreken": 0.8577717709682363
+    },
+    "svz": null,
+    "afgedaan": "03-09-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

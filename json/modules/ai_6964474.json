@@ -1,0 +1,59 @@
+{
+    "module_id": "ai_6964474",
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230014,
+    "title": "Biomassa Eenduidig over biomassa ( M1) ",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/moties_en_toezeggingen/775227?parent_event=1013429",
+    "type": "Agenda",
+    "member": null,
+    "party": null,
+    "poho": "R. Thijs (Wethouder)",
+    "result": "",
+    "date": "24-05-2022",
+    "meeting_url": "https://raadsinformatie.eindhoven.nl/vergadering/1013429#ai_6964474",
+    "attachment": null,
+    "parent": null,
+    "children": [
+        775227
+    ],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 941360,
+            "weight": 0.7321187496184914
+        },
+        {
+            "id": 777522,
+            "weight": 0.6819079125515425
+        },
+        {
+            "id": "a_8465104",
+            "weight": 0.39970131873713755
+        },
+        {
+            "id": 944421,
+            "weight": 0.33914558025171576
+        },
+        {
+            "id": 791378,
+            "weight": 0.3205433205438641
+        }
+    ],
+    "videostarttime": 6538,
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/24.05.22 Eindhoven Raad ruw.mp4/playlist.m3u8",
+    "keywords": {
+        "Biomassa Eenduidig": 1.9702824943882051,
+        "Eenduidig": 1.9029482086059646,
+        "Biomassa": 1.8513172087198924
+    },
+    "svz": "In behandeling.",
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": "30-05-2025",
+    "meeting_id": []
+}

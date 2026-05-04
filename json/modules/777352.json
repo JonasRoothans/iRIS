@@ -1,0 +1,114 @@
+{
+    "module_id": 777352,
+    "vote_id": null,
+    "member_id": [
+        194370
+    ],
+    "party_list": [
+        "PvdA"
+    ],
+    "poho_id": [],
+    "title": "Beantwoording raadsvragen PvdA (Ritmeester) over Maatregelen omtrent afsluiting gastoevoer Duitsland",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/4/Raadsvragen/777352",
+    "type": "Raadsvraag",
+    "member": "Tjeerd Ritmeester",
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "05-07-2022",
+    "meeting_url": null,
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/11771703/1?connection_type=17&connection_id=8591705": "Vraag"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": "22bst01053",
+    "related": [
+        {
+            "id": 777366,
+            "weight": 0.9512063448315402
+        },
+        {
+            "id": 777403,
+            "weight": 0.9512063448315402
+        },
+        {
+            "id": 877845,
+            "weight": 0.39537510264224607
+        },
+        {
+            "id": 896181,
+            "weight": 0.2570467835408613
+        },
+        {
+            "id": 890164,
+            "weight": 0.2235660891312372
+        },
+        {
+            "id": 821636,
+            "weight": 0.20914101067715543
+        },
+        {
+            "id": 925509,
+            "weight": 0.20154519564693513
+        },
+        {
+            "id": 844333,
+            "weight": 0.20038248446342058
+        },
+        {
+            "id": 906401,
+            "weight": 0.19220231908544302
+        },
+        {
+            "id": 1042490,
+            "weight": 0.19194609327984094
+        },
+        {
+            "id": 1041603,
+            "weight": 0.1867768887900775
+        },
+        {
+            "id": 836390,
+            "weight": 0.1639667108894804
+        },
+        {
+            "id": 1098683,
+            "weight": 0.15194541881188722
+        },
+        {
+            "id": 995750,
+            "weight": 0.13941820010685044
+        },
+        {
+            "id": 879018,
+            "weight": 0.13448884279559212
+        },
+        {
+            "id": 881943,
+            "weight": 0.12730901929590424
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "gastoevoer Duitsland": 1.9737669269624916,
+        "Ritmeester": 1.9696036283675864,
+        "Beantwoording raadsvragen": 1.9505961599793435,
+        "raadsvragen PvdA": 1.9505961599793435,
+        "Duitsland": 1.9140368224837343,
+        "afsluiting gastoevoer": 1.9029960071342575,
+        "Maatregelen": 1.8552226942577967,
+        "PvdA": 1.8416830712200127,
+        "afsluiting": 1.702634417439785,
+        "gastoevoer": 1.702634417439785
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": "02-04-2026",
+    "meeting_id": []
+}

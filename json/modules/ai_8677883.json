@@ -1,0 +1,45 @@
+{
+    "module_id": "ai_8677883",
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Zet het mes in het aantal landbouwdieren (Motie M1GS)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/moties_en_toezeggingen/970721?parent_event=1148129",
+    "type": "Agenda",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "01-10-2024",
+    "meeting_url": "https://raadsinformatie.eindhoven.nl/vergadering/1148129#ai_8677883",
+    "attachment": null,
+    "parent": null,
+    "children": [
+        970721
+    ],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 968954,
+            "weight": 2.508232547725915
+        }
+    ],
+    "videostarttime": 2294,
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_01.10.24_Eindhoven_raad.mp4/playlist.m3u8",
+    "keywords": {
+        "aantal landbouwdieren": 1.9846191788281082,
+        "Motie": 1.9696036283675864,
+        "Zet": 1.9043195497355658,
+        "mes": 1.8416830712200127,
+        "aantal": 1.8416830712200127
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": null,
+    "meeting_id": []
+}

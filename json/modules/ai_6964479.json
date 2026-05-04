@@ -1,0 +1,66 @@
+{
+    "module_id": "ai_6964479",
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Overlastmeldingen - M2: Leefbaarheid evaluatie inclusief inwoning",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/moties_en_toezeggingen/775238?parent_event=1013429",
+    "type": "Agenda",
+    "member": null,
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "24-05-2022",
+    "meeting_url": "https://raadsinformatie.eindhoven.nl/vergadering/1013429#ai_6964479",
+    "attachment": null,
+    "parent": null,
+    "children": [
+        775242,
+        787901,
+        775238,
+        787214
+    ],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 787218,
+            "weight": 3.005991237151264
+        },
+        {
+            "id": "ai_6986875",
+            "weight": 2.9437251691086685
+        },
+        {
+            "id": 827895,
+            "weight": 0.5298353364010232
+        },
+        {
+            "id": 779483,
+            "weight": 0.49311586218608155
+        },
+        {
+            "id": 775254,
+            "weight": 0.1634513263898084
+        }
+    ],
+    "videostarttime": 8133,
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/24.05.22 Eindhoven Raad ruw.mp4/playlist.m3u8",
+    "keywords": {
+        "Leefbaarheid evaluatie": 1.9737669269624916,
+        "Overlastmeldingen": 1.9550880231213545,
+        "inclusief inwoning": 1.9505961599793435,
+        "evaluatie inclusief": 1.9029960071342575,
+        "inwoning": 1.8416830712200127,
+        "evaluatie": 1.702634417439785,
+        "inclusief": 1.702634417439785
+    },
+    "svz": "U bent hierover via collegebrief van 22 december 2022 geinformeerd.\nVOORSTEL COLLEGE: AFVOEREN...  Lees verder ",
+    "afgedaan": "Q4-2022",
+    "eersteIndiener": null,
+    "lastScrapeDate": "30-05-2025",
+    "meeting_id": []
+}

@@ -1,0 +1,89 @@
+{
+    "module_id": 860075,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230014,
+    "title": "Faunapassage - Raadsvoorstel Onttrekking van de voetgangerstunnels en paden kunstwerk Dommelbrug Insulindelaan aan de openbaarheid",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/860075",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "R. Thijs (Wethouder)",
+    "result": "",
+    "date": "27-06-2023",
+    "meeting_url": {
+        "1114342": "https://raadsinformatie.eindhoven.nl/vergadering/1114342#ai_7678573"
+    },
+    "attachment": null,
+    "parent": 836390,
+    "children": [],
+    "text": "Wethouder Thijs heeft toegezegd wat betreft de faunapassage te kijken naar de verbetering van de bodem en de verbinding – ter verbetering van de biodiversiteit - en daarbij ook de faunapassage aan de westelijke zijde mee te nemen.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 836390,
+            "weight": 9.89833023646488
+        },
+        {
+            "id": 1133029,
+            "weight": 1.2726931927417326
+        },
+        {
+            "id": 1060059,
+            "weight": 0.5844932804114423
+        },
+        {
+            "id": "a_9608742",
+            "weight": 0.5818722498263147
+        },
+        {
+            "id": 1046636,
+            "weight": 0.3085627601729958
+        },
+        {
+            "id": 1136583,
+            "weight": 0.2734504005689217
+        },
+        {
+            "id": 1036135,
+            "weight": 0.23175467357509794
+        }
+    ],
+    "videostarttime": {
+        "1114342": 624
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_27.06.23_Eindhoven_NC_Meningsvorming en Voorbereiding CIE.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Onttrekking": 1.998093498690581,
+        "Dommelbrug Insulindelaan": 1.997796795151216,
+        "Wethouder Thijs": 0.9977967951512161,
+        "kunstwerk Dommelbrug": 1.9962733608431122,
+        "openbaarheid Wethouder": 0.9962733608431121,
+        "paden kunstwerk": 1.9936898958637006,
+        "westelijke zijde": 0.9936898958637006,
+        "zijde mee": 0.9936898958637006,
+        "Faunapassage": 1.9773390589561042,
+        "verbetering": 0.9656620287081412,
+        "Onttrekking": 1.9531133131020133,
+        "Dommelbrug": 1.9531133131020133,
+        "Thijs": 0.9531133131020133,
+        "biodiversiteit": 0.9336444973364094,
+        "nemen": 0.9336444973364094,
+        "voetgangerstunnels": 1.9208132814252696,
+        "paden": 1.9208132814252696,
+        "toegezegd": 0.9208132814252697,
+        "betreft": 0.9208132814252697,
+        "kijken": 0.9208132814252697,
+        "bodem": 0.9208132814252697,
+        "daarbij": 0.9208132814252697,
+        "mee": 0.9208132814252697
+    },
+    "svz": null,
+    "afgedaan": "12-09-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

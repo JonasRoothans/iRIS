@@ -1,0 +1,104 @@
+{
+    "module_id": 831137,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Informatisering en datagebruik - Raadsvoorstel Informatievoorzieningsvisie en -strategie",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/831137",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "28-03-2023",
+    "meeting_url": {
+        "1059806": "https://raadsinformatie.eindhoven.nl/vergadering/1059806#ai_7479211"
+    },
+    "attachment": null,
+    "parent": 826652,
+    "children": [],
+    "text": "Wethouder Verhees gaat in op de ingebrachte punten en zegt daarbij toe:\n\nte onderzoeken of informatisering en datagebruik bij andere (beleids)voorstellen kan worden uitgelicht via bijvoorbeeld een informatiseringsparagraaf.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 826652,
+            "weight": 1.9953271828543269
+        },
+        {
+            "id": 901969,
+            "weight": 0.9115946686623644
+        },
+        {
+            "id": 881034,
+            "weight": 0.4886866322631613
+        },
+        {
+            "id": 849289,
+            "weight": 0.3631799707358104
+        },
+        {
+            "id": 849081,
+            "weight": 0.3627458793458836
+        },
+        {
+            "id": 977654,
+            "weight": 0.24438939707279927
+        },
+        {
+            "id": 1133034,
+            "weight": 0.2202910949329011
+        },
+        {
+            "id": 849282,
+            "weight": 0.1223359699143935
+        },
+        {
+            "id": 779484,
+            "weight": 0.12231125106776089
+        },
+        {
+            "id": 779485,
+            "weight": 0.12141375681595318
+        },
+        {
+            "id": 849083,
+            "weight": 0.12120914512086482
+        },
+        {
+            "id": 953040,
+            "weight": 0.12104951938209782
+        }
+    ],
+    "videostarttime": {
+        "1059806": 1222
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_28.03.23_NC_eindhoven_raa.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Informatievoorzieningsvisie": 1.9970510556434524,
+        "Wethouder Verhees": 0.9961415037612886,
+        "strategie Wethouder": 0.9950470499296323,
+        "Verhees gaat": 0.9930954113743742,
+        "ingebrachte punten": 0.9876149109152802,
+        "zegt daarbij": 0.9876149109152802,
+        "uitgelicht via": 0.9876149109152802,
+        "Raadsvoorstel": 1.9525741677026676,
+        "beleids": 0.9476236045756761,
+        "Informatisering": 1.9464873928757938,
+        "datagebruik": 1.9464873928757938,
+        "strategie": 1.920503972058685,
+        "voorstellen": 0.920503972058685,
+        "gaat": 0.889394506617173,
+        "punten": 0.889394506617173,
+        "zegt": 0.889394506617173,
+        "onderzoeken": 0.889394506617173,
+        "via": 0.889394506617173
+    },
+    "svz": null,
+    "afgedaan": "05-03-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

@@ -1,0 +1,58 @@
+{
+    "module_id": "m_8953764",
+    "vote_id": 8953764,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Motie met gestaakte stemmen Activistisch Aandeelhouderschap Eindhoven Airport",
+    "url": "https://raadsinformatie.eindhoven.nl/vergadering/1148345/Motie%20met%20gestaakte%20stemmen%20Activistisch%20Aandeelhouderschap%20Eindhoven%20Airport 17-12-2024#voting_8953764",
+    "type": "Moties",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "aangenomen",
+    "date": "17-12-2024",
+    "meeting_url": {
+        "1148345": "https://raadsinformatie.eindhoven.nl/vergadering/1148345/Motie%20met%20gestaakte%20stemmen%20Activistisch%20Aandeelhouderschap%20Eindhoven%20Airport 17-12-2024#voting_8953764"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 992479,
+            "weight": 2.633447547234648
+        },
+        {
+            "id": 991296,
+            "weight": 2.633429682281794
+        },
+        {
+            "id": "a_9840738",
+            "weight": 1.8658891335813892
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Eindhoven Airport": 1.9873976398760465,
+        "Activistisch Aandeelhouderschap": 1.9785907845614,
+        "Aandeelhouderschap Eindhoven": 1.9785907845614,
+        "stemmen Activistisch": 1.955011371234592,
+        "Airport": 1.9140368224837343,
+        "gestaakte stemmen": 1.9029960071342575,
+        "Motie": 1.8416830712200127,
+        "stemmen": 1.702634417439785
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1148345
+    ]
+}

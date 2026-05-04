@@ -1,0 +1,81 @@
+{
+    "module_id": 828037,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230022,
+    "title": "Maak Eindhoven borstvoedingsvriendelijk (Vraag V2 Vragenhalfuur)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/moties_en_toezeggingen/828037?parent_event=1013470",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Toub (Wethouder)",
+    "result": "",
+    "date": "14-03-2023",
+    "meeting_url": {
+        "1013470": "https://raadsinformatie.eindhoven.nl/vergadering/1013470#ai_6964824"
+    },
+    "attachment": null,
+    "parent": "ai_6964824",
+    "children": [],
+    "text": "Wethouder Toub zegt toe te zullen onderzoeken wat de mogelijkheden zijn om Eindhoven borstvoedingsvriendelijker te maken en hier voor het einde van het jaar over te rapporteren.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 12503815,
+            "weight": 3.905026519402493
+        },
+        {
+            "id": 1060105,
+            "weight": 0.11745262747293193
+        },
+        {
+            "id": 831162,
+            "weight": 0.08946476828068983
+        },
+        {
+            "id": 926861,
+            "weight": 0.08831731871917768
+        },
+        {
+            "id": 1026184,
+            "weight": 0.08686367560494966
+        },
+        {
+            "id": 835022,
+            "weight": 0.079549971173537
+        },
+        {
+            "id": 1150885,
+            "weight": 0.06821614215934585
+        }
+    ],
+    "videostarttime": {
+        "1013470": 1434
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_14.03.23_NC_Eindhoven_Raadsvergadering .mp4/playlist.m3u8",
+    "keywords": {
+        "Wethouder Toub": 0.9963538786044212,
+        "Maak Eindhoven": 1.9922647980503938,
+        "Eindhoven borstvoedingsvriendelijk": 1.9922647980503938,
+        "Toub zegt": 0.9907583345026312,
+        "Vraag": 1.9670454238123862,
+        "Vragenhalfuur": 1.9670454238123862,
+        "Toub": 0.9291585062899872,
+        "Maak": 1.9132354934309068,
+        "rapporteren": 0.9132354934309068,
+        "zegt": 0.8707390439622532,
+        "onderzoeken": 0.8707390439622532,
+        "mogelijkheden": 0.8707390439622532,
+        "maken": 0.8707390439622532,
+        "einde": 0.8707390439622532,
+        "jaar": 0.8707390439622532
+    },
+    "svz": "VOORSTEL COLLEGE: AFVOERENDe raad is met een collegebrief over 'Eindhoven Borstvoedingsvriendelijker' op 21 me...  Lees verder ",
+    "afgedaan": "04-06-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

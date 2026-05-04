@@ -1,0 +1,70 @@
+{
+    "module_id": 1058181,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 231116,
+    "title": "Rapportage in de jaarstukken - Initiatiefvoorstel Internationaal Beleid",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1058181",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "J. Dijsselbloem (Burgemeester)",
+    "result": "",
+    "date": "24-06-2025",
+    "meeting_url": {
+        "1256622": "https://raadsinformatie.eindhoven.nl/vergadering/1256622#ai_9382847"
+    },
+    "attachment": null,
+    "parent": 1036878,
+    "children": [],
+    "text": "De burgemeester zegt toe:\nDe raad jaarlijks te informeren via rapportage in de jaarstukken over de internationale activiteiten, successen en prioritering.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1058182,
+            "weight": 3.984524510259443
+        },
+        {
+            "id": 815678,
+            "weight": 0.15547820275797355
+        },
+        {
+            "id": 1085536,
+            "weight": 0.123218282058796
+        },
+        {
+            "id": 14021560,
+            "weight": 0.09537813422625732
+        }
+    ],
+    "videostarttime": {
+        "1256622": 766
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_24.06.25_NC_Eindhoven_Raad.mp4/playlist.m3u8",
+    "keywords": {
+        "Initiatiefvoorstel Internationaal": 1.9963935077322486,
+        "Internationaal Beleid": 1.9955295151015315,
+        "burgemeester zegt": 0.9813717549921225,
+        "Beleid": 1.9332872680120117,
+        "via rapportage": 0.9256619198352768,
+        "jaarstukken": 1.901701425235069,
+        "zegt": 0.8647684227097191,
+        "raad jaarlijks": 0.8586093764906381,
+        "informeren via": 0.8586093764906381,
+        "activiteiten": 0.7147846497937749,
+        "successen": 0.7147846497937749,
+        "prioritering": 0.7147846497937749,
+        "raad": 0.6480401251758247,
+        "via": 0.6480401251758247
+    },
+    "svz": null,
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "02-10-2025",
+    "meeting_id": [
+        1256622
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "module_id": "ai_8588364",
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230019,
+    "title": "Algemene Subsidieverordening - Subsidies (Agenderingsverzoek PvdD, Volt, D66, PvdA)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/moties_en_toezeggingen/1029708?parent_event=1256340",
+    "type": "Agenda",
+    "member": null,
+    "party": null,
+    "poho": "M. van Lanschot (Wethouder)",
+    "result": "",
+    "date": "18-03-2025",
+    "meeting_url": "https://raadsinformatie.eindhoven.nl/vergadering/1256340#ai_8588364",
+    "attachment": null,
+    "parent": null,
+    "children": [
+        1029708
+    ],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 935353,
+            "weight": 0.7924088416067123
+        },
+        {
+            "id": 1037141,
+            "weight": 0.7920419585746
+        },
+        {
+            "id": 1035123,
+            "weight": 0.7916795338157812
+        },
+        {
+            "id": 1047421,
+            "weight": 0.19753069215302596
+        },
+        {
+            "id": 826203,
+            "weight": 0.19411557966166465
+        },
+        {
+            "id": 902759,
+            "weight": 0.18835614727552433
+        },
+        {
+            "id": 968639,
+            "weight": 0.18212232547015134
+        },
+        {
+            "id": 790614,
+            "weight": 0.1677197026191895
+        },
+        {
+            "id": 1046820,
+            "weight": 0.1677070853671828
+        },
+        {
+            "id": 1046827,
+            "weight": 0.16769700500570678
+        },
+        {
+            "id": 822236,
+            "weight": 0.1370062329080653
+        }
+    ],
+    "videostarttime": 30,
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/18.03.25 Eindhoven meningsvormende Raad.mp4/playlist.m3u8",
+    "keywords": {
+        "Algemene Subsidieverordening": 1.986202801796007,
+        "Agenderingsverzoek PvdD": 1.986202801796007,
+        "Subsidies": 1.9696036283675864,
+        "Volt": 1.9696036283675864,
+        "PvdA": 1.9550880231213545,
+        "Algemene": 1.8416830712200127
+    },
+    "svz": "De Algemene SubsidieVerordening is gewijzigd en goedgekeurd in de raadsvergadering van 1 juli 2025. Daarnaast ...  Lees verder ",
+    "afgedaan": "Q3 2025",
+    "eersteIndiener": null,
+    "lastScrapeDate": "19-08-2025",
+    "meeting_id": []
+}

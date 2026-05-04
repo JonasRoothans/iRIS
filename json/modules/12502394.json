@@ -1,0 +1,131 @@
+{
+    "module_id": 12502394,
+    "vote_id": null,
+    "member_id": [
+        194495
+    ],
+    "party_list": [
+        "Partij voor de Dieren"
+    ],
+    "poho_id": [],
+    "title": "Vraag V1 Vragenhalfuur Pijlsnel een vuurwerkvrij Eindhoven (PvdD)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "13-03-2023",
+    "meeting_url": {
+        "1013470": "https://raadsinformatie.eindhoven.nl/vergadering/1013470/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/12502394/1/Vraag+V1+Vragenhalfuur+Pijlsnel+een+vuurwerkvrij+Eindhoven+%28PvdD%29?connection_type=1&connection_id=6964824",
+    "pdf_text": "   \n   \n Vraag Vragenhalfuur  “Pijlsnel  een vuurwerkvrij  Eindhoven”       \n                    V1   \n   \nGeachte college,    \n  \nDe gemeente Eindhoven is gestart met een enquête onder de inwoners  \nhoe zij een vuurwerkvrij Eindhoven graag zien. In een artikel van het  \nEindhovens dagblad d.d.  01-03-2023 wordt zelfs aangegeven dat er vanaf  \nkomende jaarwisseling een vuurwerkverbod geldt. Dit zou geweldig  zijn, \nechter hebben wij hier geen verdere informatie over gezien of ontvangen.  \n \nIn de laatste raadsinfor matiebrief d.d. 29 -11-2022 is aangegeven dat w e  \nbegin 2023 worden geïnformeerd over de stappen die gezet worden  \nrichting een vuurwerkvrije jaarwisseling vanaf 2023 – 2024.  \n \nDe Partij voor de Dieren heeft daarom de volgende vragen:  \n \n1. Kan de burgemeester toezeggen dat de jaarwisseling vanaf heden \nvuurwerkvrij is (dus dat door particulieren geen vuurwerk meer mag \nworden afgestoken)?  \n2. Indien deze toezegging nu nog niet gedaan kan worden in verband met \nhet onderzoek naar de mogelijkheden voor een vuurwerkvrij Ei ndhoven \ndan vernemen wij graag wanneer we de onderzoeksresultaten mogen \nverwachten  en uitsluitsel hierover ?  \n \n \n  \nVirginia Jonkers, raadslid   \n  \n  \n  \n \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 845573,
+            "weight": 1.0543565173315483
+        },
+        {
+            "id": 845595,
+            "weight": 0.5686116848416506
+        },
+        {
+            "id": 1013484,
+            "weight": 0.3783951517291584
+        },
+        {
+            "id": 956511,
+            "weight": 0.1685714587255182
+        },
+        {
+            "id": 1133030,
+            "weight": 0.16796676209095054
+        },
+        {
+            "id": 819064,
+            "weight": 0.1676950558082581
+        },
+        {
+            "id": 798673,
+            "weight": 0.1656551073680333
+        },
+        {
+            "id": 12755339,
+            "weight": 0.16042590416233418
+        },
+        {
+            "id": 867308,
+            "weight": 0.15703922714910273
+        },
+        {
+            "id": 1036563,
+            "weight": 0.0990756561220709
+        },
+        {
+            "id": 828676,
+            "weight": 0.09405419310448104
+        },
+        {
+            "id": 1127746,
+            "weight": 0.09388402547157201
+        },
+        {
+            "id": 777027,
+            "weight": 0.08044416552621032
+        },
+        {
+            "id": 1007170,
+            "weight": 0.07665045024316794
+        }
+    ],
+    "videostarttime": {
+        "1013470": 1434
+    },
+    "videolink": null,
+    "keywords": {
+        "Vragenhalfuur Pijlsnel": 1.9966296811073865,
+        "Vraag Vragenhalfuur": 0.9958436486123436,
+        "Geachte college": 0.9902158617417558,
+        "vuurwerkvrij Eindhoven": 1.9864677469837697,
+        "gemeente Eindhoven": 0.9816498500934127,
+        "Eindhoven": 1.9747900943074694,
+        "Pijlsnel": 1.9723223952283386,
+        "Vraag": 1.9658940873402968,
+        "Eindhovens dagblad": 0.9546284108995163,
+        "Geachte": 0.9380455751968239,
+        "graag zien": 0.9140214620345993,
+        "PvdD": 1.8652183020008568,
+        "jaarwisseling": 0.846343313469024,
+        "college": 0.8436054166984637,
+        "zien": 0.8436054166984637,
+        "Virginia Jonkers": 0.8307147045058825,
+        "gemeente": 0.8213054642936917,
+        "gestart": 0.8213054642936917,
+        "enquête": 0.8213054642936917,
+        "inwoners": 0.8213054642936917,
+        "aangegeven": 0.771591351210819,
+        "vuurwerkverbod geldt": 0.6601677796436107,
+        "heden vuurwerkvrij": 0.6580486169207347,
+        "Virginia": 0.6195046322915113,
+        "Jonkers": 0.6195046322915113,
+        "Partij": 0.6189036060157183,
+        "Dieren": 0.6189036060157183,
+        "artikel": 0.5695902654250284,
+        "dagblad": 0.5695902654250284,
+        "geldt": 0.5159770373998668,
+        "verdere informatie": 0.5078067354217439
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194495,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1013470
+    ]
+}

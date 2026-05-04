@@ -1,0 +1,138 @@
+{
+    "module_id": 891771,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230022,
+    "title": "City deal Gezonde en duurzame voedselomgeving - Raadsvoorstel Vaststellen Begroting 2024",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/891771",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Toub (Wethouder)",
+    "result": "",
+    "date": "31-10-2023",
+    "meeting_url": {
+        "1153547": "https://raadsinformatie.eindhoven.nl/vergadering/1153547#ai_7885375"
+    },
+    "attachment": null,
+    "parent": 879979,
+    "children": [],
+    "text": "Wethouder Toub zegt toe de raad schriftelijk te informeren over het wel of niet aansluiten bij de City deal Gezonde en duurzame voedselomgeving om de voedselomgeving in 2030 overwegend gezond en duurzaam te maken als versterking van het lokale beleid.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": "a_7981810",
+            "weight": 2.904810740416875
+        },
+        {
+            "id": 1136754,
+            "weight": 0.9968638698220891
+        },
+        {
+            "id": 881854,
+            "weight": 0.9967611158426051
+        },
+        {
+            "id": 891776,
+            "weight": 0.10751186544439176
+        },
+        {
+            "id": 984494,
+            "weight": 0.10599266983001183
+        },
+        {
+            "id": 984496,
+            "weight": 0.10599266983001183
+        },
+        {
+            "id": 984484,
+            "weight": 0.10341487844325803
+        },
+        {
+            "id": 984479,
+            "weight": 0.10341487844325803
+        },
+        {
+            "id": 1045784,
+            "weight": 0.09823648174064349
+        },
+        {
+            "id": 1148165,
+            "weight": 0.09337223903944601
+        },
+        {
+            "id": 945682,
+            "weight": 0.08618208959529734
+        },
+        {
+            "id": 1125035,
+            "weight": 0.07620918135063222
+        },
+        {
+            "id": 881818,
+            "weight": 0.07557525754110878
+        },
+        {
+            "id": 785566,
+            "weight": 0.06916132581359925
+        },
+        {
+            "id": 1117282,
+            "weight": 0.061844684718123724
+        },
+        {
+            "id": 915841,
+            "weight": 0.05981283000558403
+        },
+        {
+            "id": 958918,
+            "weight": 0.05757956797512861
+        },
+        {
+            "id": 859252,
+            "weight": 0.05698173650011216
+        },
+        {
+            "id": 883343,
+            "weight": 0.047506368041183585
+        }
+    ],
+    "videostarttime": {
+        "1153547": null
+    },
+    "videolink": null,
+    "keywords": {
+        "deal Gezonde": 1.996704667312866,
+        "Raadsvoorstel Vaststellen": 1.9959036429713182,
+        "Vaststellen Begroting": 1.9959036429713182,
+        "Wethouder Toub": 0.9959036429713183,
+        "City deal": 1.9943630599013848,
+        "Toub zegt": 0.9891837466999261,
+        "duurzame voedselomgeving": 1.9888951835260131,
+        "overwegend gezond": 0.985996557457662,
+        "lokale beleid": 0.985996557457662,
+        "raad schriftelijk": 0.9791054763039932,
+        "City": 1.948985491662852,
+        "Begroting": 1.9454564277210573,
+        "deal": 1.945367518349694,
+        "duurzame": 1.945367518349694,
+        "Toub": 0.9252039209325136,
+        "beleid": 0.9034683824374534,
+        "zegt": 0.8569375030692319,
+        "raad": 0.8569375030692319,
+        "informeren": 0.8569375030692319,
+        "aansluiten": 0.8569375030692319,
+        "gezond": 0.8569375030692319,
+        "maken": 0.8569375030692319,
+        "versterking": 0.8569375030692319,
+        "lokale": 0.8569375030692319
+    },
+    "svz": null,
+    "afgedaan": "14-11-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

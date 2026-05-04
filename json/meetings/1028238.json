@@ -1,0 +1,17 @@
+{
+    "meeting_id": 1028238,
+    "meeting_subid": {
+        "Raadzaal": 1028238
+    },
+    "subtitles": {
+        "Raadzaal": null
+    },
+    "speakers": null,
+    "title": {
+        "Raadzaal": "Bijeenkomst/1028238 Gemeente Eindhoven"
+    },
+    "meeting_url": "https://raadsinformatie.eindhoven.nl/vergadering/1028238/",
+    "api_url": "api.notubiz.nl/events/1028238",
+    "date": "2022-07-20 19:30:00",
+    "type": "Raadstafel21"
+}

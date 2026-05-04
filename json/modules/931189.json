@@ -1,0 +1,145 @@
+{
+    "module_id": 931189,
+    "vote_id": null,
+    "member_id": [
+        194500
+    ],
+    "party_list": [
+        "FVD"
+    ],
+    "poho_id": [],
+    "title": "Beantwoording raadsvragen Niet-belanghebbende? (FvD)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/4/Raadsvragen/931189",
+    "type": "Raadsvraag",
+    "member": "Nicolas Knoester",
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "29-03-2024",
+    "meeting_url": null,
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/13986259/1?connection_type=17&connection_id=10432690": "Vraag",
+        "https://raadsinformatie.eindhoven.nl/document/14145288/1?connection_type=16&connection_id=931189": "Antwoord"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": " \n \n \nRaadsvragen Niet-belanghebbende?  \n \ndatum:  29 maart 2024  \n \n \nGeacht college,  \n \n \nInleiding  \nHet college heeft de afgelopen tijd steeds vaker bezwaren van tafel \ngeveegd met de argumentatie dat de bezwaarmakers niet -\nbelanghebbenden zijn. Recente voorbeelden zijn Stichting Beter \nEindhoven (zie: https://www.ed.nl/eindhoven/eindhovense -luis-in-de-\npels-buitenspel -gezet -we-laten -ons-niet-monddood -maken~acd0d4c7/ ) \nen bewoners van de Gerardusbuurt waar een daklozenopvang gaat \nkomen (zie: https://www.ed.nl/eindhoven/het -is-te-gek-voor-woorden -\neindhovenaren -stomverbaasd -over-afgewezen -\nopvangbezwaren~a9ada304/ ). \n \nFVD vindt dit een zorgwekkende ontwikkeling waarbij de indruk wordt \ngewekt dat de gemeente de meest makkelijke weg zoekt waardoor ze \nniet inhoudelijk op de bezwaren hoeft in te gaan.  \n \nRaadsvragen  \n1. Deelt het college de mening dat een zorgwekkende ontwikkeling \nis in het kader van een betrouwbare gemeente?  \n2. Deelt het college de mening dat deze gang van zaken het \nvertrouwen in burgerparticipatie ondermijnt?  \n3. Gaat het college vanaf nu inhoudelijk op de bezwaren in ipv de \nbezwaarmakers simpelweg af te doen als niet -\nbelanghebbenden?  \n \nNamens de fractie , \nForum voor Democratie  \n \nNicolas Knoester , raadslid  \n",
+    "bst": "24bst00481",
+    "related": [
+        {
+            "id": 946698,
+            "weight": 1.9807592180068776
+        },
+        {
+            "id": 925552,
+            "weight": 0.7141488785021864
+        },
+        {
+            "id": 800361,
+            "weight": 0.2826056041731028
+        },
+        {
+            "id": 12707379,
+            "weight": 0.274476059119759
+        },
+        {
+            "id": 1117280,
+            "weight": 0.14180362351830988
+        },
+        {
+            "id": 935238,
+            "weight": 0.10304182043695931
+        },
+        {
+            "id": 802336,
+            "weight": 0.09600440355254156
+        },
+        {
+            "id": 1057193,
+            "weight": 0.08897813696533967
+        },
+        {
+            "id": 956987,
+            "weight": 0.08785960617463609
+        },
+        {
+            "id": 1085543,
+            "weight": 0.08775522706521095
+        },
+        {
+            "id": 994013,
+            "weight": 0.08614587900648332
+        },
+        {
+            "id": 1071708,
+            "weight": 0.08168876918479283
+        },
+        {
+            "id": 855743,
+            "weight": 0.08028495796361057
+        },
+        {
+            "id": 844704,
+            "weight": 0.07633660140583516
+        },
+        {
+            "id": 1000389,
+            "weight": 0.07383530667973115
+        },
+        {
+            "id": 987241,
+            "weight": 0.07261049412999622
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "raadsvragen Niet-belanghebbende": 1.9909403416586142,
+        "Beantwoording raadsvragen": 1.9710740767350399,
+        "raadsvragen": 1.9366947830245937,
+        "college": 0.9285747039443021,
+        "Geacht college": 0.9042958962470087,
+        "zorgwekkende ontwikkeling": 0.871090746307515,
+        "FvD": 1.8658634054200216,
+        "bezwaren": 0.8653520733580905,
+        "Deelt": 0.8338796152539641,
+        "Nicolas Knoester": 0.816817016602053,
+        "FVD vindt": 0.8137005950744987,
+        "gaat": 0.8045823687003852,
+        "Democratie Nicolas": 0.8039868156797427,
+        "belanghebbenden": 0.7814825930607332,
+        "zorgwekkende": 0.7814825930607332,
+        "mening": 0.768743715502038,
+        "ontwikkeling": 0.7654960947203376,
+        "inhoudelijk": 0.7564445892845726,
+        "Geacht": 0.7554232223410648,
+        "Inleiding": 0.7554232223410648,
+        "gemeente": 0.750359830551193,
+        "gaat komen": 0.7457667679203115,
+        "daklozenopvang gaat": 0.7243139283558941,
+        "Eindhoven": 0.7159374213703531,
+        "Stichting": 0.6964708424422301,
+        "Gerardusbuurt": 0.6964708424422301,
+        "tafel geveegd": 0.662554772325312,
+        "Forum": 0.6175641873228986,
+        "Knoester": 0.6175641873228986,
+        "Recente voorbeelden": 0.5979227668851199,
+        "Nicolas": 0.5951681636980206,
+        "datum": 0.5688104520157267,
+        "bezwaarmakers simpelweg": 0.5617284743267275,
+        "betrouwbare gemeente": 0.5459910204943015,
+        "pels-buitenspel": 0.5184038826421377,
+        "gezet": 0.5184038826421377,
+        "we-laten": 0.5184038826421377,
+        "maken": 0.5184038826421377,
+        "stomverbaasd": 0.5184038826421377,
+        "over-afgewezen": 0.5184038826421377
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194500,
+    "lastScrapeDate": "02-04-2026",
+    "meeting_id": []
+}

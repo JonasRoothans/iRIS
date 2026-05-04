@@ -1,0 +1,54 @@
+{
+    "module_id": 1045749,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230024,
+    "title": "Verbetertraject Ergon - Raadsvoorstel Kadernota 2026",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1045749",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Lammers (Wethouder)",
+    "result": "",
+    "date": "13-05-2025",
+    "meeting_url": {
+        "1256605": "https://raadsinformatie.eindhoven.nl/vergadering/1256605#ai_9262973"
+    },
+    "attachment": null,
+    "parent": 1034468,
+    "children": [],
+    "text": "Wethouder Lammers zegt toe de voortgang op te nemen in de collegebrieven Werk en Inkomen die de raad elk kwartaal ontvangt.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [],
+    "videostarttime": {
+        "1256605": 13274
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_13.05.25_NC_01-EINDHOVEN-RAA.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Kadernota": 1.9977134700191637,
+        "Wethouder Lammers": 0.9968131692799578,
+        "Verbetertraject Ergon": 1.9963015155672643,
+        "Lammers zegt": 0.9922565679365212,
+        "collegebrieven Werk": 0.9922565679365212,
+        "kwartaal ontvangt": 0.9910067820787357,
+        "Ergon": 1.9522369003446032,
+        "Kadernota": 1.9522369003446032,
+        "Werk": 0.9334903489260249,
+        "Inkomen": 0.9334903489260249,
+        "ontvangt": 0.9228514046076703,
+        "zegt": 0.8844689164123877,
+        "voortgang": 0.8844689164123877,
+        "raad": 0.8844689164123877,
+        "kwartaal": 0.8844689164123877
+    },
+    "svz": null,
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": [
+        1256605
+    ]
+}

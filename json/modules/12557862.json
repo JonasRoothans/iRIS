@@ -1,0 +1,126 @@
+{
+    "module_id": 12557862,
+    "vote_id": null,
+    "member_id": [
+        133670,
+        194511
+    ],
+    "party_list": [
+        "GroenLinks"
+    ],
+    "poho_id": [],
+    "title": "8. Rondvraag “Neemt iedereen haar verantwoordelijkheid”  - GL",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "27-03-2023",
+    "meeting_url": {
+        "1059807": "https://raadsinformatie.eindhoven.nl/vergadering/1013477/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://api.notubiz.nl/document/12557862/1",
+    "pdf_text": " \nRondvraag meningsvorming 28 maart 2023:  \n \n“Neemt iedereen haar verantwoordelijkheid?”   \n \nVorig jaar riep Eindhoven de klimaat - en de biodiversiteitscrisis uit. En we zijn trots dat \nEindhoven en het college met de Europese missie onze klimaatambities verhogen.  \nAfgelopen weken werden we echter weer met onze neus op de feiten gedrukt. We schrokk en \nvan het nieuwe laatste IPCC rapport, de rapporten over de biodiversiteit in Noord -Brabant en \nhet feit dat afgelopen week duidelijk werd dat de minister besloten heeft niet te handhaven \nop de uitstoot van Eindhoven Airport.  \nDe natuur en de Europese wetgeving geeft duidelijk aan dat voor onze natuur en toekomst \nandere keuzes gemaakt moeten worden. De bio -industrie wordt flink aangepakt maar \ntegelijkertijd krijgt de luchtvaart wel de ruimte. GroenLinks is verbaasd over het besluit van \nde minister om niet te  handhaven op de stikstofuitstoot van Eindhoven Airport.  GroenLinks \nstaat achter het rapport van Van Geel en tegelijkertijd zien we dat de werkelijkheid nu vraagt \nom meer actie. We moeten de impasse doorbreken voor het klimaat, de natuur en de \nwoningbouw.  \nDaarom heeft GroenLinks de volgende vragen:  \n1. Hoe reflecteert het college op het IPCC rapport, de staat van de natuur in Brabant en \nde vergunningstop van de provincie Noord -Brabant in relatie tot de luchtvaart in onze \ngemeente?  \n2. Is het college bereid om met zoveel mogelijk partners een brief te sturen naar het \nministerie van Landbouw Natuur en Voedselkwaliteit om uitsluitsel te geven over de \nnatuurvergunning van Eindhoven Airport ? \n \nBart Habraken  – GroenLinks Eindhoven  \nLotte Meerhoff – GroenLinks Eindhoven  \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 831516,
+            "weight": 1.2927883469063366
+        },
+        {
+            "id": 12534630,
+            "weight": 0.46095564474076156
+        },
+        {
+            "id": 803046,
+            "weight": 0.41209605492083035
+        },
+        {
+            "id": "ai_7231226",
+            "weight": 0.3616185396970317
+        },
+        {
+            "id": 995750,
+            "weight": 0.30390840755861465
+        },
+        {
+            "id": 883783,
+            "weight": 0.19130724714006941
+        },
+        {
+            "id": 892441,
+            "weight": 0.16912187675119889
+        },
+        {
+            "id": 850149,
+            "weight": 0.16843388900503362
+        },
+        {
+            "id": 791806,
+            "weight": 0.14050532375190394
+        },
+        {
+            "id": 991306,
+            "weight": 0.12600654561505523
+        },
+        {
+            "id": 1012995,
+            "weight": 0.11002222214062163
+        }
+    ],
+    "videostarttime": {
+        "1059807": 1489
+    },
+    "videolink": null,
+    "keywords": {
+        "Eindhoven Airport": 0.9858845251577921,
+        "Neemt iedereen": 1.9782407256177859,
+        "GroenLinks Eindhoven": 0.9622756585318805,
+        "natuur": 0.9345135422317277,
+        "Neemt": 1.9291761766349986,
+        "Airport": 0.91931705496713,
+        "GroenLinks": 0.916403076035718,
+        "IPCC rapport": 0.9099043380372742,
+        "Brabant": 0.9032006043975073,
+        "Rondvraag meningsvorming": 0.9012355128216603,
+        "Rondvraag": 1.8925825656900352,
+        "Europese": 0.8624580888020272,
+        "verantwoordelijkheid": 1.8602311673585052,
+        "Noord": 0.8424668170575185,
+        "college": 0.8418343897191972,
+        "IPCC": 0.8370002253092377,
+        "Landbouw Natuur": 0.836048250424279,
+        "Bart Habraken": 0.7876764005006135,
+        "Europese wetgeving": 0.781893494100995,
+        "Lotte Meerhoff": 0.7804403834966078,
+        "klimaat": 0.7587617794539583,
+        "handhaven": 0.7549630250051174,
+        "minister": 0.7461911419353439,
+        "duidelijk": 0.74577470337626,
+        "laatste IPCC": 0.7393426471134471,
+        "luchtvaart": 0.7296663087655906,
+        "tegelijkertijd": 0.7284109612014132,
+        "staat": 0.717348204351465,
+        "provincie Noord": 0.7158287929062715,
+        "Vorig jaar": 0.6279353057892317,
+        "jaar riep": 0.6095871727235026,
+        "maart": 0.5998467602820913,
+        "Geel": 0.5974183470373051,
+        "Voedselkwaliteit": 0.5698107296930447,
+        "Lotte": 0.5698107296930447,
+        "minister besloten": 0.5251756382847532,
+        "klimaatambities verhogen": 0.5159853473395363
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 133670,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1059807
+    ]
+}

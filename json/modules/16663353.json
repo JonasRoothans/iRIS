@@ -1,0 +1,112 @@
+{
+    "module_id": 16663353,
+    "vote_id": null,
+    "member_id": [
+        80968
+    ],
+    "party_list": [
+        "SP"
+    ],
+    "poho_id": [],
+    "title": "Rondvraag 2 - Hoe staat het nu met ondersteuning van de Pioenroosstraat (SP)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "03-03-2026",
+    "meeting_url": {
+        "1374925": "https://raadsinformatie.eindhoven.nl/vergadering/1374924/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://api.notubiz.nl/document/16663353/1",
+    "pdf_text": " \n \n \n \nRondvraag  - Hoe staat het nu met ondersteuning van de \nPioenroosstraat?                    \n \n \nIn het debat over woningsplitsing van kamerverhuur op 27 januari jongstleden \ndeed wethouder Verhees de toezegging ervoor te gaan zorgen dat de \nwijkregisseurs ook voor meldingen uit de Pioenroosstraat beschikbaar zijn.  Dit \nleidt tot de volgende vragen aan het college:  \n \n1] Zijn de wijkregisseurs inmiddels beschikbaar voor meldingen uit de \nPioenroosstraat ?  \n \n2] Zo ja: sinds wanneer?  \n \n3] Zo nee: per wanneer zal dat het geval zijn?  \n \n4] Hoe is -of wordt - hierover met de bewoners gecommuniceerd?  \n \nHartelijk dank voor de beantwoording,  \n \nJannie Visscher, raadslid  \n \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 1133253,
+            "weight": 0.5738256934412374
+        },
+        {
+            "id": 1138532,
+            "weight": 0.4943271117963545
+        },
+        {
+            "id": 1023715,
+            "weight": 0.3530399409111243
+        },
+        {
+            "id": 1054433,
+            "weight": 0.3462678788741372
+        },
+        {
+            "id": 1118082,
+            "weight": 0.3172402604275903
+        },
+        {
+            "id": 12640173,
+            "weight": 0.2976774788645281
+        },
+        {
+            "id": 1059939,
+            "weight": 0.19035123797523784
+        },
+        {
+            "id": 894991,
+            "weight": 0.15039246863966904
+        },
+        {
+            "id": 1148996,
+            "weight": 0.122215553290115
+        },
+        {
+            "id": 776868,
+            "weight": 0.1166938755353002
+        }
+    ],
+    "videostarttime": {
+        "1374925": 10431
+    },
+    "videolink": null,
+    "keywords": {
+        "Rondvraag": 1.9755982775873902,
+        "Pioenroosstraat": 1.9688630943256262,
+        "staat": 1.95085459095796,
+        "ondersteuning": 1.95085459095796,
+        "wethouder Verhees": 0.9138841515683459,
+        "Jannie Visscher": 0.8784036103623276,
+        "meldingen": 0.8528238808494683,
+        "wijkregisseurs": 0.8356701879412322,
+        "januari jongstleden": 0.8319516413079728,
+        "beschikbaar": 0.8189241958078741,
+        "jongstleden deed": 0.8091406602453758,
+        "deed wethouder": 0.8091406602453758,
+        "toezegging ervoor": 0.8091406602453758,
+        "gaan zorgen": 0.8091406602453758,
+        "Verhees": 0.8019474407288661,
+        "volgende vragen": 0.678790630214949,
+        "Jannie": 0.6707376762722247,
+        "januari": 0.6406257326618476,
+        "debat": 0.5996623136052346,
+        "woningsplitsing": 0.5996623136052346,
+        "kamerverhuur": 0.5996623136052346,
+        "deed": 0.5996623136052346,
+        "ervoor": 0.5996623136052346,
+        "gaan": 0.5996623136052346,
+        "bewoners gecommuniceerd": 0.5560161713465467,
+        "college": 0.550266095945559,
+        "leidt": 0.5069303397632187,
+        "vragen": 0.5069303397632187
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 80968,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1374925
+    ]
+}

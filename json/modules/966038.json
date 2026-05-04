@@ -1,0 +1,97 @@
+{
+    "module_id": 966038,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230019,
+    "title": "Serieel incidenteel financieren medewerkers - Raadsvoorstel Jaarstukken 2023",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/966038",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. van Lanschot (Wethouder)",
+    "result": "",
+    "date": "26-06-2024",
+    "meeting_url": {
+        "1147976": "https://raadsinformatie.eindhoven.nl/vergadering/1147976#ai_8483475"
+    },
+    "attachment": null,
+    "parent": 946916,
+    "children": [],
+    "text": "Wethouder van Lanschot zegt toe dat hij terug komt op dit risico.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 822740,
+            "weight": 0.17114232535075216
+        },
+        {
+            "id": 905850,
+            "weight": 0.15854556852413906
+        },
+        {
+            "id": 863560,
+            "weight": 0.1533043170625221
+        },
+        {
+            "id": 834563,
+            "weight": 0.1529349973108873
+        },
+        {
+            "id": 1029731,
+            "weight": 0.15267587757680595
+        },
+        {
+            "id": 966042,
+            "weight": 0.14564732073368478
+        },
+        {
+            "id": 850793,
+            "weight": 0.14546249476790243
+        },
+        {
+            "id": 966048,
+            "weight": 0.14493170130835484
+        },
+        {
+            "id": 945619,
+            "weight": 0.14306408947641755
+        },
+        {
+            "id": 966043,
+            "weight": 0.13247158690306804
+        },
+        {
+            "id": 777294,
+            "weight": 0.13108095376826093
+        }
+    ],
+    "videostarttime": {
+        "1147976": null
+    },
+    "videolink": null,
+    "keywords": {
+        "Raadsvoorstel Jaarstukken": 1.9925553183866471,
+        "Lanschot zegt": 0.955011371234592,
+        "Serieel incidenteel": 1.9505961599793435,
+        "financieren medewerkers": 1.9505961599793435,
+        "Jaarstukken": 1.9140368224837343,
+        "Wethouder": 0.9140368224837344,
+        "incidenteel financieren": 1.9029960071342575,
+        "terug komt": 0.9029960071342576,
+        "Serieel": 1.8416830712200127,
+        "medewerkers": 1.8416830712200127,
+        "risico": 0.8416830712200127,
+        "financieren": 1.702634417439785,
+        "zegt": 0.7026344174397849,
+        "terug": 0.7026344174397849,
+        "komt": 0.7026344174397849
+    },
+    "svz": null,
+    "afgedaan": "03-06-2025",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

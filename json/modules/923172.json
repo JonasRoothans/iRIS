@@ -1,0 +1,150 @@
+{
+    "module_id": 923172,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230019,
+    "title": "Uitgangspunten - Raadsvoorstel Actualisatie Beleid verbonden partijen",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/923172",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. van Lanschot (Wethouder)",
+    "result": "",
+    "date": "27-02-2024",
+    "meeting_url": {
+        "1147876": "https://raadsinformatie.eindhoven.nl/vergadering/1147876#ai_8196767"
+    },
+    "attachment": null,
+    "parent": 913551,
+    "children": [],
+    "text": "Wethouder van Lanschot zegt toe dat de raad op de hoogte gesteld wordt wanneer er beargumenteerd afgeweken wordt van de uitgangspunten zoals voorgesteld in de nieuwe beleid Verbonden Partijen.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 923167,
+            "weight": 2.253974013488005
+        },
+        {
+            "id": 913551,
+            "weight": 1.1029631906034512
+        },
+        {
+            "id": "a_8285028",
+            "weight": 0.6340034564189845
+        },
+        {
+            "id": "a_8287348",
+            "weight": 0.630521945520574
+        },
+        {
+            "id": 1089477,
+            "weight": 0.4410423986094345
+        },
+        {
+            "id": 938319,
+            "weight": 0.4410136398282562
+        },
+        {
+            "id": 977702,
+            "weight": 0.4408980393433174
+        },
+        {
+            "id": 944421,
+            "weight": 0.440441807703314
+        },
+        {
+            "id": 881857,
+            "weight": 0.43661517141455386
+        },
+        {
+            "id": 792357,
+            "weight": 0.42884335087536146
+        },
+        {
+            "id": "a_8285576",
+            "weight": 0.3285304201216093
+        },
+        {
+            "id": 941275,
+            "weight": 0.237381098327719
+        },
+        {
+            "id": 1046814,
+            "weight": 0.2183038025011286
+        },
+        {
+            "id": 822893,
+            "weight": 0.1429512436034131
+        },
+        {
+            "id": 955716,
+            "weight": 0.14199375496541009
+        },
+        {
+            "id": 776130,
+            "weight": 0.1390130445823427
+        },
+        {
+            "id": 946373,
+            "weight": 0.11446834448227165
+        },
+        {
+            "id": 12507261,
+            "weight": 0.10011336669026534
+        },
+        {
+            "id": 858100,
+            "weight": 0.09849892240050202
+        },
+        {
+            "id": 1042043,
+            "weight": 0.09345148673513992
+        },
+        {
+            "id": 1133253,
+            "weight": 0.08918273481235295
+        },
+        {
+            "id": 830265,
+            "weight": 0.08906880464673608
+        },
+        {
+            "id": 1059939,
+            "weight": 0.08896307659655492
+        }
+    ],
+    "videostarttime": {
+        "1147876": 958
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_27.02.24_NC_EINDHOVEN_CIE.mp4/playlist.m3u8",
+    "keywords": {
+        "Beleid verbonden": 1.9973437087530292,
+        "verbonden partijen": 1.9973437087530292,
+        "Raadsvoorstel Actualisatie": 1.9968452870156606,
+        "Actualisatie Beleid": 1.9947195721027229,
+        "partijen Wethouder": 0.9947195721027229,
+        "Lanschot zegt": 0.992442229998048,
+        "nieuwe beleid": 0.9902907132294957,
+        "hoogte gesteld": 0.9860768389479304,
+        "beargumenteerd afgeweken": 0.9860768389479304,
+        "Beleid": 1.9589706553064559,
+        "partijen": 1.9589706553064559,
+        "Raadsvoorstel": 1.9508713735623238,
+        "Wethouder": 0.935988601839722,
+        "Uitgangspunten": 1.9266551061625883,
+        "zegt": 0.8828165172000879,
+        "raad": 0.8828165172000879,
+        "hoogte": 0.8828165172000879,
+        "gesteld": 0.8828165172000879,
+        "afgeweken": 0.8828165172000879,
+        "nieuwe": 0.8828165172000879
+    },
+    "svz": null,
+    "afgedaan": "26-03-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

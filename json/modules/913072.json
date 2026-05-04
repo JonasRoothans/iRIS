@@ -1,0 +1,94 @@
+{
+    "module_id": 913072,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": null,
+    "title": "in overleg met inwoners - Spooroverlast (Agenderingsverzoek CDA en PvdA)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/913072",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Esselbrugge (Wethouder)",
+    "result": "",
+    "date": "16-01-2024",
+    "meeting_url": {
+        "1146934": "https://raadsinformatie.eindhoven.nl/vergadering/1146934#ai_8065625"
+    },
+    "attachment": null,
+    "parent": "ai_8065625",
+    "children": [],
+    "text": "Wethouder Esselbrugge zegt toe dat zij twee keer per jaar met inwoners in overleg gaat hoe zij beter betrokken kunnen worden en waarin de gemeente updates deelt.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": "ai_8065625",
+            "weight": 3.91825313340398
+        },
+        {
+            "id": 977702,
+            "weight": 0.10983830399108288
+        },
+        {
+            "id": 938319,
+            "weight": 0.1079338222009102
+        },
+        {
+            "id": 1009622,
+            "weight": 0.0930244567750821
+        },
+        {
+            "id": 835425,
+            "weight": 0.09156079999565526
+        },
+        {
+            "id": 1022977,
+            "weight": 0.0816504719479131
+        },
+        {
+            "id": 816564,
+            "weight": 0.08121464687720788
+        },
+        {
+            "id": 827299,
+            "weight": 0.07999581090299149
+        }
+    ],
+    "videostarttime": {
+        "1146934": 12925
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_16.01.24_NC_EINDHOVEN_CIE.mp4/playlist.m3u8",
+    "keywords": {
+        "Agenderingsverzoek CDA": 1.9942679770961282,
+        "Wethouder Esselbrugge": 0.9942679770961282,
+        "Esselbrugge zegt": 0.9830951648611799,
+        "updates deelt": 0.9797018052925295,
+        "Spooroverlast": 1.966437683229075,
+        "twee keer": 0.9663280845135478,
+        "keer per": 0.9663280845135478,
+        "per jaar": 0.9663280845135478,
+        "gemeente updates": 0.9663280845135478,
+        "overleg gaat": 0.9633920601895661,
+        "Wethouder": 0.9381218153480136,
+        "CDA": 1.9078939676749365,
+        "inwoners": 1.9021663606849604,
+        "PvdA": 1.8897730620927775,
+        "deelt": 0.8897730620927775,
+        "zegt": 0.8195144019090934,
+        "twee": 0.8195144019090934,
+        "keer": 0.8195144019090934,
+        "per": 0.8195144019090934,
+        "jaar": 0.8195144019090934,
+        "gaat": 0.8195144019090934,
+        "betrokken": 0.8195144019090934,
+        "waarin": 0.8195144019090934,
+        "gemeente": 0.8195144019090934
+    },
+    "svz": null,
+    "afgedaan": "11-03-2025",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

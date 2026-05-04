@@ -1,0 +1,121 @@
+{
+    "module_id": 957167,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230022,
+    "title": "Voorbereid voor het OV van de toekomst (Vrije Motie VM1)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/957167",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Esselbrugge (Wethouder)",
+    "result": "",
+    "date": "02-07-2024",
+    "meeting_url": {
+        "1147982": "https://raadsinformatie.eindhoven.nl/vergadering/1147982#ai_7853697"
+    },
+    "attachment": null,
+    "parent": 955457,
+    "children": [],
+    "text": "Wethouder Esselbrugge omarmt de motie met de opmerkingen:\nmet de griffie de vorm te bespreken waarin voor het einde van het jaar de ambities van Eindhoven en de regio voor de nieuwe concessie worden opgehaald om deze een plek te geven in het ambitiedocument voor de nieuwe concessie.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 948371,
+            "weight": 0.484396163791972
+        },
+        {
+            "id": 955457,
+            "weight": 0.2466878388976918
+        },
+        {
+            "id": 16590308,
+            "weight": 0.23064360693716882
+        },
+        {
+            "id": 998971,
+            "weight": 0.16703993447680082
+        },
+        {
+            "id": 1112886,
+            "weight": 0.15314107490497472
+        },
+        {
+            "id": 13305197,
+            "weight": 0.11929904323416168
+        },
+        {
+            "id": 973913,
+            "weight": 0.0747557944046145
+        },
+        {
+            "id": 933180,
+            "weight": 0.06562190923780217
+        },
+        {
+            "id": 853456,
+            "weight": 0.0644687569491753
+        },
+        {
+            "id": 938795,
+            "weight": 0.06259492371440012
+        },
+        {
+            "id": 863511,
+            "weight": 0.06202915984034173
+        },
+        {
+            "id": 940753,
+            "weight": 0.05790027455913995
+        },
+        {
+            "id": 945719,
+            "weight": 0.05715940867536706
+        },
+        {
+            "id": 1014984,
+            "weight": 0.05407008046676217
+        },
+        {
+            "id": 1045935,
+            "weight": 0.04760160343178217
+        }
+    ],
+    "videostarttime": {
+        "1147982": 18199
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_02.07.24_NC_Eindhoven_Raadsvergadering.mp4/playlist.m3u8",
+    "keywords": {
+        "Wethouder Esselbrugge": 0.9981544818950965,
+        "nieuwe concessie": 0.9981391344407589,
+        "Vrije Motie": 1.9976994419273786,
+        "Esselbrugge omarmt": 0.9964289080481632,
+        "bespreken waarin": 0.994019115473477,
+        "nieuwe": 0.9719423546542518,
+        "Motie": 1.971249015017011,
+        "Vrije": 1.9600834953229282,
+        "Wethouder": 0.9600834953229282,
+        "Eindhoven": 0.9538507076992245,
+        "Voorbereid": 1.9354117600863021,
+        "toekomst": 1.9354117600863021,
+        "opmerkingen": 0.935411760086302,
+        "omarmt": 0.9228940584847901,
+        "griffie": 0.9228940584847901,
+        "vorm": 0.9228940584847901,
+        "waarin": 0.9228940584847901,
+        "jaar": 0.9228940584847901,
+        "ambities": 0.9228940584847901,
+        "regio": 0.9228940584847901,
+        "opgehaald": 0.9228940584847901,
+        "plek": 0.9228940584847901,
+        "ambitiedocument": 0.9228940584847901
+    },
+    "svz": "Conform de verzamelbrief: Uitvoering toezeggingen vanuit portefeuille wethouder Strijk, van 18 februari 2025.&...  Lees verder ",
+    "afgedaan": "11-03-2025",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

@@ -1,0 +1,69 @@
+{
+    "module_id": 821749,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Jeugd en jongeren - Raadsvoorstel Startnotitie Pact Woensel Zuid",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/821749",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "07-02-2023",
+    "meeting_url": {
+        "1059802": "https://raadsinformatie.eindhoven.nl/vergadering/1059802#ai_7231191"
+    },
+    "attachment": null,
+    "parent": 804895,
+    "children": [],
+    "text": "Stadsgezant Bellemakers zegt toe (o.v.v. wethouder Verhees):\n\nde raad te informeren over de stand van zaken van jeugd en jongeren binnen het Pact Woensel Zuid;",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 821750,
+            "weight": 0.4888760203960679
+        },
+        {
+            "id": 821751,
+            "weight": 0.48681562432603076
+        },
+        {
+            "id": 821753,
+            "weight": 0.4796761768537496
+        }
+    ],
+    "videostarttime": {
+        "1059802": 7828
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_02.07.23_NC_Eindhoven_MeningsvormingRAA.mp4/playlist.m3u8",
+    "keywords": {
+        "Pact Woensel": 1.9959833087243055,
+        "Woensel Zuid": 1.9959833087243055,
+        "Raadsvoorstel Startnotitie": 1.9938200360610907,
+        "wethouder Verhees": 0.9922921676448395,
+        "Stadsgezant Bellemakers": 0.9908358618993858,
+        "Startnotitie Pact": 1.9900471141379166,
+        "Zuid Stadsgezant": 0.9900471141379165,
+        "Bellemakers zegt": 0.9812491844808146,
+        "Pact": 1.948292563727354,
+        "Zuid": 1.948292563727354,
+        "Raadsvoorstel": 1.935546668876707,
+        "Verhees": 0.935546668876707,
+        "Jeugd": 1.89237649242402,
+        "jongeren": 1.89237649242402,
+        "zegt": 0.8068533039917891,
+        "raad": 0.8068533039917891,
+        "informeren": 0.8068533039917891,
+        "stand": 0.8068533039917891,
+        "zaken": 0.8068533039917891
+    },
+    "svz": "Op 17 april heeft u een RIB ontvangen over definitieve versie Uitvoeringsprogramma 2024-2026, zie https://raad...  Lees verder ",
+    "afgedaan": "14-05-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

@@ -1,0 +1,64 @@
+{
+    "module_id": "ai_6964652",
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Resultaten overgangsperiode - Raadsvoorstel Tot vaststelling paraplubestemmingsplan  parkeren, kamerbewoning en woningsplitsing 2021 ",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/moties_en_toezeggingen/779482?parent_event=1013503",
+    "type": "Agenda",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "17-05-2022",
+    "meeting_url": "https://raadsinformatie.eindhoven.nl/vergadering/1013503#ai_6964652",
+    "attachment": null,
+    "parent": null,
+    "children": [
+        779482,
+        779483,
+        779484,
+        779485
+    ],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": "r_7006035",
+            "weight": 0.679252618469081
+        },
+        {
+            "id": 787218,
+            "weight": 0.3315735956551562
+        },
+        {
+            "id": 787214,
+            "weight": 0.3310711629076659
+        },
+        {
+            "id": 775238,
+            "weight": 0.32902516956423866
+        }
+    ],
+    "videostarttime": 869,
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/17.05.22 Eindhoven Meningsvormend CK ruw.mp4/playlist.m3u8",
+    "keywords": {
+        "Resultaten overgangsperiode": 1.9742913828560065,
+        "paraplubestemmingsplan parkeren": 0.9505961599793437,
+        "Raadsvoorstel": 1.9140368224837343,
+        "vaststelling paraplubestemmingsplan": 1.9029960071342575,
+        "Resultaten": 1.8416830712200127,
+        "parkeren": 1.8416830712200127,
+        "kamerbewoning": 1.8416830712200127,
+        "woningsplitsing": 1.8416830712200127,
+        "vaststelling": 1.702634417439785
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": null,
+    "meeting_id": []
+}

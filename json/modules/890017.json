@@ -1,0 +1,90 @@
+{
+    "module_id": 890017,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230013,
+    "title": "Collectieve voorzieningen - Commissienotitie Adviesaanvraag Voorlopig Ontwerp Stedenbouwkundig Plan The Dutch Mountains (TDM)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/890017",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Steenbakkers (Wethouder)",
+    "result": "",
+    "date": "30-10-2023",
+    "meeting_url": {
+        "1149334": "https://raadsinformatie.eindhoven.nl/vergadering/1149334#ai_7919402"
+    },
+    "attachment": null,
+    "parent": 884948,
+    "children": [],
+    "text": "Wethouder Steenbakkers zegt toe met de ontwikkelaar in gesprek te gaan over het toevoegen van collectieve voorzieningen.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 890016,
+            "weight": 6.011495827149909
+        },
+        {
+            "id": 884948,
+            "weight": 3.641151123890668
+        },
+        {
+            "id": 924599,
+            "weight": 2.6238698731995855
+        },
+        {
+            "id": 950071,
+            "weight": 1.1589400541034793
+        },
+        {
+            "id": 793201,
+            "weight": 0.41406866623732574
+        },
+        {
+            "id": 1103001,
+            "weight": 0.398201774784647
+        },
+        {
+            "id": 950170,
+            "weight": 0.3508494755015683
+        },
+        {
+            "id": 1133033,
+            "weight": 0.16025380399866548
+        }
+    ],
+    "videostarttime": {},
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_30.10.23_NC_Eindhoven_raad.mp4/playlist.m3u8",
+    "keywords": {
+        "Commissienotitie Adviesaanvraag": 1.9942679770961282,
+        "Dutch Mountains": 1.9942679770961282,
+        "Wethouder Steenbakkers": 0.9942679770961282,
+        "Collectieve voorzieningen": 1.9919959321912262,
+        "Adviesaanvraag Voorlopig": 1.9914438928933857,
+        "Voorlopig Ontwerp": 1.9914438928933857,
+        "Ontwerp Stedenbouwkundig": 1.9914438928933857,
+        "Stedenbouwkundig Plan": 1.9914438928933857,
+        "Plan The": 1.9914438928933857,
+        "The Dutch": 1.9914438928933857,
+        "Steenbakkers zegt": 0.9830951648611799,
+        "TDM": 1.966437683229075,
+        "Wethouder": 0.9381218153480136,
+        "Ontwerp": 1.9078939676749365,
+        "Plan": 1.9078939676749365,
+        "The": 1.9078939676749365,
+        "Collectieve": 1.9021663606849604,
+        "zegt": 0.8195144019090934,
+        "ontwikkelaar": 0.8195144019090934,
+        "gesprek": 0.8195144019090934,
+        "gaan": 0.8195144019090934,
+        "toevoegen": 0.8195144019090934
+    },
+    "svz": null,
+    "afgedaan": "09-04-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

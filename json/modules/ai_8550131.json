@@ -1,0 +1,49 @@
+{
+    "module_id": "ai_8550131",
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Sloopbeleid (Agenderingsverzoek SP, PvdD, LPF en 50PLUS)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/moties_en_toezeggingen/967945?parent_event=1251077",
+    "type": "Agenda",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "27-08-2024",
+    "meeting_url": "https://raadsinformatie.eindhoven.nl/vergadering/1251077#ai_8550131",
+    "attachment": null,
+    "parent": null,
+    "children": [
+        967945,
+        967947
+    ],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": "ai_7854318",
+            "weight": 0.7701496928235663
+        },
+        {
+            "id": 1000404,
+            "weight": 0.7682572546267201
+        }
+    ],
+    "videostarttime": 2455,
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_27.08.24_Eindhoven_meningsvormingCIE.mp4/playlist.m3u8",
+    "keywords": {
+        "Sloopbeleid": 1.9550880231213545,
+        "PvdD": 1.9550880231213545,
+        "Agenderingsverzoek": 1.9140368224837343,
+        "LPF": 1.9140368224837343
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": null,
+    "meeting_id": []
+}

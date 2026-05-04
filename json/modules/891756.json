@@ -1,0 +1,68 @@
+{
+    "module_id": 891756,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230019,
+    "title": "Prijsstijgingen - Raadsvoorstel Vaststellen Begroting 2024",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/891756",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. van Lanschot (Wethouder)",
+    "result": "",
+    "date": "31-10-2023",
+    "meeting_url": {
+        "1153547": "https://raadsinformatie.eindhoven.nl/vergadering/1153547#ai_7885375"
+    },
+    "attachment": null,
+    "parent": 879979,
+    "children": [],
+    "text": "Wethouder Lanschot zegt toe om een raadsbesluit om gemeentebreed te bekijken hoe prijsstijgingen op te vangen vanuit de stelpost van 5,2 miljoen.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 891752,
+            "weight": 0.19773651941879253
+        },
+        {
+            "id": 891757,
+            "weight": 0.19771664548042672
+        },
+        {
+            "id": 945676,
+            "weight": 0.1963742009830452
+        },
+        {
+            "id": 945675,
+            "weight": 0.1963742009830452
+        }
+    ],
+    "videostarttime": {
+        "1153547": null
+    },
+    "videolink": null,
+    "keywords": {
+        "Raadsvoorstel Vaststellen": 1.9944028274550927,
+        "Vaststellen Begroting": 1.9944028274550927,
+        "Wethouder Lanschot": 0.9944028274550927,
+        "Lanschot zegt": 0.9836335688345734,
+        "miljoen": 0.9490672917243146,
+        "Begroting": 1.9389136078667915,
+        "Wethouder": 0.9389136078667913,
+        "Prijsstijgingen": 1.8737182748260663,
+        "zegt": 0.8232727580700172,
+        "raadsbesluit": 0.8232727580700172,
+        "gemeentebreed": 0.8232727580700172,
+        "bekijken": 0.8232727580700172,
+        "vangen": 0.8232727580700172,
+        "stelpost": 0.8232727580700172
+    },
+    "svz": null,
+    "afgedaan": "12-12-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

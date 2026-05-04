@@ -1,0 +1,85 @@
+{
+    "module_id": 891237,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230014,
+    "title": "Cure en extra handhaving - Raadsvoorstel Vaststellen Begroting 2024",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/891237",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "R. Thijs (Wethouder)",
+    "result": "",
+    "date": "31-10-2023",
+    "meeting_url": {
+        "1153547": "https://raadsinformatie.eindhoven.nl/vergadering/1153547#ai_7885375"
+    },
+    "attachment": null,
+    "parent": 879979,
+    "children": [],
+    "text": "Wethouder Thijs zegt toe terug te komen op extra handhaving samen met Cure met betrekking tot bijzet van afval.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1038657,
+            "weight": 0.17817458006982298
+        },
+        {
+            "id": 966047,
+            "weight": 0.1768568271172847
+        },
+        {
+            "id": 979297,
+            "weight": 0.08651795376516844
+        },
+        {
+            "id": 1034706,
+            "weight": 0.0772160093910691
+        },
+        {
+            "id": 891231,
+            "weight": 0.07454662632905462
+        },
+        {
+            "id": 13256903,
+            "weight": 0.06922578976711763
+        },
+        {
+            "id": 12943387,
+            "weight": 0.06567878236914043
+        },
+        {
+            "id": 984130,
+            "weight": 0.04711720466792616
+        }
+    ],
+    "videostarttime": {
+        "1153547": null
+    },
+    "videolink": null,
+    "keywords": {
+        "Raadsvoorstel Vaststellen": 1.9940305405218104,
+        "Vaststellen Begroting": 1.9940305405218104,
+        "Wethouder Thijs": 0.9940305405218103,
+        "Thijs zegt": 0.9821278527973843,
+        "extra handhaving": 1.977873832834832,
+        "handhaving samen": 0.9599275465413706,
+        "Begroting": 1.936746627747451,
+        "Cure": 1.9133795242773552,
+        "Thijs": 0.9061862430964001,
+        "extra": 1.8970715650248648,
+        "afval": 0.8853321719593765,
+        "zegt": 0.8128383031389147,
+        "terug": 0.8128383031389147,
+        "komen": 0.8128383031389147,
+        "bijzet": 0.8128383031389147
+    },
+    "svz": null,
+    "afgedaan": "19-11-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

@@ -1,0 +1,165 @@
+{
+    "module_id": 853544,
+    "vote_id": null,
+    "member_id": [
+        194500
+    ],
+    "party_list": [
+        "FVD"
+    ],
+    "poho_id": [],
+    "title": "Beantwoording raadsvragen Toegankelijkheid JA-sticker (FvD)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/4/Raadsvragen/853544",
+    "type": "Raadsvraag",
+    "member": "Nicolas Knoester",
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "07-06-2023",
+    "meeting_url": null,
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/12842891/1?connection_type=17&connection_id=9461413": "Vraag",
+        "https://raadsinformatie.eindhoven.nl/document/12900964/3?connection_type=17&connection_id=9510589": "Antwoord"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/12842891/1?connection_type=17&connection_id=9461413",
+    "pdf_text": " \n \n \nRaadsvragen van de fractie : Forum voor Democratie  \n \n \nToegankelijkheid JA -sticker  \n \ndatum:  7 juni 2023  \n \nGeacht college,  \n \nInleiding  \nPer 1 juni 2023 moeten alle huishoudens in Eindhoven een JA -sticker \nplaatsen om ongeadresseerde post te kunnen ontvangen. Voor veel \neenzame kwetsbare inwoners die hele dagen thuis zitten is deze \nongeadresseerde post een welkome afleiding. Door de nieuwe re geling \nmoeten duizenden inwoners via de webshop van CURE de juiste \nstickers gaan bestellen. Dit kan overigens alleen mits men ook over een \nmillieupas beschikt.  \n \nRaadsvragen  \n1. Deelt het college de mening dat ongeadresseerde post voor \nbepaalde doelgroepen belangrijk kan zijn?  \n \n2. Deelt het college de mening dat het bestellen via de \nwebshop van CURE in de huidige opzet te ontoegankelijk \nkan zijn voor bepaalde doelgroepen, zoals bijvoorbeeld \nouderen?  \n \n3. Is het college bereid om de sticker ook op altern atieve \nmanieren beschikbaar te maken voor Eindhovenaren? \nBijvoorbeeld ophalen op bepaalde plekken binnen de wijk?  \n \n \nNamens de fractie , \nForum voor Democratie  \n \nNicolas Knoester , raadslid  \n",
+    "bst": "23bst00858",
+    "related": [
+        {
+            "id": 775257,
+            "weight": 0.2661565884210479
+        },
+        {
+            "id": 900681,
+            "weight": 0.24770029708435368
+        },
+        {
+            "id": 884453,
+            "weight": 0.23676408296149423
+        },
+        {
+            "id": 827895,
+            "weight": 0.1765104323241504
+        },
+        {
+            "id": 872753,
+            "weight": 0.17244217916130866
+        },
+        {
+            "id": 1098744,
+            "weight": 0.17159282908115803
+        },
+        {
+            "id": 13779916,
+            "weight": 0.170246441010225
+        },
+        {
+            "id": 1072389,
+            "weight": 0.16493945977821559
+        },
+        {
+            "id": 1148686,
+            "weight": 0.09444144684280685
+        },
+        {
+            "id": 1045505,
+            "weight": 0.08972861076374267
+        },
+        {
+            "id": 1076209,
+            "weight": 0.08553642008267717
+        },
+        {
+            "id": 1060169,
+            "weight": 0.08032063591387821
+        },
+        {
+            "id": 1150671,
+            "weight": 0.06880395430095945
+        },
+        {
+            "id": 1052626,
+            "weight": 0.06844229959600662
+        },
+        {
+            "id": 826742,
+            "weight": 0.0675274869380578
+        },
+        {
+            "id": 881841,
+            "weight": 0.06476851305288384
+        },
+        {
+            "id": 1137497,
+            "weight": 0.06362279708637561
+        },
+        {
+            "id": 1128665,
+            "weight": 0.057620205878202144
+        },
+        {
+            "id": 862968,
+            "weight": 0.04573707510388424
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Inleiding Per": 0.9959521154258947,
+        "Toegankelijkheid JA-sticker": 1.989506086439211,
+        "Democratie Toegankelijkheid": 0.9808151989363666,
+        "ongeadresseerde post": 0.9747078128607846,
+        "Geacht college": 0.9734073586269446,
+        "juni": 0.9577831738737275,
+        "Beantwoording raadsvragen": 1.9419760894767273,
+        "Geacht": 0.9365053918567356,
+        "Per": 0.9365053918567356,
+        "Eindhoven": 0.9298717611979072,
+        "sticker datum": 0.928817873361106,
+        "post": 0.9114779744631941,
+        "college": 0.8980079100319502,
+        "raadsvragen": 1.8902697413081668,
+        "Forum": 0.8714230538635125,
+        "FvD": 1.8561865768298498,
+        "CURE": 0.8543361242054469,
+        "Democratie Nicolas": 0.8539826220838294,
+        "bepaalde": 0.8447820591934155,
+        "bepaalde doelgroepen": 0.8386477751304465,
+        "JA-sticker": 1.8334042743801424,
+        "datum": 0.8334042743801424,
+        "ontvangen": 0.8334042743801424,
+        "Deelt": 0.8304121605668242,
+        "huishoudens": 0.8099774040058298,
+        "plaatsen": 0.8099774040058298,
+        "Nicolas Knoester": 0.7992686133540016,
+        "inwoners": 0.7980095156697883,
+        "fractie": 0.7866103270015508,
+        "kwetsbare inwoners": 0.7784378460775211,
+        "welkome afleiding": 0.7745462285725306,
+        "webshop": 0.7731745388315947,
+        "mening": 0.7565479006160086,
+        "via": 0.7547137106441958,
+        "eenzame kwetsbare": 0.7475330881793971,
+        "dagen thuis": 0.7475330881793971,
+        "thuis zitten": 0.7475330881793971,
+        "bestellen": 0.7374765426948748,
+        "duizenden inwoners": 0.7191478220786144,
+        "college bereid": 0.6196761119423626,
+        "Knoester": 0.6037944863049232,
+        "Nicolas": 0.5780617409250978,
+        "eenzame": 0.5510281591820119,
+        "dagen": 0.5510281591820119,
+        "thuis": 0.5510281591820119,
+        "zitten": 0.5510281591820119,
+        "welkome": 0.5510281591820119,
+        "millieupas beschikt": 0.5118709245038502
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194500,
+    "lastScrapeDate": "02-04-2026",
+    "meeting_id": []
+}

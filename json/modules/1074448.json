@@ -1,0 +1,49 @@
+{
+    "module_id": 1074448,
+    "vote_id": 9608777,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Versterking democratische controle (Vrije Motie VM1)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/moties_en_toezeggingen/1074448?parent_event=1256323",
+    "type": "Moties",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "verworpen",
+    "date": "09-09-2025",
+    "meeting_url": {
+        "1256323": "https://raadsinformatie.eindhoven.nl/vergadering/1256323/Versterking%20democratische%20controle%20%28Vrije%20Motie%20VM1%29 09-09-2025#voting_9608777"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 949479,
+            "weight": 1.9494643661991735
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Vrije Motie": 1.9925553183866471,
+        "Versterking democratische": 1.9505961599793435,
+        "democratische controle": 1.9505961599793435,
+        "Vrije": 1.9140368224837343,
+        "Motie": 1.9140368224837343,
+        "Versterking": 1.8416830712200127,
+        "controle": 1.8416830712200127
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-12-2025",
+    "meeting_id": [
+        1256323
+    ]
+}

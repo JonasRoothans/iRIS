@@ -1,0 +1,78 @@
+{
+    "module_id": 1137710,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 248564,
+    "title": "Terugkoppeling definitieve vraagstelling burgerberaad - Raadsvoorstel Startdocument burgerberaad thema Veiligheid",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1137710",
+    "type": "Toezegging",
+    "member": "",
+    "party": "",
+    "poho": "R. Strijk (Wethouder)",
+    "result": "",
+    "date": "24-02-2026",
+    "meeting_url": {
+        "1374921": "https://raadsinformatie.eindhoven.nl/vergadering/1374921#ai_10009623"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": "Stadsgezant Van Kessel (o.v.v. wethouder Strijk) zegt toe:\n\ngedurende het proces van het burgerberaad de definitieve vraagstelling van het burgerberaad terug te koppelen aan de gemeenteraad;",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1124611,
+            "weight": 4.316366917707509
+        },
+        {
+            "id": 1140962,
+            "weight": 1.8063593614952755
+        },
+        {
+            "id": 1087149,
+            "weight": 0.7925699833053242
+        },
+        {
+            "id": 1023028,
+            "weight": 0.4402205427288252
+        },
+        {
+            "id": 974296,
+            "weight": 0.3896175556055703
+        }
+    ],
+    "videostarttime": {
+        "1374921": 9520
+    },
+    "videolink": null,
+    "keywords": {
+        "Raadsvoorstel Startdocument": 1.9966418818513674,
+        "Veiligheid Stadsgezant": 0.9956340186160532,
+        "wethouder Strijk": 0.9954441886869965,
+        "definitieve vraagstelling": 1.9919189075352328,
+        "thema Veiligheid": 1.9917715503278197,
+        "Terugkoppeling definitieve": 1.988604427000189,
+        "Startdocument burgerberaad": 1.9871732429391256,
+        "burgerberaad thema": 1.9756442391293834,
+        "Raadsvoorstel": 1.949237259465157,
+        "Kessel": 0.9492372594651571,
+        "Strijk": 0.9492372594651571,
+        "definitieve": 1.9369422419838878,
+        "Startdocument": 1.9340681984762682,
+        "Stadsgezant": 0.9340681984762682,
+        "zegt": 0.9106598663226303,
+        "gemeenteraad": 0.9106598663226303,
+        "thema": 1.8762161099881247,
+        "proces": 0.8762161099881246,
+        "terug": 0.8762161099881246,
+        "koppelen": 0.8762161099881246
+    },
+    "svz": "",
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "08-04-2026",
+    "meeting_id": []
+}

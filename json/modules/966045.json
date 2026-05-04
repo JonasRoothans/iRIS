@@ -1,0 +1,57 @@
+{
+    "module_id": 966045,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 231116,
+    "title": "Veiligheid station - Raadsvoorstel Jaarstukken 2023",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/966045",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "J. Dijsselbloem (Burgemeester)",
+    "result": "",
+    "date": "26-06-2024",
+    "meeting_url": {
+        "1147977": "https://raadsinformatie.eindhoven.nl/vergadering/1147977#ai_8483500"
+    },
+    "attachment": null,
+    "parent": 946916,
+    "children": [],
+    "text": "Burgemeester Dijsselbloem zegt toe en bekijkt de uitzending van Pointer.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 949692,
+            "weight": 0.2870370223223112
+        },
+        {
+            "id": 984490,
+            "weight": 0.1911947113247226
+        }
+    ],
+    "videostarttime": {
+        "1147977": 762
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_26.06.24_NC_Eindhoven_Cie.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Jaarstukken": 1.9925553183866471,
+        "Burgemeester Dijsselbloem": 0.9873976398760466,
+        "Veiligheid station": 1.9742913828560065,
+        "Dijsselbloem zegt": 0.955011371234592,
+        "Jaarstukken": 1.9140368224837343,
+        "Burgemeester": 0.9140368224837344,
+        "Pointer": 0.9140368224837344,
+        "station": 1.8416830712200127,
+        "zegt": 0.7026344174397849,
+        "bekijkt": 0.7026344174397849,
+        "uitzending": 0.7026344174397849
+    },
+    "svz": null,
+    "afgedaan": "03-09-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

@@ -1,0 +1,84 @@
+{
+    "module_id": 912521,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230019,
+    "title": "Rapportages inclusief aanbevelingen - Raadsvoorstel Verordening onderzoeken doelmatigheid en doeltreffendheid bestuur (artikel 213a Gemeentewet) gemeente Eindhoven 2023",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/912521",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. van Lanschot (Wethouder)",
+    "result": "",
+    "date": "16-01-2024",
+    "meeting_url": {
+        "1146934": "https://raadsinformatie.eindhoven.nl/vergadering/1146934#ai_8065228"
+    },
+    "attachment": null,
+    "parent": 898916,
+    "children": [],
+    "text": "De wethouder van Lanschot zegt toe dat de rapportages inclusief aanbevelingen, en hoe daarmee omgegaan wordt, met de raad worden gedeeld.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 898916,
+            "weight": 4.593216291847424
+        },
+        {
+            "id": 956636,
+            "weight": 1.1461436800602742
+        },
+        {
+            "id": 966033,
+            "weight": 0.14563451904260302
+        },
+        {
+            "id": 1015055,
+            "weight": 0.14325061418326437
+        },
+        {
+            "id": 920227,
+            "weight": 0.14288598755358434
+        },
+        {
+            "id": 850893,
+            "weight": 0.1186357026283302
+        }
+    ],
+    "videostarttime": {
+        "1146934": 1243
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_16.01.24_NC_EINDHOVEN_CIE.mp4/playlist.m3u8",
+    "keywords": {
+        "inclusief aanbevelingen": 1.9966598275084895,
+        "Raadsvoorstel Verordening": 1.9961696799669384,
+        "gemeente Eindhoven": 1.9952021248823333,
+        "Rapportages inclusief": 1.9930100619411015,
+        "Verordening onderzoeken": 1.9901272092486324,
+        "Lanschot zegt": 0.9901272092486323,
+        "doeltreffendheid bestuur": 1.9876144678662766,
+        "onderzoeken doelmatigheid": 1.9814755134367377,
+        "daarmee omgegaan": 0.9814755134367376,
+        "Gemeentewet": 1.9660469130700113,
+        "inclusief": 1.9500110542396245,
+        "Eindhoven": 1.9473632769568245,
+        "artikel": 1.946863668431595,
+        "Verordening": 1.9275086965440367,
+        "bestuur": 1.9092845231659552,
+        "gedeeld": 0.9092845231659552,
+        "onderzoeken": 1.8651386966326111,
+        "wethouder": 0.8651386966326112,
+        "zegt": 0.8651386966326112,
+        "daarmee": 0.8651386966326112,
+        "omgegaan": 0.8651386966326112,
+        "raad": 0.8651386966326112
+    },
+    "svz": "Wordt uitgevoerd.\nVOORSTEL COLLEGE: AFVOEREN....  Lees verder ",
+    "afgedaan": "06-02-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

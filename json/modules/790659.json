@@ -1,0 +1,117 @@
+{
+    "module_id": 790659,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 231116,
+    "title": "Inzet politiecapaciteit voetbalwedstrijden - landelijk initiatief",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/790659",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "J. Dijsselbloem (Burgemeester)",
+    "result": "",
+    "date": "01-11-2022",
+    "meeting_url": {
+        "1034744": "https://raadsinformatie.eindhoven.nl/vergadering/1034744#ai_7087593"
+    },
+    "attachment": null,
+    "parent": "ai_7087593",
+    "children": [],
+    "text": "Informeert de raad over de resultaten van het landelijk initiatief betaald voetbal en burgemeesters.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 790669,
+            "weight": 4.909506153631121
+        },
+        {
+            "id": 810287,
+            "weight": 0.5902217895305739
+        },
+        {
+            "id": 1144514,
+            "weight": 0.32627395370499385
+        },
+        {
+            "id": 776970,
+            "weight": 0.251861973418512
+        },
+        {
+            "id": 836957,
+            "weight": 0.18710999893699212
+        },
+        {
+            "id": 1029731,
+            "weight": 0.1852928578839453
+        },
+        {
+            "id": 1061602,
+            "weight": 0.11677638637931857
+        },
+        {
+            "id": 13264458,
+            "weight": 0.09878103181139736
+        },
+        {
+            "id": 780301,
+            "weight": 0.08015796459084755
+        },
+        {
+            "id": 873676,
+            "weight": 0.076234743582382
+        },
+        {
+            "id": 779483,
+            "weight": 0.07466697783728671
+        },
+        {
+            "id": 1133031,
+            "weight": 0.06925075136810575
+        },
+        {
+            "id": 997004,
+            "weight": 0.062311836478421145
+        },
+        {
+            "id": 1147108,
+            "weight": 0.057360454410505024
+        },
+        {
+            "id": 1015331,
+            "weight": 0.052246246349547984
+        },
+        {
+            "id": 1133049,
+            "weight": 0.04857097841471744
+        }
+    ],
+    "videostarttime": {
+        "1034744": 1225
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_01.11.22_NC_Eindhoven_Raad.mp4/playlist.m3u8",
+    "keywords": {
+        "initiatief Informeert": 0.9803866547046398,
+        "Inzet politiecapaciteit": 1.9781645723299164,
+        "politiecapaciteit voetbalwedstrijden": 1.9781645723299164,
+        "landelijk initiatief": 1.9780080020645119,
+        "betaald voetbal": 0.9638542655336455,
+        "Informeert": 0.9062835686299408,
+        "landelijk": 1.8973709226202145,
+        "initiatief": 1.8973709226202145,
+        "Inzet": 1.8855903541154853,
+        "voetbalwedstrijden": 1.8855903541154853,
+        "burgemeesters": 0.8855903541154853,
+        "raad": 0.813225275191795,
+        "resultaten": 0.813225275191795,
+        "betaald": 0.813225275191795,
+        "voetbal": 1.813225275191795
+    },
+    "svz": null,
+    "afgedaan": "17-01-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

@@ -1,0 +1,142 @@
+{
+    "module_id": 835272,
+    "vote_id": null,
+    "member_id": [
+        194500
+    ],
+    "party_list": [
+        "FVD"
+    ],
+    "poho_id": [],
+    "title": "Beanwoording vervolg raadsvragen tijdige beantwoording raadsvragen (FvD)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/4/Raadsvragen/835272",
+    "type": "Raadsvraag",
+    "member": "Nicolas Knoester",
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "14-04-2023",
+    "meeting_url": null,
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/12629549/1?connection_type=17&connection_id=9258279": "Vraag",
+        "https://raadsinformatie.eindhoven.nl/document/12663803/2?connection_type=17&connection_id=9292013": "Antwoord"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/12629549/1?connection_type=17&connection_id=9258279",
+    "pdf_text": " \n \n \nRaadsvragen van de fractie : Forum voor Democratie  \n \n \nVervolg raadsvragen tijdige beantwoording raadsvragen  \n \ndatum:  14 april 2023  \n \n \nGeacht college,  \n \n \nInleiding  \nDe uitgebreide beantwoording van het college is hoopgevend, maar gaat \nonvoldoende in op de beleving van inwoners inzake deze kwestie. We \nwillen toch een betrouwbare en transparante gemeente zijn?  \n \n \n \nRaadsvragen  \n1. Deelt het college de mening dat er een negatief beeld kan \nontstaan bij inwoners, aangezien zij zich wél aan dergelijke \ntermijnen moeten houden en de beargumentering van het \ncollege als smoesjes kunnen zien?  \n2. Deelt het college de mening dat de termijn is ingesteld rekening \nhoudende met de genoemde beargumentering? Want die is niet \nnieuw of uniek voor een gemeente  \n \n \nNamens de fractie , \nForum voor Democratie  \n \nNicolas Knoester , raadslid  \n \n",
+    "bst": "23bst00588",
+    "related": [
+        {
+            "id": 831103,
+            "weight": 2.743888430805602
+        },
+        {
+            "id": 844704,
+            "weight": 0.7202434709515797
+        },
+        {
+            "id": 1132345,
+            "weight": 0.3234577039406856
+        },
+        {
+            "id": 1052626,
+            "weight": 0.31970260468439854
+        },
+        {
+            "id": 918269,
+            "weight": 0.08270876024566494
+        },
+        {
+            "id": 920920,
+            "weight": 0.07824428432642662
+        },
+        {
+            "id": 822257,
+            "weight": 0.07189110685335148
+        },
+        {
+            "id": 851337,
+            "weight": 0.07169579704239187
+        },
+        {
+            "id": 1128296,
+            "weight": 0.07082729938035158
+        },
+        {
+            "id": 791378,
+            "weight": 0.0682868089116897
+        },
+        {
+            "id": 826652,
+            "weight": 0.06761167878647498
+        },
+        {
+            "id": 1014943,
+            "weight": 0.06329775781059661
+        },
+        {
+            "id": 901969,
+            "weight": 0.06206587873333098
+        },
+        {
+            "id": 875874,
+            "weight": 0.05367909187216389
+        },
+        {
+            "id": 1060169,
+            "weight": 0.052843672621984014
+        },
+        {
+            "id": 1097750,
+            "weight": 0.046378606122627355
+        },
+        {
+            "id": 1081851,
+            "weight": 0.040285807169719044
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "tijdige beantwoording": 1.9924049247026847,
+        "vervolg raadsvragen": 1.9895628907395744,
+        "Beanwoording vervolg": 1.9856120581665055,
+        "raadsvragen tijdige": 1.9848346258354401,
+        "Geacht college": 0.9752119658023426,
+        "gaat onvoldoende": 0.9609013150693066,
+        "vervolg": 1.9572511216631403,
+        "tijdige": 1.9384549400089979,
+        "Geacht": 0.9358868199768294,
+        "Inleiding": 0.9358868199768294,
+        "college": 0.924544531837638,
+        "Forum": 0.8950889822351016,
+        "Democratie Nicolas": 0.8926955555632632,
+        "FvD": 1.8612495262864102,
+        "april": 0.8612495262864102,
+        "Deelt": 0.851033276428059,
+        "Nicolas Knoester": 0.8490182791980124,
+        "datum": 0.8341024869217741,
+        "hoopgevend": 0.8341024869217741,
+        "kwestie": 0.8341024869217741,
+        "fractie": 0.8196852020849286,
+        "uitgebreide": 0.8060219105286875,
+        "gaat": 0.8060219105286875,
+        "inwoners": 0.789113674518312,
+        "mening": 0.7774546513206594,
+        "gemeente Namens": 0.7616455847601431,
+        "beargumentering": 0.7358175483592229,
+        "transparante gemeente": 0.6973294920890836,
+        "Knoester": 0.6522018449234237,
+        "Namens": 0.6228373569445492,
+        "Nicolas": 0.6228373569445492,
+        "willen": 0.5447122651380016,
+        "betrouwbare": 0.5447122651380016
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194500,
+    "lastScrapeDate": "02-04-2026",
+    "meeting_id": []
+}

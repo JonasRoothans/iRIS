@@ -1,0 +1,163 @@
+{
+    "module_id": 785761,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Raadsvoorstel benoeming leden agendacommissie",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/19/Raadsvoorstellen/785761",
+    "type": "Raadsvoorstel",
+    "member": null,
+    "party": null,
+    "poho": "",
+    "result": "Afgerond",
+    "date": "11-10-2022",
+    "meeting_url": {
+        "1013161": "https://raadsinformatie.eindhoven.nl/vergadering/1013161#ai_7092551"
+    },
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/11926603/1/Raadsvoorstel+benoeming+leden+agendacommissie?connection_type=17&connection_id=8700573": "Raadsvoorstel benoeming leden agendacommissie"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/11930335/1?connection_type=17&connection_id=8705615",
+    "pdf_text": " \n \n \n  \n   \n \n \n  gemeente Eindhoven  \nRaadsnummer   \nInboeknummer   \nDossiernummer      \n \nRaads voorstel    benoeming leden agenda commissie  \n \n \n \nRaadsbesluit   \n   benoeming leden agendacommiss ie  \n \nDe raad van de gemeente Eindhoven;  \n \nbesluit:  \n \n1. te benoemen tot lid van de agendacommissie:  \na. R. Brokmann;  \nb. T.O.M. Brouwer s; \nc. L.L.B. Janssen;  \nd. L.J. Meerhoff;  \ne. J. Roothans;  \nf. P.A.M. van Tuijn;  \n2. te benoemen tot voorzitter van de agendacommissie:  \na. L.L.B. Janssen;  \n3. te benoemen tot plaatsvervangend voorzitter van de agendacommissie:  \na. T.O.M. Brouwers.  \n  \n \nAldus vastgesteld in de openb are vergadering van  11 oktober  2022.  \n \n \n \nJ. Jongbloed , griffier . \n \n \n ",
+    "bst": "",
+    "related": [
+        {
+            "id": 787186,
+            "weight": 1.6483864957405445
+        },
+        {
+            "id": 829362,
+            "weight": 1.289625381233903
+        },
+        {
+            "id": 930584,
+            "weight": 0.442504609803179
+        },
+        {
+            "id": 780446,
+            "weight": 0.32388555816041553
+        },
+        {
+            "id": 777473,
+            "weight": 0.2027550139285327
+        },
+        {
+            "id": 777444,
+            "weight": 0.19703485361877426
+        },
+        {
+            "id": 1148253,
+            "weight": 0.12808754382996335
+        },
+        {
+            "id": 15555133,
+            "weight": 0.12565410910082683
+        },
+        {
+            "id": "o_7006000",
+            "weight": 0.12565410910082683
+        },
+        {
+            "id": 777522,
+            "weight": 0.12528033291278196
+        },
+        {
+            "id": 813416,
+            "weight": 0.10185067810855677
+        },
+        {
+            "id": "o_8674111",
+            "weight": 0.09789381829633519
+        },
+        {
+            "id": 1050869,
+            "weight": 0.08124300209316637
+        },
+        {
+            "id": 1148207,
+            "weight": 0.0797199990729998
+        },
+        {
+            "id": 826914,
+            "weight": 0.0704991992876254
+        },
+        {
+            "id": 899539,
+            "weight": 0.060097689089721185
+        },
+        {
+            "id": 894796,
+            "weight": 0.052772941134409154
+        },
+        {
+            "id": 802773,
+            "weight": 0.05187769713017306
+        },
+        {
+            "id": 846881,
+            "weight": 0.05087703076591504
+        },
+        {
+            "id": 999545,
+            "weight": 0.048546671164007016
+        },
+        {
+            "id": 973917,
+            "weight": 0.046851937918276604
+        },
+        {
+            "id": "a_7344706",
+            "weight": 0.043286365234947444
+        },
+        {
+            "id": 977803,
+            "weight": 0.04081989575702648
+        },
+        {
+            "id": 1104215,
+            "weight": 0.040787555207917124
+        },
+        {
+            "id": 1120756,
+            "weight": 0.03275538211811247
+        }
+    ],
+    "videostarttime": {
+        "1013161": 2937
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_11.10.22_Eindhoven_raad.mp4/playlist.m3u8",
+    "keywords": {
+        "Eindhoven Raadsnummer": 0.9939568365365161,
+        "gemeente Eindhoven": 0.9933829924271782,
+        "Raadsnummer Inboeknummer": 0.9929931220139752,
+        "benoeming leden": 1.9916128559531867,
+        "Dossiernummer Raads": 0.9899986547802416,
+        "Raadsbesluit benoeming": 0.9867587041371447,
+        "commissie Raadsbesluit": 0.9787753517467812,
+        "Raads voorstel": 0.9695208558716404,
+        "Eindhoven": 0.9639942656555003,
+        "leden agenda": 1.959380296627267,
+        "leden": 1.9477783855499617,
+        "agenda commissie": 0.9338118634605289,
+        "Inboeknummer": 0.9165846341176088,
+        "gemeente": 0.9093119210889758,
+        "Raads": 1.8812891521110195,
+        "besluit": 0.8427027969679639,
+        "Janssen": 0.760491579940963,
+        "agenda": 1.7508429649540849,
+        "Brokmann": 0.7205942744307579,
+        "voorzitter": 0.6537867478655854,
+        "Roothans": 0.574169830731234,
+        "Tuijn": 0.5657783552986249,
+        "Jongbloed": 0.5243467564928883
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": "10-04-2026",
+    "meeting_id": []
+}

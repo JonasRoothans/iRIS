@@ -1,0 +1,56 @@
+{
+    "module_id": 787077,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 231116,
+    "title": "Lessen en conclusies  - Disproportioneel politieoptreden bij klimaatprotest - Vraag V5 Vragenhalfuur",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/787077",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "J. Dijsselbloem (Burgemeester)",
+    "result": "",
+    "date": "17-10-2022",
+    "meeting_url": {
+        "1013161": "https://raadsinformatie.eindhoven.nl/vergadering/1013161#ai_6962481"
+    },
+    "attachment": null,
+    "parent": "ai_6962481",
+    "children": [],
+    "text": "De raad binnen een maand te informeren over deze lessen en conclusies",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 787072,
+            "weight": 6.050554944016703
+        },
+        {
+            "id": 793168,
+            "weight": 1.0475880956223924
+        }
+    ],
+    "videostarttime": {
+        "1013161": 896
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_11.10.22_Eindhoven_raad.mp4/playlist.m3u8",
+    "keywords": {
+        "Disproportioneel politieoptreden": 1.9879342301279241,
+        "Vraag": 1.9654114846155046,
+        "conclusies": 1.9570184112418672,
+        "Disproportioneel": 1.936580012774709,
+        "Vragenhalfuur": 1.936580012774709,
+        "Lessen": 1.8964340077229784,
+        "klimaatprotest": 1.8847834394570055,
+        "politieoptreden": 1.8120163182304414,
+        "maand": 0.8120163182304413,
+        "informeren": 0.8120163182304413
+    },
+    "svz": null,
+    "afgedaan": "22-11-2022",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

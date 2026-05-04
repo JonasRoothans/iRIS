@@ -1,0 +1,156 @@
+{
+    "module_id": 1062480,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 248564,
+    "title": "Internationaal busstation Eindhoven (Vraag V5 Vragenhalfuur)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1062480",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "R. Strijk (Wethouder)",
+    "result": "",
+    "date": "01-07-2025",
+    "meeting_url": {
+        "1256322": "https://raadsinformatie.eindhoven.nl/vergadering/1256322#ai_8588215"
+    },
+    "attachment": null,
+    "parent": "ai_8588215",
+    "children": [],
+    "text": "Wethouder Strijk zegt toe voor de haltes aan de J.F. Kennedylaan te onderzoeken:\n\nof er een watertappunt kan komen en wat dit kost;\ndaarbij wordt in breder perspectief ook gekeken naar andere voorzieningen die bijdragen aan de gastvrijheid en\nde vervoersmaatschappij van de FlixBussen te betrekken.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 15747144,
+            "weight": 4.0179994036350735
+        },
+        {
+            "id": 1047369,
+            "weight": 0.28958738807177886
+        },
+        {
+            "id": 1045688,
+            "weight": 0.253136978416461
+        },
+        {
+            "id": 1090801,
+            "weight": 0.2507227137024411
+        },
+        {
+            "id": 1105660,
+            "weight": 0.1514437944202871
+        },
+        {
+            "id": 940710,
+            "weight": 0.11736825717148817
+        },
+        {
+            "id": 1045664,
+            "weight": 0.11332719131400606
+        },
+        {
+            "id": 834493,
+            "weight": 0.11086273891676719
+        },
+        {
+            "id": 14958393,
+            "weight": 0.10400700271511479
+        },
+        {
+            "id": 1140939,
+            "weight": 0.08051251931372078
+        },
+        {
+            "id": 795420,
+            "weight": 0.07645266619380975
+        },
+        {
+            "id": 845813,
+            "weight": 0.07383426982894689
+        },
+        {
+            "id": 1113611,
+            "weight": 0.0724135508851467
+        },
+        {
+            "id": 1035304,
+            "weight": 0.07171544746985334
+        },
+        {
+            "id": 1045809,
+            "weight": 0.07143629966521065
+        },
+        {
+            "id": 14454748,
+            "weight": 0.06218718097760528
+        },
+        {
+            "id": 863511,
+            "weight": 0.05970654478866241
+        },
+        {
+            "id": 1090175,
+            "weight": 0.059392668361354886
+        },
+        {
+            "id": 925585,
+            "weight": 0.05712557021343738
+        },
+        {
+            "id": 970349,
+            "weight": 0.05662555562494964
+        },
+        {
+            "id": 856856,
+            "weight": 0.05406571583232487
+        },
+        {
+            "id": "a_8421782",
+            "weight": 0.04755111384337214
+        },
+        {
+            "id": 1046636,
+            "weight": 0.040493180541057265
+        }
+    ],
+    "videostarttime": {
+        "1256322": 915
+    },
+    "videolink": null,
+    "keywords": {
+        "Wethouder Strijk": 0.9971372893004233,
+        "busstation Eindhoven": 1.9947453318687147,
+        "Strijk zegt": 0.9934162996063318,
+        "Internationaal busstation": 1.9908544442245248,
+        "Vraag": 1.9637447595933084,
+        "Vragenhalfuur": 1.9637447595933084,
+        "Eindhoven": 1.9522369003446032,
+        "breder perspectief": 0.9017265755167432,
+        "busstation": 1.890559847185771,
+        "zegt": 0.8905598471857711,
+        "haltes": 0.8905598471857711,
+        "Kennedylaan": 0.7612847776262324,
+        "onderzoeken": 0.7612847776262324,
+        "kost": 0.7612847776262324,
+        "daarbij": 0.7612847776262324,
+        "betrekken": 0.7612847776262324,
+        "watertappunt": 0.7008680462460691,
+        "komen": 0.7008680462460691,
+        "breder": 0.7008680462460691,
+        "voorzieningen": 0.7008680462460691,
+        "bijdragen": 0.7008680462460691,
+        "gastvrijheid": 0.7008680462460691,
+        "vervoersmaatschappij": 0.7008680462460691,
+        "FlixBussen": 0.7008680462460691
+    },
+    "svz": "Update: eventuele realisatie van een watertappunt en andere voorzieningen & het gesprek met de ondernemer ...  Lees verder ",
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "02-10-2025",
+    "meeting_id": [
+        1256322
+    ]
+}

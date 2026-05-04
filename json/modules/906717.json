@@ -1,0 +1,154 @@
+{
+    "module_id": 906717,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230022,
+    "title": "Reclamecampagne normaaloverdrugs.nl (Vraag V2 vragenhalfuur)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/906717",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Toub (Wethouder)",
+    "result": "",
+    "date": "19-12-2023",
+    "meeting_url": {
+        "1013531": "https://raadsinformatie.eindhoven.nl/vergadering/1013531#ai_6965235"
+    },
+    "attachment": null,
+    "parent": "ai_6965235",
+    "children": [],
+    "text": "Wethouder Toub zegt toe schriftelijk terug te komen op de technische vraag of het mogelijk is via de concessie invloed uit te oefenen op de soort reclame die door SUOG wordt geplaatst.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 936165,
+            "weight": 0.5556603352192028
+        },
+        {
+            "id": 909638,
+            "weight": 0.36849765468328627
+        },
+        {
+            "id": 900829,
+            "weight": 0.3513692074134701
+        },
+        {
+            "id": 12866052,
+            "weight": 0.2799063275536512
+        },
+        {
+            "id": 12559868,
+            "weight": 0.2796327881457052
+        },
+        {
+            "id": 948991,
+            "weight": 0.2786044420005397
+        },
+        {
+            "id": 906504,
+            "weight": 0.263858963059627
+        },
+        {
+            "id": 904205,
+            "weight": 0.13619256651956613
+        },
+        {
+            "id": 776925,
+            "weight": 0.12888371715957123
+        },
+        {
+            "id": 845573,
+            "weight": 0.12764080982672116
+        },
+        {
+            "id": 995757,
+            "weight": 0.1267729440539421
+        },
+        {
+            "id": 1096531,
+            "weight": 0.12623991156301215
+        },
+        {
+            "id": 15548501,
+            "weight": 0.09872156704721062
+        },
+        {
+            "id": 904196,
+            "weight": 0.09708792739363636
+        },
+        {
+            "id": 1060110,
+            "weight": 0.09707743659305276
+        },
+        {
+            "id": 966048,
+            "weight": 0.09470289255906447
+        },
+        {
+            "id": 1121877,
+            "weight": 0.08880149213917263
+        },
+        {
+            "id": 1057251,
+            "weight": 0.08474787849068857
+        },
+        {
+            "id": 854132,
+            "weight": 0.08275987839754809
+        },
+        {
+            "id": 16532271,
+            "weight": 0.07893454468684367
+        },
+        {
+            "id": 1124788,
+            "weight": 0.07738783654212235
+        },
+        {
+            "id": 940702,
+            "weight": 0.0743660980001842
+        },
+        {
+            "id": 966055,
+            "weight": 0.07113148688454582
+        },
+        {
+            "id": "r_7006030",
+            "weight": 0.07067451127596887
+        }
+    ],
+    "videostarttime": {
+        "1013531": 1768
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_19.12.23_NC_EINDHOVEN-Raadsvergadering.mp4/playlist.m3u8",
+    "keywords": {
+        "Wethouder Toub": 0.9964039574067836,
+        "Reclamecampagne normaaloverdrugs.nl": 1.9926011110830113,
+        "Toub zegt": 0.9909268688009216,
+        "technische vraag": 0.9851072692162545,
+        "schriftelijk terug": 0.9834095769813254,
+        "concessie invloed": 0.9834095769813254,
+        "soort reclame": 0.9834095769813254,
+        "vragenhalfuur": 1.9499157062066383,
+        "Vraag": 1.9425660774146092,
+        "Toub": 0.9296152089309594,
+        "SUOG": 0.9296152089309594,
+        "Reclamecampagne": 1.9142996649572777,
+        "geplaatst": 0.9142996649572777,
+        "zegt": 0.8722515254716516,
+        "terug": 0.8722515254716516,
+        "komen": 0.8722515254716516,
+        "via": 0.8722515254716516,
+        "invloed": 0.8722515254716516,
+        "oefenen": 0.8722515254716516,
+        "soort": 0.8722515254716516
+    },
+    "svz": null,
+    "afgedaan": "16-01-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

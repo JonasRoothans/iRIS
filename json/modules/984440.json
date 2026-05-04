@@ -1,0 +1,58 @@
+{
+    "module_id": 984440,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "AI toepassingen - Raadsvoorstel Begroting 2025",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/984440",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "29-10-2024",
+    "meeting_url": {
+        "1148141": "https://raadsinformatie.eindhoven.nl/vergadering/1148141#ai_8729567"
+    },
+    "attachment": null,
+    "parent": 975511,
+    "children": [],
+    "text": "Wethouder Verhees zegt toe dat de Kader wordt vastgesteld.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1104187,
+            "weight": 0.4174641494933208
+        },
+        {
+            "id": 802898,
+            "weight": 0.4016985287873215
+        },
+        {
+            "id": 875874,
+            "weight": 0.31157941786374155
+        }
+    ],
+    "videostarttime": {
+        "1148141": null
+    },
+    "videolink": null,
+    "keywords": {
+        "Raadsvoorstel Begroting": 1.9925553183866471,
+        "Wethouder Verhees": 0.9873976398760466,
+        "Verhees zegt": 0.955011371234592,
+        "Begroting": 1.9140368224837343,
+        "Kader": 0.8552226942577967,
+        "toepassingen": 1.8416830712200127,
+        "vastgesteld": 0.8416830712200127,
+        "zegt": 0.7026344174397849
+    },
+    "svz": null,
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

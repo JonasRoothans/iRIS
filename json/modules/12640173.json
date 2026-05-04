@@ -1,0 +1,117 @@
+{
+    "module_id": 12640173,
+    "vote_id": null,
+    "member_id": [
+        80968
+    ],
+    "party_list": [
+        "SP"
+    ],
+    "poho_id": [],
+    "title": "4. Rondvraag - Eindhoven en de herdenking van het slavernijverleden - SP",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "18-04-2023",
+    "meeting_url": {
+        "1062988": "https://raadsinformatie.eindhoven.nl/vergadering/1013485/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://api.notubiz.nl/document/12640173/1",
+    "pdf_text": " \n \n \nRondvraag  Eindhoven en de herdenking van het slavernijverleden  \n                  \nInleiding  \nOp de raadsavond van 13 december jl. deed wethouder Toub  naar aanleiding van \neen rondvraag over het slavernijverleden van Eindhoven de toezegging dat hij de \nraad voor het einde van het eerste kwartaal nader zou informeren over het \nvoorgenomen onderzoek (a ls gevolg van motie raadsvergadering 9 november  \n2021) en de herdenking van het slavernij verleden  1 juli 2023.  \n \nWat het onderzoek betreft heeft de wethouder ons ondertussen laten weten dat \nhet Plan van Aanpak voor een onderzoek iets later, in het tweede kwartaal komt. \nDit wachten wij af.  \n \nMaar graag willen we alsnog vernemen wat d e plannen van het college zijn voor \nde herdenking in onze gemeente op 1 juli. Vandaar onze vraag:  \n \n1] Is het college van plan ook in Eindhoven aandacht te schenken aan de \nherdenking van het slavernijverleden?  \n \n2] Zo ja, wat zijn de plannen van de gemeente?  \n \n \nEindhoven, 18 april 2023  \n \n \nHet lid van de raad,  \n \nJannie Visscher , fractie SP  \n \n \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 954552,
+            "weight": 1.4848713956599038
+        },
+        {
+            "id": 11765916,
+            "weight": 0.9092791932338812
+        },
+        {
+            "id": 982293,
+            "weight": 0.7588761930036845
+        },
+        {
+            "id": 872919,
+            "weight": 0.7334212273249343
+        },
+        {
+            "id": 974126,
+            "weight": 0.32419949403014936
+        },
+        {
+            "id": 16663353,
+            "weight": 0.2976774788645281
+        },
+        {
+            "id": 866658,
+            "weight": 0.2409593064860911
+        },
+        {
+            "id": 894991,
+            "weight": 0.14756848601721645
+        },
+        {
+            "id": 1148996,
+            "weight": 0.1135698920495254
+        },
+        {
+            "id": 776868,
+            "weight": 0.10843882378804166
+        }
+    ],
+    "videostarttime": {
+        "1062988": 10561
+    },
+    "videolink": null,
+    "keywords": {
+        "Eindhoven": 1.9436289235002229,
+        "herdenking": 1.94253346416426,
+        "Rondvraag Eindhoven": 0.9254497157259289,
+        "slavernijverleden Inleiding": 0.9210139607272279,
+        "Rondvraag": 1.917950682492175,
+        "wethouder Toub": 0.9152210499290021,
+        "onderzoek": 0.8802526966817211,
+        "Jannie Visscher": 0.8382319295056921,
+        "juli": 0.8340629931074974,
+        "Plan": 0.8194299024465532,
+        "voorgenomen onderzoek": 0.8108582083821614,
+        "kwartaal": 0.8070629901251525,
+        "Inleiding": 0.7974644585254692,
+        "Toub": 0.7974644585254692,
+        "deed wethouder": 0.7939470858309051,
+        "Eindhoven aandacht": 0.7797434621454733,
+        "motie raadsvergadering": 0.7774201871184453,
+        "raad": 0.761221149761484,
+        "college": 0.7548515961897428,
+        "gemeente": 0.7350778058422794,
+        "Aanpak": 0.7299140879466406,
+        "Jannie": 0.6268472173678353,
+        "november": 0.6217628165108949,
+        "laten weten": 0.595783556791416,
+        "verleden": 1.5888108058788373,
+        "raadsavond": 0.5572415489594111,
+        "deed": 0.5572415489594111,
+        "toezegging": 0.5572415489594111,
+        "nader": 0.5572415489594111,
+        "informeren": 0.5572415489594111,
+        "gevolg": 0.5572415489594111,
+        "motie": 0.5572415489594111,
+        "slavernij": 1.5572415489594111
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 80968,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1062988
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "module_id": 854128,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 231116,
+    "title": "Aanwijzen camera's - Commissienotitie 2.0 Camerabeleid art. 151c Gemeentewet",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/854128",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "J. Dijsselbloem (Burgemeester)",
+    "result": "",
+    "date": "06-06-2023",
+    "meeting_url": {
+        "1102751": "https://raadsinformatie.eindhoven.nl/vergadering/1102751#ai_7611637"
+    },
+    "attachment": null,
+    "parent": 845544,
+    "children": [],
+    "text": "Burgemeester Dijsselbloem zegt toe:\n\nde vaste camera’s die momenteel al hangen in het centrum voor 4 jaar aan te wijzen. De tweede soort aanwijzingsbesluit voor verkeerscamera’s worden voor twee jaar aangewezen en daarna geëvalueerd;",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 854127,
+            "weight": 0.6977101207750072
+        },
+        {
+            "id": 854132,
+            "weight": 0.6960568121190729
+        },
+        {
+            "id": 854130,
+            "weight": 0.6950369859136489
+        },
+        {
+            "id": 854129,
+            "weight": 0.6923459843532163
+        },
+        {
+            "id": 854133,
+            "weight": 0.6919976577261933
+        },
+        {
+            "id": 854131,
+            "weight": 0.6915552270252607
+        },
+        {
+            "id": 1014012,
+            "weight": 0.06029195819457387
+        },
+        {
+            "id": 925552,
+            "weight": 0.05676639009952859
+        },
+        {
+            "id": 14926561,
+            "weight": 0.047174635345988224
+        },
+        {
+            "id": 1069224,
+            "weight": 0.0457991139065421
+        },
+        {
+            "id": 14115505,
+            "weight": 0.04185114569503832
+        },
+        {
+            "id": 799947,
+            "weight": 0.03926785402542061
+        },
+        {
+            "id": 883343,
+            "weight": 0.038490004926831134
+        }
+    ],
+    "videostarttime": {
+        "1102751": 2558
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_06.06.23_NC_Eindhoven_RAA.mp4/playlist.m3u8",
+    "keywords": {
+        "Camerabeleid art": 1.9910666988597585,
+        "Commissienotitie": 1.9564187154164072,
+        "Gemeentewet Burgemeester": 0.9488814533678964,
+        "Aanwijzen camera": 1.9477371176677511,
+        "Burgemeester Dijsselbloem": 0.9336711175768552,
+        "Dijsselbloem zegt": 0.8703185275781573,
+        "art": 1.8641934866645307,
+        "camera": 1.8171400859391111,
+        "Gemeentewet": 1.8050060912732753,
+        "Burgemeester": 0.7505946566863086,
+        "jaar": 0.7445729890276914,
+        "wijzen": 1.6469199804088823,
+        "twee jaar": 0.6052132759570017,
+        "jaar aangewezen": 0.6052132759570017,
+        "geëvalueerd": 0.5570486781912909,
+        "tweede soort": 0.5570317325362739,
+        "soort aanwijzingsbesluit": 0.5570317325362739,
+        "zegt": 0.5397262860954037,
+        "vaste": 0.5397262860954037,
+        "hangen": 0.5397262860954037,
+        "centrum": 0.5397262860954037
+    },
+    "svz": null,
+    "afgedaan": "04-07-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

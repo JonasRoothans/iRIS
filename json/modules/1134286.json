@@ -1,0 +1,89 @@
+{
+    "module_id": 1134286,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230024,
+    "title": "Ook voor ouderen aandacht voor ‘Schuldenvrij leven’ (Motie M2)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1134286",
+    "type": "Toezegging",
+    "member": "",
+    "party": "",
+    "poho": "S. Lammers (Wethouder)",
+    "result": "",
+    "date": "10-02-2026",
+    "meeting_url": {
+        "1374859": "https://raadsinformatie.eindhoven.nl/vergadering/1374859#ai_9916782"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": "Wethouder Lammers zegt toe met ouderenorganisaties in contact te treden met als doel het bereik van de armoederegelingen te vergroten.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1132345,
+            "weight": 5.804349252717632
+        },
+        {
+            "id": 891616,
+            "weight": 0.18342092979411534
+        },
+        {
+            "id": 891623,
+            "weight": 0.0879527289782086
+        },
+        {
+            "id": 926416,
+            "weight": 0.08058624756415078
+        },
+        {
+            "id": 793392,
+            "weight": 0.08047905890444877
+        },
+        {
+            "id": 791698,
+            "weight": 0.08045604879642898
+        },
+        {
+            "id": 793390,
+            "weight": 0.08032565185840392
+        },
+        {
+            "id": 793398,
+            "weight": 0.08029257544279937
+        },
+        {
+            "id": 983995,
+            "weight": 0.05355025804263572
+        }
+    ],
+    "videostarttime": {
+        "1374859": 2381
+    },
+    "videolink": null,
+    "keywords": {
+        "Wethouder Lammers": 0.9950748962302097,
+        "Schuldenvrij leven’": 1.9945151091550533,
+        "Lammers zegt": 0.986202801796007,
+        "ouderen aandacht": 1.9742913828560065,
+        "Motie": 1.9696036283675864,
+        "leven’": 1.9043195497355658,
+        "vergroten": 0.9043195497355658,
+        "ouderen": 1.8416830712200127,
+        "aandacht": 1.8416830712200127,
+        "zegt": 0.8416830712200127,
+        "contact": 0.8416830712200127,
+        "treden": 0.8416830712200127,
+        "doel": 0.8416830712200127,
+        "bereik": 0.8416830712200127,
+        "armoederegelingen": 0.8416830712200127
+    },
+    "svz": "",
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "08-04-2026",
+    "meeting_id": []
+}

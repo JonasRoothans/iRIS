@@ -1,0 +1,101 @@
+{
+    "module_id": 1045676,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 248564,
+    "title": "Uitvoeringsprogramma - Raadsvoorstel Verkeerscirculatieplan Eindhoven binnen de Ring en Verbeterplan Ring",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1045676",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "R. Strijk (Wethouder)",
+    "result": "",
+    "date": "13-05-2025",
+    "meeting_url": {
+        "1256605": "https://raadsinformatie.eindhoven.nl/vergadering/1256605#ai_9271218"
+    },
+    "attachment": null,
+    "parent": 1035304,
+    "children": [],
+    "text": "Wethouder Strijk zegt toe Bij de uitvoering zal met zorgvuldige participatie worden gekeken naar flankerende maatregelen en volgordelijkheid kijken. Dit wordt teruggekoppeld in het uitvoeringsprogramma.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1045686,
+            "weight": 0.564907581215299
+        },
+        {
+            "id": 1045682,
+            "weight": 0.5647603610253279
+        },
+        {
+            "id": 1045703,
+            "weight": 0.5647263026102907
+        },
+        {
+            "id": 1045698,
+            "weight": 0.5647151913929416
+        },
+        {
+            "id": 1045701,
+            "weight": 0.5646375203796106
+        },
+        {
+            "id": 1045691,
+            "weight": 0.5641990330872755
+        },
+        {
+            "id": 1045674,
+            "weight": 0.5634303400699747
+        },
+        {
+            "id": 925715,
+            "weight": 0.2537062244425073
+        },
+        {
+            "id": 1045922,
+            "weight": 0.22064044462837995
+        },
+        {
+            "id": 925712,
+            "weight": 0.16288989746555999
+        }
+    ],
+    "videostarttime": {
+        "1256605": 628
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_13.05.25_NC_01-EINDHOVEN-RAA.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Verkeerscirculatieplan": 1.9923035173081156,
+        "Verkeerscirculatieplan Eindhoven": 1.9888204630746662,
+        "Wethouder Strijk": 0.9888204630746662,
+        "Verbeterplan Ring": 1.9856550519087293,
+        "Ring Wethouder": 0.9856550519087293,
+        "Strijk zegt": 0.9742846199975151,
+        "volgordelijkheid kijken": 0.9629751809240982,
+        "zorgvuldige participatie": 0.9397223633063696,
+        "flankerende maatregelen": 0.9397223633063696,
+        "Ring": 1.9327510444595832,
+        "Raadsvoorstel": 1.9273618485932245,
+        "Eindhoven": 1.894852785709496,
+        "Uitvoeringsprogramma": 1.8636109700827403,
+        "kijken": 0.8502608074468406,
+        "zegt": 0.761565932486242,
+        "uitvoering": 0.761565932486242,
+        "zorgvuldige": 0.761565932486242,
+        "participatie": 0.761565932486242,
+        "gekeken": 0.761565932486242,
+        "flankerende": 0.761565932486242,
+        "maatregelen": 0.761565932486242
+    },
+    "svz": null,
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": [
+        1256605
+    ]
+}

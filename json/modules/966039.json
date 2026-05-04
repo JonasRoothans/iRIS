@@ -1,0 +1,70 @@
+{
+    "module_id": 966039,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230019,
+    "title": "Beloningsbeleid Eindhoven Airport - Raadsvoorstel Jaarstukken 2023",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/966039",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. van Lanschot (Wethouder)",
+    "result": "",
+    "date": "26-06-2024",
+    "meeting_url": {
+        "1147976": "https://raadsinformatie.eindhoven.nl/vergadering/1147976#ai_8483475"
+    },
+    "attachment": null,
+    "parent": 946916,
+    "children": [],
+    "text": "Wethouder van Lanschot zegt toe en blijft in aandeelhoudersvereniging oproepen tot matigen.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 16692001,
+            "weight": 0.09900886155768084
+        },
+        {
+            "id": 862349,
+            "weight": 0.09482795889494687
+        },
+        {
+            "id": 1124907,
+            "weight": 0.08369189927112643
+        },
+        {
+            "id": 965983,
+            "weight": 0.08261218660084049
+        },
+        {
+            "id": 1046636,
+            "weight": 0.07833840884901727
+        }
+    ],
+    "videostarttime": {
+        "1147976": null
+    },
+    "videolink": null,
+    "keywords": {
+        "Raadsvoorstel Jaarstukken": 1.9925553183866471,
+        "Eindhoven Airport": 1.9873976398760465,
+        "Beloningsbeleid Eindhoven": 1.9765416191248102,
+        "Lanschot zegt": 0.955011371234592,
+        "Airport": 1.9140368224837343,
+        "Jaarstukken": 1.9140368224837343,
+        "Wethouder": 0.9140368224837344,
+        "aandeelhoudersvereniging oproepen": 0.9029960071342576,
+        "matigen": 0.8416830712200127,
+        "zegt": 0.7026344174397849,
+        "blijft": 0.7026344174397849,
+        "oproepen": 0.7026344174397849
+    },
+    "svz": null,
+    "afgedaan": "03-09-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

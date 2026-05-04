@@ -1,0 +1,64 @@
+{
+    "module_id": 866742,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Collegebrief De groei van nieuwkomers onderwijs in het Global College",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/8/Raadsinformatiebrieven/866742",
+    "type": "Collegebrief",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "25-07-2023",
+    "meeting_url": null,
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": "23bst01113",
+    "related": [
+        {
+            "id": 996940,
+            "weight": 1.1258472111448417
+        },
+        {
+            "id": 833196,
+            "weight": 0.5287737695209284
+        },
+        {
+            "id": 904173,
+            "weight": 0.516981499504333
+        },
+        {
+            "id": 996964,
+            "weight": 0.1810756701159713
+        },
+        {
+            "id": 1058658,
+            "weight": 0.17558729872947562
+        },
+        {
+            "id": 11753467,
+            "weight": 0.16501031791786575
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Global College": 1.9873976398760465,
+        "College": 1.9140368224837343,
+        "nieuwkomers onderwijs": 1.9029960071342575,
+        "Global": 1.8552226942577967,
+        "groei": 1.702634417439785,
+        "onderwijs": 1.702634417439785
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": "30-05-2025",
+    "meeting_id": []
+}

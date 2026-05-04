@@ -1,0 +1,103 @@
+{
+    "module_id": "r_9119780",
+    "vote_id": 9119780,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Raadsvoorstel: Vaststellen begrotingswijziging inzet buffer maatschappelijke infrastructuur / onzekerheden rijksbeleid",
+    "url": "https://raadsinformatie.eindhoven.nl/vergadering/1256316/Raadsvoorstel%3A%20Vaststellen%20begrotingswijziging%20inzet%20buffer%20maatschappelijke%20infrastructuur%20_%20onzekerheden%20rijksbeleid 25-02-2025#voting_9119780",
+    "type": "Raadsvoorstel",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "aangenomen",
+    "date": "25-02-2025",
+    "meeting_url": {
+        "1256316": "https://raadsinformatie.eindhoven.nl/vergadering/1256316/Raadsvoorstel%3A%20Vaststellen%20begrotingswijziging%20inzet%20buffer%20maatschappelijke%20infrastructuur%20_%20onzekerheden%20rijksbeleid 25-02-2025#voting_9119780"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 997013,
+            "weight": 9.1705278937075
+        },
+        {
+            "id": 920922,
+            "weight": 2.4656505503861945
+        },
+        {
+            "id": 834883,
+            "weight": 0.7832902360012137
+        },
+        {
+            "id": 1094282,
+            "weight": 0.4491318998244161
+        },
+        {
+            "id": 945632,
+            "weight": 0.43216811571689473
+        },
+        {
+            "id": 892084,
+            "weight": 0.4318739225396863
+        },
+        {
+            "id": 905577,
+            "weight": 0.4306280902233937
+        },
+        {
+            "id": 891752,
+            "weight": 0.4291122452639412
+        },
+        {
+            "id": 981349,
+            "weight": 0.4115832666771238
+        },
+        {
+            "id": 777022,
+            "weight": 0.37533239114895417
+        },
+        {
+            "id": 890106,
+            "weight": 0.3606510879719699
+        },
+        {
+            "id": 945736,
+            "weight": 0.21468559131891687
+        },
+        {
+            "id": 891695,
+            "weight": 0.17952040365526348
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "onzekerheden rijksbeleid": 1.9742913828560065,
+        "Vaststellen begrotingswijziging": 1.9737669269624916,
+        "Raadsvoorstel": 1.9550880231213545,
+        "maatschappelijke infrastructuur": 1.9505961599793435,
+        "Vaststellen": 1.9140368224837343,
+        "begrotingswijziging inzet": 1.9029960071342575,
+        "inzet buffer": 1.9029960071342575,
+        "buffer maatschappelijke": 1.9029960071342575,
+        "infrastructuur": 1.8416830712200127,
+        "onzekerheden": 1.8416830712200127,
+        "rijksbeleid": 1.8416830712200127,
+        "inzet": 1.702634417439785,
+        "buffer": 1.702634417439785
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1256316
+    ]
+}

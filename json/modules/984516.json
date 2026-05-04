@@ -1,0 +1,99 @@
+{
+    "module_id": 984516,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230019,
+    "title": "Uitvoeringsprogramma sportvoorzieningen - Raadsvoorstel Begroting 2025",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/984516",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. van Lanschot (Wethouder)",
+    "result": "",
+    "date": "29-10-2024",
+    "meeting_url": {
+        "1148140": "https://raadsinformatie.eindhoven.nl/vergadering/1148140#ai_8727039"
+    },
+    "attachment": null,
+    "parent": 975511,
+    "children": [],
+    "text": "Wethouder van Lanschot zegt toe dat hierin oa zal instaan: licht bij sport- en beweegvoorzieningen, sportregisseurs, stand van accommodaties.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 891748,
+            "weight": 0.9197760992199167
+        },
+        {
+            "id": 804106,
+            "weight": 0.40802653360974334
+        },
+        {
+            "id": 936494,
+            "weight": 0.3767003129574951
+        },
+        {
+            "id": 1107607,
+            "weight": 0.311590364571187
+        },
+        {
+            "id": 1038236,
+            "weight": 0.09509894382483763
+        },
+        {
+            "id": 890632,
+            "weight": 0.0801348544830363
+        },
+        {
+            "id": 926910,
+            "weight": 0.06880217396768849
+        },
+        {
+            "id": 875659,
+            "weight": 0.06703845686549689
+        },
+        {
+            "id": "a_9477017",
+            "weight": 0.06630582293991694
+        },
+        {
+            "id": "a_9477086",
+            "weight": 0.06556420594594947
+        },
+        {
+            "id": "a_7151094",
+            "weight": 0.06522525112166973
+        },
+        {
+            "id": 794220,
+            "weight": 0.06508338434008616
+        }
+    ],
+    "videostarttime": {
+        "1148140": null
+    },
+    "videolink": null,
+    "keywords": {
+        "Raadsvoorstel Begroting": 1.9967389880162214,
+        "Uitvoeringsprogramma sportvoorzieningen": 1.990760667672852,
+        "Lanschot zegt": 0.986202801796007,
+        "sportregisseurs": 0.9550880231213544,
+        "Begroting": 1.9429876123096683,
+        "Wethouder": 0.9429876123096684,
+        "sportvoorzieningen": 1.9043195497355658,
+        "instaan": 0.9043195497355658,
+        "licht": 0.9043195497355658,
+        "sport": 1.9043195497355658,
+        "stand": 0.9043195497355658,
+        "accommodaties": 0.9043195497355658,
+        "zegt": 0.8416830712200127
+    },
+    "svz": null,
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

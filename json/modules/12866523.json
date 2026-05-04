@@ -1,0 +1,86 @@
+{
+    "module_id": 12866523,
+    "vote_id": null,
+    "member_id": [
+        80968,
+        131155
+    ],
+    "party_list": [
+        "50PLUS",
+        "SP"
+    ],
+    "poho_id": [],
+    "title": "3. Rondvraag - Afspraak is (geen) afspraak (SP, 50PLUS)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "13-06-2023",
+    "meeting_url": {
+        "1102756": "https://raadsinformatie.eindhoven.nl/vergadering/1013497/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://api.notubiz.nl/document/12866523/1",
+    "pdf_text": " \n \n \nRondvraag   \n  Afspraak is (geen) afspraak                     \n \nAfspra ak tussen college en raad over woonoverlast door woningsplitsing en \nkamerverhuur  over “Op Slot” gebieden.  \n \nCollege en raad hebben een goede samenwerking hoog in het vaandel staan. \nMaar in de praktijk wil het nog niet altijd goed lukken om afspraken na te komen. \nZo stelde wethouder Verhees ruim een half jaar geleden, op de raadsavond van \n22 november vorig jaar, dat zij in het eerste kwartaal met de raad zou spreken \nover de uitvoering van het beleid voor woningsplitsing en kamerverhuur in de “Op \nslot” gebieden.  \n \nEchter: dat gesprek heeft nog steeds niet kunnen plaatsvinden omdat het college \ntot op heden geen voor stel naar de raad heeft gestuurd. En niet alleen is het \neerste kwartaal van dit jaar voorbij, eind deze maand loopt ook het tweede \nkwartaal van 2023 al ten einde. Door deze vertraging weten ook de bewoners van \nde “Op slot” gebieden nog steeds niet waar zij  aan toe zijn.  \n \nIn de afsprakenlijst van wethouder Verhees lazen wij vorige maand mei nog als \ntermijn van afdoening van deze toezegging het eerste kwartaal van 2023 . In de \nafsprakenlijst die vandaag bij de stukken is gevoegd is dit plotseling, zonder \nnader e toelichting, gewijzigd in “kwartaal 3 of 4 van 2023”.  \n \nDit leidt tot de volgende vragen:  \n \n1] Waarom is het college de afspraak niet nagekomen om in het eerste kwartaal \nmet de raad in gesprek te gaan over de uitvoering van het beleid in de “Op slot” \ngebieden?  Wat is het probleem?  \n \n2] Wanneer kan de raad (en de stad!) alsnog het beloofde voorstel verwachten : \ngraag een preciezere aanduiding dan kwartaal 3 of 4 want dat is nogal een ruim \nbegrip..  \n \n3] Waarom hebt u niet, zoals de afspraak is tussen college e n raad, al in kwartaal \n1 een uitstelbrief aan de raad gestuurd?  \n \nDe leden  van de ra ad,  \n \nJannie Visscher, fractie SP  \nRuud van Acquoij, fractie 50PLUS  \n",
+    "bst": null,
+    "related": [
+        {
+            "id": "ai_6962201",
+            "weight": 0.4300336026028042
+        },
+        {
+            "id": 894409,
+            "weight": 0.16314476205056308
+        },
+        {
+            "id": 1104134,
+            "weight": 0.15587865955206642
+        }
+    ],
+    "videostarttime": {
+        "1102756": 9123
+    },
+    "videolink": null,
+    "keywords": {
+        "raad": 0.9578567064527528,
+        "kwartaal": 0.9574363659945925,
+        "Afspraak": 1.9437224007060854,
+        "Slot": 0.9289173087485294,
+        "college": 0.9254789511548639,
+        "Rondvraag Afspraak": 0.9208259369232119,
+        "gebieden": 0.902244921347887,
+        "wethouder Verhees": 0.8933037137060621,
+        "Rondvraag": 1.8913637852616079,
+        "Verhees": 0.8404868716456346,
+        "jaar": 0.8321968402336581,
+        "woningsplitsing": 0.772865209864932,
+        "kamerverhuur": 0.772865209864932,
+        "Jannie Visscher": 0.7691755760629525,
+        "raad gestuurd": 0.766119219850098,
+        "uitvoering": 0.7307249420748776,
+        "beleid": 0.7206175352033903,
+        "gesprek": 0.7076648688958106,
+        "ruim": 0.7046566500496809,
+        "afsprakenlijst": 0.7005009862819624,
+        "fractie": 0.6919254489590698,
+        "Jannie": 0.5669452292367543,
+        "Acquoij": 0.5669452292367543,
+        "Ruud": 0.553532583049434,
+        "vaandel staan": 0.5254305198739875,
+        "woonoverlast": 0.5155934878216577,
+        "half jaar": 0.5058895587050913,
+        "vorig jaar": 0.5058895587050913
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 80968,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1102756
+    ]
+}

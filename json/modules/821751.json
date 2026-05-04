@@ -1,0 +1,87 @@
+{
+    "module_id": 821751,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "0-meting - Raadsvoorstel Startnotitie Pact Woensel Zuid",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/821751",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "07-02-2023",
+    "meeting_url": {
+        "1059802": "https://raadsinformatie.eindhoven.nl/vergadering/1059802#ai_7231191"
+    },
+    "attachment": null,
+    "parent": 804895,
+    "children": [],
+    "text": "Stadsgezant Bellemakers zegt toe (o.v.v. wethouder Verhees):\n\ndaar waar het kan een 0-meting uit te voeren en in overleg met de partners te bekijken hoe we dit kunnen vormgeven.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 821750,
+            "weight": 0.4899380945034546
+        },
+        {
+            "id": 821749,
+            "weight": 0.48681562432603076
+        },
+        {
+            "id": 821753,
+            "weight": 0.4807182287559726
+        },
+        {
+            "id": 861175,
+            "weight": 0.13466585018354568
+        },
+        {
+            "id": 862790,
+            "weight": 0.12291228342612288
+        },
+        {
+            "id": 831885,
+            "weight": 0.11583863017972516
+        },
+        {
+            "id": 824885,
+            "weight": 0.10876870947115437
+        },
+        {
+            "id": 1036407,
+            "weight": 0.09669720454847008
+        }
+    ],
+    "videostarttime": {
+        "1059802": 7828
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_02.07.23_NC_Eindhoven_MeningsvormingRAA.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Startnotitie": 1.9944628874809336,
+        "wethouder Verhees": 0.9934814726810703,
+        "Startnotitie Pact": 1.9917104114097657,
+        "Pact Woensel": 1.9917104114097657,
+        "Woensel Zuid": 1.9917104114097657,
+        "Zuid Stadsgezant": 0.9917104114097657,
+        "Stadsgezant Bellemakers": 0.9917104114097657,
+        "Bellemakers zegt": 0.9838708471774884,
+        "Raadsvoorstel": 1.939268865040284,
+        "Verhees": 0.9392688650402842,
+        "Pact": 1.9093278638943105,
+        "Zuid": 1.9093278638943105,
+        "vormgeven": 0.8933609373339291,
+        "zegt": 0.8249392446001187,
+        "overleg": 0.8249392446001187,
+        "partners": 0.8249392446001187,
+        "bekijken": 0.8249392446001187
+    },
+    "svz": null,
+    "afgedaan": "14-05-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

@@ -1,0 +1,66 @@
+{
+    "module_id": 885495,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230013,
+    "title": "Beter informeren inzake clusterpaspoorten - Raadsommissie Knoop XL, Clusterpaspoort Ontwikkelvisie Fellenoord: Cluster 1b",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/885495",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Steenbakkers (Wethouder)",
+    "result": "",
+    "date": "13-10-2023",
+    "meeting_url": {
+        "1142673": "https://raadsinformatie.eindhoven.nl/vergadering/1142673#ai_7877944"
+    },
+    "attachment": null,
+    "parent": "ai_7877944",
+    "children": [],
+    "text": "Wethouder Steenbakkers zegt toe:\nBij de volgende clusterpaspoorten de partijen die binnen het clustergebied vallen, beter te informeren over de behandeling en planning van de clusterpaspoorten.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 885488,
+            "weight": 0.9961452297585249
+        },
+        {
+            "id": 885492,
+            "weight": 0.9940233507860786
+        },
+        {
+            "id": "ai_7877944",
+            "weight": 0.9914747833439478
+        }
+    ],
+    "videostarttime": {},
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_10.10.23_Eindhoven_raadscieknoopXL.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsommissie Knoop": 1.995523720971684,
+        "Clusterpaspoort Ontwikkelvisie": 1.995523720971684,
+        "Ontwikkelvisie Fellenoord": 1.995523720971684,
+        "Wethouder Steenbakkers": 0.995523720971684,
+        "Steenbakkers zegt": 0.9875958131242233,
+        "Cluster": 1.9569775056222434,
+        "Clusterpaspoort": 1.940958367336697,
+        "Fellenoord": 1.940958367336697,
+        "Wethouder": 0.940958367336697,
+        "Knoop": 1.9245222219441565,
+        "informeren": 1.8539211671965208,
+        "clustergebied vallen": 0.8530365895440212,
+        "zegt": 0.8376713184824863,
+        "vallen": 0.6814857488926871,
+        "volgende": 0.5977178249256285,
+        "partijen": 0.5977178249256285,
+        "behandeling": 0.5977178249256285,
+        "planning": 0.5977178249256285
+    },
+    "svz": null,
+    "afgedaan": "16-01-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

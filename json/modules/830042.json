@@ -1,0 +1,96 @@
+{
+    "module_id": 830042,
+    "vote_id": null,
+    "member_id": [
+        194500
+    ],
+    "party_list": [
+        "FVD"
+    ],
+    "poho_id": [],
+    "title": "Beantwoording Vervolg raadsvragen Cookiemuur  informatieverzoek (FvD)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/4/Raadsvragen/830042",
+    "type": "Raadsvraag",
+    "member": "Nicolas Knoester",
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "24-03-2023",
+    "meeting_url": null,
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/12548887/1?connection_type=17&connection_id=9197286": "Vraag",
+        "https://raadsinformatie.eindhoven.nl/document/12645523/2?connection_type=17&connection_id=9271874": "Antwoord"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/12548887/1?connection_type=17&connection_id=9197286",
+    "pdf_text": " \n \n \nRaadsvragen van de fractie (s): Forum voor Democratie  \n \n \nVervolg raadsvragen cookiemuur & informatieverzoek  \n \ndatum:  24 maart 2023  \n \n \nGeacht college,  \nDe antwoorden van het college  op de raadsvragen van 15 februari  2023 \nzijn helaas ontwijkend en dus teleurstellend. Dit behoeft aanvullende \nvragen.  \n \nInleiding  \n \nHet college stelt dat de cookiemuur pas binnen 2 maanden aangepast \nzal worden. De aanpassing blijkt echter puur visueel en niet functioneel. \nEr is een grote en groeiende groep inwoners die hun pri vacy zeer op \nprijs stelt. Anonimisering is prima, maar voor het verbeteren van de \nwebsite zijn niet de gegevens van alle bezoekers noodzakelijk. Een deel \nis ruim voldoende.  \n \n \nRaadsvragen  \n1. Waarom grijpt het college niet de kans om de mogelijkheid aan \nte bieden om de statistiek cookies af te wijzen voor dat deel van \nde inwoners die dat belangrijk vindt in het kader van \ntoegankelijkheid, transparantie en betrouwbaarheid?  \n \nHet college stelt dat er geen wettelijke bewaartermijn is voor de \nverzamelde gegevens.  Dit is echter geen reden om gegevens onnodig \nlang te bewaren. Dit draagt niet bij aan het vertrouwen van inwoners in \nde gemeente.  \n \n2. Is het college bereid om een redelijke bewaartermijn af te \nspreken met de leverancier?  \n \nInformatieverzoek  \n3. Het verzoek aan he t college is om het huidige contract met \nSiteImprove vrij te geven inclusief de verwerkersovereenkomst.  \n \nNamens de fractie(s),  \nForum voor Democratie  \n \nNicolas Knoester , raadslid  \n ",
+    "bst": "23bst00464",
+    "related": [
+        {
+            "id": 822130,
+            "weight": 1.887797497491246
+        },
+        {
+            "id": 865876,
+            "weight": 0.32487024876213916
+        },
+        {
+            "id": 940771,
+            "weight": 0.2956558273021212
+        },
+        {
+            "id": 883277,
+            "weight": 0.15614076765868448
+        },
+        {
+            "id": 944752,
+            "weight": 0.12633872225974055
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Vervolg raadsvragen": 1.9922941049918066,
+        "Beantwoording Vervolg": 1.9908539610302212,
+        "Geacht college": 0.9755809676042566,
+        "Vervolg": 1.9734995519320675,
+        "raadsvragen Cookiemuur": 1.9678835864670208,
+        "helaas ontwijkend": 0.9634338863966626,
+        "college": 0.9460079949881174,
+        "Geacht": 0.9369299294113729,
+        "Cookiemuur": 1.9297459343007648,
+        "informatieverzoek datum": 0.9047200311647586,
+        "Cookiemuur informatieverzoek": 0.8799039791794483,
+        "stelt": 0.8698710990825347,
+        "Forum": 0.8514916890159467,
+        "FvD": 1.8455094822942453,
+        "maart": 0.8455094822942454,
+        "februari": 0.8455094822942454,
+        "inwoners": 0.8353830792788661,
+        "Democratie": 0.8342849872053182,
+        "datum": 0.8290001163334407,
+        "teleurstellend": 0.8290001163334407,
+        "antwoorden": 0.8121804055368759,
+        "helaas": 0.8121804055368759,
+        "aanvullende vragen": 0.7716339897174358,
+        "Nicolas Knoester": 0.7586706528063051,
+        "fractie": 0.7580479871920475,
+        "behoeft aanvullende": 0.7524998775244188,
+        "deel": 0.7206605567144689,
+        "bewaartermijn": 0.7039252973180097,
+        "prijs stelt": 0.6801426157816857,
+        "college bereid": 0.6331646607404745,
+        "maanden aangepast": 0.6199818297630201,
+        "vragen": 1.5826155517763163,
+        "Knoester": 0.5682796392699799,
+        "behoeft": 0.5545823619500243,
+        "Nicolas": 0.5496806758545587
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194500,
+    "lastScrapeDate": "02-04-2026",
+    "meeting_id": []
+}

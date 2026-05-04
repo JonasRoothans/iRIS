@@ -1,0 +1,104 @@
+{
+    "module_id": 887979,
+    "vote_id": null,
+    "member_id": [
+        194500
+    ],
+    "party_list": [
+        "FVD"
+    ],
+    "poho_id": [],
+    "title": "Beantwoording vervolg raadsvragen College vs AP (FvD)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/4/Raadsvragen/887979",
+    "type": "Raadsvraag",
+    "member": "Nicolas Knoester",
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "24-10-2023",
+    "meeting_url": null,
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/13390977/1?connection_type=17&connection_id=9881636": "Vraag",
+        "https://raadsinformatie.eindhoven.nl/document/13585945/2?connection_type=17&connection_id=10057337": "Antwoord"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/13390977/1?connection_type=17&connection_id=9881636",
+    "pdf_text": " \n \n \nRaadsvragen van de fractie : Forum voor Democratie  \n \n \nVervolgvragen College vs AP  \n \ndatum:  16 oktober 2023  \n \n \nGeacht college,  \n \n \nInleiding  \nNaar aanleiding van de eerdere beantwoording en een persoonlijk \ngesprek met de FG heeft FVD besloten om vervolgvragen te stellen.  \n \nRaadsvragen  \n1. Weet het college zeker dat zij alle gevraagde c.q. relevante \ndocumentatie / communicatie compleet heeft aangeleverd?  \n2. Zo nee, wanneer mogen we ontbrekende stukken  ontvangen  \nzoals memo’s, notities en notulen van collegevergaderingen \nwaarnaar verwezen wordt in de aangeleverde documenten?  \n3. Zo ja, waarom blijkt dan uit de aangeleverde documenten dat er \ndiverse stukken ontbreken?  \n4. Wat is de inhoudelijke en organisatorische status v an het \nvernieuwde verbeterplan ? Kunnen we al een concept \nontvangen?  \n5. Hoe houdt het college rekening met eventuele vertraging door \naanpassingen op het verbeterplan op advies van de FG en \nvakantieperiodes  vóór de deadline?  \n6. Waarom is het college deze kwestie p as vanaf omstreeks juni \n2023 serieus gaan nemen?  \n7. Wat is precies de rolverdeling tussen wethouder Verhees en \nburgemeester Dijsselbloem in deze kwestie? Hoe liggen exact de \nverantwoordelijkheden?  \n \n \nNamens de fractie  Forum voor Democratie,  \n \nNicolas Knoester , raadslid  \n \n ",
+    "bst": "23bst01613",
+    "related": [
+        {
+            "id": 864792,
+            "weight": 0.48391671538369635
+        },
+        {
+            "id": 903599,
+            "weight": 0.47765503028388934
+        },
+        {
+            "id": 1121929,
+            "weight": 0.254994166083215
+        },
+        {
+            "id": 835450,
+            "weight": 0.13089968906866575
+        },
+        {
+            "id": 776873,
+            "weight": 0.11180352874433146
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "FVD besloten": 0.9846513411635744,
+        "Geacht college": 0.9800356845957438,
+        "Beantwoording vervolg": 1.9747439267679483,
+        "eerdere beantwoording": 0.9747439267679484,
+        "Democratie Vervolgvragen": 0.9737159234649355,
+        "Vervolgvragen College": 0.9728684789659006,
+        "persoonlijk gesprek": 0.9664414776779878,
+        "vervolg raadsvragen": 1.9663202000783118,
+        "FvD": 1.9580539220843187,
+        "College": 1.9475222170252502,
+        "Geacht": 0.93783546131866,
+        "Inleiding": 0.93783546131866,
+        "aangeleverde documenten": 0.8794848445651905,
+        "oktober": 0.8640284421432355,
+        "Forum": 0.8473580934191814,
+        "Democratie": 0.8473580934191814,
+        "datum": 0.8422595424051147,
+        "stellen": 0.8422595424051147,
+        "fractie Forum": 0.8206973561429383,
+        "vervolg": 1.819808675121449,
+        "eerdere": 0.819808675121449,
+        "gesprek": 0.819808675121449,
+        "Nicolas Knoester": 0.8106603825577136,
+        "documenten": 0.7703296021322729,
+        "ontvangen": 0.7456150547259703,
+        "college rekening": 0.7437379416951403,
+        "kwestie": 0.7316188021529016,
+        "verbeterplan": 0.7289725386773015,
+        "communicatie compleet": 0.65554925336631,
+        "wethouder Verhees": 0.6238698092925816,
+        "burgemeester Dijsselbloem": 0.6238698092925816,
+        "stukken ontbreken": 0.6083136991048609,
+        "ontbrekende stukken": 0.601797281397155,
+        "Nicolas": 0.6010046771181449,
+        "Knoester": 0.6010046771181449,
+        "Verhees": 0.5929540431148691,
+        "Dijsselbloem": 0.5929540431148691,
+        "Weet": 0.5134378736024965,
+        "gevraagde": 0.5134378736024965,
+        "relevante": 0.5134378736024965,
+        "aangeleverd": 0.5134378736024965,
+        "collegevergaderingen waarnaar": 0.5014143580338699,
+        "waarnaar verwezen": 0.5014143580338699
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194500,
+    "lastScrapeDate": "02-04-2026",
+    "meeting_id": []
+}

@@ -1,0 +1,58 @@
+{
+    "module_id": "ai_7439917",
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Indicatoren aan beleidsnota’s - Agenderingsverzoek GL en PvdD over Effect- en prestatie-indicatoren.",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/moties_en_toezeggingen/849322?parent_event=1059807",
+    "type": "Agenda",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "28-03-2023",
+    "meeting_url": "https://raadsinformatie.eindhoven.nl/vergadering/1059807#ai_7439917",
+    "attachment": null,
+    "parent": null,
+    "children": [
+        849322,
+        849326
+    ],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1146302,
+            "weight": 0.2767956519505158
+        },
+        {
+            "id": 1089258,
+            "weight": 0.2706211427252202
+        },
+        {
+            "id": 1117251,
+            "weight": 0.2260064824925455
+        },
+        {
+            "id": 1106242,
+            "weight": 0.18690577857900592
+        }
+    ],
+    "videostarttime": 8762,
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_28.03.23_NC_eindhoven_cie.mp4/playlist.m3u8",
+    "keywords": {
+        "Agenderingsverzoek": 1.9429876123096683,
+        "Effect": 1.9429876123096683,
+        "Indicatoren": 1.9043195497355658,
+        "beleidsnota": 1.8416830712200127,
+        "PvdD": 1.8416830712200127
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": null,
+    "meeting_id": []
+}

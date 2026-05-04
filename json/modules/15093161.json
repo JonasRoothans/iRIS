@@ -1,0 +1,104 @@
+{
+    "module_id": 15093161,
+    "vote_id": null,
+    "member_id": [
+        194500
+    ],
+    "party_list": [
+        "FVD"
+    ],
+    "poho_id": [],
+    "title": "Rondvraag 2 - Huur Eindhovense amateurtuinders Vereniging (FvD)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "28-01-2025",
+    "meeting_url": {
+        "1256307": "https://raadsinformatie.eindhoven.nl/vergadering/1256304/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://api.notubiz.nl/document/15093161/1",
+    "pdf_text": " \n \n \nRondvraag  – Huur moestuin Eindhovense Amateurtuinders Vereniging  \n \nDe Eindhovense Amateurtuinders Vereniging huurt/huurde een moestuin aan de \nSliffertsestraat. Dit was een contract voor onbepaalde tijd. Dit contract was \nbeëindigd door de gemeente. In dit contract staat dat bij beëindiging door de \ngemeente, de gemeente moet zorgen voor een nieuw terrein. Dit is ook gebeurd. \nBij het nieuwe contract voor dit terrein wil de gemeente echter niet meer dat deze \nvoor onbepaalde tijd is (10 jaar). Ook wil de gemeente niet meer in het contract \nopnemen dat de gemeente voor een nieuw terrein moet zorgen bij beëindiging van \nhet contract door de gemeente.  \n  \nTechnische vragen:  \n1. Wat is de motivatie achter deze keuzes? Waarom stuurt de gemeente aan \nop een uitsterfbeleid?  \n2. Waarom krijgt de vereniging geen volledig vergelijkbare oplossing \naangeboden?  \n3. Waarom moeten de betrokkenen steeds lang wachten op een reactie van \nde gemeente?  \n \n \nEindhoven, 28 januari 2025  \n \n \nLid van de raad  en/of commissie , \n \nNicolas Knoester, Forum voor Democratie  \n \n \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 15151804,
+            "weight": 5.41137127333519
+        },
+        {
+            "id": 833194,
+            "weight": 0.18089263568757713
+        },
+        {
+            "id": 1125936,
+            "weight": 0.17650066473168444
+        },
+        {
+            "id": 833338,
+            "weight": 0.1460400839409608
+        },
+        {
+            "id": 896181,
+            "weight": 0.11906336461979157
+        },
+        {
+            "id": 849427,
+            "weight": 0.11506591451758466
+        },
+        {
+            "id": 892430,
+            "weight": 0.0932200473375037
+        },
+        {
+            "id": 780554,
+            "weight": 0.09116779543531077
+        },
+        {
+            "id": 1052186,
+            "weight": 0.08645310910294882
+        }
+    ],
+    "videostarttime": {
+        "1256307": 10127
+    },
+    "videolink": null,
+    "keywords": {
+        "Eindhovense amateurtuinders": 1.9991056993853284,
+        "Huur Eindhovense": 1.9972337480418285,
+        "amateurtuinders Vereniging": 1.994408625601579,
+        "Huur moestuin": 0.9904574340608463,
+        "Huur": 1.9724129254080047,
+        "Rondvraag": 1.9667570197994053,
+        "gemeente": 0.9574074472279067,
+        "contract": 0.9351410378716084,
+        "Sliffertsestraat": 0.9321494848169645,
+        "Vereniging huurt": 0.9309073021983787,
+        "onbepaalde tijd": 0.8372670298304902,
+        "terrein": 0.8272754980233699,
+        "FvD": 1.8109413717962002,
+        "Nicolas Knoester": 0.7661345559009349,
+        "tijd": 0.7449905738041617,
+        "nieuw": 0.7363719147756729,
+        "beëindiging": 0.7221844273681925,
+        "zorgen": 0.7221844273681925,
+        "contract opnemen": 0.6146304569317069,
+        "Lid": 0.5646393960328393,
+        "Nicolas": 0.5646393960328393,
+        "Knoester": 0.5646393960328393,
+        "Forum": 0.5646393960328393,
+        "Democratie": 0.5646393960328393
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194500,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1256307
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "module_id": 850907,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230014,
+    "title": "Spelregels - Raadsvoorstel Nota Grondbeleid 2023",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/850907",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "23-05-2023",
+    "meeting_url": {
+        "1096275": "https://raadsinformatie.eindhoven.nl/vergadering/1096275#ai_7535362"
+    },
+    "attachment": null,
+    "parent": 832852,
+    "children": [],
+    "text": "Wethouder Thijs zegt toe:\n\nbij de uitwerking van de spelregels te onderzoeken of en hoe de wooncoöperaties positie kunnen krijgen. De raad wordt hierover geïnformeerd met een RIB over het vaststellen van de spelregels.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 850906,
+            "weight": 1.3258367988846762
+        },
+        {
+            "id": 832852,
+            "weight": 1.311629653152148
+        },
+        {
+            "id": 945688,
+            "weight": 0.13942432271742397
+        },
+        {
+            "id": 879018,
+            "weight": 0.10985841258073321
+        },
+        {
+            "id": 776981,
+            "weight": 0.10319362999491592
+        },
+        {
+            "id": 975323,
+            "weight": 0.09683155552716338
+        }
+    ],
+    "videostarttime": {
+        "1096275": 4207
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_23-05-23_NC_EINDHOVEN-Cie menings.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Nota": 1.9962766014984403,
+        "Nota Grondbeleid": 1.9962766014984403,
+        "Wethouder Thijs": 0.9962766014984403,
+        "Thijs zegt": 0.9904629559432874,
+        "wooncoöperaties positie": 0.9801596129265125,
+        "Nota": 1.9322697681567436,
+        "Thijs": 0.9322697681567436,
+        "Spelregels": 1.9272073566219263,
+        "krijgen": 0.8935878555396151,
+        "zegt": 0.8605209543889183,
+        "uitwerking": 0.8605209543889183,
+        "onderzoeken": 0.8605209543889183,
+        "positie": 0.8605209543889183,
+        "hierover geïnformeerd": 0.8509324610196307,
+        "RIB": 0.7985171164755335,
+        "raad": 0.6398206891696578,
+        "hierover": 0.6398206891696578,
+        "vaststellen": 0.6398206891696578
+    },
+    "svz": null,
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

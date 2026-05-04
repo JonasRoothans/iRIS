@@ -1,0 +1,85 @@
+{
+    "module_id": 1021295,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 248564,
+    "title": "Toezegging rondvraag SP Waar parkeer ik mijn fiets? -",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1021295",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "R. Strijk (Wethouder)",
+    "result": "",
+    "date": "18-02-2025",
+    "meeting_url": {
+        "1256331": "https://raadsinformatie.eindhoven.nl/vergadering/1256331#ai_8588294"
+    },
+    "attachment": null,
+    "parent": "ai_8588294",
+    "children": [],
+    "text": "Wethouder Strijk heeft toegezegd dat bij de Kadernota 2026 het perspectief geschetst wordt voor de termijn van definitieve oplossingen.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": "ai_8588294",
+            "weight": 2.3892448272001685
+        },
+        {
+            "id": 15169776,
+            "weight": 0.5847247476537524
+        },
+        {
+            "id": 806370,
+            "weight": 0.24303395924759807
+        },
+        {
+            "id": 858405,
+            "weight": 0.16753678234740965
+        },
+        {
+            "id": 14963291,
+            "weight": 0.16084784931163582
+        },
+        {
+            "id": 1076122,
+            "weight": 0.10923023437878598
+        },
+        {
+            "id": 1087621,
+            "weight": 0.09390627402657739
+        },
+        {
+            "id": 776880,
+            "weight": 0.08596873319738242
+        }
+    ],
+    "videostarttime": {
+        "1256331": 6254
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/18.02.25 Eindhoven Meningsvormend CK web.mp4/playlist.m3u8",
+    "keywords": {
+        "Toezegging rondvraag": 1.9745809030256987,
+        "Wethouder Strijk": 0.9434900188178089,
+        "Toezegging": 1.8763690867947806,
+        "fiets": 1.8763690867947806,
+        "definitieve oplossingen": 0.8192443531320843,
+        "Kadernota": 0.8032285321145036,
+        "rondvraag": 1.7994920302806434,
+        "parkeer": 1.7994920302806434,
+        "Strijk": 0.7281749773144911,
+        "perspectief geschetst": 0.7233149701764251,
+        "oplossingen": 0.6711628357364501,
+        "toegezegd": 0.5344664897230191,
+        "geschetst": 0.5344664897230191,
+        "termijn": 0.5344664897230191,
+        "definitieve": 0.5344664897230191
+    },
+    "svz": null,
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

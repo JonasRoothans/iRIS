@@ -1,0 +1,99 @@
+{
+    "module_id": 780518,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230019,
+    "title": "Raadsvoorstel Aanwijzing burgemeester Dijsselbloem als lid Algemeen Bestuur Metropoolregio Eindhoven",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/19/Raadsvoorstellen/780518",
+    "type": "Raadsvoorstel",
+    "member": null,
+    "party": null,
+    "poho": "M. van Lanschot (Wethouder)",
+    "result": "Afgerond",
+    "date": "21-09-2022",
+    "meeting_url": {
+        "1013082": "https://raadsinformatie.eindhoven.nl/vergadering/1013082#ai_7027781"
+    },
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/11832065/1/22bst01109+Raadsvoorstel+Aanwijzing+burgemeester+Dijsselbloem+als+lid+Algemeen+Bestuur+Metropoolregio+Eindhoven?connection_type=17&connection_id=8634791": "Raadsvoorstel Aanwijzing burgemeester Dijsselbloem als lid Algemeen Bestuur Metropoolregio Eindhoven"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/11868858/1?connection_type=17&connection_id=8656175",
+    "pdf_text": " \n \n \n  gemeente Eindhoven  \nInboeknummer       22bst01109  \nDossiernummer      22.37.751  \nB&W b eslisdatum  13 september 2022  \n    \n \nRaadsvoorstel    Aanwijzing  burgemeester Dijsselbloem als lid Algemeen \nBestuur Metropoolregio Eindhoven   \n \n  \n \n \n   Raadsbesluit   \n \nDe raad van de gemeente Eindhoven;  \n \ngezien het voorstel van burgemeester en wethouders van 6 september 2022 ; \n \n \nbesluit:  \n \nBurgemeester Dijsselbloem  aan te wijzen als lid van het algemeen bestuur MRE.  \n \n \nAldus vastgesteld in de openbare vergadering van 21 september  2022 . \n \n \n \n \n \n \nJ. Jongbloed , griffier.  \n \n \n ",
+    "bst": "22bst01109",
+    "related": [
+        {
+            "id": 1000393,
+            "weight": 0.9750198685713646
+        },
+        {
+            "id": 792357,
+            "weight": 0.10196836094962561
+        },
+        {
+            "id": 938319,
+            "weight": 0.09217910640420103
+        },
+        {
+            "id": 835425,
+            "weight": 0.08531528451013605
+        },
+        {
+            "id": 984847,
+            "weight": 0.0851072685932371
+        },
+        {
+            "id": 784785,
+            "weight": 0.07287629755583291
+        },
+        {
+            "id": 792344,
+            "weight": 0.059416474758369475
+        }
+    ],
+    "videostarttime": {
+        "1013082": 2257
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_21.09.22_NC_EINDHOVEN_RAA.mp4/playlist.m3u8",
+    "keywords": {
+        "Algemeen Bestuur": 1.9982838092262099,
+        "Raadsvoorstel Aanwijzing": 1.9980344939773453,
+        "Bestuur Metropoolregio": 1.9978423370576281,
+        "burgemeester Dijsselbloem": 1.9977987001798532,
+        "Metropoolregio Eindhoven": 1.9977526962781929,
+        "Aanwijzing burgemeester": 1.996601745387727,
+        "bestuur MRE": 0.9955779750611767,
+        "Eindhoven Inboeknummer": 0.9953942403279538,
+        "lid Algemeen": 1.9952712981416174,
+        "Eindhoven Raadsbesluit": 0.9943620228573538,
+        "gemeente Eindhoven": 0.9938342160563415,
+        "Eindhoven": 1.9813675941139466,
+        "Dijsselbloem": 1.9805512537730197,
+        "Aanwijzing": 1.9699817594247753,
+        "september": 0.9676749497177193,
+        "lid": 1.9563650585612264,
+        "Dossiernummer": 0.9520212980751802,
+        "MRE": 0.938485615705243,
+        "gemeente": 0.9182784500300408,
+        "besluit": 0.9020538675277306,
+        "eslisdatum": 0.8647848420212176,
+        "gezien": 0.8647848420212176,
+        "raad": 0.8245251773684493,
+        "voorstel": 1.8245251773684492,
+        "wethouders": 0.8245251773684493,
+        "wijzen": 0.8245251773684493,
+        "Jongbloed": 0.8145663687802058,
+        "openbare vergadering": 0.7795556149937025,
+        "griffier": 0.7261585246896115,
+        "vastgesteld": 0.5749984403351608,
+        "openbare": 0.5749984403351608
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": "10-04-2026",
+    "meeting_id": []
+}

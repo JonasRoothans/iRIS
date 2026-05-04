@@ -1,0 +1,91 @@
+{
+    "module_id": 855676,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Tussentijds evalueren - Raadsvoorstel Woonzorgvisie",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/855676",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "13-06-2023",
+    "meeting_url": {
+        "1102756": "https://raadsinformatie.eindhoven.nl/vergadering/1102756#ai_7536519"
+    },
+    "attachment": null,
+    "parent": 848821,
+    "children": [],
+    "text": "Wethouder Verhees zegt toe:\n\ntussentijds de woonzorgvisie te evalueren (stand van zaken) en de raad hierover te informeren.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 848821,
+            "weight": 1.979081543662034
+        },
+        {
+            "id": 904202,
+            "weight": 0.17190786776997583
+        },
+        {
+            "id": 849321,
+            "weight": 0.16033084962128308
+        },
+        {
+            "id": 803180,
+            "weight": 0.15574324191302988
+        },
+        {
+            "id": 876719,
+            "weight": 0.14477023559088364
+        },
+        {
+            "id": 1117271,
+            "weight": 0.14351236536416453
+        },
+        {
+            "id": 994385,
+            "weight": 0.12777480584643816
+        },
+        {
+            "id": 861841,
+            "weight": 0.12681141463375625
+        },
+        {
+            "id": 1104299,
+            "weight": 0.12130205623042742
+        },
+        {
+            "id": 982440,
+            "weight": 0.0969240925132741
+        }
+    ],
+    "videostarttime": {
+        "1102756": 784
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_13.06.23_NC_Eindhoven_Raad.mp4/playlist.m3u8",
+    "keywords": {
+        "Wethouder Verhees": 0.9909411432281432,
+        "Raadsvoorstel Woonzorgvisie": 1.9885992952642546,
+        "Woonzorgvisie Wethouder": 0.9830317531667222,
+        "Verhees zegt": 0.9815766278674759,
+        "Tussentijds evalueren": 1.9780089041261788,
+        "raad hierover": 0.9621686874664028,
+        "Raadsvoorstel": 1.935988601839722,
+        "evalueren": 1.9266551061625883,
+        "stand": 0.8828165172000879,
+        "zaken": 0.8828165172000879,
+        "informeren": 0.8828165172000879,
+        "zegt": 0.8090752108265238,
+        "raad": 0.8090752108265238
+    },
+    "svz": null,
+    "afgedaan": "03-09-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

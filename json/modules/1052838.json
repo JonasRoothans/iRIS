@@ -1,0 +1,89 @@
+{
+    "module_id": 1052838,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230022,
+    "title": "Cultureel sensitieve zorg - Raadsvoorstel Zienswijze GGD BZO Ontwerp Programmabegroting 2026",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1052838",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Toub (Wethouder)",
+    "result": "",
+    "date": "03-06-2025",
+    "meeting_url": {
+        "1256614": "https://raadsinformatie.eindhoven.nl/vergadering/1256614#ai_9333784"
+    },
+    "attachment": null,
+    "parent": 1037397,
+    "children": [],
+    "text": "Wethouder Toub zegt toe:\n-    De wethouder gaat cultureel sensitieve zorg bespreken met de GGD;",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1052835,
+            "weight": 2.1512043026013936
+        },
+        {
+            "id": 1052833,
+            "weight": 2.1503977615250607
+        },
+        {
+            "id": 1052841,
+            "weight": 2.14720317099861
+        },
+        {
+            "id": 1037397,
+            "weight": 1.153172924375025
+        },
+        {
+            "id": 1072949,
+            "weight": 0.6574524122785274
+        },
+        {
+            "id": 932548,
+            "weight": 0.49756469322534064
+        },
+        {
+            "id": 835436,
+            "weight": 0.497346608253969
+        },
+        {
+            "id": "r_7006031",
+            "weight": 0.24661894783812563
+        }
+    ],
+    "videostarttime": {
+        "1256614": 10201
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_03.06.25_NC_1-EINDHOVEN-RAA.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Zienswijze": 1.993759194623447,
+        "Ontwerp Programmabegroting": 1.993759194623447,
+        "BZO Ontwerp": 1.9907537458746385,
+        "Zienswijze GGD": 1.9873752444482293,
+        "GGD BZO": 1.9873752444482293,
+        "Cultureel sensitieve": 1.9829293658185552,
+        "sensitieve zorg": 1.9829293658185552,
+        "Wethouder Toub": 0.9825599686821467,
+        "Toub zegt": 0.9809914617727951,
+        "gaat cultureel": 0.9556234348555205,
+        "zorg bespreken": 0.9556234348555205,
+        "GGD": 1.9348731456443802,
+        "BZO": 1.9042840443819393,
+        "Toub": 0.9042840443819393,
+        "zorg": 1.8909865681055549,
+        "zegt": 0.8051113452063998,
+        "gaat": 0.8051113452063998
+    },
+    "svz": null,
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": [
+        1256614
+    ]
+}

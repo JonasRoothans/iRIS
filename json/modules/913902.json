@@ -1,0 +1,114 @@
+{
+    "module_id": 913902,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230014,
+    "title": "Onderzoeken bij uitblijven bomenplant - Weg met de bomenwachtlijst (Vrije Motie VM1)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/913902",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "R. Thijs (Wethouder)",
+    "result": "",
+    "date": "23-01-2024",
+    "meeting_url": {
+        "1146938": "https://raadsinformatie.eindhoven.nl/vergadering/1146938#ai_7847334"
+    },
+    "attachment": null,
+    "parent": 913095,
+    "children": [],
+    "text": "Wethouder Thijs zegt toe:\nte zullen onderzoeken of tussen uitval en herplant van bomen mogelijk tijdelijke beplanting kan worden ingezaaid op de groeiplaats van de uitgevallen boom (i.p.v. de huidige werkwijze van tijdelijk bestraten).",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 913095,
+            "weight": 1.2501939852867903
+        },
+        {
+            "id": 913892,
+            "weight": 1.2086485866522056
+        },
+        {
+            "id": 945493,
+            "weight": 0.38674064948997455
+        },
+        {
+            "id": 861364,
+            "weight": 0.3439199084451391
+        },
+        {
+            "id": 1136583,
+            "weight": 0.318567441613889
+        },
+        {
+            "id": 1124827,
+            "weight": 0.3026146849588989
+        },
+        {
+            "id": 1140925,
+            "weight": 0.3013124449457563
+        },
+        {
+            "id": 790602,
+            "weight": 0.29814176761100847
+        },
+        {
+            "id": 887816,
+            "weight": 0.25003711568375975
+        },
+        {
+            "id": 1043528,
+            "weight": 0.1889878063044891
+        },
+        {
+            "id": 898938,
+            "weight": 0.1851495222041431
+        },
+        {
+            "id": 1133036,
+            "weight": 0.1647036198081714
+        },
+        {
+            "id": 889102,
+            "weight": 0.15824010837936164
+        }
+    ],
+    "videostarttime": {
+        "1146938": 4248
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_23.04.24_NC_EINDHOVEN-RAA-Raadsvergadering .mp4/playlist.m3u8",
+    "keywords": {
+        "Vrije Motie": 1.997889947304114,
+        "Wethouder Thijs": 0.9972315449137834,
+        "Thijs zegt": 0.993648096574046,
+        "uitblijven bomenplant": 1.9920413051377537,
+        "uitgevallen boom": 0.9920413051377536,
+        "tijdelijk bestraten": 0.9920413051377536,
+        "huidige werkwijze": 0.9888719664860449,
+        "Vrije": 1.9541130764992893,
+        "Motie": 1.9541130764992893,
+        "Thijs": 0.9398344519126381,
+        "Onderzoeken": 1.9370318376835125,
+        "bomenplant": 1.9247350145886908,
+        "bomenwachtlijst": 1.9247350145886908,
+        "boom": 0.9247350145886908,
+        "bestraten": 0.9247350145886908,
+        "uitblijven": 1.8950925968417425,
+        "zegt": 0.8950925968417425,
+        "uitval": 0.8950925968417425,
+        "bomen": 1.8950925968417425,
+        "beplanting": 0.8950925968417425,
+        "ingezaaid": 0.8950925968417425,
+        "groeiplaats": 0.8950925968417425,
+        "huidige": 0.8950925968417425,
+        "tijdelijk": 0.8950925968417425
+    },
+    "svz": null,
+    "afgedaan": "19-09-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

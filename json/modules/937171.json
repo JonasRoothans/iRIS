@@ -1,0 +1,115 @@
+{
+    "module_id": 937171,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Buurtontmoeting en groen - Raadsvoorstel Gewijzigde vaststelling bestemmingsplan I Gestel buiten de Ring 2020 (Humperdincklaan)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/937171",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "16-04-2024",
+    "meeting_url": {
+        "1147925": "https://raadsinformatie.eindhoven.nl/vergadering/1147925#ai_8306927"
+    },
+    "attachment": null,
+    "parent": 922381,
+    "children": [],
+    "text": "Wethouder Verhees zegt toe dat in de nieuwe ontwikkeling gegarandeerd ruimte is voor buurtontmoeting en groen, beiden worden samen met de bewonersorganisatie nader ingericht",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 937173,
+            "weight": 0.5524908872371367
+        },
+        {
+            "id": 922381,
+            "weight": 0.5524498838043861
+        },
+        {
+            "id": 1057330,
+            "weight": 0.5523443624642412
+        },
+        {
+            "id": 890250,
+            "weight": 0.4244180950035306
+        },
+        {
+            "id": 1045968,
+            "weight": 0.4175943273270414
+        },
+        {
+            "id": 984522,
+            "weight": 0.4090503452101781
+        },
+        {
+            "id": 1140875,
+            "weight": 0.2565868468330789
+        },
+        {
+            "id": 997134,
+            "weight": 0.2518425284012658
+        },
+        {
+            "id": 1036311,
+            "weight": 0.20767432879486025
+        },
+        {
+            "id": 1148670,
+            "weight": 0.16522432292860437
+        },
+        {
+            "id": 950238,
+            "weight": 0.16496726260038969
+        },
+        {
+            "id": 833162,
+            "weight": 0.14606566429317264
+        },
+        {
+            "id": 992143,
+            "weight": 0.14407450205598077
+        },
+        {
+            "id": "a_9477086",
+            "weight": 0.1401600788851787
+        }
+    ],
+    "videostarttime": {
+        "1147925": 8318
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_16.04.24_NC_EINDHOVEN_Meningsvorming_RAA.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Gewijzigde": 1.996268318641122,
+        "Wethouder Verhees": 0.9962683186411221,
+        "Gewijzigde vaststelling": 1.9904673877045713,
+        "Verhees zegt": 0.9904673877045713,
+        "nader ingericht": 0.9881805973418581,
+        "vaststelling bestemmingsplan": 1.982306686941748,
+        "nieuwe ontwikkeling": 0.982306686941748,
+        "ontwikkeling gegarandeerd": 0.982306686941748,
+        "gegarandeerd ruimte": 0.982306686941748,
+        "bewonersorganisatie nader": 0.982306686941748,
+        "groen": 1.9679370103604643,
+        "Humperdincklaan": 1.9665798256516203,
+        "Ring": 1.9480851666350514,
+        "Buurtontmoeting": 1.9332118432554084,
+        "Gewijzigde": 1.9283864081945965,
+        "Gestel": 1.9283864081945965,
+        "zegt": 0.8681451465313182,
+        "nieuwe": 0.8681451465313182,
+        "ruimte": 0.8681451465313182,
+        "samen": 0.8681451465313182,
+        "nader": 0.8681451465313182
+    },
+    "svz": null,
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

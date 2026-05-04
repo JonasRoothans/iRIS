@@ -1,0 +1,60 @@
+{
+    "module_id": 790763,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": null,
+    "title": "Uitwerking bestuursopdracht brede welvaart",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/790763",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Esselbrugge (Wethouder)",
+    "result": "",
+    "date": "01-11-2022",
+    "meeting_url": {
+        "1034744": "https://raadsinformatie.eindhoven.nl/vergadering/1034744#ai_7087604"
+    },
+    "attachment": null,
+    "parent": "ai_7087604",
+    "children": [],
+    "text": "Uitwerking bestuursopdracht Brainport voor Iedereen te staan (brede welvaart)\nInclusief stappen en termijnen.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": "ai_7087604",
+            "weight": 1.9279159711261191
+        },
+        {
+            "id": 837790,
+            "weight": 0.31915718929796194
+        },
+        {
+            "id": 803352,
+            "weight": 0.31491871137935035
+        }
+    ],
+    "videostarttime": {
+        "1034744": 10758
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_01.11.22_NC_Eindhoven_Raad.mp4/playlist.m3u8",
+    "keywords": {
+        "Uitwerking bestuursopdracht": 1.9767453773173995,
+        "bestuursopdracht Brainport": 0.9687980295852847,
+        "brede welvaart": 1.9594479781152505,
+        "welvaart Uitwerking": 0.953490754634799,
+        "Brainport": 0.8895283658635282,
+        "Iedereen": 0.8895283658635282,
+        "brede": 1.8630514265928952,
+        "staan": 0.8294500274532828,
+        "Inclusief stappen": 0.6961397899625801,
+        "termijnen": 0.5833879377791376
+    },
+    "svz": null,
+    "afgedaan": "17-01-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

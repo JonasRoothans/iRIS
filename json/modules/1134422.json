@@ -1,0 +1,82 @@
+{
+    "module_id": 1134422,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 248564,
+    "title": "Voor bruisen is wel ruimte nodig 2 (Vraag V3 Vragenhalfuur)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1134422",
+    "type": "Toezegging",
+    "member": "",
+    "party": "",
+    "poho": "R. Strijk (Wethouder)",
+    "result": "",
+    "date": "10-02-2026",
+    "meeting_url": {
+        "1374859": "https://raadsinformatie.eindhoven.nl/vergadering/1374859#ai_9410433"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": "Wethouder Strijk zegt toe het Nachtcollectief te betrekken bij de evaluatie.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 16557242,
+            "weight": 1.2224602043070711
+        },
+        {
+            "id": 16589004,
+            "weight": 1.2177953958571384
+        },
+        {
+            "id": "a_9607705",
+            "weight": 0.6370192046305562
+        },
+        {
+            "id": "a_9607700",
+            "weight": 0.6127754129328838
+        },
+        {
+            "id": "a_8288315",
+            "weight": 0.21528530387048342
+        },
+        {
+            "id": 873163,
+            "weight": 0.21502086369774404
+        },
+        {
+            "id": 1117271,
+            "weight": 0.1970037516072769
+        },
+        {
+            "id": 11766400,
+            "weight": 0.16606549146695454
+        }
+    ],
+    "videostarttime": {
+        "1374859": 1020
+    },
+    "videolink": null,
+    "keywords": {
+        "Wethouder Strijk": 0.9873976398760466,
+        "Vraag": 1.9696036283675864,
+        "Vragenhalfuur": 1.9696036283675864,
+        "Strijk zegt": 0.955011371234592,
+        "ruimte nodig": 1.9505961599793435,
+        "Nachtcollectief": 0.8552226942577967,
+        "nodig": 1.8416830712200127,
+        "evaluatie": 0.8416830712200127,
+        "bruisen": 1.702634417439785,
+        "ruimte": 1.702634417439785,
+        "zegt": 0.7026344174397849,
+        "betrekken": 0.7026344174397849
+    },
+    "svz": "",
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "08-04-2026",
+    "meeting_id": []
+}

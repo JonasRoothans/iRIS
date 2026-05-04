@@ -1,0 +1,165 @@
+{
+    "module_id": 867137,
+    "vote_id": null,
+    "member_id": [
+        194500
+    ],
+    "party_list": [
+        "FVD"
+    ],
+    "poho_id": [],
+    "title": "Beantwoording raadsvragen Datamisbruik bij fraudebestrijding (FvD)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/4/Raadsvragen/867137",
+    "type": "Raadsvraag",
+    "member": "Nicolas Knoester",
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "28-07-2023",
+    "meeting_url": null,
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/13021768/1?connection_type=17&connection_id=9635446": "Vraag",
+        "https://raadsinformatie.eindhoven.nl/document/13130530/2?connection_type=17&connection_id=9736259": "Antwoord"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/13021768/1?connection_type=17&connection_id=9635446",
+    "pdf_text": " \n \n \nRaadsvragen van de fractie : Forum voor Democratie  \n \n \nDatamisbruik bij fraudebestrijding  \n \ndatum:  27 juli 2023  \n \n \nGeacht college,  \n \nInleiding  \nRecent bleek wederom dat we nooit naïef moeten zijn als het gaat om \nbewuste en onbewuste misbruik van data door overheden en \ninstellingen. Oplettendheid en een kritische houding blijken hard nodig. \nNa de belastingdienst blijkt nu ook het UWV én misbruik te maken én \ndaarover te liegen. Gemeente Eindhoven wil graag \"leading in \ntechnology\" zijn en mag de privacy d aarbij niet uit het oog verliezen. Er \nis al te veel terechte wantrouwen bij inwoners.  \n \n \nRaadsvragen  \n1. Deelt het college de mening dat dit soort datamisbruik op geen enkele \nmanier mag voorkomen?  \n2. Worden door de gemeente systemen gebruikt die inwoners terecht of \nonterecht volgen in het kader van bijvoorbeeld fraudebestrijding? Zo ja, \nwelke?  \n3. Zijn in de afgelopen vijf jaar systemen door de gemeente gebruikt die \ninwoners terecht of onterecht volgen in het kader van bijvoor beeld \nfraudebestrijdin g? Zo ja, welke?  \n4. Hoe borgt het college dat zulke systemen ook nooit gebruikt zullen \nworden?  \n \nNamens de fractie , \nForum voor Democratie  \n \nNicolas Knoester , raadslid  \n",
+    "bst": "23bst01244",
+    "related": [
+        {
+            "id": 12755975,
+            "weight": 0.3407629841634905
+        },
+        {
+            "id": 12321433,
+            "weight": 0.1982189586109257
+        },
+        {
+            "id": 1136118,
+            "weight": 0.19821843948967233
+        },
+        {
+            "id": 930497,
+            "weight": 0.1980593309995052
+        },
+        {
+            "id": 1094247,
+            "weight": 0.19085768777090245
+        },
+        {
+            "id": 1133253,
+            "weight": 0.18558621060618855
+        },
+        {
+            "id": 949826,
+            "weight": 0.17529292284523226
+        },
+        {
+            "id": 1096061,
+            "weight": 0.15572816931513453
+        },
+        {
+            "id": 801960,
+            "weight": 0.12230533370479264
+        },
+        {
+            "id": 976632,
+            "weight": 0.12157375004143109
+        },
+        {
+            "id": 14613123,
+            "weight": 0.1152740408526367
+        },
+        {
+            "id": 14480512,
+            "weight": 0.1150176090358865
+        },
+        {
+            "id": 1129193,
+            "weight": 0.11268048468737056
+        },
+        {
+            "id": 790709,
+            "weight": 0.10743655895897727
+        },
+        {
+            "id": 1140925,
+            "weight": 0.10601525199734485
+        },
+        {
+            "id": 933107,
+            "weight": 0.09324866988395979
+        },
+        {
+            "id": 1019862,
+            "weight": 0.08894443415358486
+        },
+        {
+            "id": 1022082,
+            "weight": 0.08771725147206352
+        },
+        {
+            "id": 989740,
+            "weight": 0.0732311471688595
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Inleiding Recent": 0.9950884610476317,
+        "Recent bleek": 0.9845333257657951,
+        "Geacht college": 0.9628010599598624,
+        "bleek wederom": 0.9565044313055356,
+        "Geacht": 0.9344857613008961,
+        "Beantwoording raadsvragen": 1.9265788084546291,
+        "Recent": 0.9253973832625977,
+        "onbewuste misbruik": 0.9132946380643514,
+        "fraudebestrijding datum": 0.905446740687319,
+        "Datamisbruik": 1.8914764030029338,
+        "raadsvragen": 1.867478719650562,
+        "FvD": 1.858970116631545,
+        "juli": 0.8589701166315451,
+        "Forum": 0.8564754736436091,
+        "raadsvragen Datamisbruik": 1.8513204641818657,
+        "inwoners": 0.8330912318316998,
+        "datum": 0.8279540769832101,
+        "instellingen": 0.8279540769832101,
+        "Democratie": 0.8252408146848764,
+        "Gemeente": 0.8192281182951271,
+        "college": 0.8175215650891475,
+        "inwoners terecht": 0.8128285784518114,
+        "gebruikt": 0.8056310517655368,
+        "bleek": 0.7958369231288833,
+        "naïef": 0.7958369231288833,
+        "gaat": 0.7958369231288833,
+        "bewuste": 0.7958369231288833,
+        "overheden": 0.7958369231288833,
+        "systemen": 0.7937884986355281,
+        "onterecht volgen": 0.7898714535031434,
+        "Gemeente Eindhoven": 0.7793705642974383,
+        "fractie": 0.7674305340571008,
+        "Nicolas Knoester": 0.7557658715641471,
+        "hard nodig": 0.7538877944891398,
+        "volgen": 0.7280155676348283,
+        "kader": 0.7280155676348283,
+        "kritische houding": 0.714646971642822,
+        "houding blijken": 0.714646971642822,
+        "blijken hard": 0.714646971642822,
+        "UWV": 0.7102657153789501,
+        "Eindhoven": 0.6667060104342339,
+        "Oplettendheid": 0.5808244218495084,
+        "nodig": 0.5808244218495084,
+        "Knoester": 0.5738447811577628,
+        "Nicolas": 0.5393867467533634,
+        "gemeente gebruikt": 0.5375242795692743,
+        "belastingdienst blijkt": 0.5314346424183403,
+        "hard": 0.5288273963829391
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194500,
+    "lastScrapeDate": "02-04-2026",
+    "meeting_id": []
+}

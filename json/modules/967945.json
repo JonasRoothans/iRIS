@@ -1,0 +1,112 @@
+{
+    "module_id": 967945,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Sloopbeleid (Agenderingsverzoek SP, PvdD, LPF en 50PLUS)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/moties_en_toezeggingen/967945?parent_event=1251077",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "27-08-2024",
+    "meeting_url": {
+        "1251077": "https://raadsinformatie.eindhoven.nl/vergadering/1251077#ai_8550131"
+    },
+    "attachment": null,
+    "parent": "ai_8550131",
+    "children": [],
+    "text": "Wethouder Verhees zegt toe vóór de komende raadsvergadering de raad te laten weten wanneer ze met een uitgebreidere reactie komt op de vraag of het college met een voorstel voor sloopbeleid wil komen. In die uitgebreidere reactie neemt ze mee welke dilemma’s daarbij horen en de keuzes die te maken zijn.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 969485,
+            "weight": 1.4351360233424462
+        },
+        {
+            "id": "ai_7854318",
+            "weight": 0.7554599786010867
+        },
+        {
+            "id": 1000404,
+            "weight": 0.7536036364730364
+        },
+        {
+            "id": 967947,
+            "weight": 0.749892381816251
+        },
+        {
+            "id": "ai_8550131",
+            "weight": 0.749892381816251
+        },
+        {
+            "id": 825260,
+            "weight": 0.16360264605257435
+        },
+        {
+            "id": 833994,
+            "weight": 0.11977551748659818
+        },
+        {
+            "id": 1027145,
+            "weight": 0.07525103219799527
+        },
+        {
+            "id": 804274,
+            "weight": 0.07290718278880534
+        },
+        {
+            "id": 831097,
+            "weight": 0.07173438299828941
+        },
+        {
+            "id": 977654,
+            "weight": 0.057381457656238456
+        },
+        {
+            "id": 866658,
+            "weight": 0.04713384558877333
+        },
+        {
+            "id": 953038,
+            "weight": 0.04151710392462904
+        }
+    ],
+    "videostarttime": {
+        "1251077": 2455
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_27.08.24_Eindhoven_meningsvormingCIE.mp4/playlist.m3u8",
+    "keywords": {
+        "Wethouder Verhees": 0.9958885934215508,
+        "Verhees zegt": 0.9890551779563092,
+        "komende raadsvergadering": 0.9772102790573808,
+        "laten weten": 0.9772102790573808,
+        "uitgebreidere reactie": 0.9739643951751036,
+        "reactie komt": 0.9656505424808627,
+        "Agenderingsverzoek": 1.9435448455718713,
+        "LPF": 1.9435448455718713,
+        "PvdD": 1.9276579831906322,
+        "Sloopbeleid": 1.9177969813835443,
+        "komen": 0.8913853863514116,
+        "zegt": 0.8507286961447393,
+        "vóór": 0.8507286961447393,
+        "raad": 0.8507286961447393,
+        "laten": 0.8507286961447393,
+        "college": 0.8507286961447393,
+        "voorstel": 0.8507286961447393,
+        "daarbij horen": 0.8326288528800094,
+        "neemt": 0.6213518678410297,
+        "mee": 0.6213518678410297,
+        "dilemma": 0.6213518678410297,
+        "keuzes": 0.6213518678410297
+    },
+    "svz": "De toegezegde informatie is middels een collegebrief naar u toegezonden, zie Collegebrief Beantwoording toezeg...  Lees verder ",
+    "afgedaan": "19-09-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

@@ -1,0 +1,87 @@
+{
+    "module_id": 777525,
+    "vote_id": null,
+    "member_id": [
+        47266
+    ],
+    "party_list": [
+        " Ouderen Appèl - Hart voor Eindhoven"
+    ],
+    "poho_id": [],
+    "title": "Beantwoording raadsvragen OAHvE (N. Rennenberg) over Klap voor minima als kind 18 wordt",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/4/Raadsvragen/777525",
+    "type": "Raadsvraag",
+    "member": "Niek Rennenberg",
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "31-05-2022",
+    "meeting_url": null,
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/11772707/1?connection_type=17&connection_id=8593563": "Vraag"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": "22bst00912",
+    "related": [
+        {
+            "id": 777337,
+            "weight": 1.2682751264420535
+        },
+        {
+            "id": 777507,
+            "weight": 1.2682751264420535
+        },
+        {
+            "id": 1097750,
+            "weight": 0.40248669162729045
+        },
+        {
+            "id": 945736,
+            "weight": 0.17330140230373164
+        },
+        {
+            "id": 798673,
+            "weight": 0.15179147201945756
+        },
+        {
+            "id": 845573,
+            "weight": 0.15086181171826676
+        },
+        {
+            "id": 898395,
+            "weight": 0.12005752956949961
+        },
+        {
+            "id": 777027,
+            "weight": 0.1119837729026704
+        },
+        {
+            "id": 925503,
+            "weight": 0.10766588447457472
+        },
+        {
+            "id": 876955,
+            "weight": 0.10528494090360188
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Beantwoording raadsvragen": 1.9505961599793435,
+        "raadsvragen OAHvE": 1.9505961599793435,
+        "Rennenberg": 1.9140368224837343,
+        "Klap": 1.8552226942577967,
+        "OAHvE": 1.8416830712200127,
+        "kind": 1.8416830712200127,
+        "minima": 1.702634417439785
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": "02-04-2026",
+    "meeting_id": []
+}

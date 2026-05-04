@@ -1,0 +1,111 @@
+{
+    "meeting_id": 1262805,
+    "meeting_subid": {
+        "Raadzaal": 1262805
+    },
+    "subtitles": {
+        "Raadzaal": {
+            "800": "Bestonden en ingehaald.",
+            "802": "Andere ",
+            "923": "goedenavond allemaal.",
+            "925": "Ik open hierbij de raadsvergadering van zevenentwintig augustus ",
+            "929": "welkom aan leden van de raad leden van het college die ook stil kunnen zijn. Ja.",
+            "934": "Het aanwezige publiek ",
+            "936": "en de mensen die mogelijk thuis meekijken met deze vergadering.",
+            "939": "We hebben een hele korte raadsvergadering die is uitgeschreven om de tijdelijke vervanging van mevrouw Hofman te regelen.",
+            "946": "Ik heb berichten van verhindering ontvangen van de heer Verbeek van de fractie vijftig plus de heer Rennenberg ",
+            "952": "fractie ouder april pil en de heer Habraken van de fractie GroenLinks.",
+            "956": "Maar ik zie meer lege stoelen,",
+            "959": "dus dan zie ik dat de heer Knoester er niet is.",
+            "963": "Mevrouw Shahin er niet is.",
+            "969": "Mevrouw Meerhof ",
+            "973": "ik moet het aantal mensen natuurlijk ",
+            "975": "meer of Frosi ",
+            "982": "Knoester. Zijn wij verder ",
+            "985": "compleet Shahin Horace hebben wij ",
+            "988": "dan zijn wij met ",
+            "991": "zevenendertig leden bij een.",
+            "995": "We hebben dus een agendapunt en dat gaat over het raadsvoorstel toelating lid van de Raad van de gemeenteraad van Eindhoven ",
+            "1001": "en zoals medegedeeld is dat voor de tijdelijke vervanger van mevrouw Hofman te regelen ",
+            "1005": "op de kieslijst van het cd's een tijdelijke vervanger gevonden dat mevrouw Bun ",
+            "1009": "en zij heeft aangeven haar tijdelijke benoeming te accepteren.",
+            "1012": "Mevrouw une vervulde deze functie de voorbije maanden ook al.",
+            "1016": "De geloofsbrieven commissie heeft gekeken naar de geloofsbrief van mevrouw une ",
+            "1020": "en adviseert de Raad over te gaan tot toelating en het advies hiervan is te vinden in de agenda ",
+            "1026": "en het bijgevoegde voorstel regelt de tijdelijke toelating van mevrouw binnen.",
+            "1030": "En ik neem aan dat wij dat zonder stemming kunnen vaststellen.",
+            "1035": "Dat is het geval.",
+            "1037": "Dan wil ik mevrouw bene vragen om naar voren te komen om de eet af te leggen en ik wil bij bij de ",
+            "1042": "andere vragen om indien daar de gelegenheid voor is om te gaan staan ",
+            "1063": "ik zweer omdat ik om lid van de raad benoemd te worden,",
+            "1068": "rechtstreeks nog minnelijk onder welke naam of voorwendsel ook enige geeft.",
+            "1073": "Of gunst heb gegeven of heb beloofd ",
+            "1076": "ik zweer dat ik ",
+            "1077": "om iets in dit ambt te doen of te laten ",
+            "1079": "rechtstreeks nog middellijn enig geschenk of enige belofte heb aangenomen ",
+            "1084": "of zal aannemen ",
+            "1086": "en ik zweer dat ik getrouw zal zijn aan de grondwet,",
+            "1089": "dat ik de wetten zal nakomen en dat ik de plichten als lid van de raad naar eer en geweten zal vervullen.",
+            "1097": "Helemaal goed.",
+            "1120": "Welkom aan mevrouw bühne.",
+            "1122": "Daarmee zijn wij met achtendertig leden bijeen ",
+            "1126": "voordat ik de vergadering sluit,",
+            "1128": "wil ik graag op wijzen dat we aankomend ",
+            "1130": "weekend het Hieke van de gemeenteraad plaatsvindt.",
+            "1134": "Ik hoop daar ook al een treffen.",
+            "1136": "Mocht u om wat voor reden dan ook niet in de gelegenheid zijn om te komen laat het dan heel even weten want voor iedereen ",
+            "1142": "is een plekje gereserveerd en het iets aangepast.",
+            "1147": "Actuele programma's dat vandaag in de dag mail.",
+            "1149": "Maar dat heeft uiteindelijk dezelfde begin en eindtijden.",
+            "1151": "Maar tussendoor zoiets geschoven dan dank ik u allen voor de aandacht en dan "
+        }
+    },
+    "speakers": {
+        "Raadzaal": {
+            "799": {
+                "start": 799,
+                "end": 802,
+                "id": 245359
+            },
+            "921": {
+                "start": 921,
+                "end": 1047,
+                "id": 230907
+            },
+            "1116": {
+                "start": 1116,
+                "end": 1157,
+                "id": 230907
+            }
+        }
+    },
+    "title": "Vergadering Raadsvergadering 27-08-2024 Gemeente Eindhoven",
+    "meeting_url": "https://raadsinformatie.eindhoven.nl/vergadering/1262805/",
+    "video_url": {
+        "Raadzaal": "http://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_27.08.24_Eindhoven_raad.mp4/playlist.m3u8"
+    },
+    "api_url": "api.notubiz.nl/events/1262805",
+    "date": "27-08-2024",
+    "type": "Raadsvergadering",
+    "agenda": {
+        "Raadzaal": {
+            "929": {
+                "title": "Opening en mededelingen ",
+                "id": 8627147,
+                "module_id": []
+            },
+            "995": {
+                "title": "Raadsvoorstel Toelating tijdelijk lid van de raad van de gemeente Eindhoven",
+                "id": 8627154,
+                "module_id": [
+                    966267
+                ]
+            },
+            "1129": {
+                "title": "Sluiting",
+                "id": 8627144,
+                "module_id": []
+            }
+        }
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "module_id": 879053,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230014,
+    "title": "Uitkomsten onderzoek asfalt - Raadsvoorstel Vaststellen DO Fase 2 en actualisatie budget Herinrichting Binnenstad",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/879053",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "R. Thijs (Wethouder)",
+    "result": "",
+    "date": "12-09-2023",
+    "meeting_url": {
+        "1127249": "https://raadsinformatie.eindhoven.nl/vergadering/1127249#ai_7824996"
+    },
+    "attachment": null,
+    "parent": 863586,
+    "children": [],
+    "text": "Wethouder Thijs zegt toe:\nDe raad te informeren over de uitkomsten van het onderzoek naar een andere, lichtere kleur van de toplaag van het asfalt in de middenstrook.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 879066,
+            "weight": 3.4534534498661333
+        },
+        {
+            "id": 920655,
+            "weight": 1.0135691387761714
+        },
+        {
+            "id": 863586,
+            "weight": 0.9334206791298981
+        },
+        {
+            "id": 776920,
+            "weight": 0.17827300665516058
+        },
+        {
+            "id": 1012995,
+            "weight": 0.10009554135321079
+        },
+        {
+            "id": 14143981,
+            "weight": 0.08621056273941469
+        },
+        {
+            "id": 930770,
+            "weight": 0.08507767325189224
+        }
+    ],
+    "videostarttime": {
+        "1127249": 18636
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_12.09.23_NC_Eindhoven_Cie.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Vaststellen": 1.9957368669382516,
+        "Herinrichting Binnenstad": 1.9945279342250661,
+        "Binnenstad Wethouder": 0.9945279342250661,
+        "Wethouder Thijs": 0.9945279342250661,
+        "budget Herinrichting": 1.9884604249807913,
+        "Thijs zegt": 0.9884604249807915,
+        "actualisatie budget": 1.9755012453805652,
+        "Fase": 1.9424572360498509,
+        "Vaststellen": 1.9262281542038058,
+        "Binnenstad": 1.9262281542038058,
+        "Thijs": 0.9262281542038059,
+        "Uitkomsten onderzoek": 1.9146831862689688,
+        "onderzoek asfalt": 1.9146831862689688,
+        "lichtere kleur": 0.8650171046780282,
+        "Uitkomsten": 1.85981257691455,
+        "asfalt": 1.85981257691455,
+        "budget": 1.8453619777955905,
+        "zegt": 0.8453619777955905,
+        "middenstrook": 0.6938718243830694,
+        "raad": 0.6115043865932686,
+        "informeren": 0.6115043865932686,
+        "kleur": 0.6115043865932686,
+        "toplaag": 0.6115043865932686
+    },
+    "svz": "Zie rib d.d. 28 maart (24bst00311). \nVoorstel college: afvoeren...  Lees verder ",
+    "afgedaan": "14-05-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

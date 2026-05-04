@@ -1,0 +1,126 @@
+{
+    "module_id": 1139992,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230013,
+    "title": "Informatie toesturen",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1139992",
+    "type": "Toezegging",
+    "member": "",
+    "party": "",
+    "poho": "S. Steenbakkers (Wethouder)",
+    "result": "",
+    "date": "03-03-2026",
+    "meeting_url": {
+        "1374927": "https://raadsinformatie.eindhoven.nl/vergadering/1374927#ai_10009830"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": "Wethouder Steenbakkers zegt toe: \n\nDe raad de volgende informatie toe te sturen:\n\n\neen overzicht over de ‘open eindjes’ uit de zienswijzennota (o.a. lopende onderzoeken en nieuw beleid) met daarbij wanneer resultaten en vervolgstappen te verwachten zijn.\ninformatie over de natuurcompensatie (NNB).\ninformatie over het actieplan sociaal werkgeverschap ASML.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 790602,
+            "weight": 0.21511109996457506
+        },
+        {
+            "id": 1022487,
+            "weight": 0.09611532617456174
+        },
+        {
+            "id": 949454,
+            "weight": 0.09019333803398803
+        },
+        {
+            "id": 14021560,
+            "weight": 0.08543859381758323
+        },
+        {
+            "id": 1020447,
+            "weight": 0.07878472077466953
+        },
+        {
+            "id": 941275,
+            "weight": 0.07531450251974231
+        },
+        {
+            "id": 954552,
+            "weight": 0.06691253342244481
+        },
+        {
+            "id": 1133842,
+            "weight": 0.0654479525084429
+        },
+        {
+            "id": 775301,
+            "weight": 0.06536236300117229
+        },
+        {
+            "id": 1086617,
+            "weight": 0.05964130383226025
+        },
+        {
+            "id": 797777,
+            "weight": 0.05735478875204947
+        },
+        {
+            "id": 1139738,
+            "weight": 0.056706554162541264
+        },
+        {
+            "id": 1118032,
+            "weight": 0.05644128980130164
+        },
+        {
+            "id": 1104299,
+            "weight": 0.05497986553745832
+        },
+        {
+            "id": 1061167,
+            "weight": 0.0545504434096908
+        }
+    ],
+    "videostarttime": {
+        "1374927": 720
+    },
+    "videolink": null,
+    "keywords": {
+        "Wethouder Steenbakkers": 0.9945711676396692,
+        "toesturen Wethouder": 0.9876303916424362,
+        "Steenbakkers zegt": 0.9876303916424362,
+        "open eindjes’": 0.9782875884894184,
+        "lopende onderzoeken": 0.9782875884894184,
+        "nieuw beleid": 0.9782875884894184,
+        "Informatie toesturen": 1.9365718467760011,
+        "volgende informatie": 0.936571846776001,
+        "Wethouder": 0.9265185787061898,
+        "sturen": 1.8721972820459332,
+        "open": 0.8721972820459332,
+        "zienswijzennota": 0.8721972820459332,
+        "beleid": 0.8721972820459332,
+        "werkgeverschap ASML": 0.8603811536275923,
+        "NNB": 0.8548857597272737,
+        "zegt": 0.8337202731571132,
+        "raad": 0.8337202731571132,
+        "volgende": 0.8337202731571132,
+        "overzicht": 0.8337202731571132,
+        "nieuw": 0.8337202731571132,
+        "daarbij": 0.8337202731571132,
+        "resultaten": 0.8337202731571132,
+        "vervolgstappen": 0.8337202731571132,
+        "verwachten": 0.8337202731571132,
+        "ASML": 0.7560881682575102,
+        "natuurcompensatie": 0.6627314177140905,
+        "actieplan sociaal": 0.6625798940811447,
+        "sociaal werkgeverschap": 0.6625798940811447
+    },
+    "svz": "De gevraagde informatie is op 6 maart 2026 aan de raad gestuurd.  Hiermee is de toezegging uitgevoerd. VOORSTEL: AFVOEREN",
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "08-04-2026",
+    "meeting_id": []
+}

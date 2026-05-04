@@ -1,0 +1,50 @@
+{
+    "module_id": 790754,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230022,
+    "title": "Uitvoeringsprogramma diversiteit",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/790754",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Toub (Wethouder)",
+    "result": "",
+    "date": "01-11-2022",
+    "meeting_url": {
+        "1034744": "https://raadsinformatie.eindhoven.nl/vergadering/1034744#ai_7087609"
+    },
+    "attachment": null,
+    "parent": "ai_7087609",
+    "children": [],
+    "text": "De stad en de raad in Q1 2023 te betrekken bij de uitwerking van het uitvoeringsprogramma diversiteit. Het uitvoeringsprogramma diversiteit moet voor de zomer van 2023 gereed zijn.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 803411,
+            "weight": 0.7914141451175722
+        }
+    ],
+    "videostarttime": {
+        "1034744": 17721
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_01.11.22_NC_Eindhoven_Raad.mp4/playlist.m3u8",
+    "keywords": {
+        "Uitvoeringsprogramma diversiteit": 1.9788910711756937,
+        "diversiteit": 1.9048606478780095,
+        "stad": 0.8128256380552892,
+        "raad": 0.8128256380552892,
+        "betrekken": 0.8128256380552892,
+        "uitwerking": 0.8128256380552892,
+        "gereed": 0.6429248356252284,
+        "zomer": 0.5556283573336944
+    },
+    "svz": null,
+    "afgedaan": "09-04-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

@@ -1,0 +1,167 @@
+{
+    "meeting_id": 1013149,
+    "meeting_subid": {
+        "Raadzaal": 1013149
+    },
+    "subtitles": {
+        "Raadzaal": null
+    },
+    "speakers": {
+        "Raadzaal": {
+            "2": {
+                "start": 2,
+                "end": 44,
+                "id": 230907
+            },
+            "59": {
+                "start": 59,
+                "end": 128,
+                "id": 230217
+            },
+            "129": {
+                "start": 129,
+                "end": 149,
+                "id": 230907
+            },
+            "158": {
+                "start": 158,
+                "end": 500,
+                "id": 231053
+            },
+            "651": {
+                "start": 651,
+                "end": 667,
+                "id": 230907
+            },
+            "678": {
+                "start": 678,
+                "end": 719,
+                "id": 231054
+            },
+            "719": {
+                "start": 719,
+                "end": 1362,
+                "id": 231054
+            },
+            "1396": {
+                "start": 1396,
+                "end": 1410,
+                "id": 230907
+            },
+            "1425": {
+                "start": 1425,
+                "end": 1709,
+                "id": 231056
+            },
+            "1721": {
+                "start": 1721,
+                "end": 1732,
+                "id": 230907
+            },
+            "2094": {
+                "start": 2094,
+                "end": 2395,
+                "id": 230907
+            },
+            "2434": {
+                "start": 2434,
+                "end": 3020,
+                "id": 230656
+            }
+        }
+    },
+    "title": {
+        "Raadzaal": "Vergadering Bijzondere raadsvergadering installatie burgemeester 13-09-2022 Gemeente Eindhoven"
+    },
+    "meeting_url": "https://raadsinformatie.eindhoven.nl/vergadering/1013149/",
+    "video_url": {
+        "Raadzaal": "http://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/13.09.22 Eindhoven Raad.mp4/playlist.m3u8"
+    },
+    "api_url": "api.notubiz.nl/events/1013149",
+    "date": "2022-09-13 19:30:00",
+    "type": "Bijzondere raadsvergadering installatie burgemeester",
+    "agenda": {
+        "Raadzaal": {
+            "2": {
+                "title": "Welkomstwoord door de heer L.L.B. Janssen, plaatsvervangend voorzitter van de raad",
+                "id": 6962459,
+                "module_id": []
+            },
+            "null": {
+                "title": "Toespraak door de heer P. Verhoeven, voorzitter burgemeesterskring Brabant Zuidoost",
+                "id": 6990001,
+                "module_id": []
+            },
+            "347": {
+                "title": "Toespraak door mevrouw mr. I. Adema, Commissaris van de Koning van Noord-Brabant",
+                "id": 6962461,
+                "module_id": []
+            },
+            "692": {
+                "title": "Toespraak door mevrouw P.J.M.G. Blanksma,\nvicevoorzitter van de Metropool Regio Eindhoven",
+                "id": 6962458,
+                "module_id": []
+            },
+            "1761": {
+                "title": "Toespraak door de heer R. Thijs, locoburgemeester",
+                "id": 6962462,
+                "module_id": []
+            },
+            "2153": {
+                "title": "Toespraak door de heer L.L.B. Janssen,  plaatsvervangend voorzitter van de raad",
+                "id": 6962460,
+                "module_id": []
+            },
+            "2506": {
+                "title": "Toespraak door de heer  J.R.V.A. Dijsselbloem, burgemeester",
+                "id": 6962466,
+                "module_id": []
+            },
+            "3118": {
+                "title": "Sluiting van de vergadering door de nieuwe raadsvoorzitter",
+                "id": 6962467,
+                "module_id": []
+            },
+            "2": {
+                "title": "Welkomstwoord door de heer L.L.B. Janssen, plaatsvervangend voorzitter van de raad",
+                "id": 6962459,
+                "module_id": []
+            },
+            "null": {
+                "title": "Toespraak door de heer P. Verhoeven, voorzitter burgemeesterskring Brabant Zuidoost",
+                "id": 6990001,
+                "module_id": []
+            },
+            "347": {
+                "title": "Toespraak door mevrouw mr. I. Adema, Commissaris van de Koning van Noord-Brabant",
+                "id": 6962461,
+                "module_id": []
+            },
+            "692": {
+                "title": "Toespraak door mevrouw P.J.M.G. Blanksma,\nvicevoorzitter van de Metropool Regio Eindhoven",
+                "id": 6962458,
+                "module_id": []
+            },
+            "1761": {
+                "title": "Toespraak door de heer R. Thijs, locoburgemeester",
+                "id": 6962462,
+                "module_id": []
+            },
+            "2153": {
+                "title": "Toespraak door de heer L.L.B. Janssen,  plaatsvervangend voorzitter van de raad",
+                "id": 6962460,
+                "module_id": []
+            },
+            "2506": {
+                "title": "Toespraak door de heer  J.R.V.A. Dijsselbloem, burgemeester",
+                "id": 6962466,
+                "module_id": []
+            },
+            "3118": {
+                "title": "Sluiting van de vergadering door de nieuwe raadsvoorzitter",
+                "id": 6962467,
+                "module_id": []
+            }
+        }
+    }
+}

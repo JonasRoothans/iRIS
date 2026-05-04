@@ -1,0 +1,96 @@
+{
+    "module_id": 985709,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 231116,
+    "title": "Raadsvoorstel Begroting 2025",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/985709",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "J. Dijsselbloem (Burgemeester)",
+    "result": "",
+    "date": "05-11-2024",
+    "meeting_url": {
+        "1148143": "https://raadsinformatie.eindhoven.nl/vergadering/1148143#ai_8727038"
+    },
+    "attachment": null,
+    "parent": 975511,
+    "children": [
+        "a_8825703",
+        "a_8824923",
+        "a_8824922"
+    ],
+    "text": "Burgemeester Dijsselbloem zeg toe m.b.t. geheimhouding te kijken of vaker een eindmoment- of tijd kan worden aangegeven waarop de geheimhouding komt te vervallen en hoe de gronden voor geheimhouding beter kunnen worden gemotiveerd en toegelicht.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 11753464,
+            "weight": 0.567414459764788
+        },
+        {
+            "id": 826908,
+            "weight": 0.47043937990757695
+        },
+        {
+            "id": 851992,
+            "weight": 0.164626902155705
+        },
+        {
+            "id": 888194,
+            "weight": 0.10050838842216168
+        },
+        {
+            "id": 984947,
+            "weight": 0.0976752207290188
+        },
+        {
+            "id": 1146887,
+            "weight": 0.09749441632636857
+        },
+        {
+            "id": 1037388,
+            "weight": 0.0951801484990465
+        },
+        {
+            "id": 825029,
+            "weight": 0.08786821333287627
+        },
+        {
+            "id": 989757,
+            "weight": 0.07734242224770387
+        }
+    ],
+    "videostarttime": {
+        "1148143": 22763
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_05.11.24_NC_Eindhoven.mp4/playlist.m3u8",
+    "keywords": {
+        "Burgemeester Dijsselbloem": 0.9960969245719173,
+        "Raadsvoorstel Begroting": 1.995069165806639,
+        "Dijsselbloem zeg": 0.9898729891180464,
+        "aangegeven waarop": 0.9808462601667136,
+        "geheimhouding komt": 0.9683265914500357,
+        "Begroting": 1.9468361029879022,
+        "Burgemeester": 0.9468361029879022,
+        "eindmoment": 0.9077072856008547,
+        "toegelicht": 0.9077072856008547,
+        "zeg": 0.8629096324543886,
+        "kijken": 0.8629096324543886,
+        "vaker": 0.8629096324543886,
+        "tijd": 0.8629096324543886,
+        "waarop": 0.8629096324543886,
+        "komt": 0.8629096324543886,
+        "vervallen": 0.8629096324543886,
+        "gronden": 0.8629096324543886,
+        "gemotiveerd": 0.8629096324543886
+    },
+    "svz": null,
+    "afgedaan": "28-01-2025",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

@@ -1,0 +1,132 @@
+{
+    "module_id": 1077802,
+    "vote_id": null,
+    "member_id": [
+        194500
+    ],
+    "party_list": [
+        "FVD"
+    ],
+    "poho_id": [],
+    "title": "Beantwoording raadsvragen - Besluitvorming niet transparant (FvD)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/4/Raadsvragen/1077802",
+    "type": "Raadsvraag",
+    "member": "Nicolas Knoester",
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "01-09-2025",
+    "meeting_url": null,
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/15910796/1?connection_type=17&connection_id=12283477": "Vraag",
+        "https://raadsinformatie.eindhoven.nl/document/16069081/1?connection_type=17&connection_id=12435565": "Antwoord"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": " \n \n \nRaadsvragen - Besluitvorming niet transparant  \n \ndatum:  30 augustus  2025  \n \nGeacht college,  \n \nRecent stuurde het college de raad (een samenvatting van) de \nresultaten van het medewerkersonderzoek  2025. Opmerkelijk daarbij is \nde volgende alinea:  \n \n \n \n1. Kan het college de volledige onderzoeksresultaten sturen ipv alleen \neen samenvatting?  \n2. Herkent het college dit signaal dat de besluitvorming volgens \nmedewerkers niet transparant verloopt?  \n3. Ontving het college eerder signalen dat de besluitvorming niet \ntransparant zou zijn?  \n4. Welke oorzaken ziet het college voor het beeld dat de besluitvorming \nniet transparant is?  \n5. Welke stappen zet het college om de transparantie van \nbesluitvorming te verbeteren?  \n \nNamens de fracti e, \nForum voor Democratie  \n \nNicolas Knoester, raadslid  \n",
+    "bst": "8015496_1.4.1.",
+    "related": [
+        {
+            "id": 1022967,
+            "weight": 0.33342135024564995
+        },
+        {
+            "id": 13821739,
+            "weight": 0.31666416976957024
+        },
+        {
+            "id": 881818,
+            "weight": 0.1812611917045254
+        },
+        {
+            "id": 861372,
+            "weight": 0.14767085661937304
+        },
+        {
+            "id": 12641484,
+            "weight": 0.14654934525651336
+        },
+        {
+            "id": 997118,
+            "weight": 0.13196040090106678
+        },
+        {
+            "id": "a_8420728",
+            "weight": 0.11103106535738265
+        },
+        {
+            "id": 1026190,
+            "weight": 0.08530923073371031
+        },
+        {
+            "id": 1103191,
+            "weight": 0.05955263809881899
+        },
+        {
+            "id": 1009635,
+            "weight": 0.05692640506368212
+        },
+        {
+            "id": 14580979,
+            "weight": 0.05627546138116889
+        },
+        {
+            "id": 975722,
+            "weight": 0.05392458128579971
+        },
+        {
+            "id": 937058,
+            "weight": 0.05335595247997243
+        },
+        {
+            "id": 1098689,
+            "weight": 0.051456340483741404
+        },
+        {
+            "id": 941275,
+            "weight": 0.051133380540149515
+        },
+        {
+            "id": 955623,
+            "weight": 0.05061331028468074
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Recent stuurde": 0.9849098413858416,
+        "Beantwoording raadsvragen": 1.984357950013904,
+        "Geacht college": 0.972607305189045,
+        "raadsvragen": 1.9593900559432837,
+        "Besluitvorming": 1.9477211232267146,
+        "college": 0.9434635493697133,
+        "Geacht": 0.9326291998171142,
+        "Recent": 0.9326291998171142,
+        "transparant": 1.9150003598664935,
+        "FvD": 1.8406649355987772,
+        "augustus": 0.8406649355987772,
+        "samenvatting": 0.8154324786661824,
+        "datum": 0.8103771764341844,
+        "raad": 1.8103771764341845,
+        "medewerkersonderzoek": 0.8103771764341844,
+        "Nicolas Knoester": 0.8036635890326123,
+        "Democratie Nicolas": 0.7854491829371303,
+        "stuurde": 0.779343115592102,
+        "resultaten": 0.779343115592102,
+        "Opmerkelijk daarbij": 0.7141886541079829,
+        "volgende alinea": 0.7141886541079829,
+        "Ontving": 0.6616633666636945,
+        "Forum": 0.6095276503243289,
+        "Knoester": 0.6095276503243289,
+        "Nicolas": 0.5797020796168275,
+        "alinea": 0.5516711722273373,
+        "daarbij": 0.5042011143683833
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194500,
+    "lastScrapeDate": "02-04-2026",
+    "meeting_id": []
+}

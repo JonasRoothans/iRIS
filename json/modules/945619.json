@@ -1,0 +1,118 @@
+{
+    "module_id": 945619,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230019,
+    "title": "Wachtlijsten zwemmen - Raadsvoorstel Kadernota 2025",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/945619",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. van Lanschot (Wethouder)",
+    "result": "",
+    "date": "21-05-2024",
+    "meeting_url": {
+        "1147935": "https://raadsinformatie.eindhoven.nl/vergadering/1147935#ai_8359842"
+    },
+    "attachment": null,
+    "parent": 933747,
+    "children": [],
+    "text": "Wethouder van Lansschot zegt toe dat hij hierop terug komt.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1045784,
+            "weight": 2.4334555943266523
+        },
+        {
+            "id": 15119089,
+            "weight": 0.5176370118010406
+        },
+        {
+            "id": 984221,
+            "weight": 0.5149012107955814
+        },
+        {
+            "id": 945905,
+            "weight": 0.4980627810250836
+        },
+        {
+            "id": 966042,
+            "weight": 0.262560403071317
+        },
+        {
+            "id": 1142978,
+            "weight": 0.19457649214432923
+        },
+        {
+            "id": 1139088,
+            "weight": 0.18394145673881393
+        },
+        {
+            "id": 850793,
+            "weight": 0.15313034371681836
+        },
+        {
+            "id": 966048,
+            "weight": 0.1525715702334345
+        },
+        {
+            "id": 966038,
+            "weight": 0.14306408947641755
+        },
+        {
+            "id": 966043,
+            "weight": 0.13945463858258628
+        },
+        {
+            "id": 1061943,
+            "weight": 0.1088431293864795
+        },
+        {
+            "id": 945691,
+            "weight": 0.10192522361255153
+        },
+        {
+            "id": 945678,
+            "weight": 0.10192522361255153
+        },
+        {
+            "id": 1104134,
+            "weight": 0.08516439349264762
+        },
+        {
+            "id": 1020312,
+            "weight": 0.08383916364726958
+        },
+        {
+            "id": 850877,
+            "weight": 0.06257700229910666
+        }
+    ],
+    "videostarttime": {
+        "1147935": 11473
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_21.05.24_NC_Eindhoven_Raad.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Kadernota": 1.9925553183866471,
+        "Wachtlijsten zwemmen": 1.9742913828560065,
+        "Lansschot zegt": 0.955011371234592,
+        "terug komt": 0.9505961599793437,
+        "Kadernota": 1.9140368224837343,
+        "Wethouder": 0.9140368224837344,
+        "hierop terug": 0.9029960071342576,
+        "zwemmen": 1.8416830712200127,
+        "komt": 0.8416830712200127,
+        "zegt": 0.7026344174397849,
+        "hierop": 0.7026344174397849,
+        "terug": 0.7026344174397849
+    },
+    "svz": "Op dit onderwerp wordt ingegaan in de collegebrief 'Ontwikkelingen zwemmen en zwembaden Eindhoven' die op 18 o...  Lees verder ",
+    "afgedaan": "19-11-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

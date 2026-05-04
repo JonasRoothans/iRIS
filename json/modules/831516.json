@@ -1,0 +1,132 @@
+{
+    "module_id": 831516,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": null,
+    "title": "Natuurvergunning Eindhoven Airport -  Brief aan het ministerie van Landbouw, Natuur en Voedselkwaliteit over natuurvergunning van Eindhoven Airport",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/831516",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Esselbrugge (Wethouder)",
+    "result": "",
+    "date": "28-03-2023",
+    "meeting_url": {
+        "1059807": "https://raadsinformatie.eindhoven.nl/vergadering/1059807#ai_7231226"
+    },
+    "attachment": null,
+    "parent": "ai_7231226",
+    "children": [],
+    "text": "Wethouder Esselbrugge zegt toe:\n\nOm binnen een maand met partners een brief te schrijven aan het ministerie van Landbouw, Natuur en Voedselkwaliteit om duidelijkheid te verkrijgen over de natuurvergunning van Eindhoven Airport.\n\n(naar aanleiding van de rondvraag van GL - Neemt iedereen haar verantwoordelijkheid?)",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": "ai_7231226",
+            "weight": 3.8485157885314423
+        },
+        {
+            "id": 12557862,
+            "weight": 1.2927883469063366
+        },
+        {
+            "id": 1096312,
+            "weight": 0.31630332758555335
+        },
+        {
+            "id": 1116386,
+            "weight": 0.2718196636509957
+        },
+        {
+            "id": 776916,
+            "weight": 0.2699605490312604
+        },
+        {
+            "id": 785930,
+            "weight": 0.23901755534773939
+        },
+        {
+            "id": 955576,
+            "weight": 0.19629278760751953
+        },
+        {
+            "id": 1035731,
+            "weight": 0.11210127259932935
+        },
+        {
+            "id": 1092345,
+            "weight": 0.10505395412934647
+        },
+        {
+            "id": 15517013,
+            "weight": 0.09766358268925288
+        },
+        {
+            "id": 955427,
+            "weight": 0.09545557132884579
+        },
+        {
+            "id": 1009622,
+            "weight": 0.09460712740060166
+        },
+        {
+            "id": 970363,
+            "weight": 0.08969097653367908
+        },
+        {
+            "id": 898388,
+            "weight": 0.08905001510762635
+        },
+        {
+            "id": 1013625,
+            "weight": 0.07848477088599723
+        },
+        {
+            "id": 825109,
+            "weight": 0.07030891772624852
+        },
+        {
+            "id": 988566,
+            "weight": 0.0663493142911906
+        },
+        {
+            "id": 1141780,
+            "weight": 0.06303522565035938
+        }
+    ],
+    "videostarttime": {
+        "1059807": null
+    },
+    "videolink": null,
+    "keywords": {
+        "Eindhoven Airport": 1.9990131642238724,
+        "Airport Wethouder": 0.9959891774257122,
+        "Wethouder Esselbrugge": 0.9952976400426574,
+        "Natuurvergunning Eindhoven": 1.9924990244212026,
+        "Esselbrugge zegt": 0.9895933938852527,
+        "Airport": 1.9805358887773012,
+        "Landbouw": 1.9778751849607095,
+        "Natuur": 1.9778751849607095,
+        "Voedselkwaliteit": 1.9686064229752884,
+        "Brief": 1.9503788561505147,
+        "ministerie": 1.9462038118345848,
+        "Neemt iedereen": 0.9289843386827711,
+        "zegt": 0.8494524417800496,
+        "maand": 0.8494524417800496,
+        "partners": 0.8494524417800496,
+        "schrijven": 0.8494524417800496,
+        "duidelijkheid": 0.8494524417800496,
+        "verkrijgen": 0.8494524417800496,
+        "Neemt": 0.825969601774393,
+        "verantwoordelijkheid": 0.6796879434170995,
+        "aanleiding": 0.6189927846810308,
+        "rondvraag": 0.6189927846810308
+    },
+    "svz": null,
+    "afgedaan": "13-06-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

@@ -1,0 +1,62 @@
+{
+    "module_id": 891110,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 231116,
+    "title": "Telefonisch gemeente menu - Raadsvoorstel Vaststellen Begroting 2024",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/891110",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "J. Dijsselbloem (Burgemeester)",
+    "result": "",
+    "date": "31-10-2023",
+    "meeting_url": {
+        "1153547": "https://raadsinformatie.eindhoven.nl/vergadering/1153547#ai_7885375"
+    },
+    "attachment": null,
+    "parent": 879979,
+    "children": [],
+    "text": "Burgemeester Dijsselbloem zegt toe om onderzoek te doen naar het toevoegen van nummer 7 aan het telefonisch gemeente menu waarbij na 17:00 wordt doorgeschakeld naar het gemeentelijke nummer.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 946531,
+            "weight": 0.8512890662954767
+        },
+        {
+            "id": 776893,
+            "weight": 0.2683480146088507
+        }
+    ],
+    "videostarttime": {
+        "1153547": null
+    },
+    "videolink": null,
+    "keywords": {
+        "Raadsvoorstel Vaststellen": 1.9959971424483507,
+        "Vaststellen Begroting": 1.9959971424483507,
+        "Burgemeester Dijsselbloem": 0.9959971424483507,
+        "Telefonisch gemeente": 1.992161081224927,
+        "gemeente menu": 1.992161081224927,
+        "Dijsselbloem zegt": 0.9895197066514646,
+        "menu waarbij": 0.979147661347893,
+        "nummer": 0.9470403448611869,
+        "Begroting": 1.9461201476161438,
+        "Burgemeester": 0.9461201476161439,
+        "menu": 1.9271339807412375,
+        "zegt": 0.8598358971669666,
+        "onderzoek": 0.8598358971669666,
+        "toevoegen": 0.8598358971669666,
+        "17:00": 0.8598358971669666,
+        "doorgeschakeld": 0.8598358971669666
+    },
+    "svz": null,
+    "afgedaan": "04-06-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

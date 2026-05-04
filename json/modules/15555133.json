@@ -1,0 +1,125 @@
+{
+    "module_id": 15555133,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "7914881_1_4_2_+Beantwoording+raadsvragen+PvdD+(Roothans)+over+Het+bijzondere+groene+imago+van+Kalverstraat+72-76",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "16-05-2025",
+    "meeting_url": {
+        "1256319": "https://raadsinformatie.eindhoven.nl/vergadering/1256319/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "http://7914881_1_4_2_+Beantwoording+raadsvragen+PvdD+(Roothans)+over+Het+bijzondere+groene+imago+van+Kalverstraat+72-76",
+    "pdf_text": "",
+    "bst": null,
+    "related": [
+        {
+            "id": "o_9205533",
+            "weight": 1.2066260542682643
+        },
+        {
+            "id": 1013592,
+            "weight": 0.9761900404337399
+        },
+        {
+            "id": 1032695,
+            "weight": 0.9682165141179805
+        },
+        {
+            "id": 1030763,
+            "weight": 0.46408715172483994
+        },
+        {
+            "id": "o_7006000",
+            "weight": 0.43103760587541795
+        },
+        {
+            "id": 777522,
+            "weight": 0.42975542263142374
+        },
+        {
+            "id": "o_8674111",
+            "weight": 0.33581008508521465
+        },
+        {
+            "id": 977962,
+            "weight": 0.33488385553032374
+        },
+        {
+            "id": 1022971,
+            "weight": 0.2115787798526548
+        },
+        {
+            "id": 1096531,
+            "weight": 0.20587693633525025
+        },
+        {
+            "id": 15555132,
+            "weight": 0.19419951383973577
+        },
+        {
+            "id": "a_7006137",
+            "weight": 0.19125591366623404
+        },
+        {
+            "id": 1104264,
+            "weight": 0.1750453851023963
+        },
+        {
+            "id": 813416,
+            "weight": 0.17277396886403207
+        },
+        {
+            "id": 936165,
+            "weight": 0.1710124625800789
+        },
+        {
+            "id": 1148253,
+            "weight": 0.16879642316161297
+        },
+        {
+            "id": 999545,
+            "weight": 0.16653208606941672
+        },
+        {
+            "id": 785761,
+            "weight": 0.12565410910082683
+        },
+        {
+            "id": 1120756,
+            "weight": 0.11236243357864667
+        }
+    ],
+    "videostarttime": {
+        "1256319": 894
+    },
+    "videolink": null,
+    "keywords": {
+        "Beantwoording": 1.9696036283675864,
+        "Roothans": 1.9696036283675864,
+        "Kalverstraat": 1.9696036283675864,
+        "raadsvragen": 1.9550880231213545,
+        "PvdD": 1.9550880231213545,
+        "bijzondere": 1.9550880231213545,
+        "groene": 1.9550880231213545,
+        "imago": 1.9550880231213545,
+        "72-76": 1.9550880231213545
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1256319
+    ]
+}

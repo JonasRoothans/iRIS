@@ -1,0 +1,92 @@
+{
+    "module_id": "ai_6986875",
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Raad informeren - M2 Leefbaarheid evaluatie inclusief inwoning",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/moties_en_toezeggingen/787218?parent_event=1013429",
+    "type": "Agenda",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "24-05-2022",
+    "meeting_url": "https://raadsinformatie.eindhoven.nl/vergadering/1013429#ai_6986875",
+    "attachment": null,
+    "parent": null,
+    "children": [
+        787218
+    ],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 787214,
+            "weight": 3.0076441070219766
+        },
+        {
+            "id": "ai_6964479",
+            "weight": 2.9437251691086685
+        },
+        {
+            "id": 775238,
+            "weight": 2.033597513009441
+        },
+        {
+            "id": 779483,
+            "weight": 0.49311586218608155
+        },
+        {
+            "id": 795427,
+            "weight": 0.4106698231220702
+        },
+        {
+            "id": 790692,
+            "weight": 0.2155450452237987
+        },
+        {
+            "id": 1139110,
+            "weight": 0.20765910707027668
+        },
+        {
+            "id": 827645,
+            "weight": 0.19031839613907886
+        },
+        {
+            "id": 776860,
+            "weight": 0.16866522759753633
+        },
+        {
+            "id": 775254,
+            "weight": 0.1634513263898084
+        },
+        {
+            "id": 992512,
+            "weight": 0.15207026431675202
+        },
+        {
+            "id": 13976012,
+            "weight": 0.1468908911665753
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Raad informeren": 1.9742913828560065,
+        "Leefbaarheid evaluatie": 1.9737669269624916,
+        "inclusief inwoning": 1.9505961599793435,
+        "evaluatie inclusief": 1.9029960071342575,
+        "Raad": 1.8416830712200127,
+        "inwoning": 1.8416830712200127,
+        "evaluatie": 1.702634417439785,
+        "inclusief": 1.702634417439785
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": null,
+    "meeting_id": []
+}

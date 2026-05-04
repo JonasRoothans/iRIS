@@ -1,0 +1,176 @@
+{
+    "module_id": 930497,
+    "vote_id": null,
+    "member_id": [
+        194500
+    ],
+    "party_list": [
+        "FVD"
+    ],
+    "poho_id": [],
+    "title": "Beantwoording raadsvragen Parkeren gehandicapten (FvD)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/4/Raadsvragen/930497",
+    "type": "Raadsvraag",
+    "member": "Nicolas Knoester",
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "28-03-2024",
+    "meeting_url": null,
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/13978057/1?connection_type=17&connection_id=10424730": "Vraag",
+        "https://raadsinformatie.eindhoven.nl/document/14060156/2?connection_type=17&connection_id=10495584": "Antwoord"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": " \n \n \nRaadsvragen Parkeren gehandicapten  \n \ndatum:  27 maart 2024  \n \n \nGeacht college,  \n \n \nInleiding  \nRecent werd bekend dat gehandicapten binnenkort moeten overstappen \nnaar een digitaal systeem en dat de fysieke nacontrole voor boetes \nvervangen gaat worden door een digitale nacontrole. Hierdoor wordt de \nkans op onterechte boetes voor voertuigen met een traditionele \ngehandicaptenparkeerkaart  nóg hoger.  \n \n \n \nRaadsvragen  \n1. Deelt het college de mening dat een moderne stad waar \ninclusiviteit gepredikt wordt het niet kan maken om een \nkwetsbare doelgroep onnodig te duperen omwille van een \ndigitaal experiment?  \n2. Deelt het college de mening dat bij elke vorm van digitalisering \nook goede alternatieven behoren?  \n3. Deelt het college de mening dat gehandicapten een zeer \nkwetsbare groep zijn die dagelijks al enorme drempels moeten \noverwinnen?  \n \nNamens de fractie , \nForum voor Democratie  \n \nNicolas Knoester , raadslid  \n \n \n",
+    "bst": "24bst00483",
+    "related": [
+        {
+            "id": 965694,
+            "weight": 2.6435344996853987
+        },
+        {
+            "id": 937328,
+            "weight": 1.6072741248282323
+        },
+        {
+            "id": 930491,
+            "weight": 1.3904518884356234
+        },
+        {
+            "id": 12755975,
+            "weight": 0.3538378236207115
+        },
+        {
+            "id": 1076901,
+            "weight": 0.3019750752488612
+        },
+        {
+            "id": 1149735,
+            "weight": 0.2111813113082931
+        },
+        {
+            "id": 12321433,
+            "weight": 0.19823809780771381
+        },
+        {
+            "id": 1136118,
+            "weight": 0.19823757863633623
+        },
+        {
+            "id": 867137,
+            "weight": 0.1980593309995052
+        },
+        {
+            "id": 1094247,
+            "weight": 0.19087611619404807
+        },
+        {
+            "id": 1076209,
+            "weight": 0.15702363383727297
+        },
+        {
+            "id": 1009118,
+            "weight": 0.15358494761218763
+        },
+        {
+            "id": 887576,
+            "weight": 0.07911454858184382
+        },
+        {
+            "id": 930390,
+            "weight": 0.07230513489903335
+        },
+        {
+            "id": 16588987,
+            "weight": 0.06807839899720643
+        },
+        {
+            "id": 978654,
+            "weight": 0.06767917864550921
+        },
+        {
+            "id": 1097750,
+            "weight": 0.06719564454695694
+        },
+        {
+            "id": 1093570,
+            "weight": 0.06269355914173481
+        },
+        {
+            "id": 984130,
+            "weight": 0.0614931906381335
+        },
+        {
+            "id": "a_9840738",
+            "weight": 0.05937818774547081
+        },
+        {
+            "id": "a_9831394",
+            "weight": 0.059286293454864684
+        },
+        {
+            "id": 1077796,
+            "weight": 0.05889030094329236
+        },
+        {
+            "id": 1057357,
+            "weight": 0.056268517575159285
+        },
+        {
+            "id": 1108590,
+            "weight": 0.055534133480356095
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Inleiding Recent": 0.9951845426435145,
+        "raadsvragen Parkeren": 1.9928695642135876,
+        "Parkeren gehandicapten": 1.9874242881957938,
+        "Geacht college": 0.9772266610622476,
+        "Parkeren": 1.972442448314064,
+        "fysieke nacontrole": 0.9661676549492327,
+        "vervangen gaat": 0.9607707704698337,
+        "Beantwoording raadsvragen": 1.9574349216337579,
+        "boetes vervangen": 0.9377841106305574,
+        "Geacht": 0.9357007171833558,
+        "Deelt": 0.9255446509561018,
+        "Recent": 0.9254676001702778,
+        "gehandicapten datum": 0.9232947196097554,
+        "digitaal systeem": 0.9174503860034399,
+        "college": 0.9134272544137237,
+        "mening": 0.87911871554493,
+        "FvD": 1.8726954480660278,
+        "maart": 0.8726954480660278,
+        "boetes": 0.8492666637248287,
+        "onterechte boetes": 0.8407102406576802,
+        "datum": 0.8399614925209749,
+        "Nicolas Knoester": 0.8276231317768029,
+        "Democratie Nicolas": 0.8064898438309841,
+        "bekend": 0.8057105527779495,
+        "binnenkort": 0.8057105527779495,
+        "overstappen": 0.8057105527779495,
+        "systeem": 0.8057105527779495,
+        "fysieke": 0.8057105527779495,
+        "digitale": 0.8057105527779495,
+        "nóg hoger": 0.7782537539880199,
+        "traditionele gehandicaptenparkeerkaart": 0.7377934563962046,
+        "kwetsbare": 0.7197860146634438,
+        "Forum": 0.6348486396249415,
+        "Knoester": 0.6348486396249415,
+        "Hierdoor": 0.6017839924770358,
+        "Nicolas": 0.5973396912378665,
+        "voertuigen": 0.5442186513020713,
+        "traditionele": 0.5442186513020713,
+        "nóg": 0.5442186513020713
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194500,
+    "lastScrapeDate": "02-04-2026",
+    "meeting_id": []
+}

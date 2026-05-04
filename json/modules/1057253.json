@@ -1,0 +1,96 @@
+{
+    "module_id": 1057253,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 248564,
+    "title": "Gesprek werkgevers HTC - Raadsvoorstel HOV4 vaststellen ontwerp en kredietaanvraag",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1057253",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "R. Strijk (Wethouder)",
+    "result": "",
+    "date": "19-06-2025",
+    "meeting_url": {
+        "1256618": "https://raadsinformatie.eindhoven.nl/vergadering/1256618#ai_9375563"
+    },
+    "attachment": null,
+    "parent": 1047369,
+    "children": [],
+    "text": "Wethouder Strijk zegt toe:\nIn gesprek te gaan met werkgevers HTC om mobiliteitstransitie verder aan te jagen;",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1057251,
+            "weight": 0.8885918302890679
+        },
+        {
+            "id": "a_9477074",
+            "weight": 0.8317007378689404
+        },
+        {
+            "id": 1062482,
+            "weight": 0.6270481802355078
+        },
+        {
+            "id": 1057250,
+            "weight": 0.6223051038610065
+        },
+        {
+            "id": 1057248,
+            "weight": 0.6148088730671737
+        },
+        {
+            "id": 1047369,
+            "weight": 0.42209157124366825
+        },
+        {
+            "id": "a_7693706",
+            "weight": 0.3002621064119177
+        },
+        {
+            "id": 1150669,
+            "weight": 0.29751798403115814
+        },
+        {
+            "id": 887791,
+            "weight": 0.20111853956427664
+        },
+        {
+            "id": "a_9477053",
+            "weight": 0.1963731563106478
+        },
+        {
+            "id": 1060059,
+            "weight": 0.18240441322921358
+        }
+    ],
+    "videostarttime": {
+        "1256618": 741
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/19.06.25 Eindhoven Meningsvorming.mp4/playlist.m3u8",
+    "keywords": {
+        "Wethouder Strijk": 0.9882562041797597,
+        "kredietaanvraag Wethouder": 0.972071180765645,
+        "Strijk zegt": 0.972071180765645,
+        "vaststellen ontwerp": 1.9581052931114145,
+        "Raadsvoorstel": 1.957436324353599,
+        "werkgevers HTC": 1.9549360470697943,
+        "HTC": 1.8931795681230836,
+        "Gesprek werkgevers": 1.7740945935151484,
+        "Gesprek": 1.7619094431119495,
+        "ontwerp": 1.7478142388404556,
+        "zegt": 0.7478142388404556,
+        "jagen": 0.602840615037239
+    },
+    "svz": null,
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "02-10-2025",
+    "meeting_id": [
+        1256618
+    ]
+}

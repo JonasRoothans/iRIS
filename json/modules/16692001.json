@@ -1,0 +1,177 @@
+{
+    "module_id": 16692001,
+    "vote_id": null,
+    "member_id": [
+        194508,
+        194388
+    ],
+    "party_list": [
+        "Volt",
+        "GroenLinks"
+    ],
+    "poho_id": [],
+    "title": "Vraag V5 Vragenhalfuur - Kans in de verlenging (Volt, GL)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "10-03-2026",
+    "meeting_url": {
+        "1374861": "https://raadsinformatie.eindhoven.nl/vergadering/1374861/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/16692001/1/Vraag+V5+Vragenhalfuur+-+Kans+in+de+verlenging+%28Volt%2C+GL%29?connection_type=1&connection_id=9410448",
+    "pdf_text": " \n \nVragenhalfuur - Kans in de verlenging          V5 \n \n \nTijdens de Verkiezingsdialoog, georganiseerd door het Huis van actief \nBurgerschap, op 27 februari in de Hal van Honderd, hoorden wij verschillende \noproepen van inwoners die de hulp van de gemeente inroepen voor hun project.  \nEen van de deelnemers vroeg iets wat volgens ons niet tot na de verkiezingen \nhoeft te wachten. Deze inwoner gaf aan dat ze eigenlijk heel tevreden was met \neen subsidieregeling van de gemeente, namelijk de waardebon voor inwoners om \neen activiteit te organisere n. Deze had ze aangevraagd, gekregen e n ingezet voor \nhaar alternatief. Het initiatief was een succes  en ze had het graag een vervolg \ngegeven. En daar zit de vraag. De subsidie is éénmalig. Echter, toen het geld op \nwas, was haar initiatief nog net niet sterk genoeg om op eigen benen te staan.  \n \nDat klinkt als een oplosbaar probleem , door  de subsidieregeling aan te passen, \nzodat succesvolle initiatieven die nog net even een extra zetje nodig hebben, een \nverlenging kunnen aanvragen.  \n \nDaarom vragen wij aan het college:  \n \n1) Onderschrijft het college dat het jammer is als een succesvol initiatief \nwegens geldgebrek geen doorgang kan vinden ? \n2) Is er een mogelijkheid om een veelbelovend initiatief  \na. na de eerste waardebon eenmalig te verlengen , of \nb. op een andere manier  bewoners te steunen bij het voortzetten van \neen initiatief dat niet of nog niet op eigen benen kan staan?    \n \nEindhoven,  10 maart 2026  \n \nDe leden  van de raad,  \n \nInge Teklenburg (Volt)  \nGisèle Mambre (GroenLinks)  \n \n \n \n \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 1124535,
+            "weight": 0.7463342787233381
+        },
+        {
+            "id": 984303,
+            "weight": 0.48146851047321393
+        },
+        {
+            "id": 877209,
+            "weight": 0.4494216403401151
+        },
+        {
+            "id": 776921,
+            "weight": 0.43159591283666804
+        },
+        {
+            "id": 1107607,
+            "weight": 0.30278886340108535
+        },
+        {
+            "id": 785563,
+            "weight": 0.13462753797262003
+        },
+        {
+            "id": 862349,
+            "weight": 0.11410452872736077
+        },
+        {
+            "id": 874916,
+            "weight": 0.10881844340440587
+        },
+        {
+            "id": 1124907,
+            "weight": 0.10070473767350596
+        },
+        {
+            "id": 965983,
+            "weight": 0.09940554166802806
+        },
+        {
+            "id": 966039,
+            "weight": 0.09900886155768084
+        },
+        {
+            "id": 777294,
+            "weight": 0.09747954647787273
+        },
+        {
+            "id": 1128665,
+            "weight": 0.09566817806285234
+        },
+        {
+            "id": 1046636,
+            "weight": 0.09426299297310668
+        },
+        {
+            "id": 1121929,
+            "weight": 0.08491420513831373
+        },
+        {
+            "id": 973404,
+            "weight": 0.06314441780168223
+        },
+        {
+            "id": 1045664,
+            "weight": 0.06299232306908212
+        },
+        {
+            "id": 1084768,
+            "weight": 0.05987349446940826
+        },
+        {
+            "id": 905916,
+            "weight": 0.05958092743898776
+        },
+        {
+            "id": 776928,
+            "weight": 0.050526200808087555
+        },
+        {
+            "id": 775281,
+            "weight": 0.046000995827521894
+        },
+        {
+            "id": 984130,
+            "weight": 0.03899108218158041
+        }
+    ],
+    "videostarttime": {
+        "1374861": 1848
+    },
+    "videolink": null,
+    "keywords": {
+        "actief Burgerschap": 0.9909025226479731,
+        "Vragenhalfuur": 1.9810905979167628,
+        "verschillende oproepen": 0.9755348426845942,
+        "gemeente inroepen": 0.9579282017130059,
+        "Verkiezingsdialoog": 0.9416605336128223,
+        "Honderd": 0.9416605336128223,
+        "Huis": 0.9371958053879104,
+        "Hal": 0.9371958053879104,
+        "initiatief": 0.9165236208648563,
+        "Volt": 1.88617013220018,
+        "inwoners": 0.8755093577090217,
+        "verlenging": 1.872979886254346,
+        "gemeente": 0.8693714737810052,
+        "georganiseerd": 0.8598189365249207,
+        "februari": 0.8598189365249207,
+        "hoorden": 0.8598189365249207,
+        "project": 0.8598189365249207,
+        "actief": 0.8454655146422496,
+        "oproepen": 0.8454655146422496,
+        "hulp": 0.8454655146422496,
+        "Vraag": 1.8293061873234993,
+        "Inge Teklenburg": 0.8281925531926422,
+        "Gisèle Mambre": 0.8281925531926422,
+        "staan": 0.7702882791082535,
+        "subsidieregeling": 0.7662001990436349,
+        "waardebon": 0.7614021965016947,
+        "benen": 0.7568145005159773,
+        "college": 0.742780525485873,
+        "eigenlijk heel": 0.6998357723768226,
+        "heel tevreden": 0.6998357723768226,
+        "wachten": 0.6384745358248137,
+        "succesvol initiatief": 0.636395496430544,
+        "Onderschrijft": 0.6251502099498849,
+        "Inge": 0.6170933885433889,
+        "Gisèle": 0.6170933885433889,
+        "Mambre": 0.6170933885433889,
+        "deelnemers": 0.6116925789931343,
+        "hoeft": 0.6116925789931343,
+        "waardebon eenmalig": 0.561436195854405,
+        "namelijk": 0.547955677447717,
+        "gaf": 0.5195144179030805,
+        "heel": 0.5195144179030805,
+        "activiteit": 0.5195144179030805
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194388,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1374861
+    ]
+}

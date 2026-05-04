@@ -1,0 +1,81 @@
+{
+    "module_id": 966043,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 231116,
+    "title": "Veiligheidsregio - Raadsvoorstel Jaarstukken 2023",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/966043",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "J. Dijsselbloem (Burgemeester)",
+    "result": "",
+    "date": "26-06-2024",
+    "meeting_url": {
+        "1147977": "https://raadsinformatie.eindhoven.nl/vergadering/1147977#ai_8483500"
+    },
+    "attachment": null,
+    "parent": 946916,
+    "children": [],
+    "text": "Burgemeester Dijsselbloem zegt toe dat hij na afronding terug komt op de onderzoeken via Veiligheidsregio (bv. Begrotingswijziging 2025 of zienswijze Begroting 2026 VRBZO) terug op de benodigde extra investeringen.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 926816,
+            "weight": 0.3451889480009021
+        },
+        {
+            "id": 966042,
+            "weight": 0.14197269592790507
+        },
+        {
+            "id": 850793,
+            "weight": 0.1417925330487844
+        },
+        {
+            "id": 966048,
+            "weight": 0.14127513130014072
+        },
+        {
+            "id": 945619,
+            "weight": 0.13945463858258628
+        },
+        {
+            "id": 966038,
+            "weight": 0.13247158690306804
+        }
+    ],
+    "videostarttime": {
+        "1147977": 762
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_26.06.24_NC_Eindhoven_Cie.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Jaarstukken": 1.9947627538495025,
+        "Burgemeester Dijsselbloem": 0.9923920429525901,
+        "Dijsselbloem zegt": 0.9747239768770065,
+        "via Veiligheidsregio": 0.9739920492749632,
+        "onderzoeken via": 0.9411922613342188,
+        "Jaarstukken": 1.9278199452345657,
+        "Burgemeester": 0.9278199452345658,
+        "afronding terug": 0.8802137718646997,
+        "terug komt": 0.8802137718646997,
+        "zienswijze Begroting": 0.8764069921515998,
+        "VRBZO": 0.8717416425706608,
+        "Begrotingswijziging": 0.7888172246393363,
+        "Begroting": 0.7872848725388397,
+        "terug": 0.7730484851867273,
+        "zegt": 0.7643276206468516,
+        "komt": 0.7643276206468516,
+        "via": 0.7643276206468516,
+        "extra investeringen": 0.7586949887409022,
+        "benodigde extra": 0.6349853362619873
+    },
+    "svz": null,
+    "afgedaan": "19-11-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

@@ -1,0 +1,119 @@
+{
+    "module_id": 953024,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230024,
+    "title": "Informeren van de raad - Raadsvoorstel Effect & vereenvoudiging minimaregelingen",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/953024",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Lammers (Wethouder)",
+    "result": "",
+    "date": "18-06-2024",
+    "meeting_url": {
+        "1147967": "https://raadsinformatie.eindhoven.nl/vergadering/1147967#ai_8506508"
+    },
+    "attachment": null,
+    "parent": "ai_8506508",
+    "children": [],
+    "text": "Wethouder Lammers beantwoordt de vragen en zegt toe om  de raad te informeren over de uitwerking van de bestaanszekerheidsadviseurs inclusief een beschrijving van de methodiek.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 953021,
+            "weight": 1.3099223199215628
+        },
+        {
+            "id": "ai_8506508",
+            "weight": 0.5687758738423321
+        },
+        {
+            "id": 941333,
+            "weight": 0.5675889017648804
+        },
+        {
+            "id": 979977,
+            "weight": 0.5587225972114195
+        },
+        {
+            "id": 1049080,
+            "weight": 0.27202584310290595
+        },
+        {
+            "id": 1085536,
+            "weight": 0.2620175195736441
+        },
+        {
+            "id": 1049621,
+            "weight": 0.2472216274101959
+        },
+        {
+            "id": 1124227,
+            "weight": 0.2467313129559544
+        },
+        {
+            "id": 1133065,
+            "weight": 0.17250796696833937
+        },
+        {
+            "id": 784925,
+            "weight": 0.16855165048088966
+        },
+        {
+            "id": 1078957,
+            "weight": 0.14021146339042084
+        },
+        {
+            "id": 776969,
+            "weight": 0.13056403816773732
+        },
+        {
+            "id": "a_9607707",
+            "weight": 0.1291977240017122
+        },
+        {
+            "id": 1042213,
+            "weight": 0.11867806377067505
+        },
+        {
+            "id": 1000793,
+            "weight": 0.11210753667246667
+        },
+        {
+            "id": 956636,
+            "weight": 0.10906934754498021
+        }
+    ],
+    "videostarttime": {
+        "1147967": 13238
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_18.06.24_Eindhoven_CIE.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Effect": 1.998153366261395,
+        "Wethouder Lammers": 0.9972409764183139,
+        "minimaregelingen Wethouder": 0.9952475038456825,
+        "Lammers beantwoordt": 0.9952475038456825,
+        "vereenvoudiging minimaregelingen": 1.9935992536602596,
+        "bestaanszekerheidsadviseurs inclusief": 0.9918019154141853,
+        "raad": 1.9590779973060553,
+        "Effect": 1.9570671458209672,
+        "Informeren": 1.9504306404236798,
+        "Lammers": 0.9475459027811417,
+        "vereenvoudiging": 1.9294695909011965,
+        "methodiek": 0.9294695909011966,
+        "vragen": 0.9098255995507242,
+        "zegt": 0.9098255995507242,
+        "uitwerking": 0.9098255995507242,
+        "inclusief": 0.9098255995507242,
+        "beschrijving": 0.9098255995507242
+    },
+    "svz": null,
+    "afgedaan": "03-09-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

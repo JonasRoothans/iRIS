@@ -1,0 +1,70 @@
+{
+    "module_id": 945574,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Incidentele investeringen - Raadsvoorstel Kadernota 2025",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/945574",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "21-05-2024",
+    "meeting_url": {
+        "1147935": "https://raadsinformatie.eindhoven.nl/vergadering/1147935#ai_8359842"
+    },
+    "attachment": null,
+    "parent": 933747,
+    "children": [],
+    "text": "Wethouder Verhees zegt toe de raad te informeren doormiddel van een collegebrief over de incidentele investeringen voor de organisatie en de structurele uitdagingen.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 956440,
+            "weight": 2.417150937190137
+        },
+        {
+            "id": 1027587,
+            "weight": 0.6529672298789156
+        },
+        {
+            "id": 891115,
+            "weight": 0.5601122256249046
+        },
+        {
+            "id": 945685,
+            "weight": 0.2618205651326266
+        }
+    ],
+    "videostarttime": {
+        "1147935": 11473
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_21.05.24_NC_Eindhoven_Raad.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Kadernota": 1.9977120923106004,
+        "Wethouder Verhees": 0.9970090848278609,
+        "Incidentele investeringen": 1.9940025470638822,
+        "Verhees zegt": 0.9929642030492001,
+        "structurele uitdagingen": 0.9909081701036885,
+        "informeren doormiddel": 0.9873104884951039,
+        "Kadernota": 1.9522225459388118,
+        "Incidentele": 1.9455648701430497,
+        "uitdagingen": 0.9195110400098478,
+        "zegt": 0.8880602594649631,
+        "raad": 0.8880602594649631,
+        "informeren": 0.8880602594649631,
+        "doormiddel": 0.8880602594649631,
+        "collegebrief": 0.8880602594649631,
+        "organisatie": 0.8880602594649631,
+        "structurele": 0.8880602594649631
+    },
+    "svz": null,
+    "afgedaan": "10-12-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

@@ -1,0 +1,55 @@
+{
+    "module_id": "o_8290549",
+    "vote_id": 8290549,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Ordevoorstel LPF: afvoeren agendapunt 7.1 van de agenda.",
+    "url": "https://raadsinformatie.eindhoven.nl/vergadering/1147888/Ordevoorstel%20LPF%3A%20afvoeren%20agendapunt%207.1%20van%20de%20agenda. 12-03-2024#voting_8290549",
+    "type": "Ordevoorstel",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "verworpen",
+    "date": "12-03-2024",
+    "meeting_url": {
+        "1147888": "https://raadsinformatie.eindhoven.nl/vergadering/1147888/Ordevoorstel%20LPF%3A%20afvoeren%20agendapunt%207.1%20van%20de%20agenda. 12-03-2024#voting_8290549"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": "o_7860120",
+            "weight": 1.972500784931154
+        },
+        {
+            "id": "o_8044228",
+            "weight": 1.2992754881398274
+        },
+        {
+            "id": "o_8674111",
+            "weight": 1.0229425545544804
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Ordevoorstel LPF": 1.986202801796007,
+        "afvoeren agendapunt": 1.9742913828560065,
+        "LPF": 1.9140368224837343,
+        "afvoeren": 1.8416830712200127,
+        "agenda": 1.8416830712200127
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1147888
+    ]
+}

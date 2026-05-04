@@ -1,0 +1,119 @@
+{
+    "module_id": 864036,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230022,
+    "title": "Eindhoven benadeelt kwetsbare ouderen en zieken (Vraag V1 vragenhalfuur)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/moties_en_toezeggingen/864036?parent_event=1102274",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Toub (Wethouder)",
+    "result": "",
+    "date": "11-07-2023",
+    "meeting_url": {
+        "1102274": "https://raadsinformatie.eindhoven.nl/vergadering/1102274#ai_7585701"
+    },
+    "attachment": null,
+    "parent": "ai_7585701",
+    "children": [],
+    "text": "Wethouder Toub zegt toe dat na de evaluatie van het tijdelijke beleid eind 2023, indien deze evaluatie en het nog te verwachten landelijke normenkader voor huishoudelijke ondersteuning daartoe aanleiding geeft, de beschikking voor de 1628 huishoudens wordt aangepast. Hij zal de raad hierover informeren.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 894991,
+            "weight": 5.819063400399012
+        },
+        {
+            "id": 991663,
+            "weight": 1.2529283708433143
+        },
+        {
+            "id": "a_7270209",
+            "weight": 0.7806597290083763
+        },
+        {
+            "id": 935942,
+            "weight": 0.6185822115232685
+        },
+        {
+            "id": 862436,
+            "weight": 0.5240297843697408
+        },
+        {
+            "id": 883068,
+            "weight": 0.3329542475394741
+        },
+        {
+            "id": 925409,
+            "weight": 0.2567907763573052
+        },
+        {
+            "id": 1072945,
+            "weight": 0.14083528625015854
+        },
+        {
+            "id": 967316,
+            "weight": 0.14051280216450798
+        },
+        {
+            "id": 872248,
+            "weight": 0.13960185875790668
+        },
+        {
+            "id": 790670,
+            "weight": 0.12633683735582782
+        },
+        {
+            "id": 984972,
+            "weight": 0.11981723388578086
+        }
+    ],
+    "videostarttime": {
+        "1102274": 1133
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_11.07.23_Eindhoven_raad.mp4/playlist.m3u8",
+    "keywords": {
+        "Wethouder Toub": 0.9962223952520292,
+        "Toub zegt": 0.9903058764819902,
+        "Eindhoven benadeelt": 1.9860510263217566,
+        "beleid eind": 0.9860510263217567,
+        "aanleiding geeft": 0.9860510263217567,
+        "benadeelt kwetsbare": 1.9806565870392356,
+        "kwetsbare ouderen": 1.9806565870392356,
+        "tijdelijke beleid": 0.9806565870392357,
+        "verwachten landelijke": 0.9806565870392357,
+        "landelijke normenkader": 0.9806565870392357,
+        "huishoudelijke ondersteuning": 0.9806565870392357,
+        "ondersteuning daartoe": 0.9806565870392357,
+        "daartoe aanleiding": 0.9806565870392357,
+        "Vraag": 1.9611141176280693,
+        "vragenhalfuur": 1.9337018891228206,
+        "Toub": 0.9303032657607713,
+        "evaluatie": 0.925513014693078,
+        "Eindhoven": 1.900133492208067,
+        "zieken": 1.900133492208067,
+        "eind": 0.9001334922080669,
+        "geeft": 0.9001334922080669,
+        "huishoudens": 0.9001334922080669,
+        "aangepast": 0.9001334922080669,
+        "hierover informeren": 0.8898029430790889,
+        "benadeelt": 1.8622453424744427,
+        "ouderen": 1.8622453424744427,
+        "zegt": 0.8622453424744428,
+        "verwachten": 0.8622453424744428,
+        "landelijke": 0.8622453424744428,
+        "normenkader": 0.8622453424744428,
+        "daartoe": 0.8622453424744428,
+        "beschikking": 0.8622453424744428,
+        "raad hierover": 0.8540683944748955
+    },
+    "svz": null,
+    "afgedaan": "14-05-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

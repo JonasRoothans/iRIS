@@ -1,0 +1,120 @@
+{
+    "module_id": 781185,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Kamers ombouwen - Agenderingsverzoek SP Beleid kamerbewoning en  woningsplitsing n.a.v. brief van het college aan de raad d.d. 26 juli 2022",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/781185",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "14-09-2022",
+    "meeting_url": {
+        "1015775": "https://raadsinformatie.eindhoven.nl/vergadering/1015775#ai_7000799"
+    },
+    "attachment": null,
+    "parent": 777032,
+    "children": [],
+    "text": "De raad technisch te informeren of grootschalig wordt omgebouwd van kamers naar appartementen, en hoe de monitoring op aantallen kamers verloopt.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 781186,
+            "weight": 0.736892145154036
+        },
+        {
+            "id": 781179,
+            "weight": 0.657479746927281
+        },
+        {
+            "id": 798656,
+            "weight": 0.6548691400488397
+        },
+        {
+            "id": 781183,
+            "weight": 0.652523722764481
+        },
+        {
+            "id": 786262,
+            "weight": 0.3016651510477128
+        },
+        {
+            "id": 973400,
+            "weight": 0.18903937488909023
+        },
+        {
+            "id": 1029732,
+            "weight": 0.1646717599296704
+        },
+        {
+            "id": "a_8722941",
+            "weight": 0.10111249435666246
+        },
+        {
+            "id": 984501,
+            "weight": 0.09219269041121635
+        },
+        {
+            "id": 796519,
+            "weight": 0.09219269041121635
+        },
+        {
+            "id": 790708,
+            "weight": 0.0912457834361876
+        },
+        {
+            "id": 790707,
+            "weight": 0.09110640807242815
+        },
+        {
+            "id": 984519,
+            "weight": 0.08544633853196754
+        },
+        {
+            "id": "o_9205533",
+            "weight": 0.0780177046311776
+        },
+        {
+            "id": 891423,
+            "weight": 0.0738644368177285
+        },
+        {
+            "id": 850906,
+            "weight": 0.06065241282334646
+        }
+    ],
+    "videostarttime": {
+        "1015775": 2410
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_14.09.22_NC_Eindhoven_cie.mp4/playlist.m3u8",
+    "keywords": {
+        "Beleid kamerbewoning": 1.9834265919054,
+        "Kamers ombouwen": 1.9425846819891195,
+        "Agenderingsverzoek": 1.936066796735394,
+        "Beleid": 1.9141365161675676,
+        "woningsplitsing": 1.869565086548514,
+        "brief": 1.869565086548514,
+        "Kamers": 1.8612391127396894,
+        "raad": 1.856036955924998,
+        "raad technisch": 0.8516284022431676,
+        "kamers verloopt": 0.8337030528259821,
+        "college": 1.8101264048304277,
+        "juli": 1.7733711397047833,
+        "aantallen kamers": 0.7702910148648344,
+        "appartementen": 0.6574793062680571,
+        "informeren": 0.551267718077371,
+        "grootschalig": 0.551267718077371,
+        "omgebouwd": 0.551267718077371,
+        "monitoring": 0.551267718077371
+    },
+    "svz": null,
+    "afgedaan": "17-01-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

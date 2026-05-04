@@ -1,0 +1,82 @@
+{
+    "module_id": 927018,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": null,
+    "title": "Bredere fietspaden en fietsstraten - Veilig en snel fietsen voor iedereen (Motie M6)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/927018",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Esselbrugge (Wethouder)",
+    "result": "",
+    "date": "12-03-2024",
+    "meeting_url": {
+        "1147888": "https://raadsinformatie.eindhoven.nl/vergadering/1147888#ai_8127798"
+    },
+    "attachment": null,
+    "parent": 906466,
+    "children": [],
+    "text": "Wethouder Esselbrugge zegt toe de motie te omarmen waarbij:\nin stedelijke structuren wordt gekeken naar bredere fietspaden en fietsstraten zodat dit bij verschillende snelheden van fietsers leidt tot minder ongelukken.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 925508,
+            "weight": 1.9779801957855312
+        },
+        {
+            "id": 1141020,
+            "weight": 0.36771837596856893
+        },
+        {
+            "id": 1053138,
+            "weight": 0.20316976736387746
+        },
+        {
+            "id": "a_7038460",
+            "weight": 0.16295514434108302
+        },
+        {
+            "id": 771653,
+            "weight": 0.1583802489235123
+        }
+    ],
+    "videostarttime": {
+        "1147888": 20325
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_12.03.24_NC_EINDHOVEN_Raadsvergadering.mp4/playlist.m3u8",
+    "keywords": {
+        "Wethouder Esselbrugge": 0.9960818025970781,
+        "Bredere fietspaden": 1.9925889605287583,
+        "Esselbrugge zegt": 0.9898197947019042,
+        "omarmen waarbij": 0.9870950010367912,
+        "snel fietsen": 1.980713716339857,
+        "stedelijke structuren": 0.9807137163398568,
+        "verschillende snelheden": 0.9807137163398568,
+        "fietsers leidt": 0.9807137163398568,
+        "fietsstraten zodat": 0.980100004780409,
+        "Veilig": 1.9467270816166349,
+        "Wethouder": 0.9467270816166349,
+        "Motie": 1.9385463106066727,
+        "Bredere": 1.929076656408336,
+        "iedereen": 1.907378230341203,
+        "waarbij": 0.9073782303412029,
+        "ongelukken": 0.9073782303412029,
+        "snel": 1.8624450621530195,
+        "zegt": 0.8624450621530195,
+        "omarmen": 0.8624450621530195,
+        "stedelijke": 0.8624450621530195,
+        "structuren": 0.8624450621530195,
+        "gekeken": 0.8624450621530195,
+        "zodat": 0.8624450621530195,
+        "leidt": 0.8624450621530195
+    },
+    "svz": null,
+    "afgedaan": "03-09-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

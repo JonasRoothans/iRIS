@@ -1,0 +1,69 @@
+{
+    "module_id": 891115,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 231116,
+    "title": "Weerbare overheid - Raadsvoorstel Vaststellen Begroting 2024",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/891115",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "J. Dijsselbloem (Burgemeester)",
+    "result": "",
+    "date": "31-10-2023",
+    "meeting_url": {
+        "1153547": "https://raadsinformatie.eindhoven.nl/vergadering/1153547#ai_7885375"
+    },
+    "attachment": null,
+    "parent": 879979,
+    "children": [],
+    "text": "Burgemeester Dijsselbloem zegt toe om de raad te informeren doormiddel van een raadsinformatiebrief over weerbare overheid, plan van aanpak en personele inzet.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1027587,
+            "weight": 0.6387865014974247
+        },
+        {
+            "id": 945574,
+            "weight": 0.5601122256249046
+        },
+        {
+            "id": 945685,
+            "weight": 0.24126182599924936
+        }
+    ],
+    "videostarttime": {
+        "1153547": null
+    },
+    "videolink": null,
+    "keywords": {
+        "Raadsvoorstel Vaststellen": 1.9942255759236294,
+        "Vaststellen Begroting": 1.9942255759236294,
+        "Burgemeester Dijsselbloem": 0.9942255759236293,
+        "Weerbare overheid": 1.9918355768024778,
+        "Dijsselbloem zegt": 0.9829242431044253,
+        "personele inzet": 0.9794166714683752,
+        "informeren doormiddel": 0.9658687051637375,
+        "overheid": 1.9593164607784943,
+        "Begroting": 1.9378744897269777,
+        "Burgemeester": 0.9378744897269777,
+        "Weerbare": 1.901271501274267,
+        "plan": 0.8889857844605916,
+        "inzet": 0.8889857844605916,
+        "zegt": 0.8183277722563624,
+        "raad": 0.8183277722563624,
+        "informeren": 0.8183277722563624,
+        "doormiddel": 0.8183277722563624,
+        "raadsinformatiebrief": 0.8183277722563624,
+        "aanpak": 0.8183277722563624
+    },
+    "svz": "COLLEGE: GRAAG AFVOEREN. Op 12 juni heeft het college een raadsinformatiebrief met Plan van Aanpak naar de raa...  Lees verder ",
+    "afgedaan": "03-09-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

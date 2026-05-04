@@ -1,0 +1,246 @@
+{
+    "module_id": 867120,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Collegebrief Publicatie algoritmen in landelijk algoritmeregister",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/8/Raadsinformatiebrieven/867120",
+    "type": "Collegebrief",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "28-07-2023",
+    "meeting_url": null,
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/13021498/2/23bst00997+Collegebrief+Publicatie+algoritmen+in+landelijk+algoritmeregister?connection_type=17&connection_id=9635300",
+    "pdf_text": " \n \n \n Retouradres Postbus 90150,  \n5600 RB Eindhoven  \nDe leden van de raad van de gemeente \nEindhoven   gemeente Eindhoven  \nInboeknummer     23bst00997  \nDossiernummer    23.28.404  \nB&W beslisdatum  11 juli 2023 \n \nCollege   brief      \n \n \nBetreft : publicatie algoritmen in landelijk algoritmeregister  \n \n \n \nGeachte leden van de raad,  \n \nIn december 2022 lanceerde staatssecretaris Van Huffelen de eerste versie \nvan het Algoritmeregister van de Nederlandse overheid. Sindsdien kan elke \noverheidsorganisatie algoritmes in het Algori tmeregister publiceren. Vanuit \nEindhoven zijn we per 1 juli op aangesloten bij dit register. Hiermee geven \nwe invulling aan de vrije motie  ”Computer says no ”. Hiermee geven we \nuitvoering aan een ambitie uit het bestuursakkoord “Samen morgen mooier \nmaken ”. Het Eindhovense belang van transparantie is daarin verwoord.  \n \nTwee categorieën algoritmen publiceren  \nZoals in het bestuursakkoord verwoord is , willen we publiekelijk \nverantwoorden welke keuzes we maken en waarom. Door onze algoritmen \nopenbaar te maken, laten we zien welke set van regels en instructies \ncomputersystemen gebruiken om berekeningen te maken.  \nZoals ook opgenomen in de principes van de iStrategie : we toetsen onze \ndigitaliseringsactiviteiten altijd aan onze publieke waarden  en we handelen \nmensgericht en transparant waar het gaat om data en algoritmen.  \n \nBij het landelijke Algoritmeregister is een handreiking Algoritmeregister  \nopgesteld door het ministerie van Binnenlandse Zaken en \nKoninkrijksrelaties . Hierin staat onder ander het hulpmiddel ‘selectie’. Dit \nhulpmiddel geeft de verschillende categorieën algoritmen weer ingedeeld \nnaar mate van impact. Deze indeling hebben we toegepast op on ze \nalgoritmen. In figuur 1 is de indeling naar categorieën opgenomen.   \n \nFiguur 1: Hulpmiddel selectie   \n \n Inboeknummer  23bst00997  \n \n  \n \n 2 \n \nBron: handreiking Algoritmeregister  \n \nDe categorieën A Hoog risico volgens AI act en B Impact op betrokken \nhebben wij nu gepubliceerd. In totaal gaat he t om twee  algoritmen die \nvallen onder categorie B  (zie bijlage 1) . Het algoritmen dat valt onder \ncategorie C heeft een lage impact waardoor gekozen is deze niet te \npubliceren.  Het beheer van registratie van algoritmen ligt voorlopig \ngedurende deze opstartfase bij de CIO-office . \n \nLandelijk algoritmeregister is in ontwikkeling  \nHet landelijke algoritmeregister is zelf nog in ontwikkeling. Nieuwe inzichten \nen ontwikkelingen worden op de voet gevolg . Een voorbeeld van een \nontwikkeling kan zijn dat het verplicht wordt om algoritmen in het landelijke \nregister te registeren.  \nDe Autoriteit Persoonsgegevens  is sinds 1 januari 2023 verantwoordelijk \nvoor het toezicht op de zorgvuldige toepa ssing van risicovolle algoritmen.  \n \nMet vriendelijke groeten  \nBurgemeester en wethouders van Eindhoven,  \n \n \n \n \nsecretaris  \n \nBijlagen  \nBijlage 1 Algoritmen tbv landelijk algoritme register  \n",
+    "bst": "23bst00997",
+    "related": [
+        {
+            "id": 1129193,
+            "weight": 0.9635642407054822
+        },
+        {
+            "id": 888562,
+            "weight": 0.8486667442271876
+        },
+        {
+            "id": 1137969,
+            "weight": 0.6258344059256782
+        },
+        {
+            "id": 1137967,
+            "weight": 0.6087312342856133
+        },
+        {
+            "id": 803379,
+            "weight": 0.47267736774378527
+        },
+        {
+            "id": 865876,
+            "weight": 0.46009344627349386
+        },
+        {
+            "id": 853688,
+            "weight": 0.38456748576573685
+        },
+        {
+            "id": 857640,
+            "weight": 0.3837633192860397
+        },
+        {
+            "id": 857632,
+            "weight": 0.37934026030383183
+        },
+        {
+            "id": "ai_6964963",
+            "weight": 0.36699997863217976
+        },
+        {
+            "id": 918662,
+            "weight": 0.31821260272772967
+        },
+        {
+            "id": 1140925,
+            "weight": 0.262194777345029
+        },
+        {
+            "id": 876719,
+            "weight": 0.23655582157226526
+        },
+        {
+            "id": 1118032,
+            "weight": 0.22768498363560344
+        },
+        {
+            "id": 827895,
+            "weight": 0.18798273722848324
+        },
+        {
+            "id": 858025,
+            "weight": 0.16126400622973938
+        },
+        {
+            "id": 800361,
+            "weight": 0.14064769340709696
+        },
+        {
+            "id": 1009576,
+            "weight": 0.13912674050975357
+        },
+        {
+            "id": 888337,
+            "weight": 0.13472404770592006
+        },
+        {
+            "id": 1106621,
+            "weight": 0.13408669462090264
+        },
+        {
+            "id": 983014,
+            "weight": 0.13006170456365154
+        },
+        {
+            "id": 1031043,
+            "weight": 0.12935720920025046
+        },
+        {
+            "id": 787182,
+            "weight": 0.12794153093305444
+        },
+        {
+            "id": 869931,
+            "weight": 0.12644461894756337
+        },
+        {
+            "id": 995757,
+            "weight": 0.12627485148825543
+        },
+        {
+            "id": 1038652,
+            "weight": 0.12516015156938723
+        },
+        {
+            "id": 872243,
+            "weight": 0.11957174453740628
+        },
+        {
+            "id": 1009569,
+            "weight": 0.11658425569228241
+        },
+        {
+            "id": 776895,
+            "weight": 0.11129811440748957
+        },
+        {
+            "id": 882851,
+            "weight": 0.10890567234966743
+        },
+        {
+            "id": 863437,
+            "weight": 0.10774835802342143
+        },
+        {
+            "id": 777034,
+            "weight": 0.09789436085211203
+        },
+        {
+            "id": 776897,
+            "weight": 0.09196165186478177
+        },
+        {
+            "id": 1045412,
+            "weight": 0.07983874566228111
+        },
+        {
+            "id": 969742,
+            "weight": 0.07863894728896807
+        },
+        {
+            "id": 979186,
+            "weight": 0.05750545229363663
+        },
+        {
+            "id": 1022333,
+            "weight": 0.054387357776903365
+        },
+        {
+            "id": 1123237,
+            "weight": 0.04938444922621915
+        },
+        {
+            "id": 973945,
+            "weight": 0.04452274080228602
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Retouradres Postbus": 0.9951837825258505,
+        "Geachte leden": 0.9895176132902074,
+        "gemeente Eindhoven": 0.9859100998098408,
+        "Nederlandse overheid": 0.9852745166853001,
+        "College brief": 0.9849395259267428,
+        "brief Betreft": 0.9849395259267428,
+        "Collegebrief Publicatie": 1.9831018302656371,
+        "Publicatie algoritmen": 1.980052697767197,
+        "algoritmeregister Retouradres": 0.9759199807539417,
+        "Eindhoven gemeente": 0.9718201996196816,
+        "algoritmen": 1.9640181230128262,
+        "Eindhoven": 0.9621536613256263,
+        "Publicatie": 1.9589920861646557,
+        "lanceerde staatssecretaris": 0.952966325070641,
+        "landelijk algoritmeregister": 1.9421449884608264,
+        "Dossiernummer": 0.9377945184465792,
+        "Postbus": 0.9330789120339393,
+        "Huffelen": 0.928376348168574,
+        "leden": 0.927582258973721,
+        "raad": 0.927582258973721,
+        "gemeente": 0.927582258973721,
+        "landelijk": 1.8873766063375599,
+        "maken": 0.8746946168798031,
+        "categorieën": 0.8636473485861506,
+        "hulpmiddel": 0.8391094121193495,
+        "juli": 0.8345196460889485,
+        "impact": 0.8324947854986562,
+        "ontwikkeling": 0.798103748761952,
+        "beslisdatum": 0.79738829535612,
+        "december": 0.79738829535612,
+        "lanceerde": 0.79738829535612,
+        "overheid": 0.79738829535612,
+        "register": 1.7934680832471157,
+        "brief": 1.7782907907411565,
+        "versie": 0.7782907907411565,
+        "Binnenlandse Zaken": 0.7763917587265954,
+        "Hiermee": 0.7707287113594533,
+        "bijlage": 0.7616288817881174,
+        "Computer says": 0.755347306833503,
+        "bestuursakkoord": 0.7236771152734944,
+        "Autoriteit Persoonsgegevens": 0.7106939982281414,
+        "Samen morgen": 0.7095105306873968,
+        "verwoord": 0.7063935312862597,
+        "Bijlagen Bijlage": 0.7053853811829254,
+        "figuur": 0.6978634928618581,
+        "handreiking": 0.6895722412124509,
+        "Twee": 0.6810828069960444,
+        "opgenomen": 0.6810828069960444,
+        "selectie Inboeknummer": 0.6788266164466226,
+        "gaat": 0.6776562945700291,
+        "algoritmen publiceren": 0.659682542404924,
+        "Koninkrijksrelaties": 0.5902686785317546,
+        "Bron": 0.5816492934175206,
+        "Hoog": 0.5444998681046391,
+        "overheidsorganisatie algoritmes": 0.5394797704206138,
+        "Autoriteit": 0.5263029070300291
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": null,
+    "meeting_id": []
+}

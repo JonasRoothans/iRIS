@@ -1,0 +1,41 @@
+{
+    "module_id": 12954265,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "2. Rondvraag - Meer weten scannen maar (D66 en FvD)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "04-07-2023",
+    "meeting_url": {
+        "1119171": "https://raadsinformatie.eindhoven.nl/vergadering/1013500/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://api.notubiz.nl/document/12954265/2",
+    "pdf_text": "",
+    "bst": null,
+    "related": [],
+    "videostarttime": {
+        "1119171": 9458
+    },
+    "videolink": null,
+    "keywords": {
+        "Rondvraag": 1.82118245171742,
+        "FvD": 1.5344664897230191
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1119171
+    ]
+}

@@ -1,0 +1,158 @@
+{
+    "module_id": 872078,
+    "vote_id": null,
+    "member_id": [
+        42090
+    ],
+    "party_list": [
+        "LPF "
+    ],
+    "poho_id": [],
+    "title": "Beantwoording raadsvragen Waarom niet gewoon een Nederlandse bank (LPF)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/4/Raadsvragen/872078",
+    "type": "Raadsvraag",
+    "member": "Rudy Reker",
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "29-08-2023",
+    "meeting_url": null,
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/13076796/2?connection_type=17&connection_id=9688600": "Vraag",
+        "https://raadsinformatie.eindhoven.nl/document/13226705/3?connection_type=17&connection_id=9787625": "Antwoord"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/13076796/2?connection_type=17&connection_id=9688600",
+    "pdf_text": " \n \n \nRaadsvragen: Waarom niet gewoon een Nederlandse bank?  \n \n           29 augustus 2023,  \n \nVerschillende scholen in Zuidoost -Brabant zijn getroffen door het faillissement van de Litouwse \nbank UAB PayrNet  en lijden duizenden euro’s verlies.  Vooral voor schoolreisjes gebruiken de \nscholen massaal prepaid -betaalkaarten van SimpledCard. Maar tegoeden die bij de Litouwse bank \nwerden geparkeerd, blijken niet gegarandeerd.  Dit mochten wij enkele dagen geleden in het ED \nlezen.  \n \nWij hoeven maar tot 2008 terug te gaan waarbij Icesave,  een gerenommeerde bank in IJsland \nfailliet is gegaan. Duizenden Nederlanders, maar ook gemeenten en provincies waren daar toen \nslachtoffer  van. Van deze gebeurtenis lijkt mij, had men toch van kunnen leren.  \n \nDat brengt mij tot de volgende vragen.  \n \n1. Wat betekent dit concreet voor alle scholen in Eindhoven?  \n2. Heeft dit ook nog financiële consequenties voor onze gemeente?  \n3. Kunt u aangeven hoe groot  het totaal verlies , bij voorkeur per school tot op heden is?  \n4. Waarom houden scholen een minder veilige bank in het buitenland aan i.p.v. een bank in \neigen land?  \n5. Zijn hierover afspraken tussen de gemeente, het college en de scholen in onze gemeente?  \n6. Hoe is het (toe)zicht van het college op andere gesubsidieerde instellingen (domein welzijn \nen zorg) die mogelijkerwijs ook een minder veilige bank gebruiken en wat is hiervan de \nactuele  situatie?  \n7. Wat vindt de Provincie en onze huisaccountant  van deze situatie?  \n \n \n \nRudy Reker  \n \n  \n",
+    "bst": "23bst01342",
+    "related": [
+        {
+            "id": 936504,
+            "weight": 0.4261916053467566
+        },
+        {
+            "id": 984141,
+            "weight": 0.2766699711976897
+        },
+        {
+            "id": 795654,
+            "weight": 0.23426761544426833
+        },
+        {
+            "id": 922219,
+            "weight": 0.20665734824024584
+        },
+        {
+            "id": 775126,
+            "weight": 0.19234471982473422
+        },
+        {
+            "id": 894956,
+            "weight": 0.19120845542976006
+        },
+        {
+            "id": 977700,
+            "weight": 0.18219876432326687
+        },
+        {
+            "id": 1123046,
+            "weight": 0.1332432109178015
+        },
+        {
+            "id": 958683,
+            "weight": 0.13282972200529014
+        },
+        {
+            "id": 775301,
+            "weight": 0.12781486065575712
+        },
+        {
+            "id": 12604245,
+            "weight": 0.12178817636369987
+        },
+        {
+            "id": 1088145,
+            "weight": 0.12089875397844829
+        },
+        {
+            "id": 1145711,
+            "weight": 0.11864975853310449
+        },
+        {
+            "id": 807093,
+            "weight": 0.09183668906014524
+        },
+        {
+            "id": 1080504,
+            "weight": 0.08284893900084116
+        },
+        {
+            "id": 14236769,
+            "weight": 0.07724362633006755
+        },
+        {
+            "id": 15620375,
+            "weight": 0.07028034534644421
+        },
+        {
+            "id": 14252624,
+            "weight": 0.06990219903065735
+        },
+        {
+            "id": 957736,
+            "weight": 0.06882109250277686
+        },
+        {
+            "id": 853521,
+            "weight": 0.06788543313222128
+        },
+        {
+            "id": 1144336,
+            "weight": 0.0641637622047902
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Nederlandse bank": 1.986504135638016,
+        "Beantwoording raadsvragen": 1.9805502912613613,
+        "raadsvragen": 1.9489816582542785,
+        "bank": 1.9418774872316793,
+        "LPF": 1.9416436653455629,
+        "Litouwse bank": 0.9405832741268833,
+        "scholen": 0.8894223735962556,
+        "bank UAB": 0.8837069542673239,
+        "Verschillende scholen": 0.874925000247144,
+        "UAB PayrNet": 0.8748375361948024,
+        "gemeente": 0.8309658826993223,
+        "veilige bank": 0.8037483380068879,
+        "Zuidoost": 0.7989279208818253,
+        "Brabant": 0.7989279208818253,
+        "UAB": 0.7759519557932733,
+        "verlies": 0.7284932327525551,
+        "Duizenden Nederlanders": 0.7216370573246916,
+        "duizenden": 0.7116260435648654,
+        "situatie": 0.693248164885928,
+        "college": 0.6734454832934058,
+        "gebruiken": 0.6723516157978171,
+        "waarbij Icesave": 0.6696719544827368,
+        "Icesave": 0.6393472394265671,
+        "augustus": 0.6130840094287009,
+        "Eindhoven": 0.5877678625081184,
+        "Reker": 0.5458229830141272,
+        "massaal prepaid": 0.535643460590786,
+        "gerenommeerde bank": 0.5291219030665447,
+        "scholen massaal": 0.5163535842078602,
+        "Rudy Reker": 0.5087323400173123,
+        "faillissement": 0.5035017626093545,
+        "lijden": 0.5035017626093545,
+        "euro": 0.5035017626093545
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 42090,
+    "lastScrapeDate": "02-04-2026",
+    "meeting_id": []
+}

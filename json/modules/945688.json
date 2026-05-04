@@ -1,0 +1,105 @@
+{
+    "module_id": 945688,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Buurtagenda - Raadsvoorstel Kadernota 2025",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/945688",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "21-05-2024",
+    "meeting_url": {
+        "1147935": "https://raadsinformatie.eindhoven.nl/vergadering/1147935#ai_8359842"
+    },
+    "attachment": null,
+    "parent": 933747,
+    "children": [],
+    "text": "Stadsgezant Bellemakers (o.v.v. wethouder Verhees) zegt toe per buurt ijn dire punten benoemend waaraan dit jaar gewerkt wordt. De raad wordt hierover geïnformeerd.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 891782,
+            "weight": 0.2349128003385749
+        },
+        {
+            "id": 1020312,
+            "weight": 0.22025429283687567
+        },
+        {
+            "id": 1034753,
+            "weight": 0.18041219734881422
+        },
+        {
+            "id": 850907,
+            "weight": 0.13942432271742397
+        },
+        {
+            "id": 966869,
+            "weight": 0.12113627255919937
+        },
+        {
+            "id": "a_8235311",
+            "weight": 0.1176547434537499
+        },
+        {
+            "id": 946362,
+            "weight": 0.1087919389493548
+        },
+        {
+            "id": 879018,
+            "weight": 0.1057673649480674
+        },
+        {
+            "id": 1080504,
+            "weight": 0.10524223963802912
+        },
+        {
+            "id": 776981,
+            "weight": 0.09935077403350609
+        },
+        {
+            "id": 975323,
+            "weight": 0.09322561860616854
+        }
+    ],
+    "videostarttime": {
+        "1147935": 11473
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_21.05.24_NC_Eindhoven_Raad.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Kadernota": 1.9956397929450427,
+        "Stadsgezant Bellemakers": 0.9956397929450427,
+        "wethouder Verhees": 0.9917872601536462,
+        "per buurt": 0.958112533588375,
+        "buurt ijn": 0.958112533588375,
+        "ijn dire": 0.958112533588375,
+        "dire punten": 0.958112533588375,
+        "punten benoemend": 0.958112533588375,
+        "benoemend waaraan": 0.958112533588375,
+        "jaar gewerkt": 0.958112533588375,
+        "Kadernota": 1.934111623307328,
+        "Stadsgezant": 0.9341116233073281,
+        "Bellemakers": 0.9341116233073281,
+        "Verhees": 0.9341116233073281,
+        "zegt": 0.8763690867947806,
+        "hierover geïnformeerd": 0.8192443531320843,
+        "per": 0.7994920302806434,
+        "ijn": 0.7994920302806434,
+        "dire": 0.7994920302806434,
+        "waaraan": 0.7994920302806434,
+        "jaar": 0.7994920302806434,
+        "raad": 0.5344664897230191,
+        "hierover": 0.5344664897230191
+    },
+    "svz": null,
+    "afgedaan": "03-09-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

@@ -1,0 +1,80 @@
+{
+    "module_id": 1126328,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230024,
+    "title": "Raadsvoorstel Strategische koers Ergon 2027 -2032",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1126328",
+    "type": "Toezegging",
+    "member": "",
+    "party": "",
+    "poho": "S. Lammers (Wethouder)",
+    "result": "",
+    "date": "20-01-2026",
+    "meeting_url": {
+        "1374857": "https://raadsinformatie.eindhoven.nl/vergadering/1374857#ai_9859488"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": "Wethouder Lammers zegt toe de raad op de hoogte te houden van de tussentijdse evaluatie van Ergon.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": "a_9977815",
+            "weight": 1.0824669142164123
+        },
+        {
+            "id": 1106072,
+            "weight": 0.9905118839581142
+        },
+        {
+            "id": 941316,
+            "weight": 0.5165344479069297
+        },
+        {
+            "id": 1145711,
+            "weight": 0.4883689251627453
+        },
+        {
+            "id": 1104171,
+            "weight": 0.41925788489086907
+        },
+        {
+            "id": 816586,
+            "weight": 0.19222755193153293
+        },
+        {
+            "id": 853743,
+            "weight": 0.1705601031700281
+        }
+    ],
+    "videostarttime": {
+        "1374857": 2542
+    },
+    "videolink": null,
+    "keywords": {
+        "Wethouder Lammers": 0.9963382832242549,
+        "Raadsvoorstel Strategische": 1.9937791520785302,
+        "koers Ergon": 1.9927904871528683,
+        "Strategische koers": 1.9907055857825466,
+        "Lammers zegt": 0.9907055857825467,
+        "tussentijdse evaluatie": 0.9828812762754603,
+        "Ergon": 1.9724128879692535,
+        "Raadsvoorstel": 1.9129032426367572,
+        "koers": 1.8702671774635906,
+        "zegt": 0.8702671774635906,
+        "raad": 0.8702671774635906,
+        "hoogte": 0.8702671774635906,
+        "houden": 0.8702671774635906,
+        "evaluatie": 0.8702671774635906
+    },
+    "svz": "",
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "08-04-2026",
+    "meeting_id": []
+}

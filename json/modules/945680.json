@@ -1,0 +1,99 @@
+{
+    "module_id": 945680,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230022,
+    "title": "Ouderenbeleid - Raadsvoorstel Kadernota 2025",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/945680",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Toub (Wethouder)",
+    "result": "",
+    "date": "21-05-2024",
+    "meeting_url": {
+        "1147935": "https://raadsinformatie.eindhoven.nl/vergadering/1147935#ai_8359842"
+    },
+    "attachment": null,
+    "parent": 933747,
+    "children": [],
+    "text": "Wethouder Toub zegt toe zich op de verkenning richting begroting het meenemen van effectindicatoren.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 974801,
+            "weight": 0.4658812700948048
+        },
+        {
+            "id": 931317,
+            "weight": 0.38960899654952474
+        },
+        {
+            "id": 837030,
+            "weight": 0.38388522834607414
+        },
+        {
+            "id": 933747,
+            "weight": 0.32505576889441645
+        },
+        {
+            "id": 984972,
+            "weight": 0.277316836972317
+        },
+        {
+            "id": 956743,
+            "weight": 0.17272874412548203
+        },
+        {
+            "id": 849282,
+            "weight": 0.08156461900720972
+        },
+        {
+            "id": 864037,
+            "weight": 0.07768228772837699
+        },
+        {
+            "id": 913896,
+            "weight": 0.07366973190899953
+        },
+        {
+            "id": 864019,
+            "weight": 0.07131882658893064
+        },
+        {
+            "id": 845128,
+            "weight": 0.06655384442142033
+        },
+        {
+            "id": 15563305,
+            "weight": 0.06047418327552153
+        }
+    ],
+    "videostarttime": {
+        "1147935": 11473
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_21.05.24_NC_Eindhoven_Raad.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Kadernota": 1.9925553183866471,
+        "Wethouder Toub": 0.9873976398760466,
+        "Ouderenbeleid": 1.9550880231213545,
+        "Toub zegt": 0.955011371234592,
+        "Kadernota": 1.9140368224837343,
+        "verkenning richting": 0.9029960071342576,
+        "richting begroting": 0.9029960071342576,
+        "Toub": 0.8552226942577967,
+        "effectindicatoren": 0.8416830712200127,
+        "zegt": 0.7026344174397849,
+        "richting": 0.7026344174397849,
+        "begroting": 0.7026344174397849,
+        "meenemen": 0.7026344174397849
+    },
+    "svz": "VOORSTEL COLLEGE: AFVOERENEr is gevraagd om effect-indicatoren rondom het ouderenbeleid op te nemen. Voor 2025...  Lees verder ",
+    "afgedaan": "03-09-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

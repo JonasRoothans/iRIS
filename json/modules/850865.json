@@ -1,0 +1,91 @@
+{
+    "module_id": 850865,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230022,
+    "title": "Reserve opvang Oekraïners - Raadsvoorstel Kadernota 2024",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/850865",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Toub (Wethouder)",
+    "result": "",
+    "date": "23-05-2023",
+    "meeting_url": {
+        "1096274": "https://raadsinformatie.eindhoven.nl/vergadering/1096274#ai_7491703"
+    },
+    "attachment": null,
+    "parent": 837030,
+    "children": [],
+    "text": "Wethouder Toub zegt toe:\ndeze ook in te zetten voor projecten in de buurt om mensen uit verschillende windstreken te verbinden.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1018090,
+            "weight": 0.30872310132606556
+        },
+        {
+            "id": 1036323,
+            "weight": 0.19959333314729977
+        },
+        {
+            "id": 1064230,
+            "weight": 0.08818426907571447
+        },
+        {
+            "id": "a_7038460",
+            "weight": 0.08588303669501568
+        },
+        {
+            "id": 771653,
+            "weight": 0.08566036208275077
+        },
+        {
+            "id": 1118702,
+            "weight": 0.08178020736914841
+        },
+        {
+            "id": "a_9477053",
+            "weight": 0.07708334369854075
+        },
+        {
+            "id": 1081289,
+            "weight": 0.06656269559357891
+        },
+        {
+            "id": 1132466,
+            "weight": 0.05138825425414334
+        }
+    ],
+    "videostarttime": {
+        "1096274": 12343
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_23.05.23_Eindhoven_NC_Meningsvorming.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Kadernota": 1.9967389880162214,
+        "Wethouder Toub": 0.9950748962302097,
+        "opvang Oekraïners": 1.9908917626905767,
+        "Toub zegt": 0.986202801796007,
+        "Reserve opvang": 1.9846191788281082,
+        "verschillende windstreken": 0.9742913828560066,
+        "Kadernota": 1.9429876123096683,
+        "Toub": 0.9140368224837344,
+        "Reserve": 1.9043195497355658,
+        "verbinden": 0.9043195497355658,
+        "opvang": 1.8416830712200127,
+        "zegt": 0.8416830712200127,
+        "zetten": 0.8416830712200127,
+        "projecten": 0.8416830712200127,
+        "buurt": 0.8416830712200127,
+        "mensen": 0.8416830712200127,
+        "windstreken": 0.8416830712200127
+    },
+    "svz": null,
+    "afgedaan": "26-08-2025",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

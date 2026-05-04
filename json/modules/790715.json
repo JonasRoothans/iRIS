@@ -1,0 +1,88 @@
+{
+    "module_id": 790715,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": null,
+    "title": "Hubs",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/790715",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Esselbrugge (Wethouder)",
+    "result": "",
+    "date": "01-11-2022",
+    "meeting_url": {
+        "1034745": "https://raadsinformatie.eindhoven.nl/vergadering/1034745#ai_7087454"
+    },
+    "attachment": null,
+    "parent": "ai_7087454",
+    "children": [],
+    "text": "Het (multifunctionele) gebruik van de hubs onder de aandacht te zullen brengen bij het bedrijfsleven.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 777444,
+            "weight": 0.4537427439604724
+        },
+        {
+            "id": 938795,
+            "weight": 0.312550557462357
+        },
+        {
+            "id": 785216,
+            "weight": 0.25550507956865726
+        },
+        {
+            "id": 1139858,
+            "weight": 0.2528398890696098
+        },
+        {
+            "id": 906466,
+            "weight": 0.25277543519254947
+        },
+        {
+            "id": "a_7585783",
+            "weight": 0.20752338858823668
+        },
+        {
+            "id": 1009635,
+            "weight": 0.18329155292900354
+        },
+        {
+            "id": 1125072,
+            "weight": 0.14234753503124611
+        },
+        {
+            "id": 1015984,
+            "weight": 0.11415340995267546
+        },
+        {
+            "id": "a_9477017",
+            "weight": 0.10467177884840928
+        },
+        {
+            "id": "a_9477086",
+            "weight": 0.1035273994898253
+        }
+    ],
+    "videostarttime": {
+        "1034745": 17716
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_01.11.22_NC_Eindhoven_CIE.mp4/playlist.m3u8",
+    "keywords": {
+        "multifunctionele": 0.9460634396629825,
+        "gebruik": 0.8863079377134112,
+        "bedrijfsleven": 0.8863079377134112,
+        "Hubs": 1.8654616488366833,
+        "aandacht": 0.8143015634365182,
+        "brengen": 0.8143015634365182
+    },
+    "svz": null,
+    "afgedaan": "31-12-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

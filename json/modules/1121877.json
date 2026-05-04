@@ -1,0 +1,115 @@
+{
+    "module_id": 1121877,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230014,
+    "title": "Trefpunt Groen Eindhoven",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1121877",
+    "type": "Toezegging",
+    "member": "",
+    "party": "",
+    "poho": "R. Thijs (Wethouder)",
+    "result": "",
+    "date": "06-01-2026",
+    "meeting_url": {
+        "1374826": "https://raadsinformatie.eindhoven.nl/vergadering/1374826#ai_9410303"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": "Wethouder Thijs zegt toe schriftelijk terug te komen op de gestelde vragen.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 779484,
+            "weight": 0.11772666076854796
+        },
+        {
+            "id": 779485,
+            "weight": 0.11686280727672362
+        },
+        {
+            "id": 904196,
+            "weight": 0.08914903091192813
+        },
+        {
+            "id": 1060110,
+            "weight": 0.08913939794590832
+        },
+        {
+            "id": 906717,
+            "weight": 0.08880149213917263
+        },
+        {
+            "id": 1009794,
+            "weight": 0.08767252395613147
+        },
+        {
+            "id": 966048,
+            "weight": 0.0869590207850129
+        },
+        {
+            "id": 865499,
+            "weight": 0.08508898406039518
+        },
+        {
+            "id": 931952,
+            "weight": 0.0832991679709632
+        },
+        {
+            "id": 1057251,
+            "weight": 0.07781802992512879
+        },
+        {
+            "id": 854132,
+            "weight": 0.07599258894071331
+        },
+        {
+            "id": 1124788,
+            "weight": 0.07105981986956193
+        },
+        {
+            "id": 966055,
+            "weight": 0.06531505299697465
+        },
+        {
+            "id": "r_7006036",
+            "weight": 0.06493853913208156
+        },
+        {
+            "id": "r_7006030",
+            "weight": 0.06489544436232073
+        },
+        {
+            "id": 955252,
+            "weight": 0.062118488385236814
+        }
+    ],
+    "videostarttime": {
+        "1374826": 5412
+    },
+    "videolink": null,
+    "keywords": {
+        "Groen Eindhoven": 1.9785907845614,
+        "Eindhoven Wethouder": 0.9785907845613998,
+        "Wethouder Thijs": 0.9785907845613998,
+        "Trefpunt Groen": 1.9765416191248102,
+        "Thijs zegt": 0.955011371234592,
+        "gestelde vragen": 0.9505961599793437,
+        "schriftelijk terug": 0.9029960071342576,
+        "Groen": 1.8552226942577967,
+        "Thijs": 0.8552226942577967,
+        "vragen": 0.8416830712200127,
+        "zegt": 0.7026344174397849,
+        "terug": 0.7026344174397849,
+        "komen": 0.7026344174397849
+    },
+    "svz": "Beantwoording is verstuurd met raadsbrief d.d. 16 januari 2026.\nVoorstel college: afvoeren",
+    "afgedaan": "03-02-2026",
+    "eersteIndiener": null,
+    "lastScrapeDate": "08-04-2026",
+    "meeting_id": []
+}

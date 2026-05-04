@@ -1,0 +1,119 @@
+{
+    "module_id": 881034,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230013,
+    "title": "Ingebrachte punten - Commissienotitie Regionale Visie Werklocaties",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/881034",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Steenbakkers (Wethouder)",
+    "result": "",
+    "date": "26-09-2023",
+    "meeting_url": {
+        "1142076": "https://raadsinformatie.eindhoven.nl/vergadering/1142076#ai_7818767"
+    },
+    "attachment": null,
+    "parent": 873163,
+    "children": [],
+    "text": "Wethouder Steenbakkers zegt toe:\nbij het definitieve raadsvoorstel expliciet te vermelden welke ingebrachte punten vanuit Eindhoven wel en niet zijn overgenomen.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 881030,
+            "weight": 2.7909995923836397
+        },
+        {
+            "id": 881033,
+            "weight": 2.7867385238203175
+        },
+        {
+            "id": 894988,
+            "weight": 1.13574622447431
+        },
+        {
+            "id": 984905,
+            "weight": 0.8521097724339455
+        },
+        {
+            "id": 873163,
+            "weight": 0.5676464265210207
+        },
+        {
+            "id": 1043848,
+            "weight": 0.5302503367982219
+        },
+        {
+            "id": 831137,
+            "weight": 0.4886866322631613
+        },
+        {
+            "id": 849289,
+            "weight": 0.485227944799764
+        },
+        {
+            "id": 849081,
+            "weight": 0.4846479753907608
+        },
+        {
+            "id": 883443,
+            "weight": 0.2606109627031764
+        },
+        {
+            "id": 973945,
+            "weight": 0.10221693789612338
+        },
+        {
+            "id": 822251,
+            "weight": 0.10188109249853214
+        },
+        {
+            "id": 1149150,
+            "weight": 0.09356738451300693
+        },
+        {
+            "id": "a_9606554",
+            "weight": 0.0855246454475953
+        },
+        {
+            "id": "a_9606551",
+            "weight": 0.08534284402876988
+        },
+        {
+            "id": 955449,
+            "weight": 0.06628829761947228
+        }
+    ],
+    "videostarttime": {
+        "1142076": 655
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_26.09.23_Eindhoven_meningsvormingCK.mp4/playlist.m3u8",
+    "keywords": {
+        "Commissienotitie Regionale": 1.9941758988404281,
+        "Regionale Visie": 1.9913184023286292,
+        "Visie Werklocaties": 1.9913184023286292,
+        "Werklocaties Wethouder": 0.9913184023286293,
+        "Wethouder Steenbakkers": 0.9913184023286293,
+        "Steenbakkers zegt": 0.9827229906989855,
+        "Ingebrachte punten": 1.9792598384739533,
+        "definitieve raadsvoorstel": 0.9653249501666379,
+        "raadsvoorstel expliciet": 0.9653249501666379,
+        "Visie": 1.9072267482800471,
+        "Wethouder": 0.9072267482800471,
+        "Eindhoven": 0.9072267482800471,
+        "punten": 1.9002149372428536,
+        "overgenomen": 0.8880602594649631,
+        "zegt": 0.8169344778645228,
+        "definitieve": 0.8169344778645228,
+        "expliciet": 0.8169344778645228
+    },
+    "svz": null,
+    "afgedaan": "10-12-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

@@ -1,0 +1,181 @@
+{
+    "module_id": 15517013,
+    "vote_id": null,
+    "member_id": [
+        137276,
+        194511
+    ],
+    "party_list": [
+        "PvdA",
+        "GroenLinks"
+    ],
+    "poho_id": [],
+    "title": "Rondvraag 1 - PSV kampioen (GL, PvdA)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "08-05-2025",
+    "meeting_url": {
+        "1256605": "https://raadsinformatie.eindhoven.nl/vergadering/1256604/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://api.notubiz.nl/document/15517013/1",
+    "pdf_text": "       \n \n \nRondvraag  \nPSV Kampioen  \n \n \nOp 17 mei kunnen de PSV vrouwen geschiedenis schrijven door voor het eerst \nlandskampioen te worden. Een mooie sportprestatie die erkenning verdient. Toen \nde PSV mannen vorig jaar kampioen werden, was er terecht een huldiging op het \nStadhuis. Gelijke behandeling en waardering zijn belangrijk – zeker ook in de \nsportwereld.  \n \nDaarom hebben GroenLinks en PvdA de volgende vragen:  \n \n1. Is het college het met ons eens dat de mogelijke landstitel van de PSV \nvrouwen een uitzonderlijke prestatie is die een officiële huldiging waard is? \nIs het college bereid om hier actief aan bij te dragen?  \n \n \nEindhoven, 13 mei 2025  \n \n \nDe leden van de raad,  \n \nLotte Meerhoff  (GroenLinks) , raadslid  \nPatrick  van Tuijn (PvdA), raadslid  \n \n \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 1045505,
+            "weight": 0.8815024404881344
+        },
+        {
+            "id": 940702,
+            "weight": 0.7208043586299134
+        },
+        {
+            "id": 943161,
+            "weight": 0.17524406032220974
+        },
+        {
+            "id": "a_7857131",
+            "weight": 0.16903845887230284
+        },
+        {
+            "id": 1009635,
+            "weight": 0.13192913152495941
+        },
+        {
+            "id": 953001,
+            "weight": 0.1279446521559757
+        },
+        {
+            "id": 833997,
+            "weight": 0.12407240918119412
+        },
+        {
+            "id": 1080239,
+            "weight": 0.10103271730907999
+        },
+        {
+            "id": 831516,
+            "weight": 0.09766358268925288
+        },
+        {
+            "id": 1009622,
+            "weight": 0.08963474963266593
+        },
+        {
+            "id": 891429,
+            "weight": 0.08922463991980636
+        },
+        {
+            "id": 970363,
+            "weight": 0.08497698267344825
+        },
+        {
+            "id": 898388,
+            "weight": 0.08436970900890542
+        },
+        {
+            "id": 953603,
+            "weight": 0.0782888615739335
+        },
+        {
+            "id": 1019862,
+            "weight": 0.07461027685269908
+        },
+        {
+            "id": 1034738,
+            "weight": 0.07068819267246694
+        },
+        {
+            "id": 825109,
+            "weight": 0.06661360946570621
+        },
+        {
+            "id": 1051468,
+            "weight": 0.0632426134522743
+        },
+        {
+            "id": 988566,
+            "weight": 0.06286211555295686
+        },
+        {
+            "id": 1077568,
+            "weight": 0.06189734632961159
+        },
+        {
+            "id": 1092345,
+            "weight": 0.06182327920167835
+        },
+        {
+            "id": 933056,
+            "weight": 0.049577888936411706
+        },
+        {
+            "id": 982293,
+            "weight": 0.04709779494523892
+        },
+        {
+            "id": 11753467,
+            "weight": 0.04646428643681845
+        },
+        {
+            "id": 16277684,
+            "weight": 0.03910635970301053
+        },
+        {
+            "id": 851413,
+            "weight": 0.03648148120806616
+        },
+        {
+            "id": 791806,
+            "weight": 0.03398415832659842
+        }
+    ],
+    "videostarttime": {
+        "1256605": 9562
+    },
+    "videolink": null,
+    "keywords": {
+        "Rondvraag PSV": 0.9861040035377038,
+        "PSV kampioen": 1.9749853703932128,
+        "PSV": 1.9632154429850748,
+        "geschiedenis schrijven": 0.9603904653447364,
+        "PSV vrouwen": 0.9544217243165896,
+        "vrouwen geschiedenis": 0.9027141176523105,
+        "Lotte Meerhoff": 0.8324500593261444,
+        "PvdA": 1.8237771275921686,
+        "schrijven": 0.8048067733988428,
+        "mei": 0.7764967527095916,
+        "erkenning verdient": 0.7723543620307898,
+        "Stadhuis": 0.7418584232177331,
+        "mooie sportprestatie": 0.7357101492081708,
+        "huldiging": 0.7310526560566957,
+        "college": 0.7286178318537289,
+        "raadslid": 0.7273646487514933,
+        "raadslid Patrick": 0.7097864255664562,
+        "GroenLinks": 0.707237157628491,
+        "Lotte": 0.6211786860143116,
+        "Tuijn": 0.6211786860143116,
+        "verdient": 0.5944266678718348,
+        "Patrick": 0.5874810042377769,
+        "mannen vorig": 0.5640142703483034,
+        "vorig jaar": 0.5640142703483034,
+        "mooie": 0.5427887404179328,
+        "erkenning": 0.5427887404179328,
+        "Gelijke behandeling": 0.5077712981725407
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194511,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1256605
+    ]
+}

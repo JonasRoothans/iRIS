@@ -1,0 +1,120 @@
+{
+    "module_id": 826273,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 231116,
+    "title": "Organiseren voorbereiding - Raadsvoorstel Beleidskader veiligheid 2023-2026",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/826273",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "J. Dijsselbloem (Burgemeester)",
+    "result": "",
+    "date": "28-02-2023",
+    "meeting_url": {
+        "1059677": "https://raadsinformatie.eindhoven.nl/vergadering/1059677#ai_7356813"
+    },
+    "attachment": null,
+    "parent": 817517,
+    "children": [],
+    "text": "Burgemeester Dijsselbloem zegt toe:\n\nelk jaar een voorbereiding te organiseren over te selecteren thema waarbij maatschappelijke partners en politie worden uitgenodigd (zoals op 5 en 12 december 2022).",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 826266,
+            "weight": 0.9701669160961623
+        },
+        {
+            "id": 826271,
+            "weight": 0.9671368864536208
+        },
+        {
+            "id": 826275,
+            "weight": 0.9659258491293508
+        },
+        {
+            "id": 826277,
+            "weight": 0.965799094021203
+        },
+        {
+            "id": 826276,
+            "weight": 0.9650938198919713
+        },
+        {
+            "id": 826265,
+            "weight": 0.9641878029252444
+        },
+        {
+            "id": 817517,
+            "weight": 0.8219638270895567
+        },
+        {
+            "id": 921456,
+            "weight": 0.42563063806068296
+        },
+        {
+            "id": 861380,
+            "weight": 0.39569163386909784
+        },
+        {
+            "id": 1059753,
+            "weight": 0.32020205452408373
+        },
+        {
+            "id": 911674,
+            "weight": 0.14103938959231152
+        },
+        {
+            "id": 936141,
+            "weight": 0.13722479054711548
+        },
+        {
+            "id": 885531,
+            "weight": 0.13494247204447024
+        },
+        {
+            "id": "a_7462821",
+            "weight": 0.130659836672617
+        },
+        {
+            "id": 1059971,
+            "weight": 0.0858395848584579
+        }
+    ],
+    "videostarttime": {
+        "1059677": 9665
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_28.02.23_NC_Eindhoven_Raadsvergadering.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Beleidskader": 1.9942679770961282,
+        "Burgemeester Dijsselbloem": 0.9914438928933857,
+        "Beleidskader veiligheid": 1.9830951648611799,
+        "2023-2026 Burgemeester": 0.9830951648611799,
+        "Dijsselbloem zegt": 0.9830951648611799,
+        "veiligheid 2023-2026": 1.9663280845135478,
+        "selecteren thema": 0.9663280845135478,
+        "thema waarbij": 0.9663280845135478,
+        "waarbij maatschappelijke": 0.9663280845135478,
+        "maatschappelijke partners": 0.9663280845135478,
+        "december": 0.9478145602483653,
+        "Raadsvoorstel": 1.9381218153480138,
+        "Organiseren voorbereiding": 1.9278417887736072,
+        "uitgenodigd": 0.8897730620927775,
+        "Organiseren": 1.8702870173650208,
+        "veiligheid": 1.8195144019090934,
+        "2023-2026": 1.8195144019090934,
+        "zegt": 0.8195144019090934,
+        "jaar": 0.8195144019090934,
+        "thema": 0.8195144019090934,
+        "partners": 0.8195144019090934,
+        "politie": 0.8195144019090934
+    },
+    "svz": null,
+    "afgedaan": "05-03-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

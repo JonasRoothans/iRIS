@@ -1,0 +1,87 @@
+{
+    "module_id": 966056,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": null,
+    "title": "Communicatie afsluiting straten - Raadsvoorstel Jaarstukken 2023",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/966056",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Esselbrugge (Wethouder)",
+    "result": "",
+    "date": "26-06-2024",
+    "meeting_url": {
+        "1147977": "https://raadsinformatie.eindhoven.nl/vergadering/1147977#ai_8483500"
+    },
+    "attachment": null,
+    "parent": 946916,
+    "children": [],
+    "text": "Wethouder Esselbrugge zegt toe om in de toekomst gesprekken te voeren met scholen over het afsluiten van omliggende straten tijdens bepaalde tijdstippen.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1133842,
+            "weight": 0.4544631099042322
+        },
+        {
+            "id": 792357,
+            "weight": 0.09997798586870452
+        },
+        {
+            "id": 1036434,
+            "weight": 0.09666902137438385
+        },
+        {
+            "id": 977702,
+            "weight": 0.0776093135447197
+        },
+        {
+            "id": 938319,
+            "weight": 0.07751428092367664
+        },
+        {
+            "id": 1089477,
+            "weight": 0.07622617303184549
+        },
+        {
+            "id": 1101367,
+            "weight": 0.07304788272768077
+        },
+        {
+            "id": 1118082,
+            "weight": 0.05757402913923879
+        }
+    ],
+    "videostarttime": {
+        "1147977": 762
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_26.06.24_NC_Eindhoven_Cie.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Jaarstukken": 1.9962980755468125,
+        "Wethouder Esselbrugge": 0.9944628874809335,
+        "Esselbrugge zegt": 0.9838708471774884,
+        "Communicatie afsluiting": 1.9809765493683227,
+        "bepaalde tijdstippen": 0.9809765493683227,
+        "toekomst gesprekken": 0.9683848454160142,
+        "afsluiting straten": 1.9543187171163363,
+        "omliggende straten": 0.9543187171163363,
+        "Jaarstukken": 1.939268865040284,
+        "Wethouder": 0.9392688650402842,
+        "straten": 1.8752271303351442,
+        "zegt": 0.8249392446001187,
+        "toekomst": 0.8249392446001187,
+        "voeren": 0.8249392446001187,
+        "scholen": 0.8249392446001187,
+        "afsluiten": 0.8249392446001187,
+        "bepaalde": 0.8249392446001187
+    },
+    "svz": "Conform de verzamelbrief: Uitvoering toezeggingen vanuit portefeuille wethouder Strijk, van 18 februari 2025. ...  Lees verder ",
+    "afgedaan": "11-03-2025",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

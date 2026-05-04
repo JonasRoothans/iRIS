@@ -1,0 +1,83 @@
+{
+    "module_id": 975797,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 248564,
+    "title": "Communicatie - Raadsvoorstel Sharing the Vibes: Samen naar een bruisend Eindhoven",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/975797",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "R. Strijk (Wethouder)",
+    "result": "",
+    "date": "01-10-2024",
+    "meeting_url": {
+        "1148129": "https://raadsinformatie.eindhoven.nl/vergadering/1148129#ai_8598897"
+    },
+    "attachment": null,
+    "parent": 958773,
+    "children": [],
+    "text": "Wethouder Strijk zegt toe aandacht te geven aan de communicatie dat budgetten ook beschikbaar zijn voor het bruisender maken van de wijken.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 974301,
+            "weight": 0.4977303205884612
+        },
+        {
+            "id": 974303,
+            "weight": 0.49719889631640085
+        },
+        {
+            "id": 974304,
+            "weight": 0.4971914191595661
+        },
+        {
+            "id": 974297,
+            "weight": 0.49715668333912405
+        },
+        {
+            "id": 974296,
+            "weight": 0.4971274886967871
+        },
+        {
+            "id": 958773,
+            "weight": 0.496777260393353
+        },
+        {
+            "id": 1020983,
+            "weight": 0.24663702772955182
+        }
+    ],
+    "videostarttime": {
+        "1148129": 2550
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_01.10.24_Eindhoven_raad.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Sharing": 1.9944628874809336,
+        "Eindhoven Wethouder": 0.9917104114097657,
+        "Wethouder Strijk": 0.9917104114097657,
+        "the Vibes": 1.9892541152774061,
+        "Sharing the": 1.9838708471774884,
+        "bruisend Eindhoven": 1.9838708471774884,
+        "Strijk zegt": 0.9838708471774884,
+        "Samen": 1.939268865040284,
+        "Eindhoven": 1.9093278638943105,
+        "wijken": 0.8933609373339291,
+        "Communicatie": 1.8752271303351442,
+        "the": 1.8249392446001187,
+        "bruisend": 1.8249392446001187,
+        "zegt": 0.8249392446001187,
+        "aandacht": 0.8249392446001187,
+        "budgetten": 0.8249392446001187,
+        "beschikbaar": 0.8249392446001187
+    },
+    "svz": "VOORSTEL COLLEGE AFVOEREN.\nHet betreft dus de subsidieregeling gebiedsgericht werken.\nVanuit de sector Gebiede...  Lees verder ",
+    "afgedaan": "13-05-2025",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

@@ -1,0 +1,151 @@
+{
+    "module_id": 998877,
+    "vote_id": null,
+    "member_id": [
+        194500
+    ],
+    "party_list": [
+        "FVD"
+    ],
+    "poho_id": [],
+    "title": "Beantwoording vervolg raadsvragen - Transparantie hondenbelasting (FvD)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/4/Raadsvragen/998877",
+    "type": "Raadsvraag",
+    "member": "Nicolas Knoester",
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "16-12-2024",
+    "meeting_url": null,
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/14957732/1?connection_type=17&connection_id=11295924": "Vraag",
+        "https://raadsinformatie.eindhoven.nl/document/15042955/1?connection_type=17&connection_id=11421927": "Antwoord"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": " \n \n \nVervolg Raadsvragen - Transparantie honde nbelasting  \ndatum:  15 december 2024  \n \nGeacht college,  \n \nOp raadsvragen van mei 2023 gaf het college het volgende aan:  \n \nVraag : “Deelt het college de mening dat de brief verbeterd kan worden \ndoor in het kader van transparantie en betrouwbaarheid toe te voegen \ndat ongeveer 10% aan hondenvoorzieningen wordt besteed en het \noverige naar de algemene middelen gaat? ” \n \nAntwoord college: “Wij zullen volgend jaar in de brief opnemen dat de \nopbrengsten van de hondenbelasting grotendeels worden toegevoegd \naan de algemene middelen en deels worden besteed aan \nhondenvoorzieningen als uitloopterreinen en hondentoiletten. ” \n \nDit jaar is er weer een brief uitgegaan inzake de hondenbelasting. Dit \nmaal staat er in de brief : \"De gemeente gebruikt dat geld onder andere \nvoor hondenvoorzieningen zoals uitloopterreinen en het dierenasiel.\"  \n \nHet college heeft dus niet gedaan zoals ze in haar beantwoording had \nbeloofd.  \n1. Waarom heeft het college dit niet gedaan?  \n2. Gaat het college dit vanaf nu wél doen zoals in de beantwoording van \nde vorige raadsvragen?  \n3. Hoe gaat het college deze fout alsnog corrigeren om haar belofte na \nte komen? Het college had immers tijd genoeg om de aanpassing te \ndoen.  \n \nNicolas Knoester  (FvD) \n",
+    "bst": "",
+    "related": [
+        {
+            "id": 855406,
+            "weight": 0.4463656008421154
+        },
+        {
+            "id": "a_8825703",
+            "weight": 0.39942082351210145
+        },
+        {
+            "id": 982440,
+            "weight": 0.38866324531979723
+        },
+        {
+            "id": 827449,
+            "weight": 0.19870689642481262
+        },
+        {
+            "id": 857632,
+            "weight": 0.19390407441039456
+        },
+        {
+            "id": 862081,
+            "weight": 0.15922866198090152
+        },
+        {
+            "id": 862060,
+            "weight": 0.15904987428894155
+        },
+        {
+            "id": 865481,
+            "weight": 0.08815407422802625
+        },
+        {
+            "id": 950197,
+            "weight": 0.06493100874855064
+        },
+        {
+            "id": 874993,
+            "weight": 0.05117884242830221
+        },
+        {
+            "id": 806370,
+            "weight": 0.045798913263948485
+        },
+        {
+            "id": 1051065,
+            "weight": 0.0455473010273671
+        },
+        {
+            "id": 836589,
+            "weight": 0.045049739812192784
+        },
+        {
+            "id": 1115817,
+            "weight": 0.03977413835991141
+        },
+        {
+            "id": 873874,
+            "weight": 0.0385394675152258
+        },
+        {
+            "id": 985351,
+            "weight": 0.03813079768623809
+        },
+        {
+            "id": 1026188,
+            "weight": 0.03755985313747208
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Transparantie honde": 1.9844551073426544,
+        "vervolg raadsvragen": 1.9837681239953797,
+        "Geacht college": 0.9742603726384299,
+        "algemene middelen": 0.9648899791086802,
+        "vervolg": 1.9580552845523704,
+        "nbelasting datum": 0.9579126352411171,
+        "college": 0.9578110176629004,
+        "Beantwoording vervolg": 1.9557513811310105,
+        "honde nbelasting": 0.9527761724940359,
+        "Vraag": 0.9396538185162001,
+        "Geacht": 0.9339118549700172,
+        "Deelt": 0.9339118549700172,
+        "brief verbeterd": 0.9272323572301929,
+        "brief": 0.9201432161809311,
+        "Antwoord college": 0.9190252669758117,
+        "hondenvoorzieningen": 0.896638513883258,
+        "algemene": 0.8779270353978903,
+        "middelen gaat": 0.8754448782908584,
+        "gaat": 0.8626207720507375,
+        "besteed": 0.8533858202637694,
+        "december": 0.831597921029319,
+        "datum": 0.8098103981030413,
+        "mei": 0.8098103981030413,
+        "gaf": 0.8098103981030413,
+        "Antwoord": 0.8027157464605392,
+        "honde": 1.7876458100994692,
+        "volgende": 0.7876458100994692,
+        "mening": 0.7876458100994692,
+        "kader": 0.7876458100994692,
+        "betrouwbaarheid": 0.7876458100994692,
+        "overige": 0.7876458100994692,
+        "jaar": 0.7854727480474828,
+        "FvD": 1.785024299403546,
+        "uitloopterreinen": 0.7815176975300895,
+        "brief uitgegaan": 0.7740320165758838,
+        "gedaan": 0.733370928317128,
+        "Nicolas Knoester": 0.6066658512656646,
+        "Knoester": 0.5935096358146181,
+        "opnemen": 0.516432905668839,
+        "opbrengsten": 0.516432905668839,
+        "grotendeels": 0.516432905668839,
+        "toegevoegd": 0.516432905668839
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194500,
+    "lastScrapeDate": "02-04-2026",
+    "meeting_id": []
+}

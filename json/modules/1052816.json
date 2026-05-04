@@ -1,0 +1,145 @@
+{
+    "module_id": 1052816,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230022,
+    "title": "Handboek - Raadsvoorstel Leidraad voor vestiging noodzakelijke (opvang)voorzieningen",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1052816",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Toub (Wethouder)",
+    "result": "",
+    "date": "03-06-2025",
+    "meeting_url": {
+        "1256614": "https://raadsinformatie.eindhoven.nl/vergadering/1256614#ai_9330990"
+    },
+    "attachment": null,
+    "parent": 1037388,
+    "children": [],
+    "text": "Wethouder Toub zegt toe dat het handboek in Q1 2026 naar de raad kan komen maar doet daarbij direct een oproep aan de raad de scheiding van de rollen van de raad en college niet uit het oog te verliezen.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1037388,
+            "weight": 1.7552134054411277
+        },
+        {
+            "id": 1052620,
+            "weight": 1.3888731645540273
+        },
+        {
+            "id": 977654,
+            "weight": 1.2923155557346628
+        },
+        {
+            "id": 776897,
+            "weight": 0.42928821279911883
+        },
+        {
+            "id": 1031705,
+            "weight": 0.3895197196515732
+        },
+        {
+            "id": 1060059,
+            "weight": 0.30726012768564254
+        },
+        {
+            "id": 1009004,
+            "weight": 0.2669791292828759
+        },
+        {
+            "id": 1060105,
+            "weight": 0.2480828863299302
+        },
+        {
+            "id": 1060110,
+            "weight": 0.2475468149445301
+        },
+        {
+            "id": 1060107,
+            "weight": 0.24675042508468853
+        },
+        {
+            "id": 1021062,
+            "weight": 0.23930571659790212
+        },
+        {
+            "id": 798901,
+            "weight": 0.2100774612198931
+        },
+        {
+            "id": 1057357,
+            "weight": 0.19752314611792685
+        },
+        {
+            "id": 837030,
+            "weight": 0.17166397147051565
+        },
+        {
+            "id": "a_9667387",
+            "weight": 0.15133513101686633
+        },
+        {
+            "id": 781364,
+            "weight": 0.12837081923593546
+        },
+        {
+            "id": 1118645,
+            "weight": 0.1270599043380953
+        },
+        {
+            "id": 1076107,
+            "weight": 0.12496343555435913
+        },
+        {
+            "id": 1041664,
+            "weight": 0.12109787936930129
+        },
+        {
+            "id": 870900,
+            "weight": 0.10548317997995982
+        },
+        {
+            "id": 1130048,
+            "weight": 0.09995346041160459
+        }
+    ],
+    "videostarttime": {
+        "1256614": 10198
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_03.06.25_NC_1-EINDHOVEN-RAA.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Leidraad": 1.997359264235532,
+        "Wethouder Toub": 0.9966825100670561,
+        "voorzieningen Wethouder": 0.9955474186622296,
+        "Toub zegt": 0.9940951585571859,
+        "vestiging noodzakelijke": 1.9920677963616904,
+        "daarbij direct": 0.9894687186573639,
+        "raad": 1.9679456556466468,
+        "opvang": 1.9451739922866356,
+        "Leidraad": 1.9424976471421145,
+        "Toub": 0.9424976471421145,
+        "Handboek": 1.9401908351973727,
+        "verliezen": 0.9229102198406751,
+        "vestiging": 1.8979141082925373,
+        "zegt": 0.8979141082925373,
+        "komen": 0.8979141082925373,
+        "daarbij": 0.8979141082925373,
+        "direct": 0.8979141082925373,
+        "oproep": 0.8979141082925373,
+        "scheiding": 0.8979141082925373,
+        "rollen": 0.8979141082925373,
+        "oog": 0.8979141082925373
+    },
+    "svz": null,
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": [
+        1256614
+    ]
+}

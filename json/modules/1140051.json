@@ -1,0 +1,52 @@
+{
+    "module_id": 1140051,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 248564,
+    "title": "Nachtbussen en/of stadslijnen",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1140051",
+    "type": "Toezegging",
+    "member": "",
+    "party": "",
+    "poho": "R. Strijk (Wethouder)",
+    "result": "",
+    "date": "03-03-2026",
+    "meeting_url": {
+        "1374927": "https://raadsinformatie.eindhoven.nl/vergadering/1374927#ai_9411119"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": "Wethouder Strijk zegt toe: Bediening d.m.v. nachtbussen en/of stadslijnen voor Gestel, Tongelre en Stratum zal worden bepleit bij Hermes en het college zal hierover terugkoppelen aan de gemeenteraad.’",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [],
+    "videostarttime": {
+        "1374927": null
+    },
+    "videolink": null,
+    "keywords": {
+        "Wethouder Strijk": 0.9961081031516634,
+        "stadslijnen Wethouder": 0.9932172792875805,
+        "Strijk zegt": 0.9930117237200748,
+        "hierover terugkoppelen": 0.9874210078957432,
+        "Nachtbussen": 1.9708530385523328,
+        "Bediening": 0.9661819334857845,
+        "Gestel": 0.9523493163143907,
+        "Tongelre": 0.9523493163143907,
+        "Stratum": 0.9377359758067197,
+        "Hermes": 0.9377359758067197,
+        "gemeenteraad.’": 0.9198701737052408,
+        "zegt": 0.8885427134598362,
+        "bepleit": 0.8885427134598362,
+        "college": 0.8885427134598362,
+        "hierover": 0.8885427134598362
+    },
+    "svz": "",
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "08-04-2026",
+    "meeting_id": []
+}

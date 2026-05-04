@@ -1,0 +1,117 @@
+{
+    "module_id": 16280095,
+    "vote_id": null,
+    "member_id": [
+        47266
+    ],
+    "party_list": [
+        " Ouderen Appèl - Hart voor Eindhoven"
+    ],
+    "poho_id": [],
+    "title": "Vraag V4 Vragenhalfuur - Korting op de toeslagen vanaf januari 2026 (OAHvE)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "24-11-2025",
+    "meeting_url": {
+        "1256749": "https://raadsinformatie.eindhoven.nl/vergadering/1256749/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/16280095/1/Vraag+V4+Vragenhalfuur+-+Korting+op+de+toeslagen+vanaf+januari+2026+%28OAHvE%29?connection_type=1&connection_id=8590055",
+    "pdf_text": " \n \n \n1 \n  \n \nVragenhalfuur  - Korting op de toeslagen vanaf januari  2026                  V4                      \n \nBron: gesprekken met bijstandsgerechtigden.  \n \nGeacht college,  \n \nUit gesprekken met bijstandsgerechtigde inwoners van Eindhoven komt duidelijk naar voren  \ndat er vanaf 1 januari 2026 gekort gaat worden in  toeslagen die zij ontvangen.  Dit brengt ons \ntot de volgende vragen:  \n \n1. Klopt dat wat wij vernomen hebben en zo ja om welke toeslagen gaat het hier \ndan?  \n \n2. Kan het college , eventueel bij benadering , aangeven hoeveel inkomen een \nbijstandsgerechtigde per 1 januari 2026 misloopt, of gaat dit via een \ncompensatieregeling ? \n \n3. Een van onze gesprekspartners woont in een flat en betaalt naast andere kosten \nook een bedrag aan servicekosten. Die servicekosten blijven in 2026 wel be staan, \nmaar worden in mindering gebracht op het bedrag van de huurtoeslag. Waarom is \ndit besloten en gaat het college  betrokkenen nog compenseren?  \n \nMet vriendelijke groet,  \n \nNiek Rennenberg, Ouderen Appèl – Hart voor Eindhoven  \nDre Rennenberg, Ouderen Appèl – Hart voor Eindhoven  \n \n \n \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 949458,
+            "weight": 0.6088536528658938
+        },
+        {
+            "id": 1022033,
+            "weight": 0.5657650538524425
+        },
+        {
+            "id": 901452,
+            "weight": 0.24909781376180734
+        },
+        {
+            "id": 791694,
+            "weight": 0.225501522394245
+        },
+        {
+            "id": 829238,
+            "weight": 0.2219938920419937
+        },
+        {
+            "id": 865501,
+            "weight": 0.15705103604347517
+        },
+        {
+            "id": 785930,
+            "weight": 0.1491103042934505
+        },
+        {
+            "id": 850142,
+            "weight": 0.13994300259382889
+        },
+        {
+            "id": 1094248,
+            "weight": 0.12329943131439047
+        },
+        {
+            "id": 834369,
+            "weight": 0.11043252245427373
+        },
+        {
+            "id": 956497,
+            "weight": 0.0877316434928164
+        },
+        {
+            "id": 966828,
+            "weight": 0.08612757936139735
+        }
+    ],
+    "videostarttime": {
+        "1256749": 2608
+    },
+    "videolink": null,
+    "keywords": {
+        "Vragenhalfuur": 1.9790606469593142,
+        "Korting": 1.973164833952627,
+        "Bron": 0.9427155038804728,
+        "januari": 1.9408551618542424,
+        "Ouderen Appèl": 0.9369460733943918,
+        "toeslagen": 1.8916231565866126,
+        "Eindhoven": 0.8739167893628169,
+        "Vraag": 1.8534549999481629,
+        "OAHvE": 1.8534549999481629,
+        "gaat": 0.8444046066197273,
+        "Appèl": 0.8326787589927864,
+        "Hart": 0.8326787589927864,
+        "gesprekken": 0.827517115128761,
+        "Niek Rennenberg": 0.8146956321685078,
+        "bijstandsgerechtigden": 0.8017578162872382,
+        "college": 0.7938635448023111,
+        "bedrag": 0.6627555963300266,
+        "servicekosten": 0.6627555963300266,
+        "Geacht college": 0.6000136937412186,
+        "gekort gaat": 0.5964075580862315,
+        "Niek": 0.5927032436947707,
+        "komt duidelijk": 0.5906723434201018,
+        "Dre": 0.543687765854023,
+        "Geacht": 0.5379964875381762,
+        "ontvangen": 0.5379964875381762
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 47266,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1256749
+    ]
+}

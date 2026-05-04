@@ -1,0 +1,59 @@
+{
+    "module_id": 801409,
+    "vote_id": null,
+    "member_id": [
+        42076
+    ],
+    "party_list": [
+        " Ouderen Appèl - Hart voor Eindhoven"
+    ],
+    "poho_id": [],
+    "title": "Beantwoording raadsvragen Over verbreken vriendschapsband Nanjing (OAHvE)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/4/Raadsvragen/801409",
+    "type": "Raadsvraag",
+    "member": "Dré Rennenberg",
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "12-12-2022",
+    "meeting_url": null,
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/12223526/2?connection_type=17&connection_id=8919016": "Antwoord"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": "22bst01671",
+    "related": [
+        {
+            "id": 797679,
+            "weight": 1.9008104152820033
+        },
+        {
+            "id": 848607,
+            "weight": 0.4859122342301367
+        },
+        {
+            "id": 779530,
+            "weight": 0.3298098163135698
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "vriendschapsband Nanjing": 1.9737669269624916,
+        "OAHvE": 1.9550880231213545,
+        "Beantwoording raadsvragen": 1.9505961599793435,
+        "Nanjing": 1.9140368224837343,
+        "verbreken vriendschapsband": 1.9029960071342575,
+        "raadsvragen": 1.702634417439785,
+        "verbreken": 1.702634417439785
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": "02-04-2026",
+    "meeting_id": []
+}

@@ -1,0 +1,63 @@
+{
+    "module_id": "ai_8506508",
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Totaaloverzicht - Raadsvoorstel Effect & vereenvoudiging minimaregelingen",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/moties_en_toezeggingen/953021?parent_event=1147967",
+    "type": "Agenda",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "18-06-2024",
+    "meeting_url": "https://raadsinformatie.eindhoven.nl/vergadering/1147967#ai_8506508",
+    "attachment": null,
+    "parent": null,
+    "children": [
+        953024,
+        953021
+    ],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 941333,
+            "weight": 0.565998738617794
+        },
+        {
+            "id": 1085536,
+            "weight": 0.5644933628488777
+        },
+        {
+            "id": 979977,
+            "weight": 0.5571572739981442
+        },
+        {
+            "id": 1139066,
+            "weight": 0.3572425647839944
+        },
+        {
+            "id": 1049080,
+            "weight": 0.27126373258698094
+        }
+    ],
+    "videostarttime": 13238,
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_18.06.24_Eindhoven_CIE.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Effect": 1.9925553183866471,
+        "vereenvoudiging minimaregelingen": 1.9742913828560065,
+        "Totaaloverzicht": 1.9550880231213545,
+        "Effect": 1.9140368224837343,
+        "vereenvoudiging": 1.8416830712200127,
+        "minimaregelingen": 1.8416830712200127
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": null,
+    "meeting_id": []
+}

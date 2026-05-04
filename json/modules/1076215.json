@@ -1,0 +1,423 @@
+{
+    "module_id": 1076215,
+    "vote_id": 9748336,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230014,
+    "title": "Raadsvoorstel Energietransitie Ontwerp Warmteprogramma 2026–2035",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/19/raadsvoorstellen/1076215?parent_event=1256749",
+    "type": "Raadsvoorstel",
+    "member": null,
+    "party": null,
+    "poho": "R. Thijs (Wethouder)",
+    "result": "aangenomen",
+    "date": "21-10-2025",
+    "meeting_url": {
+        "1256749": "https://raadsinformatie.eindhoven.nl/vergadering/1256749#ai_9726665",
+        "1256657": "https://raadsinformatie.eindhoven.nl/vergadering/1256657#ai_9638405",
+        "1256652": "https://raadsinformatie.eindhoven.nl/vergadering/1256652#ai_9634159",
+        "1256671": "https://raadsinformatie.eindhoven.nl/vergadering/1256671#ai_9728118"
+    },
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/15892090/2/8000586_03+Raadsvoorstel+Energietransitie+Ontwerp+Warmteprogramma+2026%E2%80%932035?connection_type=17&connection_id=12267121": "Raadsvoorstel Energietransitie Ontwerp Warmteprogramma 2026–2035",
+        "http://raadsinformatie.eindhoven.nl/document/16175761/1?connection_type=16&connection_id=1076215": " Nadere toelichting bij raadsvoorstel Ontwerp warmteprogramma 2026-2035 en voorlopig advies Commissie MER ",
+        "http://raadsinformatie.eindhoven.nl/document/16175759/1?connection_type=16&connection_id=1076215": " Bijlage 1 - Voorlopig advies commissie MER ",
+        "http://raadsinformatie.eindhoven.nl/document/16175760/1?connection_type=16&connection_id=1076215": " Bijlage 2 - Persbericht warmteprogramma Eindhoven ",
+        "http://raadsinformatie.eindhoven.nl/document/16100665/4?connection_type=16&connection_id=1076215": " Nadere toelichting bij raadsvoorstel Energietransitie Ontwerp warmteprogramma 2026-2035 ",
+        "http://raadsinformatie.eindhoven.nl/document/15892091/1?connection_type=16&connection_id=1076215": " Bijlage 1 - Ontwerp Warmteprogramma 2026-2035 ",
+        "http://raadsinformatie.eindhoven.nl/document/15892092/1?connection_type=16&connection_id=1076215": " Bijlage 2 - Plan-MER onderzoeksrapport ",
+        "http://raadsinformatie.eindhoven.nl/document/15892093/1?connection_type=16&connection_id=1076215": " Bijlage 3 - Verwerking van zienswijzen, adviezen en wensen en bedenkingen ontwerp warmteprogramma ",
+        "http://raadsinformatie.eindhoven.nl/document/15892094/1?connection_type=16&connection_id=1076215": " Bijlage 4 - Participatieverslag ",
+        "http://raadsinformatie.eindhoven.nl/document/15892095/1?connection_type=16&connection_id=1076215": " Bijlage 5 - Onderbouwing gemaakte keuzes gecomprimeerd ",
+        "http://raadsinformatie.eindhoven.nl/document/15892096/1?connection_type=16&connection_id=1076215": " Bijlage 6 - Duurzame bronnen en technieken ",
+        "http://raadsinformatie.eindhoven.nl/document/15892097/1?connection_type=16&connection_id=1076215": " Bijlage 7 - Afwegingsmodel ",
+        "http://raadsinformatie.eindhoven.nl/document/15892098/1?connection_type=16&connection_id=1076215": " Bijlage 8 - Stadsbrede energiebesparingsaanpak ",
+        "http://raadsinformatie.eindhoven.nl/document/15892099/1?connection_type=16&connection_id=1076215": " Bijlage 9 - Gebiedsgerichte aanpak ",
+        "http://raadsinformatie.eindhoven.nl/document/15892100/1?connection_type=16&connection_id=1076215": " Bijlage 10 - Verkenning Energiedienstenorganisatie Eindhoven ",
+        "http://raadsinformatie.eindhoven.nl/document/15892101/1?connection_type=16&connection_id=1076215": " Bijlage 11 - Aanpak WEBA ",
+        "http://raadsinformatie.eindhoven.nl/document/15892102/1?connection_type=16&connection_id=1076215": " Bijlage 12 - Kansenkaarten bedrijventerreinen ",
+        "http://raadsinformatie.eindhoven.nl/document/15892105/1?connection_type=16&connection_id=1076215": " Bijlage 13 - Waterenergieplan Eindhoven ",
+        "http://raadsinformatie.eindhoven.nl/document/16080172/1?connection_type=16&connection_id=1076215": " Beantwoording technische vragen - RV warmteprogramma (D66) ",
+        "http://raadsinformatie.eindhoven.nl/document/16112316/1?connection_type=16&connection_id=1076215": " Behandeladvies raadsvoorstel energietransitie Ontwerp Warmteprogramma 2026-2035 ",
+        "http://raadsinformatie.eindhoven.nl/document/16269813/1?connection_type=16&connection_id=1076215": " Commissieadvies Raadsvoorstel Energietransitie Ontwerp Warmteprogramma 2026 2035 "
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/16290021/1?connection_type=17&connection_id=12644808",
+    "pdf_text": " \n   \n gemeente Eindhoven  \nInboeknummer     8000586 _03 \nDossiernummer    25.35.251   \nB&W beslisdatum  26 augustus 2025  \nRaadsvoorstel Energietransitie:  Ontwerp warmteprogramma 2026 –2035  \n \nInleiding  \nEindhoven streeft ernaar om in 2050 klimaatneutraal te zijn, zoals vastgelegd in de \nOmgevingsvisie (2024),  Klimaatverordening 2016  en het Nationale Klimaatakkoord . De \nafspraak in het Klimaatakkoord is dat in 2050 in Nederland alle gebouwen van het \naardgas af zijn.  Voor alle bestaande woningen, voorzieningen en werklocaties  vindt de \nkomende jaren een transitie van aardgas naar andere warmtebronnen plaats. Om in \nEindhoven hiervoor de eerste stappen te kunnen zetten, stelde de raad in 2021 de eerste \nTransitievisie Warmte (TVW)  (21bst01448 ) vast.  Het voorliggend warmteprogramma is het \nvervolg hierop. Het vaststellen van een programma is een bevoegdheid van het college.  \nDe raad  wordt ruimte geboden wensen en bedenkingen in te brengen op het ontwerp  \nwarmteprogramma, voordat deze definitief door het college wordt vastgesteld.  \nWettelijke taak  \nMet invoering van de Wet gemeentelijke instrumenten warmtetransitie (Wgiw) is de \ngemeente verplicht  uiterlijk op 31 december 2026  een eerste warmteprogramma vast te \nstellen.  \n \nDoelstelling  \nHet aardgasvrij maken van alle gebouwen in Eindhoven als bijdrage aan 55% CO ₂ \nreductie in 2030 en 95% in 2050.  \n \nVoorstel  \n1. Ten aanzien van het Ontwerp warmteprogramma 2026 –2035,  geen wensen en \nbedenkingen ter kennis van het college te brengen.  \n2. De Transitie visie Warmte in te trekken  bij inwerkingtreding van Warmteprogramma  \n2026 -2035. \n3. In paragraaf 5.2.5. van de omgevingsvisie de passage ‘ Dit is beschreven in onze \nTransitievisie Warmte. ’, te vervangen door ‘dit is beschreven in ons \nwarmteprogramma.’  en de aan deze paragraaf gekoppelde omgevingsvisie \nwarmtekaart te laten vervallen.  \n \nArgumenten  \n1.1 Het warmteprogramma  is een verplicht  programma  onder  de Omgevingswet  met de \ninvoering  van de Wgiw.   \n Inboeknummer     8000586 _03  \n \n 2 Met de invoering  van de Wgiw  (beoogd  per 1 januari  2026)  zijn gemeenten  wettelijk  \nverplicht  om een warmteprogramma  op te stellen  en dit elke vijf jaar te actualiseren.  Met \ndit programma geven we duidelijkheid aan inwoners, bedrijven en maatschappelijke \norganisaties over waar we als gemeente de komende 10 jaar aan de slag gaan en wat \nvoor de komende 10 jaar het plan van aanpak is. Ook geven we per gebied aan wat de \nmeest kansrijke warmteoplossing is. Het definitieve warmtealternatief wordt per gebied \nuitgewerkt en onderbouwd in een uitvoeringsplan en vastgelegd in het omgevingsplan. \nHet vaststellen van het omgevingsplan is een bevoegdheid van de raad. Het \nwarmteprogramma  vormt  de beleidsmatige  basis  voor de inzet  van deze  \naanwijsbevoegdheid  door de raad.  \n \n1.2 Participatie over het programma is uitgevoerd conform het participatieplan  \nDe participatie is uitgevoerd conform het door het college vastgestelde participatieplan. De \ninhoud van het programma is gedeeld en getoetst met belangengroepen, waaronder \nbewonersgroepen, bedrijven, kennisinstellingen en maatschappelijke organisaties. Hun \ninput over communicatie, participatie en handelingsperspectief richting de \nuitvoeringsplannen per buurt is actief meegenomen. Het ontwerp warmteprogramma \nwordt gedeeld en besproken met de overlegpartners waaronder 040energie, Enexis en de \nwoningbouwcorporaties. Het proces en de opbrengsten van de participatie zijn \nbeschreven in een participatieverslag, dat als bijlage aan het warmteprogramma is \ntoegevoegd. Het ontwerpprogramma wordt zes weken ter inzage gelegd, zodat eenieder \nhier reactie op kan geven.  \n \n1.3 Het warmteprogramma  maakt gebruik van 10 gidsprincipes die richting geven aan de \nuitvoering van de warmtetransitie in Eindhoven.  \nHet programma bouwt voort op de Transitievisie Warmte (2021), de Omgevingsvisie \nEindhoven ( 24bst01157 ), het Klimaatplan 2026 –2030 (7914745_02 ) en het \nbestuursakkoord. De raad heeft hiermee eerder richting gegeven aan de koers die nu \nwordt geconcretiseerd. De tien gidsprincipes vormen een vertaling van eerder vastgesteld \nbeleid en geven richting aan de uitvoering van de warmtetransitie in Eindhoven.  Hieronder \nlichten we elk principe kort toe:  \n• We zien warmte als een publieke voorziening; Warmte is een basisbehoefte. \nDaarom willen we als gemeente publieke regie voeren op de warmtevoorziening, \nonder andere via de oprichting van het gemeentelijk energiebedrijf.  (24bst01138 ) \n• We starten met kosten, maar sturen op waarde; We brengen de kosten in beeld, \nmaar sturen met behulp van een afwegingsmodel op de vijf publieke waarden die \nde raad in 2023 heeft vastgesteld in de startnotitie van het gemeentelijke \nenergiebedrijf (23bst00400 ).  \n• We investeren ongelijk voor gelijke kansen; Niet elke buurt of bewoner heeft \ndezelfde uitgangspositie. Daarom zetten we extra in op kwetsbare gebieden, zodat \niedereen kan meedoen. Dit principe is in lijn met de Koers Sociaal (2)040  en het \nbestuursakkoord.  \n• We halen het maximale uit onze proeftuinen aardgasvrij; In de startbuurten ’t Ven - \nLievendaal en Eindhoven Noordoost hebben we al veel geleerd. Die lessen  \n Inboeknummer     8000586 _03  \n \n 3 gebruiken we om andere gebieden beter en sneller aan te pakken. Ook in het \nvastgestelde klimaatplan is het voortzetten van deze proeftuinen al opgenomen .  \n• We maken de stad lage -temperatuur -klaar; We zetten stevig in op \nenergiebesparing, betere ventilatie en energiezuinige installaties. \nEnergiebesparing is ook in de TVW al een belangrijk uitgangspunt.  \n• We laten warmte niet verloren gaan; We benutten zoveel mogelijk lokale en \nhernieuwbare bronnen voor warmte en opslag. Het ontwikkelen van \nwarmtebronnen is ook in de TVW al een belangrijk onderdeel.   \n• We laten het bestaande profiteren van het nieuwe; Nieuwe woningbouwprojecten \nworden gekoppeld aan bestaande buurten. Dit principe sluit aan bij de sociale \nbrainport agenda uit het Bestuursakkoord.  \n• We brengen innovaties in de praktijk; Dit principe, al een onderdeel van de TVW, \nstimuleert dat we nieuwe technieken niet alleen ontwikkelen, maar ook toepassen. \nZo maken we van de warmtetransitie ook een motor voor innovatie.  \n• We gaan uit van de kansen en de krachten van onze stad; Dit principe sluit aan bij \nde Koers Sociaal (2)040  en het bestuursakkoord. We werken actief samen met \nbewonersinitiatieven zoals 040energie en ondersteunen de ontwikkeling van \nenergiecoöperaties en warmtegemeenschappen, conform de oproep van de raad \nbij de besluitvorming over de oprichting van het publieke energiebedrijf op 26 \nnovember 2024 om bewonersinitiatieven rond energie te ondersteunen \n(24bst01138 ) \n• We schalen en schakelen op; Dit principe sluit aan op de wens uit het \nbestuursakkoord om de warmtetransitie te versnellen. Zo wordt de \nenergiedienstenorganisatie, incl. de op 3 juni 2025 aan de raad toegezegde \nfysieke plek hiervoor ( toezegging ) ingericht als uitvoeringspartner voor \nbewonersbegeleiding, schalen we gebiedsgerichte aanpakken op, en zetten we de \naanwijsbevoegdheid in om tempo, samenhang en voorspelbaarheid te \nwaarborgen.  \n1.4 Het warmteprogramma bevat een samenhangende mix van stadsbrede en \ngebiedsgerichte aanpakken  \nDe stadsbrede aanpak richt zich op energiebesparing, isolatie, ventilatie en ondersteuning \nvan vier doelgroepen: eigenaar -bewoners, huurders, verenigingen van eigenaren (v ve’s) \nen utiliteitsbouw in de buurt . Met de woningcorporaties wordt samengewerkt in het \nDuurzaamheidspact  en de Samenwerkingsovereenkomst Warmtenetten  in Eindhoven. \nDaarnaast is er een gebiedsgerichte aanpak, waarin wordt toegewerkt naar uitvoering \n(zowel voor buurten als voor bedrijventerreinen) met participatie, technische en financiële \nonderbouwing. In het warmteprogramma is, naast andere aanpakken, expliciet aandacht \nvoor netcongestie en dat het energiesysteem ruimtelijk goed wordt ingepast . \n \n1.5 De wensen en bedenkingen van de raad worden gelijktijdig verwerkt met de \nterinzagelegging en het advies van de Commissie mer.  \nDoor de wensen en bedenkingen van de raad tegelijk te verwerken met de reacties uit de \npublieke terinzagelegging en het advies van de Commissie mer zorgen we ervoor dat alle \nsignalen – zowel van inwoners , van ondernemers  als van de raad – in samenhang worden  \n Inboeknummer     8000586 _03  \n \n 4 beoordeeld. Deze gelijktijdigheid stelt ons ook in staat het programma voor 1 januari 2026 \nvast te stellen, zodat inwoners, bedrijven en samenwerkingspartners duidelijkheid krijgen \nen uitvoeringsorganisaties zoals het publieke energiebedrijf voortvarend van start kunnen \ngaan.  \n \n2.1  Met het vaststellen van het warmteprogramma 2026 –2035 wordt het bestaande \nbeleid geactualiseerd en geconcretiseerd.  \nDoor de Transitievisie Warmte in te trekken , wordt voorkomen dat verouderde \nbeleidsdocumenten naast het nieuwe programma blijven bestaan.  \n3.1 Bij inwerkingtreding van het programma  worden verwijzingen naar  de transitievisie \nwarmte  aangepast. In de door de raad vastgestelde omgevingsvisie staat een passage die \nverwijst naar de transitievisie warmte. Na inwerkingtreding van het nieuwe \nwarmteprogramma wordt de passage  in de omgevingsvisie aan gepast, zodat verwezen \nwordt naar het  dan vigerend warmte programma .  \nKanttekeningen  \n1.1 Het warmte programma bevat voornemens en voorkeursoplossingen ; detailkeuzes \nworden pas gemaakt in uitvoeringsplannen per gebied.  \nHet warmte programma geeft richting, maar geen gedetailleerde uitwerking op buurt - of \ngebouwniveau. De definitieve keuze voor de aardgasvrije warmtevoorziening en een \ntermijn waarop het aardgas wordt afgesloten worden pas onderbouwd in de \nuitvoeringsplannen die we per gebied opstellen. De definitieve keuzes voor aardgasvrije \nwarmtevoorziening en termijn waarop aardgas wordt afgesloten zijn pas juridisch \nverankerd met een wijziging van het omgevingsplan. Dat betekent dat de uiteindelijke \noplossing in de praktijk nog kan afwijken van de inhoud van het warmteprogramma.  \n \n1.2 De uitvoeringskosten van het programma zijn nog niet volledig gedekt.  \nHoewel het warmteprogramma richtinggevend is, blijven de formele bevoegdheden voor \nhet vaststellen van het omgevingsplan en de gemeentelijke begroting bij de raad. De \nfinanciële onderbouwing van het programma is gebaseerd op het Klimaatplan en de \nbeschikbare middelen binnen de begroting voor klimaat en energie. De daadwerkelijke \nbeschikbaarheid van middelen is afhankelijk van bijdragen van het Rijk, de begroting 2026 \nen latere jaren. De middelen worden jaarlijks in de kadernota in beeld gebracht.  \n \n1.3  Het advies van de Commissie mer kan leiden tot nieuwe inzichten die aanpassing van \nhet programma vereisen of spanning opleveren met andere beleidsdoelen.  \nHet advies van de Commissie mer kan ons dwingen om bepaalde keuzes te \nheroverwegen. Dat is waardevol, maar kan ook leiden tot vertraging of extra kosten. Soms \nbotsen milieubelangen met andere doelen, zoals betaalbaarheid of uitvoeringssnelheid. \nWe moeten dan zorgvuldig afwegen wat het zwaarst weegt.  \n \n \n \n  \n Inboeknummer     8000586 _03  \n \n 5 Personele consequenties  \nHet uitvoeren van het warmteprogramma 2026 –2030 betreft de gemeentelijke inzet op \ncoördinatie, bewonersbegeleiding, beleidsontwikkeling, processturing voor de \nenergiebesparingsaanpak, energiedienstenorganisatie , gebiedsgerichte aanpakken, het \nenergiesysteem en ruimte en monitoring en evaluatie. Deze taken worden binnen de \nbestaande formatie opgepakt. Het gaat hierbij nadrukkelijk om de gemeentelijke rol; de \ninzet van externe partijen zoals warmtebedrijven, woningcorporaties en \nbewonersinitiatieven valt buiten deze personele raming.  De benodigde inzet is \nechter  afhankelijk van enkele keuzes in het ambitieniveau, zoals de schaal en invulling \nvan de energiedienstenorganisatie. Na 2030 zal het aantal uitvoeringsplannen per gebied \nnaar verwachting toenemen. In de looptijd van dit warmteprogramma wordt de benodigde \ninzet voor de periode na 2030 nader uitgewerkt, zodat tijdig kan worden geanticipeerd op \nde toenemende uitvoeringsopgave. Het uitgewerkte voorstel zal deel uitmaken van de \nkadernota's.  \n \nFinanciële consequenties  \nVoor de uitvoering van het warmteprogramma is een meerjarige financiële raming \nopgesteld van de uitvoeringskosten. Uitvoeringskosten zijn de kosten die jaarlijks \nterugkeren en nodig zijn om het programma operationeel te houden, waaronder de \nenergiebesparingsaanpak, energiedienstenorganisatie, gebiedsgerichte aanpakken, het \nenergiesysteem en ruimte, en monitoring en evaluatie. De raming is opgenomen in \nhoofdstuk 6 van het ontwerp warmteprogramma.  \n \nInvesteringskosten maken géén onderdeel uit van de ramingen in dit programma. Het gaat \ndan om kosten voor fysieke maatregelen zoals de aanleg van collectieve \nwarmtevoorzieningen, het isoleren van gebouwen of het realiseren van duurzame \nwarmtebronnen. De besluitvorming over investeringen doen we per project en per gebied.  \n \nDe benodigde middelen worden deels gedekt uit bestaande rijksbijdragen, gemeentelijke \nreserves en incidentele financiering uit de gemeentelijke begroting. De daadwerkelijk \nbeschikbare middelen zijn afhankelijk van de begroting 2026 en de daaropvolgende jaren.  \nDe benodigde middelen  wordt jaarlijks in de kadernota in beeld gebracht , zodat deze \nintegraal kunnen  worden afgewogen  ten opzichte van andere uitgaven binnen de \nprogrammabegroting.  \n \nOp dit moment is er geen volledige financiële dekking om alle maatregelen uit het \nprogramma te realiseren. Voor een stabiele en voortvarende uitvoering is het wel \nnoodzakelijk dat er structurele middelen beschikbaar komen. Met name  voor de \nbenodigde stadsbrede aanpak  (energiebesparingsaanpak, energiedienstenorganisatie)  \nontbreekt op dit moment structurele financiering . We ramen we nu een gemiddeld tekort \nvan 12mln per jaar voor de uitvoering van het totale programma. Dit vraagt om een inzet \nen lobby op het verkrijgen van aanvullende middelen zoals landelijke subsidies en \nregelingen. In de planperiode van dit warmteprogramma zullen we actief op zoek gaan \nnaar aanvullende middelen.  Tegelijkertijd starten we met de uitvoering van maatregelen \nwaarvoor middelen beschikbaar zijn.   \n Inboeknummer     8000586 _03  \n \n 6  \nCommunicatie  \nHet participatieplan beschrijft hoe belanghebbenden en partnerorganisaties zijn betrokken \nbij de totstandkoming van het warmteprogramma. Er is een online projectpagina  ingericht. \nHierop werden onder andere een publieksversie van het participatieplan, de Notitie \nReikwijdte en Detailniveau (NRD), en het participatieverslag gepubliceerd. Vervolgstappen \nen resultaten worden hier bijgewerkt, zodat inwoners en stakeholders het proces kunnen \nvolgen. De uitkomsten van het Warmteprogramma vertalen we naar  een \npublieksvriendelijke versie  en verwerken we in  de digitale Warmtewijzer op \nwww.eindhovenduurzaam.nl . We richten de communicatie laagdrempelig en transparant \nin. \n \nPlanning en uitvoering  \nDe planning ziet er als volgt uit:  \n• September – oktober ; Het ontwerpprogramma wordt ter inzage gelegd. In deze \nperiode delen en bespreken we het ontwerp actief met overlegpartners en vragen we \nadvies aan de Commissie mer.  \n• Oktober – november ; De raad krijgt de gelegenheid om wensen en bedenkingen \nkenbaar te maken ten aanzien van het ontwerpprogramma.  \n• November ; In deze fase verwerken we de zienswijzen uit de publieke \nterinzagelegging, de wensen en bedenkingen van de raad, en het advies van de \nCommissie mer.  \n• December ; Op basis van alle input wordt het definitieve warmteprogramma door het \nCollege vastgesteld.  \n• Januari ; Publicatie warmteprogramma.  \n \nEvaluatie  \nHet programma wordt elke vijf jaar geactualiseerd op basis van monitoring, evaluatie en \nnieuwe inzichten. Dit is wettelijk verplicht met de invoering van het Besluit gemeentelijke \ninstrumenten warmtetransitie (Bgiw). Ook de voortgang op CO ₂-reductie wordt gemonitord \nvia een plannings - en monitoringssysteem en de klimaatrapportages. Hiermee kunnen we \nde impact van maatregelen doorrekenen, de daadwerkelijke uitstoot volgen en bijsturen \nvia de vijfjaarlijkse cyclus van het Klimaatplan.  \n \nBijlage(n)  \nAls bijlage(n) bij dit voorstel behoren:  \n• Ontwerp  warmteprogramma 2026 -2035 incl. bijlagen . \n \nEen ontwerpraadsbesluit bieden wij u hierbij ter vaststelling aan.  \n \nBurgemeester en wethouders van Eindhoven,  \n \n \n \n, secretaris.    \n Inboeknummer     8000586 _03  \n \n 7 Ontwerp Raadsbesluit  \n \nDe raad van de gemeente Eindhoven;  \ngezien het voorstel van burgemeester en wethouders van ; \n \n \nbesluit:  \n \n1. Ten aanzien van het Ontwerp warmteprogramma 2026 –2035,  geen wensen en \nbedenkingen ter kennis van het college te brengen.  \n2. De Transitievisie Warmte in te trekken bij inwerkingtreding van Warmteprogramma \n2026 -2035.  \n3. In paragraaf 5.2.5. van de omgevingsvisie de passage ‘ Dit is beschreven in onze \nTransitievisie Warmte. ’, te vervangen door ‘dit is beschreven in ons \nwarmteprogramma.’ en de aan deze paragraaf gekoppelde omgevingsvisie \nwarmtekaart te laten vervallen.  \n \nAldus vastgesteld in de openbare vergadering van  \n \n \n \n \n, griffier.  \n ",
+    "bst": "8000586_03",
+    "related": [
+        {
+            "id": 1011385,
+            "weight": 1.8751945376447416
+        },
+        {
+            "id": 881818,
+            "weight": 1.1304724057756754
+        },
+        {
+            "id": 1128291,
+            "weight": 0.9438403320921636
+        },
+        {
+            "id": 977779,
+            "weight": 0.9426559653848874
+        },
+        {
+            "id": 977899,
+            "weight": 0.6740605279872771
+        },
+        {
+            "id": 1139113,
+            "weight": 0.49461041278856976
+        },
+        {
+            "id": 925075,
+            "weight": 0.48261508057259356
+        },
+        {
+            "id": 1133031,
+            "weight": 0.46019247199099433
+        },
+        {
+            "id": 1097464,
+            "weight": 0.43297679192314004
+        },
+        {
+            "id": 804725,
+            "weight": 0.3750407931624816
+        },
+        {
+            "id": 991657,
+            "weight": 0.33241410484018136
+        },
+        {
+            "id": 1009695,
+            "weight": 0.26874614245302453
+        },
+        {
+            "id": 1052802,
+            "weight": 0.25073520282028394
+        },
+        {
+            "id": 1049080,
+            "weight": 0.22445393726887272
+        },
+        {
+            "id": 955457,
+            "weight": 0.2240123959066356
+        },
+        {
+            "id": 787674,
+            "weight": 0.2212838929351352
+        },
+        {
+            "id": 1047216,
+            "weight": 0.208718505208358
+        },
+        {
+            "id": 960621,
+            "weight": 0.19383312181419313
+        },
+        {
+            "id": 1000389,
+            "weight": 0.17935445682691178
+        },
+        {
+            "id": 1125914,
+            "weight": 0.1750293471263334
+        },
+        {
+            "id": 1076225,
+            "weight": 0.17262340947428287
+        },
+        {
+            "id": "a_7746581",
+            "weight": 0.1722967386355087
+        },
+        {
+            "id": 1137541,
+            "weight": 0.1705105278734831
+        },
+        {
+            "id": 999124,
+            "weight": 0.15181269877410966
+        },
+        {
+            "id": 804504,
+            "weight": 0.14117213070804935
+        },
+        {
+            "id": 771634,
+            "weight": 0.13023210322488868
+        },
+        {
+            "id": 863931,
+            "weight": 0.1254851167094319
+        },
+        {
+            "id": 951266,
+            "weight": 0.1240951610170566
+        },
+        {
+            "id": 861872,
+            "weight": 0.12014201432946793
+        },
+        {
+            "id": 1125664,
+            "weight": 0.11661115317937554
+        },
+        {
+            "id": 923623,
+            "weight": 0.11391448664918566
+        },
+        {
+            "id": 1103025,
+            "weight": 0.11367612319479627
+        },
+        {
+            "id": 1130780,
+            "weight": 0.11092946489596321
+        },
+        {
+            "id": 944421,
+            "weight": 0.10780797878764589
+        },
+        {
+            "id": 778936,
+            "weight": 0.10754897386825986
+        },
+        {
+            "id": 853780,
+            "weight": 0.10557103128272796
+        },
+        {
+            "id": 945940,
+            "weight": 0.10395499237468661
+        },
+        {
+            "id": 858109,
+            "weight": 0.10110111585070379
+        },
+        {
+            "id": 955400,
+            "weight": 0.0999038947909617
+        },
+        {
+            "id": 795415,
+            "weight": 0.09760403957599918
+        },
+        {
+            "id": 771649,
+            "weight": 0.09529424132597422
+        },
+        {
+            "id": 1026194,
+            "weight": 0.0921880461226378
+        },
+        {
+            "id": 943628,
+            "weight": 0.08829843305124767
+        },
+        {
+            "id": 803261,
+            "weight": 0.08756952265622568
+        },
+        {
+            "id": 776884,
+            "weight": 0.08576812625074791
+        },
+        {
+            "id": 779530,
+            "weight": 0.07652408928262973
+        },
+        {
+            "id": "r_8441115",
+            "weight": 0.07421852349235353
+        },
+        {
+            "id": 941366,
+            "weight": 0.0742055294941816
+        },
+        {
+            "id": 775163,
+            "weight": 0.07412522862864357
+        },
+        {
+            "id": 1119726,
+            "weight": 0.07346530606456694
+        },
+        {
+            "id": 946531,
+            "weight": 0.07343674275247526
+        },
+        {
+            "id": 978875,
+            "weight": 0.07158470545314095
+        },
+        {
+            "id": 850176,
+            "weight": 0.0702024305196983
+        },
+        {
+            "id": 777032,
+            "weight": 0.06977759925608282
+        },
+        {
+            "id": 984178,
+            "weight": 0.06930455279917369
+        },
+        {
+            "id": 1102826,
+            "weight": 0.06756958218546257
+        },
+        {
+            "id": 905855,
+            "weight": 0.06603251068022059
+        },
+        {
+            "id": 984424,
+            "weight": 0.06193770257270013
+        },
+        {
+            "id": 1009564,
+            "weight": 0.06145256612301044
+        },
+        {
+            "id": 1031702,
+            "weight": 0.06076168591389972
+        },
+        {
+            "id": 1085541,
+            "weight": 0.05998222319045019
+        },
+        {
+            "id": 791808,
+            "weight": 0.05633027186163564
+        },
+        {
+            "id": 926816,
+            "weight": 0.0540617653702948
+        },
+        {
+            "id": 861372,
+            "weight": 0.04920448976237896
+        }
+    ],
+    "videostarttime": {
+        "1256657": null,
+        "1256749": 10895,
+        "1256671": 654
+    },
+    "videolink": null,
+    "keywords": {
+        "Raadsvoorstel Energietransitie": 1.9977534474701364,
+        "Nationale Klimaatakkoord": 0.9960500813517745,
+        "Warmteprogramma": 1.994003312846799,
+        "Transitievisie Warmte": 0.9920983544103886,
+        "Warmte": 1.9864234088078165,
+        "Inleiding Eindhoven": 0.9859529504515046,
+        "Energietransitie Ontwerp": 1.984876908090428,
+        "Eindhoven": 0.9822189867971112,
+        "raad": 0.9813617644800618,
+        "Ontwerp": 1.9728230399484814,
+        "Commissie mer": 0.9704935629542841,
+        "per": 0.9602262387753414,
+        "Raadsvoorstel": 1.9592010853970825,
+        "middelen": 0.9576153402181068,
+        "per gebied": 0.9570157661459114,
+        "Omgevingsvisie": 0.9546816029704627,
+        "Inboeknummer": 0.9492792621776307,
+        "uitvoering": 0.9427411587100802,
+        "gemeentelijke": 0.9421969409246023,
+        "nieuwe": 0.937405417413674,
+        "college": 0.9357707642767755,
+        "wensen": 0.933357874295393,
+        "bedenkingen": 0.933357874295393,
+        "zodat": 0.9323537410446903,
+        "publieke": 0.9320741214100512,
+        "Klimaatverordening": 0.9296308405497534,
+        "Inleiding": 0.9291764292621951,
+        "Nationale": 0.9287222962628209,
+        "Nederland": 0.9287222962628209,
+        "warmtetransitie": 0.9176716923074821,
+        "principe": 0.9169159451461419,
+        "TVW": 0.9146254716964816,
+        "advies": 0.914566762281925,
+        "bestaande": 0.9125833900515826,
+        "streeft ernaar": 0.9121504159940703,
+        "inzet": 0.9116540974137838,
+        "Participatie": 0.9096570125038098,
+        "bestuursakkoord": 0.9052041672522153,
+        "Klimaatplan": 0.9007051952819306,
+        "beschreven": 0.8981932134068681,
+        "uitvoeringsplannen per": 0.8933494312210191,
+        "richting": 0.8927565057155358,
+        "vastgesteld": 0.8924085827439544,
+        "Wgiw": 0.8892089212968384,
+        "gebiedsgerichte": 0.8891177965454327,
+        "aanpakken": 0.8889624097283735,
+        "energiedienstenorganisatie": 0.8885227503778266,
+        "maken": 0.8884995378005645,
+        "gaan": 0.8883172804210205,
+        "jaar": 0.8876756771532013,
+        "Eindhoven Noordoost": 0.8874887069762992,
+        "begroting": 0.8870197461774436,
+        "benodigde": 0.8868314032698709,
+        "financiële": 0.8849330706167571,
+        "kosten": 0.8846501147122834,
+        "Koers Sociaal": 0.8762536576267047,
+        "verplicht": 0.8638487133211054,
+        "aardgas": 0.8541306441620101,
+        "koers": 0.8522357041188026,
+        "laten warmte": 0.8517131995844571,
+        "zetten": 0.8516347271896185,
+        "energiebedrijf": 0.850417380699184,
+        "inwerkingtreding": 0.849311627713459,
+        "buurt": 0.8492337282914034,
+        "paragraaf": 0.8476559085410803,
+        "definitieve": 0.8474139842460591,
+        "inwoners": 0.8473775111720867,
+        "passage": 0.8472043133456932,
+        "actief": 0.8442130536506931,
+        "evaluatie": 0.8437556961064661,
+        "maatregelen": 0.842613020164349,
+        "benodigde middelen": 0.8422518514027761,
+        "vast": 0.8224534505498174,
+        "Ontwerp Raadsbesluit": 0.8202119405933215,
+        "gebouwen": 0.8172007908650021,
+        "november": 0.8127143584817487,
+        "komende": 0.8100329886263852,
+        "warmteprogramma richtinggevend": 0.809896076238763,
+        "communicatie": 0.8089932213108566,
+        "stellen": 0.7971488772759693,
+        "ontwerp actief": 0.7961197136895475,
+        "keuzes": 0.7948121013848135,
+        "waaronder": 0.7869025133401855,
+        "vijf": 0.7836929288143248,
+        "conform": 0.7826358844224781,
+        "sluit": 0.7805725562067316,
+        "trekken": 0.7777593200022983,
+        "onderdeel": 0.7777436632730041,
+        "terinzagelegging": 0.7775624987452374,
+        "warmtevoorziening": 0.7759324775625844,
+        "beeld": 0.7755632757741635,
+        "energiebesparingsaanpak": 0.7744187042431925,
+        "energiesysteem": 0.7742351979508082,
+        "kadernota": 0.7738362289856177,
+        "bijlage": 0.7731692054644971,
+        "afhankelijk": 0.7729903061171003,
+        "bewonersinitiatieven": 0.772964743509631,
+        "monitoring": 0.7727539726298531,
+        "ruimte": 0.772586087859082,
+        "stadsbrede": 0.7722181646245894
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": "10-04-2026",
+    "meeting_id": [
+        1256749
+    ]
+}

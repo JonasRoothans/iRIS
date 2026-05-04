@@ -1,0 +1,66 @@
+{
+    "module_id": 779677,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230013,
+    "title": "Toezegging: Initiatiefvoorstel Burgerberaad: Laat inwoners meebeslissen over de toekomst van de stad! (D66)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/779677",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Esselbrugge (Wethouder)",
+    "result": "",
+    "date": "10-05-2022",
+    "meeting_url": {
+        "1013462": "https://raadsinformatie.eindhoven.nl/vergadering/1013462"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": "In de evaluatie van de participatietrajecten(juni 2022) mee te nemen in hoeverrehet mogelijk is om eventuele vrijgekomenambtelijke capaciteit in te zettenvoor een te organiseren burgerberaad.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 776930,
+            "weight": 0.893961074641061
+        },
+        {
+            "id": 940753,
+            "weight": 0.33963711193197044
+        }
+    ],
+    "videostarttime": {
+        "1013462": null
+    },
+    "videolink": null,
+    "keywords": {
+        "Initiatiefvoorstel Burgerberaad": 1.9929915560044913,
+        "Laat inwoners": 1.9922598014590767,
+        "inwoners meebeslissen": 1.9798291908814725,
+        "Laat": 1.945376653403426,
+        "Burgerberaad": 1.936294020882481,
+        "Toezegging": 1.9322097094999102,
+        "stad": 1.8979683460410315,
+        "toekomst": 1.8593870843728357,
+        "eventuele vrijgekomenambtelijke": 0.848856127605185,
+        "vrijgekomenambtelijke capaciteit": 0.848856127605185,
+        "juni": 0.7983641069063814,
+        "participatietrajecten": 0.7170375696196658,
+        "mee": 1.7170375696196658,
+        "evaluatie": 0.6376481613018729,
+        "nemen": 0.6376481613018729,
+        "hoeverrehet": 0.6376481613018729,
+        "eventuele": 0.6376481613018729,
+        "capaciteit": 0.6376481613018729,
+        "zettenvoor": 0.6376481613018729,
+        "organiseren": 0.6376481613018729
+    },
+    "svz": null,
+    "afgedaan": "07-02-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

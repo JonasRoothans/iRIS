@@ -1,0 +1,97 @@
+{
+    "module_id": 949026,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230022,
+    "title": "Informeren raad Q4 2024 inzake PGB  - Raadsvoorstel Vereenvoudiging",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/949026",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Toub (Wethouder)",
+    "result": "",
+    "date": "04-06-2024",
+    "meeting_url": {
+        "1147942": "https://raadsinformatie.eindhoven.nl/vergadering/1147942#ai_8424221"
+    },
+    "attachment": null,
+    "parent": 941292,
+    "children": [],
+    "text": "Wethouder Toub zegt toe uiterlijk in Q4 2024 de raad te informeren over de vereenvoudiging van het PGB i.r.t. tot de toezegging n.a.v. de motie Hardwerkende zorgverleners verdienen eerlijke tarieven!",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 997022,
+            "weight": 1.0343664859490036
+        },
+        {
+            "id": 891630,
+            "weight": 0.8829103001497555
+        },
+        {
+            "id": 949028,
+            "weight": 0.6642503541540733
+        },
+        {
+            "id": 949024,
+            "weight": 0.6640267613235783
+        },
+        {
+            "id": 996947,
+            "weight": 0.6629761398437576
+        },
+        {
+            "id": 1059977,
+            "weight": 0.5643858959589702
+        },
+        {
+            "id": 949434,
+            "weight": 0.32714773288085475
+        },
+        {
+            "id": "a_8512346",
+            "weight": 0.29293684515184504
+        },
+        {
+            "id": 13698953,
+            "weight": 0.26480478455119255
+        },
+        {
+            "id": 1117282,
+            "weight": 0.16196896103396305
+        }
+    ],
+    "videostarttime": {
+        "1147942": 18517
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_04.06.24_Eindhoven_meningRZ.mp4/playlist.m3u8",
+    "keywords": {
+        "Wethouder Toub": 0.9958677592462807,
+        "Raadsvoorstel Vereenvoudiging": 1.9950104239516473,
+        "Vereenvoudiging Wethouder": 0.9934905600517236,
+        "Toub zegt": 0.9923954005668661,
+        "motie Hardwerkende": 0.9923954005668661,
+        "Hardwerkende zorgverleners": 0.9923954005668661,
+        "eerlijke tarieven": 0.9899291355491421,
+        "zorgverleners verdienen": 0.9859644026998748,
+        "verdienen eerlijke": 0.9859644026998748,
+        "Informeren raad": 1.9777561715066472,
+        "PGB": 1.974551133986872,
+        "Raadsvoorstel": 1.9507536928853535,
+        "Toub": 0.9358498978221941,
+        "raad": 1.926243971302865,
+        "toezegging": 0.9152526635641759,
+        "tarieven": 0.9152526635641759,
+        "zegt": 0.8823508350136691,
+        "uiterlijk": 0.8823508350136691,
+        "motie": 0.8823508350136691
+    },
+    "svz": "VOORSTEL COLLEGE: AFVOEREN.\n \n \nDe raad is geïnformeerd middels RIB op 11 december 2024:\n782767...  Lees verder ",
+    "afgedaan": "07-01-2025",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

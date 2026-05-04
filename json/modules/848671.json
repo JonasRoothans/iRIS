@@ -1,0 +1,61 @@
+{
+    "module_id": 848671,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230013,
+    "title": "HOV-traject - Raadsvoorstel Opvolging BO MIRT 2022",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/848671",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Steenbakkers (Wethouder)",
+    "result": "",
+    "date": "16-05-2023",
+    "meeting_url": {
+        "1094703": "https://raadsinformatie.eindhoven.nl/vergadering/1094703#ai_7534663"
+    },
+    "attachment": null,
+    "parent": 833109,
+    "children": [],
+    "text": "Wethouder Steenbakkers zegt toe:\n\ndat het college met een procesvoorstel komt hoe de raad meegenomen wordt in het HOV-traject.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 848670,
+            "weight": 1.988331242167237
+        },
+        {
+            "id": 993565,
+            "weight": 0.3143713616223966
+        },
+        {
+            "id": 1014907,
+            "weight": 0.22897302435318231
+        }
+    ],
+    "videostarttime": {},
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_16.05.23_Eindhoven_raadscieKnoopXL.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Opvolging": 1.9943786065225821,
+        "Wethouder Steenbakkers": 0.9943786065225823,
+        "Steenbakkers zegt": 0.9835374423226297,
+        "procesvoorstel komt": 0.9675064304991429,
+        "raad meegenomen": 0.9675064304991429,
+        "MIRT": 1.9387707991710164,
+        "Wethouder": 0.9387707991710162,
+        "HOV-traject": 1.9343461395313861,
+        "Opvolging": 1.908704180676506,
+        "zegt": 0.8225994208119777,
+        "college": 0.8225994208119777,
+        "komt": 0.8225994208119777,
+        "raad": 0.8225994208119777
+    },
+    "svz": "Op 14 november 2023 heeft de raadscommissie Knoop XL een technische presentatie gehad over: het proces van de ...  Lees verder ",
+    "afgedaan": "16-01-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

@@ -1,0 +1,74 @@
+{
+    "module_id": 942562,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 231116,
+    "title": "Market Garden bevrijding Eindhoven (Vraag V2 Vragenhalfuur)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/942562",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "J. Dijsselbloem (Burgemeester)",
+    "result": "",
+    "date": "07-05-2024",
+    "meeting_url": {
+        "1147927": "https://raadsinformatie.eindhoven.nl/vergadering/1147927#ai_7853370"
+    },
+    "attachment": null,
+    "parent": "ai_7853370",
+    "children": [],
+    "text": "Burgemeester Dijsselbloem zegt toe goed te zullen kijken naar hoe het proces tot nu toe gelopen is en of het nog gerealiseerd kan worden dat de Market Garden colonne ook door Eindhoven kan gaan.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 14114942,
+            "weight": 7.536452137591061
+        },
+        {
+            "id": 982293,
+            "weight": 1.110683348730237
+        },
+        {
+            "id": 975355,
+            "weight": 0.4074693575533933
+        },
+        {
+            "id": 888328,
+            "weight": 0.378547123965819
+        }
+    ],
+    "videostarttime": {
+        "1147927": 1412
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_07.05.24_NC_Eindhoven_Raadsvergadering.mp4/playlist.m3u8",
+    "keywords": {
+        "Burgemeester Dijsselbloem": 0.9940305405218103,
+        "Market Garden": 1.9930386821709645,
+        "Dijsselbloem zegt": 0.9821278527973843,
+        "Garden bevrijding": 1.9806941252019383,
+        "Garden colonne": 0.9806941252019382,
+        "bevrijding Eindhoven": 1.9756251118680312,
+        "Vraag": 1.965522926648077,
+        "Vragenhalfuur": 1.965522926648077,
+        "Garden": 1.9494014596703795,
+        "Burgemeester": 0.936746627747451,
+        "Eindhoven": 1.936432264878864,
+        "Market": 1.932154873007613,
+        "gaan": 0.8853321719593765,
+        "zegt": 0.8128383031389147,
+        "goed": 0.8128383031389147,
+        "kijken": 0.8128383031389147,
+        "proces": 0.8128383031389147,
+        "gelopen": 0.8128383031389147,
+        "gerealiseerd": 0.8128383031389147,
+        "colonne": 0.8128383031389147
+    },
+    "svz": "COLLEGE:GRAAG AFVOEREN:  De route kan inderdaad ook door een deel van Noord-Oost Eindhoven gaan. De gemee...  Lees verder ",
+    "afgedaan": "03-09-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

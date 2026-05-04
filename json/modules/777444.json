@@ -1,0 +1,95 @@
+{
+    "module_id": 777444,
+    "vote_id": null,
+    "member_id": [
+        194373
+    ],
+    "party_list": [
+        "Volt"
+    ],
+    "poho_id": [],
+    "title": "Beantwoording raadsvragen Brokmann (VOLT) over Deelmobiliteit hubs meer dan een dropzone",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/4/Raadsvragen/777444",
+    "type": "Raadsvraag",
+    "member": "Robin Brokmann",
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "24-06-2022",
+    "meeting_url": null,
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/11772338/1?connection_type=17&connection_id=8592703": "Vraag"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": "22bst01016",
+    "related": [
+        {
+            "id": 777473,
+            "weight": 0.5385562671990184
+        },
+        {
+            "id": 790715,
+            "weight": 0.4537427439604724
+        },
+        {
+            "id": 785216,
+            "weight": 0.23320326235362487
+        },
+        {
+            "id": 1139858,
+            "weight": 0.23077070359502397
+        },
+        {
+            "id": 906466,
+            "weight": 0.23071187558883643
+        },
+        {
+            "id": 1050869,
+            "weight": 0.21579702072748813
+        },
+        {
+            "id": 1148207,
+            "weight": 0.21175163212978446
+        },
+        {
+            "id": 1148253,
+            "weight": 0.20952251431197277
+        },
+        {
+            "id": 785761,
+            "weight": 0.19703485361877426
+        },
+        {
+            "id": "a_7585783",
+            "weight": 0.18940966385152216
+        },
+        {
+            "id": 1009635,
+            "weight": 0.16729290931149512
+        },
+        {
+            "id": 894796,
+            "weight": 0.14017506958658424
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "raadsvragen Brokmann": 1.9737669269624916,
+        "VOLT": 1.9696036283675864,
+        "Deelmobiliteit hubs": 1.955011371234592,
+        "Beantwoording raadsvragen": 1.9505961599793435,
+        "Brokmann": 1.9140368224837343,
+        "dropzone": 1.8416830712200127,
+        "hubs": 1.702634417439785
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": "02-04-2026",
+    "meeting_id": []
+}

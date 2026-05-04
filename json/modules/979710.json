@@ -1,0 +1,75 @@
+{
+    "module_id": 979710,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Toelichting m.b.t. wijzigingen concept gebiedsvisie - Raadsvoorstel Vaststelling gebiedsvisie Groots Gestel",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/979710",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "15-10-2024",
+    "meeting_url": {
+        "1148137": "https://raadsinformatie.eindhoven.nl/vergadering/1148137#ai_8692729"
+    },
+    "attachment": null,
+    "parent": 968648,
+    "children": [],
+    "text": "Wethouder Verhees zegt toe met een toelichting te komen over de wijzigingen van de concept gebiedsvisie naar de huidige gebiedsvisie",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 979709,
+            "weight": 1.149802962878001
+        },
+        {
+            "id": 991435,
+            "weight": 0.328636204929573
+        },
+        {
+            "id": 991683,
+            "weight": 0.32615512678082964
+        },
+        {
+            "id": 991544,
+            "weight": 0.31805700114825153
+        },
+        {
+            "id": 991438,
+            "weight": 0.3074939603459504
+        }
+    ],
+    "videostarttime": {
+        "1148137": 629
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_15.10.24_Eindhoven_mening.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Vaststelling": 1.9965207289541458,
+        "Groots Gestel": 1.9954846795135475,
+        "Gestel Wethouder": 0.9954846795135476,
+        "Wethouder Verhees": 0.9954846795135476,
+        "Verhees zegt": 0.9913598895358334,
+        "Vaststelling gebiedsvisie": 1.9861459607453784,
+        "gebiedsvisie Groots": 1.9861459607453784,
+        "wijzigingen concept": 1.9775386262584937,
+        "Raadsvoorstel": 1.9482853191029512,
+        "concept": 1.9338555992586774,
+        "Vaststelling": 1.9329550597551022,
+        "Groots": 1.9329550597551022,
+        "Gestel": 1.9329550597551022,
+        "Toelichting": 1.9169697536569061,
+        "zegt": 0.8722334840449363,
+        "komen": 0.8722334840449363,
+        "huidige": 0.8722334840449363
+    },
+    "svz": null,
+    "afgedaan": "19-11-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

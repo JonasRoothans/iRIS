@@ -1,0 +1,123 @@
+{
+    "module_id": 796517,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230022,
+    "title": "Raadsvoorstel Wijziging Verordening Sociaal Domein gemeente Eindhoven",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/796517",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Toub (Wethouder)",
+    "result": "",
+    "date": "22-11-2022",
+    "meeting_url": {
+        "1039911": "https://raadsinformatie.eindhoven.nl/vergadering/1039911#ai_7109838"
+    },
+    "attachment": null,
+    "parent": 784732,
+    "children": [],
+    "text": "Zo snel als mogelijk met het lokale initiatief en de Cliëntenraad Sociaal Domein in gesprek te gaan hoe we vorm kunnen geven aan het ouderinitiatief.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 884481,
+            "weight": 1.7993144713021567
+        },
+        {
+            "id": 784732,
+            "weight": 1.7956484051513943
+        },
+        {
+            "id": 1020674,
+            "weight": 1.4346850955546055
+        },
+        {
+            "id": 827870,
+            "weight": 1.0092810967562396
+        },
+        {
+            "id": 983073,
+            "weight": 0.4671626790448468
+        },
+        {
+            "id": 785473,
+            "weight": 0.4417128484951502
+        },
+        {
+            "id": 996477,
+            "weight": 0.43991758539897935
+        },
+        {
+            "id": 955427,
+            "weight": 0.4391345435735148
+        },
+        {
+            "id": 800622,
+            "weight": 0.43023926911634136
+        },
+        {
+            "id": 1146326,
+            "weight": 0.42802338339888363
+        },
+        {
+            "id": 1081577,
+            "weight": 0.4211376946758277
+        },
+        {
+            "id": 1036316,
+            "weight": 0.4141326151217315
+        },
+        {
+            "id": 996947,
+            "weight": 0.3814723839150857
+        },
+        {
+            "id": 984972,
+            "weight": 0.37900525315249733
+        },
+        {
+            "id": 845573,
+            "weight": 0.2111511624022058
+        },
+        {
+            "id": 979977,
+            "weight": 0.1940769910363745
+        },
+        {
+            "id": 1104171,
+            "weight": 0.16693140048817398
+        }
+    ],
+    "videostarttime": {
+        "1039911": null
+    },
+    "videolink": null,
+    "keywords": {
+        "Sociaal Domein": 1.9949847478114324,
+        "Wijziging Verordening": 1.9913184023286292,
+        "Verordening Sociaal": 1.9906685154721977,
+        "Cliëntenraad Sociaal": 0.9906685154721976,
+        "Raadsvoorstel Wijziging": 1.9895060060021674,
+        "gemeente Eindhoven": 1.9827229906989854,
+        "Domein gemeente": 1.9814178151757866,
+        "lokale initiatief": 0.9653249501666379,
+        "Sociaal": 1.950173068235437,
+        "Domein": 1.950173068235437,
+        "Wijziging": 1.9072267482800471,
+        "Eindhoven": 1.9072267482800471,
+        "snel": 0.8169344778645228,
+        "lokale": 0.8169344778645228,
+        "gesprek": 0.8169344778645228,
+        "gaan": 0.8169344778645228,
+        "vorm": 0.8169344778645228
+    },
+    "svz": null,
+    "afgedaan": "28-03-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

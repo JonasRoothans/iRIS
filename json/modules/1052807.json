@@ -1,0 +1,129 @@
+{
+    "module_id": 1052807,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230014,
+    "title": "Climate View - Raadsvoorstel Vaststellen Klimaatplan III, 2026-2030",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1052807",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "R. Thijs (Wethouder)",
+    "result": "",
+    "date": "03-06-2025",
+    "meeting_url": {
+        "1256615": "https://raadsinformatie.eindhoven.nl/vergadering/1256615#ai_9330941"
+    },
+    "attachment": null,
+    "parent": 1037936,
+    "children": [],
+    "text": "De wethouder zegt toe: \n-    Climate View beschikbaar wordt gemaakt voor de gemeenteraad",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1052802,
+            "weight": 2.2074030261872903
+        },
+        {
+            "id": 1037936,
+            "weight": 1.0941745720479021
+        },
+        {
+            "id": 1128296,
+            "weight": 0.8468400059094332
+        },
+        {
+            "id": 1000389,
+            "weight": 0.8465767503938461
+        },
+        {
+            "id": 862662,
+            "weight": 0.6228559628804227
+        },
+        {
+            "id": 984181,
+            "weight": 0.5919538120873878
+        },
+        {
+            "id": "a_9418522",
+            "weight": 0.5332840844560269
+        },
+        {
+            "id": "a_9418456",
+            "weight": 0.5287958559070244
+        },
+        {
+            "id": 1052610,
+            "weight": 0.513860273600507
+        },
+        {
+            "id": 1085541,
+            "weight": 0.3492807440570013
+        },
+        {
+            "id": 1060193,
+            "weight": 0.3401367854462986
+        },
+        {
+            "id": 776998,
+            "weight": 0.3031078364324774
+        },
+        {
+            "id": 776915,
+            "weight": 0.30248241110877605
+        },
+        {
+            "id": 1052828,
+            "weight": 0.23613689316210593
+        },
+        {
+            "id": 1052810,
+            "weight": 0.23323785878360404
+        },
+        {
+            "id": 1077875,
+            "weight": 0.22049612737067903
+        },
+        {
+            "id": 1088202,
+            "weight": 0.22045940002583408
+        },
+        {
+            "id": 915421,
+            "weight": 0.19159941544294137
+        },
+        {
+            "id": 1123237,
+            "weight": 0.1606016628219925
+        }
+    ],
+    "videostarttime": {
+        "1256615": 4983
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_03.06.25_NC_02-EINDHOVEN-CIE.mp4/playlist.m3u8",
+    "keywords": {
+        "Climate View": 1.9968452081031374,
+        "Raadsvoorstel Vaststellen": 1.9940823475428064,
+        "Klimaatplan III": 1.9940823475428064,
+        "Vaststellen Klimaatplan": 1.9911911740168406,
+        "View beschikbaar": 0.9809538098309866,
+        "wethouder zegt": 0.9642844799006663,
+        "View": 1.9496759015121543,
+        "III": 1.9370446783282913,
+        "Vaststellen": 1.906555320515322,
+        "2026-2030": 1.8863079377134113,
+        "gemeenteraad": 0.8863079377134112,
+        "zegt": 0.8143015634365182,
+        "gemaakt": 0.8143015634365182
+    },
+    "svz": null,
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": [
+        1256615
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "module_id": 1139962,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230656,
+    "title": "Exploitanten op het Baekelandplein",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1139962",
+    "type": "Toezegging",
+    "member": "",
+    "party": "",
+    "poho": "J. Dijsselbloem (Burgemeester)",
+    "result": "",
+    "date": "03-03-2026",
+    "meeting_url": {
+        "1374925": "https://raadsinformatie.eindhoven.nl/vergadering/1374925#ai_10043049"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": "Burgemeester Dijsselbloem zegt toe:\nDat er in gesprek gegaan wordt met de exploitanten op het Baekelandplein over het beheer.\nTer informatie: de uitkomst van dit gesprek vormt input voor de APV-wijziging die in september 2026 ter besluitvorming aan de Raad aangeboden wordt.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 926404,
+            "weight": 0.29587761182386313
+        },
+        {
+            "id": 1126046,
+            "weight": 0.18367763541572305
+        },
+        {
+            "id": 1050953,
+            "weight": 0.18319416759786103
+        },
+        {
+            "id": 1126057,
+            "weight": 0.18187723191093258
+        },
+        {
+            "id": 920652,
+            "weight": 0.17418677108525954
+        },
+        {
+            "id": "a_10115166",
+            "weight": 0.16797958584138456
+        },
+        {
+            "id": 942563,
+            "weight": 0.15538674292970275
+        },
+        {
+            "id": 883872,
+            "weight": 0.14527475319564206
+        },
+        {
+            "id": 1052186,
+            "weight": 0.12375312312162265
+        },
+        {
+            "id": 892419,
+            "weight": 0.12196244241623323
+        },
+        {
+            "id": 775216,
+            "weight": 0.12168583644994359
+        },
+        {
+            "id": 1072463,
+            "weight": 0.10738030630121513
+        },
+        {
+            "id": 863090,
+            "weight": 0.10348834524870552
+        },
+        {
+            "id": 905855,
+            "weight": 0.09083695207907004
+        },
+        {
+            "id": 866942,
+            "weight": 0.08468261193219312
+        },
+        {
+            "id": 828190,
+            "weight": 0.08024669995542008
+        },
+        {
+            "id": 1123624,
+            "weight": 0.06789633622003315
+        },
+        {
+            "id": 921493,
+            "weight": 0.06414687124600317
+        }
+    ],
+    "videostarttime": {
+        "1374925": 640
+    },
+    "videolink": null,
+    "keywords": {
+        "Burgemeester Dijsselbloem": 0.9937945838000576,
+        "Baekelandplein Burgemeester": 0.9883921165099895,
+        "Dijsselbloem zegt": 0.9858926165053452,
+        "Burgemeester": 0.9214688183635898,
+        "Exploitanten": 1.8700821922731155,
+        "zegt": 0.8228584683754654,
+        "Raad aangeboden": 0.8136326020993191,
+        "gesprek": 0.7731477831149873,
+        "gesprek gegaan": 0.7591533112097977,
+        "Raad": 0.6986969250991789,
+        "beheer": 0.6582354592983064,
+        "vormt input": 0.6266979005189484,
+        "gegaan": 0.5721913805732666,
+        "informatie": 0.569326921787285,
+        "september": 0.569326921787285
+    },
+    "svz": "",
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "08-04-2026",
+    "meeting_id": []
+}

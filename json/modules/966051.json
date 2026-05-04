@@ -1,0 +1,67 @@
+{
+    "module_id": 966051,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230013,
+    "title": "Expatcenter - Raadsvoorstel Jaarstukken 2023",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/966051",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Steenbakkers (Wethouder)",
+    "result": "",
+    "date": "26-06-2024",
+    "meeting_url": {
+        "1147977": "https://raadsinformatie.eindhoven.nl/vergadering/1147977#ai_8483500"
+    },
+    "attachment": null,
+    "parent": 946916,
+    "children": [],
+    "text": "Wethouder Steenbakkers zegt toe dat de raad wordt geïnformeerd over de focus van de inzet voor het komende jaar.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 948989,
+            "weight": 0.8385096579957962
+        },
+        {
+            "id": 833162,
+            "weight": 0.16937076210054502
+        },
+        {
+            "id": 955171,
+            "weight": 0.1672542355365888
+        },
+        {
+            "id": 910114,
+            "weight": 0.1547937761293143
+        }
+    ],
+    "videostarttime": {
+        "1147977": 762
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_26.06.24_NC_Eindhoven_Cie.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Jaarstukken": 1.9977134700191637,
+        "Wethouder Steenbakkers": 0.9968131692799578,
+        "Steenbakkers zegt": 0.9922565679365212,
+        "komende jaar": 0.9910067820787357,
+        "Expatcenter": 1.9550880231213545,
+        "Jaarstukken": 1.9522369003446032,
+        "Wethouder": 0.9522369003446032,
+        "jaar": 0.9228514046076703,
+        "zegt": 0.8844689164123877,
+        "raad": 0.8844689164123877,
+        "geïnformeerd": 0.8844689164123877,
+        "focus": 0.8844689164123877,
+        "inzet": 0.8844689164123877
+    },
+    "svz": "De raad is op 10 juli jl met een raadsinformatiebrief geïnformeerd over de Uitvoeringsagenda Living In 20...  Lees verder ",
+    "afgedaan": "03-09-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

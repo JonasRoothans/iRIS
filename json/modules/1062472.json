@@ -1,0 +1,143 @@
+{
+    "module_id": 1062472,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 248564,
+    "title": "Atelierruimte (Vraag V1 Vragenhalfuur)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/moties_en_toezeggingen/1062472?parent_event=1256322",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Lammers (Wethouder)",
+    "result": "",
+    "date": "01-07-2025",
+    "meeting_url": {
+        "1256322": "https://raadsinformatie.eindhoven.nl/vergadering/1256322#ai_8588215"
+    },
+    "attachment": null,
+    "parent": "ai_8588215",
+    "children": [],
+    "text": "Wethouder Lammers zegt toe:\n\nin gesprek te gaan met een vertegenwoordiging van de Creatieve Laag;\nte kijken welke punten ingebracht kunnen worden bij de Strategische Ontwikkelagenda van Design Development Eindhoven, inclusief cultureel ondernemerschap;\nde vraag naar ateliers en broedplaatsen te betrekken bij het IHP cultuur.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 15747143,
+            "weight": 2.2744754445230324
+        },
+        {
+            "id": 1096833,
+            "weight": 1.390463237927132
+        },
+        {
+            "id": 1051079,
+            "weight": 0.5040297292098674
+        },
+        {
+            "id": 952404,
+            "weight": 0.47790997631997206
+        },
+        {
+            "id": 1132403,
+            "weight": 0.3968521296555731
+        },
+        {
+            "id": 1059984,
+            "weight": 0.26561732329935533
+        },
+        {
+            "id": 894988,
+            "weight": 0.25809715413003426
+        },
+        {
+            "id": 1059971,
+            "weight": 0.1978953841025018
+        },
+        {
+            "id": 1140187,
+            "weight": 0.15725729409476358
+        },
+        {
+            "id": 1094398,
+            "weight": 0.14657397689776427
+        },
+        {
+            "id": "a_9477086",
+            "weight": 0.14260926614645822
+        },
+        {
+            "id": "a_7585337",
+            "weight": 0.13450388569332059
+        },
+        {
+            "id": 776527,
+            "weight": 0.12270197421515382
+        },
+        {
+            "id": 1092907,
+            "weight": 0.11326095652931603
+        },
+        {
+            "id": 975695,
+            "weight": 0.09365621062241272
+        },
+        {
+            "id": 977654,
+            "weight": 0.09101815313041986
+        },
+        {
+            "id": 975167,
+            "weight": 0.08821727173997893
+        },
+        {
+            "id": 836274,
+            "weight": 0.08257289264380198
+        },
+        {
+            "id": 1133337,
+            "weight": 0.08212592468886748
+        }
+    ],
+    "videostarttime": {
+        "1256322": 915
+    },
+    "videolink": null,
+    "keywords": {
+        "Wethouder Lammers": 0.9964693107848717,
+        "Creatieve Laag": 0.9964693107848717,
+        "Development Eindhoven": 0.9964693107848717,
+        "Strategische Ontwikkelagenda": 0.9951064579249341,
+        "Design Development": 0.9951064579249341,
+        "IHP cultuur": 0.9940812041900509,
+        "Lammers zegt": 0.9911448730517877,
+        "inclusief cultureel": 0.9892807677936725,
+        "cultureel ondernemerschap": 0.9892807677936725,
+        "punten ingebracht": 0.9839248689194434,
+        "Vragenhalfuur": 1.967678737143877,
+        "Atelierruimte": 1.9507546780022964,
+        "Laag": 0.9495829771353834,
+        "Eindhoven": 0.9495829771353834,
+        "Strategische": 0.9302166786773557,
+        "Design": 0.9302166786773557,
+        "IHP": 0.9302166786773557,
+        "inclusief": 0.9156822908015392,
+        "zegt": 0.8742192006141724,
+        "gesprek": 0.8742192006141724,
+        "gaan": 0.8742192006141724,
+        "vertegenwoordiging": 0.8742192006141724,
+        "kijken": 0.8742192006141724,
+        "punten": 0.8742192006141724,
+        "cultureel": 0.8742192006141724,
+        "broedplaatsen": 0.8742192006141724,
+        "betrekken": 0.8742192006141724
+    },
+    "svz": "Gesprekken hebben reeds voor het zomerreces plaatsgevonden. Voorstel toezegging afvoeren.",
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "02-10-2025",
+    "meeting_id": [
+        1256322
+    ]
+}

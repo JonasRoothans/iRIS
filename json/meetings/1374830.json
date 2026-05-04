@@ -1,0 +1,18 @@
+{
+    "meeting_id": 1374830,
+    "meeting_subid": {
+        "Raadzaal": 1374830
+    },
+    "subtitles": {
+        "Commissiekamer": null,
+        "Raadzaal": null
+    },
+    "speakers": null,
+    "title": {
+        "Raadzaal": "Bijeenkomst/1374830 Gemeente Eindhoven"
+    },
+    "meeting_url": "https://raadsinformatie.eindhoven.nl/vergadering/1374830/",
+    "api_url": "api.notubiz.nl/events/1374830",
+    "date": "2026-01-13 17:00:00",
+    "type": "Raadsavond "
+}

@@ -1,0 +1,159 @@
+{
+    "module_id": 16452187,
+    "vote_id": null,
+    "member_id": [
+        194375
+    ],
+    "party_list": [
+        "Partij voor de Dieren"
+    ],
+    "poho_id": [],
+    "title": "Rondvraag 4 - Trefpunt Groen Eindhoven (PvdD)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "06-01-2026",
+    "meeting_url": {
+        "1374826": "https://raadsinformatie.eindhoven.nl/vergadering/1374824/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://api.notubiz.nl/document/16452187/1",
+    "pdf_text": " \n \n \n \nRondvraag   \nTrefpunt Groen Eindhoven  \n \nSamenwerkingsprotocol TGE                       \nTrefpunt groen is in het leven geroepen om te zorgen dat er snel duidelijkheid zou \nzijn over groene thema’s. Lange juridische processen zijn hierdoor verminderd. \nEen essentieel onderdeel van de rol van TGE is ‘beginspraak’.  \n \nDe monumentale bomen aan de vonderweg waar mogelijk de bijl ingezet gaan \nworden hadden bespaard kunnen blijven als TGE al vooraf goed betrokken was. \nOok in andere projecten wordt het advies van TGE genegeerd, denk bijvoorbeeld \naan de tunnel bij de Limburgl aan. \n \nRecent  is aangegeven de samenwerking met Trefpunt Groen Eindhoven voort te \nzetten en het protocol is aangepast aan de huidige wetgeving.  \n \nWij willen de wethouder vragen:  \n1. Vindt de wethouder de huidige werkwijze passend bij het protocol?  \n2. Is de wethouder zich er van bewust dat het negeren van het advies \nprojecten juist kan gaan vertragen?  \n \n \nEindhoven, 6 januari 2026  \n \nDe leden van de raad  en/of commissie , \n \nJonas Roothans  PvdD  \n \n \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 1124827,
+            "weight": 1.747473656846344
+        },
+        {
+            "id": 11753467,
+            "weight": 0.33674202635629086
+        },
+        {
+            "id": 1008199,
+            "weight": 0.2829942696972973
+        },
+        {
+            "id": 940757,
+            "weight": 0.2562442813523349
+        },
+        {
+            "id": 1150706,
+            "weight": 0.25489291657371893
+        },
+        {
+            "id": 856601,
+            "weight": 0.18516770825461365
+        },
+        {
+            "id": 1046082,
+            "weight": 0.1718725835000041
+        },
+        {
+            "id": "a_7037805",
+            "weight": 0.15249568103508568
+        },
+        {
+            "id": 890080,
+            "weight": 0.14812435015747602
+        },
+        {
+            "id": 977654,
+            "weight": 0.1473783058947376
+        },
+        {
+            "id": 1014011,
+            "weight": 0.14135868259171566
+        },
+        {
+            "id": 829739,
+            "weight": 0.13767654826397854
+        },
+        {
+            "id": 1045974,
+            "weight": 0.13315901019084855
+        },
+        {
+            "id": 937463,
+            "weight": 0.132328634727241
+        },
+        {
+            "id": 1117037,
+            "weight": 0.12779744339701382
+        },
+        {
+            "id": 1037388,
+            "weight": 0.0725655223646263
+        },
+        {
+            "id": 824885,
+            "weight": 0.05927323882470995
+        },
+        {
+            "id": 891691,
+            "weight": 0.05830087819555414
+        },
+        {
+            "id": 1116686,
+            "weight": 0.05249392973406887
+        }
+    ],
+    "videostarttime": {
+        "1374826": 5412
+    },
+    "videolink": null,
+    "keywords": {
+        "Trefpunt Groen": 1.9914722648524883,
+        "Rondvraag Trefpunt": 0.9875307525713447,
+        "Samenwerkingsprotocol TGE": 0.9864113393405193,
+        "Groen Eindhoven": 1.9835253814198657,
+        "leven geroepen": 0.9674923906260786,
+        "snel duidelijkheid": 0.9674923906260786,
+        "groene thema": 0.9674923906260786,
+        "Rondvraag": 1.9665606464156906,
+        "TGE Trefpunt": 0.9617048280923326,
+        "Groen": 1.9552187679388053,
+        "TGE": 0.9499282621457956,
+        "TGE genegeerd": 0.8703511296893209,
+        "wethouder": 0.8511303958262451,
+        "leven": 0.8225623055861625,
+        "zorgen": 0.8225623055861625,
+        "snel": 0.8225623055861625,
+        "thema": 0.8225623055861625,
+        "Jonas Roothans": 0.8103312560376723,
+        "Lange juridische": 0.7951061049876795,
+        "hierdoor verminderd": 0.7951061049876795,
+        "PvdD": 1.7772487610270424,
+        "Roothans PvdD": 0.7766645653819045,
+        "juridische processen": 0.775341551149848,
+        "advies": 0.747628832492617,
+        "protocol": 0.747628832492617,
+        "huidige": 0.747628832492617,
+        "gaan": 0.7376064750574665,
+        "projecten": 0.7333637796657235,
+        "Limburgl": 0.6632140559202542,
+        "essentieel onderdeel": 0.6257002858070382,
+        "Jonas": 0.610947901671668,
+        "Lange": 0.6029672534710053,
+        "hierdoor": 0.5716942680994892,
+        "ingezet gaan": 0.5708279296983466,
+        "huidige wetgeving": 0.5696392248475627,
+        "beginspraak’": 0.5447535885427042,
+        "monumentale bomen": 0.5131506242510708,
+        "bijl ingezet": 0.5131506242510708,
+        "goed betrokken": 0.5131506242510708
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194375,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1374826
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "module_id": 826809,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Bouwopgave Ouderenwoningen - Agenderingsverzoek Woningbouwproductie (SP, 50PLUS, PvdD, VVD)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/826809",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "07-03-2023",
+    "meeting_url": {
+        "1079005": "https://raadsinformatie.eindhoven.nl/vergadering/1079005#ai_7365084"
+    },
+    "attachment": null,
+    "parent": 820486,
+    "children": [],
+    "text": "Wethouder Verhees zegt toe:\n\ntechnisch terug te komen op het percentage van de bouwopgave voor ouderenwoningen.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 826810,
+            "weight": 1.8029114153608936
+        },
+        {
+            "id": 826811,
+            "weight": 1.800390243673593
+        },
+        {
+            "id": 1123624,
+            "weight": 0.6042171725936994
+        },
+        {
+            "id": 1025528,
+            "weight": 0.4815340711116884
+        },
+        {
+            "id": 891726,
+            "weight": 0.47619454232104
+        },
+        {
+            "id": 931268,
+            "weight": 0.47208934213269477
+        },
+        {
+            "id": "ai_7818784",
+            "weight": 0.45637041128899475
+        },
+        {
+            "id": 993565,
+            "weight": 0.23941926288442217
+        },
+        {
+            "id": 941379,
+            "weight": 0.1589101814710407
+        }
+    ],
+    "videostarttime": {
+        "1079005": null
+    },
+    "videolink": null,
+    "keywords": {
+        "Agenderingsverzoek Woningbouwproductie": 1.996068587087759,
+        "Wethouder Verhees": 0.9941476432967787,
+        "Verhees zegt": 0.9826080374015959,
+        "technisch terug": 0.97888512785368,
+        "Bouwopgave Ouderenwoningen": 1.973681877608545,
+        "VVD": 1.965973237547494,
+        "PvdD": 1.9466830006976161,
+        "Agenderingsverzoek": 1.9374219093392173,
+        "Woningbouwproductie": 1.9374219093392173,
+        "Bouwopgave": 1.8671727897843913,
+        "zegt": 0.8161405114575309,
+        "terug": 0.8161405114575309,
+        "komen": 0.8161405114575309,
+        "percentage": 0.8161405114575309
+    },
+    "svz": "Overzicht hieromtrent is toegevoegd aan de bijeenkomst van 7 maart. Hierover heeft u via de Griffie een attend...  Lees verder ",
+    "afgedaan": "28-03-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

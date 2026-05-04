@@ -1,0 +1,138 @@
+{
+    "module_id": 13264458,
+    "vote_id": null,
+    "member_id": [
+        137276
+    ],
+    "party_list": [
+        "PvdA"
+    ],
+    "poho_id": [],
+    "title": "3. Rondvraag - Mindervaliden in het Philips Stadion (PvdA)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "03-10-2023",
+    "meeting_url": {
+        "1142112": "https://raadsinformatie.eindhoven.nl/vergadering/1013518/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://api.notubiz.nl/document/13264458/1",
+    "pdf_text": " \n \n \nRondvraag Mindervaliden in het Philips Stadion .  \n \n \nIn het ED van afgelopen vrijdag lezen wij dat er een onderzoek wordt \ngestart naar uitbreiding , dan wel verplaatsing van het Philips Stadion.  \n \nHet Philips stadion faciliteert 168 mindervalidenplaatsen tijdens \nwedstrijden van PSV. De meeste van alle stadions in het betaald \nvoetbal. Dat is natuurlijk geweldig. Echter de positionering geeft \nmindervaliden niet altijd evenveel comfort. Als de wind ver keerd staat en \nhet regent zitten ze niet overdekt. En het zicht wordt ook vaak \nbelemmerd door voorbijlopende supporters.  \n \nDe oplossing die vaak voorbij komt is een platform waar \nrolstoelgebruikers dichtbij een toilet kunnen gaan en niet in het gedrang \nkome n tussen andere supporters.  \n \nDe PvdA gaat er vanuit dat er een periodiek overleg plaatsvindt tussen \nPSV en de gemeente. Kan de wethouder hierin aankaarten, om in het \nonderzoek mee te nemen of deze trouwe supporters, na een verbouwing \nof verplaatsing, een betere en drogere positie kunnen innemen?  \n \n \nPatrick van Tuijn, raadslid PvdA  \n \n \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 1097551,
+            "weight": 0.497580298525016
+        },
+        {
+            "id": 1144514,
+            "weight": 0.4951301295020783
+        },
+        {
+            "id": 836957,
+            "weight": 0.25930696339884163
+        },
+        {
+            "id": 847794,
+            "weight": 0.24426814070105315
+        },
+        {
+            "id": 1141277,
+            "weight": 0.23949211500836848
+        },
+        {
+            "id": 810287,
+            "weight": 0.23378317190145637
+        },
+        {
+            "id": 865694,
+            "weight": 0.22146645206845172
+        },
+        {
+            "id": 1144307,
+            "weight": 0.21477819040436122
+        },
+        {
+            "id": 904066,
+            "weight": 0.2013615837591411
+        },
+        {
+            "id": 960627,
+            "weight": 0.16421240095461376
+        },
+        {
+            "id": 1118640,
+            "weight": 0.1421231078085601
+        },
+        {
+            "id": 1115687,
+            "weight": 0.09880624145513364
+        },
+        {
+            "id": 790659,
+            "weight": 0.09878103181139736
+        },
+        {
+            "id": 1150706,
+            "weight": 0.09682092373174414
+        },
+        {
+            "id": 884948,
+            "weight": 0.09163211703033533
+        },
+        {
+            "id": 1058315,
+            "weight": 0.0901308472378377
+        },
+        {
+            "id": 929754,
+            "weight": 0.08793078568704253
+        },
+        {
+            "id": 924599,
+            "weight": 0.07198856039653699
+        },
+        {
+            "id": 1061602,
+            "weight": 0.06208345062607985
+        }
+    ],
+    "videostarttime": {
+        "1142112": 899
+    },
+    "videolink": null,
+    "keywords": {
+        "Philips Stadion": 1.9927041342581657,
+        "Philips": 1.9689133406987656,
+        "Stadion": 1.9429901380447552,
+        "Rondvraag Mindervaliden": 0.9329491160647881,
+        "Rondvraag": 1.8951474930400538,
+        "stadion faciliteert": 0.8710240198038504,
+        "supporters": 0.845978345814898,
+        "PSV": 0.8262822235709281,
+        "PvdA": 1.808259075296395,
+        "vrijdag lezen": 0.7452925694428129,
+        "onderzoek": 0.7173978782058674,
+        "verplaatsing": 0.7173978782058674,
+        "uitbreiding": 0.5920493797605835,
+        "Tuijn": 0.5876773440504919,
+        "lezen": 0.5494431753328399,
+        "gestart": 0.5494431753328399,
+        "voorbijlopende supporters": 0.5449973570810538,
+        "betaald voetbal": 0.5124272171826021
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 137276,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1142112
+    ]
+}

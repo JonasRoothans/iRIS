@@ -1,0 +1,116 @@
+{
+    "module_id": 785473,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230013,
+    "title": "Raadsvoorstel Wijziging statuten SALTO",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/19/Raadsvoorstellen/785473",
+    "type": "Raadsvoorstel",
+    "member": null,
+    "party": null,
+    "poho": "S. Steenbakkers (Wethouder)",
+    "result": "Afgerond",
+    "date": "29-11-2022",
+    "meeting_url": {
+        "1013585": "https://raadsinformatie.eindhoven.nl/vergadering/1013585#ai_7092271",
+        "1039912": "https://raadsinformatie.eindhoven.nl/vergadering/1039912#ai_7110076"
+    },
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/11921225/1/22bst01203+Raadsvoorstel+Wijziging+statuten+SALTO?connection_type=17&connection_id=8696717": "22bst01203 Raadsvoorstel Wijziging statuten SALTO",
+        "http://raadsinformatie.eindhoven.nl/document/11921224/1?connection_type=16&connection_id=785473": " 22bst01203 - Bijlage 1 - Akte van statutenwijziging ",
+        "http://raadsinformatie.eindhoven.nl/document/11925046/2?connection_type=16&connection_id=785473": " 22bst01203 Bijlage 2 - Advies van accountant ",
+        "http://raadsinformatie.eindhoven.nl/document/12087583/1?connection_type=16&connection_id=785473": " Commissieadvies Raadsvoorstel Wijziging statuten SALTO "
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/12120788/1?connection_type=17&connection_id=8861646",
+    "pdf_text": " \n \n \n  gemeente Eindhoven  \nInboeknummer          22bst01203   \nDossiernummer        22.40.353  \nB&W beslisdatum     04 oktober 2022      \n \nRaadsvoorstel    Wijziging statuten SALTO   \n \n \n \n   Raadsbesluit   \n \nDe raad van de gemeente Eindhoven;  \ngezien het voorstel van burgemeester en wethouders van  4 oktober 2022 ; \ngelet op de behandeling in de meningsvormende vergadering van 22 november 2022 ; \n \nbesluit:  \n \n1 In te stemmen met de voorgestelde wijziging van de statuten van SALTO.  \n \n \nAldus vastgesteld in de openbare vergader ing van 29 november 2022 . \n \n \n \n \nJ. Jongbloed , griffier.  \n \n ",
+    "bst": "22bst01203",
+    "related": [
+        {
+            "id": 996477,
+            "weight": 0.44183829612415354
+        },
+        {
+            "id": 796517,
+            "weight": 0.4417128484951502
+        },
+        {
+            "id": 955427,
+            "weight": 0.44105183548370547
+        },
+        {
+            "id": 1020674,
+            "weight": 0.43874665656793455
+        },
+        {
+            "id": 800622,
+            "weight": 0.4321177236405755
+        },
+        {
+            "id": 1146326,
+            "weight": 0.42989216321220697
+        },
+        {
+            "id": 1081577,
+            "weight": 0.4229764110940526
+        },
+        {
+            "id": 1045809,
+            "weight": 0.27507150799503793
+        },
+        {
+            "id": "a_7006032",
+            "weight": 0.22555288063077703
+        },
+        {
+            "id": 845573,
+            "weight": 0.2120730630393242
+        }
+    ],
+    "videostarttime": {
+        "1013585": 2639,
+        "1039912": 809
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_29.11.22-EINDHOVEN-RAA-ONDERTITEL_2022.11.29_195657.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Wijziging": 1.9981923273731603,
+        "Eindhoven Inboeknummer": 0.9967576108906476,
+        "statuten SALTO": 1.9966361980301977,
+        "gemeente Eindhoven": 0.9964715348632192,
+        "Wijziging statuten": 1.9963868158358529,
+        "SALTO Raadsbesluit": 0.9960742565441589,
+        "SALTO gemeente": 0.9927185569323486,
+        "meningsvormende vergadering": 0.9799613080102402,
+        "SALTO": 1.9799205402093993,
+        "Wijziging": 1.9784425894693025,
+        "Eindhoven": 0.9708029843655519,
+        "oktober": 0.9686824962546107,
+        "Dossiernummer": 0.9540733833166739,
+        "november": 0.9471706677853376,
+        "besluit": 0.9102412752074752,
+        "beslisdatum": 0.8858992784140876,
+        "gezien": 0.8858992784140876,
+        "gelet": 0.8858992784140876,
+        "raad": 0.859839266343148,
+        "voorstel": 1.859839266343148,
+        "burgemeester": 0.859839266343148,
+        "wethouders": 0.859839266343148,
+        "behandeling": 0.859839266343148,
+        "stemmen": 0.859839266343148,
+        "openbare vergader": 0.849685518151392,
+        "vergader ing": 0.849685518151392,
+        "Jongbloed": 0.8309205695048719,
+        "griffier": 0.7448909727077151,
+        "vastgesteld": 0.6385134704346648,
+        "openbare": 0.6385134704346648,
+        "ing": 1.6385134704346647
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": "10-04-2026",
+    "meeting_id": []
+}

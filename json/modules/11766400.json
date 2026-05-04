@@ -1,0 +1,176 @@
+{
+    "module_id": 11766400,
+    "vote_id": null,
+    "member_id": [
+        194376,
+        194373
+    ],
+    "party_list": [
+        "Volt"
+    ],
+    "poho_id": [],
+    "title": "Vraag V2 Vragenhalfuur Vluchtelingenopvang (Volt)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "26-08-2022",
+    "meeting_url": {
+        "1013429": "https://raadsinformatie.eindhoven.nl/vergadering/1013429/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://api.notubiz.nl/document/11766400/1",
+    "pdf_text": " \n \n \nVragenhalfuur  \nHoe staat het met uitbreiding van tijdelijke en structurele \nopvang van vluchtelingen?  \nV2 \n \nAfgelopen 11 mei riep staatssecretaris Van Der Burg gemeenten \nwederom op om structureel meer vluchtelingen op te nemen naar \naanleiding van de erbarmelijke situatie in het aanmeldcentrum voor \nasielzoekers in Ter Apel. Tientallen asielzoekers moesten achter \ngesloten hek in de buitenlucht slapen. Het COA geeft aan structureel \nmeer ruimte nodig te hebben voor de grote vluchtelingen stroom. \nMinimaal 300 plekken meer. Er  zijn volgens de BBC al meer dan 5 \nmiljoen vluchtelingen naar andere landen in Europa zijn gevlucht. \nEerder heeft wethouder Torunoglu gezegd in het ED dat  wanneer  er \nmeer plekken nodig zijn,  dat er ook meer plekken kome n in Eindhoven \nvoor vluchtelingen. Als er nu op incidentele wijze, reactief meer \nplekken worden gerealiseerd, blijft de vraag uit hoe het zit met de \nstructurele en vooral ook menswaardige aanpak van \nvluchtelingenopvang. Volt heeft hier al raadsvragen over gesteld, maar \naangezien de situatie aanhoudt en nog niet verbeterd maken we graag \nnog gebruik van het vragenhalfuur.  \n \n1. Is de wethouder bereid om de tijdelijke opvang te vergroten? \nZo ja,  aan welk getal denkt het college op dit moment?  \n2. Hoe ziet de wethoude r de structurele opvang voor zich en zijn \ner al plannen om dit structureel in de stad te passen?  \n \nEindhoven, 24-05-2022  \n \n \nDe leden van de raad,  \n \nRobin Brokmann,  \nJacco Rubenkamp  \n \n \n \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 988942,
+            "weight": 0.3093807306716941
+        },
+        {
+            "id": 797679,
+            "weight": 0.3024846667940327
+        },
+        {
+            "id": 16589004,
+            "weight": 0.16974365354472157
+        },
+        {
+            "id": 16557242,
+            "weight": 0.16875898608889411
+        },
+        {
+            "id": 1134422,
+            "weight": 0.16606549146695454
+        },
+        {
+            "id": 787053,
+            "weight": 0.15027304302915895
+        },
+        {
+            "id": 1042043,
+            "weight": 0.1499584805744943
+        },
+        {
+            "id": 14540705,
+            "weight": 0.14323588837380366
+        },
+        {
+            "id": 847381,
+            "weight": 0.13923061343514148
+        },
+        {
+            "id": 896885,
+            "weight": 0.1306123257233227
+        },
+        {
+            "id": 999124,
+            "weight": 0.11501116090180043
+        },
+        {
+            "id": 1124535,
+            "weight": 0.10683084788009324
+        },
+        {
+            "id": 791152,
+            "weight": 0.10325672373942046
+        },
+        {
+            "id": 11875831,
+            "weight": 0.09605559373574879
+        },
+        {
+            "id": 803113,
+            "weight": 0.08883927581610501
+        },
+        {
+            "id": 776736,
+            "weight": 0.07619211696787624
+        },
+        {
+            "id": 16277042,
+            "weight": 0.0708523184176523
+        },
+        {
+            "id": "a_10115066",
+            "weight": 0.06726137640371613
+        },
+        {
+            "id": "a_8288315",
+            "weight": 0.06577442946787028
+        },
+        {
+            "id": 873163,
+            "weight": 0.0656936371370534
+        },
+        {
+            "id": 893438,
+            "weight": 0.0636519718145441
+        },
+        {
+            "id": 1117271,
+            "weight": 0.06018901026701824
+        }
+    ],
+    "videostarttime": {
+        "1013429": 4827
+    },
+    "videolink": null,
+    "keywords": {
+        "vluchtelingen": 0.9249760538349692,
+        "Burg gemeenten": 0.9068249352328221,
+        "plekken": 0.8987942742795304,
+        "Vragenhalfuur": 1.896037612530194,
+        "Vragenhalfuur Vluchtelingenopvang": 1.8927184642138695,
+        "structureel": 0.8715356222279733,
+        "Volt": 1.838169149213625,
+        "opvang": 1.8351285024728823,
+        "staat": 0.8229598018667291,
+        "uitbreiding": 0.8229598018667291,
+        "asielzoekers": 0.8142990837594912,
+        "Apel": 0.814135224224121,
+        "Burg": 0.8006880783225561,
+        "Robin Brokmann": 0.7973601340553977,
+        "Jacco Rubenkamp": 0.7973601340553977,
+        "mei riep": 0.7958952462992341,
+        "COA geeft": 0.7866071993552086,
+        "Eindhoven": 0.7791171798402375,
+        "riep staatssecretaris": 0.7761976119909993,
+        "gemeenten wederom": 0.7761976119909993,
+        "Vraag": 1.7621311352395714,
+        "tijdelijke": 0.7482524406466085,
+        "situatie": 0.7482524406466085,
+        "nodig": 0.7482524406466085,
+        "wethouder Torunoglu": 0.7383410422878518,
+        "erbarmelijke situatie": 0.7256051289113987,
+        "wethouder": 0.723452121283749,
+        "COA": 0.6923043650841463,
+        "Torunoglu gezegd": 0.682336416735037,
+        "buitenlucht slapen": 0.6580133817952807,
+        "BBC": 0.6418781584126483,
+        "Europa": 0.6418781584126483,
+        "gesloten hek": 0.6270390042255871,
+        "mei": 0.6036196298742574,
+        "ruimte nodig": 0.5959503377064947,
+        "Robin": 0.5895174999652837,
+        "Jacco": 0.5895174999652837,
+        "riep": 0.5723615862329254,
+        "wederom": 0.5723615862329254,
+        "nemen": 0.5723615862329254,
+        "aanmeldcentrum": 0.5723615862329254,
+        "Tientallen": 0.5110569026648173,
+        "slapen": 0.5110569026648173
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194373,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1013429
+    ]
+}

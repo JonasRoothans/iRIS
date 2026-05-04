@@ -1,0 +1,123 @@
+{
+    "module_id": "m_10118154",
+    "vote_id": 10118154,
+    "member_id": [
+        42090,
+        131155,
+        194500
+    ],
+    "party_list": [
+        "LPF ",
+        "FVD",
+        "50PLUS"
+    ],
+    "poho_id": [],
+    "title": "VM4A Voorrang voor eigen inwoners (Vrije Motie VM4A)",
+    "url": "",
+    "type": "Moties",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "verworpen",
+    "date": "11-03-2026",
+    "meeting_url": {
+        "1474900": "https://raadsinformatie.eindhoven.nl/vergadering/1474900/VM4A%20Voorrang%20voor%20eigen%20inwoners%20%28Vrije%20Motie%20VM4A%29 11-03-2026#voting_408466"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/16701315/1/VM4A+Voorrang+voor+eigen+inwoners+%28Vrije+Motie+VM4A%29?connection_type=1&connection_id=10115171",
+    "pdf_text": "  \n \n \nVrije Motie - Voorrang voor eigen inwoners            VM4 \n \nDe indiene r van d eze motie stelt de gemeenteraad voor om in de vergadering van \n10 maart  2026  een besluit te nemen  over deze motie . \n \nConstaterende  dat: \n• Er momenteel geen regeling bestaat waarmee Eindhovenaren  voorrang \nkunnen krijgen op de sociale huur markt;  \n• Coalitiepartijen GroenLinks -PvdA, CDA en D66 in de Stemwijzer aangeven \nvoor een voorrangsregeling voor eigen inwoners te zijn (zie bijlage).  \n \nOverwegende dat : \n• Het van belang is dat Eindhovenaren  ook daadwerkelijk in onze stad \nkunnen blijven wonen . \n• Standpunten die partijen in de Stemwijzer innemen ook tot uiting dienen te \nkomen in hun stemgedrag in de gemeenteraad.  \n \nVerzoekt het college : \nZo spoedig mogelijk met een voorstel te komen waarmee inwoners van \nEindhoven zoveel mogelijk voorrang kunnen krijgen  op de sociale \nhuurmarkt.  \n \nEindhoven,  10 maart 2026 . \n \nHet lid van de raad , \n \nNicolas Knoester  (Forum voor Democratie) , voorsteller  \nRudy Reker (Lijst Pim Fortuyn), voorsteller  \nRuud van Acquoij (50PLUS), voorsteller  \n \nDeze vrije motie is aangenomen/verworpen  in de vergadering van  10 maart 2026 . \n \nJ. Jongbloed , griffier . \n \n  \nBijlage  \n \n \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 1140799,
+            "weight": 3.7123709344562115
+        },
+        {
+            "id": 1140802,
+            "weight": 1.0098605180807307
+        },
+        {
+            "id": 1000404,
+            "weight": 0.13437362315293327
+        },
+        {
+            "id": 944353,
+            "weight": 0.09580034821238666
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Coalitiepartijen GroenLinks": 0.9915607401498658,
+        "Vrije Motie": 1.9828223889994998,
+        "Stemwijzer aangeven": 0.9809028620616022,
+        "huur markt": 0.9765929849908345,
+        "Eindhovenaren voorrang": 0.9756955504774533,
+        "regeling bestaat": 0.9727667209920182,
+        "motie stelt": 0.9587357862509601,
+        "waarmee Eindhovenaren": 0.9584647801178336,
+        "Voorrang": 1.953154792769557,
+        "sociale huur": 0.9515414786144462,
+        "Motie": 1.9513226194270503,
+        "bestaat waarmee": 0.9459510597692454,
+        "Constaterende": 0.9404238550286176,
+        "CDA": 0.9404238550286176,
+        "maart": 0.9394525230850015,
+        "inwoners": 1.9330301125699703,
+        "Vrije": 1.9328814258754035,
+        "Nicolas Knoester": 0.913577195222516,
+        "Rudy Reker": 0.9052280273212794,
+        "Lijst Pim": 0.9052280273212794,
+        "Pim Fortuyn": 0.9052280273212794,
+        "gemeenteraad": 0.892629130433512,
+        "bijlage": 0.8907138024676009,
+        "PvdA": 0.8810085620253228,
+        "voorsteller": 0.8723930833967694,
+        "GroenLinks": 0.8595304417436447,
+        "vergadering": 0.8516034448826717,
+        "waarmee": 0.8425361071652147,
+        "Eindhoven": 0.8398938130900329,
+        "indiene": 0.837177121816943,
+        "eze": 0.837177121816943,
+        "stelt": 0.837177121816943,
+        "besluit": 0.837177121816943,
+        "nemen": 0.837177121816943,
+        "momenteel": 0.837177121816943,
+        "huur": 0.837177121816943,
+        "aangeven": 0.837177121816943,
+        "voorrangsregeling": 0.837177121816943,
+        "blijven wonen": 0.8290761054491143,
+        "Standpunten": 0.8196588415177146,
+        "Nicolas": 0.7179573790320641,
+        "Knoester": 0.7179573790320641,
+        "Forum": 0.7179573790320641,
+        "Democratie": 0.7179573790320641,
+        "Reker": 0.7179573790320641,
+        "Acquoij": 0.7179573790320641,
+        "Jongbloed": 0.7179573790320641,
+        "Rudy": 0.6930684671977617,
+        "Pim": 0.6930684671977617,
+        "Ruud": 0.6930684671977617,
+        "Overwegende": 0.6379223388139772,
+        "wonen": 0.6379223388139772,
+        "belang": 0.5968446940920968,
+        "daadwerkelijk": 0.5968446940920968,
+        "stad": 0.5968446940920968,
+        "partijen": 0.5968446940920968,
+        "uiting": 0.5968446940920968,
+        "stemgedrag": 0.5968446940920968,
+        "Verzoekt": 0.5473632379658391,
+        "college": 0.5473632379658391,
+        "griffier": 0.544207357444092
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194500,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1474900
+    ]
+}

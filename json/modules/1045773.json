@@ -1,0 +1,72 @@
+{
+    "module_id": 1045773,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230024,
+    "title": "Stroomhuisje - Raadsvoorstel Kadernota 2026",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1045773",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Lammers (Wethouder)",
+    "result": "",
+    "date": "13-05-2025",
+    "meeting_url": {
+        "1256605": "https://raadsinformatie.eindhoven.nl/vergadering/1256605#ai_9262973"
+    },
+    "attachment": null,
+    "parent": 1034468,
+    "children": [],
+    "text": "Wethouder Lammers zegt toe dat er op een lange termijn aanpak voor het laten landen van de culturele functie van het Stroomhuisje in KnoopXL. komt.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 863437,
+            "weight": 1.1714330896243903
+        },
+        {
+            "id": 1045929,
+            "weight": 0.44963355505597286
+        },
+        {
+            "id": 1094398,
+            "weight": 0.24837371442162615
+        },
+        {
+            "id": 1144068,
+            "weight": 0.16157784289865074
+        }
+    ],
+    "videostarttime": {
+        "1256605": 13274
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_13.05.25_NC_01-EINDHOVEN-RAA.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Kadernota": 1.9949257958772364,
+        "Wethouder Lammers": 0.992607949748199,
+        "Lammers zegt": 0.9757775705865492,
+        "lange termijn": 0.9446550103091259,
+        "termijn aanpak": 0.9446550103091259,
+        "laten landen": 0.9446550103091259,
+        "culturele functie": 0.9446550103091259,
+        "Kadernota": 1.92894659357915,
+        "Stroomhuisje": 1.909012604461811,
+        "KnoopXL": 0.8568428144232508,
+        "komt": 0.7949790937037393,
+        "zegt": 0.7709966006391217,
+        "lange": 0.7709966006391217,
+        "aanpak": 0.7709966006391217,
+        "laten": 0.7709966006391217,
+        "functie": 0.7709966006391217
+    },
+    "svz": "Vanwege het omarmen van de motie Steun het Stroomhuis (KM12) op 20-05-2025 waarin wordt ingegaan op dit plan v...  Lees verder ",
+    "afgedaan": "03-06-2025",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": [
+        1256605
+    ]
+}

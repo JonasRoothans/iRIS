@@ -1,0 +1,44 @@
+{
+    "module_id": 969254,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Raadsinformatiebrief Afhandelen SUVIS projecten SKPO",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/8/Raadsinformatiebrieven/969254",
+    "type": "Raadsinformatiebrief",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "05-09-2024",
+    "meeting_url": null,
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": "24bst01028",
+    "related": [
+        {
+            "id": 776884,
+            "weight": 0.8853775703183765
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Afhandelen SUVIS": 1.9785907845614,
+        "Raadsinformatiebrief Afhandelen": 1.9765416191248102,
+        "projecten SKPO": 1.9737669269624916,
+        "SUVIS projecten": 1.955011371234592,
+        "SKPO": 1.9140368224837343,
+        "SUVIS": 1.8552226942577967
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": "30-05-2025",
+    "meeting_id": []
+}

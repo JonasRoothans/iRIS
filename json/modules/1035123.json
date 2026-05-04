@@ -1,0 +1,156 @@
+{
+    "module_id": 1035123,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230014,
+    "title": "Overlast door gevaarlijke honden - Dierenwelzijnsbeleid (Agenderingsverzoek PvdD, SP en D66)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1035123",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "R. Thijs (Wethouder)",
+    "result": "",
+    "date": "08-04-2025",
+    "meeting_url": {
+        "1256349": "https://raadsinformatie.eindhoven.nl/vergadering/1256349#ai_9158774"
+    },
+    "attachment": null,
+    "parent": 1032681,
+    "children": [],
+    "text": "Wethouder Thijs zegt toe de raad via een mededeling te informeren over welke werkwijze/app het beste werkt voor het melden van overlast door gevaarlijke honden (bijtincidenten) en hoe dit op de website komt.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1032681,
+            "weight": 1.3078580140931875
+        },
+        {
+            "id": 1037141,
+            "weight": 1.2762128515345321
+        },
+        {
+            "id": 1029708,
+            "weight": 0.7953878369485657
+        },
+        {
+            "id": 935353,
+            "weight": 0.7950996358369016
+        },
+        {
+            "id": "ai_8588364",
+            "weight": 0.7916795338157812
+        },
+        {
+            "id": 994361,
+            "weight": 0.483423345703864
+        },
+        {
+            "id": 1051358,
+            "weight": 0.4806433339156219
+        },
+        {
+            "id": 1045914,
+            "weight": 0.23150276391701266
+        },
+        {
+            "id": 949441,
+            "weight": 0.22834461862320674
+        },
+        {
+            "id": 825108,
+            "weight": 0.17979038316217888
+        },
+        {
+            "id": 16590021,
+            "weight": 0.15930129308753396
+        },
+        {
+            "id": 1134425,
+            "weight": 0.1555215633967955
+        },
+        {
+            "id": 980407,
+            "weight": 0.1322939957518111
+        },
+        {
+            "id": 883423,
+            "weight": 0.11719075053836688
+        },
+        {
+            "id": 862271,
+            "weight": 0.10975370544753164
+        },
+        {
+            "id": 12962388,
+            "weight": 0.09645847680844274
+        },
+        {
+            "id": 776905,
+            "weight": 0.07126154250502131
+        },
+        {
+            "id": 12876589,
+            "weight": 0.06939699326776788
+        },
+        {
+            "id": 974304,
+            "weight": 0.06697127925343219
+        },
+        {
+            "id": 853371,
+            "weight": 0.06648006402743183
+        },
+        {
+            "id": 1019862,
+            "weight": 0.0610651012206143
+        },
+        {
+            "id": 845410,
+            "weight": 0.05365050654608812
+        },
+        {
+            "id": 13540297,
+            "weight": 0.044408801950488866
+        }
+    ],
+    "videostarttime": {
+        "1256349": 11261
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_08.04.25_NC_02-EINDHOVEN-CIE-ONDERTITEL.mp4/playlist.m3u8",
+    "keywords": {
+        "gevaarlijke honden": 1.9942425466117952,
+        "Wethouder Thijs": 0.9941667625186742,
+        "Agenderingsverzoek PvdD": 1.9929473795422896,
+        "Thijs zegt": 0.9826858594784494,
+        "website komt": 0.9790164346488509,
+        "Dierenwelzijnsbeleid": 1.9660469130700113,
+        "raad via": 0.9652242892836866,
+        "beste werkt": 0.9652242892836866,
+        "honden": 1.958724900422768,
+        "bijtincidenten": 0.9468636684315949,
+        "Thijs": 0.9071608912725333,
+        "Overlast": 1.9000196524643171,
+        "PvdD": 1.8878896686449926,
+        "werkwijze": 0.8878896686449927,
+        "app": 0.8878896686449927,
+        "komt": 0.8878896686449927,
+        "zegt": 0.8166778701525762,
+        "raad": 0.8166778701525762,
+        "via": 0.8166778701525762,
+        "mededeling": 0.8166778701525762,
+        "informeren": 0.8166778701525762,
+        "beste": 0.8166778701525762,
+        "werkt": 0.8166778701525762,
+        "melden": 0.8166778701525762
+    },
+    "svz": "Zie mededeling d.d. 13 mei.\nVoorstel college: afvoeren ...  Lees verder ",
+    "afgedaan": "03-06-2025",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": [
+        1256349
+    ]
+}

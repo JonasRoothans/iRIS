@@ -1,0 +1,87 @@
+{
+    "module_id": 1138532,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Wijkregisseurs - Agenderingsverzoek Beleid woningsplitsing en kamerverhuur",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1138532",
+    "type": "Toezegging",
+    "member": "",
+    "party": "",
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "27-01-2026",
+    "meeting_url": {
+        "1374909": "https://raadsinformatie.eindhoven.nl/vergadering/1374909#ai_9410995"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": "Wethouder Verhees zegt toe:\nTe zorgen dat de wijkregisseurs ook voor meldingen uit de Pioenroosstraat beschikbaar zijn.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1133253,
+            "weight": 1.7420210754113152
+        },
+        {
+            "id": 1138538,
+            "weight": 1.6853751833837776
+        },
+        {
+            "id": 1138537,
+            "weight": 1.6796798424903212
+        },
+        {
+            "id": 1138531,
+            "weight": 1.6791417862302644
+        },
+        {
+            "id": 16663353,
+            "weight": 0.4943271117963545
+        },
+        {
+            "id": 1021310,
+            "weight": 0.10756815727685412
+        },
+        {
+            "id": 1021307,
+            "weight": 0.10728845561459571
+        },
+        {
+            "id": 1021311,
+            "weight": 0.10658300423809647
+        },
+        {
+            "id": 1021308,
+            "weight": 0.10656912434197292
+        },
+        {
+            "id": 1021314,
+            "weight": 0.10639298583640891
+        }
+    ],
+    "videostarttime": {
+        "1374909": 729
+    },
+    "videolink": null,
+    "keywords": {
+        "Agenderingsverzoek Beleid": 1.99246456812069,
+        "Wethouder Verhees": 0.9890315104840249,
+        "Beleid woningsplitsing": 1.9750807104053405,
+        "kamerverhuur Wethouder": 0.9750807104053406,
+        "Verhees zegt": 0.9750807104053406,
+        "Beleid": 1.8958391290780487,
+        "Pioenroosstraat beschikbaar": 0.8264958498000805,
+        "Wijkregisseurs": 1.7746012204199308,
+        "zegt": 0.7665782139494473
+    },
+    "svz": "",
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "08-04-2026",
+    "meeting_id": []
+}

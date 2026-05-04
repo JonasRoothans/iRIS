@@ -1,0 +1,91 @@
+{
+    "module_id": "r_7006035",
+    "vote_id": 7006035,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Raadsvoorstel met nadere toelichting en herzien ontwerp raadsbesluit Tot vaststelling paraplubestemmingsplan parkeren, kamerbewoning en woningsplitsing 2021",
+    "url": "https://raadsinformatie.eindhoven.nl/vergadering/1013429/Raadsvoorstel%20met%20nadere%20toelichting%20en%20herzien%20ontwerp%20raadsbesluit%20Tot%20vaststelling%20paraplubestemmingsplan%20parkeren%2C%20kamerbewoning%20en%20woningsplitsing%202021 24-05-2022#voting_7006035",
+    "type": "Raadsvoorstel",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "aangenomen",
+    "date": "24-05-2022",
+    "meeting_url": {
+        "1013429": "https://raadsinformatie.eindhoven.nl/vergadering/1013429/Raadsvoorstel%20met%20nadere%20toelichting%20en%20herzien%20ontwerp%20raadsbesluit%20Tot%20vaststelling%20paraplubestemmingsplan%20parkeren%2C%20kamerbewoning%20en%20woningsplitsing%202021 24-05-2022#voting_7006035"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 779484,
+            "weight": 0.9308655432529123
+        },
+        {
+            "id": 779483,
+            "weight": 0.9224505472041101
+        },
+        {
+            "id": 787218,
+            "weight": 0.7686634295237869
+        },
+        {
+            "id": 787214,
+            "weight": 0.7675007175142667
+        },
+        {
+            "id": 775238,
+            "weight": 0.7627523827908192
+        },
+        {
+            "id": 779482,
+            "weight": 0.7010378470828087
+        },
+        {
+            "id": "ai_6964652",
+            "weight": 0.679252618469081
+        },
+        {
+            "id": 779485,
+            "weight": 0.43859771474943676
+        },
+        {
+            "id": 783516,
+            "weight": 0.31634780946246194
+        },
+        {
+            "id": "a_10115166",
+            "weight": 0.29441022615245566
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "paraplubestemmingsplan parkeren": 1.9846191788281082,
+        "nadere toelichting": 1.9742913828560065,
+        "herzien ontwerp": 1.9742913828560065,
+        "ontwerp raadsbesluit": 1.9742913828560065,
+        "vaststelling paraplubestemmingsplan": 1.9742913828560065,
+        "Raadsvoorstel": 1.9043195497355658,
+        "parkeren": 1.9043195497355658,
+        "kamerbewoning": 1.9043195497355658,
+        "woningsplitsing": 1.9043195497355658,
+        "nadere": 1.8416830712200127,
+        "herzien": 1.8416830712200127,
+        "ontwerp": 1.8416830712200127,
+        "vaststelling": 1.8416830712200127
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1013429
+    ]
+}

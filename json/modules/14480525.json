@@ -1,0 +1,41 @@
+{
+    "module_id": 14480525,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Bijlage 2 bij Rondvraag 3",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "03-09-2024",
+    "meeting_url": {
+        "1148044": "https://raadsinformatie.eindhoven.nl/vergadering/1148041/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://api.notubiz.nl/document/14480525/1",
+    "pdf_text": "",
+    "bst": null,
+    "related": [],
+    "videostarttime": {
+        "1148044": 1069
+    },
+    "videolink": null,
+    "keywords": {
+        "Bijlage": 1.9550880231213545,
+        "Rondvraag": 1.9140368224837343
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1148044
+    ]
+}

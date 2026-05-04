@@ -1,0 +1,126 @@
+{
+    "module_id": 992375,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Raadsvoorstel Omgevingsvisie Eindhoven",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/992375",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "26-11-2024",
+    "meeting_url": {
+        "1148334": "https://raadsinformatie.eindhoven.nl/vergadering/1148334#ai_8757253"
+    },
+    "attachment": null,
+    "parent": 978875,
+    "children": [
+        "a_8883150",
+        "a_8882426",
+        "a_8883154"
+    ],
+    "text": "Wethouder Verhees zegt toe aan het einde van het eerste kwartaal van 2025 de raad een overzicht te sturen met de toegewezen ontwikkellocaties, nog voordat in de raad wordt gesproken over het klimaat adaptief programma.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 978875,
+            "weight": 1.7238803732263062
+        },
+        {
+            "id": 1136745,
+            "weight": 1.2620023547880945
+        },
+        {
+            "id": 1047216,
+            "weight": 0.4183855407321382
+        },
+        {
+            "id": 996944,
+            "weight": 0.3983070578107911
+        },
+        {
+            "id": "a_9477086",
+            "weight": 0.3491669177583255
+        },
+        {
+            "id": 941388,
+            "weight": 0.2692001004886055
+        },
+        {
+            "id": "a_9477017",
+            "weight": 0.2075962616455542
+        },
+        {
+            "id": 1053138,
+            "weight": 0.19641682629197202
+        },
+        {
+            "id": 1053137,
+            "weight": 0.1901898210095407
+        },
+        {
+            "id": 1101955,
+            "weight": 0.1883602112422719
+        },
+        {
+            "id": 1096737,
+            "weight": 0.1817269526673205
+        },
+        {
+            "id": 1118681,
+            "weight": 0.16912351109285548
+        },
+        {
+            "id": 1058174,
+            "weight": 0.12358614673347591
+        },
+        {
+            "id": 926529,
+            "weight": 0.12065786892526774
+        },
+        {
+            "id": 971234,
+            "weight": 0.09897233884029294
+        },
+        {
+            "id": 1000873,
+            "weight": 0.09687214660869713
+        }
+    ],
+    "videostarttime": {
+        "1148334": 13547
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/26.11.24 Eindhoven RaadV2.mp4/playlist.m3u8",
+    "keywords": {
+        "Omgevingsvisie Eindhoven": 1.9950069942505202,
+        "Eindhoven Wethouder": 0.9950069942505203,
+        "Wethouder Verhees": 0.9950069942505203,
+        "Raadsvoorstel Omgevingsvisie": 1.9939060033797946,
+        "Verhees zegt": 0.9908899454951228,
+        "toegewezen ontwikkellocaties": 0.988871065019432,
+        "adaptief programma": 0.988871065019432,
+        "klimaat adaptief": 0.9833217925455495,
+        "raad": 0.9358708466691981,
+        "Eindhoven": 1.9295145440476715,
+        "Raadsvoorstel": 1.9140661760036124,
+        "programma": 0.9140661760036124,
+        "zegt": 0.8719195253013416,
+        "kwartaal": 0.8719195253013416,
+        "overzicht": 0.8719195253013416,
+        "sturen": 0.8719195253013416,
+        "toegewezen": 0.8719195253013416,
+        "gesproken": 0.8719195253013416,
+        "klimaat": 0.8719195253013416,
+        "adaptief": 0.8719195253013416
+    },
+    "svz": "Ontwikkellocaties worden momenteel in beeld gebracht, overzicht komt in Q2 naar uw Raad.",
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

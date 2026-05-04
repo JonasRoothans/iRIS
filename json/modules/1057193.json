@@ -1,0 +1,148 @@
+{
+    "module_id": 1057193,
+    "vote_id": null,
+    "member_id": [
+        194500
+    ],
+    "party_list": [
+        "FVD"
+    ],
+    "poho_id": [],
+    "title": "Beantwoording raadsvragen - Bezwaarschriftencommissie (FvD)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/4/Raadsvragen/1057193",
+    "type": "Raadsvraag",
+    "member": "Nicolas Knoester",
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "24-06-2025",
+    "meeting_url": null,
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/15710410/1?connection_type=17&connection_id=12023028": "Vraag",
+        "https://raadsinformatie.eindhoven.nl/document/15805348/1?connection_type=17&connection_id=12144883": "Antwoord"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": " \n \n \nRaadsvragen - Bezwaarschriftencommissie  \n \ndatum:  20 juni 2025  \nGeacht college,  \n \nZie onderstaand ingekomen stuk van de bezwaarschriftencommissie  \nhttps://raadsinformatie.eindhoven.nl/modules/1/Ingekomen%20stukken/\n1055851   \n \n1. Het jaarverslag vermeldt dat de motivering van ruimtelijke besluiten \nvaak summier is, ook na indiening van een bezwaarschrift. Waarom \nheeft het college gekozen voor dergelijke beperkte motiveringen en wat \ngaat het college concreet doen om dit te verbete ren? \n \n2. Ook signaleert de commissie dat de vertegenwoordiging namens het \ncollege inhoudelijk vaak tekortschiet, vooral bij ruimtelijke dossiers. Wat \ngaat het college concreet doen om dit te verbeteren?  \n \n3. Verder constateert de commissie dat verweerschriften regelmatig te \nlaat of pas ter zitting worden ingediend en bovendien inhoudelijk beperkt \nzijn. Kan het college garanderen dat verweerschriften vanaf nu wél \nminimaal 10 dagen van tevoren  worden aangeleverd en inhoudelijk \nbeter zijn (en er dus ook op álle bezwaarpunten wordt ingegaan)?  \n \n4. De commissie stelt dat het college bij gevoelige projecten al met \nwerkzaamheden begint vóórdat op bezwaar is beslist, waardoor \nbezwaarprocedures worden “gejuridificeerd” en het vertrouwen van \nburgers in de overheid afneemt. Onderkent het college dit risico, en \ndeelt het college de analyse dat bezwaarmakers zich daardoor op \nachterstand gezet voelen?  \n \n5. Is het college bereid om bij gevoelige besluiten vanaf nu pas te \nstarten met de uitvoering na beslissing op bezwaar?  \n \nNamens de fracti e, \nNicolas Knoester, raadslid  FvD \n",
+    "bst": "7972101_1.1.1.",
+    "related": [
+        {
+            "id": 971744,
+            "weight": 0.5276343333882626
+        },
+        {
+            "id": 822893,
+            "weight": 0.20621670472548534
+        },
+        {
+            "id": 890080,
+            "weight": 0.1981460581974193
+        },
+        {
+            "id": 844335,
+            "weight": 0.11479996500276717
+        },
+        {
+            "id": 976801,
+            "weight": 0.10928137567399158
+        },
+        {
+            "id": 893837,
+            "weight": 0.10911102236316728
+        },
+        {
+            "id": 1148672,
+            "weight": 0.1087818651534471
+        },
+        {
+            "id": 802336,
+            "weight": 0.10450047402180299
+        },
+        {
+            "id": 1073436,
+            "weight": 0.09939914450606577
+        },
+        {
+            "id": 1144232,
+            "weight": 0.09818391671669555
+        },
+        {
+            "id": 1146887,
+            "weight": 0.09581663528392814
+        },
+        {
+            "id": 1085543,
+            "weight": 0.09552127284647587
+        },
+        {
+            "id": 931189,
+            "weight": 0.08897813696533967
+        },
+        {
+            "id": 855743,
+            "weight": 0.08738990977040162
+        },
+        {
+            "id": 16400316,
+            "weight": 0.08616373885773145
+        },
+        {
+            "id": 1000389,
+            "weight": 0.08036948579503818
+        },
+        {
+            "id": 987241,
+            "weight": 0.07903628140754253
+        },
+        {
+            "id": 941547,
+            "weight": 0.07683815020961415
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Bezwaarschriftencommissie datum": 0.9867995892653891,
+        "Beantwoording raadsvragen": 1.9866426678411013,
+        "Geacht college": 0.9755038390669086,
+        "college": 0.963254761978726,
+        "raadsvragen": 1.9629537537671817,
+        "onderstaand ingekomen": 0.9572256550110285,
+        "ingekomen stuk": 0.9572256550110285,
+        "Geacht": 0.9349291280493969,
+        "college concreet": 0.9034277755767215,
+        "commissie": 1.8556009900764898,
+        "juni": 0.8461402575327364,
+        "inhoudelijk": 0.8233874200177064,
+        "datum": 0.8220971494256686,
+        "stuk": 0.7974666645537726,
+        "Nicolas Knoester": 0.7970397719677875,
+        "gaat": 0.7797285832897951,
+        "concreet": 0.7797285832897951,
+        "ruimtelijke": 0.7694740021078668,
+        "FvD": 1.751446224583583,
+        "verweerschriften": 0.7281622261686995,
+        "jaarverslag vermeldt": 0.7185263466534344,
+        "besluiten": 0.7158851798045844,
+        "gevoelige": 0.7110100010129943,
+        "bezwaar": 0.7110100010129943,
+        "namens": 0.7033523296187842,
+        "Nicolas": 0.5892478583070762,
+        "Knoester": 0.5892478583070762,
+        "verbete ren": 0.5836860856018143,
+        "dergelijke beperkte": 0.5374255069385643,
+        "beperkte motiveringen": 0.5374255069385643,
+        "vermeldt": 0.5313333676395664,
+        "motivering": 0.5313333676395664,
+        "summier": 0.5313333676395664,
+        "indiening": 0.5313333676395664,
+        "gevoelige besluiten": 0.5109622222592859
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194500,
+    "lastScrapeDate": "02-04-2026",
+    "meeting_id": []
+}

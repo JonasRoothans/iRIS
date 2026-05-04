@@ -1,0 +1,74 @@
+{
+    "module_id": 777512,
+    "vote_id": null,
+    "member_id": [
+        194376
+    ],
+    "party_list": [
+        "Volt"
+    ],
+    "poho_id": [],
+    "title": "Beantwoording raadsvragen Volt (Rubenkamp) over Vergeten samenwerking",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/4/Raadsvragen/777512",
+    "type": "Raadsvraag",
+    "member": "Jacco Rubenkamp",
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "09-06-2022",
+    "meeting_url": null,
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/11772604/1?connection_type=17&connection_id=8593399": "Vraag"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": "22bst00989",
+    "related": [
+        {
+            "id": 777473,
+            "weight": 1.9478779409854787
+        },
+        {
+            "id": 15092253,
+            "weight": 0.4082574825536415
+        },
+        {
+            "id": 797695,
+            "weight": 0.36785046636041185
+        },
+        {
+            "id": 15376655,
+            "weight": 0.3154103978850117
+        },
+        {
+            "id": 1022970,
+            "weight": 0.3142563935656072
+        },
+        {
+            "id": 1148211,
+            "weight": 0.2959096585207762
+        },
+        {
+            "id": 1148207,
+            "weight": 0.24706017852941842
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Vergeten samenwerking": 1.9765416191248102,
+        "raadsvragen Volt": 1.9737669269624916,
+        "Rubenkamp": 1.9696036283675864,
+        "Beantwoording raadsvragen": 1.9505961599793435,
+        "Volt": 1.9140368224837343,
+        "Vergeten": 1.8552226942577967
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": "02-04-2026",
+    "meeting_id": []
+}

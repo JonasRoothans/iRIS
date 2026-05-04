@@ -1,0 +1,91 @@
+{
+    "module_id": 984520,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 248564,
+    "title": "Burgerberaad - Raadsvoorstel Begroting 2025",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/984520",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "R. Strijk (Wethouder)",
+    "result": "",
+    "date": "29-10-2024",
+    "meeting_url": {
+        "1148140": "https://raadsinformatie.eindhoven.nl/vergadering/1148140#ai_8727039"
+    },
+    "attachment": null,
+    "parent": 975511,
+    "children": [],
+    "text": "Wethouder Strijk zegt toe (Stadsgezant Van Kessel) dat er een raadsinformatiebrief komt over het verdere verloop.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1052828,
+            "weight": 0.2926237366515277
+        },
+        {
+            "id": 984426,
+            "weight": 0.2718005963001374
+        },
+        {
+            "id": 819064,
+            "weight": 0.18241092489397587
+        },
+        {
+            "id": 14295462,
+            "weight": 0.18193615383473488
+        },
+        {
+            "id": 845867,
+            "weight": 0.07563546237283432
+        },
+        {
+            "id": 853281,
+            "weight": 0.06836422889481923
+        },
+        {
+            "id": 932415,
+            "weight": 0.06624107437953315
+        },
+        {
+            "id": 1134427,
+            "weight": 0.06439304923230776
+        },
+        {
+            "id": 777009,
+            "weight": 0.0634455444127265
+        },
+        {
+            "id": "r_7006036",
+            "weight": 0.04910421812435639
+        }
+    ],
+    "videostarttime": {
+        "1148140": null
+    },
+    "videolink": null,
+    "keywords": {
+        "Raadsvoorstel Begroting": 1.9925553183866471,
+        "Wethouder Strijk": 0.9873976398760466,
+        "Burgerberaad": 1.9550880231213545,
+        "Strijk zegt": 0.955011371234592,
+        "verdere verloop": 0.9505961599793437,
+        "Begroting": 1.9140368224837343,
+        "Stadsgezant": 0.9140368224837344,
+        "Kessel": 0.9140368224837344,
+        "raadsinformatiebrief komt": 0.9029960071342576,
+        "verloop": 0.8416830712200127,
+        "zegt": 0.7026344174397849,
+        "komt": 0.7026344174397849,
+        "verdere": 0.7026344174397849
+    },
+    "svz": "Door de toezegging van de wethouder (stadsgazant) op 10 december 2024 dat er in maart een raadsvoorstel zal li...  Lees verder ",
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

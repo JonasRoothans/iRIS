@@ -1,0 +1,106 @@
+{
+    "module_id": 900244,
+    "vote_id": null,
+    "member_id": [
+        194500
+    ],
+    "party_list": [
+        "FVD"
+    ],
+    "poho_id": [],
+    "title": "Beantwoording vervolg raadsvragen Evaluatie Stadsgezanten (FvD)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/4/Raadsvragen/900244",
+    "type": "Raadsvraag",
+    "member": "Nicolas Knoester",
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "05-12-2023",
+    "meeting_url": null,
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/13571989/1?connection_type=17&connection_id=10046530": "Vraag",
+        "https://raadsinformatie.eindhoven.nl/document/13658302/2?connection_type=17&connection_id=10131927": "Antwoord"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/13571989/1?connection_type=17&connection_id=10046530",
+    "pdf_text": " \n \n \nRaadsvragen - Vervolgvragen evaluatie stadsgezanten  \n \ndatum:  29 november  2023  \n \n \nGeacht college,  \n \nInleiding  \nIn de beantwoording verwijst het college naar oude stukken van 2022. In \nde vraagstelling is nadrukkelijk vermeld dat we de stand van zaken van \ndit moment wensen te vernemen. Er is dus geen sprake van \nbeantwoording. We verzoeken het college daarom nogmaals om alle \nvragen, stuk voor stuk, serieus te nemen en concreet inhoudelijk te \nbeantwoorden.  \n \nRaadsvragen:  \n1. Wat hebben de stadsgezanten concreet gedaan tot nu toe?  \n2. Wat hebben de diverse projecten onder hun beheer ongeveer \ngekost?  \n3. Wat hebben ze effectief bereikt en hoe wordt dat bepaald en \nonderzocht ? \n4. Hoe en wanneer worden de stadsgezanten door het college \ngemonitord, geëvalueerd  en bijgestuurd?  \n \nNamens de fractie , \nForum voor Democratie  \n \nNicolas Knoester , raadslid  \n \n \n",
+    "bst": "23bst01855",
+    "related": [
+        {
+            "id": 887978,
+            "weight": 2.5646796584007645
+        },
+        {
+            "id": 1062486,
+            "weight": 0.24327083882084458
+        },
+        {
+            "id": 940742,
+            "weight": 0.18969157656054056
+        },
+        {
+            "id": 993459,
+            "weight": 0.15776444587319097
+        },
+        {
+            "id": 1085103,
+            "weight": 0.1476410444715398
+        },
+        {
+            "id": 1078951,
+            "weight": 0.10816777156868403
+        },
+        {
+            "id": 827135,
+            "weight": 0.0893543556342557
+        },
+        {
+            "id": 835228,
+            "weight": 0.08664185105440246
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Vervolgvragen evaluatie": 0.9942386966374919,
+        "Evaluatie Stadsgezanten": 1.979651217402452,
+        "Geacht college": 0.969426236312559,
+        "oude stukken": 0.9587626094730003,
+        "Evaluatie": 1.9558983321188095,
+        "Geacht": 0.9350557341867515,
+        "Inleiding": 0.9350557341867515,
+        "stadsgezanten datum": 0.9215382041385523,
+        "vervolg raadsvragen": 1.9176355741090794,
+        "Beantwoording vervolg": 1.9159844162891,
+        "college": 0.8857992332961943,
+        "FvD": 1.8693398312141234,
+        "november": 0.8693398312141233,
+        "datum": 0.8359052826468842,
+        "vervolg": 1.8009919197492663,
+        "verwijst": 0.8009919197492662,
+        "oude": 0.8009919197492662,
+        "Nicolas Knoester": 0.7966376081485236,
+        "Democratie Nicolas": 0.7723252962413099,
+        "nadrukkelijk vermeld": 0.7268380425887366,
+        "moment wensen": 0.7268380425887366,
+        "stuk": 0.7209583300363812,
+        "concreet": 0.7161136911019907,
+        "Forum": 0.6075733705755109,
+        "Knoester": 0.6075733705755109,
+        "vernemen": 0.5946046304055597,
+        "college gemonitord": 0.5912698397676439,
+        "Nicolas": 0.5693586418976612,
+        "vraagstelling": 0.5368002872152691,
+        "stand": 0.5368002872152691,
+        "zaken": 0.5368002872152691,
+        "moment": 0.5368002872152691,
+        "wensen": 0.5368002872152691
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194500,
+    "lastScrapeDate": "02-04-2026",
+    "meeting_id": []
+}

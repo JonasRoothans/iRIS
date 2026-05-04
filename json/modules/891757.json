@@ -1,0 +1,85 @@
+{
+    "module_id": 891757,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230019,
+    "title": "Klimaatneutraal sportevenement - Raadsvoorstel Vaststellen Begroting 2024",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/891757",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. van Lanschot (Wethouder)",
+    "result": "",
+    "date": "31-10-2023",
+    "meeting_url": {
+        "1153547": "https://raadsinformatie.eindhoven.nl/vergadering/1153547#ai_7885375"
+    },
+    "attachment": null,
+    "parent": 879979,
+    "children": [],
+    "text": "Wethouder Lanschot zegt toe het organiseren van een klimaatneutraal sportevenement mee te nemen in de komende bids",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 877029,
+            "weight": 0.348567044784839
+        },
+        {
+            "id": 835962,
+            "weight": 0.3449567168213
+        },
+        {
+            "id": 877730,
+            "weight": 0.25101039095458505
+        },
+        {
+            "id": 775159,
+            "weight": 0.21480547904225963
+        },
+        {
+            "id": 891756,
+            "weight": 0.19771664548042672
+        },
+        {
+            "id": 891752,
+            "weight": 0.1976857761728135
+        },
+        {
+            "id": 945676,
+            "weight": 0.19632380733591465
+        },
+        {
+            "id": 945675,
+            "weight": 0.19632380733591465
+        }
+    ],
+    "videostarttime": {
+        "1153547": null
+    },
+    "videolink": null,
+    "keywords": {
+        "Raadsvoorstel Vaststellen": 1.9941476432967788,
+        "Vaststellen Begroting": 1.9941476432967788,
+        "Wethouder Lanschot": 0.9941476432967787,
+        "Lanschot zegt": 0.9826080374015959,
+        "Klimaatneutraal sportevenement": 1.9789970134708765,
+        "komende bids": 0.97888512785368,
+        "sportevenement mee": 0.9616697204025414,
+        "Begroting": 1.9374219093392173,
+        "Wethouder": 0.9374219093392172,
+        "Klimaatneutraal": 1.8996100067922228,
+        "bids": 0.8875323018025537,
+        "zegt": 0.8161405114575309,
+        "organiseren": 0.8161405114575309,
+        "mee": 0.8161405114575309,
+        "nemen": 1.8161405114575309
+    },
+    "svz": null,
+    "afgedaan": "12-12-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

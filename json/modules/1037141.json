@@ -1,0 +1,147 @@
+{
+    "module_id": 1037141,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230014,
+    "title": "Informatie - Dierenwelzijnsbeleid (Agenderingsverzoek PvdD, SP en D66)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1037141",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "R. Thijs (Wethouder)",
+    "result": "",
+    "date": "08-04-2025",
+    "meeting_url": {
+        "1256349": "https://raadsinformatie.eindhoven.nl/vergadering/1256349#ai_9158774"
+    },
+    "attachment": null,
+    "parent": 1032681,
+    "children": [],
+    "text": "Wethouder Thijs zegt toe om vóór de raadsvergadering met informatie te komen over:\n\nlocaties waar informatieborden kunnen komen over (de consequenties van) voederen in de natuur.\nproces en uitkomst van gesprekken met de sportvisserij over het schoon achterlaten van plekken;\noverzicht van locaties waar visrechten zijn verleend en waar hengelsportvrije zones zijn aangewezen.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1035123,
+            "weight": 1.2762128515345321
+        },
+        {
+            "id": 1029708,
+            "weight": 0.795751959339837
+        },
+        {
+            "id": 935353,
+            "weight": 0.7954636262919361
+        },
+        {
+            "id": "ai_8588364",
+            "weight": 0.7920419585746
+        },
+        {
+            "id": 994361,
+            "weight": 0.48173623953758327
+        },
+        {
+            "id": 1051358,
+            "weight": 0.47896592975292035
+        },
+        {
+            "id": 1032681,
+            "weight": 0.4773017884759697
+        },
+        {
+            "id": 1080504,
+            "weight": 0.2938825072394947
+        },
+        {
+            "id": 1045914,
+            "weight": 0.23069483905366797
+        },
+        {
+            "id": 949441,
+            "weight": 0.2275477154170628
+        },
+        {
+            "id": 825108,
+            "weight": 0.17916293008866366
+        },
+        {
+            "id": 798673,
+            "weight": 0.12360209366648175
+        },
+        {
+            "id": 1132654,
+            "weight": 0.12283601836515398
+        },
+        {
+            "id": 800316,
+            "weight": 0.05817292589057092
+        },
+        {
+            "id": 903669,
+            "weight": 0.05654476231007529
+        },
+        {
+            "id": 1125072,
+            "weight": 0.05606231990494072
+        },
+        {
+            "id": 1036032,
+            "weight": 0.050238009325915454
+        },
+        {
+            "id": 819064,
+            "weight": 0.04140332172282428
+        },
+        {
+            "id": 1045804,
+            "weight": 0.03734001635529703
+        },
+        {
+            "id": 993330,
+            "weight": 0.0325216365289116
+        }
+    ],
+    "videostarttime": {
+        "1256349": 11261
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_08.04.25_NC_02-EINDHOVEN-CIE-ONDERTITEL.mp4/playlist.m3u8",
+    "keywords": {
+        "Wethouder Thijs": 0.9959012729355285,
+        "Agenderingsverzoek PvdD": 1.993859735416753,
+        "Thijs zegt": 0.989104120920473,
+        "Dierenwelzijnsbeleid": 1.959185577349023,
+        "komen": 0.9347920500691683,
+        "Thijs": 0.927577252228698,
+        "Informatie": 1.9181001400693427,
+        "PvdD": 1.8917243072099246,
+        "voederen": 0.8917243072099247,
+        "natuur": 0.8917243072099247,
+        "locaties": 0.8890666542413475,
+        "zegt": 0.851173300537858,
+        "vóór": 0.851173300537858,
+        "raadsvergadering": 0.851173300537858,
+        "consequenties": 0.851173300537858,
+        "schoon achterlaten": 0.83347807897043,
+        "hengelsportvrije zones": 0.83347807897043,
+        "proces": 0.7033785983864052,
+        "plekken": 0.7033785983864052,
+        "overzicht": 0.7033785983864052,
+        "aangewezen": 0.7033785983864052,
+        "uitkomst": 0.6221762501796541,
+        "sportvisserij": 0.6221762501796541,
+        "schoon": 0.6221762501796541,
+        "visrechten": 0.6221762501796541,
+        "verleend": 0.6221762501796541,
+        "zones": 0.6221762501796541
+    },
+    "svz": "Zie collegebrief d.d. 11 april.\nVoorstel college: afvoeren...  Lees verder ",
+    "afgedaan": "13-05-2025",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": [
+        1256349
+    ]
+}

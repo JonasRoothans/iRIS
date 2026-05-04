@@ -1,0 +1,71 @@
+{
+    "module_id": 793548,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 231116,
+    "title": "Studentstop BOA's - Raadsvoorstel Vaststellen Begroting 2023",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/793548",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "J. Dijsselbloem (Burgemeester)",
+    "result": "",
+    "date": "08-11-2022",
+    "meeting_url": {
+        "1013582": "https://raadsinformatie.eindhoven.nl/vergadering/1013582#ai_7066629"
+    },
+    "attachment": null,
+    "parent": 794220,
+    "children": [],
+    "text": "De studentstop bij de opleiding voor BOA’s bij het Summa College en het gebrek aan stageplaatsen mee te nemen in de bespreking van het gebrek aan BOA’s later dit jaar.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1104171,
+            "weight": 0.12379540746506516
+        },
+        {
+            "id": 776915,
+            "weight": 0.1214429057478134
+        },
+        {
+            "id": 918140,
+            "weight": 0.11653622332705155
+        },
+        {
+            "id": 1090175,
+            "weight": 0.09940660788130766
+        },
+        {
+            "id": 1133048,
+            "weight": 0.09029249747520385
+        }
+    ],
+    "videostarttime": {
+        "1013582": 22940
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_08.11.22_NC_Eindhoven_Raad.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Vaststellen": 1.9958491723713871,
+        "Vaststellen Begroting": 1.9958491723713871,
+        "Summa College": 0.9943040765830226,
+        "Studentstop BOA": 1.9826531893246602,
+        "stageplaatsen mee": 0.9785961787830932,
+        "BOA": 1.9711519070511154,
+        "Begroting": 1.9450728554411305,
+        "gebrek": 0.9443714123848449,
+        "Summa": 0.9247426839255948,
+        "jaar": 0.9022604108874857,
+        "opleiding": 0.8552405520530941,
+        "mee": 0.8552405520530941,
+        "nemen": 0.8552405520530941
+    },
+    "svz": null,
+    "afgedaan": "07-02-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

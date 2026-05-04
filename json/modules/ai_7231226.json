@@ -1,0 +1,64 @@
+{
+    "module_id": "ai_7231226",
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Natuurvergunning Eindhoven Airport -  Brief aan het ministerie van Landbouw, Natuur en Voedselkwaliteit over natuurvergunning van Eindhoven Airport",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/moties_en_toezeggingen/831516?parent_event=1059807",
+    "type": "Agenda",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "28-03-2023",
+    "meeting_url": "https://raadsinformatie.eindhoven.nl/vergadering/1059807#ai_7231226",
+    "attachment": null,
+    "parent": null,
+    "children": [
+        831516
+    ],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 12557862,
+            "weight": 0.3616185396970317
+        },
+        {
+            "id": 1096312,
+            "weight": 0.3094274820149776
+        },
+        {
+            "id": 1116386,
+            "weight": 0.2659108101318857
+        },
+        {
+            "id": 776916,
+            "weight": 0.26409210920340326
+        },
+        {
+            "id": 955576,
+            "weight": 0.19202574778688386
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Eindhoven Airport": 1.9972572627320526,
+        "Airport": 1.9739350189712677,
+        "Natuurvergunning Eindhoven": 1.9687392160585955,
+        "Brief": 1.934879860082297,
+        "Landbouw": 1.934879860082297,
+        "Natuur": 1.934879860082297,
+        "Voedselkwaliteit": 1.9038876640239883,
+        "ministerie": 1.8034609649078444
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": null,
+    "meeting_id": []
+}

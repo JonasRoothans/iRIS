@@ -1,0 +1,101 @@
+{
+    "module_id": 937328,
+    "vote_id": null,
+    "member_id": [
+        194500
+    ],
+    "party_list": [
+        "FVD"
+    ],
+    "poho_id": [],
+    "title": "Beantwoording vervolg raadsvragen parkeren gehandicapten (FvD)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/4/Raadsvragen/937328",
+    "type": "Raadsvraag",
+    "member": "Nicolas Knoester",
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "22-04-2024",
+    "meeting_url": null,
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/14078026/1?connection_type=17&connection_id=10510918": "Vraag",
+        "https://raadsinformatie.eindhoven.nl/document/14180851/1?connection_type=17&connection_id=10609074": "Antwoord"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": " \n \n \nRaadsvragen  Vervolgvragen Parkeren gehandicapten  \n \ndatum:  18 april 2024  \n \n \nGeacht college,  \n \nInleiding  \nNaar aanleiding van  de beantwoording  van de vragen Parkeren \ngehandicapten  door het college heeft FVD vervolgvragen.  \n \n \nRaadsvragen  \n1. Deelt het college de mening dat het om een digitaal experiment \ngaat? Het ED schrijft letterlijk: \"De stad loopt daarmee voorop en \nkan zelfs de eerste plaats in Nederland worden die de app \n(ParkerenPlus) introduceert.\"  \n2. Desondanks beweert het college dat de app ook in andere \ngemeenten gebruikt kan worden. Welke gemeenten zijn dat \nallemaal?  \n3. Het college geeft aan dat gehandicapten bij bezwaar sowieso \nkwijtschelding krijgen. Dienen zij bij het bewaar maken ook eerst \nde boete te betalen? Dat zou namelijk een vreemde gang van \nzaken zijn en dus geen goed alternatief.  \n4. Op welke manier, wanneer en door wie wordt er een evaluatie \nuitgevoerd?  \n5. Kan de beslissing worden teruggedraaid indien de evaluatie \naantoont dat het onvoldoende effect heeft?  \n \n \nNamens de fractie , \nForum voor Democratie  \n \nNicolas Knoester , raadslid  \n \n \n",
+    "bst": "24bst00652",
+    "related": [
+        {
+            "id": 930497,
+            "weight": 1.6072741248282323
+        },
+        {
+            "id": 965694,
+            "weight": 1.3263523584888248
+        },
+        {
+            "id": 894051,
+            "weight": 0.3227599829241649
+        },
+        {
+            "id": 998975,
+            "weight": 0.3143811840751927
+        },
+        {
+            "id": 1076901,
+            "weight": 0.3053467050749648
+        },
+        {
+            "id": 1052186,
+            "weight": 0.16552955704268182
+        },
+        {
+            "id": 930390,
+            "weight": 0.14200647748939074
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Vervolgvragen Parkeren": 0.9951729641128549,
+        "FVD vervolgvragen": 0.9928303939888514,
+        "parkeren gehandicapten": 1.9924437754123576,
+        "parkeren": 1.9810210744765753,
+        "Geacht college": 0.9774078333768922,
+        "Beantwoording vervolg": 1.9741486876360366,
+        "FvD": 1.9578141946907452,
+        "raadsvragen": 1.9392865378000224,
+        "Geacht": 0.9374983530911607,
+        "Inleiding": 0.9374983530911607,
+        "gehandicapten datum": 0.9336035439799611,
+        "college": 0.9293041443176298,
+        "april": 0.8620922473301508,
+        "datum": 0.840070741825655,
+        "vervolg": 1.8173758945234455,
+        "Nicolas Knoester": 0.7852904645011771,
+        "Democratie Nicolas": 0.7683192372847015,
+        "app": 0.768293998506232,
+        "Desondanks beweert": 0.7555666718735482,
+        "gemeenten": 0.7372014796295767,
+        "evaluatie": 0.7028189394932345,
+        "Nederland": 0.6848062589582145,
+        "experiment gaat": 0.6479904070528113,
+        "digitaal experiment": 0.6080640513681794,
+        "Forum": 0.5924480422348843,
+        "Knoester": 0.5924480422348843,
+        "Nicolas": 0.5662935230243954,
+        "schrijft letterlijk": 0.5413321027153644,
+        "gemeenten gebruikt": 0.5250730578935605,
+        "Deelt": 0.5093443524834254,
+        "gaat": 0.5093443524834254,
+        "introduceert": 0.5020134503998905
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194500,
+    "lastScrapeDate": "02-04-2026",
+    "meeting_id": []
+}

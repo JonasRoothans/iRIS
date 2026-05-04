@@ -1,0 +1,123 @@
+{
+    "module_id": 1021307,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "RIB over Beleidsregels - Agenderingsverzoek: Tegengaan van woonoverlast door woningsplitsing en kamerverhuur",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/moties_en_toezeggingen/1021307?parent_event=1256332",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "18-02-2025",
+    "meeting_url": {
+        "1256332": "https://raadsinformatie.eindhoven.nl/vergadering/1256332#ai_9027815"
+    },
+    "attachment": null,
+    "parent": "ai_9027815",
+    "children": [],
+    "text": "Wethouder Verhees zegt toe om de raad middels een RIB te informeren hoe de beleidsregels zijn vastgesteld en hoe de aandachtspunten van het platform zijn verwerkt;",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1021310,
+            "weight": 0.10924412789211878
+        },
+        {
+            "id": 1138538,
+            "weight": 0.10831001342298728
+        },
+        {
+            "id": 1021311,
+            "weight": 0.10824362563119078
+        },
+        {
+            "id": 1021308,
+            "weight": 0.10822952947870818
+        },
+        {
+            "id": 1021314,
+            "weight": 0.10805064663906783
+        },
+        {
+            "id": 1138532,
+            "weight": 0.10728845561459571
+        },
+        {
+            "id": 1138537,
+            "weight": 0.10726315118238323
+        },
+        {
+            "id": 1138531,
+            "weight": 0.10716168080187895
+        },
+        {
+            "id": 819546,
+            "weight": 0.09634067902638746
+        },
+        {
+            "id": 984487,
+            "weight": 0.09565916780673803
+        },
+        {
+            "id": 973404,
+            "weight": 0.09489086272335727
+        },
+        {
+            "id": 1003503,
+            "weight": 0.08427436759937755
+        },
+        {
+            "id": 852093,
+            "weight": 0.08003918237936626
+        },
+        {
+            "id": 790670,
+            "weight": 0.0744920496583989
+        },
+        {
+            "id": 926421,
+            "weight": 0.06758771777631259
+        },
+        {
+            "id": 796421,
+            "weight": 0.06621148239295063
+        },
+        {
+            "id": 1031702,
+            "weight": 0.056350055493613625
+        }
+    ],
+    "videostarttime": {
+        "1256332": 42
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/18.02.25 Eindhoven Meningsvormend RZ.mp4/playlist.m3u8",
+    "keywords": {
+        "Wethouder Verhees": 0.9947717504648961,
+        "kamerverhuur Wethouder": 0.9902730002011461,
+        "Verhees zegt": 0.9902730002011461,
+        "raad middels": 0.9818332532750705,
+        "Agenderingsverzoek": 1.9662738269496023,
+        "RIB": 1.9547453019663092,
+        "Tegengaan": 1.9476703023722708,
+        "Beleidsregels": 1.9401711161444517,
+        "verwerkt": 0.9101926169182205,
+        "woonoverlast": 1.8664237871272618,
+        "woningsplitsing": 1.8664237871272618,
+        "zegt": 0.8664237871272619,
+        "raad": 0.8664237871272619,
+        "informeren": 0.8664237871272619,
+        "vastgesteld": 0.8664237871272619,
+        "aandachtspunten": 0.8664237871272619,
+        "platform": 0.8664237871272619
+    },
+    "svz": "Er komt nog een informatieronde in de op-slot-gebieden. Daarna worden de conceptregels afgerond en aan het col...  Lees verder ",
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

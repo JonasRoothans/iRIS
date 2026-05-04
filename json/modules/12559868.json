@@ -1,0 +1,123 @@
+{
+    "module_id": 12559868,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Beantwoording technische vraag uit de rondvraag Hoe is het mogelijk - Gemeente weer in de fout (SP)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "28-03-2023",
+    "meeting_url": {
+        "1059807": "https://raadsinformatie.eindhoven.nl/vergadering/1013477/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://api.notubiz.nl/document/12559868/1",
+    "pdf_text": "Beantwoording technische vraag uit de rondvraag : Hoe is het mogelijk? \nGemeente weer in de fout!  - SP (Visscher)  \n \n \nVraag: Van hoeveel aanvragen loopt de beslistermijn bijna ten einde en \ndreigen er mogelijk weer van rechtswege te verlenen vergunningen?  \n \n \nAntwoord: Op dit moment, en dat is een momentopname, zijn er geen andere \naanvragen waarbij de beslistermijn bijna ten einde is en die niet meer op tijd \ninhoudelijk behandeld kunnen worden.  \n ",
+    "bst": null,
+    "related": [
+        {
+            "id": 12866052,
+            "weight": 1.006337453272915
+        },
+        {
+            "id": 948991,
+            "weight": 0.5619622230115342
+        },
+        {
+            "id": 1038657,
+            "weight": 0.4405192497459627
+        },
+        {
+            "id": 12866053,
+            "weight": 0.43932738955482625
+        },
+        {
+            "id": 13990893,
+            "weight": 0.4358901062361328
+        },
+        {
+            "id": 906717,
+            "weight": 0.2796327881457052
+        },
+        {
+            "id": 904205,
+            "weight": 0.2747087479632983
+        },
+        {
+            "id": "a_8950514",
+            "weight": 0.20089856005037118
+        },
+        {
+            "id": 15548501,
+            "weight": 0.19912744706678165
+        },
+        {
+            "id": 1036333,
+            "weight": 0.18709881731068612
+        },
+        {
+            "id": 1020983,
+            "weight": 0.17713451623787885
+        },
+        {
+            "id": 16532271,
+            "weight": 0.1592158110836439
+        },
+        {
+            "id": 991663,
+            "weight": 0.15573936816013662
+        },
+        {
+            "id": 826914,
+            "weight": 0.1181445675751744
+        },
+        {
+            "id": 1041804,
+            "weight": 0.0874417667397942
+        },
+        {
+            "id": 1148253,
+            "weight": 0.08305417730958527
+        },
+        {
+            "id": 1148207,
+            "weight": 0.08222869685572895
+        },
+        {
+            "id": 775301,
+            "weight": 0.07112562107390656
+        }
+    ],
+    "videostarttime": {
+        "1059807": 1489
+    },
+    "videolink": null,
+    "keywords": {
+        "Beantwoording technische": 1.9962945367642544,
+        "technische vraag": 1.987021696202948,
+        "Gemeente": 1.938408455133769,
+        "vraag": 1.9288077616476182,
+        "fout": 1.9148434737490594,
+        "beslistermijn": 0.8058786108613532,
+        "Visscher": 0.7859271545167767,
+        "einde": 0.7772832268581257,
+        "aanvragen": 0.7510521867240416,
+        "verlenen vergunningen": 0.6726833772384508,
+        "Antwoord": 0.5616100324004234
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1059807
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "module_id": 1021303,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230013,
+    "title": "Toekomstfonds - Raadsvoorstel Aankoop BIC1",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1021303",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Steenbakkers (Wethouder)",
+    "result": "",
+    "date": "18-02-2025",
+    "meeting_url": {
+        "1256331": "https://raadsinformatie.eindhoven.nl/vergadering/1256331#ai_9025497"
+    },
+    "attachment": null,
+    "parent": 1011625,
+    "children": [],
+    "text": "Wethouder Steenbakkers zegt toedat bij de Kadernota een voorstel voor inrichting van het Toekomstfonds wordt gedaan.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1148967,
+            "weight": 0.7619441310287689
+        },
+        {
+            "id": 1045729,
+            "weight": 0.7300551961362026
+        },
+        {
+            "id": 987695,
+            "weight": 0.3986658981952483
+        },
+        {
+            "id": 1021300,
+            "weight": 0.3984326993312491
+        },
+        {
+            "id": 1090160,
+            "weight": 0.3974275231633256
+        },
+        {
+            "id": 1090156,
+            "weight": 0.3972783975906946
+        },
+        {
+            "id": 977747,
+            "weight": 0.39599136197129253
+        },
+        {
+            "id": 977750,
+            "weight": 0.3959832281349377
+        },
+        {
+            "id": 905916,
+            "weight": 0.395512127382502
+        },
+        {
+            "id": "a_9477764",
+            "weight": 0.37565279668627605
+        },
+        {
+            "id": 984905,
+            "weight": 0.37298483973220053
+        },
+        {
+            "id": 1080157,
+            "weight": 0.19125605270585483
+        },
+        {
+            "id": 1011625,
+            "weight": 0.18144085184033
+        }
+    ],
+    "videostarttime": {
+        "1256331": 7614
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/18.02.25 Eindhoven Meningsvormend CK web.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Aankoop": 1.9962172628530972,
+        "Wethouder Steenbakkers": 0.9943516277049946,
+        "Steenbakkers zegt": 0.9834300734310607,
+        "zegt toedat": 0.9672217425469819,
+        "Aankoop": 1.9386120372534896,
+        "Wethouder": 0.9386120372534895,
+        "Toekomstfonds": 1.9168400498686742,
+        "Kadernota": 0.9085057211826901,
+        "gedaan": 0.8913190745870246,
+        "zegt": 0.8218485391955245,
+        "voorstel": 1.8218485391955244,
+        "inrichting": 0.8218485391955245
+    },
+    "svz": null,
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

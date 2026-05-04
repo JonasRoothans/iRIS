@@ -1,0 +1,95 @@
+{
+    "module_id": 12715236,
+    "vote_id": null,
+    "member_id": [
+        131155
+    ],
+    "party_list": [
+        "50PLUS"
+    ],
+    "poho_id": [],
+    "title": "Vraag V6 Vragenhalfuur Reactie dienstregeling OV (50PLUS)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "09-05-2023",
+    "meeting_url": {
+        "1013486": "https://raadsinformatie.eindhoven.nl/vergadering/1013486/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/12715236/1/Vraag+V6+Vragenhalfuur+Reactie+dienstregeling+OV+%2850PLUS%29?connection_type=1&connection_id=6964915",
+    "pdf_text": " \n \n \nVragenhalfuur   \nReactie dienstregeling OV            V6 \n \nGeacht college,  \n \nU stuurt op 26 april een RIB betreffende Dienstregeling OV 2023 -2024   \n23bst00603. Hierin stelt u dat de raad de vrijheid heeft om tijdens de \nraadsvergadering van 9 mei  vrije moties in te dienen over deze dienstregeling.  U \nschrijft tevens “Er is slechts een korte reactietijd”  \n \nVragen:  \nWanneer heeft u de dienstregeling ontvangen?  \nWaarom is er slechts een korte reactietijd?  \nWat is uw intentie met deze manier van reactietijd , Wilt u serieus de raad de \ngelegenheid geven voor reactie? Of doet u dit omdat u de raad  in kennis moet \nstellen?  \n \n \n \nEindhoven, 9-5-2023  \n \n \nHet lid  van de raad,  \n \nRuud van Acquoij indiener 50PLUS  \n \n \n \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 14580979,
+            "weight": 0.2213218890238688
+        },
+        {
+            "id": 1122811,
+            "weight": 0.09074603057968608
+        },
+        {
+            "id": 1020595,
+            "weight": 0.08432639069496006
+        },
+        {
+            "id": 1037947,
+            "weight": 0.08031091443003453
+        },
+        {
+            "id": 1082855,
+            "weight": 0.0778236329528617
+        },
+        {
+            "id": 1051253,
+            "weight": 0.05938290816664503
+        }
+    ],
+    "videostarttime": {
+        "1013486": 1868
+    },
+    "videolink": null,
+    "keywords": {
+        "Vragenhalfuur Reactie": 1.994021378943349,
+        "Geacht college": 0.9890050494210408,
+        "Reactie dienstregeling": 1.9682492395121478,
+        "Geacht": 0.9351326110723486,
+        "RIB": 0.9260773038502447,
+        "korte reactietijd": 0.9183299683616276,
+        "Reactie": 1.9177081645733092,
+        "raad": 0.9033433522177585,
+        "dienstregeling ontvangen": 0.8609411945532556,
+        "college": 0.832344471802999,
+        "april": 0.832344471802999,
+        "stuurt": 0.8008497689704015,
+        "korte": 0.7932191080165005,
+        "Vragen": 1.7697500464203806,
+        "mei vrije": 0.7642868248773025,
+        "vrije moties": 0.7265049904690254,
+        "Wilt": 0.6706801528296527,
+        "Acquoij indiener": 0.6641567815360628,
+        "Ruud": 0.6326659223036478,
+        "schrijft tevens": 0.6087033708888738,
+        "Acquoij": 0.599471921677136,
+        "mei": 0.588386034391462,
+        "stelt": 0.5365786058880617,
+        "vrijheid": 0.5365786058880617,
+        "raadsvergadering": 0.5365786058880617,
+        "moties": 0.5365786058880617,
+        "dienen": 0.5365786058880617
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 131155,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1013486
+    ]
+}

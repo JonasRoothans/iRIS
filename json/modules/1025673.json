@@ -1,0 +1,125 @@
+{
+    "module_id": 1025673,
+    "vote_id": null,
+    "member_id": [
+        194500
+    ],
+    "party_list": [
+        "FVD"
+    ],
+    "poho_id": [],
+    "title": "Beantwoording raadsvragen - Geen voorrang meer voor statushouders (FvD)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/4/Raadsvragen/1025673",
+    "type": "Raadsvraag",
+    "member": "Nicolas Knoester",
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "10-03-2025",
+    "meeting_url": null,
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/15236647/1?connection_type=17&connection_id=11621267": "Vraag",
+        "https://raadsinformatie.eindhoven.nl/document/15300729/2?connection_type=17&connection_id=11670386": "Antwoord"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": " \n \nRaadsvragen van de fractie  Forum voor Democratie  \n \nGeen voorrang meer voor statushouders  \ndatum:  9 maart  2025  \n \n \nGeacht college,  \n \nRecent  werd bekend dat de gemeente Amsterdam op zoek is naar \nmanieren om de nieuwe wetgeving omtrent voorrang voor statushouders \nte omzeilen c.q. te ondermijnen . \nZie: https://www.telegraaf.nl/nieuws/1357326645/amsterdam -wil-\nstatushouders -toch-urgentie -geven -bij-huisvesting -wetsvoorstel -\nminister -is-onmenselijk   \n \n1. Gaat de gemeente Eindhoven zich wel (volledig) aan de nieuwe \nwetgeving houden? Zo nee, waarom niet?  \n2. Deelt het college de mening dat gemeenten een voorbeeldfunctie \nhebben en zich aan de wet moeten houden net zoals dat van \ninwoners verwacht wordt?  \n \n \nNamens de fractie Forum voor Democratie  \nNicolas Knoester (F VD) \n",
+    "bst": "7895907 1.8.1.",
+    "related": [
+        {
+            "id": 926553,
+            "weight": 0.4628031921421788
+        },
+        {
+            "id": 862060,
+            "weight": 0.24660474690905954
+        },
+        {
+            "id": 956987,
+            "weight": 0.16639225628564502
+        },
+        {
+            "id": 984221,
+            "weight": 0.07433565688180971
+        },
+        {
+            "id": 920187,
+            "weight": 0.0738215907056161
+        },
+        {
+            "id": 1133046,
+            "weight": 0.061087572191836775
+        },
+        {
+            "id": 776928,
+            "weight": 0.060953023710001566
+        },
+        {
+            "id": 781364,
+            "weight": 0.05263384051105852
+        },
+        {
+            "id": 998895,
+            "weight": 0.05219733579483052
+        },
+        {
+            "id": 16395091,
+            "weight": 0.050650946805409894
+        },
+        {
+            "id": 845129,
+            "weight": 0.04863529682956089
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Beantwoording raadsvragen": 1.9867969513852186,
+        "statushouders datum": 0.9849011695561446,
+        "gemeente Amsterdam": 0.983715133080827,
+        "nieuwe wetgeving": 0.9761305877395818,
+        "Geacht college": 0.9755890367228817,
+        "voorrang": 1.9638340675939152,
+        "fractie Forum": 0.962421510076991,
+        "raadsvragen": 1.9544607366176845,
+        "gemeente Eindhoven": 0.9501590573332934,
+        "Geacht": 0.9391758185357404,
+        "Recent": 0.9391758185357404,
+        "Amsterdam": 0.9303509758678854,
+        "Democratie Nicolas": 0.9143397095160996,
+        "nieuwe": 0.9009772532386504,
+        "Forum": 0.8980274114292904,
+        "wetgeving houden": 0.8905254766073516,
+        "gemeente": 0.8849666616158558,
+        "FvD": 1.8834539735827711,
+        "maart": 0.883453973582771,
+        "toch-urgentie": 0.883453973582771,
+        "bij-huisvesting": 0.883453973582771,
+        "wetsvoorstel": 0.883453973582771,
+        "minister": 0.883453973582771,
+        "is-onmenselijk": 0.883453973582771,
+        "Nicolas Knoester": 0.8778200231481886,
+        "datum": 0.8569256645310123,
+        "omzeilen": 0.8569256645310123,
+        "ondermijnen": 0.8569256645310123,
+        "bekend": 0.8291005151531348,
+        "zoek": 0.8291005151531348,
+        "manieren": 0.8291005151531348,
+        "college": 0.8041135341241867,
+        "Eindhoven": 0.7936478383653186,
+        "houden": 0.7855569309599024,
+        "Deelt": 0.713468914657151,
+        "volledig": 0.6857911637036205,
+        "Knoester": 0.6856660680155336,
+        "Nicolas": 0.6536252238711326,
+        "nee": 0.5420539345901139,
+        "inwoners verwacht": 0.5406013856411203
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194500,
+    "lastScrapeDate": "02-04-2026",
+    "meeting_id": []
+}

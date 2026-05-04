@@ -1,0 +1,65 @@
+{
+    "module_id": 891748,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230019,
+    "title": "Toegankelijkheid van sportvoorzieningen - Raadsvoorstel Vaststellen Begroting 2024",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/891748",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. van Lanschot (Wethouder)",
+    "result": "",
+    "date": "31-10-2023",
+    "meeting_url": {
+        "1153547": "https://raadsinformatie.eindhoven.nl/vergadering/1153547#ai_7885375"
+    },
+    "attachment": null,
+    "parent": 879979,
+    "children": [],
+    "text": "Wethouder van Lanschot zegt toe om te komen met een schriftelijk antwoord op de vraag over toegankelijkheid van sportvoorzieningen in de openbare ruimte voor mensen met een beperking.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 984516,
+            "weight": 0.9197760992199167
+        },
+        {
+            "id": 936494,
+            "weight": 0.3821716264356574
+        },
+        {
+            "id": 1107607,
+            "weight": 0.31611600074058455
+        }
+    ],
+    "videostarttime": {
+        "1153547": null
+    },
+    "videolink": null,
+    "keywords": {
+        "Raadsvoorstel Vaststellen": 1.996211771781111,
+        "Vaststellen Begroting": 1.996211771781111,
+        "Lanschot zegt": 0.9902730002011461,
+        "schriftelijk antwoord": 0.9818332532750705,
+        "openbare ruimte": 0.9818332532750705,
+        "Begroting": 1.9476703023722708,
+        "Wethouder": 0.9476703023722707,
+        "Toegankelijkheid": 1.9319784840682583,
+        "sportvoorzieningen": 1.9319784840682583,
+        "zegt": 0.8664237871272619,
+        "komen": 0.8664237871272619,
+        "antwoord": 0.8664237871272619,
+        "vraag": 0.8664237871272619,
+        "ruimte": 0.8664237871272619,
+        "mensen": 0.8664237871272619
+    },
+    "svz": "De raad heeft deze nadere toelichting op 3 november ontvangen.\nVOORSTEL COLLEGE: AFVOEREN....  Lees verder ",
+    "afgedaan": "14-11-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

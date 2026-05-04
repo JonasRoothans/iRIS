@@ -1,0 +1,61 @@
+{
+    "module_id": 790756,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230022,
+    "title": "Lokale vertaling/context landelijke hervormingsagenda",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/790756",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Toub (Wethouder)",
+    "result": "",
+    "date": "01-11-2022",
+    "meeting_url": {
+        "1034744": "https://raadsinformatie.eindhoven.nl/vergadering/1034744#ai_7087609"
+    },
+    "attachment": null,
+    "parent": "ai_7087609",
+    "children": [],
+    "text": "Zodra de landelijke hervormingsagenda voor jeugd een lokale vertaling/context krijgt de raad hierover te informeren.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 853456,
+            "weight": 0.4676742266662871
+        },
+        {
+            "id": 1051400,
+            "weight": 0.4382856525452929
+        },
+        {
+            "id": 1141642,
+            "weight": 0.36956420842113363
+        }
+    ],
+    "videostarttime": {
+        "1034744": 17721
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_01.11.22_NC_Eindhoven_Raad.mp4/playlist.m3u8",
+    "keywords": {
+        "Lokale vertaling": 1.988892045074045,
+        "landelijke hervormingsagenda": 1.9727998009936814,
+        "context krijgt": 0.9672154888785256,
+        "raad hierover": 0.958112533588375,
+        "context": 1.9208415356100064,
+        "Lokale": 1.886428787517075,
+        "landelijke": 1.886428787517075,
+        "informeren": 0.8763690867947806,
+        "jeugd": 0.7994920302806434,
+        "krijgt": 0.7994920302806434,
+        "raad": 0.7994920302806434
+    },
+    "svz": "VOORSTEL COLLEGE: AFVOEREN. De raad is middels een collegebrief geïnformeerd op 9 januari 2024 - \"Betreft...  Lees verder ",
+    "afgedaan": "05-03-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

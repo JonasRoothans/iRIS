@@ -1,0 +1,48 @@
+{
+    "module_id": 790714,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": null,
+    "title": "Meerjarenplan Verkeersveiligheid",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/790714",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Esselbrugge (Wethouder)",
+    "result": "",
+    "date": "01-11-2022",
+    "meeting_url": {
+        "1034745": "https://raadsinformatie.eindhoven.nl/vergadering/1034745#ai_7087454"
+    },
+    "attachment": null,
+    "parent": "ai_7087454",
+    "children": [],
+    "text": "In 2023 komt het Meerjarenplan Verkeersveiligheid naar de raad, hierin zit ook de fietsveiligheid.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 994550,
+            "weight": 0.3122673254246711
+        }
+    ],
+    "videostarttime": {
+        "1034745": 17716
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_01.11.22_NC_Eindhoven_CIE.mp4/playlist.m3u8",
+    "keywords": {
+        "Meerjarenplan Verkeersveiligheid": 1.9926949947523724,
+        "Meerjarenplan": 1.9302802305653417,
+        "komt": 0.881595445156789,
+        "raad": 0.881595445156789,
+        "fietsveiligheid": 0.881595445156789,
+        "zit": 0.8072535068389848
+    },
+    "svz": null,
+    "afgedaan": "14-05-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

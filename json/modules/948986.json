@@ -1,0 +1,86 @@
+{
+    "module_id": 948986,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230013,
+    "title": "Programmavoorzieningen voor Eindhoven - Raadsvoorstel Intentieovereenkomst vestiging van ASML op BIC Noord",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/948986",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Steenbakkers (Wethouder)",
+    "result": "",
+    "date": "04-06-2024",
+    "meeting_url": {
+        "1147940": "https://raadsinformatie.eindhoven.nl/vergadering/1147940#ai_8430554"
+    },
+    "attachment": null,
+    "parent": 937473,
+    "children": [],
+    "text": "Wethouder Steenbakkers zegt toe dat er inzicht komt in Q4’24/Q1’25 “programmavoorzieningen voor Eindhoven”, met concrete stand van zaken van de voorzieningen, en wat nodig is in de toekomst.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 949613,
+            "weight": 1.4914775616825913
+        },
+        {
+            "id": 948989,
+            "weight": 1.4896888628857416
+        },
+        {
+            "id": 948991,
+            "weight": 1.4868252289387058
+        },
+        {
+            "id": 948987,
+            "weight": 1.4861844158042365
+        },
+        {
+            "id": 949263,
+            "weight": 0.24484265456595652
+        },
+        {
+            "id": 949454,
+            "weight": 0.2353453818819178
+        },
+        {
+            "id": 949456,
+            "weight": 0.20580133797200958
+        }
+    ],
+    "videostarttime": {
+        "1147940": 19757
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_04.06.24_Eindhoven_meningCK.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Intentieovereenkomst": 1.996268318641122,
+        "BIC Noord": 1.9948450563063278,
+        "Noord Wethouder": 0.9948450563063277,
+        "Wethouder Steenbakkers": 0.9948450563063277,
+        "Intentieovereenkomst vestiging": 1.9904673877045713,
+        "Steenbakkers zegt": 0.9904673877045713,
+        "inzicht komt": 0.982306686941748,
+        "concrete stand": 0.982306686941748,
+        "Eindhoven": 1.9800113823233025,
+        "Programmavoorzieningen": 1.9679370103604643,
+        "Raadsvoorstel": 1.9480851666350514,
+        "ASML": 1.9283864081945965,
+        "BIC": 1.9283864081945965,
+        "toekomst": 0.9114076127330971,
+        "vestiging": 1.8681451465313184,
+        "zegt": 0.8681451465313182,
+        "komt": 0.8681451465313182,
+        "stand": 0.8681451465313182,
+        "zaken": 0.8681451465313182,
+        "nodig": 0.8681451465313182
+    },
+    "svz": "Op 3 december 2024 was een technische raadsavond met een presentatie. Hiermee wordt uitvoering gegeven aan toe...  Lees verder ",
+    "afgedaan": "10-12-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

@@ -1,0 +1,55 @@
+{
+    "module_id": 850868,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230024,
+    "title": "Werk en inkomen - Raadsvoorstel Kadernota 2024",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/850868",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Lammers (Wethouder)",
+    "result": "",
+    "date": "23-05-2023",
+    "meeting_url": {
+        "1096274": "https://raadsinformatie.eindhoven.nl/vergadering/1096274#ai_7491703"
+    },
+    "attachment": null,
+    "parent": 837030,
+    "children": [],
+    "text": "Wethouder Lammers zegt toe:\nDe raad te informeren over de stand van zaken dienstverlening werk en inkomen.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 853278,
+            "weight": 0.489900808115266
+        },
+        {
+            "id": 996947,
+            "weight": 0.23350376554460303
+        }
+    ],
+    "videostarttime": {
+        "1096274": 12343
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_23.05.23_Eindhoven_NC_Meningsvorming.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Kadernota": 1.9945410352929303,
+        "Wethouder Lammers": 0.9920998285759519,
+        "Lammers zegt": 0.9732570626696767,
+        "Kadernota": 1.926316038333142,
+        "inkomen": 1.9103369770277943,
+        "Werk": 1.8111437659003822,
+        "zegt": 0.7551492974850178,
+        "dienstverlening werk": 0.7499087892788041,
+        "zaken dienstverlening": 0.610073629471432
+    },
+    "svz": null,
+    "afgedaan": "13-06-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

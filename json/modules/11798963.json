@@ -1,0 +1,119 @@
+{
+    "module_id": 11798963,
+    "vote_id": null,
+    "member_id": [
+        194495
+    ],
+    "party_list": [
+        "Partij voor de Dieren"
+    ],
+    "poho_id": [],
+    "title": "2. Rondvraag PvdD Reclame voor vlees tot 2032",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "07-09-2022",
+    "meeting_url": {
+        "1013073": "https://raadsinformatie.eindhoven.nl/vergadering/1013065/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://api.notubiz.nl/document/11798963/1",
+    "pdf_text": " \n \n \nRondvraag   \nActieplan Fossielvrije reclame  \n \n \nHaarlem heeft een primeur. Daar gaan ze naast reclames voor vliegreisjes ook \nreclames voor vlees in de openbare ruimte verbieden vanwege de impact op het \nklimaat. De mo tie in Haarlem kwam van GroenLinks, maar kreeg oa steun van het \nCDA de PvdA en D66.  \n \nIn het bestuur sakkoord van GroenLinks , CDA, PvdA en D66 van Eindhoven staat \ndat er een ‘actieplan wordt uitgewerkt voor gedragsverandering’, omdat het \ntegengaan van klimaat verandering een noodzaak  is.  Daar zijn wij het helemaal \nmee eens.  \n \nUit beantwoording van onze technische vragen voor het reces blijkt dat in \nEindhoven sommige reclamecontracten tot het jaar 2032 (!) doorlopen.  \n \nDe vraag aan de wethouder is:  \n \n1. Is hij het me t ons eens dat het onwenselijk is, dat er tot 2032 reclame gemaakt \nkan worden voor zaken die de klimaatcrisis verergeren, terwijl Eindhoven juist \nalles op alles zet om in 2030 klimaatneutraal te zijn?  \n \n2. En zo ja, verwacht hij dat het college zelf spoedig me t een voorstel komt, of \nzou de wethouder ons adviseren een fossiel reclameverbod via een motie te \nregelen ?  \n \n \nEindhoven, 06-09-2022  \n \n \nDe leden van de raad  en/of commissie , \n \nVirginia Jonkers, PvdD  \n \n \n",
+    "bst": null,
+    "related": [
+        {
+            "id": "a_8389212",
+            "weight": 0.6313242437533686
+        },
+        {
+            "id": 864790,
+            "weight": 0.4982181190014387
+        },
+        {
+            "id": "a_10115166",
+            "weight": 0.26591963479502995
+        },
+        {
+            "id": 942563,
+            "weight": 0.26503669487183457
+        },
+        {
+            "id": 926404,
+            "weight": 0.2648693519867874
+        },
+        {
+            "id": 777029,
+            "weight": 0.2454341892975005
+        },
+        {
+            "id": 863194,
+            "weight": 0.24497882702440776
+        },
+        {
+            "id": 779530,
+            "weight": 0.2365927500606195
+        },
+        {
+            "id": "a_7981810",
+            "weight": 0.2222419767574814
+        },
+        {
+            "id": 920652,
+            "weight": 0.21512642144133268
+        },
+        {
+            "id": 893438,
+            "weight": 0.17351617569717362
+        },
+        {
+            "id": "a_8389213",
+            "weight": 0.12640876533530337
+        },
+        {
+            "id": 909638,
+            "weight": 0.11094520974621234
+        }
+    ],
+    "videostarttime": {
+        "1013073": 1521
+    },
+    "videolink": null,
+    "keywords": {
+        "Fossielvrije reclame": 0.9325879500349533,
+        "Rondvraag Actieplan": 0.9249161316108052,
+        "Actieplan Fossielvrije": 0.9244767230915609,
+        "reclame Haarlem": 0.9188381608715108,
+        "Eindhoven": 0.9169457061617796,
+        "Reclame": 1.8982233829815054,
+        "Rondvraag": 1.897139305038921,
+        "Haarlem": 0.8770688598192298,
+        "CDA": 0.8497785742819084,
+        "Actieplan": 0.8302558370871875,
+        "vlees": 1.8181891766843747,
+        "Virginia Jonkers": 0.8177260857481715,
+        "GroenLinks": 0.8070649033579876,
+        "naast reclames": 0.8062056006364309,
+        "PvdA": 0.7663014775305951,
+        "klimaat": 0.756828805149052,
+        "wethouder": 0.7247897391347804,
+        "Virginia": 0.6073521657957228,
+        "Jonkers": 0.6073521657957228,
+        "openbare ruimte": 0.6059350024771913,
+        "ruimte verbieden": 0.6059350024771913,
+        "primeur": 0.6043220870289946,
+        "klimaat verandering": 0.574625661423263
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194495,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1013073
+    ]
+}

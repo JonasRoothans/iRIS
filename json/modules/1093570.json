@@ -1,0 +1,172 @@
+{
+    "module_id": 1093570,
+    "vote_id": null,
+    "member_id": [
+        194500
+    ],
+    "party_list": [
+        "FVD"
+    ],
+    "poho_id": [],
+    "title": "Beantwoording raadsvragen - Warme LED verlichting (FvD)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/4/Raadsvragen/1093570",
+    "type": "Raadsvraag",
+    "member": "Nicolas Knoester",
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "20-10-2025",
+    "meeting_url": null,
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/16108169/1?connection_type=17&connection_id=12475901": "Vraag",
+        "https://raadsinformatie.eindhoven.nl/document/16150417/1?connection_type=17&connection_id=12514186": "Antwoord"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": " \n \n \nRaadsvragen  - Warme LED -verlichting  \ndatum:  14 oktober  2025  \n \n \nGeacht college,  \n \nDe gemeente Eindhoven vervangt op dit moment de traditionele \n(natrium)verlichting door energiezuinige LED -verlichting.  Op zichzelf een \nprima  stap, aangezien het goedkoper en efficiënter is.  \n \nEchter, e en veelgehoorde zorg is dat de nieuwe LED -lampen een \nkoude, witte lichtkleur geven, terwijl de oude natriumverlichting juist \nbekend stond om haar warme, oranje gloed. De warme kleur van de \noude verlichting droeg bij aan een prettige en herkenbare sfeer in de \nstad, vooral in woonwijken en op kleinere wegen.  \n \n \nTegenwoordig bestaan er ook LED -armaturen met een warme lichtkleur \n(bijvoorbeeld 2200K of 2700K), die qua uitstraling beter aansluiten bij de \noude verlichting en tegelijkertijd energiezuinig zijn.  \n \n1. Is het college bekend met de mogelijkheid om LED -verlichting \nmet een warme lichtkleur (vergelijkbaar met natriumlicht) toe te \npassen?  \n2. Zo ja, is het college bereid bij toekomstige vervangingen prioriteit \nte geven aan LED -verlichting met een warme lichtkleur?  \n \n \nVoorbeeld uit Eindhoven bij de Roelantlaan, warme vs. koude verlichting  \n \nNamens de fracti e, \nForum voor Democratie  \n \nNicolas Knoester, raadslid  \n",
+    "bst": "8060416_1.2.2.",
+    "related": [
+        {
+            "id": 14999598,
+            "weight": 0.5420697769889226
+        },
+        {
+            "id": 776927,
+            "weight": 0.4589385417138945
+        },
+        {
+            "id": 929852,
+            "weight": 0.451517111197016
+        },
+        {
+            "id": 13609026,
+            "weight": 0.4283634233388614
+        },
+        {
+            "id": 1038870,
+            "weight": 0.41872264093056044
+        },
+        {
+            "id": 942872,
+            "weight": 0.38254018573121096
+        },
+        {
+            "id": 984123,
+            "weight": 0.26901401801730684
+        },
+        {
+            "id": 1125072,
+            "weight": 0.2667375829471515
+        },
+        {
+            "id": 1012396,
+            "weight": 0.22777874976413032
+        },
+        {
+            "id": 1009118,
+            "weight": 0.2275740697446412
+        },
+        {
+            "id": 979297,
+            "weight": 0.22113096420260117
+        },
+        {
+            "id": 822227,
+            "weight": 0.2193574904921439
+        },
+        {
+            "id": 16451083,
+            "weight": 0.19720111644304492
+        },
+        {
+            "id": 16360928,
+            "weight": 0.1965315687626211
+        },
+        {
+            "id": 1096737,
+            "weight": 0.17542802410852373
+        },
+        {
+            "id": 1031769,
+            "weight": 0.12700148427032243
+        },
+        {
+            "id": 1045395,
+            "weight": 0.11545592714991486
+        },
+        {
+            "id": 1097750,
+            "weight": 0.0995669597601361
+        },
+        {
+            "id": 1125027,
+            "weight": 0.09773106728108368
+        },
+        {
+            "id": "a_9840738",
+            "weight": 0.0879834648472144
+        },
+        {
+            "id": "a_9831394",
+            "weight": 0.08784730073722401
+        },
+        {
+            "id": 1108590,
+            "weight": 0.08228754811167369
+        },
+        {
+            "id": 930497,
+            "weight": 0.06269355914173481
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Beantwoording raadsvragen": 1.9842168341462445,
+        "Geacht college": 0.9634721251491672,
+        "LED": 1.9601708839376444,
+        "raadsvragen": 1.959872198342019,
+        "Warme": 1.9597478836710054,
+        "verlichting": 1.9449309346195345,
+        "warme lichtkleur": 0.9401146684657448,
+        "energiezuinige LED": 0.9347093153091233,
+        "Geacht": 0.9329397149380941,
+        "gemeente Eindhoven": 0.9257776869157088,
+        "Eindhoven vervangt": 0.9257776869157088,
+        "oude": 0.8656151194645457,
+        "Eindhoven": 0.8428458208594831,
+        "FvD": 1.832126407638333,
+        "oktober": 0.832126407638333,
+        "natrium": 0.832126407638333,
+        "college": 0.8248311937166014,
+        "Nicolas Knoester": 0.8077971162128156,
+        "traditionele": 0.8063944757169946,
+        "nieuwe LED": 0.8040146162944733,
+        "Democratie Nicolas": 0.7929997724039828,
+        "gemeente": 0.7801713031179149,
+        "vervangt": 0.7801713031179149,
+        "moment": 0.7801713031179149,
+        "bekend": 0.7221935408535709,
+        "prima stap": 0.7098608087364431,
+        "oude natriumverlichting": 0.6894567202958949,
+        "Roelantlaan": 0.6107057438172643,
+        "Forum": 0.6107057438172643,
+        "Knoester": 0.6107057438172643,
+        "college bekend": 0.587614200036338,
+        "Namens": 0.5858747267135053,
+        "Nicolas": 0.5858747267135053,
+        "oranje gloed": 0.569681320582456,
+        "stap": 0.5453035902999326,
+        "bekend stond": 0.5150727075504451,
+        "prima": 0.5054066157157948,
+        "goedkoper": 0.5054066157157948,
+        "efficiënter": 0.5054066157157948
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194500,
+    "lastScrapeDate": "02-04-2026",
+    "meeting_id": []
+}

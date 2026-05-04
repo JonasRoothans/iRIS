@@ -1,0 +1,120 @@
+{
+    "module_id": 1014016,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Woonprogramma - Raadsvoorstel Bindend advies omgevingsvergunning Jacobuskerk, Orionstraat 5",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1014016",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "28-01-2025",
+    "meeting_url": {
+        "1256307": "https://raadsinformatie.eindhoven.nl/vergadering/1256307#ai_8953587"
+    },
+    "attachment": null,
+    "parent": 1009569,
+    "children": [],
+    "text": "Wethouder Verhees zegt toe om in het vervolg voor de raad beter inzichtelijk te maken welke afwegingen er worden gemaakt voor het woonprogramma.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1014013,
+            "weight": 4.871291225495679
+        },
+        {
+            "id": 1014018,
+            "weight": 4.853368821778098
+        },
+        {
+            "id": 1009569,
+            "weight": 1.7198037196857239
+        },
+        {
+            "id": 1146335,
+            "weight": 0.6608979678211419
+        },
+        {
+            "id": 1015907,
+            "weight": 0.6360604408209392
+        },
+        {
+            "id": 1015062,
+            "weight": 0.2978935555742764
+        },
+        {
+            "id": 1083889,
+            "weight": 0.2804546917775223
+        },
+        {
+            "id": 804274,
+            "weight": 0.07349292257026624
+        },
+        {
+            "id": 831097,
+            "weight": 0.07312362551897626
+        },
+        {
+            "id": 889102,
+            "weight": 0.06024728139505368
+        },
+        {
+            "id": 1080541,
+            "weight": 0.059284057791181274
+        },
+        {
+            "id": 1071707,
+            "weight": 0.0571210568313858
+        },
+        {
+            "id": 14072820,
+            "weight": 0.0551178029183874
+        },
+        {
+            "id": 968954,
+            "weight": 0.04998928962050184
+        },
+        {
+            "id": 970721,
+            "weight": 0.04921725732221209
+        },
+        {
+            "id": 1044077,
+            "weight": 0.043788226938240686
+        }
+    ],
+    "videostarttime": {
+        "1256307": 908
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_28.01.25_02-EINDHOVEN-CIE-ONDERTITEL_2025.01.28_195251.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Bindend": 1.9944446555520121,
+        "Wethouder Verhees": 0.9944446555520121,
+        "omgevingsvergunning Jacobuskerk": 1.9892033820230437,
+        "Bindend advies": 1.9837989814664825,
+        "Verhees zegt": 0.9837989814664826,
+        "advies omgevingsvergunning": 1.9681962193601596,
+        "Orionstraat": 1.9671229144105555,
+        "Jacobuskerk": 1.9391608500592699,
+        "Woonprogramma": 1.935346177604679,
+        "Bindend": 1.909192467309945,
+        "advies": 1.824433837194725,
+        "zegt": 0.8244338371947252,
+        "vervolg": 0.8244338371947252,
+        "raad": 0.8244338371947252,
+        "inzichtelijk": 0.8244338371947252,
+        "maken": 0.8244338371947252,
+        "afwegingen": 0.8244338371947252,
+        "gemaakt": 0.8244338371947252
+    },
+    "svz": "Indien afgeweken wordt van het woonprogramma, zal de afweging inzichtelijk gemaakt worden. Voorstel college; A...  Lees verder ",
+    "afgedaan": "18-02-2025",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

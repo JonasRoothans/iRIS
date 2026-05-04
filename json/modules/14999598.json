@@ -1,0 +1,179 @@
+{
+    "module_id": 14999598,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Rondvraag 1 - Verlichting Blixemboschpad (CDA)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "06-01-2025",
+    "meeting_url": {
+        "1253869": "https://raadsinformatie.eindhoven.nl/vergadering/1253866/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://api.notubiz.nl/document/14999598/1",
+    "pdf_text": " \n \n \n \n \nRondvraag van de fractie CDA Eindhoven  \n \nVerlichting Blixemboschpad  \n \n7 januari 2025  \n \nGeacht college,                                            \n \nHet Blixemboschpad  is een voet/fietspad dat loopt vanuit de wijk \nAchtse Barrier tot in de wijk Blixembosch, ter hoogte van \nAanschot. Het is een pad dat veel wordt gebruikt door \nvoetgangers en fietsers, om te wandelen, te fietsen  voor recreatief \ngebruik, of voor woon -werk verkeer . Het pad wordt veel gebruikt. \nMaar het pad is niet voorzien van verlichting, waardoor het er in de \navond erg donker is. In deze tijd van het jaar, is het al heel vroeg \ndonker, waardoor er vanaf het einde van de middag al erg donker \nis om er te lopen of fietsen. Bewoners voelen zich er dan onveilig. \nHet CDA vindt dit onwenselijk  en ziet graag dat er verlichting komt \nwanneer wandelaars en fietsers gebruik maken van deze fiets - en \nwandelroute.  \n \nDaarom hebben we de volgende vragen:  \n \n1. Is het bij het college bekend dat het Blixemboschpad een \nveelgebruikt wa ndel- en fietspad is ? \n2. Is het bij het college bekend dat dit pad niet voorzien is van \nverlichting?  \n3. Is het college bereid om dit pad te voorzien van verlichting, \nzodat men er veilig in het donker kan lopen en fietsen?  \n \nNamens de fractie CDA Eindhoven,  \n \nMarianne Buenen , raadslid  \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 984123,
+            "weight": 0.857651455944049
+        },
+        {
+            "id": 1044109,
+            "weight": 0.6029728640667765
+        },
+        {
+            "id": 1093570,
+            "weight": 0.5420697769889226
+        },
+        {
+            "id": 1125936,
+            "weight": 0.5321777444011403
+        },
+        {
+            "id": 1120826,
+            "weight": 0.4849757053679482
+        },
+        {
+            "id": 925508,
+            "weight": 0.37133992227583784
+        },
+        {
+            "id": 955449,
+            "weight": 0.33412446868666135
+        },
+        {
+            "id": 1125072,
+            "weight": 0.26756486107729416
+        },
+        {
+            "id": 1132653,
+            "weight": 0.2594664215338655
+        },
+        {
+            "id": 1012396,
+            "weight": 0.22848519831220923
+        },
+        {
+            "id": 16451083,
+            "weight": 0.1978127294338748
+        },
+        {
+            "id": 16360928,
+            "weight": 0.1971411051726146
+        },
+        {
+            "id": 910507,
+            "weight": 0.1620671030512061
+        },
+        {
+            "id": 844225,
+            "weight": 0.16175182570554608
+        },
+        {
+            "id": 12703162,
+            "weight": 0.12866077598885348
+        },
+        {
+            "id": 777009,
+            "weight": 0.1255844495402998
+        },
+        {
+            "id": 1104185,
+            "weight": 0.12104037282035196
+        },
+        {
+            "id": 790614,
+            "weight": 0.08097276846391722
+        },
+        {
+            "id": 778810,
+            "weight": 0.07219527966004852
+        },
+        {
+            "id": 1042495,
+            "weight": 0.07190628843529151
+        },
+        {
+            "id": 785635,
+            "weight": 0.07114977082788668
+        },
+        {
+            "id": 836417,
+            "weight": 0.06941932298935993
+        },
+        {
+            "id": 14580979,
+            "weight": 0.06548219659528758
+        },
+        {
+            "id": 825617,
+            "weight": 0.060119108413332206
+        },
+        {
+            "id": 1009567,
+            "weight": 0.057074078118315455
+        }
+    ],
+    "videostarttime": {
+        "1253869": 738
+    },
+    "videolink": null,
+    "keywords": {
+        "Achtse Barrier": 0.9951956006175295,
+        "wijk Blixembosch": 0.9912599355473922,
+        "wijk Achtse": 0.9906245080522442,
+        "Geacht college": 0.971150418427807,
+        "Verlichting Blixemboschpad": 1.9640546052852113,
+        "Rondvraag": 1.963669827497808,
+        "CDA Eindhoven": 0.9612666346908333,
+        "Verlichting": 1.9509630760563392,
+        "CDA": 1.939134801977048,
+        "Geacht": 0.93549805019875,
+        "Aanschot": 0.93549805019875,
+        "fractie CDA": 0.9335990366270209,
+        "wijk": 0.9328366226882702,
+        "Barrier": 0.9308521331119657,
+        "pad": 1.9183907244865757,
+        "donker": 0.9071279455845296,
+        "college": 0.8913187063925841,
+        "fietsen": 0.8549947057415419,
+        "college bekend": 0.8419142269276082,
+        "voorzien": 0.8411850188215539,
+        "januari": 0.8354056816197306,
+        "voet": 0.8180489438295979,
+        "gebruikt": 0.8130601009410268,
+        "Marianne Buenen": 0.8092567189896335,
+        "loopt": 0.8004114023046642,
+        "hoogte": 0.8004114023046642,
+        "waardoor": 0.7928860020155264,
+        "erg": 0.7796571520137651,
+        "werk verkeer": 0.7655258654835255,
+        "bekend": 0.7237097882523733,
+        "lopen": 0.7226941688238873,
+        "fietsers gebruik": 0.7080054989749747,
+        "avond erg": 0.6740152789334963,
+        "Buenen": 0.599764548286307,
+        "wandelen": 0.5641806853943141,
+        "woon": 0.5641806853943141,
+        "werk": 0.5641806853943141,
+        "voetgangers": 0.5358956388515592,
+        "recreatief": 0.5358956388515592
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1253869
+    ]
+}

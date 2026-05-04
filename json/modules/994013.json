@@ -1,0 +1,225 @@
+{
+    "module_id": 994013,
+    "vote_id": null,
+    "member_id": [
+        194500
+    ],
+    "party_list": [
+        "FVD"
+    ],
+    "poho_id": [],
+    "title": "Beantwoording raadsvragen - SportCom app nog steeds niet veilig (FvD)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/4/Raadsvragen/994013",
+    "type": "Raadsvraag",
+    "member": "Nicolas Knoester",
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "03-12-2024",
+    "meeting_url": null,
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/14892864/1?connection_type=17&connection_id=11238740": "Vraag",
+        "https://raadsinformatie.eindhoven.nl/document/15043675/1?connection_type=17&connection_id=11422726": "Antwoord"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": " \n \n \nRaadsvragen - SportCom -app nog  steeds niet veilig  \n \ndatum:  2 december 2024  \n \n \nGeacht college,  \n \nN.a.v. de vorige raadsvrag en heeft de ethische hacker contact gezocht \nmet FVD om zijn  zorgen  te uiten  over de SportCom -app. \n \nIn de beantwoording  van 27 november op de technische vrage n over de \nSportcom -app meent het college dat de app geen persoonsgegevens  \nmeer  verwerkt:  \n \n“Bij zwemlesresultaten en afmelden zwemles was er sprake van gebruik \nvan persoonsgegevens in de app; dit was niet vastgelegd. Dit is nu niet \nlanger het geval, de gegevensverwerking vindt plaats op de site van \neindhovensport.nl. De app verbindt slechts met de website. Er worden \ngeen persoonsgegevens in de app zelf verwerkt. Dit is ook de reden dat \nde app in gebruik kan blijven. ” \n \nDe ethische hacker had echter op 20 november naar de gemeente (nog) \neen rapport gestuurd waarin hij bewijst  dat de app nog steeds , ondanks \nde recente updates voor Android,  stiekem apparaat gegevens verzamelt \n(waar persoonsgegevens tussen kunnen zitten)  en verstuur t naar de \nserver van de leverancier.  Het betreft onder andere  herleidbare \nidentificeerbare gegevens (DeviceID)  en apparaat n amen : “[apparaat]  \nvan [naam]” . Deze gegevens zijn niet nodig voor het functioneren van de \napp. \n \nDaarnaast heeft de iOS versie van de app nog géén update gehad, wat \nbetekent dat de recente wijzigingen die in de Android versie zijn \ndoorgevoerd nog niet in de iOS versie zitten.  \nDe ethische hacker heeft aan FVD aangegeven dat de gemeente niet \nadequaat  optreed t om deze kwetsbaarheden te verhelpen  door het \ngebruik van de onveilige app voort te zetten.  \n \nKwalijk is dus dat het college op de technische vragen antwoord dat er \ngéén persoonsgegevens worden verzameld, terwijl ze dus vanaf 20 \nnovember wisten dat de app wel degelijk nog steeds (stiekem) gegevens \nverzamel t. \n \n1. Waarom heeft het college in de technische vragen beweerd dat \nde app veilig is, terwijl ze vanaf 20 november wisten dat dit niet \nhet geval  is? \n2. Waarom heeft het college het gebruik van de app niet \ngepauzeerd, terwijl het college  al sinds 20 november w eet dat de \napp nog steeds niet veilig is?  \n \nFVD vindt dan ook dat het gebruik van de app per direct stopgezet moet  \nworden totdat de kwetsbaarheden verholpen  zijn. \n \n3. Gezien het feit dat de app niet veilig is, gaat het college het \ngebruik van de app onmiddellijk pauzeren totdat alle \nkwetsbaarheden opgelost zijn?  \n4. Hoe kan het college beweren dat de app veilig is, terwijl het \nonderzoek naar een (mogelijk ) datalek nog loopt?  \n5. Waarom heeft het college de meldingen c.q. rapporten van de \nethische hacker niet adequaat opgepakt? Onder andere te zien \naan het feit dat de iOS app in de App Store sinds de melding(en) \ngeen update heeft gehad.  \n6. Is het college bereid om van de leverancier te eisen dat de \nkwetsbaarheden per direct worden opgelost?  \n7. Waarom heeft het college voor deze leverancier gekozen? Indien \ner een aanbestedingsproc edure  was doorlopen, waren er andere \nkandidaten?  Zo ja, welke?  \n \nNamens de fractie  Forum voor Democratie,  \n \nNicolas Knoester , raadslid  \n \n ",
+    "bst": "7851635_1.7.2.",
+    "related": [
+        {
+            "id": 992588,
+            "weight": 2.883196945312883
+        },
+        {
+            "id": 878752,
+            "weight": 0.5597370515345554
+        },
+        {
+            "id": 777650,
+            "weight": 0.3008337673872588
+        },
+        {
+            "id": 1088041,
+            "weight": 0.20133870322473926
+        },
+        {
+            "id": 806891,
+            "weight": 0.1857845061421683
+        },
+        {
+            "id": 1034545,
+            "weight": 0.1775705953676587
+        },
+        {
+            "id": 933180,
+            "weight": 0.14992248547659714
+        },
+        {
+            "id": 956454,
+            "weight": 0.14125265681599666
+        },
+        {
+            "id": 793203,
+            "weight": 0.13321445896712159
+        },
+        {
+            "id": 1037226,
+            "weight": 0.1303834609305366
+        },
+        {
+            "id": 885825,
+            "weight": 0.0971888643369271
+        },
+        {
+            "id": 1085544,
+            "weight": 0.0962217323795222
+        },
+        {
+            "id": 968655,
+            "weight": 0.09573772183709583
+        },
+        {
+            "id": 925552,
+            "weight": 0.09573004809347198
+        },
+        {
+            "id": 935238,
+            "weight": 0.09384622385038208
+        },
+        {
+            "id": 777293,
+            "weight": 0.08688886432495262
+        },
+        {
+            "id": 931189,
+            "weight": 0.08614587900648332
+        },
+        {
+            "id": 956987,
+            "weight": 0.08001889168403965
+        },
+        {
+            "id": 999124,
+            "weight": 0.07715704418764502
+        },
+        {
+            "id": 820253,
+            "weight": 0.07632890495668111
+        },
+        {
+            "id": 1071708,
+            "weight": 0.074398748842645
+        },
+        {
+            "id": 983717,
+            "weight": 0.07231243690169264
+        },
+        {
+            "id": 844704,
+            "weight": 0.06952421602345674
+        },
+        {
+            "id": 913073,
+            "weight": 0.06912987724926599
+        },
+        {
+            "id": 776958,
+            "weight": 0.06767488277571251
+        },
+        {
+            "id": 15548500,
+            "weight": 0.06691676371932183
+        },
+        {
+            "id": 1054302,
+            "weight": 0.06625590717103909
+        },
+        {
+            "id": 873872,
+            "weight": 0.06267827460473428
+        },
+        {
+            "id": 910507,
+            "weight": 0.057227905115837474
+        },
+        {
+            "id": 945816,
+            "weight": 0.055866015033535124
+        },
+        {
+            "id": 1022033,
+            "weight": 0.0543742937712912
+        },
+        {
+            "id": 1100800,
+            "weight": 0.04903424952528207
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "app": 1.990954090016323,
+        "Geacht college": 0.9760848885029327,
+        "Beantwoording raadsvragen": 1.9736900062866238,
+        "college": 0.9695118354508718,
+        "SportCom app": 1.9664231637666274,
+        "raadsvragen": 1.959202610489,
+        "app veilig": 0.95302246726366,
+        "gebruik": 0.9329626262391386,
+        "ethische hacker": 0.9329511691702582,
+        "Geacht": 0.9303558740112601,
+        "contact gezocht": 0.9266101681845658,
+        "FvD": 1.9190018488482075,
+        "persoonsgegevens": 0.9169584072294024,
+        "november": 0.9132543881416425,
+        "App Store": 0.8910542120810566,
+        "veilig datum": 0.8829160130268491,
+        "hacker": 0.8814297695449114,
+        "app meent": 0.8703836559407416,
+        "kwetsbaarheden": 0.8652215860012661,
+        "iOS app": 0.8625692563715547,
+        "hacker contact": 0.8584277009231173,
+        "Android": 0.8275388678867319,
+        "technische": 0.8162211345407575,
+        "apparaat": 0.8150012490413329,
+        "onveilige app": 0.8080250519295028,
+        "versie": 0.8074167785849988,
+        "iOS": 0.8064212944927126,
+        "app onmiddellijk": 0.8012852684436423,
+        "leverancier": 0.7965537464220063,
+        "Android versie": 0.751125981150718,
+        "verwerkt": 0.7494918253734497,
+        "datum": 0.7460951140664854,
+        "FVD vindt": 0.741084812639437,
+        "vorige": 0.7385195595951233,
+        "contact": 0.7385195595951233,
+        "zorgen": 0.7385195595951233,
+        "uiten": 0.7385195595951233,
+        "update": 0.7196420453874324,
+        "Nicolas Knoester": 0.6973710621640374,
+        "geval": 0.6931980054408813,
+        "recente": 0.6899621276854571,
+        "stiekem": 0.688944498519694,
+        "géén": 0.6754145579493857,
+        "adequaat": 0.6681771675756136,
+        "feit": 0.6658017998957182,
+        "FVD aangegeven": 0.6652378862802739,
+        "per": 0.6615264216139911,
+        "direct": 0.6615264216139911,
+        "opgelost": 0.6564781336195948,
+        "college beweren": 0.6334332699453697,
+        "afmelden zwemles": 0.5628948106147622,
+        "Gezien": 0.5467728366800753,
+        "Democratie": 0.5180024109602015,
+        "Nicolas": 0.5180024109602015,
+        "Knoester": 0.5180024109602015,
+        "Forum": 0.5119766438291664
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194500,
+    "lastScrapeDate": "02-04-2026",
+    "meeting_id": []
+}

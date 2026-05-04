@@ -1,0 +1,90 @@
+{
+    "module_id": 965694,
+    "vote_id": null,
+    "member_id": [
+        194500
+    ],
+    "party_list": [
+        "FVD"
+    ],
+    "poho_id": [],
+    "title": "Beantwoording raadsvragen Parkeren gehandicapten app (FvD)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/4/Raadsvragen/965694",
+    "type": "Raadsvraag",
+    "member": "Nicolas Knoester",
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "13-08-2024",
+    "meeting_url": null,
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/14427043/1?connection_type=17&connection_id=10874314": "Vraag",
+        "https://raadsinformatie.eindhoven.nl/document/14536865/1?connection_type=17&connection_id=10957205": "Antwoord"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": " \n \n \nRaadsvragen van de fractie  Forum voor Democratie  \n \nParkeren gehandicapten  app \n \ndatum:  24 juli 2024  \n \n \nGeacht college,  \n \nZie onderstaand artikel:  \nhttps://www.binnenlandsbestuur.nl/sociaal/nieuwe -parkeerapp -voor-\ngehandicapten -heeft -nog-te-veel-knelpunten   \n \nDe nieuwe app is volgens de belangenvereniging (nog) geen \nvolwaardige vervanger van de GPK.  \n \nRaadsvragen:  \n1. Hoe en wanneer gaat het college de genoemde tekortkomingen \noplossen voor Eindhovense gebruikers van de app?  \n2. Waarom heeft het college niet gewacht met de invoering totdat \nde app een volwaardige vervanger was gebleken?  \n \nNu worden kwetsbare inwoners onnodig gedupeerd en belast met een  \nexperimenteel product. Dat duidelijk niet af is.  \n \nNamens de fractie , \nForum voor Democratie  \n \nNicolas Knoester , raadslid  \n",
+    "bst": "24bst01127",
+    "related": [
+        {
+            "id": 930497,
+            "weight": 2.6435344996853987
+        },
+        {
+            "id": 937328,
+            "weight": 1.3263523584888248
+        },
+        {
+            "id": 930491,
+            "weight": 1.3207316566872627
+        },
+        {
+            "id": 992588,
+            "weight": 0.319963509873699
+        },
+        {
+            "id": 933056,
+            "weight": 0.30209288913750043
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Parkeren gehandicapten": 1.9970737064552628,
+        "raadsvragen Parkeren": 1.9878725535622788,
+        "gehandicapten app": 1.9805948560116877,
+        "Geacht college": 0.9749111791879848,
+        "Parkeren": 1.9703111739529624,
+        "onderstaand artikel": 0.9689905645074842,
+        "Beantwoording raadsvragen": 1.9665725540774823,
+        "Geacht": 0.9367417330157084,
+        "GPK": 0.9367417330157084,
+        "app datum": 0.9349093306642025,
+        "app": 1.9237482014272094,
+        "nieuwe app": 0.922949526560334,
+        "volwaardige vervanger": 0.9188731504139719,
+        "Democratie Nicolas": 0.8815169157009445,
+        "college": 0.8710325218000811,
+        "FvD": 1.8660849676230762,
+        "juli": 0.8660849676230762,
+        "Forum": 0.8645866851824765,
+        "fractie Forum": 0.857646459198632,
+        "artikel": 0.8397079212554277,
+        "belangenvereniging": 0.8397079212554277,
+        "Nicolas Knoester": 0.8355176908769022,
+        "Eindhovense gebruikers": 0.8224945203129777,
+        "vervanger": 0.8131828083358639,
+        "Eindhovense": 0.7202717511020226,
+        "Knoester": 0.6388806719872173,
+        "Nicolas": 0.6088569970952558,
+        "genoemde tekortkomingen": 0.5907176521708573,
+        "tekortkomingen oplossen": 0.5907176521708573
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194500,
+    "lastScrapeDate": "02-04-2026",
+    "meeting_id": []
+}

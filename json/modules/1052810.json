@@ -1,0 +1,73 @@
+{
+    "module_id": 1052810,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230019,
+    "title": "Parkeervraagstuk - Raadsvoorstel Beschikbaar stellen krediet Clubgebouw FC Eindhoven AV",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1052810",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. van Lanschot (Wethouder)",
+    "result": "",
+    "date": "03-06-2025",
+    "meeting_url": {
+        "1256614": "https://raadsinformatie.eindhoven.nl/vergadering/1256614#ai_9330813"
+    },
+    "attachment": null,
+    "parent": 1038236,
+    "children": [],
+    "text": "De wethouder zegt toe in Q3 2025 naar de raad te komen met een update over parkeervraagstuk.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1038236,
+            "weight": 1.3153286486545352
+        },
+        {
+            "id": 1036443,
+            "weight": 0.4909614111515815
+        },
+        {
+            "id": 1052828,
+            "weight": 0.23692589414688214
+        },
+        {
+            "id": 1052807,
+            "weight": 0.23323785878360404
+        },
+        {
+            "id": 1052802,
+            "weight": 0.2307282159820597
+        }
+    ],
+    "videostarttime": {
+        "1256614": 2009
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_03.06.25_NC_1-EINDHOVEN-RAA.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Beschikbaar": 1.9943786065225821,
+        "Beschikbaar stellen": 1.9835374423226297,
+        "krediet Clubgebouw": 1.9835374423226297,
+        "stellen krediet": 1.9675064304991428,
+        "wethouder zegt": 0.9675064304991429,
+        "Parkeervraagstuk": 1.9343461395313861,
+        "Eindhoven": 1.908704180676506,
+        "stellen": 1.8225994208119776,
+        "krediet": 1.8225994208119776,
+        "zegt": 0.8225994208119777,
+        "raad": 0.8225994208119777,
+        "komen": 0.8225994208119777,
+        "update": 0.8225994208119777
+    },
+    "svz": null,
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": [
+        1256614
+    ]
+}

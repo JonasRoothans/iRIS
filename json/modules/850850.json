@@ -1,0 +1,60 @@
+{
+    "module_id": 850850,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230022,
+    "title": "Tandartszorg jeugd - Raadsvoorstel Kadernota 2024",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/850850",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Toub (Wethouder)",
+    "result": "",
+    "date": "23-05-2023",
+    "meeting_url": {
+        "1096274": "https://raadsinformatie.eindhoven.nl/vergadering/1096274#ai_7491703"
+    },
+    "attachment": null,
+    "parent": 837030,
+    "children": [],
+    "text": "Wethouder Toub zegt toe:\nOnderzoekt de mogelijkheden en komt er op terug.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 861368,
+            "weight": 0.9157151438149282
+        },
+        {
+            "id": 1148211,
+            "weight": 0.1403226648190558
+        },
+        {
+            "id": 858645,
+            "weight": 0.10075888636240211
+        }
+    ],
+    "videostarttime": {
+        "1096274": 12343
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_23.05.23_Eindhoven_NC_Meningsvorming.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Kadernota": 1.9904913876904107,
+        "Wethouder Toub": 0.9843952930436723,
+        "Tandartszorg jeugd": 1.9581125335883751,
+        "Toub zegt": 0.9394310778450328,
+        "Kadernota": 1.9029482086059646,
+        "Toub": 0.8416830712200127,
+        "jeugd": 1.7994920302806434,
+        "zegt": 0.6392688949833367,
+        "Onderzoekt": 0.5344664897230191,
+        "terug": 0.5344664897230191
+    },
+    "svz": "VOORSTEL COLLEGE: AFVOEREN\nDe raad is middels een collegebrief geinformeerd op 4 juli 2023....  Lees verder ",
+    "afgedaan": "12-09-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

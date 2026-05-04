@@ -1,0 +1,168 @@
+{
+    "module_id": 15912198,
+    "vote_id": null,
+    "member_id": [
+        131155
+    ],
+    "party_list": [
+        "50PLUS"
+    ],
+    "poho_id": [],
+    "title": "Rondvraag 1 - Verkeersveiligheid NU (50PLUS)",
+    "url": null,
+    "type": "Vraag",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "01-09-2025",
+    "meeting_url": {
+        "1256639": "https://raadsinformatie.eindhoven.nl/vergadering/1256637/"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://api.notubiz.nl/document/15912198/1",
+    "pdf_text": " \n \n \nRondvraag  - Verkeersveiligheid NU                       \n \nInleiding  \nHet Verkeerscirculatieplan (VCP) is vastgesteld en zal op termijn leiden tot ingrijpende \nveranderingen in de verkeersstructuur van onze stad. Echter, op sommige locaties is de \nverkeersveiligheid nú al zo zorgwekkend dat wachten op toekomstige aanpassingen \nonverantwoord is.  \nEen schrijnend voorbeeld is de Tongelresestraat binnen de ring, inmiddels aangewezen als \n30 km/u -zone. Hoewel er gewerkt wordt aan een transformatie van deze straat in lijn met het \nVCP, laat de uitvoering nog op zich wachten. Begin augustus vond er een ern stig incident \nplaats waarbij een automobilist met hoge snelheid een ravage aanrichtte. Volgens bewoners \nis het wachten op een ernstig ongeluk. Steeds meer verontruste inwoners melden zich bij \n50PLUS met klachten over de onveiligheid. De maat is vol.  \nEen bijkomend probleem is de afsluiting van het Stationsplein voor autoverkeer, waardoor de \nTongelresestraat steeds vaker als sluiproute wordt gebruikt. De huidige inrichting van de \nstraat nodigt uit tot te hard rijden, wat de situatie verder verslechtert.  \n \nVragen  \n1. Wanneer wordt de Tongelresestraat binnen de ring daadwerkelijk aangepast tot een \nveilige weg die voldoet aan de eisen van een 30 km/u -zone?  \n2. Deelt het college de mening van 50PLUS dat er op korte termijn maatregelen nodig \nzijn om de verkeersveiligheid op deze locatie te verbeteren?  \n3. Is het college bereid om, in afwachting van de definitieve herinrichting, tijdelijke \nverkeersremmende maatregelen te treffen, zoals het plaatsen van betonblokken en/of \nbloembakken?  \n \n \nEindhoven, 2-9-2025  \n \n \nHet lid van de raad  en/of commissie , \n \nRuud van Acquoij, 50PLUS  \n \n \n",
+    "bst": null,
+    "related": [
+        {
+            "id": 821834,
+            "weight": 0.35647891144353167
+        },
+        {
+            "id": 1121040,
+            "weight": 0.24893077111029138
+        },
+        {
+            "id": 997121,
+            "weight": 0.24117147365492228
+        },
+        {
+            "id": 1133037,
+            "weight": 0.22805571327181712
+        },
+        {
+            "id": 1045691,
+            "weight": 0.22774694802693926
+        },
+        {
+            "id": 790619,
+            "weight": 0.22382160922833894
+        },
+        {
+            "id": 1072390,
+            "weight": 0.19143809703980524
+        },
+        {
+            "id": 1122532,
+            "weight": 0.14919985675777173
+        },
+        {
+            "id": 1080239,
+            "weight": 0.1430639713190214
+        },
+        {
+            "id": "a_8510366",
+            "weight": 0.12430643734940516
+        },
+        {
+            "id": 15532910,
+            "weight": 0.12246598516356075
+        },
+        {
+            "id": 982448,
+            "weight": 0.12035073030982713
+        },
+        {
+            "id": 774744,
+            "weight": 0.1153343158349199
+        },
+        {
+            "id": 949695,
+            "weight": 0.11073097638354862
+        },
+        {
+            "id": 1035304,
+            "weight": 0.10961498835712986
+        },
+        {
+            "id": 1146295,
+            "weight": 0.10111828662939974
+        },
+        {
+            "id": 1048223,
+            "weight": 0.09709008010345857
+        },
+        {
+            "id": 12963887,
+            "weight": 0.09435646020877456
+        },
+        {
+            "id": "a_8288827",
+            "weight": 0.06559167601558659
+        },
+        {
+            "id": 1149035,
+            "weight": 0.05925366367293252
+        }
+    ],
+    "videostarttime": {
+        "1256639": 1202
+    },
+    "videolink": null,
+    "keywords": {
+        "ingrijpende veranderingen": 0.9764649420299064,
+        "Rondvraag": 1.9752346018106985,
+        "Verkeersveiligheid": 1.9680617846139956,
+        "Verkeerscirculatieplan": 0.9420940352051276,
+        "Inleiding": 0.9383283725520324,
+        "termijn leiden": 0.924234552920969,
+        "Tongelresestraat": 0.9207241302467762,
+        "VCP": 0.9193081126887516,
+        "wachten": 0.8945609673175714,
+        "stad": 0.8604936924993759,
+        "vastgesteld": 0.8483626190182938,
+        "ingrijpende": 0.8483626190182938,
+        "verkeersstructuur": 0.8483626190182938,
+        "toekomstige aanpassingen": 0.8280805290048456,
+        "aanpassingen onverantwoord": 0.8280805290048456,
+        "zone": 0.8101071235293908,
+        "ring": 0.7745767090453373,
+        "termijn": 0.7677705311623162,
+        "straat": 0.7677705311623162,
+        "college": 0.746809654814685,
+        "maatregelen": 0.7357121276518576,
+        "schrijnend voorbeeld": 0.7087781607732898,
+        "Stationsplein": 0.6317675522915327,
+        "zorgwekkend": 0.6169868824331739,
+        "toekomstige": 0.6169868824331739,
+        "aanpassingen": 0.6169868824331739,
+        "onverantwoord": 0.6169868824331739,
+        "Deelt": 0.6119122344920218,
+        "Ruud": 0.6000670628451685,
+        "Acquoij": 0.6000670628451685,
+        "ring daadwerkelijk": 0.5930083811559345,
+        "straat nodigt": 0.5915610370471736,
+        "Begin augustus": 0.5745471679784561,
+        "ravage aanrichtte": 0.5745471679784561,
+        "augustus vond": 0.5465666609012259,
+        "ern stig": 0.5465666609012259,
+        "stig incident": 0.5465666609012259,
+        "incident plaats": 0.5465666609012259,
+        "plaats waarbij": 0.5465666609012259,
+        "hoge snelheid": 0.5465666609012259,
+        "locaties": 0.5270603378626958,
+        "voorbeeld": 0.5250897547680069,
+        "ernstig ongeluk": 0.5193646595711416,
+        "college bereid": 0.5044124883415306
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 131155,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1256639
+    ]
+}

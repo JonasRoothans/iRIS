@@ -1,0 +1,69 @@
+{
+    "module_id": 1139965,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230656,
+    "title": "Evaluatie van het nieuwe beleid rondom thuissekswerk",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1139965",
+    "type": "Toezegging",
+    "member": "",
+    "party": "",
+    "poho": "J. Dijsselbloem (Burgemeester)",
+    "result": "",
+    "date": "03-03-2026",
+    "meeting_url": {
+        "1374925": "https://raadsinformatie.eindhoven.nl/vergadering/1374925#ai_10043049"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": "Burgemeester Dijsselbloem zegt toe: Dat in de evaluatie van het nieuwe beleid rondom thuissekswerk wordt opgenomen of er drempels zijn weggenomen bij sekswerkers om melding te maken.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1140916,
+            "weight": 0.8256169794463732
+        },
+        {
+            "id": 1050953,
+            "weight": 0.156969281610696
+        },
+        {
+            "id": 1052186,
+            "weight": 0.1470554323944891
+        },
+        {
+            "id": 1126057,
+            "weight": 0.14644512525336661
+        }
+    ],
+    "videostarttime": {
+        "1374925": 640
+    },
+    "videolink": null,
+    "keywords": {
+        "Burgemeester Dijsselbloem": 0.990806326068681,
+        "nieuwe beleid": 1.9884786825114877,
+        "Dijsselbloem zegt": 0.9811567217594865,
+        "thuissekswerk Burgemeester": 0.9789255281535892,
+        "nieuwe": 1.924960625059713,
+        "beleid": 1.924960625059713,
+        "Burgemeester": 0.904554097549501,
+        "Evaluatie": 1.8918785162811642,
+        "thuissekswerk": 1.8918785162811642,
+        "maken": 0.8809068919405885,
+        "zegt": 0.8062276582341484,
+        "opgenomen": 0.8062276582341484,
+        "drempels": 0.8062276582341484,
+        "sekswerkers": 0.8062276582341484,
+        "melding": 0.8062276582341484
+    },
+    "svz": "",
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "08-04-2026",
+    "meeting_id": []
+}

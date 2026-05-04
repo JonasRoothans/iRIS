@@ -1,0 +1,114 @@
+{
+    "module_id": 850756,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230019,
+    "title": "Voetbal - Raadsvoorstel Kadernota 2024",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/850756",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. van Lanschot (Wethouder)",
+    "result": "",
+    "date": "23-05-2023",
+    "meeting_url": {
+        "1096274": "https://raadsinformatie.eindhoven.nl/vergadering/1096274#ai_7491703"
+    },
+    "attachment": null,
+    "parent": 837030,
+    "children": [],
+    "text": "Wethouder van Lanschot zegt toe:\nen komt terug op de omzetting van gras naar kunstgras.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 803261,
+            "weight": 0.4371007231296839
+        },
+        {
+            "id": 776920,
+            "weight": 0.42800031021300106
+        },
+        {
+            "id": 920203,
+            "weight": 0.33152734810640805
+        },
+        {
+            "id": 1036228,
+            "weight": 0.3290979784535672
+        },
+        {
+            "id": 1036340,
+            "weight": 0.32704169484188694
+        },
+        {
+            "id": 918944,
+            "weight": 0.20622024711999265
+        },
+        {
+            "id": 1112886,
+            "weight": 0.19904409024454084
+        },
+        {
+            "id": 875659,
+            "weight": 0.17227413146647638
+        },
+        {
+            "id": 979285,
+            "weight": 0.11567316507951755
+        },
+        {
+            "id": 941006,
+            "weight": 0.09466067333942839
+        },
+        {
+            "id": 1023820,
+            "weight": 0.09220568310773318
+        },
+        {
+            "id": 996953,
+            "weight": 0.09124089769652857
+        },
+        {
+            "id": 935942,
+            "weight": 0.08422703863882366
+        },
+        {
+            "id": 835425,
+            "weight": 0.08145548052923886
+        },
+        {
+            "id": 933006,
+            "weight": 0.07314255685657604
+        },
+        {
+            "id": 1148692,
+            "weight": 0.06552931770415389
+        }
+    ],
+    "videostarttime": {
+        "1096274": 12343
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_23.05.23_Eindhoven_NC_Meningsvorming.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Kadernota": 1.9967389880162214,
+        "Lanschot zegt": 0.986202801796007,
+        "komt terug": 0.9742913828560066,
+        "Voetbal": 1.9550880231213545,
+        "Kadernota": 1.9429876123096683,
+        "Wethouder": 0.9429876123096684,
+        "kunstgras": 0.9043195497355658,
+        "zegt": 0.8416830712200127,
+        "komt": 0.8416830712200127,
+        "terug": 0.8416830712200127,
+        "omzetting": 0.8416830712200127,
+        "gras": 0.8416830712200127
+    },
+    "svz": null,
+    "afgedaan": "13-06-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

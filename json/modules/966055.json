@@ -1,0 +1,129 @@
+{
+    "module_id": 966055,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Organisatiebrede taakstelling € 2 mln. structureel - Raadsvoorstel Jaarstukken 2023",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/966055",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "26-06-2024",
+    "meeting_url": {
+        "1147977": "https://raadsinformatie.eindhoven.nl/vergadering/1147977#ai_8483500"
+    },
+    "attachment": null,
+    "parent": 946916,
+    "children": [],
+    "text": "Wethouder Verhees zegt toe en komt schriftelijk terug op de vraag naar de inspanningen in 2024.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 966053,
+            "weight": 1.9450183081771353
+        },
+        {
+            "id": 904196,
+            "weight": 0.07140987127945427
+        },
+        {
+            "id": 1060110,
+            "weight": 0.07140215511185852
+        },
+        {
+            "id": 906717,
+            "weight": 0.07113148688454582
+        },
+        {
+            "id": 966048,
+            "weight": 0.06965563638016278
+        },
+        {
+            "id": 1121877,
+            "weight": 0.06531505299697465
+        },
+        {
+            "id": 1057251,
+            "weight": 0.06233354915168958
+        },
+        {
+            "id": 854132,
+            "weight": 0.060871340259546616
+        },
+        {
+            "id": 1124788,
+            "weight": 0.05692010937325481
+        },
+        {
+            "id": "r_7006030",
+            "weight": 0.051982341043218847
+        },
+        {
+            "id": 1036878,
+            "weight": 0.04632631412264539
+        },
+        {
+            "id": 1150885,
+            "weight": 0.04390613596051872
+        },
+        {
+            "id": "a_7151094",
+            "weight": 0.04168712215469826
+        },
+        {
+            "id": 794220,
+            "weight": 0.041612038794584985
+        },
+        {
+            "id": 921456,
+            "weight": 0.041054029853706334
+        },
+        {
+            "id": 1093494,
+            "weight": 0.03873938919791313
+        },
+        {
+            "id": 782632,
+            "weight": 0.03805684953040019
+        },
+        {
+            "id": 1054527,
+            "weight": 0.035998494272785266
+        },
+        {
+            "id": 831335,
+            "weight": 0.03528803221776366
+        }
+    ],
+    "videostarttime": {
+        "1147977": 762
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_26.06.24_NC_Eindhoven_Cie.mp4/playlist.m3u8",
+    "keywords": {
+        "Organisatiebrede taakstelling": 1.984478152020508,
+        "Raadsvoorstel Jaarstukken": 1.9597214435740322,
+        "Wethouder Verhees": 0.9434900188178089,
+        "mln": 1.9410006237031718,
+        "taakstelling": 1.8763690867947806,
+        "Verhees zegt": 0.8551230888585668,
+        "structureel": 1.82118245171742,
+        "Jaarstukken": 1.8032285321145036,
+        "komt schriftelijk": 0.7233149701764251,
+        "schriftelijk terug": 0.7233149701764251,
+        "zegt": 0.5344664897230191,
+        "komt": 0.5344664897230191,
+        "terug": 0.5344664897230191,
+        "vraag": 0.5344664897230191,
+        "inspanningen": 0.5344664897230191
+    },
+    "svz": null,
+    "afgedaan": "10-12-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

@@ -1,0 +1,119 @@
+{
+    "module_id": 884778,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230013,
+    "title": "Directe effecten - Bezorgd (motie M2)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/884778",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Steenbakkers (Wethouder)",
+    "result": "",
+    "date": "10-10-2023",
+    "meeting_url": {
+        "1013519": "https://raadsinformatie.eindhoven.nl/vergadering/1013519#ai_7816892"
+    },
+    "attachment": null,
+    "parent": 872231,
+    "children": [],
+    "text": "Wethouder Steenbakkers zegt toe de motie te omarmen, met daarbij de volgende kanttekeningen:\n\nde directe effecten van de bezorgeconomie op gezondheid zijn niet te meten en juridische instrumenten om op te treden niet bekend zijn zal dit wel mee moeten wegen in het reguleren van de bezorgeconomie.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 884039,
+            "weight": 0.5972577284270746
+        },
+        {
+            "id": 15532910,
+            "weight": 0.4671321460976538
+        },
+        {
+            "id": 1047188,
+            "weight": 0.4073768380536745
+        },
+        {
+            "id": 14480512,
+            "weight": 0.24850916087748273
+        },
+        {
+            "id": 14613123,
+            "weight": 0.2484207636166946
+        },
+        {
+            "id": 921255,
+            "weight": 0.2452634683844668
+        },
+        {
+            "id": 884226,
+            "weight": 0.24494794194568517
+        },
+        {
+            "id": 13256785,
+            "weight": 0.18562587547867626
+        },
+        {
+            "id": 776908,
+            "weight": 0.09301823796766712
+        },
+        {
+            "id": 1060207,
+            "weight": 0.09044858353456896
+        },
+        {
+            "id": 989920,
+            "weight": 0.08837177172297123
+        },
+        {
+            "id": 16557242,
+            "weight": 0.08175484608095922
+        },
+        {
+            "id": 936165,
+            "weight": 0.07345057642533535
+        },
+        {
+            "id": 968719,
+            "weight": 0.07031955009589451
+        },
+        {
+            "id": 815797,
+            "weight": 0.05568367524700443
+        }
+    ],
+    "videostarttime": {
+        "1013519": 3348
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_10.10.23_NC_Eindhoven_Raa.mp4/playlist.m3u8",
+    "keywords": {
+        "Wethouder Steenbakkers": 0.9973769256524245,
+        "Directe effecten": 1.9953345873649588,
+        "Steenbakkers zegt": 0.9941478197351471,
+        "volgende kanttekeningen": 0.9921595762384974,
+        "juridische instrumenten": 0.9895892193216947,
+        "Bezorgd": 1.965495883351236,
+        "Wethouder": 0.9543561747012799,
+        "Directe": 1.9519256673433802,
+        "effecten": 1.9519256673433802,
+        "bezorgeconomie": 0.9519256673433802,
+        "motie": 1.9406711512254065,
+        "omarmen": 0.9233600699740532,
+        "zegt": 0.8984937782025937,
+        "daarbij": 0.8984937782025937,
+        "volgende": 0.8984937782025937,
+        "gezondheid": 0.8984937782025937,
+        "meten": 0.8984937782025937,
+        "juridische": 0.8984937782025937,
+        "treden": 0.8984937782025937,
+        "bekend": 0.8984937782025937,
+        "reguleren": 0.8984937782025937
+    },
+    "svz": null,
+    "afgedaan": "11-03-2025",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

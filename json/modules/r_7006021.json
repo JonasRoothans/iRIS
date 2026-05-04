@@ -1,0 +1,61 @@
+{
+    "module_id": "r_7006021",
+    "vote_id": 7006021,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Raadsvoorstel Vaststellen grondexploitatie Plan VONK*",
+    "url": "https://raadsinformatie.eindhoven.nl/vergadering/1013429/Raadsvoorstel%20Vaststellen%20grondexploitatie%20Plan%20VONK%2A 24-05-2022#voting_7006021",
+    "type": "Raadsvoorstel",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "aangenomen",
+    "date": "24-05-2022",
+    "meeting_url": {
+        "1013429": "https://raadsinformatie.eindhoven.nl/vergadering/1013429/Raadsvoorstel%20Vaststellen%20grondexploitatie%20Plan%20VONK%2A 24-05-2022#voting_7006021"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 771654,
+            "weight": 0.9723719585980887
+        },
+        {
+            "id": 792457,
+            "weight": 0.9486891821998843
+        },
+        {
+            "id": "r_7006011",
+            "weight": 0.9300947083403746
+        },
+        {
+            "id": 790647,
+            "weight": 0.900286445704112
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Plan VONK": 1.9873976398760465,
+        "Raadsvoorstel Vaststellen": 1.9765416191248102,
+        "Vaststellen grondexploitatie": 1.955011371234592,
+        "grondexploitatie Plan": 1.955011371234592,
+        "VONK": 1.9140368224837343,
+        "Vaststellen": 1.8552226942577967,
+        "Plan": 1.8552226942577967
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1013429
+    ]
+}

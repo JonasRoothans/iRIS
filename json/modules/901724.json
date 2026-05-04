@@ -1,0 +1,83 @@
+{
+    "module_id": 901724,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230013,
+    "title": "Prof. Dr. Dorgelolaan - Clusterpaspoort Ontwikkelvisie Fellenoord: Cluster 9b",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/901724",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Steenbakkers (Wethouder)",
+    "result": "",
+    "date": "05-12-2023",
+    "meeting_url": {
+        "1149340": "https://raadsinformatie.eindhoven.nl/vergadering/1149340#ai_8032578"
+    },
+    "attachment": null,
+    "parent": "ai_8032578",
+    "children": [],
+    "text": "Wethouder Steenbakkers zegt toe om te kijken of er naast kantoren meer mogelijk is bij de Prof. Dr. Dorgelolaan, zoals woningen en andere voorzieningen.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 950146,
+            "weight": 0.48771217980922354
+        },
+        {
+            "id": 905855,
+            "weight": 0.36084862117335287
+        },
+        {
+            "id": 970349,
+            "weight": 0.2332606831392615
+        },
+        {
+            "id": 1047227,
+            "weight": 0.2290279921893072
+        },
+        {
+            "id": 971444,
+            "weight": 0.2271654627376897
+        },
+        {
+            "id": 1117274,
+            "weight": 0.20668196250561446
+        },
+        {
+            "id": 994550,
+            "weight": 0.18842601654122493
+        },
+        {
+            "id": 1064269,
+            "weight": 0.13797714818426968
+        }
+    ],
+    "videostarttime": {},
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_05.12.23_EINDHOVEN-Raadscommissie Knoop XL.mp4/playlist.m3u8",
+    "keywords": {
+        "Clusterpaspoort Ontwikkelvisie": 1.9941476432967788,
+        "Ontwikkelvisie Fellenoord": 1.9941476432967788,
+        "Wethouder Steenbakkers": 0.9941476432967787,
+        "Steenbakkers zegt": 0.9826080374015959,
+        "Dorgelolaan": 1.975526700780809,
+        "Cluster": 1.965973237547494,
+        "naast kantoren": 0.9650129762216938,
+        "Clusterpaspoort": 1.9374219093392173,
+        "Fellenoord": 1.9374219093392173,
+        "Wethouder": 0.9374219093392172,
+        "Prof.": 1.933267116721686,
+        "voorzieningen": 0.8875323018025537,
+        "zegt": 0.8161405114575309,
+        "kijken": 0.8161405114575309,
+        "naast": 0.8161405114575309
+    },
+    "svz": null,
+    "afgedaan": "03-06-2025",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

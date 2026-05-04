@@ -1,0 +1,146 @@
+{
+    "module_id": 859507,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230022,
+    "title": "Tussenstand over 2 jaar - Raadsvoorstel Regiovisie Jeugdhulp 2023-2026 Samen voor jeugd",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/859507",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Toub (Wethouder)",
+    "result": "",
+    "date": "27-06-2023",
+    "meeting_url": {
+        "1114343": "https://raadsinformatie.eindhoven.nl/vergadering/1114343#ai_7622754"
+    },
+    "attachment": null,
+    "parent": 853456,
+    "children": [],
+    "text": "Wethouder Toub zegt toe:\n\nover 2 jaar met een tussenstand te komen waarin we de evaluatie uit de regio meenemen en vooral op de lokale context ingaan. En hierin ook mee te nemen wat na 2 jaar op te leveren is aan effecten (op het gebied van monitoring van het beleid) en gedane inspanningen.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 853456,
+            "weight": 5.99876797197093
+        },
+        {
+            "id": 909641,
+            "weight": 4.009885978032848
+        },
+        {
+            "id": 1051400,
+            "weight": 1.3956749472058687
+        },
+        {
+            "id": 787684,
+            "weight": 0.31284669112213565
+        },
+        {
+            "id": 776919,
+            "weight": 0.31168586351300226
+        },
+        {
+            "id": 950034,
+            "weight": 0.20540306326286178
+        },
+        {
+            "id": 944353,
+            "weight": 0.16393452087503424
+        },
+        {
+            "id": 974289,
+            "weight": 0.13419996737960835
+        },
+        {
+            "id": 989926,
+            "weight": 0.13103118531875735
+        },
+        {
+            "id": 1124906,
+            "weight": 0.12065201674364513
+        },
+        {
+            "id": 1051373,
+            "weight": 0.11373303380261114
+        },
+        {
+            "id": 946278,
+            "weight": 0.11119075860484225
+        },
+        {
+            "id": 966406,
+            "weight": 0.10786491573005189
+        },
+        {
+            "id": "r_8441115",
+            "weight": 0.1076398410456251
+        },
+        {
+            "id": 941366,
+            "weight": 0.10762079581459878
+        },
+        {
+            "id": 936160,
+            "weight": 0.10513331913561065
+        },
+        {
+            "id": 844331,
+            "weight": 0.10297295303444587
+        },
+        {
+            "id": 1146297,
+            "weight": 0.1023099643281563
+        },
+        {
+            "id": 844066,
+            "weight": 0.10204305295185616
+        }
+    ],
+    "videostarttime": {
+        "1114343": 625
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_27.06.23_Eindhoven_NC_Meningsvorming en Voorbereiding RAA.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Regiovisie": 1.9946536674357134,
+        "Regiovisie Jeugdhulp": 1.992789315447545,
+        "Wethouder Toub": 0.9927893154475449,
+        "Jeugdhulp 2023-2026": 1.984197857602633,
+        "2023-2026 Samen": 1.984197857602633,
+        "jeugd Wethouder": 0.9841978576026329,
+        "Toub zegt": 0.9841978576026329,
+        "context ingaan": 0.9762830923779195,
+        "komen waarin": 0.9650141914378769,
+        "regio meenemen": 0.9650141914378769,
+        "lokale context": 0.9650141914378769,
+        "jaar": 1.9225678735157283,
+        "Regiovisie": 1.915388754832178,
+        "Jeugdhulp": 1.915388754832178,
+        "Samen": 1.915388754832178,
+        "Toub": 0.915388754832178,
+        "Tussenstand": 1.8901854331367403,
+        "ingaan": 0.8739916207403275,
+        "gedane inspanningen": 0.8284066053803848,
+        "zegt": 0.8161435965759957,
+        "waarin": 0.8161435965759957,
+        "evaluatie": 0.8161435965759957,
+        "regio": 0.8161435965759957,
+        "lokale": 0.8161435965759957,
+        "context": 0.8161435965759957,
+        "effecten": 0.6663416062453266,
+        "beleid": 0.6663416062453266,
+        "mee": 0.56104338646994,
+        "leveren": 0.56104338646994,
+        "gebied": 0.56104338646994,
+        "monitoring": 0.56104338646994,
+        "gedane": 0.56104338646994
+    },
+    "svz": null,
+    "afgedaan": "26-08-2025",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

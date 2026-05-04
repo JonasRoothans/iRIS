@@ -1,0 +1,145 @@
+{
+    "module_id": 927083,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230019,
+    "title": "Eindhoven Airport geen korte vluchten meer (Vraag V3 vragenhalfuur)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/927083",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. van Lanschot (Wethouder)",
+    "result": "",
+    "date": "12-03-2024",
+    "meeting_url": {
+        "1147888": "https://raadsinformatie.eindhoven.nl/vergadering/1147888#ai_7853126"
+    },
+    "attachment": null,
+    "parent": "ai_7853126",
+    "children": [],
+    "text": "Wethouder Van Lanschot zegt toe het signaal dat duurzaam reizen moet worden gestimuleerd onder de aandacht brengen in aandeelhoudersvergadering en met NS in gesprek gaan over alternatieven voor korte vluchten",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 13911705,
+            "weight": 1.9646308732024456
+        },
+        {
+            "id": 1033644,
+            "weight": 0.24518626947837172
+        },
+        {
+            "id": 965983,
+            "weight": 0.2018571661073822
+        },
+        {
+            "id": 982293,
+            "weight": 0.19648773237709408
+        },
+        {
+            "id": 1036020,
+            "weight": 0.18630743867402466
+        },
+        {
+            "id": 949458,
+            "weight": 0.15836366476542893
+        },
+        {
+            "id": 949342,
+            "weight": 0.1453878680519703
+        },
+        {
+            "id": 984304,
+            "weight": 0.14112035585472343
+        },
+        {
+            "id": 991683,
+            "weight": 0.12615761865829328
+        },
+        {
+            "id": 1042883,
+            "weight": 0.1253277874520925
+        },
+        {
+            "id": 1123046,
+            "weight": 0.11344582495822016
+        },
+        {
+            "id": 797499,
+            "weight": 0.10958809216453669
+        },
+        {
+            "id": 1123060,
+            "weight": 0.08966656360337846
+        },
+        {
+            "id": 1080209,
+            "weight": 0.08334311471068095
+        },
+        {
+            "id": 1020674,
+            "weight": 0.07629343701534862
+        },
+        {
+            "id": "a_7585783",
+            "weight": 0.06903328044700355
+        },
+        {
+            "id": 13163994,
+            "weight": 0.06846776835635422
+        },
+        {
+            "id": 791573,
+            "weight": 0.0619395474990768
+        },
+        {
+            "id": 1013595,
+            "weight": 0.05954237362050668
+        },
+        {
+            "id": "a_9764231",
+            "weight": 0.058552071966567164
+        },
+        {
+            "id": 960621,
+            "weight": 0.05813498916960482
+        },
+        {
+            "id": 906401,
+            "weight": 0.04488935285746409
+        }
+    ],
+    "videostarttime": {
+        "1147888": 1311
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_12.03.24_NC_EINDHOVEN_Raadsvergadering.mp4/playlist.m3u8",
+    "keywords": {
+        "Eindhoven Airport": 1.9897433022945927,
+        "Lanschot zegt": 0.9830951648611799,
+        "korte vluchten": 1.9800950847426217,
+        "Vraag": 1.966437683229075,
+        "duurzaam reizen": 0.9663280845135478,
+        "aandacht brengen": 0.9663280845135478,
+        "gesprek gaan": 0.9663280845135478,
+        "vragenhalfuur": 1.9478145602483652,
+        "Wethouder": 0.9381218153480136,
+        "Airport": 1.9078939676749365,
+        "korte": 1.9021663606849604,
+        "zegt": 0.8195144019090934,
+        "signaal": 0.8195144019090934,
+        "reizen": 0.8195144019090934,
+        "gestimuleerd": 0.8195144019090934,
+        "aandacht": 0.8195144019090934,
+        "aandeelhoudersvergadering": 0.8195144019090934,
+        "gaan": 0.8195144019090934,
+        "alternatieven": 0.8195144019090934
+    },
+    "svz": null,
+    "afgedaan": "03-09-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

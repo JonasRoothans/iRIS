@@ -1,0 +1,97 @@
+{
+    "module_id": 953021,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230024,
+    "title": "Totaaloverzicht - Raadsvoorstel Effect & vereenvoudiging minimaregelingen",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/moties_en_toezeggingen/953021?parent_event=1147967",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Lammers (Wethouder)",
+    "result": "",
+    "date": "18-06-2024",
+    "meeting_url": {
+        "1147967": "https://raadsinformatie.eindhoven.nl/vergadering/1147967#ai_8506508"
+    },
+    "attachment": null,
+    "parent": "ai_8506508",
+    "children": [],
+    "text": "Wethouder Lammers beantwoordt de vragen en zegt toe om samen met partners in de stad een totaaloverzicht te maken van alle organisaties en initiatieven die zich bezighouden met de ondersteuning van inwoners op het gebied van minimabeleid, armoede en schulden;",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": "ai_8506508",
+            "weight": 1.5059468466329293
+        },
+        {
+            "id": 953024,
+            "weight": 1.3099223199215628
+        },
+        {
+            "id": 941333,
+            "weight": 0.5673833746434163
+        },
+        {
+            "id": 1085536,
+            "weight": 0.5593528115336237
+        },
+        {
+            "id": 979977,
+            "weight": 0.5585202806285109
+        },
+        {
+            "id": 1139066,
+            "weight": 0.35043285767057597
+        },
+        {
+            "id": 1049080,
+            "weight": 0.271927341020989
+        },
+        {
+            "id": 1049621,
+            "weight": 0.2461789541281658
+        },
+        {
+            "id": 1124227,
+            "weight": 0.24569070760700354
+        }
+    ],
+    "videostarttime": {
+        "1147967": 13238
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_18.06.24_Eindhoven_CIE.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Effect": 1.9974298237320491,
+        "Wethouder Lammers": 0.9950692764797661,
+        "minimaregelingen Wethouder": 0.9910499828110634,
+        "Lammers beantwoordt": 0.9910499828110634,
+        "vereenvoudiging minimaregelingen": 1.9891288700451892,
+        "Effect": 1.9493681187741978,
+        "Lammers": 0.9299533671505468,
+        "Totaaloverzicht": 1.9178204124533518,
+        "vereenvoudiging": 1.91507961779922,
+        "minimabeleid": 0.91507961779922,
+        "armoede": 0.91507961779922,
+        "schulden": 0.91507961779922,
+        "vragen": 0.8733611512450102,
+        "zegt": 0.8733611512450102,
+        "samen": 0.8733611512450102,
+        "partners": 0.8733611512450102,
+        "stad": 0.8733611512450102,
+        "organisaties": 0.8733611512450102,
+        "initiatieven": 0.8733611512450102,
+        "bezighouden": 0.8733611512450102,
+        "ondersteuning": 0.8733611512450102,
+        "inwoners": 0.8733611512450102,
+        "gebied": 0.8733611512450102
+    },
+    "svz": "Dit wordt zo goed als mogelijk meegenomen in de update van de sociale kaart van Eindhoven via de Steunwijzer....  Lees verder ",
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

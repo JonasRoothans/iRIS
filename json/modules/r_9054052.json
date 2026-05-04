@@ -1,0 +1,78 @@
+{
+    "module_id": "r_9054052",
+    "vote_id": 9054052,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Raadsvoorstel: Wijzigingsbesluit op gewijzigd vastgesteld bestemmingsplan ‘Fietspad HTCE – De Run’",
+    "url": "https://raadsinformatie.eindhoven.nl/vergadering/1256316/Raadsvoorstel%3A%20Wijzigingsbesluit%20op%20gewijzigd%20vastgesteld%20bestemmingsplan%20%E2%80%98Fietspad%20HTCE%20%E2%80%93%20De%20Run%E2%80%99 25-02-2025#voting_9054052",
+    "type": "Raadsvoorstel",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "aangenomen",
+    "date": "25-02-2025",
+    "meeting_url": {
+        "1256316": "https://raadsinformatie.eindhoven.nl/vergadering/1256316/Raadsvoorstel%3A%20Wijzigingsbesluit%20op%20gewijzigd%20vastgesteld%20bestemmingsplan%20%E2%80%98Fietspad%20HTCE%20%E2%80%93%20De%20Run%E2%80%99 25-02-2025#voting_9054052"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": "ai_8470480",
+            "weight": 1.4024214123500265
+        },
+        {
+            "id": 953040,
+            "weight": 1.3994399989238608
+        },
+        {
+            "id": 1009567,
+            "weight": 0.7426642778087388
+        },
+        {
+            "id": 944432,
+            "weight": 0.6610093007058636
+        },
+        {
+            "id": 955449,
+            "weight": 0.6317586847183806
+        },
+        {
+            "id": 878041,
+            "weight": 0.5960291920545582
+        },
+        {
+            "id": 828151,
+            "weight": 0.4135928230413257
+        },
+        {
+            "id": 1150669,
+            "weight": 0.2939667684748332
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Fietspad HTCE": 1.9925553183866471,
+        "Raadsvoorstel": 1.9550880231213545,
+        "vastgesteld bestemmingsplan": 1.9505961599793435,
+        "Wijzigingsbesluit": 1.9140368224837343,
+        "HTCE": 1.9140368224837343,
+        "Run’": 1.9140368224837343,
+        "gewijzigd vastgesteld": 1.9029960071342575,
+        "gewijzigd": 1.702634417439785
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": null,
+    "meeting_id": [
+        1256316
+    ]
+}

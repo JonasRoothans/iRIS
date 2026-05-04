@@ -1,0 +1,82 @@
+{
+    "module_id": 974303,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 248564,
+    "title": "Eindhoven Toegankelijk - Raadsvoorstel Sharing the Vibes Samen naar een bruisend Eindhoven",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/974303",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "R. Strijk (Wethouder)",
+    "result": "",
+    "date": "24-09-2024",
+    "meeting_url": {
+        "1266326": "https://raadsinformatie.eindhoven.nl/vergadering/1266326#ai_8650080"
+    },
+    "attachment": null,
+    "parent": 958773,
+    "children": [],
+    "text": "Wethouder Strijk zegt toe om in gesprek te gaan met Eindhoven Toegankelijk! over verdere toegankelijkheids-maatregelen.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 974301,
+            "weight": 1.2926810341622068
+        },
+        {
+            "id": 974304,
+            "weight": 1.2907038413892278
+        },
+        {
+            "id": 974297,
+            "weight": 1.2905934509715598
+        },
+        {
+            "id": 974296,
+            "weight": 1.2905008559221995
+        },
+        {
+            "id": 975797,
+            "weight": 0.49719889631640085
+        },
+        {
+            "id": 958773,
+            "weight": 0.4967409140278159
+        },
+        {
+            "id": 1020983,
+            "weight": 0.24661898270156937
+        }
+    ],
+    "videostarttime": {},
+    "videolink": null,
+    "keywords": {
+        "Eindhoven Toegankelijk": 1.9969461866833438,
+        "Raadsvoorstel Sharing": 1.9943169639797227,
+        "Vibes Samen": 1.9923696391317416,
+        "Wethouder Strijk": 0.9923696391317416,
+        "Eindhoven Wethouder": 0.9891714553635125,
+        "Sharing the": 1.98268172529837,
+        "the Vibes": 1.98268172529837,
+        "Strijk zegt": 0.98268172529837,
+        "bruisend Eindhoven": 1.9753235143580894,
+        "Eindhoven": 1.958965473880665,
+        "Samen": 1.912979431425233,
+        "verdere toegankelijkheids-maatregelen": 0.8085702344019973,
+        "the": 1.8043743213566827,
+        "bruisend": 1.8043743213566827,
+        "zegt": 0.8043743213566827,
+        "gesprek": 0.8043743213566827,
+        "gaan": 0.8043743213566827,
+        "verdere": 0.5421060619705438
+    },
+    "svz": null,
+    "afgedaan": "11-03-2025",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

@@ -1,0 +1,87 @@
+{
+    "module_id": 946698,
+    "vote_id": null,
+    "member_id": [
+        194500
+    ],
+    "party_list": [
+        "FVD"
+    ],
+    "poho_id": [],
+    "title": "Beantwoording vervolg raadsvragen Niet-belanghebbende (FvD)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/4/Raadsvragen/946698",
+    "type": "Raadsvraag",
+    "member": "Nicolas Knoester",
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "30-05-2024",
+    "meeting_url": null,
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/14213484/1?connection_type=17&connection_id=10634694": "Vraag",
+        "https://raadsinformatie.eindhoven.nl/document/14352325/1?connection_type=17&connection_id=10751863": "Antwoord"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": " \n \n \nRaadsvragen Vervolgvragen niet -belanghebbende?  \ndatum:  30 mei 2024  \n \n \nGeacht college,  \n \nNaar aanleiding van  de beantwoording  stelt FVD een vervolgvraag:   \n \n1. Is het college bereid om verkeerde verwachtingen bij participatie  \ntrajecten te voorkomen door voortaan al vanaf het begin van een  \ntraject expliciet en duidelijk aan te geven wie wel en niet als  \nbelanghebbenden (kunnen) worden gezien en achteraf eventueel  \nbezwaar mogen maken?   \n \nOm het vertrouwen in de lokale overheid niet  nog meer te ondermijnen  \ndoor onnodige verwarring, die door sommig e deelnemers zelfs al s \nmisleiding  gezien wordt.  \n \nNamens de fracti e, \nForum voor Democratie  \n \nNicolas Knoester , raadslid  \n \n \n",
+    "bst": "24bst00845",
+    "related": [
+        {
+            "id": 931189,
+            "weight": 1.9807592180068776
+        },
+        {
+            "id": 14603414,
+            "weight": 0.13792572205231202
+        },
+        {
+            "id": 937183,
+            "weight": 0.13611226989540257
+        },
+        {
+            "id": 894051,
+            "weight": 0.1352074168864095
+        },
+        {
+            "id": 998975,
+            "weight": 0.13286965202537074
+        },
+        {
+            "id": 1149735,
+            "weight": 0.0871216941030089
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "raadsvragen Niet-belanghebbende": 1.989772547736659,
+        "vervolg raadsvragen": 1.9663390745693046,
+        "belanghebbende": 1.9062752556143823,
+        "Beantwoording vervolg": 1.9012228654520733,
+        "Geacht college": 0.87247517414263,
+        "FvD": 1.8613286020371613,
+        "stelt FVD": 0.8392170756501695,
+        "Nicolas Knoester": 0.831302104001912,
+        "Geacht": 0.7943331152033676,
+        "Democratie Nicolas": 0.7884317929593321,
+        "vervolg": 1.7768372583395422,
+        "datum": 0.7357399793176278,
+        "mei": 0.7357399793176278,
+        "college": 0.725036998068058,
+        "gezien": 0.6925486056509373,
+        "Forum": 0.6545731157107341,
+        "Knoester": 0.6545731157107341,
+        "Nicolas": 0.5821203054478619,
+        "raadslid": 0.5773490587253371,
+        "maken": 0.5180531319267709,
+        "college bereid": 0.5167699866033377,
+        "aanleiding": 0.5005729933875958
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194500,
+    "lastScrapeDate": "02-04-2026",
+    "meeting_id": []
+}

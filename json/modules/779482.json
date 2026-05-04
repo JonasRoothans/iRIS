@@ -1,0 +1,88 @@
+{
+    "module_id": 779482,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Resultaten overgangsperiode - Raadsvoorstel Tot vaststelling paraplubestemmingsplan  parkeren, kamerbewoning en woningsplitsing 2021",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/moties_en_toezeggingen/779482?parent_event=1013503",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "17-05-2022",
+    "meeting_url": {
+        "1013503": "https://raadsinformatie.eindhoven.nl/vergadering/1013503#ai_6964652"
+    },
+    "attachment": null,
+    "parent": "ai_6964652",
+    "children": [],
+    "text": "De resultaten van de overgangsperiode van dit beleid (het afgelopen jaar), breed met de raad te delen. Hij laat schriftelijk weten op welke termijn.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": "ai_6964652",
+            "weight": 2.4990115687017824
+        },
+        {
+            "id": 779484,
+            "weight": 0.7060420918855231
+        },
+        {
+            "id": "r_7006035",
+            "weight": 0.7010378470828087
+        },
+        {
+            "id": 779483,
+            "weight": 0.6990659245988314
+        },
+        {
+            "id": 787218,
+            "weight": 0.3422091642892122
+        },
+        {
+            "id": 787214,
+            "weight": 0.34169064707675434
+        },
+        {
+            "id": 775238,
+            "weight": 0.33957894508423997
+        },
+        {
+            "id": 779485,
+            "weight": 0.21606981825728694
+        }
+    ],
+    "videostarttime": {
+        "1013503": 869
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/17.05.22 Eindhoven Meningsvormend CK ruw.mp4/playlist.m3u8",
+    "keywords": {
+        "paraplubestemmingsplan parkeren": 0.9776984486211714,
+        "vaststelling paraplubestemmingsplan": 1.9670546976172631,
+        "Resultaten overgangsperiode": 1.9529368008864374,
+        "Raadsvoorstel": 1.9381235476886027,
+        "Resultaten": 1.893995505614497,
+        "parkeren": 1.8778487350147883,
+        "kamerbewoning": 1.8778487350147883,
+        "woningsplitsing": 1.8778487350147883,
+        "beleid": 0.8778487350147882,
+        "jaar": 0.8778487350147882,
+        "breed": 0.8778487350147882,
+        "delen": 0.8778487350147882,
+        "vaststelling": 1.821409609639988,
+        "raad": 0.8214096096399881,
+        "laat schriftelijk": 0.7728513660987084,
+        "schriftelijk weten": 0.7728513660987084,
+        "termijn": 0.6741853748714983,
+        "laat": 0.5697642641670678
+    },
+    "svz": null,
+    "afgedaan": "17-01-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

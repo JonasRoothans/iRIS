@@ -1,0 +1,128 @@
+{
+    "module_id": 948991,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230013,
+    "title": "Technische vraag - Raadsvoorstel Intentieovereenkomst vestiging van ASML op BIC Noord",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/948991",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Steenbakkers (Wethouder)",
+    "result": "",
+    "date": "04-06-2024",
+    "meeting_url": {
+        "1147940": "https://raadsinformatie.eindhoven.nl/vergadering/1147940#ai_8430554"
+    },
+    "attachment": null,
+    "parent": 937473,
+    "children": [],
+    "text": "Wethouder Steenbakkers zegt toe een technische vraag over de WvG en grondprijzen bij wijziging van bestemming, wordt schriftelijk beantwoord.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 949613,
+            "weight": 1.4880931259637038
+        },
+        {
+            "id": 948986,
+            "weight": 1.4868252289387058
+        },
+        {
+            "id": 948989,
+            "weight": 1.4863098207636072
+        },
+        {
+            "id": 948987,
+            "weight": 1.482816133767394
+        },
+        {
+            "id": 12866052,
+            "weight": 0.5625119397124616
+        },
+        {
+            "id": 12559868,
+            "weight": 0.5619622230115342
+        },
+        {
+            "id": 832852,
+            "weight": 0.36496798857644597
+        },
+        {
+            "id": 906717,
+            "weight": 0.2786044420005397
+        },
+        {
+            "id": 904205,
+            "weight": 0.2736985099154479
+        },
+        {
+            "id": 949263,
+            "weight": 0.24391479030699748
+        },
+        {
+            "id": 949454,
+            "weight": 0.23445350881859717
+        },
+        {
+            "id": 949456,
+            "weight": 0.2050214260473954
+        },
+        {
+            "id": 15548501,
+            "weight": 0.19839515832501556
+        },
+        {
+            "id": 821692,
+            "weight": 0.16705756305920694
+        },
+        {
+            "id": 16532271,
+            "weight": 0.1586302968931837
+        },
+        {
+            "id": 984445,
+            "weight": 0.14964885706714462
+        },
+        {
+            "id": 994385,
+            "weight": 0.11825728390388776
+        },
+        {
+            "id": 776996,
+            "weight": 0.0913616717349722
+        }
+    ],
+    "videostarttime": {
+        "1147940": 19757
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_04.06.24_Eindhoven_meningCK.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Intentieovereenkomst": 1.9942255759236294,
+        "BIC Noord": 1.9913860727695791,
+        "Noord Wethouder": 0.9913860727695792,
+        "Wethouder Steenbakkers": 0.9913860727695792,
+        "Intentieovereenkomst vestiging": 1.9829242431044252,
+        "Steenbakkers zegt": 0.9829242431044253,
+        "Technische vraag": 1.9797144483111673,
+        "schriftelijk beantwoord": 0.9794166714683752,
+        "Raadsvoorstel": 1.9378744897269777,
+        "ASML": 1.9075859254188583,
+        "BIC": 1.9075859254188583,
+        "vraag": 1.901271501274267,
+        "bestemming": 0.8889857844605916,
+        "beantwoord": 0.8889857844605916,
+        "zegt": 0.8183277722563624,
+        "WvG": 0.8183277722563624,
+        "grondprijzen": 0.8183277722563624,
+        "wijziging": 0.8183277722563624
+    },
+    "svz": "Deze vraag is in de week voorafgaand aan de raad van 11 juni schriftelijk beantwoord. VOORSTEL: AFVOEREN.",
+    "afgedaan": "03-09-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

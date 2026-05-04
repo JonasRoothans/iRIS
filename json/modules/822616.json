@@ -1,0 +1,109 @@
+{
+    "module_id": 822616,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Bouwen voor starters - Raadsvoorstel Ontwikkelkader Kastelenplein",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/822616",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "14-02-2023",
+    "meeting_url": {
+        "1013452": "https://raadsinformatie.eindhoven.nl/vergadering/1013452#ai_7327552"
+    },
+    "attachment": null,
+    "parent": 806370,
+    "children": [],
+    "text": "Wethouder Verhees zegt toe dat:\n\nin het gebied ook zal worden gebouwd voor starters.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 819553,
+            "weight": 1.2260200438436777
+        },
+        {
+            "id": 822617,
+            "weight": 1.2168274145343543
+        },
+        {
+            "id": 819550,
+            "weight": 1.2162807588078168
+        },
+        {
+            "id": 806370,
+            "weight": 0.566368693669067
+        },
+        {
+            "id": "a_7400520",
+            "weight": 0.449084708556145
+        },
+        {
+            "id": 1036323,
+            "weight": 0.27807204552300446
+        },
+        {
+            "id": 974079,
+            "weight": 0.27281357591561645
+        },
+        {
+            "id": 983919,
+            "weight": 0.24631341367552018
+        },
+        {
+            "id": 863706,
+            "weight": 0.2116845638293259
+        },
+        {
+            "id": 1136528,
+            "weight": 0.2025879265637507
+        },
+        {
+            "id": 892417,
+            "weight": 0.2020495631895836
+        },
+        {
+            "id": 1117157,
+            "weight": 0.19890837996629754
+        },
+        {
+            "id": 15091771,
+            "weight": 0.1935779821325173
+        },
+        {
+            "id": "r_7006025",
+            "weight": 0.19167044370376762
+        },
+        {
+            "id": 973945,
+            "weight": 0.11616882181616278
+        }
+    ],
+    "videostarttime": {
+        "1013452": 7978
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_14.02.23_NC_Eindhoven_Raadsvergadering .mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Ontwikkelkader": 1.994286972318783,
+        "Ontwikkelkader Kastelenplein": 1.9914698139112912,
+        "Kastelenplein Wethouder": 0.9914698139112911,
+        "Wethouder Verhees": 0.9914698139112911,
+        "Verhees zegt": 0.9831714816366539,
+        "starters": 1.959925518520754,
+        "Raadsvoorstel": 1.9382328660073909,
+        "Ontwikkelkader": 1.9080324108434377,
+        "Bouwen": 1.890124956956695,
+        "zegt": 0.8200452308193469,
+        "gebied": 0.8200452308193469
+    },
+    "svz": null,
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

@@ -1,0 +1,94 @@
+{
+    "module_id": 1134416,
+    "vote_id": null,
+    "member_id": [
+        194500
+    ],
+    "party_list": [
+        "FVD"
+    ],
+    "poho_id": [],
+    "title": "Plantbased Treaty II (Vrije Motie VM8)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1134416",
+    "type": "Vrije motie",
+    "member": "Nicolas Knoester",
+    "party": "FVD",
+    "poho": "",
+    "result": "Aangenomen",
+    "date": "10-02-2026",
+    "meeting_url": {
+        "1374859": "https://raadsinformatie.eindhoven.nl/vergadering/1374859#ai_9410439"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": "",
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/16610528/1/Plantbased+Treaty+II+%28Vrije+Motie+VM8%29?connection_type=17&connection_id=12986184",
+    "pdf_text": "  \n \n \nVrije motie  – Plant Based Treaty 2            VM8 \n \nDe indiene r van d eze motie stelt de gemeenteraad voor om in de vergadering van \n10 februari  2026  een besluit te nemen  over deze motie . \n \nDe indieners hoorden dat:  \n- het college de motie VM1 Plantbased Treaty in de raadsvergadering van \n10 februari 2026 heeft omarmd ; \n- de indieners van de motie deze vervolgens introkken en de raad daardoor \nniet over de motie heeft gestemd . \n \nDe indieners vinden dat:  \n- de indiener van deze motie niet wil dat de gemeente de Plant Based Treaty \nondertekent, maar deze motie indient om een uitspraak van de raad te \nkrijgen.  \n \nDe indieners verzoeken het college:  \nde Plant Based Treaty te ondertekenen.  \n \nEindhoven, 10 februari 2026.  \n \nHet lid van de raad , \n \nNicolas Knoester  (Forum voor Democratie) , voorsteller  \n \n \n \nDeze vrije motie is aangenomen  in de vergadering van  10 februari  2026 . \n \nJ. Jongbloed , griffier . \n",
+    "bst": null,
+    "related": [
+        {
+            "id": "m_10046476",
+            "weight": 4.480482811881363
+        },
+        {
+            "id": 1132392,
+            "weight": 2.840771355379333
+        },
+        {
+            "id": 882823,
+            "weight": 0.3078157945117382
+        },
+        {
+            "id": 1045924,
+            "weight": 0.275052999555707
+        }
+    ],
+    "videostarttime": {
+        "1374859": 9218
+    },
+    "videolink": null,
+    "keywords": {
+        "Based Treaty": 0.9975704651827515,
+        "Plant Based": 0.9974671414099558,
+        "Treaty ondertekent": 0.9860811709717522,
+        "Vrije Motie": 1.9839378824491272,
+        "Treaty": 1.9830717181604465,
+        "Motie": 1.976045788757366,
+        "indieners hoorden": 0.971739742560053,
+        "Based": 0.9715038412766023,
+        "Plant": 1.9705953629661797,
+        "motie stelt": 0.9560143314268773,
+        "februari": 0.949993639789149,
+        "raad daardoor": 0.9433732263815615,
+        "Vrije": 1.9360291054268712,
+        "Nicolas Knoester": 0.908969517706413,
+        "raad": 0.8984349780747196,
+        "college": 0.8904323249609987,
+        "indiener": 0.8437434332876914,
+        "vergadering": 0.8417286625712451,
+        "omarmd": 0.8378127811557328,
+        "gestemd": 0.8378127811557328,
+        "eze": 0.8241125771482516,
+        "stelt": 0.8241125771482516,
+        "gemeenteraad": 0.8241125771482516,
+        "besluit": 0.8241125771482516,
+        "nemen": 0.8241125771482516,
+        "hoorden": 0.8241125771482516,
+        "introkken": 0.8241125771482516,
+        "vinden": 0.8241125771482516,
+        "uitspraak": 0.8241125771482516,
+        "Nicolas": 0.7111482655980212,
+        "Knoester": 0.7111482655980212,
+        "Forum": 0.7111482655980212,
+        "Democratie": 0.7111482655980212,
+        "Jongbloed": 0.7111482655980212,
+        "ondertekenen": 0.5979680370661526,
+        "verzoeken": 0.5743020399800194
+    },
+    "svz": "",
+    "afgedaan": "",
+    "eersteIndiener": 194500,
+    "lastScrapeDate": "08-04-2026",
+    "meeting_id": []
+}

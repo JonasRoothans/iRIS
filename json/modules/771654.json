@@ -1,0 +1,114 @@
+{
+    "module_id": 771654,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Raadsvoorstel Vaststellen Grondexploitatie gebiedsontwikkeling winkelcentrum en woningbouw Ardèchelaan (899-300)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/19/Raadsvoorstellen/771654",
+    "type": "Raadsvoorstel",
+    "member": null,
+    "party": null,
+    "poho": "",
+    "result": "Afgerond",
+    "date": "14-09-2022",
+    "meeting_url": {
+        "1013068": "https://raadsinformatie.eindhoven.nl/vergadering/1013068",
+        "1013082": "https://raadsinformatie.eindhoven.nl/vergadering/1013082#ai_6984903",
+        "1015774": "https://raadsinformatie.eindhoven.nl/vergadering/1015774#ai_7006665"
+    },
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/11722506/1/Raadsvoorstel_Grondexploitatie_Ardechelaan_899-300?connection_type=17&connection_id=8528824": "Raadsvoorstel Grondexploitatie Ardechelaan 899-300",
+        "http://raadsinformatie.eindhoven.nl/document/11722507/1?connection_type=16&connection_id=771654": " Bijlage - Voorlopig massavolumeplan Ard  chelaan ",
+        "http://raadsinformatie.eindhoven.nl/document/11834812/1?connection_type=16&connection_id=771654": " Commissieadvies Raadsvoorstel Vaststellen Grondexploitatie gebiedsontwikkeling winkelcentrum en woningbouw Ardèchelaan (899-300) "
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/11872491/1?connection_type=17&connection_id=8657812",
+    "pdf_text": " \n \n  gemeente Eindhoven  \nInboeknummer      22bst00848   \nDossiernummer     22.28.251  \nB&W b eslisdatum  12 juli 2022  \n    \n \nRaadsvoorstel    Vaststellen Grondexploitatie gebiedsontwikkeling \nwinkelcentrum en woningbouw Ardèchelaan (899 -300)  \n  \n \n \n \n   Raadsbesluit   \n \nDe raad van de gemeente Eindhoven;  \ngezien het voorstel van burgemeester en wethouders van 12 juli 2022 ; \ngelet op de behandeling in de meningsvormende vergadering van 14 september 2022;  \n \nbesluit:  \n \n1. De grondexploitatie 899 -300 gebiedsontwikkeling winkelcentrum  en \nwoningbouw  Ardèchelaan vaststellen.  \n2. De financiële consequenties van de grondexploitatie verwerken in de \neerstvolgende actualisering van de Meerjaren Prognose Grondexploitaties.  \n \nAldus vastgesteld in de openbare vergadering van 21 september 2022.  \n \n \n \n \nJ. Jongbloed , griffier.  \n \n ",
+    "bst": "22bst00848",
+    "related": [
+        {
+            "id": "r_7006021",
+            "weight": 0.9723719585980887
+        },
+        {
+            "id": 792457,
+            "weight": 0.965423331471009
+        },
+        {
+            "id": "r_7006011",
+            "weight": 0.9465008653596413
+        },
+        {
+            "id": 883423,
+            "weight": 0.6350298212463946
+        },
+        {
+            "id": "ai_7820969",
+            "weight": 0.6198694794411955
+        },
+        {
+            "id": 852093,
+            "weight": 0.28030819545976843
+        },
+        {
+            "id": 903603,
+            "weight": 0.26068134252021596
+        },
+        {
+            "id": 941006,
+            "weight": 0.2471994034571945
+        },
+        {
+            "id": 1094272,
+            "weight": 0.20729250289207798
+        }
+    ],
+    "videostarttime": {
+        "1013068": null,
+        "1013082": 2224,
+        "1015774": 1761
+    },
+    "videolink": null,
+    "keywords": {
+        "Eindhoven Inboeknummer": 0.9962489031150917,
+        "Raadsvoorstel Vaststellen": 1.9958849814509538,
+        "gemeente Eindhoven": 0.9958447674456115,
+        "woningbouw Ardèchelaan": 1.9936325516137192,
+        "Vaststellen Grondexploitatie": 1.9894962717972011,
+        "gebiedsontwikkeling winkelcentrum": 1.9892880707978486,
+        "Grondexploitatie gebiedsontwikkeling": 1.984569355291315,
+        "Eindhoven": 0.9703413021429445,
+        "Ardèchelaan": 1.9633797563886883,
+        "Vaststellen": 1.9581943312660186,
+        "juli": 0.9564191022178837,
+        "Dossiernummer": 0.9442357461940175,
+        "winkelcentrum": 1.9431271295089099,
+        "woningbouw": 1.9431271295089099,
+        "Raadsbesluit": 0.9369986039424669,
+        "gemeente": 0.9305265310346025,
+        "meningsvormende vergadering": 0.9265111698453903,
+        "Meerjaren Prognose": 0.9171728943651293,
+        "september": 0.8718941726295748,
+        "899-300": 1.8630089511744896,
+        "eslisdatum": 0.8388760636964085,
+        "gezien": 0.8388760636964085,
+        "gelet": 0.8388760636964085,
+        "vergadering": 0.8160253091291217,
+        "raad": 0.8139474072131959,
+        "voorstel": 1.8139474072131958,
+        "wethouders": 0.8139474072131959,
+        "Meerjaren": 0.7234289723704503,
+        "Prognose": 0.7234289723704503,
+        "Jongbloed": 0.6775301620847931,
+        "financiële consequenties": 0.5962328245867732,
+        "eerstvolgende actualisering": 0.5962328245867732
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": "10-04-2026",
+    "meeting_id": []
+}

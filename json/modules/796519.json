@@ -1,0 +1,135 @@
+{
+    "module_id": 796519,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230022,
+    "title": "Raadsvoorstel Financieel inregelen Opvang Oekraïne",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/796519",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Toub (Wethouder)",
+    "result": "",
+    "date": "22-11-2022",
+    "meeting_url": {
+        "1039911": "https://raadsinformatie.eindhoven.nl/vergadering/1039911#ai_7109840"
+    },
+    "attachment": null,
+    "parent": 786228,
+    "children": [],
+    "text": "De raad technisch te informeren over de mate waarin deze doelgroep aan het werk is.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 786228,
+            "weight": 2.300948329165369
+        },
+        {
+            "id": 885825,
+            "weight": 1.7247700047556727
+        },
+        {
+            "id": 1085544,
+            "weight": 1.7217467681995673
+        },
+        {
+            "id": 968655,
+            "weight": 1.7207706984577753
+        },
+        {
+            "id": 915719,
+            "weight": 0.9379735676236746
+        },
+        {
+            "id": 968679,
+            "weight": 0.9379517843538303
+        },
+        {
+            "id": 1096857,
+            "weight": 0.9375680241998108
+        },
+        {
+            "id": 776868,
+            "weight": 0.5654621441622085
+        },
+        {
+            "id": 777040,
+            "weight": 0.5646822781480614
+        },
+        {
+            "id": 946239,
+            "weight": 0.564622882632963
+        },
+        {
+            "id": 779022,
+            "weight": 0.5638678972594496
+        },
+        {
+            "id": 956497,
+            "weight": 0.5610574138716481
+        },
+        {
+            "id": 973400,
+            "weight": 0.21626736906590105
+        },
+        {
+            "id": 1132396,
+            "weight": 0.21104730198893754
+        },
+        {
+            "id": 984501,
+            "weight": 0.10547152207860773
+        },
+        {
+            "id": 790708,
+            "weight": 0.10438822882100059
+        },
+        {
+            "id": 790707,
+            "weight": 0.1042287787421451
+        },
+        {
+            "id": 984519,
+            "weight": 0.09775346983380981
+        },
+        {
+            "id": 781186,
+            "weight": 0.09274860251020228
+        },
+        {
+            "id": 781185,
+            "weight": 0.09219269041121635
+        },
+        {
+            "id": 850906,
+            "weight": 0.06938838935803669
+        }
+    ],
+    "videostarttime": {
+        "1039911": 2409
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_22.11.22_NC_Eindhoven_RAAD.mp4/playlist.m3u8",
+    "keywords": {
+        "Opvang Oekraïne": 1.9925553183866471,
+        "Raadsvoorstel Financieel": 1.9917067928775634,
+        "Financieel inregelen": 1.986202801796007,
+        "inregelen Opvang": 1.986202801796007,
+        "raad technisch": 0.9742913828560066,
+        "mate waarin": 0.9742913828560066,
+        "Financieel": 1.9140368224837343,
+        "Opvang": 1.9140368224837343,
+        "raad": 0.8416830712200127,
+        "informeren": 0.8416830712200127,
+        "mate": 0.8416830712200127,
+        "doelgroep": 0.8416830712200127,
+        "werk": 0.8416830712200127
+    },
+    "svz": null,
+    "afgedaan": "13-12-2022",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

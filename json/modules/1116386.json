@@ -1,0 +1,141 @@
+{
+    "module_id": 1116386,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Raadsbrief Zienswijze ontwerp Nota Ruimte",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/8/Raadsbrieven/1116386",
+    "type": "Raadsbrief",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "16-12-2025",
+    "meeting_url": null,
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/16404271/1/8085510_03+Raadsbrief+Zienswijze+ontwerp+Nota+Ruimte?connection_type=17&connection_id=12761021",
+    "pdf_text": " \n  \n \n gemeente Eindhoven  \nInboeknummer      8085510_03  \nDossiernummer     25.50.413  \nB&W beslisdatum  09 december 2025  \nRaadsbrief  \n \nOnderwerp : zienwijze ontwerp Nota Ruimte  \n \nAan de leden van de gemeenteraad,   \n \nHet kabinet heeft de ontwerp Nota Ruimte  opgesteld, met daarin nationale ruimtelijke \nkeuzes en richtingen voor Nederland op de korte en lange termijn op het gebied van \nwoningbouw, bereikbaarheid, energie, defensie, economie, landbouw en natuur. Van af \nmaandag 6 oktober tot en met ma andag  15 december 2025 kunnen zienswijzen worden \ningediend.  \n \nDe reactie namens college van burgemeester en wethouders van de gemeente Eindhoven \nis opgenomen in bijgaande brief  met bijbehorende bijlage .  \n \nBurgemeester en wethouders van Eindhoven,  \nSecretaris  \n \n \n \n \nBijlage(n):  \n1. zienswijze ontwerp Nota Ruimte  \n2. bijlage zienswijze ontwerp Nota Ruimte  ",
+    "bst": "8085510_03",
+    "related": [
+        {
+            "id": 835022,
+            "weight": 1.2873922317402855
+        },
+        {
+            "id": 856856,
+            "weight": 0.6446920735213356
+        },
+        {
+            "id": 14926560,
+            "weight": 0.5650835714676582
+        },
+        {
+            "id": 987078,
+            "weight": 0.5423249954870486
+        },
+        {
+            "id": 831516,
+            "weight": 0.2718196636509957
+        },
+        {
+            "id": 1095197,
+            "weight": 0.2684297113268039
+        },
+        {
+            "id": "ai_7231226",
+            "weight": 0.2659108101318857
+        },
+        {
+            "id": 1107289,
+            "weight": 0.25457007364549605
+        },
+        {
+            "id": 787674,
+            "weight": 0.13430699378981986
+        },
+        {
+            "id": 1096312,
+            "weight": 0.131867605000859
+        },
+        {
+            "id": 857014,
+            "weight": 0.13069514725547557
+        },
+        {
+            "id": 1038777,
+            "weight": 0.12562792377349996
+        },
+        {
+            "id": 776916,
+            "weight": 0.1125471910688024
+        },
+        {
+            "id": 1106045,
+            "weight": 0.08976505173397814
+        },
+        {
+            "id": 955576,
+            "weight": 0.08183492718313135
+        },
+        {
+            "id": 1015796,
+            "weight": 0.07375525589420022
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Raadsbrief Onderwerp": 0.9942029669838702,
+        "Nota Ruimte": 1.9906940488968636,
+        "ontwerp Nota": 1.9863106921079186,
+        "Eindhoven Inboeknummer": 0.9858836718254271,
+        "Nota": 1.9665563173134788,
+        "gemeente Eindhoven": 0.9575913670692108,
+        "Raadsbrief": 1.9573073154619829,
+        "Ruimte opgesteld": 0.9510766874083272,
+        "nationale ruimtelijke": 0.9503723926155545,
+        "ruimtelijke keuzes": 0.9503723926155545,
+        "lange termijn": 0.9503723926155545,
+        "Dossiernummer": 0.9445398656705898,
+        "Zienswijze ontwerp": 1.9425144882325571,
+        "Onderwerp": 0.9324987269293677,
+        "Eindhoven": 0.9312613889336577,
+        "december": 0.9211397565747184,
+        "Nederland": 0.9204681999164678,
+        "bereikbaarheid": 0.8648298276297977,
+        "energie": 0.8648298276297977,
+        "defensie": 0.8648298276297977,
+        "economie": 0.8648298276297977,
+        "Secretaris Bijlage": 0.8533866898502801,
+        "bijlage": 0.8410139851198336,
+        "beslisdatum": 0.8245808402406204,
+        "zienwijze": 0.8245808402406204,
+        "gemeenteraad": 0.8245808402406204,
+        "woningbouw": 0.8245808402406204,
+        "landbouw": 0.8245808402406204,
+        "natuur": 0.8245808402406204,
+        "burgemeester": 0.819138684232187,
+        "leden": 0.7825576933922218,
+        "kabinet": 0.7825576933922218,
+        "nationale": 0.7825576933922218,
+        "keuzes": 0.7825576933922218,
+        "richtingen": 0.7825576933922218,
+        "korte": 0.7825576933922218,
+        "lange": 0.7825576933922218,
+        "gebied": 0.7825576933922218,
+        "bijlage zienswijze": 0.7758219602801638,
+        "wethouders": 0.7712809211098972,
+        "bijbehorende bijlage": 0.6135759695746181,
+        "maandag": 0.5750924658591299,
+        "oktober": 0.5750924658591299
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": null,
+    "meeting_id": []
+}

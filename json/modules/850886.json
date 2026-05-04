@@ -1,0 +1,158 @@
+{
+    "module_id": 850886,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230022,
+    "title": "Discriminatie - Raadsvoorstel Beleidsplan Diversiteit & Inclusie 2023-2026.",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/850886",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Toub (Wethouder)",
+    "result": "",
+    "date": "23-05-2023",
+    "meeting_url": {
+        "1096274": "https://raadsinformatie.eindhoven.nl/vergadering/1096274#ai_7535813"
+    },
+    "attachment": null,
+    "parent": 831885,
+    "children": [],
+    "text": "VOORSTEL COLLEGE: AFVOEREN. Zie Raadsinformatiebrief Uitvoeringsprogramma Inclusief Samenleven 2024 (28-03-2024)\nWethouder Toub zegt toe:\n\nIn vervolgonderzoek over discriminatie in de horeca zal ook mensen met een beperking worden meegenomen;",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 850889,
+            "weight": 2.4759848824608213
+        },
+        {
+            "id": 831885,
+            "weight": 1.9481560921087455
+        },
+        {
+            "id": 863706,
+            "weight": 0.9672108597709621
+        },
+        {
+            "id": 1028360,
+            "weight": 0.6149413848123009
+        },
+        {
+            "id": 930556,
+            "weight": 0.6138291301087477
+        },
+        {
+            "id": 941339,
+            "weight": 0.49586119222211067
+        },
+        {
+            "id": 1117525,
+            "weight": 0.4954515439576206
+        },
+        {
+            "id": 850585,
+            "weight": 0.4917204870561849
+        },
+        {
+            "id": 850356,
+            "weight": 0.4662650581600555
+        },
+        {
+            "id": 879558,
+            "weight": 0.4655646019657874
+        },
+        {
+            "id": 1146336,
+            "weight": 0.4315035370993193
+        },
+        {
+            "id": 945682,
+            "weight": 0.2360020723774418
+        },
+        {
+            "id": "a_10040924",
+            "weight": 0.23065890730502778
+        },
+        {
+            "id": 1014962,
+            "weight": 0.22941933726506986
+        },
+        {
+            "id": 891691,
+            "weight": 0.1983766379803326
+        },
+        {
+            "id": 1045954,
+            "weight": 0.19170152509626676
+        },
+        {
+            "id": 1023870,
+            "weight": 0.18199729378285207
+        },
+        {
+            "id": 916559,
+            "weight": 0.18165993210606624
+        },
+        {
+            "id": 804106,
+            "weight": 0.17650342932466956
+        },
+        {
+            "id": 1011191,
+            "weight": 0.17389318593504646
+        },
+        {
+            "id": 954552,
+            "weight": 0.14463672732363175
+        },
+        {
+            "id": 1146676,
+            "weight": 0.1382978222587876
+        },
+        {
+            "id": 859185,
+            "weight": 0.090469641053258
+        },
+        {
+            "id": 1097898,
+            "weight": 0.07384097409442388
+        },
+        {
+            "id": 946531,
+            "weight": 0.0697467290465311
+        }
+    ],
+    "videostarttime": {
+        "1096274": 4535
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_23.05.23_Eindhoven_NC_Meningsvorming.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Beleidsplan": 1.9915246035384193,
+        "Beleidsplan Diversiteit": 1.9915246035384193,
+        "Inclusie 2023-2026": 1.9870057710512152,
+        "VOORSTEL COLLEGE": 0.9473648703701872,
+        "Diversiteit": 1.9234212781392048,
+        "Inclusie": 1.9234212781392048,
+        "Beleidsplan": 1.8902545301975686,
+        "Inclusief Samenleven": 0.8719043377935032,
+        "AFVOEREN": 0.8626603663960901,
+        "2023-2026": 1.832492047635576,
+        "Raadsinformatiebrief Uitvoeringsprogramma": 0.8268816009476677,
+        "Uitvoeringsprogramma Inclusief": 0.8268816009476677,
+        "VOORSTEL": 0.7763860369294957,
+        "COLLEGE": 0.7763860369294957,
+        "Samenleven": 0.7044113163686656,
+        "Wethouder Toub": 0.6833474484375365,
+        "Discriminatie": 1.6820447212230094,
+        "Raadsinformatiebrief": 0.6158501300701098,
+        "Toub zegt": 0.5742351263607377,
+        "Toub": 0.5667541358997921
+    },
+    "svz": null,
+    "afgedaan": "09-04-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

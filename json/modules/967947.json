@@ -1,0 +1,101 @@
+{
+    "module_id": 967947,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Sloopbeleid (Agenderingsverzoek SP, PvdD, LPF en 50PLUS)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/967947",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "27-08-2024",
+    "meeting_url": {
+        "1251077": "https://raadsinformatie.eindhoven.nl/vergadering/1251077#ai_8550131"
+    },
+    "attachment": null,
+    "parent": "ai_8550131",
+    "children": [],
+    "text": "Wethouder Verhees zegt toe een gesprek te initiëren met de Woonbond en de corporaties, over een mogelijk lokaal sociaal statuut.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 15425818,
+            "weight": 1.2474274784898616
+        },
+        {
+            "id": "ai_7854318",
+            "weight": 0.7701496928235663
+        },
+        {
+            "id": 1000404,
+            "weight": 0.7682572546267201
+        },
+        {
+            "id": "ai_8550131",
+            "weight": 0.7644738356305132
+        },
+        {
+            "id": 967945,
+            "weight": 0.749892381816251
+        },
+        {
+            "id": 1136319,
+            "weight": 0.6530732989932375
+        },
+        {
+            "id": 1090192,
+            "weight": 0.4821818881850948
+        },
+        {
+            "id": 1009251,
+            "weight": 0.09970283331989455
+        },
+        {
+            "id": 1082448,
+            "weight": 0.08781234479771517
+        },
+        {
+            "id": 981192,
+            "weight": 0.06708990421808125
+        },
+        {
+            "id": 975793,
+            "weight": 0.06355444982239135
+        },
+        {
+            "id": 933098,
+            "weight": 0.06171711155633803
+        }
+    ],
+    "videostarttime": {
+        "1251077": 2455
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_27.08.24_Eindhoven_meningsvormingCIE.mp4/playlist.m3u8",
+    "keywords": {
+        "Wethouder Verhees": 0.9950748962302097,
+        "Verhees zegt": 0.986202801796007,
+        "sociaal statuut": 0.9846191788281083,
+        "lokaal sociaal": 0.9742913828560066,
+        "Sloopbeleid": 1.9550880231213545,
+        "PvdD": 1.9550880231213545,
+        "Agenderingsverzoek": 1.9429876123096683,
+        "LPF": 1.9429876123096683,
+        "Woonbond": 0.9140368224837344,
+        "corporaties": 0.9043195497355658,
+        "statuut": 0.9043195497355658,
+        "zegt": 0.8416830712200127,
+        "gesprek": 0.8416830712200127,
+        "initiëren": 0.8416830712200127,
+        "lokaal": 0.8416830712200127
+    },
+    "svz": null,
+    "afgedaan": "19-11-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

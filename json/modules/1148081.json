@@ -1,0 +1,167 @@
+{
+    "module_id": 1148081,
+    "vote_id": null,
+    "member_id": [
+        194500
+    ],
+    "party_list": [
+        "FVD"
+    ],
+    "poho_id": [],
+    "title": "Ingekomen raadsvragen Gevolgen PowerNext (FvD)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/4/Raadsvragen/1148081",
+    "type": "Raadsvraag",
+    "member": "Nicolas Knoester",
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "31-03-2026",
+    "meeting_url": null,
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/16774906/1?connection_type=17&connection_id=13162957": "Vraag"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/16774906/1?connection_type=17&connection_id=13162957",
+    "pdf_text": " \n \n \nRaadsvragen - Gevolgen PowerNext  \n \ndatum:  30 maart 2026  \n \n \nGeacht college,  \n \nEerder heeft Forum voor Democratie, samen met andere partijen, \nmiddels een motie verzocht om af te zien van de plaatsing van de \nPowerNEXT -installatie op de Stadhuistoren. Deze motie is helaas \nverworpen.  Naast de eerder geuite zorgen over kosten, erfgoed en  \nruimtelijke kwaliteit, rijzen er nu ook vragen over de gevolgen voor \nbestaande functies en symboliek van de Stadhuistoren, zoals de \nvuurwerkshow en het voeren van vlaggen.  \n \n1. Heeft de plaatsing van de PowerNEXT -installatie gevolgen voor \nde mogelijkheid om vuurwerkshows vanaf de Stadhuistoren te \norganiseren?  \n2. Kan het college garanderen dat de drie vlaggen op de \nStadhuistoren, zoals die nu structureel worden gevoerd, ook na \nplaatsing van de PowerNEXT -installatie kunnen blijven \nwapperen?  \n \nNamens de fractie  Forum voor Democratie,  \n \nNicolas Knoester , raadslid  \n \n",
+    "bst": "",
+    "related": [
+        {
+            "id": 793203,
+            "weight": 1.9162441460674553
+        },
+        {
+            "id": 1120981,
+            "weight": 0.5739733574476502
+        },
+        {
+            "id": 1101955,
+            "weight": 0.4701528576406988
+        },
+        {
+            "id": 1015055,
+            "weight": 0.38484026525716314
+        },
+        {
+            "id": 1125029,
+            "weight": 0.3784129541932072
+        },
+        {
+            "id": "a_8569517",
+            "weight": 0.2395328869737111
+        },
+        {
+            "id": 1037226,
+            "weight": 0.19449044179181635
+        },
+        {
+            "id": 1103181,
+            "weight": 0.18820612037006035
+        },
+        {
+            "id": 999828,
+            "weight": 0.18810132167663313
+        },
+        {
+            "id": 1148165,
+            "weight": 0.18636810953684912
+        },
+        {
+            "id": 14295465,
+            "weight": 0.15990722095879445
+        },
+        {
+            "id": 1085541,
+            "weight": 0.1551332570723914
+        },
+        {
+            "id": 1146887,
+            "weight": 0.15441734387441122
+        },
+        {
+            "id": 1078520,
+            "weight": 0.14931046768499975
+        },
+        {
+            "id": 1085070,
+            "weight": 0.13513716935388118
+        },
+        {
+            "id": 777622,
+            "weight": 0.13184949025405493
+        },
+        {
+            "id": 1037784,
+            "weight": 0.10504837693972915
+        },
+        {
+            "id": 1061167,
+            "weight": 0.07743476176331926
+        },
+        {
+            "id": 781545,
+            "weight": 0.06686761531607438
+        },
+        {
+            "id": 949827,
+            "weight": 0.06379755278845736
+        },
+        {
+            "id": 1114088,
+            "weight": 0.056786778875472455
+        },
+        {
+            "id": 883343,
+            "weight": 0.055074048412747705
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Ingekomen raadsvragen": 1.9880755822246863,
+        "raadsvragen Gevolgen": 1.9829696919324802,
+        "Geacht college": 0.9760237036768379,
+        "Gevolgen PowerNext": 1.9631818957081522,
+        "motie verzocht": 0.9597645967878292,
+        "Stadhuistoren": 0.957575244520245,
+        "PowerNext datum": 0.949287052588974,
+        "Gevolgen": 1.9463238161208434,
+        "Geacht": 0.9397111191475781,
+        "installatie gevolgen": 0.9267959849188829,
+        "Democratie": 0.9011323396803825,
+        "plaatsing": 0.8941015179446744,
+        "Forum": 0.8866414502729423,
+        "motie": 0.8844089921314751,
+        "Nicolas Knoester": 0.8752182382730986,
+        "FvD": 1.8647291378797477,
+        "maart": 0.8647291378797477,
+        "Ingekomen": 1.848907773096862,
+        "datum": 0.8489077730968619,
+        "samen": 0.8489077730968619,
+        "partijen": 0.8489077730968619,
+        "middels": 0.8489077730968619,
+        "fractie Forum": 0.8395075161254504,
+        "zien": 0.8326896986847978,
+        "helaas verworpen": 0.8137436053529927,
+        "college": 0.8058108430788222,
+        "vlaggen": 0.781184651536798,
+        "college garanderen": 0.7045906346392146,
+        "ruimtelijke kwaliteit": 0.6861330201574127,
+        "Nicolas": 0.6669254700892773,
+        "Knoester": 0.6669254700892773,
+        "geuite zorgen": 0.6592343237064899,
+        "bestaande functies": 0.6592343237064899,
+        "helaas": 0.588985546935599,
+        "vuurwerkshow": 0.5841920059541756,
+        "erfgoed": 0.5261479648967897,
+        "kwaliteit": 0.5261479648967897,
+        "rijzen": 0.5261479648967897,
+        "blijven wapperen": 0.5133519937614178
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194500,
+    "lastScrapeDate": "08-04-2026",
+    "meeting_id": []
+}

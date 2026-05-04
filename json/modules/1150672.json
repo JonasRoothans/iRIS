@@ -1,0 +1,120 @@
+{
+    "module_id": 1150672,
+    "vote_id": null,
+    "member_id": [
+        194495
+    ],
+    "party_list": [
+        "Partij voor de Dieren"
+    ],
+    "poho_id": [],
+    "title": "Ingekomen raadsvragen - Support de rolstoeltoegankelijkheid (PvdD)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/4/Raadsvragen/1150672",
+    "type": "Raadsvraag",
+    "member": "Virginia Jonkers",
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "08-04-2026",
+    "meeting_url": null,
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/16800435/1?connection_type=17&connection_id=13192835": "Vraag"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": null,
+    "pdf_text": "  \n   \n  \nRaadsvragen  - Support de rolstoeltoegankelijkheid    \n \n \ndatum:  04-04-2026  \n  \n  \nGeacht e college,   \n  \n  \nInleiding   \nOp donderdag 19 maart presenteer de PSV haar voorkeursvariant om \nhet stadion uit te breiden. Het doel is om voor 2030 een grote uitbreiding \nafgerond te hebben met meer dan 50.000 plekken.  \n \nAl jarenlang bestaan er klachten van rolstoelgebruikers over de hen \ntoegewezen plaatsen. Deze bevinden zich bij de thuiswedstrijden van \nPSV nu op de onderste rijen van de Zuid -tribune en de West -tribune. \nDeze plaatsen zijn dicht bij het veld, waardoor er juist geen goed zicht is. \nBovendien worden deze supporters nat vanwege de regen en/of de \nhoeveelheid bier die wordt gegooid. Daarnaast  wordt hun zicht vaak \nbelemmerd door mensen die voor hen gaan staan.  \nDeze supporters geven onder andere de voorkeur aan een verhoogde \ntribune , zodat zij voldoende  van de wedstrijd  kunnen zien en eventueel \n(enigszins) droog kunnen blijven.  \n \nEerder is aangegeven dat PSV hier naar zou kijken1, nu met de \nuitbreiding van het nieuwe stadion biedt het een mooie gelegenheid om \ndit in de plannen mee te nemen.  \n \nRaadsvragen:   \n  \n1. Wordt in de nieuwe voorkeursvariant rekening gehouden met \nrolstoelgebruikers?  Zoja op welke manier?  \n \n1 ‘Ik zie alleen maar konten’: rolstoeler en PSV -fan Gina Makken baalt \nvan plek in het stadion | Eindhoven | ED.nl  \n2. Bent u het met ons eens dat de verbouw van het stadion \ndaarvoor een uitgelezen kans is?  \n3. Bent u bereid om hierover in gesprek te gaan met PSV en \neventueel Eindhoven Toegankelijk ? En de wensen van de \nsupporters hierin mee te nemen?  \n  \nNamens de fractie(s),   \n  \nVirginia Jonkers , Partij voor de Dieren Eindhoven  \n  \n ",
+    "bst": "",
+    "related": [
+        {
+            "id": 833997,
+            "weight": 1.2361666045513084
+        },
+        {
+            "id": 1123928,
+            "weight": 0.599173865383204
+        },
+        {
+            "id": 950222,
+            "weight": 0.5281035951755474
+        },
+        {
+            "id": 1144514,
+            "weight": 0.2992286695458366
+        },
+        {
+            "id": 1020852,
+            "weight": 0.13988364701961867
+        },
+        {
+            "id": 814698,
+            "weight": 0.11844700130798869
+        },
+        {
+            "id": 1037362,
+            "weight": 0.09960707209586414
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "rolstoeltoegankelijkheid datum": 0.9839888339709336,
+        "Support": 1.9786498703705568,
+        "maart presenteer": 0.9739805485494095,
+        "Ingekomen raadsvragen": 1.9525515734650538,
+        "PSV": 0.9489470710774541,
+        "Geacht": 0.9399636189623969,
+        "Inleiding": 0.9399636189623969,
+        "stadion": 0.8975745640265518,
+        "Eindhoven": 0.8901081490176173,
+        "PvdD": 1.8590920738546473,
+        "tribune": 0.8575385118212429,
+        "Ingekomen": 1.8468608103020205,
+        "datum": 0.8468608103020205,
+        "college": 0.8468608103020205,
+        "donderdag": 0.8468608103020205,
+        "maart": 0.8468608103020205,
+        "breiden": 0.8468608103020205,
+        "Eindhoven Toegankelijk": 0.841824438254077,
+        "eventueel Eindhoven": 0.7909282449500245,
+        "plaatsen": 0.7886317848601887,
+        "Gina Makken": 0.7873934608617552,
+        "Virginia Jonkers": 0.7871992072544585,
+        "grote uitbreiding": 0.7639704329925252,
+        "uitbreiding afgerond": 0.7639704329925252,
+        "voorkeursvariant": 0.7605138827996875,
+        "zicht": 0.7605138827996875,
+        "rolstoelgebruikers": 0.7514501027720841,
+        "eventueel": 0.737743325330429,
+        "mee": 0.735947999281523,
+        "nieuwe": 0.733321565764617,
+        "toegewezen plaatsen": 0.7312629885617414,
+        "gaan": 0.7290662232818452,
+        "nieuwe stadion": 0.7203812418242034,
+        "Zuid": 0.716297008237157,
+        "West": 0.716297008237157,
+        "jarenlang bestaan": 0.6647848402355454,
+        "supporters nat": 0.645603152913892,
+        "plekken": 0.6370843938346971,
+        "verhoogde tribune": 0.6253622670081639,
+        "fan Gina": 0.6204900492299024,
+        "stadion daarvoor": 0.6116517113306545,
+        "goed zicht": 0.6114909168190698,
+        "Makken baalt": 0.603836464520162,
+        "doel": 0.5919690820068908,
+        "grote": 0.5919690820068908,
+        "afgerond": 0.5919690820068908,
+        "Gina": 0.5812755160093765,
+        "Virginia": 0.581117820404017,
+        "Jonkers": 0.581117820404017,
+        "Partij": 0.581117820404017,
+        "Dieren": 0.5657811541797972,
+        "onderste rijen": 0.5624298256566882
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194495,
+    "lastScrapeDate": "08-04-2026",
+    "meeting_id": []
+}

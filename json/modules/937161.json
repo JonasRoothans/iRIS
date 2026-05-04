@@ -1,0 +1,108 @@
+{
+    "module_id": 937161,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Uitzoeken sloopvergunning - Agenderingsverzoek VVD Raadsinformatiebrief Jaarrapportage woningbouwproductie 2023 en doorkijk 2024 - 2027",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/937161",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "16-04-2024",
+    "meeting_url": {
+        "1147925": "https://raadsinformatie.eindhoven.nl/vergadering/1147925#ai_8329710"
+    },
+    "attachment": null,
+    "parent": 924333,
+    "children": [],
+    "text": "Wethouder Verhees zegt toe  uit te zoeken of het mogelijk is pas een sloopvergunning af te geven als een plan onherroepelijk is geworden.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 937159,
+            "weight": 5.459037157715436
+        },
+        {
+            "id": 924333,
+            "weight": 2.7716094485338507
+        },
+        {
+            "id": 879558,
+            "weight": 2.6158824717909694
+        },
+        {
+            "id": 1025528,
+            "weight": 2.02438085345952
+        },
+        {
+            "id": 1150885,
+            "weight": 1.322855554142316
+        },
+        {
+            "id": 15306707,
+            "weight": 0.7414223434960937
+        },
+        {
+            "id": 1030768,
+            "weight": 0.7333289896418551
+        },
+        {
+            "id": 1027145,
+            "weight": 0.6235170293456413
+        },
+        {
+            "id": 937101,
+            "weight": 0.29071488279233837
+        },
+        {
+            "id": 999862,
+            "weight": 0.2471291641628423
+        },
+        {
+            "id": 1060207,
+            "weight": 0.24451604143270575
+        },
+        {
+            "id": 1139088,
+            "weight": 0.22778764163449508
+        },
+        {
+            "id": 935238,
+            "weight": 0.20587533963952592
+        },
+        {
+            "id": 930770,
+            "weight": 0.17833928545960434
+        }
+    ],
+    "videostarttime": {
+        "1147925": 12958
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_16.04.24_NC_EINDHOVEN_Meningsvorming_RAA.mp4/playlist.m3u8",
+    "keywords": {
+        "Agenderingsverzoek VVD": 1.9944628874809336,
+        "Wethouder Verhees": 0.9944628874809335,
+        "VVD Raadsinformatiebrief": 1.9917104114097657,
+        "Raadsinformatiebrief Jaarrapportage": 1.9917104114097657,
+        "Jaarrapportage woningbouwproductie": 1.9902364022988395,
+        "Verhees zegt": 0.9838708471774884,
+        "Uitzoeken sloopvergunning": 1.972661153367299,
+        "plan onherroepelijk": 0.9683848454160142,
+        "VVD": 1.9093278638943105,
+        "Jaarrapportage": 1.9093278638943105,
+        "Uitzoeken": 1.893360937333929,
+        "doorkijk": 1.893360937333929,
+        "zegt": 0.8249392446001187,
+        "plan": 0.8249392446001187
+    },
+    "svz": "Het is mogelijk om aan een sloopvergunning voorwaarden te verbinden, zoals dat niet eerder mag worden gesloopt...  Lees verder ",
+    "afgedaan": "14-05-2024",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

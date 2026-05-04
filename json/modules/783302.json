@@ -1,0 +1,124 @@
+{
+    "module_id": 783302,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 231116,
+    "title": "Agenda BO politieregio Oost-Brabant - Raadsvoorstel Regionaal Veiligheidsplan 2023-2026",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/783302",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "J. Dijsselbloem (Burgemeester)",
+    "result": "",
+    "date": "27-09-2022",
+    "meeting_url": {
+        "1018979": "https://raadsinformatie.eindhoven.nl/vergadering/1018979#ai_7011677"
+    },
+    "attachment": null,
+    "parent": 778194,
+    "children": [],
+    "text": "De burgemeester doet de volgende toezegging:\nHij zet de risico’s van de inzet van digitale hulpmiddelen (zoals data, bronnen, technologie) op de agenda van het bestuurlijk overleg politieregio Oost-Brabant. De terugkoppeling volgt via de jaarlijkse verslaglegging over het Regionaal Veiligheidsplan.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 783304,
+            "weight": 3.955482348806582
+        },
+        {
+            "id": 778194,
+            "weight": 1.9892080858188375
+        },
+        {
+            "id": 866427,
+            "weight": 1.0778336637819894
+        },
+        {
+            "id": 1125838,
+            "weight": 0.656020014232417
+        },
+        {
+            "id": "a_7092416",
+            "weight": 0.32409435146201665
+        },
+        {
+            "id": 1125656,
+            "weight": 0.29935390747691537
+        },
+        {
+            "id": 905855,
+            "weight": 0.2914033392258038
+        },
+        {
+            "id": 863931,
+            "weight": 0.07897519366547076
+        },
+        {
+            "id": 853720,
+            "weight": 0.06748283777336996
+        },
+        {
+            "id": 776928,
+            "weight": 0.055616028326474956
+        },
+        {
+            "id": 877119,
+            "weight": 0.05109531467969167
+        },
+        {
+            "id": 865501,
+            "weight": 0.048159961801278045
+        },
+        {
+            "id": 12077315,
+            "weight": 0.04807087133941972
+        },
+        {
+            "id": 16142060,
+            "weight": 0.04738059320575131
+        },
+        {
+            "id": 12503815,
+            "weight": 0.04410396019599528
+        }
+    ],
+    "videostarttime": {
+        "1018979": 650
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_27.09.22_NC_Eindhoven_meningRZ.mp4/playlist.m3u8",
+    "keywords": {
+        "Raadsvoorstel Regionaal": 1.9913040922974266,
+        "Regionaal Veiligheidsplan": 1.9875144904863917,
+        "politieregio Oost-Brabant": 1.9867787122534106,
+        "volgende toezegging": 0.9838857112212684,
+        "Veiligheidsplan 2023-2026": 1.9777279988179928,
+        "Oost-Brabant": 1.933438218857766,
+        "overleg politieregio": 0.9250335705141546,
+        "Regionaal": 1.9219572895534465,
+        "Agenda": 1.887495520549976,
+        "digitale hulpmiddelen": 0.8751264062798529,
+        "2023-2026": 1.8604176727549562,
+        "burgemeester": 0.8604176727549562,
+        "volgende": 0.8604176727549562,
+        "bestuurlijk overleg": 0.8507438018412941,
+        "bronnen": 0.7458035037782702,
+        "technologie": 0.7458035037782702,
+        "terugkoppeling volgt": 0.7449304255624318,
+        "volgt via": 0.7449304255624318,
+        "jaarlijkse verslaglegging": 0.7449304255624318,
+        "data": 0.6919585717943757,
+        "zet": 0.6396224236218462,
+        "risico": 0.6396224236218462,
+        "digitale": 0.6396224236218462,
+        "overleg": 0.6396224236218462,
+        "via": 0.5491880413163652,
+        "jaarlijkse": 0.5491880413163652
+    },
+    "svz": null,
+    "afgedaan": "12-09-2023",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

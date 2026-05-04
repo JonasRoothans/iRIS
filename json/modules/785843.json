@@ -1,0 +1,68 @@
+{
+    "module_id": 785843,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230013,
+    "title": "Toezegging naar aanleiding van de afsprakenlijst",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/785843",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "S. Steenbakkers (Wethouder)",
+    "result": "",
+    "date": "06-09-2022",
+    "meeting_url": {
+        "1013073": "https://raadsinformatie.eindhoven.nl/vergadering/1013073#ai_6962201"
+    },
+    "attachment": null,
+    "parent": "ai_6962201",
+    "children": [],
+    "text": "Wethouder Steenbakkers zegt n.a.v. afspraak 28770 (die inmiddels is teruggeplaatst op de afsprakenlijst red. griffie) toe:\n\ndat zal worden gecheckt of er verder geen afspraken van de lijst zijn verdwenen.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 896860,
+            "weight": 0.09860672748841777
+        },
+        {
+            "id": 877363,
+            "weight": 0.09533467429649019
+        },
+        {
+            "id": 836274,
+            "weight": 0.08955846768609523
+        },
+        {
+            "id": 1139142,
+            "weight": 0.08686492032429101
+        }
+    ],
+    "videostarttime": {
+        "1013073": 818
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/06.09.22 Eindhoven meningsvorming ruw.mp4/playlist.m3u8",
+    "keywords": {
+        "Wethouder Steenbakkers": 0.9932669132263755,
+        "Steenbakkers zegt": 0.9903712857345581,
+        "afsprakenlijst Wethouder": 0.9870653702730536,
+        "afspraak": 0.9308771191422489,
+        "Wethouder": 0.9182194673807273,
+        "Toezegging": 1.8833843947121394,
+        "zegt": 0.8833843947121394,
+        "red": 0.8833843947121394,
+        "aanleiding": 1.8290047675385592,
+        "teruggeplaatst": 0.8290047675385592,
+        "griffie": 0.7949790937037393,
+        "verdwenen": 0.6856455681042661,
+        "gecheckt": 0.5826235305644494,
+        "lijst": 1.5826235305644494
+    },
+    "svz": null,
+    "afgedaan": "22-11-2022",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

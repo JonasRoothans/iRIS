@@ -1,0 +1,160 @@
+{
+    "module_id": 779752,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Rondvraag CDA Hoe maken we hospiteren mogelijk en makkelijker",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/779752",
+    "type": "Toezegging",
+    "member": "",
+    "party": null,
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "06-09-2022",
+    "meeting_url": {
+        "1013073": "https://raadsinformatie.eindhoven.nl/vergadering/1013073#ai_6962205"
+    },
+    "attachment": null,
+    "parent": "ai_6962205",
+    "children": [],
+    "text": "Met de corporaties in gesprek te gaan over de uitvoering van de hospitaregeling, omdat zij bekijken welke woningen wel en niet geschikt zijn hiervoor. Ook vraagt ze de corporaties dat als er een goede match is gevonden of de 6 maanden termijn verlengd kan worden.\nZe koppelt de reactie van de corporaties daarna terug aan de raad.",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 11803221,
+            "weight": 1.9599050141189236
+        },
+        {
+            "id": "ai_6962205",
+            "weight": 0.5749989292317015
+        },
+        {
+            "id": 873713,
+            "weight": 0.35248336376579803
+        },
+        {
+            "id": 883780,
+            "weight": 0.2511848462446524
+        },
+        {
+            "id": 1139114,
+            "weight": 0.23070099460163138
+        },
+        {
+            "id": 775238,
+            "weight": 0.1660835657891904
+        },
+        {
+            "id": 791798,
+            "weight": 0.1615314964446634
+        },
+        {
+            "id": 787214,
+            "weight": 0.16065620860909002
+        },
+        {
+            "id": 787218,
+            "weight": 0.15206377714024447
+        },
+        {
+            "id": 801960,
+            "weight": 0.1181552221992389
+        },
+        {
+            "id": 863856,
+            "weight": 0.08145841725609096
+        },
+        {
+            "id": 1051373,
+            "weight": 0.0774764275063845
+        },
+        {
+            "id": 835268,
+            "weight": 0.07540785943361974
+        },
+        {
+            "id": 956676,
+            "weight": 0.07477482690839744
+        },
+        {
+            "id": 777650,
+            "weight": 0.07245262834698765
+        },
+        {
+            "id": 781179,
+            "weight": 0.06655262072881306
+        },
+        {
+            "id": 861380,
+            "weight": 0.06593712305155713
+        },
+        {
+            "id": "a_9829606",
+            "weight": 0.0657377338791603
+        },
+        {
+            "id": 787413,
+            "weight": 0.06497230363979567
+        },
+        {
+            "id": 974079,
+            "weight": 0.06229515926698559
+        },
+        {
+            "id": 1045149,
+            "weight": 0.06127957250488114
+        },
+        {
+            "id": 951266,
+            "weight": 0.059811254230216264
+        },
+        {
+            "id": 959877,
+            "weight": 0.05879140954276861
+        },
+        {
+            "id": 862818,
+            "weight": 0.0550217027991044
+        }
+    ],
+    "videostarttime": {
+        "1013073": 1521
+    },
+    "videolink": "https://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/06.09.22 Eindhoven meningsvorming ruw.mp4/playlist.m3u8",
+    "keywords": {
+        "Rondvraag CDA": 1.993544796146415,
+        "CDA": 1.939016621438846,
+        "corporaties": 0.9350728155979025,
+        "hospitaregeling": 0.8948270560105601,
+        "hiervoor": 0.8948270560105601,
+        "maanden termijn": 0.892416335919581,
+        "goede match": 0.8735144417647756,
+        "termijn verlengd": 0.8735144417647756,
+        "maken": 1.8732829927707266,
+        "makkelijker": 1.8732829927707266,
+        "gesprek": 0.8732829927707266,
+        "gaan": 0.8732829927707266,
+        "uitvoering": 0.8732829927707266,
+        "bekijken": 0.8732829927707266,
+        "woningen": 0.8732829927707266,
+        "geschikt": 0.8732829927707266,
+        "vraagt": 0.6649129402699101,
+        "goede": 0.6649129402699101,
+        "match": 0.6649129402699101,
+        "gevonden": 0.6649129402699101,
+        "termijn": 0.6649129402699101,
+        "verlengd": 0.6649129402699101,
+        "raad": 0.6270663007458654,
+        "koppelt": 0.5766242094986026,
+        "reactie": 0.5766242094986026,
+        "terug": 0.5766242094986026
+    },
+    "svz": null,
+    "afgedaan": "13-12-2022",
+    "eersteIndiener": null,
+    "lastScrapeDate": "18-08-2025",
+    "meeting_id": []
+}

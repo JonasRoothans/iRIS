@@ -1,0 +1,104 @@
+{
+    "module_id": 877726,
+    "vote_id": null,
+    "member_id": [
+        194500
+    ],
+    "party_list": [
+        "FVD"
+    ],
+    "poho_id": [],
+    "title": "Beantwoording raadsvragen Geen herinrichting voor de Dommelstraat (FvD)",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/4/Raadsvragen/877726",
+    "type": "Raadsvraag",
+    "member": "Nicolas Knoester",
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "19-09-2023",
+    "meeting_url": null,
+    "attachment": {
+        "https://raadsinformatie.eindhoven.nl/document/13171286/1?connection_type=17&connection_id=9760283": "Vraag",
+        "https://raadsinformatie.eindhoven.nl/document/13271690/2?connection_type=17&connection_id=9810196": "Antwoord"
+    },
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/13171286/1?connection_type=17&connection_id=9760283",
+    "pdf_text": " \n \n \nRaadsvragen van de fractie : Forum voor Democratie  \n \n \nGeen herinrichting voor de Dommelstraat  \n \ndatum:  18 september 2023  \n \n \nGeacht college,  \n \nRecent sprak ik met diverse betrokkenen en ondernemers in de \nDommelstraat. Zij hebben hun zorgen geuit over het feit dat de \nDommelstraat geen herinrichting krijgt net als de rest van de binnenstad. \nFVD deelt hun zorgen en stelt daarom de volgende vragen:  \n \n1. Wat is de reden dat het college geen plannen heeft voor een \nherinrichting van de Dommelstraat?  \n2. Deelt h et college de mening van F vD dat de Dommelstraat ook een \nherinrichting verdient, net als de rest van de binnenstad?  \n3. Is het college bereid om met de ondernemers en bewoners van de \nDommelstraat in gesprek te gaan over een eventuele herinrichting?  \n \nNamens de fractie , \nForum voor Democratie  \n \nNicolas Knoester, raadslid  \n \n",
+    "bst": "23bst01375",
+    "related": [
+        {
+            "id": 1125036,
+            "weight": 0.6121794786996902
+        },
+        {
+            "id": 831302,
+            "weight": 0.503280852203548
+        },
+        {
+            "id": 1055420,
+            "weight": 0.28760168356985105
+        },
+        {
+            "id": 975323,
+            "weight": 0.2284944210164947
+        },
+        {
+            "id": 920381,
+            "weight": 0.20856789786774554
+        },
+        {
+            "id": 15118159,
+            "weight": 0.14935641930911608
+        },
+        {
+            "id": 1036323,
+            "weight": 0.1382435409493548
+        },
+        {
+            "id": 972408,
+            "weight": 0.08126564587000541
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Recent sprak": 0.9876131067287898,
+        "Beantwoording raadsvragen": 1.985059025399886,
+        "Dommelstraat": 1.9772586449522989,
+        "Geacht college": 0.9747132479383481,
+        "diverse betrokkenen": 0.9615812299632165,
+        "raadsvragen": 1.958203725871427,
+        "herinrichting": 1.9490247755016203,
+        "Geacht": 0.9363892643784927,
+        "Recent": 0.9363892643784927,
+        "FVD deelt": 0.9272570686093905,
+        "college": 0.9030702047872294,
+        "FvD": 1.900711948773964,
+        "Democratie Nicolas": 0.8936726843828522,
+        "Forum": 0.8869245870427251,
+        "Nicolas Knoester": 0.8407187250524112,
+        "september": 0.8398728892147571,
+        "datum": 0.8238954500106873,
+        "zorgen": 0.8179355464344019,
+        "binnenstad": 0.8113016043963459,
+        "sprak": 0.8076529793755727,
+        "diverse": 0.8076529793755727,
+        "zorgen geuit": 0.802626388911017,
+        "fractie": 0.8007105083477323,
+        "rest": 0.7984395229807062,
+        "ondernemers": 0.7739650514232601,
+        "college bereid": 0.6633475238155716,
+        "Knoester": 0.6375107840771225,
+        "Nicolas": 0.6209636935244924,
+        "volgende vragen": 0.6034354872704594,
+        "geuit": 0.54730651249283,
+        "krijgt": 0.54730651249283
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": 194500,
+    "lastScrapeDate": "02-04-2026",
+    "meeting_id": []
+}

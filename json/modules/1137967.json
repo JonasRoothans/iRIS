@@ -1,0 +1,104 @@
+{
+    "module_id": 1137967,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": 230023,
+    "title": "Aanbevelingen 1 t/m 4 - Rekenkamerrapport - Van risico naar Regie - slimmer sturen op algoritmen en AI",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/6/Moties%20en%20toezeggingen/1137967",
+    "type": "Toezegging",
+    "member": "",
+    "party": "",
+    "poho": "M. Verhees (Wethouder)",
+    "result": "",
+    "date": "24-02-2026",
+    "meeting_url": {
+        "1374921": "https://raadsinformatie.eindhoven.nl/vergadering/1374921#ai_10009613"
+    },
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": "Wethouder Verhees neemt de aanbevelingen van de Rekenkamer ter harte en zegt toe wat betreft de aanbevelingen 1 t/m 4 aan het college, de raad in Q2 2026 te informeren over het plan van aanpak. Daarbij worden meegenomen:\n\nAI governance;\nafwegingskader algoritmen;\nopenbaar algoritmeregister;\ndoelmatigheid",
+    "pdf_url": null,
+    "pdf_text": null,
+    "bst": null,
+    "related": [
+        {
+            "id": 1137969,
+            "weight": 2.1880376376747637
+        },
+        {
+            "id": 1140925,
+            "weight": 0.9791345880234477
+        },
+        {
+            "id": 1118032,
+            "weight": 0.7905833092063074
+        },
+        {
+            "id": 867120,
+            "weight": 0.6087312342856133
+        },
+        {
+            "id": 874978,
+            "weight": 0.3763953210124998
+        },
+        {
+            "id": 803379,
+            "weight": 0.23589799724212512
+        },
+        {
+            "id": 1121895,
+            "weight": 0.22558933936243794
+        },
+        {
+            "id": 1029731,
+            "weight": 0.1685360451667748
+        },
+        {
+            "id": 1117271,
+            "weight": 0.1576173043324107
+        },
+        {
+            "id": 956636,
+            "weight": 0.15308746671395573
+        }
+    ],
+    "videostarttime": {
+        "1374921": 671
+    },
+    "videolink": null,
+    "keywords": {
+        "Wethouder Verhees": 0.9945208084557369,
+        "Verhees neemt": 0.9884370073551765,
+        "slimmer sturen": 1.9822107713261743,
+        "Rekenkamerrapport": 1.9581822062130052,
+        "Aanbevelingen": 1.9510085044582808,
+        "Regie": 1.9424153928641479,
+        "afwegingskader algoritmen": 0.9058774674653358,
+        "openbaar algoritmeregister": 0.8963405180362746,
+        "slimmer": 1.887126069454518,
+        "college": 0.8871260694545179,
+        "aanpak": 0.8871260694545179,
+        "algoritmen": 1.859650561732534,
+        "risico": 1.8451519933971596,
+        "sturen": 1.8451519933971596,
+        "neemt": 0.8451519933971597,
+        "harte": 0.8451519933971597,
+        "zegt": 0.8451519933971597,
+        "betreft": 0.8451519933971597,
+        "raad": 0.8451519933971597,
+        "informeren": 0.8451519933971597,
+        "plan": 0.8451519933971597,
+        "doelmatigheid": 0.7795361025549812,
+        "Daarbij": 0.6935307061610693,
+        "meegenomen": 0.6935307061610693,
+        "governance": 0.6935307061610693,
+        "openbaar": 0.6935307061610693
+    },
+    "svz": "",
+    "afgedaan": "",
+    "eersteIndiener": null,
+    "lastScrapeDate": "08-04-2026",
+    "meeting_id": []
+}
