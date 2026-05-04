@@ -97,6 +97,7 @@ def update_vote_per_member(driver, url,fromDate):
         soup = web.visitPageWithDriver(driver,url)
     except:
         print(f'could not load {url}')
+        return
 
     if soup is None:
         print(f'could not load {url}')
