@@ -11,10 +11,9 @@
     "party": null,
     "poho": "S. Steenbakkers (Wethouder)",
     "result": "aangenomen",
-    "date": "02-09-2025",
+    "date": "09-09-2025",
     "meeting_url": {
-        "1256323": "https://raadsinformatie.eindhoven.nl/vergadering/1256323#ai_9545763",
-        "1256638": "https://raadsinformatie.eindhoven.nl/vergadering/1256638#ai_9545760"
+        "1256323": "https://raadsinformatie.eindhoven.nl/vergadering/1256323/Raadsvoorstel%20Geschikt%20maken%20onderwijslocatie%20Jacob%20Oppenheimstraat%201 09-09-2025#voting_9560951"
     },
     "attachment": {
         "https://raadsinformatie.eindhoven.nl/document/15756517/1/7962333_02+Raadsvoorstel+Geschikt+maken+onderwijslocatie+Jacob+Oppenheimstraat+1?connection_type=17&connection_id=12078479": "Raadsvoorstel Geschikt maken onderwijslocatie Jacob Oppenheimstraat 1",
@@ -75,10 +74,6 @@
             "weight": 0.22998240852390295
         },
         {
-            "id": 791378,
-            "weight": 0.22783110552610128
-        },
-        {
             "id": 924241,
             "weight": 0.20770793723714207
         },
@@ -99,6 +94,10 @@
             "weight": 0.1881194133928694
         },
         {
+            "id": 791378,
+            "weight": 0.15188740368406753
+        },
+        {
             "id": 853737,
             "weight": 0.14843580080937474
         },
@@ -113,6 +112,10 @@
         {
             "id": 982995,
             "weight": 0.14258158638329677
+        },
+        {
+            "id": 1153214,
+            "weight": 0.13735656824192055
         },
         {
             "id": 883374,

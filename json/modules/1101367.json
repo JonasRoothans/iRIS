@@ -13,8 +13,7 @@
     "result": "aangenomen",
     "date": "20-01-2026",
     "meeting_url": {
-        "1374857": "https://raadsinformatie.eindhoven.nl/vergadering/1374857#ai_9794278",
-        "1374826": "https://raadsinformatie.eindhoven.nl/vergadering/1374826#ai_9870735"
+        "1374857": "https://raadsinformatie.eindhoven.nl/vergadering/1374857/Raadsvoorstel%20Grondexploitatie%20Picustoren 20-01-2026#voting_398301"
     },
     "attachment": {
         "https://raadsinformatie.eindhoven.nl/document/16214948/1/8068807_02+Raadsvoorstel+Grondexploitatie+Picustoren?connection_type=17&connection_id=12576541": "Raadsvoorstel Grondexploitatie Picustoren",
@@ -142,20 +141,12 @@
             "weight": 0.1139699889312177
         },
         {
-            "id": 982976,
-            "weight": 0.10973837992846655
-        },
-        {
             "id": "r_7006025",
             "weight": 0.10850167621476202
         },
         {
             "id": 956574,
             "weight": 0.10716169163078998
-        },
-        {
-            "id": 1034706,
-            "weight": 0.1044752933687411
         },
         {
             "id": 833258,
@@ -166,16 +157,8 @@
             "weight": 0.10273648688983082
         },
         {
-            "id": 938200,
-            "weight": 0.10214503105031189
-        },
-        {
             "id": 937933,
             "weight": 0.10178305628979334
-        },
-        {
-            "id": 836589,
-            "weight": 0.10123662423508081
         },
         {
             "id": "a_9608742",
@@ -194,12 +177,24 @@
             "weight": 0.09328404670176152
         },
         {
+            "id": 982976,
+            "weight": 0.0914486499403888
+        },
+        {
             "id": 1062590,
             "weight": 0.09138301142007936
         },
         {
             "id": 797364,
             "weight": 0.08726005095543389
+        },
+        {
+            "id": 1034706,
+            "weight": 0.08706274447395092
+        },
+        {
+            "id": 1153868,
+            "weight": 0.08696614753158627
         },
         {
             "id": 1071707,
@@ -212,6 +207,14 @@
         {
             "id": 1133489,
             "weight": 0.08581057074797287
+        },
+        {
+            "id": 938200,
+            "weight": 0.08512085920859325
+        },
+        {
+            "id": 836589,
+            "weight": 0.08436385352923402
         },
         {
             "id": 950549,
@@ -408,7 +411,7 @@
     "svz": null,
     "afgedaan": null,
     "eersteIndiener": null,
-    "lastScrapeDate": "10-04-2026",
+    "lastScrapeDate": "04-05-2026",
     "meeting_id": [
         1374857
     ]

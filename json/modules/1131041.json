@@ -14,16 +14,17 @@
         194495
     ],
     "party_list": [
-        "Eindhoven voor Elkaar",
-        "Partij voor de Dieren",
-        "D66",
-        "Volt",
-        "PvdA",
-        "VVD",
-        "GroenLinks",
         "LPF ",
+        "Eindhoven voor Elkaar",
+        "Volt",
+        "50PLUS",
+        "GroenLinks",
+        "PvdA",
+        "PRO",
+        "D66",
+        "VVD",
         "SP",
-        "50PLUS"
+        "Partij voor de Dieren"
     ],
     "poho_id": [],
     "title": "Beantwoording raadsvragen - Van hoge nood tot plasrecht Openbare toegankelijke toiletten tijdens Carnaval (PvdA, GL, 50PLUS, SP, Volt, D66, LPF, EVE, VVD, PvdD))",
@@ -486,6 +487,6 @@
     "svz": null,
     "afgedaan": null,
     "eersteIndiener": 194508,
-    "lastScrapeDate": "08-04-2026",
+    "lastScrapeDate": "04-05-2026",
     "meeting_id": []
 }

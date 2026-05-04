@@ -10,12 +10,12 @@
         194514
     ],
     "party_list": [
-        "Partij voor de Dieren",
         "Volt",
-        "PvdA",
-        " Ouderen Appèl - Hart voor Eindhoven",
         "GroenLinks",
-        "FVD"
+        "PvdA",
+        "FVD",
+        "Partij voor de Dieren",
+        " Ouderen Appèl - Hart voor Eindhoven"
     ],
     "poho_id": [],
     "title": "Aangekondigd amendement A2 Wielewaal focus op educatie (PvdD, OAHvE)",
@@ -39,7 +39,7 @@
     "related": [
         {
             "id": "a_7038460",
-            "weight": 0.8707211551958696
+            "weight": 0.8563699470592725
         },
         {
             "id": 771653,
@@ -51,11 +51,11 @@
         },
         {
             "id": "a_7037808",
-            "weight": 0.3930024846596382
+            "weight": 0.3784664661496659
         },
         {
             "id": "a_7037805",
-            "weight": 0.3909395897452285
+            "weight": 0.37671815215824417
         },
         {
             "id": 797499,
@@ -87,11 +87,15 @@
         },
         {
             "id": 798901,
-            "weight": 0.12840956526280692
+            "weight": 0.1100653416538345
+        },
+        {
+            "id": 1153822,
+            "weight": 0.09905464950836482
         },
         {
             "id": "a_7349640",
-            "weight": 0.09433112586147328
+            "weight": 0.08085525073840567
         },
         {
             "id": 850176,

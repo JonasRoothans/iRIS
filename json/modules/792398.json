@@ -13,8 +13,7 @@
     "result": "aangenomen",
     "date": "20-12-2022",
     "meeting_url": {
-        "1013589": "https://raadsinformatie.eindhoven.nl/vergadering/1013589#ai_7171642",
-        "1044778": "https://raadsinformatie.eindhoven.nl/vergadering/1044778#ai_7177625"
+        "1013589": "https://raadsinformatie.eindhoven.nl/vergadering/1013589/Raadsvoorstel%20Vaststellen%20van%20de%20grondexploitatie%20voor%20BIC%20cluster%202 20-12-2022#voting_7201924"
     },
     "attachment": {
         "https://raadsinformatie.eindhoven.nl/document/12027181/1/22bst00995+Raadsvoorstel+Vastellen+van+de+grondexploitatie+voor+BIC+cluster+2?connection_type=17&connection_id=8785669": "Raadsvoorstel Vastellen van de grondexploitatie voor BIC cluster 2",
@@ -212,48 +211,12 @@
             "weight": 0.07808749029039032
         },
         {
-            "id": 788331,
-            "weight": 0.06902990427631205
-        },
-        {
-            "id": "a_9607873",
-            "weight": 0.06791832671800964
-        },
-        {
-            "id": "a_9608741",
-            "weight": 0.0678896260821884
-        },
-        {
-            "id": "a_9608059",
-            "weight": 0.0678476387506534
-        },
-        {
-            "id": "a_9608742",
-            "weight": 0.0675622476803023
-        },
-        {
-            "id": 861814,
-            "weight": 0.06456049816718719
-        },
-        {
-            "id": 1037362,
-            "weight": 0.06425594027371624
-        },
-        {
             "id": 956820,
             "weight": 0.06067999386128946
         },
         {
             "id": 1097551,
             "weight": 0.05851833870887337
-        },
-        {
-            "id": 1037381,
-            "weight": 0.051031627274392456
-        },
-        {
-            "id": 1148282,
-            "weight": 0.04432559822351223
         }
     ],
     "videostarttime": {

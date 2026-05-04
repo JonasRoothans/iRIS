@@ -8,10 +8,10 @@
         131143
     ],
     "party_list": [
-        "PvdA",
         "CDA",
+        "D66",
         "GroenLinks",
-        "D66"
+        "PvdA"
     ],
     "poho_id": [],
     "title": "Aangekondigd Amendement A7A - Laat Strijp-S bruisen (GL, PvdA)",
@@ -44,6 +44,10 @@
         {
             "id": "a_9606554",
             "weight": 2.41890435566554
+        },
+        {
+            "id": 1155303,
+            "weight": 1.6176585321470858
         },
         {
             "id": 1089258,

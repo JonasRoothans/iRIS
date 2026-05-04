@@ -13,8 +13,7 @@
     "result": "aangenomen",
     "date": "11-06-2024",
     "meeting_url": {
-        "1147959": "https://raadsinformatie.eindhoven.nl/vergadering/1147959#ai_8423436",
-        "1147940": "https://raadsinformatie.eindhoven.nl/vergadering/1147940#ai_8430812"
+        "1147959": "https://raadsinformatie.eindhoven.nl/vergadering/1147959/Raadsvoorstel%20Verlenging%20ontheffing%20vereiste%20van%20ingezetenschap%20wethouder%20Esselbrugge 11-06-2024#voting_8441204"
     },
     "attachment": {
         "https://raadsinformatie.eindhoven.nl/document/14123172/1/24bst00267+Raadsvoorstel+Verlenging+ontheffing+vereiste+van+ingezetenschap+wethouder+Esselbrugge?connection_type=17&connection_id=10562661": "Raadsvoorstel Verlenging ontheffing vereiste van ingezetenschap wethouder Esselbrugge",
@@ -34,11 +33,11 @@
     "related": [
         {
             "id": 838220,
-            "weight": 3.9923230218889247
+            "weight": 3.9503683422345808
         },
         {
             "id": 968440,
-            "weight": 0.6290056385196867
+            "weight": 0.6095957631636464
         },
         {
             "id": 1117248,
@@ -58,7 +57,7 @@
         },
         {
             "id": 949445,
-            "weight": 0.4585022118690259
+            "weight": 0.44075593036991567
         },
         {
             "id": 797695,
@@ -70,35 +69,43 @@
         },
         {
             "id": 1054302,
-            "weight": 0.15228994361507606
+            "weight": 0.13706094925356843
         },
         {
             "id": 941360,
-            "weight": 0.15069461101998838
+            "weight": 0.13562514991798955
         },
         {
             "id": "a_10115066",
-            "weight": 0.14153863639700912
+            "weight": 0.1273847727573082
+        },
+        {
+            "id": 1155368,
+            "weight": 0.10730596751754203
         },
         {
             "id": 804112,
-            "weight": 0.11846891871916854
+            "weight": 0.10154478747357303
+        },
+        {
+            "id": 1153878,
+            "weight": 0.09281613721997942
         },
         {
             "id": 1036599,
-            "weight": 0.09793728637360583
+            "weight": 0.08394624546309071
         },
         {
             "id": 1123568,
-            "weight": 0.08120957566138996
+            "weight": 0.06960820770976282
         },
         {
             "id": 790586,
-            "weight": 0.0776328362283616
+            "weight": 0.06654243105288137
         },
         {
             "id": 1078957,
-            "weight": 0.07705225624593365
+            "weight": 0.06604479106794313
         }
     ],
     "videostarttime": {

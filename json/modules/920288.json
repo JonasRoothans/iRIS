@@ -14,10 +14,10 @@
     "member": "Jonas Roothans",
     "party": null,
     "poho": "",
-    "result": "Verworpen",
+    "result": "verworpen",
     "date": "20-02-2024",
     "meeting_url": {
-        "1147873": "https://raadsinformatie.eindhoven.nl/vergadering/1147873#ai_8094580"
+        "1147873": "https://raadsinformatie.eindhoven.nl/vergadering/1147873/Laat%20je%20roofdier%20thuis%20%28Motie%20M3%29 20-02-2024#voting_8231481"
     },
     "attachment": null,
     "parent": 903669,
@@ -118,42 +118,6 @@
         {
             "id": 974762,
             "weight": 0.08015670708116475
-        },
-        {
-            "id": 1140939,
-            "weight": 0.06784186976322006
-        },
-        {
-            "id": "a_8421782",
-            "weight": 0.06550965489098642
-        },
-        {
-            "id": 1142714,
-            "weight": 0.060043838495863824
-        },
-        {
-            "id": 1149150,
-            "weight": 0.05982567232960241
-        },
-        {
-            "id": 1085519,
-            "weight": 0.059256157625201186
-        },
-        {
-            "id": 1129612,
-            "weight": 0.058473464095591586
-        },
-        {
-            "id": 892411,
-            "weight": 0.0578333270198627
-        },
-        {
-            "id": 930054,
-            "weight": 0.05617426699019214
-        },
-        {
-            "id": 938795,
-            "weight": 0.0550243220281181
         }
     ],
     "videostarttime": {

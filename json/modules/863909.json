@@ -13,8 +13,7 @@
     "result": "aangenomen",
     "date": "20-09-2023",
     "meeting_url": {
-        "1013512": "https://raadsinformatie.eindhoven.nl/vergadering/1013512#ai_7752738",
-        "1127249": "https://raadsinformatie.eindhoven.nl/vergadering/1127249#ai_7824975"
+        "1013512": "https://raadsinformatie.eindhoven.nl/vergadering/1013512/Raadsvoorstel%20Gewijzigde%20vaststelling%20bestemmingsplan%20%E2%80%98Fietspad%20Eindhoven%20-%20Helmond%27 20-09-2023#voting_7754258"
     },
     "attachment": {
         "https://raadsinformatie.eindhoven.nl/document/12995330/2/23bst00948+Raadsvoorstel+Gewijzigde+vaststelling+bp+Fietspad+Eindhoven+-+Helmond?connection_type=17&connection_id=9597460": "Raadsvoorstel Gewijzigde vaststelling bp Fietspad Eindhoven - Helmond",
@@ -118,11 +117,11 @@
             "weight": 0.16354737929093047
         },
         {
-            "id": "r_8748211",
+            "id": 977662,
             "weight": 0.16323770881813862
         },
         {
-            "id": 977662,
+            "id": "r_8748211",
             "weight": 0.16323770881813862
         },
         {

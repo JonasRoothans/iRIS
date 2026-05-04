@@ -3343,13 +3343,15 @@
             }
         }
     },
-    "title": "Vergadering Raadsvergadering 14-03-2023 Gemeente Eindhoven",
+    "title": {
+        "Raadzaal": "Vergadering Raadsvergadering 14-03-2023 Gemeente Eindhoven"
+    },
     "meeting_url": "https://raadsinformatie.eindhoven.nl/vergadering/1013470/",
     "video_url": {
         "Raadzaal": "http://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_14.03.23_NC_Eindhoven_Raadsvergadering .mp4/playlist.m3u8"
     },
     "api_url": "api.notubiz.nl/events/1013470",
-    "date": "14-03-2023",
+    "date": "2023-03-14 18:00:00",
     "type": "Raadsvergadering",
     "agenda": {
         "Raadzaal": {
@@ -3381,16 +3383,12 @@
             "1253": {
                 "title": "Raadsvoorstel benoemen commissielid van de fractie D66 als lid in de Meningsvormende vergadering",
                 "id": 7446530,
-                "module_id": [
-                    825873
-                ]
+                "module_id": []
             },
             "1352": {
                 "title": "Raadsvoorstel Ontheffing en benoeming lid agendacommissie",
                 "id": 7459212,
-                "module_id": [
-                    826914
-                ]
+                "module_id": []
             },
             "1416": {
                 "title": "Openbare besluitenlijst van de raadsvergadering d.d. 14 februari 2023",
@@ -3416,37 +3414,27 @@
             "3022": {
                 "title": "Raadsvoorstel Vaststelling bestemmingsplan ‘IV Stratum binnen de Ring II (Stuiverstraat 82-88)'-",
                 "id": 7399657,
-                "module_id": [
-                    813437
-                ]
+                "module_id": []
             },
             "2986": {
                 "title": "Raadsvoorstel Gewijzigde vaststelling bestemmingsplan ‘Woensel-Noord 2021’",
                 "id": 7399662,
-                "module_id": [
-                    817437
-                ]
+                "module_id": []
             },
             "2993": {
                 "title": "Raadsvoorstel Declaratie kosten opsporen en ruimen explosieven 2022",
                 "id": 7399672,
-                "module_id": [
-                    813932
-                ]
+                "module_id": []
             },
             "3001": {
                 "title": "Raadsvoorstel Gewijzigde vaststelling bestemmingsplan 'Tongelre buiten de ring (IJzeren Man)' n.a.v. tussenuitspraak Raad van State",
                 "id": 7404305,
-                "module_id": [
-                    821450
-                ]
+                "module_id": []
             },
             "3138": {
                 "title": "Raadsvoorstel Krediet vernieuwbouw Fuutlaan10",
                 "id": 7451476,
-                "module_id": [
-                    804504
-                ]
+                "module_id": []
             },
             "3225": {
                 "title": "Bespreekstukken",
@@ -3456,9 +3444,7 @@
             "3231": {
                 "title": "Raadsvoorstel Beleidskader veiligheid 2023-2026",
                 "id": 7356814,
-                "module_id": [
-                    817517
-                ]
+                "module_id": []
             },
             "4792": {
                 "title": "Vrije moties",

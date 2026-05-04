@@ -11,12 +11,9 @@
     "party": null,
     "poho": "",
     "result": "aangenomen",
-    "date": "29-10-2024",
+    "date": "05-11-2024",
     "meeting_url": {
-        "1148143": "https://raadsinformatie.eindhoven.nl/vergadering/1148143#ai_8727038",
-        "1148140": "https://raadsinformatie.eindhoven.nl/vergadering/1148140#ai_8727039",
-        "1148141": "https://raadsinformatie.eindhoven.nl/vergadering/1148141#ai_8729567",
-        "1148137": "https://raadsinformatie.eindhoven.nl/vergadering/1148137#ai_8692731"
+        "1148143": "https://raadsinformatie.eindhoven.nl/vergadering/1148143/Raadsvoorstel%20Begroting%202025 05-11-2024#voting_8824327"
     },
     "attachment": {
         "https://raadsinformatie.eindhoven.nl/document/14587521/1/24bst01168+Raadsvoorstel+Begroting+2025?connection_type=17&connection_id=11001121": "Raadsvoorstel Begroting 2025",
@@ -193,22 +190,6 @@
             "weight": 0.1561674020305239
         },
         {
-            "id": 939062,
-            "weight": 0.15568118126912872
-        },
-        {
-            "id": 836579,
-            "weight": 0.15559445472072236
-        },
-        {
-            "id": 1034728,
-            "weight": 0.15521384577320513
-        },
-        {
-            "id": 1049621,
-            "weight": 0.15144564629317186
-        },
-        {
             "id": 1125914,
             "weight": 0.1498303369430135
         },
@@ -253,20 +234,8 @@
             "weight": 0.07548758325556124
         },
         {
-            "id": 865473,
-            "weight": 0.07420460255410229
-        },
-        {
             "id": 820486,
             "weight": 0.07232051448590877
-        },
-        {
-            "id": 882823,
-            "weight": 0.06509521401092166
-        },
-        {
-            "id": "a_9414495",
-            "weight": 0.06338461331483128
         },
         {
             "id": 878028,
@@ -287,14 +256,6 @@
         {
             "id": "a_7151310",
             "weight": 0.053753193109268224
-        },
-        {
-            "id": 1112893,
-            "weight": 0.05081847674948279
-        },
-        {
-            "id": 1052631,
-            "weight": 0.04890286342984618
         },
         {
             "id": 892411,

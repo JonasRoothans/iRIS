@@ -13,8 +13,7 @@
     "result": "aangenomen",
     "date": "02-07-2024",
     "meeting_url": {
-        "1147982": "https://raadsinformatie.eindhoven.nl/vergadering/1147982#ai_8455234",
-        "1147969": "https://raadsinformatie.eindhoven.nl/vergadering/1147969#ai_8455236"
+        "1147982": "https://raadsinformatie.eindhoven.nl/vergadering/1147982/Raadsvoorstel%20Vaststelling%20Regionale%20Mobiliteitsvisie%20MRE%202040 02-07-2024#voting_8466965"
     },
     "attachment": {
         "https://raadsinformatie.eindhoven.nl/document/14175488/1/24bst00657+Raadsvoorstel+Vaststelling+Regionale+Mobiliteitsvisie+MRE+2040?connection_type=17&connection_id=10604654": "Raadsvoorstel Vaststelling Regionale Mobiliteitsvisie MRE 2040",
@@ -32,15 +31,15 @@
     "related": [
         {
             "id": 932012,
-            "weight": 4.067175511058146
+            "weight": 4.060175024414965
         },
         {
             "id": 905359,
-            "weight": 0.9002918740641186
+            "weight": 0.8932772754733325
         },
         {
             "id": 938313,
-            "weight": 0.7528854053966693
+            "weight": 0.746118322723764
         },
         {
             "id": "a_8421782",
@@ -75,16 +74,16 @@
             "weight": 0.22231533824216207
         },
         {
-            "id": 1037381,
-            "weight": 0.18969441929601344
-        },
-        {
             "id": 960621,
             "weight": 0.18930149361085916
         },
         {
+            "id": 1037381,
+            "weight": 0.181069064493541
+        },
+        {
             "id": 834952,
-            "weight": 0.18911059921350915
+            "weight": 0.180549056092428
         },
         {
             "id": 955392,
@@ -167,10 +166,6 @@
             "weight": 0.0812498395763641
         },
         {
-            "id": "r_7006017",
-            "weight": 0.0730220615361682
-        },
-        {
             "id": 1136113,
             "weight": 0.07299077761680577
         },
@@ -191,8 +186,16 @@
             "weight": 0.06713635346975522
         },
         {
+            "id": "r_7006017",
+            "weight": 0.06490849914326063
+        },
+        {
+            "id": 1153878,
+            "weight": 0.060773236657808455
+        },
+        {
             "id": 804112,
-            "weight": 0.06698281605686143
+            "weight": 0.05954028093943239
         },
         {
             "id": 863851,

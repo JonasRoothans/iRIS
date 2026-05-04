@@ -13,7 +13,7 @@
     "result": "aangenomen",
     "date": "20-12-2022",
     "meeting_url": {
-        "1013589": "https://raadsinformatie.eindhoven.nl/vergadering/1013589#ai_7270548"
+        "1013589": "https://raadsinformatie.eindhoven.nl/vergadering/1013589/Raadsvoorstel%20Verordening%20fractieondersteuning%20gemeente%20Eindhoven%202023 20-12-2022#voting_7270549"
     },
     "attachment": {
         "https://raadsinformatie.eindhoven.nl/document/12218543/1/Raadsvoorstel+Verordening+fractieondersteuning+gemeente+Eindhoven+2023?connection_type=17&connection_id=8915454": "Raadsvoorstel Verordening fractieondersteuning gemeente Eindhoven 2023",
@@ -52,20 +52,16 @@
             "weight": 0.22326497089161604
         },
         {
-            "id": 997022,
-            "weight": 0.1979863894209094
-        },
-        {
             "id": 821750,
             "weight": 0.18542059430286917
         },
         {
-            "id": 926553,
-            "weight": 0.15337816955076014
+            "id": 997022,
+            "weight": 0.17762941256245884
         },
         {
-            "id": 1037381,
-            "weight": 0.13744269697088313
+            "id": 926553,
+            "weight": 0.15337816955076014
         },
         {
             "id": 811021,
@@ -78,6 +74,14 @@
         {
             "id": 881841,
             "weight": 0.1259654922335781
+        },
+        {
+            "id": 1037381,
+            "weight": 0.11453558080906928
+        },
+        {
+            "id": 1153878,
+            "weight": 0.11372524014898448
         },
         {
             "id": 979297,
@@ -136,14 +140,6 @@
             "weight": 0.0951420974005275
         },
         {
-            "id": 1037397,
-            "weight": 0.09455321266574376
-        },
-        {
-            "id": 889179,
-            "weight": 0.09439518585556089
-        },
-        {
             "id": 929135,
             "weight": 0.0940081008451661
         },
@@ -182,6 +178,14 @@
         {
             "id": 981349,
             "weight": 0.0788240643436526
+        },
+        {
+            "id": 1037397,
+            "weight": 0.0787943438881198
+        },
+        {
+            "id": 889179,
+            "weight": 0.07866265487963407
         },
         {
             "id": 905577,

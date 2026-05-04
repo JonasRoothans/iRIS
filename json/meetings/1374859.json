@@ -6217,16 +6217,12 @@
             "2230": {
                 "title": "Raadsvoorstel Verlenging en verbreding Subsidieregeling Financiële ondersteuning sociale woningbouw Eindhoven",
                 "id": 9915108,
-                "module_id": [
-                    1117248
-                ]
+                "module_id": []
             },
             "2273": {
                 "title": "Raadsvoorstel Verlaging grondprijs VDMA als gevolg van WBI subsidie",
                 "id": 9888749,
-                "module_id": [
-                    1112893
-                ]
+                "module_id": []
             },
             "2381": {
                 "title": "Raadsvoorstel Beleidsplan Een financieel zeker bestaan 2026",
@@ -6235,8 +6231,7 @@
                     1134286,
                     1132396,
                     1132345,
-                    1132187,
-                    1117525
+                    1132187
                 ]
             },
             "5598": {
@@ -6253,8 +6248,7 @@
                 "id": 9918195,
                 "module_id": [
                     1132715,
-                    1132674,
-                    1117714
+                    1132674
                 ]
             },
             "9218": {

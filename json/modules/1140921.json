@@ -11,13 +11,14 @@
         194495
     ],
     "party_list": [
-        "Partij voor de Dieren",
-        "D66",
         "Volt",
-        "PvdA",
-        " Ouderen Appèl - Hart voor Eindhoven",
+        "PRO",
         "GroenLinks",
-        "SP"
+        "PvdA",
+        "D66",
+        "SP",
+        "Partij voor de Dieren",
+        " Ouderen Appèl - Hart voor Eindhoven"
     ],
     "poho_id": [],
     "title": "Geen mens is illegaal (Vrije Motie VM9)",
@@ -334,7 +335,7 @@
     "svz": "",
     "afgedaan": "",
     "eersteIndiener": 131143,
-    "lastScrapeDate": "08-04-2026",
+    "lastScrapeDate": "04-05-2026",
     "meeting_id": [
         1474900
     ]

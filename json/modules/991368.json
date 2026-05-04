@@ -11,13 +11,13 @@
         42076
     ],
     "party_list": [
-        "VVD",
-        " Ouderen Appèl - Hart voor Eindhoven",
         "LPF ",
-        "FVD",
-        "SP",
         "50PLUS",
-        "CDA"
+        "CDA",
+        "SP",
+        "VVD",
+        "FVD",
+        " Ouderen Appèl - Hart voor Eindhoven"
     ],
     "poho_id": [],
     "title": "Garandeer de bereikbaarheid van de Mispelhoef (Motie M9A)",
@@ -26,10 +26,10 @@
     "member": "Remco van Dooren, Ruud van Acquoij, Dré Rennenberg, Peter de Roij van Zuijdewijn, Rudy Reker, Jannie Visscher en Nicolas Knoester",
     "party": null,
     "poho": "",
-    "result": "Verworpen",
+    "result": "verworpen",
     "date": "26-11-2024",
     "meeting_url": {
-        "1148334": "https://raadsinformatie.eindhoven.nl/vergadering/1148334#ai_8745993"
+        "1148334": "https://raadsinformatie.eindhoven.nl/vergadering/1148334/Garandeer%20de%20bereikbaarheid%20van%20de%20Mispelhoef%20%28Motie%20M9A%29 26-11-2024#voting_8883173"
     },
     "attachment": null,
     "parent": 977662,
@@ -44,11 +44,11 @@
             "weight": 1.0899618750758786
         },
         {
-            "id": "r_8748211",
+            "id": 977662,
             "weight": 0.5916422916904945
         },
         {
-            "id": 977662,
+            "id": "r_8748211",
             "weight": 0.5916422916904945
         },
         {

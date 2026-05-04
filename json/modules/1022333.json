@@ -13,15 +13,15 @@
         194495
     ],
     "party_list": [
-        "Partij voor de Dieren",
-        "D66",
         "Volt",
+        "50PLUS",
+        "GroenLinks",
         "PvdA",
         "VVD",
-        " Ouderen Appèl - Hart voor Eindhoven",
-        "GroenLinks",
+        "D66",
         "SP",
-        "50PLUS"
+        "Partij voor de Dieren",
+        " Ouderen Appèl - Hart voor Eindhoven"
     ],
     "poho_id": 230023,
     "title": "Toegankelijkheid voor Iedereen. Niet alleen op papier maar ook in de praktijk (Vrije Motie VM2)",
@@ -45,11 +45,11 @@
     "related": [
         {
             "id": 856465,
-            "weight": 1.1692574394037303
+            "weight": 1.1377859721883419
         },
         {
             "id": 859185,
-            "weight": 0.8572098037894079
+            "weight": 0.8256046489849856
         },
         {
             "id": "a_9416484",
@@ -92,12 +92,12 @@
             "weight": 0.26853896098116087
         },
         {
-            "id": 864025,
-            "weight": 0.2561701532612877
-        },
-        {
             "id": 1028360,
             "weight": 0.2534717274013795
+        },
+        {
+            "id": 864025,
+            "weight": 0.23433727097091592
         },
         {
             "id": 1028139,
@@ -132,10 +132,6 @@
             "weight": 0.1859300765383648
         },
         {
-            "id": 984972,
-            "weight": 0.17134089139673625
-        },
-        {
             "id": "a_9977806",
             "weight": 0.16805726182591804
         },
@@ -148,12 +144,20 @@
             "weight": 0.16197021167499764
         },
         {
+            "id": 984972,
+            "weight": 0.14278407616394687
+        },
+        {
             "id": 796421,
             "weight": 0.1411087465974097
         },
         {
             "id": 1141695,
             "weight": 0.1383357703851847
+        },
+        {
+            "id": 1153199,
+            "weight": 0.13525115059903473
         },
         {
             "id": 1117525,

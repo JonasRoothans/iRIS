@@ -18,10 +18,10 @@
     "member": "Jacco Rubenkamp, Ruud van Acquoij en Virginia Jonkers",
     "party": null,
     "poho": "",
-    "result": "Aangenomen",
+    "result": "aangenomen",
     "date": "11-06-2024",
     "meeting_url": {
-        "1147959": "https://raadsinformatie.eindhoven.nl/vergadering/1147959#ai_7853542"
+        "1147959": "https://raadsinformatie.eindhoven.nl/vergadering/1147959/Wethouders%20van%20buiten%20welkom%20-%20eeuwige%20ontheffing%20niet%20%28Vrije%20Motie%20VM2%29 11-06-2024#voting_8511363"
     },
     "attachment": null,
     "parent": null,
@@ -32,16 +32,20 @@
     "bst": null,
     "related": [
         {
+            "id": 1154225,
+            "weight": 1.6574993957756081
+        },
+        {
             "id": 920946,
             "weight": 0.6165363870301127
         },
         {
             "id": 838220,
-            "weight": 0.4613622697176404
+            "weight": 0.44347976930215455
         },
         {
             "id": 941208,
-            "weight": 0.4585022118690259
+            "weight": 0.44075593036991567
         },
         {
             "id": 981349,
@@ -69,7 +73,7 @@
         },
         {
             "id": 968440,
-            "weight": 0.2111215997424058
+            "weight": 0.20284845579330202
         },
         {
             "id": 909697,
@@ -173,27 +177,31 @@
         },
         {
             "id": 949316,
-            "weight": 0.07725129638506391
-        },
-        {
-            "id": 949322,
-            "weight": 0.07278239445950457
+            "weight": 0.06952616674655751
         },
         {
             "id": 1042171,
             "weight": 0.06645064901454788
         },
         {
+            "id": 949322,
+            "weight": 0.06550415501355411
+        },
+        {
             "id": 1054302,
-            "weight": 0.06491111366855502
+            "weight": 0.058420002301699525
         },
         {
             "id": 941360,
-            "weight": 0.06423112907495226
+            "weight": 0.05780801616745703
         },
         {
             "id": "a_10115066",
-            "weight": 0.060328543681652684
+            "weight": 0.05429568931348742
+        },
+        {
+            "id": 1155368,
+            "weight": 0.045737424871932934
         }
     ],
     "videostarttime": {

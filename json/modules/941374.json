@@ -13,8 +13,7 @@
     "result": "aangenomen",
     "date": "11-06-2024",
     "meeting_url": {
-        "1147959": "https://raadsinformatie.eindhoven.nl/vergadering/1147959#ai_8425974",
-        "1147942": "https://raadsinformatie.eindhoven.nl/vergadering/1147942#ai_8463533"
+        "1147959": "https://raadsinformatie.eindhoven.nl/vergadering/1147959/Raadsvoorstel%20Gewijzigde%20vaststelling%20bestemmingsplan%20Brainport%20Industries%20Campus%20%28cluster%202%29%20en%20vaststelling%20DOSP%20als%20welstandsnota 11-06-2024#voting_8516174"
     },
     "attachment": {
         "https://raadsinformatie.eindhoven.nl/document/14125636/1/24bst00494+Raadsvoorstel+Vaststelling+bp+BIC+cluster+2+en+DOSP+als+welstandsnota?connection_type=17&connection_id=10564583": "Raadsvoorstel Vaststelling bp BIC cluster 2 en DOSP als welstandsnota",
@@ -169,11 +168,11 @@
             "weight": 0.07776195722345197
         },
         {
-            "id": "r_8748211",
+            "id": 977662,
             "weight": 0.07687705133014941
         },
         {
-            "id": 977662,
+            "id": "r_8748211",
             "weight": 0.07687705133014941
         },
         {

@@ -9,9 +9,9 @@
     ],
     "party_list": [
         "Volt",
-        "PvdA",
         "Partij voor de Dieren",
-        "GroenLinks"
+        "GroenLinks",
+        "PvdA"
     ],
     "poho_id": [],
     "title": "Initiatiefvoorstel Fossielvrije Reclame",
@@ -21,10 +21,9 @@
     "party": null,
     "poho": "",
     "result": "verworpen",
-    "date": "19-03-2024",
+    "date": "07-05-2024",
     "meeting_url": {
-        "1147927": "https://raadsinformatie.eindhoven.nl/vergadering/1147927#ai_8333847",
-        "1147891": "https://raadsinformatie.eindhoven.nl/vergadering/1147891#ai_8252254"
+        "1147927": "https://raadsinformatie.eindhoven.nl/vergadering/1147927/Initiatiefvoorstel%20Fossielvrije%20Reclame 07-05-2024#voting_8342927"
     },
     "attachment": {
         "https://raadsinformatie.eindhoven.nl/document/13828540/2/Initiatiefvoorstel+Fossielvrije+Reclame+%28PvdD%2C+Volt%2C+GL%2C+PvdA%29?connection_type=17&connection_id=10301879": "Initiatiefvoorstel Fossielvrije Reclame (PvdD, Volt, GL, PvdA)",
@@ -49,7 +48,7 @@
         },
         {
             "id": 779530,
-            "weight": 0.5338955075772924
+            "weight": 0.5338955075772923
         },
         {
             "id": 891776,

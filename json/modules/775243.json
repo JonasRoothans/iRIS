@@ -7,21 +7,21 @@
         131155
     ],
     "party_list": [
-        "Volt",
         "VVD",
+        "Volt",
         "50PLUS"
     ],
     "poho_id": [],
-    "title": "M8: Verworpen Motie M8 Democratische legitimiteit (VVD, 50PLUS en Volt)",
+    "title": "Motie M8: Democratische legitimiteit (VVD, 50PLUS, Volt)",
     "url": "https://raadsinformatie.eindhoven.nl/modules/6/moties_en_toezeggingen/775243?parent_event=1013339",
     "type": "Motie",
     "member": "Ruud van Acquoij, Lex Janssen en Jacco Rubenkamp",
     "party": null,
     "poho": "",
-    "result": "Verworpen",
+    "result": "verworpen",
     "date": "14-06-2022",
     "meeting_url": {
-        "1013339": "https://raadsinformatie.eindhoven.nl/vergadering/1013339#ai_6963654"
+        "1013339": "https://raadsinformatie.eindhoven.nl/vergadering/1013339/Motie%20M8%3A%20Democratische%20legitimiteit%20%28VVD%2C%2050PLUS%2C%20Volt%29 14-06-2022#voting_7006118"
     },
     "attachment": null,
     "parent": "ai_6963654",
@@ -33,7 +33,7 @@
     "related": [
         {
             "id": 775230,
-            "weight": 14.09057973246207
+            "weight": 14.086930669688416
         },
         {
             "id": 827904,
@@ -149,27 +149,31 @@
         },
         {
             "id": 1037381,
-            "weight": 0.053732350497181364
+            "weight": 0.04776208933082788
+        },
+        {
+            "id": 1153878,
+            "weight": 0.047237588521072946
         },
         {
             "id": 932262,
-            "weight": 0.04757709377541326
+            "weight": 0.042290750022589564
         },
         {
             "id": 1144348,
-            "weight": 0.04168443874047918
+            "weight": 0.037052834435981494
         },
         {
             "id": 952189,
-            "weight": 0.041527417647783255
+            "weight": 0.036913260131362896
         },
         {
             "id": 1144342,
-            "weight": 0.04151534076142241
+            "weight": 0.036902525121264365
         },
         {
             "id": 952160,
-            "weight": 0.03985057382783672
+            "weight": 0.03542273229141042
         }
     ],
     "videostarttime": {

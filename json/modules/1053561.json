@@ -11,10 +11,9 @@
     "party": null,
     "poho": "",
     "result": "aangenomen",
-    "date": "02-09-2025",
+    "date": "10-03-2026",
     "meeting_url": {
-        "1374861": "https://raadsinformatie.eindhoven.nl/vergadering/1374861#ai_10105742",
-        "1256639": "https://raadsinformatie.eindhoven.nl/vergadering/1256639#ai_9588274"
+        "1374861": "https://raadsinformatie.eindhoven.nl/vergadering/1374861/Initiatiefvoorstel%20Verbod%20fossiele%20reclame%20en%20vijftiende%20wijziging%20APV%20Eindhoven 10-03-2026#voting_407906"
     },
     "attachment": {
         "https://raadsinformatie.eindhoven.nl/document/15659540/1/Initiatiefvoorstel+Verbod+fossiele+reclame+en+vijftiende+wijziging+APV+Eindhoven?connection_type=17&connection_id=11976262": "main",
@@ -68,7 +67,7 @@
     "svz": null,
     "afgedaan": null,
     "eersteIndiener": null,
-    "lastScrapeDate": "10-04-2026",
+    "lastScrapeDate": "04-05-2026",
     "meeting_id": [
         1256323,
         1374861

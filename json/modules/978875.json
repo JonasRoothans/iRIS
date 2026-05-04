@@ -11,12 +11,9 @@
     "party": null,
     "poho": "M. Verhees (Wethouder)",
     "result": "aangenomen",
-    "date": "12-11-2024",
+    "date": "26-11-2024",
     "meeting_url": {
-        "1148334": "https://raadsinformatie.eindhoven.nl/vergadering/1148334#ai_8757253",
-        "1148323": "https://raadsinformatie.eindhoven.nl/vergadering/1148323#ai_8757252",
-        "1148329": "https://raadsinformatie.eindhoven.nl/vergadering/1148329#ai_8760676",
-        "1263276": "https://raadsinformatie.eindhoven.nl/vergadering/1263276#ai_8653738"
+        "1148334": "https://raadsinformatie.eindhoven.nl/vergadering/1148334/Raadsvoorstel%20Omgevingsvisie%20Eindhoven 26-11-2024#voting_8760519"
     },
     "attachment": {
         "https://raadsinformatie.eindhoven.nl/document/14638368/1/24bst01157+Raadsvoorstel+Omgevingsvisie+Eindhoven+?connection_type=17&connection_id=11042878": "Raadsvoorstel Omgevingsvisie Eindhoven",
@@ -47,7 +44,7 @@
         },
         {
             "id": 926664,
-            "weight": 0.865645503168623
+            "weight": 0.8556203960185491
         },
         {
             "id": "a_8882426",
@@ -66,12 +63,12 @@
             "weight": 0.49331797763097884
         },
         {
-            "id": 1053138,
-            "weight": 0.45537459592253626
-        },
-        {
             "id": 1053137,
             "weight": 0.4522585596517483
+        },
+        {
+            "id": 1053138,
+            "weight": 0.44501722405412314
         },
         {
             "id": 996944,
@@ -130,12 +127,12 @@
             "weight": 0.1887929918255621
         },
         {
-            "id": 785112,
-            "weight": 0.18828777171208838
-        },
-        {
             "id": 1032099,
             "weight": 0.18245073124462516
+        },
+        {
+            "id": 785112,
+            "weight": 0.1793417951541365
         },
         {
             "id": 900829,
@@ -178,12 +175,12 @@
             "weight": 0.10218570183652938
         },
         {
-            "id": 863923,
-            "weight": 0.0955813144533763
-        },
-        {
             "id": 931317,
             "weight": 0.09320677236015928
+        },
+        {
+            "id": 1153822,
+            "weight": 0.08916906940984164
         },
         {
             "id": 926416,
@@ -192,6 +189,10 @@
         {
             "id": 927030,
             "weight": 0.08687505086098887
+        },
+        {
+            "id": 863923,
+            "weight": 0.08496116840300115
         },
         {
             "id": 776907,
@@ -218,16 +219,16 @@
             "weight": 0.07036390743117096
         },
         {
+            "id": 1088097,
+            "weight": 0.06255620182232027
+        },
+        {
             "id": "a_8288822",
-            "weight": 0.069495322540257
+            "weight": 0.061773620035784
         },
         {
             "id": "a_8288829",
-            "weight": 0.06786010209581594
-        },
-        {
-            "id": 1088097,
-            "weight": 0.06255620182232027
+            "weight": 0.06032009075183639
         },
         {
             "id": 1123634,
@@ -246,10 +247,6 @@
             "weight": 0.05624062776659916
         },
         {
-            "id": 1117280,
-            "weight": 0.05409159032215583
-        },
-        {
             "id": 1144348,
             "weight": 0.05177826949190305
         },
@@ -260,6 +257,10 @@
         {
             "id": 1144351,
             "weight": 0.05081597733268546
+        },
+        {
+            "id": 1117280,
+            "weight": 0.04808141361969407
         }
     ],
     "videostarttime": {

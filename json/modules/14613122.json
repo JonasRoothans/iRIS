@@ -11,12 +11,12 @@
         194495
     ],
     "party_list": [
-        "Partij voor de Dieren",
-        "Volt",
-        "PvdA",
-        "GroenLinks",
         "50PLUS",
-        "CDA"
+        "Volt",
+        "GroenLinks",
+        "PvdA",
+        "CDA",
+        "Partij voor de Dieren"
     ],
     "poho_id": [],
     "title": "Rondvraag 3 - Stand van zaken bieb en buurthuis in Meerhoven (CDA, 50Plus, PvdD, Volt, OAHvE, GL, PvdA)",
@@ -87,20 +87,20 @@
             "weight": 0.17666825406299766
         },
         {
-            "id": 13990892,
-            "weight": 0.1749363444370603
-        },
-        {
-            "id": 1149035,
-            "weight": 0.16497399929118403
-        },
-        {
             "id": 779022,
             "weight": 0.14551158483154766
         },
         {
-            "id": 12324736,
-            "weight": 0.1196138478792906
+            "id": 13990892,
+            "weight": 0.13994907554964825
+        },
+        {
+            "id": 1155677,
+            "weight": 0.13604961583365105
+        },
+        {
+            "id": 1149035,
+            "weight": 0.13197919943294723
         },
         {
             "id": 945730,
@@ -125,6 +125,10 @@
         {
             "id": 803052,
             "weight": 0.0957739181443363
+        },
+        {
+            "id": 12324736,
+            "weight": 0.09569107830343247
         },
         {
             "id": 1139113,

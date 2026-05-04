@@ -7,9 +7,9 @@
         194501
     ],
     "party_list": [
+        "SP",
         "VVD",
-        " Ouderen Appèl - Hart voor Eindhoven",
-        "SP"
+        " Ouderen Appèl - Hart voor Eindhoven"
     ],
     "poho_id": [],
     "title": "Beantwoording vervolg raadsvragen - Omtrent de verbouwing aan de Zuidwester tot daklozenopvang (OAHvE, VVD, SP)",
@@ -137,32 +137,8 @@
             "weight": 0.0828190360903338
         },
         {
-            "id": 920653,
-            "weight": 0.07857195845239466
-        },
-        {
             "id": 16142060,
             "weight": 0.07819413844083688
-        },
-        {
-            "id": 858100,
-            "weight": 0.07670946257204356
-        },
-        {
-            "id": 12484012,
-            "weight": 0.07576798163545903
-        },
-        {
-            "id": 798449,
-            "weight": 0.07520228389975454
-        },
-        {
-            "id": 826999,
-            "weight": 0.07376421900335922
-        },
-        {
-            "id": 973945,
-            "weight": 0.07368853155214995
         },
         {
             "id": "a_7586976",
@@ -177,20 +153,8 @@
             "weight": 0.06695553553368654
         },
         {
-            "id": 1124611,
-            "weight": 0.06633473598372223
-        },
-        {
             "id": 1126669,
             "weight": 0.06626064801295713
-        },
-        {
-            "id": 1023028,
-            "weight": 0.06578990568695837
-        },
-        {
-            "id": "a_7347943",
-            "weight": 0.06381175523843861
         },
         {
             "id": 1014949,

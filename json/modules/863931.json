@@ -13,8 +13,7 @@
     "result": "aangenomen",
     "date": "20-09-2023",
     "meeting_url": {
-        "1013512": "https://raadsinformatie.eindhoven.nl/vergadering/1013512#ai_7752303",
-        "1127251": "https://raadsinformatie.eindhoven.nl/vergadering/1127251#ai_7824866"
+        "1013512": "https://raadsinformatie.eindhoven.nl/vergadering/1013512/Raadsvoorstel%20Smart%20Thermisch%20Grid%20Stadhuisplein 20-09-2023#voting_7754253"
     },
     "attachment": {
         "https://raadsinformatie.eindhoven.nl/document/12995588/5/23bst00927+Raadsvoorstel+Smart+Thermisch+Grid+Stadhuisplein?connection_type=17&connection_id=9597692": "23bst00927 Raadsvoorstel Smart Thermisch Grid Stadhuisplein",
@@ -37,7 +36,7 @@
     "related": [
         {
             "id": 1076225,
-            "weight": 3.763803142793063
+            "weight": 3.763803142793064
         },
         {
             "id": 942872,

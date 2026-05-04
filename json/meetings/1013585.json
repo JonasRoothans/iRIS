@@ -3085,13 +3085,15 @@
             }
         }
     },
-    "title": "Vergadering Raadsvergadering 29-11-2022 Gemeente Eindhoven",
+    "title": {
+        "Raadzaal": "Vergadering Raadsvergadering 29-11-2022 Gemeente Eindhoven"
+    },
     "meeting_url": "https://raadsinformatie.eindhoven.nl/vergadering/1013585/",
     "video_url": {
         "Raadzaal": "http://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_29.11.22-EINDHOVEN-RAA-ONDERTITEL_2022.11.29_195657.mp4/playlist.m3u8"
     },
     "api_url": "api.notubiz.nl/events/1013585",
-    "date": "29-11-2022",
+    "date": "2022-11-29 18:00:00",
     "type": "Raadsvergadering",
     "agenda": {
         "Raadzaal": {
@@ -3113,9 +3115,7 @@
             "907": {
                 "title": "Raadsvoorstel Bekrachtiging geheimhouding stuk met betrekking tot vaststellen grondexploitatie BIC cluster 2",
                 "id": 7160092,
-                "module_id": [
-                    792457
-                ]
+                "module_id": []
             },
             "940": {
                 "title": "Benoemingen en ontheffingen",
@@ -3125,9 +3125,7 @@
             "1091": {
                 "title": "Raadsvoorstel  Benoeming 3e extern lid van de rekenkamer",
                 "id": 7159131,
-                "module_id": [
-                    792344
-                ]
+                "module_id": []
             },
             "1141": {
                 "title": "Beëdiging commissielid PvdD",
@@ -3157,79 +3155,57 @@
             "2610": {
                 "title": "Raadsvoorstel tot vaststelling bestemmingsplan III Oud Woensel 2012 (Visserstraat)",
                 "id": 7107248,
-                "module_id": [
-                    784775
-                ]
+                "module_id": []
             },
             "2616": {
                 "title": "Raadsvoorstel Financieel inregelen Opvang Oekraïne",
                 "id": 7098202,
-                "module_id": [
-                    786228
-                ]
+                "module_id": []
             },
             "2624": {
                 "title": "Initiatiefvoorstel Auditplan 2022",
                 "id": 7107107,
-                "module_id": [
-                    787033
-                ]
+                "module_id": []
             },
             "2627": {
                 "title": "Raadsvoorstel Verordening klankbordgesprek burgemeester gemeente Eindhoven 2022",
                 "id": 7107085,
-                "module_id": [
-                    787182
-                ]
+                "module_id": []
             },
             "2632": {
                 "title": "Raadsvoorstel Benoeming leden commissie klankbordgesprek burgemeester",
                 "id": 7107092,
-                "module_id": [
-                    787186
-                ]
+                "module_id": []
             },
             "2802": {
                 "title": "Raadsvoorstel Verordening Bedrijveninvesteringszone Kruisstraat Woenselse Markt Eindhoven 2023-2027",
                 "id": 7098203,
-                "module_id": [
-                    785635
-                ]
+                "module_id": []
             },
             "2639": {
                 "title": "Raadsvoorstel Wijziging statuten SALTO",
                 "id": 7092271,
-                "module_id": [
-                    785473
-                ]
+                "module_id": []
             },
             "2643": {
                 "title": "Raadsvoorstel Investeringsvoorstel ledverlichting Sportparken",
                 "id": 7101384,
-                "module_id": [
-                    784738
-                ]
+                "module_id": []
             },
             "2874": {
                 "title": "Raadsvoorstel Voorbereidingsbudget voor gebiedsontwikkeling Fellenoord",
                 "id": 7101646,
-                "module_id": [
-                    786662
-                ]
+                "module_id": []
             },
             "2650": {
                 "title": "Raadsvoorstel Erfgoedverordening gemeente Eindhoven en gewijzigde cultuurhistorische waardenkaart",
                 "id": 7090384,
-                "module_id": [
-                    784763
-                ]
+                "module_id": []
             },
             "2060": {
                 "title": "Raadsvoorstel gedeeltelijk opheffen geheimhouding raadsbesluit uitkoopregeling en proces uitkoopregeling",
                 "id": 7140764,
-                "module_id": [
-                    798793
-                ]
+                "module_id": []
             },
             "2924": {
                 "title": "Bespreekstukken",
@@ -3239,16 +3215,12 @@
             "2940": {
                 "title": "Raadsvoorstel Wijziging Verordening Sociaal Domein gemeente Eindhoven",
                 "id": 7090956,
-                "module_id": [
-                    784732
-                ]
+                "module_id": []
             },
             "3450": {
                 "title": "Raadsvoorstel Vaststelling bestemmingsplan II Tongelre buiten de Ring \n2019 (Lorentz Casimir Lyceum)",
                 "id": 7107232,
-                "module_id": [
-                    783662
-                ]
+                "module_id": []
             },
             "4141": {
                 "title": "Vrije moties",

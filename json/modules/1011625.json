@@ -4,18 +4,16 @@
     "member_id": [],
     "party_list": [],
     "poho_id": 230013,
-    "title": "Raadsvoorstel Aankoop BIC1",
+    "title": "Raadsvoorstel: Aankoop BIC1",
     "url": "https://raadsinformatie.eindhoven.nl/modules/19/raadsvoorstellen/1011625?parent_event=1256316",
     "type": "Raadsvoorstel",
     "member": null,
     "party": null,
     "poho": "S. Steenbakkers (Wethouder)",
     "result": "aangenomen",
-    "date": "18-02-2025",
+    "date": "25-02-2025",
     "meeting_url": {
-        "1256316": "https://raadsinformatie.eindhoven.nl/vergadering/1256316#ai_9025498",
-        "1256331": "https://raadsinformatie.eindhoven.nl/vergadering/1256331#ai_9025497",
-        "1331552": "https://raadsinformatie.eindhoven.nl/vergadering/1331552#ai_9072429"
+        "1256316": "https://raadsinformatie.eindhoven.nl/vergadering/1256316/Raadsvoorstel%3A%20Aankoop%20BIC1 25-02-2025#voting_9119888"
     },
     "attachment": {
         "http://raadsinformatie.eindhoven.nl/document/15071008/1?connection_type=16&connection_id=1011625": " Bijlage 1 - Geheimhoudingsbesluit Aankoop BIC1 ",
@@ -55,12 +53,12 @@
             "weight": 0.8323268714538679
         },
         {
-            "id": 1029795,
-            "weight": 0.6365628197427251
-        },
-        {
             "id": 1141277,
             "weight": 0.6138495179233879
+        },
+        {
+            "id": 1029795,
+            "weight": 0.5573116374689444
         },
         {
             "id": 1140187,
@@ -71,16 +69,16 @@
             "weight": 0.4559205194302456
         },
         {
-            "id": 1145711,
-            "weight": 0.4553663046788123
-        },
-        {
             "id": 1058731,
             "weight": 0.4494846361971072
         },
         {
-            "id": 1023857,
-            "weight": 0.34199919516822563
+            "id": 1153822,
+            "weight": 0.39112017521183406
+        },
+        {
+            "id": 1145711,
+            "weight": 0.3642930437430498
         },
         {
             "id": 1090160,
@@ -99,16 +97,20 @@
             "weight": 0.3394916522554116
         },
         {
-            "id": 1092907,
-            "weight": 0.3237656383164847
-        },
-        {
             "id": 1132670,
             "weight": 0.27132026873423537
         },
         {
+            "id": 1023857,
+            "weight": 0.26860008535925256
+        },
+        {
             "id": 1080157,
             "weight": 0.26278445775212494
+        },
+        {
+            "id": 1092907,
+            "weight": 0.24282422873736353
         },
         {
             "id": 875874,
@@ -131,10 +133,6 @@
             "weight": 0.20844602731483713
         },
         {
-            "id": 913551,
-            "weight": 0.20700765077001096
-        },
-        {
             "id": 987695,
             "weight": 0.18152169994488696
         },
@@ -147,40 +145,12 @@
             "weight": 0.18030021892044193
         },
         {
+            "id": 913551,
+            "weight": 0.16560612061600877
+        },
+        {
             "id": 941275,
-            "weight": 0.15642924652745244
-        },
-        {
-            "id": 804895,
-            "weight": 0.08728932359325746
-        },
-        {
-            "id": 955604,
-            "weight": 0.08706590735707416
-        },
-        {
-            "id": 1036709,
-            "weight": 0.0721504283704375
-        },
-        {
-            "id": 923623,
-            "weight": 0.07014551152985611
-        },
-        {
-            "id": 958581,
-            "weight": 0.06122013096039415
-        },
-        {
-            "id": 855034,
-            "weight": 0.06095258979281641
-        },
-        {
-            "id": 938313,
-            "weight": 0.05622457237256249
-        },
-        {
-            "id": 877025,
-            "weight": 0.04633705196665063
+            "weight": 0.12514339722196194
         }
     ],
     "videostarttime": {

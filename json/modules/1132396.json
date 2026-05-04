@@ -6,22 +6,23 @@
         194370,
         194373,
         77830,
-        133688,
         194511,
         194514,
         194424,
+        133688,
         194495
     ],
     "party_list": [
         "Eindhoven voor Elkaar",
-        "Partij voor de Dieren",
-        "D66",
         "Volt",
-        "PvdA",
-        " Ouderen Appèl - Hart voor Eindhoven",
         "GroenLinks",
+        "PvdA",
+        "CDA",
+        "PRO",
+        "D66",
         "SP",
-        "CDA"
+        "Partij voor de Dieren",
+        " Ouderen Appèl - Hart voor Eindhoven"
     ],
     "poho_id": 230024,
     "title": "Van 7,2 naar 2,5 (Motie M3)",
@@ -368,7 +369,7 @@
     },
     "svz": "",
     "afgedaan": "",
-    "eersteIndiener": 194495,
-    "lastScrapeDate": "08-04-2026",
+    "eersteIndiener": 77830,
+    "lastScrapeDate": "04-05-2026",
     "meeting_id": []
 }

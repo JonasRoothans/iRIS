@@ -13,7 +13,7 @@
     "result": "aangenomen",
     "date": "20-09-2023",
     "meeting_url": {
-        "1013512": "https://raadsinformatie.eindhoven.nl/vergadering/1013512#ai_7832108"
+        "1013512": "https://raadsinformatie.eindhoven.nl/vergadering/1013512/Raadsvoorstel%20Beslissing%20op%20bezwaar%20gericht%20tegen%20het%20besluit%20waarin%20geheimhouding%20van%20stukken%20betreffende%20de%20%E2%80%9CUitkoopregeling%20woonboten%20bedrijventerrein%20De%20Hurk%E2%80%9D%20gedeeltelijk%20is%20opgeheven%20%26%20beslissing%20op%20ingebrekestelling 20-09-2023#voting_7832127"
     },
     "attachment": {
         "https://raadsinformatie.eindhoven.nl/document/13122624/1/Raadsvoorstel+inclusief+Raadsbesluit+%28def%29?connection_type=17&connection_id=9727010": "Raadsvoorstel inclusief Raadsbesluit (def)",
@@ -42,7 +42,7 @@
     "related": [
         {
             "id": 874993,
-            "weight": 3.6305203247666324
+            "weight": 3.6146703280669645
         },
         {
             "id": 814889,
@@ -121,18 +121,6 @@
             "weight": 0.11450233724427894
         },
         {
-            "id": 798931,
-            "weight": 0.11350403592406312
-        },
-        {
-            "id": 799286,
-            "weight": 0.1132061534058466
-        },
-        {
-            "id": 997134,
-            "weight": 0.10953272649347585
-        },
-        {
             "id": 822893,
             "weight": 0.10497741140930347
         },
@@ -141,8 +129,16 @@
             "weight": 0.09851141256536179
         },
         {
-            "id": 792457,
-            "weight": 0.0923733413700945
+            "id": 798931,
+            "weight": 0.09728917364919697
+        },
+        {
+            "id": 799286,
+            "weight": 0.09703384577643993
+        },
+        {
+            "id": 997134,
+            "weight": 0.09388519413726502
         },
         {
             "id": 792365,
@@ -153,8 +149,16 @@
             "weight": 0.08966950184118437
         },
         {
+            "id": 1155677,
+            "weight": 0.08119443714442252
+        },
+        {
             "id": 888883,
             "weight": 0.08110897602822796
+        },
+        {
+            "id": 792457,
+            "weight": 0.07917714974579527
         },
         {
             "id": 12621472,

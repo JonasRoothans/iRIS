@@ -6,8 +6,9 @@
         194508
     ],
     "party_list": [
-        "PvdA",
-        "GroenLinks"
+        "GroenLinks",
+        "PRO",
+        "PvdA"
     ],
     "poho_id": [],
     "title": "Beantwoording raadsvragen - 'Wie kijkt mee' (GL, PvdA)",
@@ -258,6 +259,6 @@
     "svz": null,
     "afgedaan": null,
     "eersteIndiener": 194508,
-    "lastScrapeDate": "08-04-2026",
+    "lastScrapeDate": "04-05-2026",
     "meeting_id": []
 }

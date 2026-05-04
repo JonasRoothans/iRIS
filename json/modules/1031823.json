@@ -14,10 +14,10 @@
     "member": "Nicolas Knoester",
     "party": null,
     "poho": "",
-    "result": "Verworpen",
+    "result": "verworpen",
     "date": "15-04-2025",
     "meeting_url": {
-        "1256318": "https://raadsinformatie.eindhoven.nl/vergadering/1256318#ai_8588178"
+        "1256318": "https://raadsinformatie.eindhoven.nl/vergadering/1256318/Een%20goede%20informatievoorziening%20voor%20%C3%A1lle%20inwoners%20%28Vrije%20Motie%20VM1%29 15-04-2025#voting_9274187"
     },
     "attachment": null,
     "parent": null,
@@ -48,10 +48,6 @@
             "weight": 0.45385747784268154
         },
         {
-            "id": 1060077,
-            "weight": 0.42678866873184446
-        },
-        {
             "id": 15532910,
             "weight": 0.3963964633960423
         },
@@ -70,6 +66,14 @@
         {
             "id": 1047188,
             "weight": 0.37782517780632713
+        },
+        {
+            "id": 1060077,
+            "weight": 0.28452577915456295
+        },
+        {
+            "id": 1157934,
+            "weight": 0.27017422638801925
         },
         {
             "id": 1089522,

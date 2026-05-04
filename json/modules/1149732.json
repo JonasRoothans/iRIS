@@ -8,7 +8,7 @@
         "FVD"
     ],
     "poho_id": [],
-    "title": "Ingekomen raadsvragen - Geen stroom voor district E (FvD)",
+    "title": "Beantwoording raadsvragen - Geen stroom voor district E (FvD)",
     "url": "https://raadsinformatie.eindhoven.nl/modules/4/Raadsvragen/1149732",
     "type": "Raadsvraag",
     "member": "Nicolas Knoester",
@@ -18,86 +18,51 @@
     "date": "03-04-2026",
     "meeting_url": null,
     "attachment": {
-        "https://raadsinformatie.eindhoven.nl/document/16791758/1?connection_type=17&connection_id=13181779": "Vraag"
+        "https://raadsinformatie.eindhoven.nl/document/16791758/1?connection_type=17&connection_id=13181779": "Vraag",
+        "https://raadsinformatie.eindhoven.nl/document/16847920/1?connection_type=17&connection_id=13243335": "Antwoord"
     },
     "parent": null,
     "children": [],
     "text": null,
     "pdf_url": null,
     "pdf_text": " \n \n \nRaadsvragen - Geen stroom voor district -E \n \ndatum:  2 april 2026  \n \nGeacht college,  \n \nForum voor Democratie heeft kennisgenomen van een passage uit een \nposition paper van de VNG  (d.d. maart  2026)  ten behoeve van een \nrondetafelgesprek in de Tweede Kamer over netcongestie en \nwoningbouw . Daarin wordt onder meer gesteld dat Enexis sinds kort \ngeen stroom meer reserveert voor woningbouwplannen in de regio \nEindhoven, en dat er voor het project District -E geen zicht is op een \nelektriciteitsaansluiting.  \n \nVolgens deze passage leidt dit ertoe dat de anterieure overeenkomst \nnog niet is ondertekend en dat de realisatie van het project ernstig onder \ndruk staat.  \n \n \nZie: \nhttps://www.tweedekamer.nl/debat_en_vergadering/commissievergaderi\nngen/details?id=2026A01607   \nFVD is verbaasd aangezien de raad, voor zover bij ons bekend,  hierover  \nniet eerder is geïnformeerd. Het is in ieder geval niet terug te vinden in \nhet raadsinformatiesysteem.  \n \nDaarom de volgende vragen:  \n \n1. Kan het college bevestigen dat de raad niet eerder is \ngeïnformeerd over het ontbreken van zicht op een \nelektriciteitsaansluiting voor District -E? \n2. Indien dit het geval is, om welke reden is de raad hierover niet \n(actief) geïnformeerd?  \n3. Sinds wanneer is het college hier op de hoogte van?  \n4. Voor welke andere (woningbouw)projecten binnen de gemeente \ngeldt momenteel dat er geen, of onvoldoende, zicht is op een \ntijdige elektriciteitsaansluiting?  \n5. Op welke wijze en op welk moment is het college voornemens de \nraad hierover alsnog volledig te informeren?  \n \nNamens de fractie  Forum voor Democratie,  \n \nNicolas Knoester , raadslid  \n \n ",
-    "bst": "",
+    "bst": "8098450_1.3.1.",
     "related": [
         {
             "id": 941006,
             "weight": 0.46558989428139874
         },
         {
-            "id": 1137497,
-            "weight": 0.36083022073090826
-        },
-        {
-            "id": 12867579,
-            "weight": 0.3492159570719501
-        },
-        {
-            "id": 856435,
-            "weight": 0.3451580601254013
-        },
-        {
-            "id": 1089823,
-            "weight": 0.3334702160103965
-        },
-        {
             "id": 1008331,
-            "weight": 0.2748342716096619
-        },
-        {
-            "id": 1077793,
-            "weight": 0.18241729956405156
-        },
-        {
-            "id": 1097750,
-            "weight": 0.15543222141019836
-        },
-        {
-            "id": 945779,
-            "weight": 0.15393452049839312
-        },
-        {
-            "id": 863897,
-            "weight": 0.15240048475408913
+            "weight": 0.24047998765845416
         },
         {
             "id": 957730,
             "weight": 0.13999375840673087
         },
         {
-            "id": 804729,
-            "weight": 0.1374010556052751
-        },
-        {
             "id": 1008339,
-            "weight": 0.13531522320041425
+            "weight": 0.11840082030036247
         },
         {
             "id": 1020983,
-            "weight": 0.1340392491797753
+            "weight": 0.1172843430323034
         },
         {
             "id": 776919,
-            "weight": 0.11962569335210127
+            "weight": 0.10467248168308861
         },
         {
             "id": 1051400,
-            "weight": 0.11640609016455203
+            "weight": 0.10185532889398302
         },
         {
-            "id": 779022,
-            "weight": 0.1055841704452942
+            "id": 1154256,
+            "weight": 0.09852886884516858
         },
         {
             "id": 1009102,
-            "weight": 0.09778074024421822
+            "weight": 0.08555814771369094
         },
         {
             "id": 1078951,
@@ -108,36 +73,8 @@
             "weight": 0.07772722911772872
         },
         {
-            "id": 989925,
-            "weight": 0.0759358707605162
-        },
-        {
-            "id": 874916,
-            "weight": 0.07512282587854255
-        },
-        {
-            "id": 856473,
-            "weight": 0.07330852881750013
-        },
-        {
-            "id": 836417,
-            "weight": 0.07251191602162849
-        },
-        {
             "id": 858100,
             "weight": 0.0711515733031961
-        },
-        {
-            "id": 1120756,
-            "weight": 0.0708334167081615
-        },
-        {
-            "id": 1119726,
-            "weight": 0.0695044663854184
-        },
-        {
-            "id": 1117037,
-            "weight": 0.06949622274210578
         },
         {
             "id": 980407,
@@ -182,10 +119,6 @@
         {
             "id": 891082,
             "weight": 0.05688776089526269
-        },
-        {
-            "id": 1094272,
-            "weight": 0.0518157255240537
         },
         {
             "id": 1124666,
@@ -259,6 +192,6 @@
     "svz": null,
     "afgedaan": null,
     "eersteIndiener": 194500,
-    "lastScrapeDate": "08-04-2026",
+    "lastScrapeDate": "04-05-2026",
     "meeting_id": []
 }

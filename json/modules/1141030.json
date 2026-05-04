@@ -14,13 +14,13 @@
     ],
     "party_list": [
         "Eindhoven voor Elkaar",
-        "Partij voor de Dieren",
-        "D66",
         "Volt",
-        "PvdA",
-        " Ouderen Appèl - Hart voor Eindhoven",
         "GroenLinks",
-        "SP"
+        "PvdA",
+        "D66",
+        "SP",
+        "Partij voor de Dieren",
+        " Ouderen Appèl - Hart voor Eindhoven"
     ],
     "poho_id": 230022,
     "title": "Aandacht voor mannelijke slachtoffers van huiselijk en seksueel geweld (Vrije Motie VM8)",
@@ -368,6 +368,6 @@
     "svz": "",
     "afgedaan": "",
     "eersteIndiener": 195133,
-    "lastScrapeDate": "08-04-2026",
+    "lastScrapeDate": "04-05-2026",
     "meeting_id": []
 }

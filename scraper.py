@@ -12,7 +12,7 @@ from functions.download.download_amendementen import download_amendementen
 from functions.download.download_brieven import download_brieven
 from functions.download import web
 
-start_date = datetime.strptime('01-01-2022', '%d-%m-%Y')
+start_date = datetime.strptime('01-01-2026', '%d-%m-%Y')
 step = sys.argv[1] if len(sys.argv) > 1 else "all"
 
 def run_with_driver(fn, *args):
@@ -46,3 +46,25 @@ else:
         print(f"Available steps: {', '.join(steps.keys())}")
         sys.exit(1)
     steps[step]()
+
+
+import subprocess
+from datetime import date
+
+result = subprocess.run(
+    ["git", "add", "data/"],
+    capture_output=True, text=True
+)
+print(result.stdout)
+
+result = subprocess.run(
+    ["git", "commit", "-m", f"Update {date.today()}"],
+    capture_output=True, text=True
+)
+print(result.stdout)
+
+result = subprocess.run(
+    ["git", "push"],
+    capture_output=True, text=True
+)
+print(result.stdout)

@@ -6,11 +6,11 @@
         77830
     ],
     "party_list": [
-        "50PLUS",
-        "SP"
+        "SP",
+        "50PLUS"
     ],
     "poho_id": [],
-    "title": "Ingekomen raadsvragen - Hoe zorgt het college snel voor goed WMO vervoer door Taxbus (SP, 50PLUS)",
+    "title": "Beantwoording raadsvragen - Hoe zorgt het college snel voor goed WMO vervoer door Taxbus (SP, 50PLUS)",
     "url": "https://raadsinformatie.eindhoven.nl/modules/4/Raadsvragen/1149679",
     "type": "Raadsvraag",
     "member": "Murat Memiş en Bep van de Wiel-Dinslage",
@@ -20,30 +20,35 @@
     "date": "03-04-2026",
     "meeting_url": null,
     "attachment": {
-        "https://raadsinformatie.eindhoven.nl/document/16790556/1?connection_type=17&connection_id=13181184": "Vraag"
+        "https://raadsinformatie.eindhoven.nl/document/16790556/1?connection_type=17&connection_id=13181184": "Vraag",
+        "https://raadsinformatie.eindhoven.nl/document/16805749/1?connection_type=17&connection_id=13198023": "Antwoord"
     },
     "parent": null,
     "children": [],
     "text": null,
     "pdf_url": null,
     "pdf_text": " \n \n \n \n \n \n \n \nRaadsvragen - Hoe zorgt het college snel voor goed WMO -vervoer door \nTaxbus?  \n \ndatum:  2 april 2026  \n \nInleiding  \nNaar aanleiding van zorgwekkende signalen van onder andere ‘Eindhoven Toegankelijk’ \nstelde n onze fractie s in de raadsvergadering van 10 februari vragen over het WMO -vervoer \ndoor Taxbus vanaf 1 maart. Op die datum startte namelijk een door het college gekozen \nnieuwe vervoerder.  \nWij vroegen onder andere of het was gelukt om al het personeel over te neme n en of de \nnieuwe vervoerder met genoeg personeel zou starten om de dienstverlening goed vorm te \ngeven . Ook vroegen wij of het college knelpunten signaleerde.  \n \nHet college reageerde op zeer geruststellende toon dat een deel van het personeel zou \novergaan en dat daarnaast nieuwe medewerkers waren aangetrokken. Wethouder Toub \nmeldde ook dat het allemaal prima verl iep en dat er vanaf de start per 1 maart geen \nknelpunten l eken  te zijn.  \n  \nOok al in september vorig jaar antwoordde het college geruststellend op raadsvragen van \nde fractie van 50PLUS over het Taxbusvervoer vanaf 1 maart.  Het college schreef zelfs dat \nmet de nieuwe contracten ‘gerichte  \nverbeteringen worden doorgevoerd, onder andere op het gebied van wachttijden en \nbereikbaarhei d’. \n \nDe realiteit is helaas héél anders, zo vernamen wij onder andere van ‘Eindhoven \nToegankelijk’. Ook in het Eindhovens Dagblad (ED) van heden (2 april) is te lezen dat het \nWMO -vervoer in Eindhoven momenteel ver onder de maat is. De gemeente heeft aan het \nED laten weten de huidige situatie  zelfs ‘onacceptabel’ te vinden.  \n \nVan het WMO -vervoer door Taxbus  zijn juist de meest kwetsbare mensen afhankelijk. \nDaarom vinden de fracties van SP en 50PLUS het des te schrijnender dat juist deze \nmensen de dupe zijn van de chaos in Eindhoven en omgeving. Niet alleen de reizigers \nhebben te lijden onder de situatie, dat geldt zeker ook voor de medewerkers van Taxbus. \nDit was voor vakbond FNV al aanleiding om de chauffeurs bijeen te roepen.  \n \nDit alles leidt tot de volgende raadsvragen:  \n \n1. Waarop baseerde het college zijn optimisme o ver het WMO -vervoer door Taxbus na 1 \nmaart  tijdens de raadsvergadering van 10 februari?  \n2. Welk onderzoek heeft het college verricht om te kunnen stellen dat er geen knelpunten \nleken te zijn na 1 maart?  \n3. Hoe is het mogelijk dat  er nu in de praktijk wel ernstige problemen spelen?  \n4. Vorig jaar al uitten vakbond FNV en de toenmalige chauffeurs hun zorgen over het WMO -\nvervoer na 1 maart. Wat heeft het college met die signalen gedaan?  \n5. Welke maatregelen gaat het college treffen om te zorgen voor een goede en betrouwbare \ndienstverlening door Taxbus?  \n6. Wanneer verwacht het college de kwaliteit van deze dienstverlening weer helemaal op orde \nte hebben?  \n \n \nNamens de fractie s,  \n \nMurat Memi ş, raadsl id SP \nBep van de Wiel - Dinslage, raadslid  50PLUS  \n \n ",
-    "bst": "",
+    "bst": "8098450_4.8.1.",
     "related": [
         {
             "id": 1150671,
-            "weight": 0.6507004036593896
+            "weight": 0.5577432031366196
         },
         {
             "id": 1013595,
-            "weight": 0.6470601622678699
+            "weight": 0.5546229962296028
         },
         {
             "id": 16590308,
-            "weight": 0.6461495864528931
+            "weight": 0.5538425026739083
         },
         {
             "id": 1134427,
-            "weight": 0.6357313171917643
+            "weight": 0.5449125575929409
+        },
+        {
+            "id": 1151147,
+            "weight": 0.5376338624591611
         },
         {
             "id": 12471553,
@@ -66,16 +71,16 @@
             "weight": 0.23916596551880445
         },
         {
-            "id": 1072391,
-            "weight": 0.2124312902449407
-        },
-        {
             "id": 1018090,
             "weight": 0.20118594182676305
         },
         {
             "id": 1042495,
             "weight": 0.19628576830854305
+        },
+        {
+            "id": 1072391,
+            "weight": 0.18208396306709204
         },
         {
             "id": 1127746,
@@ -216,6 +221,6 @@
     "svz": null,
     "afgedaan": null,
     "eersteIndiener": 77830,
-    "lastScrapeDate": "08-04-2026",
+    "lastScrapeDate": "04-05-2026",
     "meeting_id": []
 }

@@ -13,7 +13,7 @@
     "result": "aangenomen",
     "date": "07-05-2024",
     "meeting_url": {
-        "1147927": "https://raadsinformatie.eindhoven.nl/vergadering/1147927#ai_8326031"
+        "1147927": "https://raadsinformatie.eindhoven.nl/vergadering/1147927/Raadsvoorstel%20Gewijzigde%20vaststelling%20bestemmingsplan%20Park%20Forum%20Oost%20%28volkstuinen%29 07-05-2024#voting_8326033"
     },
     "attachment": {
         "https://raadsinformatie.eindhoven.nl/document/13969185/1/24bst00260+Raadsvoorstel+Gewijzigde+vaststelling+bestemmingsplan+Park+Forum+Oost+%28volkstuinen%29?connection_type=17&connection_id=10415813": "Raadsvoorstel Gewijzigde vaststelling bestemmingsplan Park Forum Oost (volkstuinen)",
@@ -124,10 +124,6 @@
             "weight": 0.11670294308176013
         },
         {
-            "id": 1107289,
-            "weight": 0.11611370996019232
-        },
-        {
             "id": 1150706,
             "weight": 0.11579452879264174
         },
@@ -140,12 +136,8 @@
             "weight": 0.10779342505038692
         },
         {
-            "id": 825617,
-            "weight": 0.09468156455224686
-        },
-        {
-            "id": 993816,
-            "weight": 0.09426025034344121
+            "id": 1107289,
+            "weight": 0.09952603710873628
         },
         {
             "id": 803046,
@@ -154,10 +146,6 @@
         {
             "id": "a_7270209",
             "weight": 0.09190975328129695
-        },
-        {
-            "id": 866658,
-            "weight": 0.09036485246758712
         },
         {
             "id": 952160,
@@ -176,16 +164,32 @@
             "weight": 0.08767267560919871
         },
         {
-            "id": 1115687,
-            "weight": 0.08657039285967892
-        },
-        {
             "id": 924599,
             "weight": 0.08609586759028813
         },
         {
+            "id": 1153214,
+            "weight": 0.08560991881457639
+        },
+        {
             "id": 1044103,
             "weight": 0.08421447807279114
+        },
+        {
+            "id": 825617,
+            "weight": 0.08115562675906873
+        },
+        {
+            "id": 993816,
+            "weight": 0.08079450029437818
+        },
+        {
+            "id": 866658,
+            "weight": 0.07745558782936038
+        },
+        {
+            "id": 1115687,
+            "weight": 0.07420319387972478
         }
     ],
     "videostarttime": {

@@ -1,0 +1,59 @@
+{
+    "module_id": 1151464,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Raadsbrief Vierlander– Gebiedsontwikkeling Fellenoord",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/8/Raadsbrieven/1151464",
+    "type": "Raadsbrief",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "09-04-2026",
+    "meeting_url": null,
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/16808948/2/8150103_03+Raadsbrief+Vierlander%E2%80%93+Gebiedsontwikkeling+Fellenoord?connection_type=17&connection_id=13201587",
+    "pdf_text": null,
+    "bst": "8150103_03",
+    "related": [
+        {
+            "id": 1146887,
+            "weight": 0.6341377262403185
+        },
+        {
+            "id": 1153243,
+            "weight": 0.6273235163546674
+        },
+        {
+            "id": 950071,
+            "weight": 0.6241838856295508
+        },
+        {
+            "id": 902042,
+            "weight": 0.28315283446827616
+        },
+        {
+            "id": 884948,
+            "weight": 0.2522317921393044
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Gebiedsontwikkeling Fellenoord": 1.9925553183866471,
+        "Raadsbrief Vierlander": 1.986202801796007,
+        "Vierlander": 1.9140368224837343,
+        "Fellenoord": 1.9140368224837343,
+        "Raadsbrief": 1.8416830712200127
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": null,
+    "meeting_id": []
+}

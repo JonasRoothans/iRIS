@@ -4,19 +4,16 @@
     "member_id": [],
     "party_list": [],
     "poho_id": 230023,
-    "title": "Raadsvoorstel Concept Herzien Woonprogramma 2025 2030",
+    "title": "Voorkom vertraging bescherm betaalbaar wonen - 2 (Vrije Motie VM9)",
     "url": "https://raadsinformatie.eindhoven.nl/modules/19/raadsvoorstellen/1091329?parent_event=1256326",
     "type": "Raadsvoorstel",
     "member": null,
     "party": null,
     "poho": "M. Verhees (Wethouder)",
     "result": "verworpen",
-    "date": "25-11-2025",
+    "date": "16-12-2025",
     "meeting_url": {
-        "1256326": "https://raadsinformatie.eindhoven.nl/vergadering/1256326#ai_9840681",
-        "1256749": "https://raadsinformatie.eindhoven.nl/vergadering/1256749#ai_9719442",
-        "1256666": "https://raadsinformatie.eindhoven.nl/vergadering/1256666#ai_9727645",
-        "1256671": "https://raadsinformatie.eindhoven.nl/vergadering/1256671#ai_9794273"
+        "1256326": "https://raadsinformatie.eindhoven.nl/vergadering/1256326/Voorkom%20vertraging%20bescherm%20betaalbaar%20wonen%20-%202%20%28Vrije%20Motie%20VM9%29 16-12-2025#voting_397958"
     },
     "attachment": {
         "https://raadsinformatie.eindhoven.nl/document/16083595/2/8021975_07+Raadsvoorstel+Concept+Herzien+Woonprogramma+2025-2030?connection_type=17&connection_id=12448185": "Raadsvoorstel Concept Herzien Woonprogramma 2025-2030",
@@ -40,23 +37,23 @@
     "related": [
         {
             "id": "a_9828895",
-            "weight": 0.8554786075357751
-        },
-        {
-            "id": 1001572,
-            "weight": 0.7555027683691635
+            "weight": 0.855478607535775
         },
         {
             "id": "a_9828896",
             "weight": 0.7485202469576199
         },
         {
+            "id": 1001572,
+            "weight": 0.7143025926213865
+        },
+        {
             "id": 1027145,
-            "weight": 0.5243694565402746
+            "weight": 0.5243694565402747
         },
         {
             "id": "a_9831396",
-            "weight": 0.42952418230421335
+            "weight": 0.4295241823042134
         },
         {
             "id": 810287,
@@ -64,7 +61,7 @@
         },
         {
             "id": "a_9831398",
-            "weight": 0.36386516658065443
+            "weight": 0.3638651665806545
         },
         {
             "id": "a_9831397",
@@ -75,12 +72,12 @@
             "weight": 0.3325889173508888
         },
         {
-            "id": 993565,
-            "weight": 0.31902939678085185
-        },
-        {
             "id": "a_9830202",
             "weight": 0.2834512264765783
+        },
+        {
+            "id": 993565,
+            "weight": 0.2749859302817578
         },
         {
             "id": 16499876,
@@ -151,10 +148,6 @@
             "weight": 0.12128720975109021
         },
         {
-            "id": 1124666,
-            "weight": 0.11394894559090071
-        },
-        {
             "id": 889289,
             "weight": 0.10085606864970184
         },
@@ -163,12 +156,20 @@
             "weight": 0.09625160071181811
         },
         {
+            "id": 1155677,
+            "weight": 0.09496116410896083
+        },
+        {
             "id": 1117714,
             "weight": 0.09423537252606654
         },
         {
             "id": 1045702,
             "weight": 0.09279289586885657
+        },
+        {
+            "id": 1124666,
+            "weight": 0.09115915647272058
         },
         {
             "id": 985312,

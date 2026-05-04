@@ -1,0 +1,78 @@
+{
+    "module_id": 1153821,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Raadsbrief Stand van zaken opvang en ontwikkelingen Asiel en Migratie",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/8/Raadsbrieven/1153821",
+    "type": "Raadsbrief",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "15-04-2026",
+    "meeting_url": null,
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/16834117/2/8098450_2_8_1_+Raadsbrief+Stand+van+zaken+opvang+en+ontwikkelingen+Asiel+en+Migratie+?connection_type=17&connection_id=13229206",
+    "pdf_text": null,
+    "bst": "8098450_2.8.1.",
+    "related": [
+        {
+            "id": 1111855,
+            "weight": 1.9613567113942576
+        },
+        {
+            "id": 1146313,
+            "weight": 0.43839032491287955
+        },
+        {
+            "id": 1096717,
+            "weight": 0.4380923563261903
+        },
+        {
+            "id": 1150706,
+            "weight": 0.4376527203942965
+        },
+        {
+            "id": 1151147,
+            "weight": 0.4374101521351224
+        },
+        {
+            "id": 1094398,
+            "weight": 0.43630979188036734
+        },
+        {
+            "id": 1133033,
+            "weight": 0.4338980346213572
+        },
+        {
+            "id": 1117281,
+            "weight": 0.43020339226489646
+        },
+        {
+            "id": 1126821,
+            "weight": 0.22043849910488061
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Raadsbrief Stand": 1.9917067928775634,
+        "ontwikkelingen Asiel": 1.986202801796007,
+        "zaken opvang": 1.9742913828560065,
+        "Migratie": 1.9429876123096683,
+        "Stand": 1.9140368224837343,
+        "Asiel": 1.9140368224837343,
+        "zaken": 1.8416830712200127,
+        "opvang": 1.8416830712200127
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": null,
+    "meeting_id": []
+}

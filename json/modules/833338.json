@@ -11,11 +11,9 @@
     "party": null,
     "poho": "R. Thijs (Wethouder)",
     "result": "aangenomen",
-    "date": "16-05-2023",
+    "date": "30-05-2023",
     "meeting_url": {
-        "1013491": "https://raadsinformatie.eindhoven.nl/vergadering/1013491#ai_7526097",
-        "1096272": "https://raadsinformatie.eindhoven.nl/vergadering/1096272#ai_7526058",
-        "1096275": "https://raadsinformatie.eindhoven.nl/vergadering/1096275#ai_7544143"
+        "1013491": "https://raadsinformatie.eindhoven.nl/vergadering/1013491/Raadsvoorstel%20Vaststellen%20grondexploitatie%20Land%20Forum 30-05-2023#voting_7548299"
     },
     "attachment": {
         "https://raadsinformatie.eindhoven.nl/document/12599093/2/23bst00332+Raadsvoorstel+Vaststellen+grondexploitatie+Land+Forum?connection_type=17&connection_id=9236679": "Raadsvoorstel Vaststellen grondexploitatie Land Forum",
@@ -74,10 +72,6 @@
             "weight": 0.30435659816019583
         },
         {
-            "id": 1146887,
-            "weight": 0.2986736529091626
-        },
-        {
             "id": 1073302,
             "weight": 0.2920155751407389
         },
@@ -88,6 +82,10 @@
         {
             "id": 922345,
             "weight": 0.19951943545936737
+        },
+        {
+            "id": 1146887,
+            "weight": 0.19911576860610838
         },
         {
             "id": 888414,
@@ -108,6 +106,10 @@
         {
             "id": 792398,
             "weight": 0.18553978817758332
+        },
+        {
+            "id": 1153243,
+            "weight": 0.17519726181889053
         },
         {
             "id": 984905,

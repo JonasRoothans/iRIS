@@ -4274,13 +4274,15 @@
             }
         }
     },
-    "title": "Vergadering Raadsvergadering 20-12-2022 Gemeente Eindhoven",
+    "title": {
+        "Raadzaal": "Vergadering Raadsvergadering 20-12-2022 Gemeente Eindhoven"
+    },
     "meeting_url": "https://raadsinformatie.eindhoven.nl/vergadering/1013589/",
     "video_url": {
         "Raadzaal": "http://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_20.12.22_Eindhoven_raad.mp4/playlist.m3u8"
     },
     "api_url": "api.notubiz.nl/events/1013589",
-    "date": "20-12-2022",
+    "date": "2022-12-20 14:00:00",
     "type": "Raadsvergadering",
     "agenda": {
         "Raadzaal": {
@@ -4307,16 +4309,12 @@
             "882": {
                 "title": "Raadsvoorstel Bekrachtiging geheimhouding stukken met betrekking tot uitvoering gebiedsontwikkeling Fellenoord",
                 "id": 7219659,
-                "module_id": [
-                    798931
-                ]
+                "module_id": []
             },
             "895": {
                 "title": "Raadsvoorstel Bekrachtiging geheimhouding met betrekking tot stukken Investeringsbudget Nieuwbouw Tongelreep",
                 "id": 7226295,
-                "module_id": [
-                    799286
-                ]
+                "module_id": []
             },
             "932": {
                 "title": "Benoemingen en ontheffingen",
@@ -4326,23 +4324,17 @@
             "964": {
                 "title": "Raadsvoorstel benoemen commissielid van de fractie PvdA als lid in de Meningsvormende vergadering",
                 "id": 7237475,
-                "module_id": [
-                    800580
-                ]
+                "module_id": []
             },
             "1056": {
                 "title": "Raadsvoorstel benoemen voorzitter van de Meningsvormende vergadering",
                 "id": 7243262,
-                "module_id": [
-                    801061
-                ]
+                "module_id": []
             },
             "1078": {
                 "title": "Raadsvoorstel Ontheffing en benoeming lid werkgeverscommissie ",
                 "id": 7263236,
-                "module_id": [
-                    802773
-                ]
+                "module_id": []
             },
             "1120": {
                 "title": "Openbare besluitenlijst van de raadsvergadering d.d. 29 november 2022",
@@ -4362,128 +4354,92 @@
             "2149": {
                 "title": "Raadsvoorstel Tijdelijke huisvesting St. Antonius Abt",
                 "id": 7117360,
-                "module_id": [
-                    788083
-                ]
+                "module_id": []
             },
             "2153": {
                 "title": "Raadsvoorstel Reserve Beschermd Wonen en Innovatie",
                 "id": 7117367,
-                "module_id": [
-                    787684
-                ]
+                "module_id": []
             },
             "2158": {
                 "title": "Raadsvoorstel Begrotingswijzigingen n.a.v. Turap-2 2022",
                 "id": 7118510,
-                "module_id": [
-                    788340
-                ]
+                "module_id": []
             },
             "2291": {
                 "title": "Raadsvoorstel tot vaststelling bestemmingsplan Stationsplein Zuid (ondergrondse fietsenstalling)",
                 "id": 7141641,
-                "module_id": [
-                    790641
-                ]
+                "module_id": []
             },
             "2166": {
                 "title": "Raadsvoorstel tot vaststelling bestemmingsplan “Tongelre binnen de Ring (Tongelresestraat 146-150)”",
                 "id": 7141667,
-                "module_id": [
-                    790619
-                ]
+                "module_id": []
             },
             "2171": {
                 "title": "Raadsvoorstel Begrotingswijziging herziene verlening SPUK 2021-2023 instandhouding en doorontwikkeling van het Expertisenetwerk Jeugd",
                 "id": 7141676,
-                "module_id": [
-                    790682
-                ]
+                "module_id": []
             },
             "2184": {
                 "title": "Raadsvoorstel Korte termijn maatregelenpakket A2/Randweg",
                 "id": 7141673,
-                "module_id": [
-                    790716
-                ]
+                "module_id": []
             },
             "2188": {
                 "title": "Raadsvoorstel Onteigening voor de uitvoering van het bestemmingsplan 'I Reconstructie A2/A67 (fietsbrug)'",
                 "id": 7146757,
-                "module_id": [
-                    790602
-                ]
+                "module_id": []
             },
             "2198": {
                 "title": "Raadsvoorstel Tiende wijziging APV Eindhoven",
                 "id": 7150018,
-                "module_id": [
-                    791188
-                ]
+                "module_id": []
             },
             "2203": {
                 "title": "Raadsvoorstel Vaststelling bestemmingsplan III Emmasingelkwadrant-Fellenoord 2013 (TAC-gebouw)",
                 "id": 7150039,
-                "module_id": [
-                    790660
-                ]
+                "module_id": []
             },
             "2220": {
                 "title": "Raadsvoorstel Verordening Bedrijveninvesteringszone Boulevard Zuid Eindhoven 2023-2027, Verordening Bedrijveninvesteringszone Haagdijk Eindhoven 2023-2027",
                 "id": 7150030,
-                "module_id": [
-                    790614
-                ]
+                "module_id": []
             },
             "2225": {
                 "title": "Raadsvoorstel Overdracht door de gemeente Eindhoven ontvangen rijksbijdragen 2022 RIEC aan Stichting Beheer en Uitvoering Taskforce-RIEC Brabant-Zeeland",
                 "id": 7150025,
-                "module_id": [
-                    790586
-                ]
+                "module_id": []
             },
             "2236": {
                 "title": "Raadsvoorstel Actualisatie projecten en projectadministratie RD 2022-02",
                 "id": 7171644,
-                "module_id": [
-                    792357
-                ]
+                "module_id": []
             },
             "2244": {
                 "title": "Raadsvoorstel Vaststellen van de reserveringen 2022 en overige wijzigingen in reserves en voorzieningen",
                 "id": 7171645,
-                "module_id": [
-                    792350
-                ]
+                "module_id": []
             },
             "2470": {
                 "title": "Raadsvoorstel Vaststellen van de grondexploitatie voor BIC cluster 2",
                 "id": 7171642,
-                "module_id": [
-                    792398
-                ]
+                "module_id": []
             },
             "2257": {
                 "title": "Raadsvoorstel Beslissing op bezwaar aanwijzing Wet voorkeursrecht gemeenten Kanaalzone Zuid",
                 "id": 7205114,
-                "module_id": [
-                    797364
-                ]
+                "module_id": []
             },
             "1661": {
                 "title": "Raadsvoorstel Wijziging OZB-tarieven 2023",
                 "id": 7247935,
-                "module_id": [
-                    800622
-                ]
+                "module_id": []
             },
             "2575": {
                 "title": "Raadsvoorstel Verordening fractieondersteuning gemeente Eindhoven 2023",
                 "id": 7270548,
-                "module_id": [
-                    803059
-                ]
+                "module_id": []
             },
             "2740": {
                 "title": "Bespreekstukken",
@@ -4493,16 +4449,12 @@
             "2863": {
                 "title": "Raadsvoorstel Water en Klimaatadaptatie Aanpak (WKA) 2023-2026",
                 "id": 7171646,
-                "module_id": [
-                    791462
-                ]
+                "module_id": []
             },
             "4257": {
                 "title": "Raadsvoorstel Gewijzigde vaststelling bestemmingsplan 'Buitengebied (Museumpark VONK)'",
                 "id": 7150034,
-                "module_id": [
-                    790647
-                ]
+                "module_id": []
             },
             "5969": {
                 "title": "Vrije moties",

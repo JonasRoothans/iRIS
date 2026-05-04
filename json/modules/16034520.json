@@ -2,12 +2,12 @@
     "module_id": 16034520,
     "vote_id": null,
     "member_id": [
-        194495,
-        131143
+        131143,
+        194495
     ],
     "party_list": [
-        "Partij voor de Dieren",
-        "D66"
+        "D66",
+        "Partij voor de Dieren"
     ],
     "poho_id": [],
     "title": "Vraag V2 Vragenhalfuur - Blijf slachtoffers huiselijk geweld beschermen (D66, PvdD)",
@@ -66,12 +66,16 @@
             "weight": 0.32073745332141773
         },
         {
+            "id": 1155677,
+            "weight": 0.17728118752258537
+        },
+        {
             "id": 16277042,
-            "weight": 0.2235462860071993
+            "weight": 0.1676597145053995
         },
         {
             "id": 1123046,
-            "weight": 0.21924663193090763
+            "weight": 0.1644349739481807
         },
         {
             "id": 14471177,

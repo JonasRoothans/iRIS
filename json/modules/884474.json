@@ -13,8 +13,7 @@
     "result": "aangenomen",
     "date": "28-11-2023",
     "meeting_url": {
-        "1013527": "https://raadsinformatie.eindhoven.nl/vergadering/1013527#ai_7916738",
-        "1044930": "https://raadsinformatie.eindhoven.nl/vergadering/1044930#ai_7948037"
+        "1013527": "https://raadsinformatie.eindhoven.nl/vergadering/1013527/Raadsvoorstel%20Gebiedskader%20Schellenskwartier 28-11-2023#voting_7949504"
     },
     "attachment": {
         "https://raadsinformatie.eindhoven.nl/document/13322864/4/23bst01403+Raadsvoorstel+Gebiedskader+Schellenskwartier?connection_type=17&connection_id=9839252": "Raadsvoorstel Gebiedskader Schellenskwartier",
@@ -143,14 +142,6 @@
             "weight": 0.1307430922106057
         },
         {
-            "id": 920227,
-            "weight": 0.12770804136063374
-        },
-        {
-            "id": 1132674,
-            "weight": 0.12310306071394186
-        },
-        {
             "id": 1126669,
             "weight": 0.11546212170110079
         },
@@ -163,8 +154,12 @@
             "weight": 0.1121390104778689
         },
         {
-            "id": 1057873,
-            "weight": 0.11107842753303036
+            "id": 920227,
+            "weight": 0.11174453619055452
+        },
+        {
+            "id": 1157569,
+            "weight": 0.11064644497060913
         },
         {
             "id": 799238,
@@ -179,12 +174,20 @@
             "weight": 0.10828932011634032
         },
         {
+            "id": 1132674,
+            "weight": 0.10771517812469913
+        },
+        {
             "id": 1139110,
             "weight": 0.09917180545081536
         },
         {
             "id": 14926560,
             "weight": 0.09746071016897644
+        },
+        {
+            "id": 1057873,
+            "weight": 0.09719362409140157
         },
         {
             "id": 1025674,
@@ -219,16 +222,8 @@
             "weight": 0.07757348945802081
         },
         {
-            "id": 1042149,
-            "weight": 0.07368970593723438
-        },
-        {
             "id": 790602,
             "weight": 0.07344971002557016
-        },
-        {
-            "id": 1085534,
-            "weight": 0.07312540157396762
         },
         {
             "id": "a_8569521",
@@ -239,8 +234,12 @@
             "weight": 0.06810546128177479
         },
         {
-            "id": 1036311,
-            "weight": 0.06766448758875661
+            "id": 1042149,
+            "weight": 0.06447849269508009
+        },
+        {
+            "id": 1085534,
+            "weight": 0.06398472637722166
         },
         {
             "id": 1057349,
@@ -249,6 +248,10 @@
         {
             "id": 865481,
             "weight": 0.0615906321024777
+        },
+        {
+            "id": 1036311,
+            "weight": 0.059206426640162034
         }
     ],
     "videostarttime": {

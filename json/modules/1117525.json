@@ -13,8 +13,7 @@
     "result": "aangenomen",
     "date": "10-02-2026",
     "meeting_url": {
-        "1374859": "https://raadsinformatie.eindhoven.nl/vergadering/1374859#ai_9916782",
-        "1374915": "https://raadsinformatie.eindhoven.nl/vergadering/1374915#ai_9949802"
+        "1374859": "https://raadsinformatie.eindhoven.nl/vergadering/1374859/Raadsvoorstel%20Beleidsplan%20Een%20financieel%20zeker%20bestaan%202026 10-02-2026#voting_401281"
     },
     "attachment": {
         "https://raadsinformatie.eindhoven.nl/document/16411774/2/8085107_02+Raadsvoorstel+Beleidsplan+Een+financieel+zeker+bestaan+2026?connection_type=17&connection_id=12774607": "Raadsvoorstel Beleidsplan Een financieel zeker bestaan 2026",
@@ -83,10 +82,6 @@
             "weight": 0.24060007773803407
         },
         {
-            "id": 984494,
-            "weight": 0.2334081397095818
-        },
-        {
             "id": 15634380,
             "weight": 0.23057217595707388
         },
@@ -97,6 +92,10 @@
         {
             "id": 930556,
             "weight": 0.21361915557707098
+        },
+        {
+            "id": 984494,
+            "weight": 0.2074739019640727
         },
         {
             "id": "a_8569565",
@@ -167,24 +166,8 @@
             "weight": 0.12332993383847696
         },
         {
-            "id": 791694,
-            "weight": 0.11577359869550577
-        },
-        {
-            "id": 1000408,
-            "weight": 0.11553984306213626
-        },
-        {
-            "id": 862742,
-            "weight": 0.11460304717893521
-        },
-        {
             "id": "a_9760911",
             "weight": 0.11352840556182386
-        },
-        {
-            "id": 1128309,
-            "weight": 0.11315475702599992
         },
         {
             "id": 796421,
@@ -193,10 +176,6 @@
         {
             "id": 865473,
             "weight": 0.10991269120481195
-        },
-        {
-            "id": 1046801,
-            "weight": 0.10857862610834908
         },
         {
             "id": 864273,
@@ -219,12 +198,28 @@
             "weight": 0.10506281799312588
         },
         {
+            "id": 791694,
+            "weight": 0.10290986550711624
+        },
+        {
+            "id": 1000408,
+            "weight": 0.1027020827218989
+        },
+        {
             "id": 819768,
             "weight": 0.10265755715931933
         },
         {
+            "id": 862742,
+            "weight": 0.10186937527016464
+        },
+        {
             "id": 1090197,
             "weight": 0.1009847406267898
+        },
+        {
+            "id": 1128309,
+            "weight": 0.10058200624533326
         },
         {
             "id": 935345,
@@ -239,10 +234,6 @@
             "weight": 0.09940253695632688
         },
         {
-            "id": 1051257,
-            "weight": 0.09886967004549546
-        },
-        {
             "id": 997134,
             "weight": 0.09752571633862574
         },
@@ -253,6 +244,10 @@
         {
             "id": 796438,
             "weight": 0.09664461449509233
+        },
+        {
+            "id": 1046801,
+            "weight": 0.09651433431853251
         },
         {
             "id": 1146313,
@@ -267,6 +262,10 @@
             "weight": 0.09500704005762868
         },
         {
+            "id": 1158094,
+            "weight": 0.09255869757640739
+        },
+        {
             "id": 789322,
             "weight": 0.09185739676068587
         },
@@ -277,6 +276,10 @@
         {
             "id": "a_7156550",
             "weight": 0.08811620507676189
+        },
+        {
+            "id": 1051257,
+            "weight": 0.08788415115155152
         },
         {
             "id": 1132187,
@@ -473,7 +476,7 @@
     "svz": null,
     "afgedaan": null,
     "eersteIndiener": null,
-    "lastScrapeDate": "10-04-2026",
+    "lastScrapeDate": "04-05-2026",
     "meeting_id": [
         1374859
     ]

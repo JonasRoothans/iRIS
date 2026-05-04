@@ -13,7 +13,8 @@
     "result": "",
     "date": "26-05-2026",
     "meeting_url": {
-        "1374866": "https://raadsinformatie.eindhoven.nl/vergadering/1374866#ai_10166919"
+        "1374866": "https://raadsinformatie.eindhoven.nl/vergadering/1374866#ai_10166919",
+        "1374935": "https://raadsinformatie.eindhoven.nl/vergadering/1374935#ai_10183207"
     },
     "attachment": {
         "https://raadsinformatie.eindhoven.nl/document/16780086/1/8150187_02+Raadsvoorstel+Delegatie-+en+mandaatbesluit+Omgevingswet?connection_type=17&connection_id=13170175": "Raadsvoorstel Delegatie- en mandaatbesluit Omgevingswet"
@@ -27,7 +28,7 @@
     "related": [
         {
             "id": 950248,
-            "weight": 4.353967697854587
+            "weight": 4.342348569332297
         },
         {
             "id": 979311,
@@ -36,6 +37,10 @@
         {
             "id": 1058731,
             "weight": 0.5934304539051068
+        },
+        {
+            "id": 1155677,
+            "weight": 0.33659288841127916
         },
         {
             "id": 975690,
@@ -126,14 +131,6 @@
             "weight": 0.09165167040064352
         },
         {
-            "id": 790212,
-            "weight": 0.08970686673958497
-        },
-        {
-            "id": 940710,
-            "weight": 0.08801283215528252
-        },
-        {
             "id": 832852,
             "weight": 0.08691172169304569
         },
@@ -142,12 +139,16 @@
             "weight": 0.08535356925035256
         },
         {
-            "id": 1117037,
-            "weight": 0.08514274926756712
-        },
-        {
             "id": 819068,
             "weight": 0.07927874373462053
+        },
+        {
+            "id": 790212,
+            "weight": 0.07849350839713685
+        },
+        {
+            "id": 940710,
+            "weight": 0.0770112281358722
         },
         {
             "id": 1087621,
@@ -158,12 +159,8 @@
             "weight": 0.07548758325556124
         },
         {
-            "id": 918269,
-            "weight": 0.07536092641929622
-        },
-        {
-            "id": 1047513,
-            "weight": 0.07051856081794497
+            "id": 1117037,
+            "weight": 0.07449990560912123
         },
         {
             "id": 941006,
@@ -182,6 +179,10 @@
             "weight": 0.06751775572694324
         },
         {
+            "id": 918269,
+            "weight": 0.06594081061688419
+        },
+        {
             "id": 922965,
             "weight": 0.0657471823522907
         },
@@ -194,8 +195,16 @@
             "weight": 0.06232753911885581
         },
         {
+            "id": 1047513,
+            "weight": 0.061703740715701845
+        },
+        {
             "id": "a_7151310",
             "weight": 0.06090925757120792
+        },
+        {
+            "id": 1153868,
+            "weight": 0.06085243274322363
         },
         {
             "id": 835425,
@@ -341,6 +350,6 @@
     "svz": null,
     "afgedaan": null,
     "eersteIndiener": null,
-    "lastScrapeDate": "10-04-2026",
+    "lastScrapeDate": "04-05-2026",
     "meeting_id": []
 }

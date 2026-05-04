@@ -6,8 +6,9 @@
         194514
     ],
     "party_list": [
-        "PvdA",
-        "VVD"
+        "VVD",
+        "PRO",
+        "PvdA"
     ],
     "poho_id": [],
     "title": "Nu doorpakken met de Stadpas (Vrije Motie VM4)",
@@ -238,7 +239,7 @@
     "svz": "",
     "afgedaan": "",
     "eersteIndiener": 194385,
-    "lastScrapeDate": "08-04-2026",
+    "lastScrapeDate": "04-05-2026",
     "meeting_id": [
         1374859
     ]

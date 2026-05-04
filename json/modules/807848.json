@@ -6,8 +6,8 @@
         194495
     ],
     "party_list": [
-        "Partij voor de Dieren",
-        "SP"
+        "SP",
+        "Partij voor de Dieren"
     ],
     "poho_id": [],
     "title": "Beantwoording vervolg raadsvragen Milieusituatie rond de Asfaltcentrale (ACE) (SP, PvdD)",
@@ -59,12 +59,16 @@
             "weight": 0.24705691188652992
         },
         {
-            "id": 875874,
-            "weight": 0.24074557992579773
+            "id": 1153822,
+            "weight": 0.1930106541811628
         },
         {
             "id": 1013503,
             "weight": 0.1717430465244354
+        },
+        {
+            "id": 875874,
+            "weight": 0.16049705328386515
         },
         {
             "id": 1139142,

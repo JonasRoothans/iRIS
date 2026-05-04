@@ -1,0 +1,62 @@
+{
+    "module_id": 1151922,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Raadsbrief Verlenging tijdelijke opvanglocatie VDMA en vervolgaanpak maatschappelijke opvang",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/8/Raadsbrieven/1151922",
+    "type": "Raadsbrief",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "09-04-2026",
+    "meeting_url": null,
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/16813791/1/8155488_03+Raadsbrief+Verlenging+tijdelijke+opvanglocatie+VDMA+en+vervolgaanpak+maatschappelijke+opvang?connection_type=17&connection_id=13206571",
+    "pdf_text": null,
+    "bst": "8155488_03",
+    "related": [
+        {
+            "id": 1062577,
+            "weight": 1.9036709016446858
+        },
+        {
+            "id": 1090088,
+            "weight": 0.8004344793707227
+        },
+        {
+            "id": 1146676,
+            "weight": 0.36693691378617554
+        },
+        {
+            "id": 975722,
+            "weight": 0.28260214665609373
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Raadsbrief Verlenging": 1.9765416191248102,
+        "Verlenging tijdelijke": 1.955011371234592,
+        "opvanglocatie VDMA": 1.955011371234592,
+        "maatschappelijke opvang": 1.9505961599793435,
+        "tijdelijke opvanglocatie": 1.9029960071342575,
+        "vervolgaanpak maatschappelijke": 1.9029960071342575,
+        "Verlenging": 1.8552226942577967,
+        "VDMA": 1.8552226942577967,
+        "Raadsbrief": 1.8416830712200127,
+        "opvang": 1.8416830712200127,
+        "tijdelijke": 1.702634417439785,
+        "vervolgaanpak": 1.702634417439785
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": null,
+    "meeting_id": []
+}

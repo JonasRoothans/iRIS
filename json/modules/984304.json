@@ -12,13 +12,13 @@
         42076
     ],
     "party_list": [
-        "D66",
         "Volt",
-        " Ouderen Appèl - Hart voor Eindhoven",
-        "GroenLinks",
-        "SP",
         "50PLUS",
-        "CDA"
+        "GroenLinks",
+        "CDA",
+        "SP",
+        "D66",
+        " Ouderen Appèl - Hart voor Eindhoven"
     ],
     "poho_id": 230023,
     "title": "Realisatie van een bibliotheek en buurthuisfunctie in Meerhoven (Motie BM30)",
@@ -69,10 +69,6 @@
             "weight": 0.31836539599543856
         },
         {
-            "id": 942837,
-            "weight": 0.30371314666330645
-        },
-        {
             "id": 924599,
             "weight": 0.3011068257717132
         },
@@ -81,12 +77,12 @@
             "weight": 0.2829591927962197
         },
         {
-            "id": 1064422,
-            "weight": 0.24441457404159064
-        },
-        {
             "id": 996664,
             "weight": 0.23965665541477174
+        },
+        {
+            "id": 1155695,
+            "weight": 0.23678167072425008
         },
         {
             "id": 903603,
@@ -95,6 +91,10 @@
         {
             "id": 863706,
             "weight": 0.23164178183625397
+        },
+        {
+            "id": 942837,
+            "weight": 0.22778485999747983
         },
         {
             "id": 945730,
@@ -115,6 +115,10 @@
         {
             "id": 881614,
             "weight": 0.1926798614779701
+        },
+        {
+            "id": 1064422,
+            "weight": 0.183310930531193
         },
         {
             "id": 1046798,

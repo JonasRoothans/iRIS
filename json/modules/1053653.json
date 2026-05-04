@@ -13,9 +13,7 @@
     "result": "aangenomen",
     "date": "09-09-2025",
     "meeting_url": {
-        "1256323": "https://raadsinformatie.eindhoven.nl/vergadering/1256323#ai_9438320",
-        "1256634": "https://raadsinformatie.eindhoven.nl/vergadering/1256634#ai_9435831",
-        "1256639": "https://raadsinformatie.eindhoven.nl/vergadering/1256639#ai_9588269"
+        "1256323": "https://raadsinformatie.eindhoven.nl/vergadering/1256323/Raadsvoorstel%20Herijking%20locatieprofielen%20evenementen%20Eindhoven 09-09-2025#voting_9439575"
     },
     "attachment": {
         "https://raadsinformatie.eindhoven.nl/document/15661017/1/7946258_02+Raadsvoorstel+Herijking+locatieprofielen+evenementen+Eindhoven?connection_type=17&connection_id=11977366": "Raadsvoorstel Herijking locatieprofielen evenementen Eindhoven",
@@ -162,16 +160,8 @@
             "weight": 0.07713718585733219
         },
         {
-            "id": 796421,
-            "weight": 0.07706222287458797
-        },
-        {
             "id": 836390,
             "weight": 0.07413881653275455
-        },
-        {
-            "id": 949421,
-            "weight": 0.06905545546090489
         },
         {
             "id": 1113611,
@@ -202,26 +192,6 @@
             "weight": 0.062182891361290335
         },
         {
-            "id": 943628,
-            "weight": 0.05960174842146081
-        },
-        {
-            "id": "a_10115066",
-            "weight": 0.059483939021672684
-        },
-        {
-            "id": 1141484,
-            "weight": 0.059254279793852324
-        },
-        {
-            "id": 798449,
-            "weight": 0.05733458652906178
-        },
-        {
-            "id": 890090,
-            "weight": 0.05689619670044146
-        },
-        {
             "id": 1061798,
             "weight": 0.056368858410857356
         },
@@ -230,20 +200,12 @@
             "weight": 0.05588178038681392
         },
         {
-            "id": 1125914,
-            "weight": 0.05525717774608683
-        },
-        {
             "id": 803052,
             "weight": 0.053636819385985995
         },
         {
             "id": 1042149,
             "weight": 0.05138467667416677
-        },
-        {
-            "id": 970349,
-            "weight": 0.050297248876249735
         }
     ],
     "videostarttime": {

@@ -13,7 +13,8 @@
     "result": "",
     "date": "26-05-2026",
     "meeting_url": {
-        "1374866": "https://raadsinformatie.eindhoven.nl/vergadering/1374866#ai_10131620"
+        "1374866": "https://raadsinformatie.eindhoven.nl/vergadering/1374866#ai_10131620",
+        "1374935": "https://raadsinformatie.eindhoven.nl/vergadering/1374935#ai_10183113"
     },
     "attachment": {
         "https://raadsinformatie.eindhoven.nl/document/16725139/1/8140515_02+Raadsvoorstel+Vaststelling+TAM-omgevingsplan+Kronehoefstraat+-+Frankrijkstraat?connection_type=17&connection_id=13117763": "Raadsvoorstel Vaststelling TAM-omgevingsplan Kronehoefstraat - Frankrijkstraat",
@@ -354,6 +355,6 @@
     "svz": null,
     "afgedaan": null,
     "eersteIndiener": null,
-    "lastScrapeDate": "10-04-2026",
+    "lastScrapeDate": "04-05-2026",
     "meeting_id": []
 }

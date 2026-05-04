@@ -2,24 +2,25 @@
     "module_id": 1132187,
     "vote_id": null,
     "member_id": [
-        194242,
         47266,
-        133688,
+        194242,
         194511,
         194514,
         131155,
         194424,
+        133688,
         194495
     ],
     "party_list": [
-        "Partij voor de Dieren",
-        "D66",
+        "50PLUS",
+        "PRO",
+        "GroenLinks",
+        "CDA",
         "PvdA",
         "VVD",
-        " Ouderen Appèl - Hart voor Eindhoven",
-        "GroenLinks",
-        "50PLUS",
-        "CDA"
+        "D66",
+        "Partij voor de Dieren",
+        " Ouderen Appèl - Hart voor Eindhoven"
     ],
     "poho_id": 230024,
     "title": "Armoede kent geen kantoortijden (Motie M1)",
@@ -145,6 +146,6 @@
     "svz": "",
     "afgedaan": "",
     "eersteIndiener": 194511,
-    "lastScrapeDate": "08-04-2026",
+    "lastScrapeDate": "04-05-2026",
     "meeting_id": []
 }

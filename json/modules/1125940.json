@@ -13,12 +13,14 @@
     "result": "",
     "date": "26-05-2026",
     "meeting_url": {
-        "1374866": "https://raadsinformatie.eindhoven.nl/vergadering/1374866#ai_10049409"
+        "1374866": "https://raadsinformatie.eindhoven.nl/vergadering/1374866#ai_10049409",
+        "1374935": "https://raadsinformatie.eindhoven.nl/vergadering/1374935#ai_10180725"
     },
     "attachment": {
         "https://raadsinformatie.eindhoven.nl/document/16508776/1/8107621_02+Raadsvoorstel+Uitbreiding+Verordening+inwonersparticipatie+Eindhoven+met+Uitdaagrecht?connection_type=17&connection_id=12878961": "Raadsvoorstel Uitbreiding Verordening inwonersparticipatie Eindhoven met Uitdaagrecht",
         "http://raadsinformatie.eindhoven.nl/document/16508777/1?connection_type=16&connection_id=1125940": " Bijlage 1 - Participatieverslag ",
-        "http://raadsinformatie.eindhoven.nl/document/16508778/1?connection_type=16&connection_id=1125940": " Bijlage 2 - Concept wijziging verordening inwonersparticipatie DROP "
+        "http://raadsinformatie.eindhoven.nl/document/16508778/1?connection_type=16&connection_id=1125940": " Bijlage 2 - Concept wijziging verordening inwonersparticipatie DROP ",
+        "http://raadsinformatie.eindhoven.nl/document/16848735/1?connection_type=16&connection_id=1125940": " Behandeladvies Raadsvoorstel Uitbreiding Verordening inwonersparticipatie Eindhoven met het Uitdaagrecht "
     },
     "parent": null,
     "children": [],
@@ -29,7 +31,7 @@
     "related": [
         {
             "id": 1081558,
-            "weight": 1.381329268761795
+            "weight": 1.3682823043590833
         },
         {
             "id": 917672,
@@ -49,27 +51,23 @@
         },
         {
             "id": 898110,
-            "weight": 0.2714077353921028
+            "weight": 0.26027286733706223
         },
         {
             "id": 804481,
             "weight": 0.24436364894728727
         },
         {
-            "id": 1122434,
-            "weight": 0.23816280122866987
-        },
-        {
             "id": 985339,
             "weight": 0.21204476334779004
         },
         {
-            "id": 784732,
-            "weight": 0.20502548952260374
+            "id": 1122434,
+            "weight": 0.21170026775881767
         },
         {
-            "id": 1135733,
-            "weight": 0.10754577780455808
+            "id": 784732,
+            "weight": 0.20502548952260374
         },
         {
             "id": 938342,
@@ -80,12 +78,8 @@
             "weight": 0.09734736679487029
         },
         {
-            "id": 780980,
-            "weight": 0.0960742432126102
-        },
-        {
-            "id": 863923,
-            "weight": 0.09380971851575662
+            "id": 1135733,
+            "weight": 0.09559624693738496
         },
         {
             "id": 900681,
@@ -100,12 +94,20 @@
             "weight": 0.08560811734499259
         },
         {
+            "id": 780980,
+            "weight": 0.08539932730009796
+        },
+        {
             "id": 813293,
             "weight": 0.08445899266004785
         },
         {
             "id": 15103804,
             "weight": 0.0837358512728949
+        },
+        {
+            "id": 863923,
+            "weight": 0.08338641645845032
         },
         {
             "id": 864038,
@@ -116,16 +118,20 @@
             "weight": 0.07850346810847267
         },
         {
-            "id": 900723,
-            "weight": 0.07782329456990217
-        },
-        {
             "id": 1137879,
             "weight": 0.0773653412219554
         },
         {
+            "id": 1155677,
+            "weight": 0.07545415412695551
+        },
+        {
             "id": 1085103,
             "weight": 0.07540266506244822
+        },
+        {
+            "id": 900723,
+            "weight": 0.06917626183991304
         },
         {
             "id": 920891,
@@ -251,6 +257,6 @@
     "svz": null,
     "afgedaan": null,
     "eersteIndiener": null,
-    "lastScrapeDate": "10-04-2026",
+    "lastScrapeDate": "04-05-2026",
     "meeting_id": []
 }

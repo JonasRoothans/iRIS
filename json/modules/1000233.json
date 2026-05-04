@@ -4,7 +4,7 @@
     "member_id": [],
     "party_list": [],
     "poho_id": 230024,
-    "title": "Raadsvoorstel Museumpark VONK",
+    "title": "Raadsvoorstel: Museumpark VONK",
     "url": "https://raadsinformatie.eindhoven.nl/modules/19/raadsvoorstellen/1000233?parent_event=1256316",
     "type": "Raadsvoorstel",
     "member": null,
@@ -13,8 +13,7 @@
     "result": "aangenomen",
     "date": "25-02-2025",
     "meeting_url": {
-        "1256316": "https://raadsinformatie.eindhoven.nl/vergadering/1256316#ai_9004079",
-        "1256313": "https://raadsinformatie.eindhoven.nl/vergadering/1256313#ai_9052956"
+        "1256316": "https://raadsinformatie.eindhoven.nl/vergadering/1256316/Raadsvoorstel%3A%20Museumpark%20VONK 25-02-2025#voting_9119919"
     },
     "attachment": {
         "http://raadsinformatie.eindhoven.nl/document/15173196/2?connection_type=16&connection_id=1000233": " Nadere toelichting bij raadsvoorstel Museumpark Vonk ",
@@ -92,7 +91,7 @@
         },
         {
             "id": 834947,
-            "weight": 0.2324339879176637
+            "weight": 0.22366534708600544
         },
         {
             "id": 862744,
@@ -255,14 +254,6 @@
             "weight": 0.08492163347368091
         },
         {
-            "id": 850176,
-            "weight": 0.08324013093452352
-        },
-        {
-            "id": 819768,
-            "weight": 0.07861788590479188
-        },
-        {
             "id": 941388,
             "weight": 0.0785761227998101
         },
@@ -289,6 +280,10 @@
         {
             "id": 944422,
             "weight": 0.07510078525248068
+        },
+        {
+            "id": 850176,
+            "weight": 0.07491611784107118
         },
         {
             "id": 905577,
@@ -319,16 +314,16 @@
             "weight": 0.0708492585122936
         },
         {
+            "id": 819768,
+            "weight": 0.07075609731431269
+        },
+        {
             "id": 1061320,
             "weight": 0.07073973911648808
         },
         {
             "id": 1098676,
             "weight": 0.07073855202362762
-        },
-        {
-            "id": 798449,
-            "weight": 0.06875922627335776
         },
         {
             "id": 15103804,
@@ -351,10 +346,6 @@
             "weight": 0.06332273794392097
         },
         {
-            "id": 775257,
-            "weight": 0.06314944130671199
-        },
-        {
             "id": 926416,
             "weight": 0.06303108284208257
         },
@@ -363,12 +354,8 @@
             "weight": 0.06289970180720007
         },
         {
-            "id": 881841,
-            "weight": 0.06264862522550983
-        },
-        {
-            "id": 788346,
-            "weight": 0.061853001221943704
+            "id": 798449,
+            "weight": 0.06188330364602198
         },
         {
             "id": 1133030,
@@ -387,8 +374,24 @@
             "weight": 0.059146206323390266
         },
         {
+            "id": 1157934,
+            "weight": 0.05802591646467574
+        },
+        {
             "id": 946826,
             "weight": 0.05790235173747862
+        },
+        {
+            "id": 775257,
+            "weight": 0.05683449717604079
+        },
+        {
+            "id": 881841,
+            "weight": 0.05638376270295885
+        },
+        {
+            "id": 788346,
+            "weight": 0.055667701099749334
         },
         {
             "id": "a_8569517",
@@ -400,7 +403,7 @@
         },
         {
             "id": 829238,
-            "weight": 0.048989527392156444
+            "weight": 0.0440905746529408
         },
         {
             "id": 1085536,

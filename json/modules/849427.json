@@ -13,8 +13,7 @@
     "result": "aangenomen",
     "date": "11-07-2023",
     "meeting_url": {
-        "1102274": "https://raadsinformatie.eindhoven.nl/vergadering/1102274#ai_7627915",
-        "1119171": "https://raadsinformatie.eindhoven.nl/vergadering/1119171#ai_7657799"
+        "1102274": "https://raadsinformatie.eindhoven.nl/vergadering/1102274/Raadsvoorstel%20Twaalfde%20wijziging%20APV%20Eindhoven 11-07-2023#voting_7674165"
     },
     "attachment": {
         "https://raadsinformatie.eindhoven.nl/document/12785985/2/23bst00702+Raadsvoorstel+Twaalfde+wijziging+APV+Eindhoven?connection_type=17&connection_id=9408987": "Raadsvoorstel Twaalfde wijziging APV Eindhoven",
@@ -51,10 +50,6 @@
             "weight": 0.5792359157655259
         },
         {
-            "id": 925409,
-            "weight": 0.3820059887903894
-        },
-        {
             "id": 861364,
             "weight": 0.33778232006384723
         },
@@ -63,8 +58,16 @@
             "weight": 0.3334083685914992
         },
         {
+            "id": 925409,
+            "weight": 0.30560479103231153
+        },
+        {
             "id": 991435,
             "weight": 0.2977854393204758
+        },
+        {
+            "id": 1153854,
+            "weight": 0.2969030823003083
         },
         {
             "id": 892522,
@@ -103,10 +106,6 @@
             "weight": 0.16146319234527892
         },
         {
-            "id": 1076920,
-            "weight": 0.156661026833375
-        },
-        {
             "id": "a_10115166",
             "weight": 0.1554540694546677
         },
@@ -139,6 +138,10 @@
             "weight": 0.12658891052658278
         },
         {
+            "id": 1076920,
+            "weight": 0.1253288214667
+        },
+        {
             "id": 15093161,
             "weight": 0.11506591451758466
         },
@@ -163,10 +166,6 @@
             "weight": 0.10254488205648395
         },
         {
-            "id": 1059935,
-            "weight": 0.10243038717247317
-        },
-        {
             "id": 1052186,
             "weight": 0.09933387335153956
         },
@@ -189,6 +188,10 @@
         {
             "id": "a_8101832",
             "weight": 0.0844151382108117
+        },
+        {
+            "id": 1059935,
+            "weight": 0.08194430973797853
         },
         {
             "id": 1147108,

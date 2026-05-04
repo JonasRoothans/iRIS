@@ -3,19 +3,20 @@
     "vote_id": null,
     "member_id": [
         131137,
-        133688,
         194508,
         194385,
         131155,
-        194424
+        194424,
+        133688
     ],
     "party_list": [
-        "D66",
+        "50PLUS",
+        "PRO",
+        "GroenLinks",
+        "CDA",
         "PvdA",
         "VVD",
-        "GroenLinks",
-        "50PLUS",
-        "CDA"
+        "D66"
     ],
     "poho_id": 230024,
     "title": "Laat systemen geen belemmering zijn (Vrije Motie VM3)",
@@ -423,6 +424,6 @@
     "svz": "",
     "afgedaan": "",
     "eersteIndiener": 194424,
-    "lastScrapeDate": "08-04-2026",
+    "lastScrapeDate": "04-05-2026",
     "meeting_id": []
 }

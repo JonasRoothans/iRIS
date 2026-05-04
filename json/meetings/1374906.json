@@ -5708,7 +5708,7 @@
             }
         }
     },
-    "title": "Vergadering Raadzaal 27-01-2026 Gemeente Eindhoven",
+    "title": "Vergadering Commissiekamer 27-01-2026 Gemeente Eindhoven",
     "meeting_url": "https://raadsinformatie.eindhoven.nl/vergadering/1374906/",
     "video_url": {
         "Raadzaal": "http://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_27.01.2026_NC_EINDHOVEN-RAA1.mp4/playlist.m3u8",
@@ -5727,9 +5727,7 @@
             "656": {
                 "title": "Raadsvoorstel Grondexploitatie Kastelenplein",
                 "id": 9410992,
-                "module_id": [
-                    1117714
-                ]
+                "module_id": []
             },
             "4045": {
                 "title": "Sluiting meningsvormende vergadering",

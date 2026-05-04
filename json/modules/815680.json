@@ -10,12 +10,12 @@
         194366
     ],
     "party_list": [
-        "Volt",
-        "PvdA",
-        "GroenLinks",
-        "SP",
         "50PLUS",
-        "CDA"
+        "Volt",
+        "GroenLinks",
+        "PvdA",
+        "CDA",
+        "SP"
     ],
     "poho_id": 230013,
     "title": "Terugkijken om vooruit te kijken (Motie M3A)",
@@ -24,10 +24,10 @@
     "member": "Ruud van Acquoij, Robin Brokmann, Niels Groot, Murat Memiş, Rutger Rauws en Tjeerd Ritmeester",
     "party": null,
     "poho": "S. Steenbakkers (Wethouder)",
-    "result": "Aangenomen",
+    "result": "aangenomen",
     "date": "24-01-2023",
     "meeting_url": {
-        "1013447": "https://raadsinformatie.eindhoven.nl/vergadering/1013447#ai_7243576"
+        "1013447": "https://raadsinformatie.eindhoven.nl/vergadering/1013447/Terugkijken%20om%20vooruit%20te%20kijken%20%28Motie%20M3A%29 24-01-2023#voting_7350478"
     },
     "attachment": null,
     "parent": 798901,

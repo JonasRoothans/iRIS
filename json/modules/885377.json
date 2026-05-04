@@ -11,10 +11,9 @@
     "party": null,
     "poho": "S. Lammers (Wethouder)",
     "result": "aangenomen",
-    "date": "14-11-2023",
+    "date": "28-11-2023",
     "meeting_url": {
-        "1013527": "https://raadsinformatie.eindhoven.nl/vergadering/1013527#ai_7921214",
-        "1044929": "https://raadsinformatie.eindhoven.nl/vergadering/1044929#ai_7921212"
+        "1013527": "https://raadsinformatie.eindhoven.nl/vergadering/1013527/Raadsvoorstel%20Cultuurbrief%202025-2028%20en%20Cultuurscan%202023 28-11-2023#voting_7949530"
     },
     "attachment": {
         "https://raadsinformatie.eindhoven.nl/document/13336369/4/23bst01150+Raadsvoorstel+Cultuurbrief+2025-2028+en+Cultuurscan+2023?connection_type=17&connection_id=9848851": "Raadsvoorstel Cultuurbrief 2025-2028 en Cultuurscan 2023",
@@ -70,6 +69,10 @@
         {
             "id": 1029708,
             "weight": 0.4933574170272664
+        },
+        {
+            "id": 1153822,
+            "weight": 0.45508215536318203
         },
         {
             "id": 792696,

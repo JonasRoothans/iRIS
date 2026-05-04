@@ -8,10 +8,10 @@
         194495
     ],
     "party_list": [
-        "PvdA",
-        "Partij voor de Dieren",
         "D66",
-        "SP"
+        "SP",
+        "Partij voor de Dieren",
+        "PvdA"
     ],
     "poho_id": [],
     "title": "Raden in verzet zonder geld geen gemeenten (Vrije Motie VM1)",
@@ -20,10 +20,10 @@
     "member": "Murat Memiş, Volkan Memiş, Tjeerd Ritmeester en Virginia Jonkers",
     "party": null,
     "poho": "",
-    "result": "Aangenomen",
+    "result": "aangenomen",
     "date": "12-03-2024",
     "meeting_url": {
-        "1147888": "https://raadsinformatie.eindhoven.nl/vergadering/1147888#ai_7853132"
+        "1147888": "https://raadsinformatie.eindhoven.nl/vergadering/1147888/Raden%20in%20verzet%20zonder%20geld%20geen%20gemeenten%20%28Vrije%20Motie%20VM1%29 12-03-2024#voting_8285566"
     },
     "attachment": null,
     "parent": null,
@@ -34,28 +34,28 @@
     "bst": null,
     "related": [
         {
+            "id": 1153854,
+            "weight": 0.7085451740221304
+        },
+        {
             "id": 955576,
             "weight": 0.39257671447810805
-        },
-        {
-            "id": 849427,
-            "weight": 0.3820059887903894
-        },
-        {
-            "id": 1076920,
-            "weight": 0.3738641366069242
         },
         {
             "id": 775265,
             "weight": 0.3421146903180406
         },
         {
-            "id": 864036,
-            "weight": 0.2567907763573052
+            "id": 849427,
+            "weight": 0.30560479103231153
         },
         {
-            "id": 1059935,
-            "weight": 0.24444527804148983
+            "id": 1076920,
+            "weight": 0.29909130928553934
+        },
+        {
+            "id": 864036,
+            "weight": 0.2567907763573052
         },
         {
             "id": 1148869,
@@ -76,6 +76,10 @@
         {
             "id": 1015055,
             "weight": 0.21430868604204292
+        },
+        {
+            "id": 1059935,
+            "weight": 0.19555622243319187
         },
         {
             "id": 1037362,

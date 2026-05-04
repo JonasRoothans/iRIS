@@ -9,11 +9,11 @@
         194514
     ],
     "party_list": [
-        "D66",
+        "50PLUS",
         "Volt",
         "PvdA",
         "VVD",
-        "50PLUS"
+        "D66"
     ],
     "poho_id": [],
     "title": "Pilot kabelgoten (Motie KM05A)",
@@ -22,10 +22,10 @@
     "member": "Cor Verbeek, Chris Dams, Rosa van den Nieuwenhof, Robin Brokmann en Lex Janssen",
     "party": null,
     "poho": "",
-    "result": "Verworpen",
+    "result": "verworpen",
     "date": "28-05-2024",
     "meeting_url": {
-        "1147937": "https://raadsinformatie.eindhoven.nl/vergadering/1147937#ai_8361768"
+        "1147937": "https://raadsinformatie.eindhoven.nl/vergadering/1147937/Pilot%20kabelgoten%20%28Motie%20KM05A%29 28-05-2024#voting_8467776"
     },
     "attachment": null,
     "parent": 933747,
@@ -37,7 +37,7 @@
     "related": [
         {
             "id": 1077793,
-            "weight": 0.48845955013096537
+            "weight": 0.4162005320536412
         },
         {
             "id": 1112899,
@@ -48,10 +48,6 @@
             "weight": 0.22987938928614943
         },
         {
-            "id": 1149732,
-            "weight": 0.15393452049839312
-        },
-        {
             "id": 966938,
             "weight": 0.14688287008873008
         },
@@ -60,28 +56,12 @@
             "weight": 0.14340411585523888
         },
         {
-            "id": 1137497,
-            "weight": 0.14293182447580616
-        },
-        {
             "id": 984303,
             "weight": 0.14177497691185734
         },
         {
             "id": 1052766,
             "weight": 0.1398939032030261
-        },
-        {
-            "id": 12867579,
-            "weight": 0.13833119016265105
-        },
-        {
-            "id": 856435,
-            "weight": 0.13672377875201547
-        },
-        {
-            "id": 1089823,
-            "weight": 0.13209399779807401
         },
         {
             "id": 930770,
@@ -130,18 +110,6 @@
         {
             "id": 1093494,
             "weight": 0.07987795815200828
-        },
-        {
-            "id": 1097750,
-            "weight": 0.06156970705914072
-        },
-        {
-            "id": 804729,
-            "weight": 0.054427213781546246
-        },
-        {
-            "id": 779022,
-            "weight": 0.041823930620170716
         }
     ],
     "videostarttime": {

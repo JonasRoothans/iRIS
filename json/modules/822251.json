@@ -13,8 +13,7 @@
     "result": "aangenomen",
     "date": "04-04-2023",
     "meeting_url": {
-        "1013482": "https://raadsinformatie.eindhoven.nl/vergadering/1013482#ai_7409109",
-        "1059807": "https://raadsinformatie.eindhoven.nl/vergadering/1059807#ai_7479222"
+        "1013482": "https://raadsinformatie.eindhoven.nl/vergadering/1013482/Raadsvoorstel%20Vaststellen%20samenwerkingsagenda%20Stedelijk%20Gebied%20Eindhoven%202023 04-04-2023#voting_7458527"
     },
     "attachment": {
         "https://raadsinformatie.eindhoven.nl/document/12428874/1/23bst00197+Raadsvoorstel+Vaststellen+samenwerkingsagenda+Stedelijk+Gebied+Eindhoven+2023?connection_type=17&connection_id=9100824": "23bst00197 Raadsvoorstel Vaststellen samenwerkingsagenda Stedelijk Gebied Eindhoven 2023",
@@ -107,16 +106,12 @@
             "weight": 0.1122607247561646
         },
         {
-            "id": 867113,
-            "weight": 0.10748485987792669
-        },
-        {
             "id": 881034,
             "weight": 0.10188109249853214
         },
         {
-            "id": 889740,
-            "weight": 0.09789045573355251
+            "id": 867113,
+            "weight": 0.09404925239318586
         },
         {
             "id": 973945,
@@ -127,20 +122,12 @@
             "weight": 0.09149790843295669
         },
         {
-            "id": 952588,
-            "weight": 0.08832965830088839
-        },
-        {
-            "id": 1117274,
-            "weight": 0.0883027526169931
+            "id": 889740,
+            "weight": 0.08565414876685845
         },
         {
             "id": 1149150,
             "weight": 0.0846118618082156
-        },
-        {
-            "id": 952128,
-            "weight": 0.08403477248928878
         },
         {
             "id": 11755119,
@@ -151,12 +138,24 @@
             "weight": 0.077338909487233
         },
         {
+            "id": 952588,
+            "weight": 0.07728845101327735
+        },
+        {
+            "id": 1117274,
+            "weight": 0.07726490853986896
+        },
+        {
             "id": "a_9606551",
             "weight": 0.07717450864813447
         },
         {
-            "id": 1082060,
-            "weight": 0.07397970387685797
+            "id": 1153214,
+            "weight": 0.0770356472086652
+        },
+        {
+            "id": 952128,
+            "weight": 0.07353042592812768
         },
         {
             "id": 956626,
@@ -169,6 +168,10 @@
         {
             "id": 1015799,
             "weight": 0.06716018715785393
+        },
+        {
+            "id": 1082060,
+            "weight": 0.06473224089225073
         },
         {
             "id": 996975,

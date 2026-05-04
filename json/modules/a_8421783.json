@@ -8,8 +8,8 @@
     ],
     "party_list": [
         "Volt",
-        "PvdA",
-        "GroenLinks"
+        "GroenLinks",
+        "PvdA"
     ],
     "poho_id": [],
     "title": "Aangekondigd Amendement A3A Duurzamer en voor iedereen in de MRE (GL, Volt, PvdA)",
@@ -33,7 +33,7 @@
     "related": [
         {
             "id": "a_8421784",
-            "weight": 3.7653620097953224
+            "weight": 3.765362009795322
         },
         {
             "id": 932012,
@@ -92,11 +92,11 @@
             "weight": 0.09193829082633988
         },
         {
-            "id": "r_8748211",
+            "id": 977662,
             "weight": 0.053818531649760894
         },
         {
-            "id": 977662,
+            "id": "r_8748211",
             "weight": 0.053818531649760894
         },
         {

@@ -7,10 +7,11 @@
     ],
     "party_list": [
         "Eindhoven voor Elkaar",
+        "Ouderen Appél Eindhoven",
         " Ouderen Appèl - Hart voor Eindhoven"
     ],
     "poho_id": [],
-    "title": "Ingekomen raadsvragen aanvullend - Opvang Oekraïners (EVE, OAE)",
+    "title": "Beantwoording raadsvragen aanvullend - Opvang Oekraïners (EVE, OAE)",
     "url": "https://raadsinformatie.eindhoven.nl/modules/4/Raadsvragen/1131050",
     "type": "Raadsvraag",
     "member": "Tjeerd Ritmeester en Niek Rennenberg",
@@ -20,14 +21,15 @@
     "date": "04-02-2026",
     "meeting_url": null,
     "attachment": {
-        "https://raadsinformatie.eindhoven.nl/document/16568813/1?connection_type=17&connection_id=12944764": "Vraag"
+        "https://raadsinformatie.eindhoven.nl/document/16568813/1?connection_type=17&connection_id=12944764": "Vraag",
+        "https://raadsinformatie.eindhoven.nl/document/16814076/1?connection_type=17&connection_id=13206754": "Antwoord"
     },
     "parent": null,
     "children": [],
     "text": null,
     "pdf_url": "https://raadsinformatie.eindhoven.nl/document/16603179/1?connection_type=17&connection_id=12977855",
     "pdf_text": " \n \nRaadsvragen  fracties EVE, OAE  - Opvang Oekraïners  \n \ndatum:  3 februari 2026  \n \n \nGeacht college,  \n \nInleiding  \n \nAanvullende Raadsvragen:  \nVorige week hebben we raadsvragen gestuurd over de aanbesteding \nopvang Oekraïners. Na contact met verschillende betrokkenen zijn de \nzorgen over deze aanbesteding gegroeid. Dat heeft vooral te maken met \nhoe de aanbesteding is opgesteld, hoe deze is getoetst , en de daaruit \nvolgende resultaten. Om die reden is het voor ons belangrijk zo snel \nmogelijk ook inzage te krijgen in de aanbesteding.  \n \nDit leidt tot de volgende raadsvragen:  \nKunt u ons de aanbesteding en eventueel bijbehorende stukken zo \nsnel mogelijk opsturen/laten inzien?  \n \nNamens de fractie s, \n \nTjeerd Ritmeester, Eindhoven Voor Elkaar (EVE)  \nNiek Rennenberg, Ouderen Appel Eindhoven (OAE)  \n \n",
-    "bst": "",
+    "bst": "8098438_1.8.1.",
     "related": [
         {
             "id": 930491,
@@ -99,7 +101,7 @@
     },
     "svz": null,
     "afgedaan": null,
-    "eersteIndiener": 194370,
-    "lastScrapeDate": "08-04-2026",
+    "eersteIndiener": 47266,
+    "lastScrapeDate": "04-05-2026",
     "meeting_id": []
 }

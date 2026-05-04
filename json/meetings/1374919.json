@@ -8931,7 +8931,7 @@
             }
         }
     },
-    "title": "Vergadering Commissiekamer 24-02-2026 Gemeente Eindhoven",
+    "title": "Vergadering Raadzaal 24-02-2026 Gemeente Eindhoven",
     "meeting_url": "https://raadsinformatie.eindhoven.nl/vergadering/1374919/",
     "video_url": {
         "Raadzaal": "http://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_24.02.2026-EINDHOVEN-RAA-ONDERTITEL_2026.02.24_211559.mp4/playlist.m3u8",
@@ -9007,8 +9007,7 @@
                 "id": 10009613,
                 "module_id": [
                     1137969,
-                    1137967,
-                    1129193
+                    1137967
                 ]
             },
             "6221": {

@@ -6,8 +6,8 @@
         194385
     ],
     "party_list": [
-        "VVD",
-        "SP"
+        "SP",
+        "VVD"
     ],
     "poho_id": [],
     "title": "Beantwoording raadsvragen - Kosten en proportionaliteit van juridische procedures inzake Horyon (VVD, SP)",
@@ -48,15 +48,19 @@
         },
         {
             "id": 999124,
-            "weight": 0.5638021203370884
+            "weight": 0.4698351002809071
+        },
+        {
+            "id": 1155695,
+            "weight": 0.4671435854611318
         },
         {
             "id": 1055048,
-            "weight": 0.5600830462341457
+            "weight": 0.46673587186178805
         },
         {
             "id": 1137497,
-            "weight": 0.5546767954048794
+            "weight": 0.4622306628373995
         },
         {
             "id": 1034738,
@@ -79,12 +83,12 @@
             "weight": 0.3413163933996978
         },
         {
-            "id": 775183,
-            "weight": 0.18900314549785915
-        },
-        {
             "id": 1141484,
             "weight": 0.17890611538305556
+        },
+        {
+            "id": 775183,
+            "weight": 0.15750262124821596
         },
         {
             "id": 789322,

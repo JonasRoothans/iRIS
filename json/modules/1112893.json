@@ -13,8 +13,7 @@
     "result": "aangenomen",
     "date": "10-02-2026",
     "meeting_url": {
-        "1374859": "https://raadsinformatie.eindhoven.nl/vergadering/1374859#ai_9888749",
-        "1374915": "https://raadsinformatie.eindhoven.nl/vergadering/1374915#ai_9949851"
+        "1374859": "https://raadsinformatie.eindhoven.nl/vergadering/1374859/Raadsvoorstel%20Verlaging%20grondprijs%20VDMA%20als%20gevolg%20van%20WBI%20subsidie 10-02-2026#voting_401278"
     },
     "attachment": {
         "https://raadsinformatie.eindhoven.nl/document/16368759/1/8088457_02+Raadsvoorstel+Verlaging+grondprijs+VDMA+als+gevolg+van+WBI-subsidie?connection_type=17&connection_id=12719362": "Raadsvoorstel Verlaging grondprijs VDMA als gevolg van WBI-subsidie",
@@ -181,22 +180,6 @@
             "weight": 0.12777432585006215
         },
         {
-            "id": 939062,
-            "weight": 0.1277463426596382
-        },
-        {
-            "id": 836579,
-            "weight": 0.1276751779929772
-        },
-        {
-            "id": 1034728,
-            "weight": 0.12736286406631955
-        },
-        {
-            "id": 1049621,
-            "weight": 0.12427081595837233
-        },
-        {
             "id": 1129421,
             "weight": 0.12377224835438018
         },
@@ -275,26 +258,6 @@
         {
             "id": 776872,
             "weight": 0.06778427975727762
-        },
-        {
-            "id": 865473,
-            "weight": 0.06088961111113019
-        },
-        {
-            "id": 882823,
-            "weight": 0.05341477657576499
-        },
-        {
-            "id": "a_9414495",
-            "weight": 0.05201111955765172
-        },
-        {
-            "id": 975511,
-            "weight": 0.05081847674948279
-        },
-        {
-            "id": 1052631,
-            "weight": 0.040127919751244974
         }
     ],
     "videostarttime": {
@@ -407,7 +370,7 @@
     "svz": null,
     "afgedaan": null,
     "eersteIndiener": null,
-    "lastScrapeDate": "10-04-2026",
+    "lastScrapeDate": "04-05-2026",
     "meeting_id": [
         1374859
     ]

@@ -9,11 +9,11 @@
         194495
     ],
     "party_list": [
-        "Partij voor de Dieren",
         "Volt",
-        "PvdA",
         "GroenLinks",
-        "SP"
+        "PvdA",
+        "SP",
+        "Partij voor de Dieren"
     ],
     "poho_id": [],
     "title": "Activistisch Aandeelhouderschap Eindhoven Airport (Vrije Motie VM2)",
@@ -22,10 +22,10 @@
     "member": "Jacco Rubenkamp, Jannie Visscher, Lotte Meerhoff, Patrick van Tuijn en Virginia Jonkers",
     "party": null,
     "poho": "",
-    "result": "Stemmen staken, nieuwe stemming in de raad van 17 decemer 2024",
+    "result": "verworpen",
     "date": "26-11-2024",
     "meeting_url": {
-        "1148334": "https://raadsinformatie.eindhoven.nl/vergadering/1148334#ai_7855595"
+        "1148334": "https://raadsinformatie.eindhoven.nl/vergadering/1148334/Activistisch%20Aandeelhouderschap%20Eindhoven%20Airport%20%28Vrije%20Motie%20VM2%29 26-11-2024#voting_8882585"
     },
     "attachment": null,
     "parent": null,
@@ -37,7 +37,7 @@
     "related": [
         {
             "id": 992479,
-            "weight": 9.31601903371177
+            "weight": 9.305838106785853
         },
         {
             "id": "m_8953764",
@@ -45,7 +45,7 @@
         },
         {
             "id": 15170980,
-            "weight": 1.2611745191579882
+            "weight": 1.2404549012705868
         },
         {
             "id": 965623,
@@ -81,7 +81,7 @@
         },
         {
             "id": 943161,
-            "weight": 0.16704605520066707
+            "weight": 0.15948839318487767
         },
         {
             "id": 848607,
@@ -132,10 +132,6 @@
             "weight": 0.10482687855341143
         },
         {
-            "id": 977899,
-            "weight": 0.10200784405214654
-        },
-        {
             "id": 1141030,
             "weight": 0.10083402842141619
         },
@@ -148,32 +144,24 @@
             "weight": 0.0949476502920298
         },
         {
-            "id": 913551,
-            "weight": 0.09409764410415214
-        },
-        {
-            "id": "a_8285028",
-            "weight": 0.09254030130554926
+            "id": 1153822,
+            "weight": 0.09278516051858662
         },
         {
             "id": 876955,
             "weight": 0.09207946579146636
         },
         {
+            "id": 977899,
+            "weight": 0.0918070596469319
+        },
+        {
             "id": 816349,
             "weight": 0.08977414209916827
         },
         {
-            "id": 1046814,
-            "weight": 0.08977005194274632
-        },
-        {
             "id": 15634381,
             "weight": 0.08936732067818501
-        },
-        {
-            "id": 1126821,
-            "weight": 0.08768436408216389
         },
         {
             "id": "a_9667388",
@@ -184,6 +172,10 @@
             "weight": 0.08516824050548076
         },
         {
+            "id": 913551,
+            "weight": 0.08468787969373692
+        },
+        {
             "id": 984181,
             "weight": 0.08416684968490021
         },
@@ -192,8 +184,20 @@
             "weight": 0.08363136585886319
         },
         {
+            "id": "a_8285028",
+            "weight": 0.08328627117499433
+        },
+        {
+            "id": 1046814,
+            "weight": 0.08079304674847168
+        },
+        {
             "id": 925499,
             "weight": 0.07995402922560875
+        },
+        {
+            "id": 1126821,
+            "weight": 0.07891592767394749
         },
         {
             "id": 984902,

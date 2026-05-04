@@ -9,10 +9,10 @@
         42076
     ],
     "party_list": [
-        " Ouderen Appèl - Hart voor Eindhoven",
-        "LPF ",
+        "SP",
         "50PLUS",
-        "SP"
+        "LPF ",
+        " Ouderen Appèl - Hart voor Eindhoven"
     ],
     "poho_id": [],
     "title": "Mispelhoef Poort van het lichtbos bereikbaar (Motie M10)",
@@ -21,10 +21,10 @@
     "member": "Ruud van Acquoij, Cor Verbeek, Dré Rennenberg, Rudy Reker en Jannie Visscher",
     "party": null,
     "poho": "",
-    "result": "Verworpen",
+    "result": "verworpen",
     "date": "26-11-2024",
     "meeting_url": {
-        "1148334": "https://raadsinformatie.eindhoven.nl/vergadering/1148334#ai_8745993"
+        "1148334": "https://raadsinformatie.eindhoven.nl/vergadering/1148334/Mispelhoef%20Poort%20van%20het%20lichtbos%20bereikbaar%20%28Motie%20M10%29 26-11-2024#voting_8883207"
     },
     "attachment": null,
     "parent": 977662,
@@ -39,11 +39,11 @@
             "weight": 1.0899618750758786
         },
         {
-            "id": "r_8748211",
+            "id": 977662,
             "weight": 0.6996582302561212
         },
         {
-            "id": 977662,
+            "id": "r_8748211",
             "weight": 0.6996582302561212
         },
         {

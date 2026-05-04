@@ -8,7 +8,7 @@
         "FVD"
     ],
     "poho_id": [],
-    "title": "Ingekomen raadsvragen - Terrassen Markt (FvD)",
+    "title": "Beantwoording raadsvragen - Terrassen Markt (FvD)",
     "url": "https://raadsinformatie.eindhoven.nl/modules/4/Raadsvragen/1148282",
     "type": "Raadsvraag",
     "member": "Nicolas Knoester",
@@ -18,14 +18,15 @@
     "date": "31-03-2026",
     "meeting_url": null,
     "attachment": {
-        "https://raadsinformatie.eindhoven.nl/document/16776817/2?connection_type=17&connection_id=13165473": "Vraag"
+        "https://raadsinformatie.eindhoven.nl/document/16776817/2?connection_type=17&connection_id=13165473": "Vraag",
+        "https://raadsinformatie.eindhoven.nl/document/16833077/1?connection_type=17&connection_id=13228015": "Antwoord"
     },
     "parent": null,
     "children": [],
     "text": null,
     "pdf_url": "https://raadsinformatie.eindhoven.nl/document/16776817/2?connection_type=17&connection_id=13165473",
     "pdf_text": " \n \n \nRaadsvragen - Terrassen Markt  \n \ndatum:  29 maart 2026  \n \nGeacht college,  \n \nDe Markt is het kloppend hart van de Eindhovense binnenstad en de \nterrassen spelen daarin een cruciale rol. Recent zijn  de terrassen \nverkleind  naar het niveau van vóór corona, wat heeft geleid tot een \nminder levendige Markt . Tegelijkertijd blijkt uit de nieuwe plannen van \nhet college dat de ruimte opnieuw anders wordt verdeeld, waarbij de \nterrasruimte verder onder druk lijkt te komen te staan : \n \n“Na de herinrichting blijven de vergunde meters, waar mogelijk, het \nvertrekpunt  voor de nieuwe afmetingen van terrassen. ”  \n \nDit citaat biedt  geen zekerheid dat de ( reeds  verkleinde) terrasse n \nbehouden  blijven.  \n \n  \n \nRaadsvragen  \n1. Is het college het met FVD eens dat terrassen essentieel zijn \nvoor een levendige en aantrekkelijke binnenstad?  \n2. Herkent het college het beeld dat de recente verkleining van \nterrassen heeft geleid tot een minder levendige Markt?  \n3. Is het college het met FVD eens dat een plein zonder voldoende \nterrassen juist aan aantrekkingskracht verliest voor bezoekers?  \n4. Is het college bereid als duidelijke randvoorwaarde vast te stellen \ndat de huidige terrasruimte op de Markt, zoals vastgelegd in de \nvergunningen, in ieder geval niet verder wordt verminderd?  \n5. Is het college bereid om, waar mogelijk, vergunningen te \nverlenen voor grotere terrassen indien ondernemers daarvoor \neen aanvraag indienen?  \n \nNamens de fractie  Forum voor Democratie,  \n \nNicolas Knoester, raadslid  \n \n ",
-    "bst": "",
+    "bst": "8098450_1.5.3.",
     "related": [
         {
             "id": 1142890,
@@ -108,44 +109,8 @@
             "weight": 0.051093386377462864
         },
         {
-            "id": 788331,
-            "weight": 0.04948567041514934
-        },
-        {
-            "id": "a_9607873",
-            "weight": 0.04868881054307349
-        },
-        {
-            "id": "a_9608741",
-            "weight": 0.048668235833897164
-        },
-        {
-            "id": "a_9608059",
-            "weight": 0.04863813625210381
-        },
-        {
             "id": 980314,
             "weight": 0.048473569573310164
-        },
-        {
-            "id": "a_9608742",
-            "weight": 0.048433547116498304
-        },
-        {
-            "id": 861814,
-            "weight": 0.04628167411838054
-        },
-        {
-            "id": 1037362,
-            "weight": 0.04606334480593781
-        },
-        {
-            "id": 792398,
-            "weight": 0.04432559822351223
-        },
-        {
-            "id": 1037381,
-            "weight": 0.036583192668802694
         }
     ],
     "videostarttime": null,
@@ -207,6 +172,6 @@
     "svz": null,
     "afgedaan": null,
     "eersteIndiener": 194500,
-    "lastScrapeDate": "08-04-2026",
+    "lastScrapeDate": "04-05-2026",
     "meeting_id": []
 }

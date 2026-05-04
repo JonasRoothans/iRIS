@@ -2,21 +2,21 @@
     "module_id": 991683,
     "vote_id": null,
     "member_id": [
-        159102,
         133670,
         57511,
         80968,
+        194366,
         133656,
         137276,
-        194366
+        159102
     ],
     "party_list": [
-        "D66",
-        "PvdA",
-        "GroenLinks",
-        "SP",
         "50PLUS",
-        "CDA"
+        "GroenLinks",
+        "PvdA",
+        "CDA",
+        "SP",
+        "D66"
     ],
     "poho_id": 248564,
     "title": "Ook voor Gestel plezier van de HOV4 (Motie M3)",

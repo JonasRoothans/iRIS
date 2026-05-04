@@ -6,8 +6,8 @@
         194376
     ],
     "party_list": [
-        "Volt",
-        "SP"
+        "SP",
+        "Volt"
     ],
     "poho_id": [],
     "title": "Vraag V2 Vragenhalfuur Vervolg – bouwgeruchten Bennekel (Volt, SP)",
@@ -32,6 +32,10 @@
         {
             "id": 12506006,
             "weight": 1.98017394169506
+        },
+        {
+            "id": 1153214,
+            "weight": 0.3214981664563883
         },
         {
             "id": "a_8043672",

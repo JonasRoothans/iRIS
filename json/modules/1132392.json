@@ -4,14 +4,15 @@
     "member_id": [
         194376,
         131137,
-        194495,
-        194511
+        194511,
+        194495
     ],
     "party_list": [
         "Volt",
+        "GroenLinks",
+        "PRO",
         "PvdA",
-        "Partij voor de Dieren",
-        "GroenLinks"
+        "Partij voor de Dieren"
     ],
     "poho_id": 230023,
     "title": "Plantbased Treaty (Vrije Motie VM1)",
@@ -410,7 +411,7 @@
     },
     "svz": "",
     "afgedaan": "",
-    "eersteIndiener": 194495,
-    "lastScrapeDate": "08-04-2026",
+    "eersteIndiener": 194376,
+    "lastScrapeDate": "04-05-2026",
     "meeting_id": []
 }

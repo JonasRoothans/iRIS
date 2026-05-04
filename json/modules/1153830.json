@@ -1,0 +1,61 @@
+{
+    "module_id": 1153830,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Raadsbrief Voortgang omgevingsplan Stadshart Woensel",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/8/Raadsbrieven/1153830",
+    "type": "Raadsbrief",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "15-04-2026",
+    "meeting_url": null,
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/16834211/1/8098450_2_4_1_+Raadsbrief+Voortgang+omgevingsplan+Stadshart+Woensel?connection_type=17&connection_id=13229311",
+    "pdf_text": null,
+    "bst": "8098450_2.4.1.",
+    "related": [
+        {
+            "id": 1146306,
+            "weight": 0.6545492712993758
+        },
+        {
+            "id": 1111855,
+            "weight": 0.6544463026027083
+        },
+        {
+            "id": 1155303,
+            "weight": 0.6511194620220877
+        },
+        {
+            "id": 1085536,
+            "weight": 0.6496830041995113
+        },
+        {
+            "id": 1139066,
+            "weight": 0.6336526607219569
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Stadshart Woensel": 1.9873976398760465,
+        "Raadsbrief Voortgang": 1.9765416191248102,
+        "Voortgang omgevingsplan": 1.955011371234592,
+        "omgevingsplan Stadshart": 1.955011371234592,
+        "Woensel": 1.9140368224837343,
+        "Voortgang": 1.8552226942577967,
+        "Raadsbrief": 1.8416830712200127
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": null,
+    "meeting_id": []
+}

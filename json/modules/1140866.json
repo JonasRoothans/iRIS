@@ -8,8 +8,9 @@
     ],
     "party_list": [
         "Eindhoven voor Elkaar",
-        " Ouderen Appèl - Hart voor Eindhoven",
-        "SP"
+        "SP",
+        "Ouderen Appél Eindhoven",
+        " Ouderen Appèl - Hart voor Eindhoven"
     ],
     "poho_id": [],
     "title": "Betere afspraken met ASML (Motie M3)",
@@ -33,23 +34,27 @@
     "related": [
         {
             "id": 1144342,
-            "weight": 0.5235688225877875
+            "weight": 0.4487732765038178
         },
         {
             "id": 1088097,
-            "weight": 0.5146971637361194
+            "weight": 0.44116899748810234
         },
         {
             "id": 1123634,
-            "weight": 0.5069683515402768
+            "weight": 0.43454430132023725
         },
         {
             "id": 1141020,
-            "weight": 0.3627650298202202
+            "weight": 0.3265749185257391
+        },
+        {
+            "id": 1153871,
+            "weight": 0.31246692856756964
         },
         {
             "id": 1140928,
-            "weight": 0.3298468852887237
+            "weight": 0.30026049577679265
         },
         {
             "id": 926041,
@@ -255,8 +260,8 @@
     },
     "svz": "",
     "afgedaan": "10-03-2026",
-    "eersteIndiener": 194370,
-    "lastScrapeDate": "08-04-2026",
+    "eersteIndiener": 47266,
+    "lastScrapeDate": "04-05-2026",
     "meeting_id": [
         1374861
     ]

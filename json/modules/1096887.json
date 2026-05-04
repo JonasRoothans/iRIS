@@ -11,11 +11,9 @@
     "party": null,
     "poho": "M. van Lanschot (Wethouder)",
     "result": "aangenomen",
-    "date": "17-11-2025",
+    "date": "16-12-2025",
     "meeting_url": {
-        "1256326": "https://raadsinformatie.eindhoven.nl/vergadering/1256326#ai_9759383",
-        "1403234": "https://raadsinformatie.eindhoven.nl/vergadering/1403234#ai_9758756",
-        "1409853": "https://raadsinformatie.eindhoven.nl/vergadering/1409853#ai_9798486"
+        "1256326": "https://raadsinformatie.eindhoven.nl/vergadering/1256326/Raadsvoorstel%20Turap%202025 16-12-2025#voting_395087"
     },
     "attachment": {
         "https://raadsinformatie.eindhoven.nl/document/16152588/3/8057212_03+Raadsvoorstel+Turap+2025?connection_type=17&connection_id=12516813": "Raadsvoorstel Turap 2025",
@@ -46,7 +44,7 @@
         },
         {
             "id": 1096902,
-            "weight": 1.1032639319925839
+            "weight": 1.1032639319925837
         },
         {
             "id": 893225,

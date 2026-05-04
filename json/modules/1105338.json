@@ -13,7 +13,7 @@
     "result": "aangenomen",
     "date": "25-11-2025",
     "meeting_url": {
-        "1256749": "https://raadsinformatie.eindhoven.nl/vergadering/1256749#ai_9827483"
+        "1256749": "https://raadsinformatie.eindhoven.nl/vergadering/1256749/Raadsvoorstel%20Verordening%20fractieondersteuning%20gemeente%20Eindhoven%202026 25-11-2025#voting_395574"
     },
     "attachment": {
         "https://raadsinformatie.eindhoven.nl/document/16273851/1/Raadsvoorstel+Verordening+fractieondersteuning+gemeente+Eindhoven+2026?connection_type=17&connection_id=12628134": "Raadsvoorstel Verordening fractieondersteuning gemeente Eindhoven 2026"
@@ -50,12 +50,8 @@
             "weight": 0.2714994362583497
         },
         {
-            "id": 836579,
-            "weight": 0.23365264933519084
-        },
-        {
-            "id": 939062,
-            "weight": 0.23071844332039315
+            "id": 1158094,
+            "weight": 0.1883888557990147
         },
         {
             "id": 804725,
@@ -64,6 +60,14 @@
         {
             "id": 906661,
             "weight": 0.18100816477705164
+        },
+        {
+            "id": 836579,
+            "weight": 0.17523948700139313
+        },
+        {
+            "id": 939062,
+            "weight": 0.17303883249029486
         },
         {
             "id": 1000447,

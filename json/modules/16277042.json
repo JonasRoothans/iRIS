@@ -10,12 +10,12 @@
         194495
     ],
     "party_list": [
-        "Partij voor de Dieren",
-        "D66",
         "Volt",
-        "PvdA",
         "GroenLinks",
-        "SP"
+        "PvdA",
+        "D66",
+        "SP",
+        "Partij voor de Dieren"
     ],
     "poho_id": [],
     "title": "Vraag V2 Vragenhalfuur - Groene en sociale impact van Brainport Development (GL, PvdA, SP, D66, PvdD, Volt)",
@@ -43,19 +43,23 @@
         },
         {
             "id": 984181,
-            "weight": 0.4660721640630972
+            "weight": 0.36435655680453316
         },
         {
             "id": 852093,
             "weight": 0.23535924297796373
         },
         {
+            "id": 1155677,
+            "weight": 0.1847311757349419
+        },
+        {
             "id": 1123046,
-            "weight": 0.22846015789104954
+            "weight": 0.17134511841828715
         },
         {
             "id": 16034520,
-            "weight": 0.2235462860071993
+            "weight": 0.1676597145053995
         },
         {
             "id": 791825,
@@ -64,6 +68,10 @@
         {
             "id": 858109,
             "weight": 0.159767931219661
+        },
+        {
+            "id": 1157306,
+            "weight": 0.15507578242976647
         },
         {
             "id": 1000389,

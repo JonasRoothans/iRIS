@@ -13,7 +13,7 @@
     "result": "aangenomen",
     "date": "07-05-2024",
     "meeting_url": {
-        "1147927": "https://raadsinformatie.eindhoven.nl/vergadering/1147927#ai_8339490"
+        "1147927": "https://raadsinformatie.eindhoven.nl/vergadering/1147927/Raadsvoorstel%20Vaststelling%20bestemmingsplan%20%20II%20Woensel%20West%202013%20%28Edisonstraat-Marconilaan%29 07-05-2024#voting_8339536"
     },
     "attachment": {
         "https://raadsinformatie.eindhoven.nl/document/13945059/1/24bst00263+Raadsvoorstel+Gewijzigde+vaststelling+bp++II+Woensel+West+2013+%28Edisonstraat-Marconilaan%29?connection_type=17&connection_id=10396028": "Raadsvoorstel Gewijzigde vaststelling bp  II Woensel West 2013 (Edisonstraat-Marconilaan)",
@@ -101,12 +101,12 @@
             "weight": 0.2201419610326647
         },
         {
-            "id": 1013592,
-            "weight": 0.2143326339233801
-        },
-        {
             "id": 845621,
             "weight": 0.2044283148381475
+        },
+        {
+            "id": 1013592,
+            "weight": 0.2025689546674383
         },
         {
             "id": 866937,
@@ -145,10 +145,6 @@
             "weight": 0.16685220848446972
         },
         {
-            "id": 1112871,
-            "weight": 0.166053781440493
-        },
-        {
             "id": 784785,
             "weight": 0.16562415622423812
         },
@@ -163,6 +159,10 @@
         {
             "id": 1044109,
             "weight": 0.1626834640017814
+        },
+        {
+            "id": 1112871,
+            "weight": 0.15528967752962392
         },
         {
             "id": "m_8882147",
@@ -197,10 +197,6 @@
             "weight": 0.11772987235427516
         },
         {
-            "id": 888307,
-            "weight": 0.11757121223641129
-        },
-        {
             "id": 1125936,
             "weight": 0.11164975064032852
         },
@@ -209,20 +205,16 @@
             "weight": 0.1105279064580647
         },
         {
-            "id": 971444,
-            "weight": 0.09967576894370538
-        },
-        {
-            "id": 828151,
-            "weight": 0.09507154095243307
-        },
-        {
-            "id": 853466,
-            "weight": 0.09499039270604888
+            "id": 888307,
+            "weight": 0.10287481070685987
         },
         {
             "id": 892535,
             "weight": 0.08936987213282997
+        },
+        {
+            "id": 971444,
+            "weight": 0.08721629782574221
         },
         {
             "id": 828190,
@@ -231,6 +223,14 @@
         {
             "id": 881850,
             "weight": 0.08352981199403858
+        },
+        {
+            "id": 828151,
+            "weight": 0.08318759833337894
+        },
+        {
+            "id": 853466,
+            "weight": 0.08311659361779276
         },
         {
             "id": 924241,
@@ -271,6 +271,10 @@
         {
             "id": 903373,
             "weight": 0.06938185311845667
+        },
+        {
+            "id": 1153871,
+            "weight": 0.06893379506771231
         },
         {
             "id": 922345,

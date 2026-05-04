@@ -7,8 +7,8 @@
         57511
     ],
     "party_list": [
-        " Ouderen Appèl - Hart voor Eindhoven",
-        "50PLUS"
+        "50PLUS",
+        " Ouderen Appèl - Hart voor Eindhoven"
     ],
     "poho_id": [],
     "title": "Voorbereiding op Bezuinigingen in 2026 (Motie JM02)",
@@ -17,10 +17,10 @@
     "member": "Dré Rennenberg, Niek Rennenberg en Cor Verbeek",
     "party": null,
     "poho": "",
-    "result": "Verworpen",
+    "result": "verworpen",
     "date": "02-07-2024",
     "meeting_url": {
-        "1147982": "https://raadsinformatie.eindhoven.nl/vergadering/1147982#ai_8480081"
+        "1147982": "https://raadsinformatie.eindhoven.nl/vergadering/1147982/Voorbereiding%20op%20Bezuinigingen%20in%202026%20%28Motie%20JM02%29 02-07-2024#voting_8567324"
     },
     "attachment": null,
     "parent": 946916,
@@ -119,11 +119,11 @@
             "weight": 0.04889790788914126
         },
         {
-            "id": "r_8748211",
+            "id": 977662,
             "weight": 0.04834146553086921
         },
         {
-            "id": 977662,
+            "id": "r_8748211",
             "weight": 0.04834146553086921
         },
         {

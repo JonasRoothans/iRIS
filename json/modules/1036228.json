@@ -3,15 +3,15 @@
     "vote_id": null,
     "member_id": [
         194376,
+        194495,
         194406,
-        77830,
-        194495
+        77830
     ],
     "party_list": [
+        "SP",
         "Volt",
         "Partij voor de Dieren",
-        "GroenLinks",
-        "SP"
+        "GroenLinks"
     ],
     "poho_id": 230013,
     "title": "Laten we er gras over groeien (Motie M3)",

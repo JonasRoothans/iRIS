@@ -2,15 +2,15 @@
     "module_id": 930062,
     "vote_id": null,
     "member_id": [
-        194514,
         194498,
+        194514,
         194508,
         194495
     ],
     "party_list": [
-        "PvdA",
         "Partij voor de Dieren",
-        "GroenLinks"
+        "GroenLinks",
+        "PvdA"
     ],
     "poho_id": [],
     "title": "Beantwoording raadsvragen Publieke functies en religieuze uitingen: kunnen we daarover in gesprek? (GL, PvdA, PvdD)",

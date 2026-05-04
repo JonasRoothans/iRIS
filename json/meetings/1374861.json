@@ -7076,8 +7076,7 @@
                 "title": "Rekenkamerrapport - Van risico naar Regie - slimmer sturen op algoritmen en AI",
                 "id": 10014618,
                 "module_id": [
-                    1140925,
-                    1129193
+                    1140925
                 ]
             },
             "9514": {
@@ -7108,9 +7107,7 @@
             "13989": {
                 "title": "Initiatiefvoorstel Verbod fossiele reclame en vijftiende wijziging APV Eindhoven",
                 "id": 10105742,
-                "module_id": [
-                    1053561
-                ]
+                "module_id": []
             },
             "17402": {
                 "title": "Raadsvoorstel startdocument burgerberaad thema Veiligheid",

@@ -6,8 +6,8 @@
         131155
     ],
     "party_list": [
-        "50PLUS",
-        "SP"
+        "SP",
+        "50PLUS"
     ],
     "poho_id": [],
     "title": "Beantwoording raadsvragen - Voor wie kiest de gemeente inwoners of huisjesmelkers (SP, 50PLUS)",
@@ -32,7 +32,7 @@
     "related": [
         {
             "id": 1132118,
-            "weight": 1.0327788143113137
+            "weight": 0.7992203828733633
         },
         {
             "id": 891733,
@@ -49,6 +49,10 @@
         {
             "id": 984201,
             "weight": 0.4772691826680051
+        },
+        {
+            "id": 1157934,
+            "weight": 0.4630207546229375
         },
         {
             "id": 952588,

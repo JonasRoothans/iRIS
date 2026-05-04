@@ -11,10 +11,9 @@
     "party": null,
     "poho": "S. Toub (Wethouder)",
     "result": "aangenomen",
-    "date": "08-10-2024",
+    "date": "05-11-2024",
     "meeting_url": {
-        "1148143": "https://raadsinformatie.eindhoven.nl/vergadering/1148143#ai_8744814",
-        "1148132": "https://raadsinformatie.eindhoven.nl/vergadering/1148132#ai_8672314"
+        "1148143": "https://raadsinformatie.eindhoven.nl/vergadering/1148143/Raadsvoorstel%20Financieel%20inregelen%20opvang%20Oekra%C3%AFne%202024 05-11-2024#voting_8744819"
     },
     "attachment": {
         "https://raadsinformatie.eindhoven.nl/document/14484571/2/24bst00947+Raadsvoorstel+Financieel+inregelen+opvang+Oekra%C3%AFne+2024?connection_type=17&connection_id=10912683": "Raadsvoorstel Financieel inregelen opvang Oekraïne 2024",
@@ -36,7 +35,7 @@
         },
         {
             "id": 1085544,
-            "weight": 3.4535662952220614
+            "weight": 3.4437578511966453
         },
         {
             "id": 786228,
@@ -56,7 +55,7 @@
         },
         {
             "id": 1000502,
-            "weight": 0.9983666269101162
+            "weight": 0.9889858655645597
         },
         {
             "id": 968679,
@@ -64,7 +63,7 @@
         },
         {
             "id": 958686,
-            "weight": 0.8602054467993104
+            "weight": 0.8510682847722427
         },
         {
             "id": 786268,
@@ -163,10 +162,6 @@
             "weight": 0.08338152136458504
         },
         {
-            "id": 1016282,
-            "weight": 0.08186182634021984
-        },
-        {
             "id": 1125664,
             "weight": 0.08178081084796511
         },
@@ -191,20 +186,28 @@
             "weight": 0.07514185487850204
         },
         {
+            "id": 1157569,
+            "weight": 0.07506529104902367
+        },
+        {
             "id": 985312,
             "weight": 0.07247308770685436
         },
         {
-            "id": 831680,
-            "weight": 0.0709832109807167
-        },
-        {
-            "id": 876724,
-            "weight": 0.06965034303220956
+            "id": 1016282,
+            "weight": 0.07162909804769235
         },
         {
             "id": 915125,
             "weight": 0.06526986565211
+        },
+        {
+            "id": 831680,
+            "weight": 0.06211030960812711
+        },
+        {
+            "id": 876724,
+            "weight": 0.06094405015318337
         },
         {
             "id": 983014,

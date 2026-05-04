@@ -3447,14 +3447,17 @@
             }
         }
     },
-    "title": "Vergadering Raadzaal 03-02-2026 Gemeente Eindhoven",
+    "title": {
+        "Raadzaal": "Vergadering Raadzaal 03-02-2026 Gemeente Eindhoven",
+        "Commissiekamer": "Vergadering Commissiekamer 03-02-2026 Gemeente Eindhoven"
+    },
     "meeting_url": "https://raadsinformatie.eindhoven.nl/vergadering/1374914/",
     "video_url": {
         "Raadzaal": "http://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_03.02.2026.01-EINDHOVEN-RAA-ONDERTITEL_2026.02.03_195948.mp4/playlist.m3u8",
         "Commissiekamer": "http://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_03.02.206.02-EINDHOVEN-CIE-ONDERTITEL_2026.02.03_194208.mp4/playlist.m3u8"
     },
     "api_url": "api.notubiz.nl/events/1374914",
-    "date": "03-02-2026",
+    "date": "2026-02-03 17:00:00",
     "type": "Raadsavond ",
     "agenda": {
         "Raadzaal": {
@@ -3528,6 +3531,71 @@
                 "title": "Raadscommissie Knoop XL (Raadsvoorstel keuze voorkeursalternatief multimodale knoop)\nZie link voor de agenda.",
                 "id": 9949959,
                 "module_id": []
+            },
+            "634": {
+                "title": "Opening meningsvormende vergadering en vaststellen volgorde van de agenda",
+                "id": 9411056,
+                "module_id": []
+            },
+            "681": {
+                "title": "Raadsvoorstel Beleidsplan Een financieel zeker bestaan 2026 (2 insprekers)",
+                "id": 9949802,
+                "module_id": []
+            },
+            "7180": {
+                "title": "Pauze",
+                "id": 9949807,
+                "module_id": []
+            },
+            "9632": {
+                "title": "Mededelingen, lijsten moties en toezeggingen, verslagen, rondvragen en hamerstukken",
+                "id": 9411060,
+                "module_id": []
+            },
+            "9709": {
+                "title": "3.2 Lijsten moties en toezeggingen",
+                "id": 9411064,
+                "module_id": []
+            },
+            "9840": {
+                "title": "3.3 Verslagen",
+                "id": 9411066,
+                "module_id": []
+            },
+            "9846": {
+                "title": "3.4 Rondvragen",
+                "id": 9411068,
+                "module_id": [
+                    16532271,
+                    16555313,
+                    16557242,
+                    16556259
+                ]
+            },
+            "11008": {
+                "title": "Hamerstukken",
+                "id": 9949844,
+                "module_id": []
+            },
+            "11015": {
+                "title": "Raadsvoorstel Verlaging grondprijs VDMA als gevolg van WBI subsidie (Woordmelding: PvdD)",
+                "id": 9949851,
+                "module_id": []
+            },
+            "11140": {
+                "title": "Raadsvoorstel Besluit openbaar verkeer onttrekken parkeerterrein Sliffertsestraat",
+                "id": 9949856,
+                "module_id": []
+            },
+            "11161": {
+                "title": "Sluiting meningsvormende vergadering",
+                "id": 9411070,
+                "module_id": []
+            },
+            "null": {
+                "title": "Raadscommissie Knoop XL (Raadsvoorstel keuze voorkeursalternatief multimodale knoop)\nZie link voor de agenda.",
+                "id": 9949959,
+                "module_id": []
             }
         },
         "Commissiekamer": {
@@ -3577,6 +3645,61 @@
                 "module_id": [
                     1117248
                 ]
+            },
+            "963": {
+                "title": "Sluiting meningsvormende vergadering",
+                "id": 9411071,
+                "module_id": []
+            },
+            "1011": {
+                "title": "Toelichting rekenkamerrapport over Artificiële Intelligentie",
+                "id": 9957755,
+                "module_id": []
+            },
+            "226658": {
+                "title": "Pauze",
+                "id": 9950250,
+                "module_id": []
+            },
+            "227171": {
+                "title": "Opening meningsvormende vergadering en vaststellen volgorde van de agenda",
+                "id": 9411057,
+                "module_id": []
+            },
+            "729": {
+                "title": "Mededelingen, lijsten moties en toezeggingen, verslagen, rondvragen en hamerstukken",
+                "id": 9411061,
+                "module_id": []
+            },
+            "740": {
+                "title": "Mededelingen",
+                "id": 9411063,
+                "module_id": []
+            },
+            "810": {
+                "title": "Lijsten moties en toezeggingen",
+                "id": 9411065,
+                "module_id": []
+            },
+            "829": {
+                "title": "Verslagen",
+                "id": 9411067,
+                "module_id": []
+            },
+            "239": {
+                "title": "Rondvragen",
+                "id": 9411069,
+                "module_id": []
+            },
+            "841": {
+                "title": "Hamerstukken",
+                "id": 9950256,
+                "module_id": []
+            },
+            "842": {
+                "title": "Raadsvoorstel Verlenging en verbreding  Subsidieregeling Financiële ondersteuning sociale woningbouw Eindhoven (woordmelding: VVD)",
+                "id": 9950262,
+                "module_id": []
             },
             "963": {
                 "title": "Sluiting meningsvormende vergadering",

@@ -13,8 +13,7 @@
     "result": "aangenomen",
     "date": "11-07-2023",
     "meeting_url": {
-        "1102274": "https://raadsinformatie.eindhoven.nl/vergadering/1102274#ai_7672246",
-        "1119171": "https://raadsinformatie.eindhoven.nl/vergadering/1119171#ai_7672248"
+        "1102274": "https://raadsinformatie.eindhoven.nl/vergadering/1102274/Raadsvoorstel%20Gewijzigde%20vaststelling%20bp%20VII%20De%20Bergen%20%28Grote%20Berg%2011-21%29 11-07-2023#voting_7674172"
     },
     "attachment": {
         "https://raadsinformatie.eindhoven.nl/document/12841685/2/23bst00738+Raadsvoorstel+Gewijzigde+vaststelling+bp+VII+De+Bergen+%28Grote+Berg+11-21%29?connection_type=17&connection_id=9460439": "Raadsvoorstel Gewijzigde vaststelling bp VII De Bergen (Grote Berg 11-21)",
@@ -121,15 +120,7 @@
         },
         {
             "id": 888307,
-            "weight": 0.10823613012782869
-        },
-        {
-            "id": 928179,
-            "weight": 0.09499039270604888
-        },
-        {
-            "id": 971444,
-            "weight": 0.09176157405172287
+            "weight": 0.0947066138618501
         },
         {
             "id": 922381,
@@ -144,24 +135,28 @@
             "weight": 0.08804469677460516
         },
         {
-            "id": 828151,
-            "weight": 0.08752291893775266
-        },
-        {
-            "id": 1013592,
-            "weight": 0.08663720273074348
-        },
-        {
             "id": 958155,
             "weight": 0.08622967357068796
+        },
+        {
+            "id": 928179,
+            "weight": 0.08311659361779276
         },
         {
             "id": 845659,
             "weight": 0.08093921060781645
         },
         {
-            "id": 1112871,
-            "weight": 0.07927552532254875
+            "id": 971444,
+            "weight": 0.08029137729525751
+        },
+        {
+            "id": 828151,
+            "weight": 0.07658255407053358
+        },
+        {
+            "id": 1013592,
+            "weight": 0.07580755238940054
         },
         {
             "id": 916258,
@@ -170,6 +165,10 @@
         {
             "id": 826122,
             "weight": 0.0696749239806474
+        },
+        {
+            "id": 1112871,
+            "weight": 0.06936608465723015
         },
         {
             "id": 894965,
@@ -182,6 +181,10 @@
         {
             "id": 790619,
             "weight": 0.06450440211550913
+        },
+        {
+            "id": 1153871,
+            "weight": 0.06346049403787049
         },
         {
             "id": 855188,

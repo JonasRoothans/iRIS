@@ -2,14 +2,14 @@
     "module_id": 15747143,
     "vote_id": null,
     "member_id": [
-        194406,
         194514,
-        194402
+        194402,
+        194406
     ],
     "party_list": [
-        "PvdA",
+        "D66",
         "GroenLinks",
-        "D66"
+        "PvdA"
     ],
     "poho_id": [],
     "title": "Vraag V1 Vragenhalfuur - Atelierruimte (GL, PvdA, D66)",

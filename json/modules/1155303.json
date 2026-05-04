@@ -1,0 +1,81 @@
+{
+    "module_id": 1155303,
+    "vote_id": null,
+    "member_id": [],
+    "party_list": [],
+    "poho_id": [],
+    "title": "Raadsbrief Voortgang Station Eindhoven Strijp-S",
+    "url": "https://raadsinformatie.eindhoven.nl/modules/8/Raadsbrieven/1155303",
+    "type": "Raadsbrief",
+    "member": null,
+    "party": null,
+    "poho": null,
+    "result": "",
+    "date": "20-04-2026",
+    "meeting_url": null,
+    "attachment": null,
+    "parent": null,
+    "children": [],
+    "text": null,
+    "pdf_url": "https://raadsinformatie.eindhoven.nl/document/16850125/2/8098447_2_5_1_+Raadsbrief+voortgang+station+Strijp+S?connection_type=17&connection_id=13246145",
+    "pdf_text": null,
+    "bst": "8098447_2.5.1.",
+    "related": [
+        {
+            "id": "a_9607705",
+            "weight": 1.6176585321470858
+        },
+        {
+            "id": 1146306,
+            "weight": 0.6545492712993758
+        },
+        {
+            "id": 1111855,
+            "weight": 0.6544463026027083
+        },
+        {
+            "id": 1153830,
+            "weight": 0.6511194620220877
+        },
+        {
+            "id": 1085536,
+            "weight": 0.6496830041995113
+        },
+        {
+            "id": 1139066,
+            "weight": 0.6336526607219569
+        },
+        {
+            "id": 958793,
+            "weight": 0.39318740645867195
+        },
+        {
+            "id": 960626,
+            "weight": 0.3925520981861137
+        },
+        {
+            "id": 826634,
+            "weight": 0.39138371623787743
+        },
+        {
+            "id": 13911704,
+            "weight": 0.389680946741234
+        }
+    ],
+    "videostarttime": null,
+    "videolink": null,
+    "keywords": {
+        "Voortgang Station": 1.9785907845614,
+        "Station Eindhoven": 1.9785907845614,
+        "Raadsbrief Voortgang": 1.9765416191248102,
+        "Eindhoven Strijp-S": 1.9765416191248102,
+        "Station": 1.8552226942577967,
+        "Raadsbrief": 1.8416830712200127,
+        "Strijp-S": 1.8416830712200127
+    },
+    "svz": null,
+    "afgedaan": null,
+    "eersteIndiener": null,
+    "lastScrapeDate": null,
+    "meeting_id": []
+}

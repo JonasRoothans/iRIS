@@ -13,8 +13,7 @@
     "result": "aangenomen",
     "date": "02-07-2024",
     "meeting_url": {
-        "1147982": "https://raadsinformatie.eindhoven.nl/vergadering/1147982#ai_8455259",
-        "1147969": "https://raadsinformatie.eindhoven.nl/vergadering/1147969#ai_8455261"
+        "1147982": "https://raadsinformatie.eindhoven.nl/vergadering/1147982/Raadsvoorstel%20Gewijzigde%20vaststelling%20bestemmingsplan%20%E2%80%98Fietspad%20HTCE%20%E2%80%93%20De%20Run%E2%80%99 02-07-2024#voting_8466967"
     },
     "attachment": {
         "https://raadsinformatie.eindhoven.nl/document/14175647/1/24bst00602+Raadsvoorstel+Gewijzigde+vaststelling+bestemmingsplan+%E2%80%98Fietspad+HTCE+%E2%80%93+De+Run%E2%80%99?connection_type=17&connection_id=10604759": "Raadsvoorstel Gewijzigde vaststelling bestemmingsplan ‘Fietspad HTCE – De Run’",
@@ -54,11 +53,11 @@
             "weight": 0.6599394668371064
         },
         {
-            "id": "r_8748211",
+            "id": 977662,
             "weight": 0.43952722226609686
         },
         {
-            "id": 977662,
+            "id": "r_8748211",
             "weight": 0.43952722226609686
         },
         {

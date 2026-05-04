@@ -4,7 +4,7 @@
     "member_id": [],
     "party_list": [],
     "poho_id": 230014,
-    "title": "Raadsvoorstel Gewijzigde vaststelling wijzigingsbesluit TAM-omgevingsplan \nUitbreiding hoogspanningsstation Eindhoven-Zuid",
+    "title": "Raadsvoorstel Gewijzigde vaststelling wijzigingsbesluit TAM-omgevingsplan \r\nUitbreiding hoogspanningsstation Eindhoven-Zuid",
     "url": "https://raadsinformatie.eindhoven.nl/modules/19/raadsvoorstellen/1088097?parent_event=1256749",
     "type": "Raadsvoorstel",
     "member": null,
@@ -13,8 +13,7 @@
     "result": "aangenomen",
     "date": "25-11-2025",
     "meeting_url": {
-        "1256749": "https://raadsinformatie.eindhoven.nl/vergadering/1256749#ai_9679776",
-        "1256665": "https://raadsinformatie.eindhoven.nl/vergadering/1256665#ai_9728104"
+        "1256749": "https://raadsinformatie.eindhoven.nl/vergadering/1256749/Raadsvoorstel%20Gewijzigde%20vaststelling%20wijzigingsbesluit%20TAM-omgevingsplan%20%0D%0AUitbreiding%20hoogspanningsstation%20Eindhoven-Zuid 25-11-2025#voting_390383"
     },
     "attachment": {
         "https://raadsinformatie.eindhoven.nl/document/16039748/2/8033177_02+Raadsvoorstel+Wijzigingsbesluit+TAM-omgevingsplan+Uitbreiding+HS-station+Eindhoven+Zuid?connection_type=17&connection_id=12408830": "Raadsvoorstel Wijzigingsbesluit TAM-omgevingsplan Uitbreiding HS-station Eindhoven Zuid",
@@ -35,48 +34,52 @@
     "bst": "8033177_02",
     "related": [
         {
+            "id": 1153871,
+            "weight": 3.7105039560781448
+        },
+        {
             "id": 1047524,
-            "weight": 3.576239241157251
+            "weight": 3.1046717494719918
         },
         {
             "id": 1108464,
-            "weight": 2.512250125523301
+            "weight": 2.0227662225509366
         },
         {
             "id": 1117265,
-            "weight": 2.4673658526648254
+            "weight": 2.0069536336056566
         },
         {
             "id": 1123634,
-            "weight": 2.0912799143078873
+            "weight": 1.7789676433348838
         },
         {
             "id": 1144342,
-            "weight": 1.334247984314088
-        },
-        {
-            "id": 1141020,
-            "weight": 0.6154496892857708
+            "weight": 1.1527235208499371
         },
         {
             "id": 1117037,
-            "weight": 0.5989265167475519
+            "weight": 0.5731003207823312
         },
         {
-            "id": 1140866,
-            "weight": 0.5146971637361194
+            "id": 1141020,
+            "weight": 0.5275283051020894
         },
         {
             "id": 1144351,
             "weight": 0.5119433725264373
         },
         {
-            "id": 1140928,
-            "weight": 0.49713422322199796
+            "id": 1060177,
+            "weight": 0.4765113180850852
         },
         {
-            "id": 1060177,
-            "weight": 0.4892152068285789
+            "id": 1140866,
+            "weight": 0.44116899748810234
+        },
+        {
+            "id": 1140928,
+            "weight": 0.4261150484759983
         },
         {
             "id": 1102826,
@@ -92,39 +95,31 @@
         },
         {
             "id": 960626,
-            "weight": 0.28652515631966446
-        },
-        {
-            "id": 956401,
-            "weight": 0.22061273025675576
+            "weight": 0.24294622053489942
         },
         {
             "id": 1144348,
             "weight": 0.2087031059632926
         },
         {
-            "id": 1009569,
-            "weight": 0.20509354885348408
-        },
-        {
-            "id": 1015907,
-            "weight": 0.19898941017026844
+            "id": 956401,
+            "weight": 0.18392700618121394
         },
         {
             "id": 1034759,
             "weight": 0.16999680146517523
         },
         {
-            "id": 1146335,
-            "weight": 0.16542791733050183
+            "id": 1009569,
+            "weight": 0.16407483908278725
+        },
+        {
+            "id": 1015907,
+            "weight": 0.15919152813621476
         },
         {
             "id": 1119726,
             "weight": 0.15625469662134184
-        },
-        {
-            "id": 1112838,
-            "weight": 0.13980743880612403
         },
         {
             "id": 1137888,
@@ -135,6 +130,10 @@
             "weight": 0.13655762630287682
         },
         {
+            "id": 1146335,
+            "weight": 0.13234233386440147
+        },
+        {
             "id": 1123568,
             "weight": 0.12061818635974543
         },
@@ -143,24 +142,28 @@
             "weight": 0.11655987871788784
         },
         {
+            "id": 1112838,
+            "weight": 0.11184595104489922
+        },
+        {
             "id": 1133235,
-            "weight": 0.11604434078537276
+            "weight": 0.10315052514255357
         },
         {
             "id": 1150706,
-            "weight": 0.11414674253773006
+            "weight": 0.10146377114464894
         },
         {
             "id": 1140607,
-            "weight": 0.11183237367025152
+            "weight": 0.0994065543735569
         },
         {
             "id": 1110340,
-            "weight": 0.10595739497223018
+            "weight": 0.09418435108642682
         },
         {
             "id": 851550,
-            "weight": 0.0981348504048771
+            "weight": 0.08586799410426746
         },
         {
             "id": 978875,

@@ -2,15 +2,16 @@
     "module_id": 16691817,
     "vote_id": null,
     "member_id": [
+        194406,
         194514,
-        194402,
         194370,
-        194406
+        194402
     ],
     "party_list": [
         "Eindhoven voor Elkaar",
-        "PvdA",
         "GroenLinks",
+        "PRO",
+        "PvdA",
         "D66"
     ],
     "poho_id": [],
