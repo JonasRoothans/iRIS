@@ -18,6 +18,7 @@ def main(driver):
     # Init
     members_dict = {}
     counter = 0
+    failed =[]
 
     # Extract party member URLs
     for section in party_sections:
@@ -33,6 +34,12 @@ def main(driver):
             member_name = member_link.find('span', class_='naam').get_text()
             member_function = member_link.find('span', class_='functie').get_text()
             soup_member  = web.visitPageWithDriver(driver,member_url) #this is needed to get the javascript things
+
+            if soup_member is None:
+                failed.append(member_url)
+                continue
+
+
             try:
                 member_id  = soup_member.find('h2',class_='lid_header')['data-role_id']
             except:
@@ -80,7 +87,10 @@ def main(driver):
             #print('DEBUG MODE: CONTINUING AFTER FIRST MEMBER')
             #return
             #------
-
+    if failed:
+        with open("failed_members.log", "w") as f:
+            f.write("\n".join(failed))
+        print(f"{len(failed)} members could not be scraped. See failed_members.log")
     return members_dict
 
 

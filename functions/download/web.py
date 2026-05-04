@@ -2,7 +2,8 @@ from selenium import webdriver
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service as ChromeService
 from webdriver_manager.chrome import ChromeDriverManager
-
+import time
+from selenium.common.exceptions import WebDriverException
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service as ChromeService
 from selenium.webdriver.chrome.options import Options
@@ -49,11 +50,23 @@ def visitPage(url):
     soup = BeautifulSoup(response.content, 'html.parser')
     return soup
 
-def visitPageWithDriver(driver,url):
-    driver.get(url)
-    page_source = driver.page_source
-    soup = BeautifulSoup(page_source, 'html.parser')
-    return soup
+
+def visitPageWithDriver(driver, url, retries=3, wait=5):
+    for attempt in range(retries):
+        try:
+            driver.get(url)
+            page_source = driver.page_source
+            soup = BeautifulSoup(page_source, 'html.parser')
+            return soup
+        except WebDriverException as e:
+            print(f"Attempt {attempt + 1} failed for {url}: {e}")
+            if attempt < retries - 1:
+                time.sleep(wait)
+    print(f"Giving up on {url} after {retries} attempts")
+    return None
+
+
+
 
 def visitPageAndWaitForPolitiekPortaal(driver, url):
     driver.get(url)
