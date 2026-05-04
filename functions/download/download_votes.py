@@ -95,6 +95,10 @@ def update_vote_per_member(driver, url,fromDate):
     print(url)
     soup = web.visitPageWithDriver(driver,url)
 
+    if soup is None:
+        print(f'could not load {url}')
+        return
+
     # Find the script tag containing the JSON data
     script_tag = soup.find('script', id='vote_data')
 
