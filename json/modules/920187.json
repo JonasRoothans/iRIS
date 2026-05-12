@@ -3,19 +3,19 @@
     "vote_id": null,
     "member_id": [
         194370,
-        133688,
         194511,
         194424,
+        133688,
         195133,
         194495
     ],
     "party_list": [
-        "GroenLinks",
-        "PvdA",
-        "CDA",
-        "SP",
+        "Partij voor de Dieren",
         "D66",
-        "Partij voor de Dieren"
+        "PvdA",
+        "GroenLinks",
+        "SP",
+        "CDA"
     ],
     "poho_id": 230024,
     "title": "Bijstand vanuit Vertrouwen - Samenwonen op proef zonder bijstand in te leveren (Vrije motie VM1)",

@@ -11,9 +11,13 @@
     "party": null,
     "poho": "M. Verhees (Wethouder)",
     "result": "aangenomen",
-    "date": "28-05-2024",
+    "date": "05-12-2023",
     "meeting_url": {
-        "1147937": "https://raadsinformatie.eindhoven.nl/vergadering/1147937/Raadsvoorstel%20Vaststelling%20bestemmingsplan%20%27Buitengebied%20%28Eikenburg%29%E2%80%99 28-05-2024#voting_8365780"
+        "1147937": "https://raadsinformatie.eindhoven.nl/vergadering/1147937#ai_8365571",
+        "1044928": "https://raadsinformatie.eindhoven.nl/vergadering/1044928#ai_7967215",
+        "1146938": "https://raadsinformatie.eindhoven.nl/vergadering/1146938#ai_8074027",
+        "1146930": "https://raadsinformatie.eindhoven.nl/vergadering/1146930#ai_8074028",
+        "1147931": "https://raadsinformatie.eindhoven.nl/vergadering/1147931#ai_8389722"
     },
     "attachment": {
         "https://raadsinformatie.eindhoven.nl/document/13415704/2/23bst01374+Raadsvoorstel+Vaststelling+bestemmingsplan+%27Buitengebied+%28Eikenburg%29%E2%80%99?connection_type=17&connection_id=9903858": "Raadsvoorstel Vaststelling bestemmingsplan 'Buitengebied (Eikenburg)’",
@@ -112,16 +116,16 @@
             "weight": 0.0985560313217529
         },
         {
+            "id": 822251,
+            "weight": 0.09789045573355251
+        },
+        {
             "id": 924343,
             "weight": 0.09610108114974471
         },
         {
-            "id": 822251,
-            "weight": 0.08565414876685845
-        },
-        {
             "id": 867113,
-            "weight": 0.08391950726170684
+            "weight": 0.09590800829909353
         },
         {
             "id": 833162,
@@ -132,32 +136,32 @@
             "weight": 0.08074827597058591
         },
         {
+            "id": 952588,
+            "weight": 0.07881595241412628
+        },
+        {
+            "id": 1117274,
+            "weight": 0.07879194465566379
+        },
+        {
             "id": 1133037,
             "weight": 0.07611455470776675
+        },
+        {
+            "id": 952128,
+            "weight": 0.0749836550605234
         },
         {
             "id": 1042265,
             "weight": 0.0732567275198612
         },
         {
-            "id": 952588,
-            "weight": 0.0689639583623605
-        },
-        {
-            "id": 1117274,
-            "weight": 0.06894295157370582
-        },
-        {
-            "id": 1153214,
-            "weight": 0.06873838324956487
+            "id": 1082060,
+            "weight": 0.06601158583119919
         },
         {
             "id": 1064269,
             "weight": 0.06591912869098421
-        },
-        {
-            "id": 952128,
-            "weight": 0.06561069817795798
         },
         {
             "id": 847787,
@@ -166,10 +170,6 @@
         {
             "id": 925712,
             "weight": 0.06032208817032303
-        },
-        {
-            "id": 1082060,
-            "weight": 0.0577601376022993
         },
         {
             "id": 984218,

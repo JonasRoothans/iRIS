@@ -7,7 +7,6 @@
     ],
     "party_list": [
         "Eindhoven voor Elkaar",
-        "Ouderen Appél Eindhoven",
         " Ouderen Appèl - Hart voor Eindhoven"
     ],
     "poho_id": [],
@@ -53,11 +52,11 @@
         },
         {
             "id": 1103181,
-            "weight": 0.14132020232581177
+            "weight": 0.1884269364344157
         },
         {
-            "id": 1155677,
-            "weight": 0.13658747444685515
+            "id": 971234,
+            "weight": 0.15458243335899993
         },
         {
             "id": 776937,
@@ -74,10 +73,6 @@
         {
             "id": 958814,
             "weight": 0.11602210739845761
-        },
-        {
-            "id": 971234,
-            "weight": 0.11593682501924994
         },
         {
             "id": 1052816,
@@ -197,7 +192,7 @@
     },
     "svz": null,
     "afgedaan": null,
-    "eersteIndiener": 47266,
-    "lastScrapeDate": "04-05-2026",
+    "eersteIndiener": 194370,
+    "lastScrapeDate": "08-04-2026",
     "meeting_id": []
 }

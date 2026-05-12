@@ -1225,15 +1225,13 @@
             }
         }
     },
-    "title": {
-        "Raadzaal": "Vergadering Raadsvergadering 21-09-2022 Gemeente Eindhoven"
-    },
+    "title": "Vergadering Raadsvergadering 21-09-2022 Gemeente Eindhoven",
     "meeting_url": "https://raadsinformatie.eindhoven.nl/vergadering/1013082/",
     "video_url": {
         "Raadzaal": "http://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_21.09.22_NC_EINDHOVEN_RAA.mp4/playlist.m3u8"
     },
     "api_url": "api.notubiz.nl/events/1013082",
-    "date": "2022-09-21 16:00:00",
+    "date": "21-09-2022",
     "type": "Raadsvergadering",
     "agenda": {
         "Raadzaal": {
@@ -1260,27 +1258,37 @@
             "849": {
                 "title": "Raadsvoorstel ontheffen van een commissielid van de fractie OAHvE als lid in de Meningsvormende vergadering en Auditcommissie",
                 "id": 6969463,
-                "module_id": []
+                "module_id": [
+                    773075
+                ]
             },
             "860": {
                 "title": "Raadsvoorstel  ontheffen van een commissielid van de fractie SP als lid in de Meningsvormende vergadering ",
                 "id": 7016145,
-                "module_id": []
+                "module_id": [
+                    779516
+                ]
             },
             "817": {
                 "title": "Raadsvoorstel benoeming lid auditcommissie",
                 "id": 7026514,
-                "module_id": []
+                "module_id": [
+                    780446
+                ]
             },
             "869": {
                 "title": "Raadsvoorstel benoemen commissielid van de fractie OAHvE als lid in de Meningsvormende vergadering",
                 "id": 7033560,
-                "module_id": []
+                "module_id": [
+                    780938
+                ]
             },
             "901": {
                 "title": "Raadsvoorstel benoemen commissielid van de fractie SP als lid in de Meningsvormende vergadering",
                 "id": 7033497,
-                "module_id": []
+                "module_id": [
+                    780932
+                ]
             },
             "1066": {
                 "title": "Beëdiging commissieleden",
@@ -1305,57 +1313,79 @@
             "2174": {
                 "title": "Raadsvoorstel Stormschade februari en mei 2022",
                 "id": 6984808,
-                "module_id": []
+                "module_id": [
+                    771649
+                ]
             },
             "2180": {
                 "title": "Raadsvoorstel Algemene Verordening Ondergrondse Infrastructuren",
                 "id": 6984854,
-                "module_id": []
+                "module_id": [
+                    771635
+                ]
             },
             "2188": {
                 "title": "Raadsvoorstel financiële ontmanteling investerings- en exploitatiemiddelen voor proeftuin ’t Ven- Lievendaal",
                 "id": 6984861,
-                "module_id": []
+                "module_id": [
+                    771634
+                ]
             },
             "2201": {
                 "title": "Raadsvoorstel Begrotingswijzigingen Tussentijdse rapportage 1-2022",
                 "id": 6984863,
-                "module_id": []
+                "module_id": [
+                    771657
+                ]
             },
             "2308": {
                 "title": "Raadsvoorstel Vaststelling bestemmingsplan 'III Strijp buiten de Ring 2019 (div. locaties 't Ven)'",
                 "id": 6984885,
-                "module_id": []
+                "module_id": [
+                    771650
+                ]
             },
             "2209": {
                 "title": "Raadsvoorstel Gewijzigde vaststelling ex artikel 6:19 Awb bestemmingsplan ‘V Limbeek – Woenselse Watermolen 2007 (Zoutstraat 2-4)",
                 "id": 6984896,
-                "module_id": []
+                "module_id": [
+                    771633
+                ]
             },
             "2224": {
                 "title": "Raadsvoorstel Vaststellen Grondexploitatie gebiedsontwikkeling winkelcentrum en woningbouw Ardèchelaan (899-300)",
                 "id": 6984903,
-                "module_id": []
+                "module_id": [
+                    771654
+                ]
             },
             "2443": {
                 "title": "Raadsvoorstel Begrotingswijziging financiële middelen verbouwing atelierpanden en subsidieregeling makerspaces",
                 "id": 6984918,
-                "module_id": []
+                "module_id": [
+                    771655
+                ]
             },
             "2246": {
                 "title": "Raadsvoorstel Verzoek om opheffing geheimhouding stukken met betrekking tot Aankoop Landgoed De Wielewaal",
                 "id": 6995574,
-                "module_id": []
+                "module_id": [
+                    777965
+                ]
             },
             "2257": {
                 "title": "Raadsvoorstel Aanwijzing burgemeester Dijsselbloem als lid Algemeen Bestuur Metropoolregio Eindhoven",
                 "id": 7027781,
-                "module_id": []
+                "module_id": [
+                    780518
+                ]
             },
             "2267": {
                 "title": "Raadsvoorstel Verordening op de rekenkamer Eindhoven 2022",
                 "id": 7034019,
-                "module_id": []
+                "module_id": [
+                    780980
+                ]
             },
             "2514": {
                 "title": "Bespreekstukken",
@@ -1365,12 +1395,16 @@
             "2530": {
                 "title": "Raadsvoorstel startnotitie participatieproces Wielewaal",
                 "id": 6984875,
-                "module_id": []
+                "module_id": [
+                    771653
+                ]
             },
             "5092": {
                 "title": "Raadsvoorstel inzet rijksmiddelen aanpak energiearmoede",
                 "id": 6992299,
-                "module_id": []
+                "module_id": [
+                    777690
+                ]
             },
             "6211": {
                 "title": "Vrije moties",

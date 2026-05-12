@@ -8,10 +8,10 @@
         194500
     ],
     "party_list": [
-        "SP",
-        "50PLUS",
+        "LPF ",
         "FVD",
-        "LPF "
+        "50PLUS",
+        "SP"
     ],
     "poho_id": [],
     "title": "De Menselijke Maat - Bestemmingsplan Buitengebied 2023 (Motie M1A)",
@@ -20,10 +20,10 @@
     "member": "Rudy Reker, Ruud van Acquoij, Jannie Visscher en Nicolas Knoester",
     "party": null,
     "poho": "",
-    "result": "verworpen",
+    "result": "Verworpen",
     "date": "25-03-2025",
     "meeting_url": {
-        "1256317": "https://raadsinformatie.eindhoven.nl/vergadering/1256317/De%20Menselijke%20Maat%20-%20Bestemmingsplan%20Buitengebied%202023%20%28Motie%20M1A%29 25-03-2025#voting_9181668"
+        "1256317": "https://raadsinformatie.eindhoven.nl/vergadering/1256317#ai_9044363"
     },
     "attachment": null,
     "parent": 1013568,
@@ -114,11 +114,11 @@
             "weight": 0.2075560229728836
         },
         {
-            "id": 977662,
+            "id": "r_8748211",
             "weight": 0.19625863453259632
         },
         {
-            "id": "r_8748211",
+            "id": 977662,
             "weight": 0.19625863453259632
         },
         {

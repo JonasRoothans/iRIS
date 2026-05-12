@@ -13,8 +13,7 @@
     "result": "",
     "date": "26-05-2026",
     "meeting_url": {
-        "1374866": "https://raadsinformatie.eindhoven.nl/vergadering/1374866#ai_10050261",
-        "1374934": "https://raadsinformatie.eindhoven.nl/vergadering/1374934#ai_10179550"
+        "1374866": "https://raadsinformatie.eindhoven.nl/vergadering/1374866#ai_10050261"
     },
     "attachment": {
         "https://raadsinformatie.eindhoven.nl/document/16595344/1/8119815_02+Raadsvoorstel+Verlenging+Preventief+Jeugdbeleid?connection_type=17&connection_id=12969680": "Raadsvoorstel Verlenging Preventief Jeugdbeleid",
@@ -395,6 +394,6 @@
     "svz": null,
     "afgedaan": null,
     "eersteIndiener": null,
-    "lastScrapeDate": "04-05-2026",
+    "lastScrapeDate": "10-04-2026",
     "meeting_id": []
 }

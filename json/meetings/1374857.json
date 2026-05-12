@@ -4731,12 +4731,16 @@
             "2418": {
                 "title": "Raadsvoorstel Grondexploitatie Picustoren",
                 "id": 9794278,
-                "module_id": []
+                "module_id": [
+                    1101367
+                ]
             },
             "2395": {
                 "title": "Raadsvoorstel Investeringsbudget renovatie kleedruimten sporthal Ehv Noord",
                 "id": 9852868,
-                "module_id": []
+                "module_id": [
+                    1107607
+                ]
             },
             "2536": {
                 "title": "Bespreekstukken",
@@ -4747,13 +4751,16 @@
                 "title": "Raadsvoorstel Strategische koers Ergon 2027 -2032",
                 "id": 9859488,
                 "module_id": [
-                    1126328
+                    1126328,
+                    1106072
                 ]
             },
             "3624": {
                 "title": "Raadsvoorstel wensen en bedenkingen oprichting MRE Fondsbeheer BV, Woonfonds BV en Bestuursstichting Woonfonds",
                 "id": 9909633,
-                "module_id": []
+                "module_id": [
+                    1104821
+                ]
             },
             "5491": {
                 "title": "Vrije moties",

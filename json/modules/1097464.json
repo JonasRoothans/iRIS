@@ -13,7 +13,8 @@
     "result": "aangenomen",
     "date": "16-12-2025",
     "meeting_url": {
-        "1256326": "https://raadsinformatie.eindhoven.nl/vergadering/1256326/Raadsvoorstel%20Ontwerp%20programma%20gezonde%20leefomgeving%202026%202035 16-12-2025#voting_395095"
+        "1256326": "https://raadsinformatie.eindhoven.nl/vergadering/1256326#ai_9760725",
+        "1256676": "https://raadsinformatie.eindhoven.nl/vergadering/1256676#ai_8589697"
     },
     "attachment": {
         "https://raadsinformatie.eindhoven.nl/document/16163573/2/8061907_03+Raadsvoorstel+Ontwerp+programma+gezonde+leefomgeving+2026-2035?connection_type=17&connection_id=12523667": "Raadsvoorstel Ontwerp programma gezonde leefomgeving 2026-2035",
@@ -35,24 +36,24 @@
             "weight": 1.397339405481386
         },
         {
+            "id": 932261,
+            "weight": 0.9882993888114187
+        },
+        {
+            "id": 1037355,
+            "weight": 0.987785052816442
+        },
+        {
             "id": 948371,
             "weight": 0.8384074107994924
         },
         {
-            "id": 932261,
-            "weight": 0.7906395110491349
-        },
-        {
-            "id": 1037355,
-            "weight": 0.7902280422531536
-        },
-        {
-            "id": 1153862,
-            "weight": 0.7898978279591439
-        },
-        {
             "id": 1133353,
             "weight": 0.6475550155972001
+        },
+        {
+            "id": 1013552,
+            "weight": 0.4816155792331671
         },
         {
             "id": 776906,
@@ -65,10 +66,6 @@
         {
             "id": 1076215,
             "weight": 0.43297679192314004
-        },
-        {
-            "id": 1013552,
-            "weight": 0.38529246338653367
         },
         {
             "id": 1111373,

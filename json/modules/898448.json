@@ -14,13 +14,13 @@
         194495
     ],
     "party_list": [
-        "LPF ",
-        "50PLUS",
-        "Volt",
-        "GroenLinks",
-        "PvdA",
+        "Partij voor de Dieren",
         "D66",
-        "Partij voor de Dieren"
+        "Volt",
+        "PvdA",
+        "GroenLinks",
+        "LPF ",
+        "50PLUS"
     ],
     "poho_id": null,
     "title": "Next station Eindhoven International (Vrije motie VM4)",
@@ -29,10 +29,10 @@
     "member": "Tom  Brouwers, Bart Habraken, Virginia Jonkers, Tjeerd Ritmeester, Jonas Roothans, Jacco Rubenkamp en Cor Verbeek",
     "party": null,
     "poho": "M. Esselbrugge (Wethouder)",
-    "result": "aangenomen",
+    "result": "Aangenomen",
     "date": "28-11-2023",
     "meeting_url": {
-        "1013527": "https://raadsinformatie.eindhoven.nl/vergadering/1013527/Next%20station%20Eindhoven%20International%20%28Vrije%20motie%20VM4%29 28-11-2023#voting_8041957"
+        "1013527": "https://raadsinformatie.eindhoven.nl/vergadering/1013527#ai_6965146"
     },
     "attachment": null,
     "parent": null,

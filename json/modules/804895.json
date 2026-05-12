@@ -13,7 +13,9 @@
     "result": "aangenomen",
     "date": "14-02-2023",
     "meeting_url": {
-        "1013452": "https://raadsinformatie.eindhoven.nl/vergadering/1013452/Raadsvoorstel%20Startnotitie%20Pact%20Woensel%20Zuid 14-02-2023#voting_7354989"
+        "1013452": "https://raadsinformatie.eindhoven.nl/vergadering/1013452#ai_7287599",
+        "1059673": "https://raadsinformatie.eindhoven.nl/vergadering/1059673#ai_7319640",
+        "1059802": "https://raadsinformatie.eindhoven.nl/vergadering/1059802#ai_7231191"
     },
     "attachment": {
         "https://raadsinformatie.eindhoven.nl/document/12238197/3/22bst01465+Raadsvoorstel+Startnotitie+Pact+Woensel+Zuid?connection_type=17&connection_id=8934874": "Raadsvoorstel Startnotitie Pact Woensel Zuid",
@@ -61,7 +63,7 @@
         },
         {
             "id": 855034,
-            "weight": 0.38092954404976653
+            "weight": 0.4456600246899024
         },
         {
             "id": 831047,
@@ -172,12 +174,20 @@
             "weight": 0.09393388180360354
         },
         {
+            "id": 955604,
+            "weight": 0.09246232276183228
+        },
+        {
             "id": 1037397,
             "weight": 0.09090772917467557
         },
         {
             "id": 776891,
             "weight": 0.08945393253685519
+        },
+        {
+            "id": 1011625,
+            "weight": 0.08728932359325746
         },
         {
             "id": 783052,
@@ -192,12 +202,24 @@
             "weight": 0.08018487168963592
         },
         {
+            "id": 1023857,
+            "weight": 0.0779484460404813
+        },
+        {
+            "id": 1036709,
+            "weight": 0.07662237031576533
+        },
+        {
             "id": 853720,
             "weight": 0.07644190405198605
         },
         {
             "id": 926416,
             "weight": 0.07514387879864885
+        },
+        {
+            "id": 923623,
+            "weight": 0.07449318710672582
         },
         {
             "id": "r_7006017",
@@ -212,12 +234,24 @@
             "weight": 0.0681794072700653
         },
         {
+            "id": 958581,
+            "weight": 0.06501460422581447
+        },
+        {
+            "id": 938313,
+            "weight": 0.05970941687355511
+        },
+        {
             "id": 1082060,
             "weight": 0.05820471798167529
         },
         {
             "id": 991435,
             "weight": 0.0509164740675622
+        },
+        {
+            "id": 877025,
+            "weight": 0.0492090599504231
         }
     ],
     "videostarttime": {

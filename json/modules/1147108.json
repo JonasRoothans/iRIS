@@ -11,10 +11,8 @@
     "party": null,
     "poho": "",
     "result": "",
-    "date": "26-05-2026",
-    "meeting_url": {
-        "1374866": "https://raadsinformatie.eindhoven.nl/vergadering/1374866#ai_10202619"
-    },
+    "date": "26-03-2026",
+    "meeting_url": null,
     "attachment": {
         "https://raadsinformatie.eindhoven.nl/document/16761162/3/Raadsvoorstel+Mandaatregeling?connection_type=17&connection_id=13150576": "Raadsvoorstel Mandaatregeling"
     },
@@ -118,7 +116,7 @@
             "weight": 0.03392042015311109
         }
     ],
-    "videostarttime": {},
+    "videostarttime": null,
     "videolink": null,
     "keywords": {
         "Woo": 0.9944666541979137,
@@ -198,6 +196,6 @@
     "svz": null,
     "afgedaan": null,
     "eersteIndiener": null,
-    "lastScrapeDate": "04-05-2026",
+    "lastScrapeDate": "10-04-2026",
     "meeting_id": []
 }

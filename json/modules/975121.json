@@ -3,21 +3,21 @@
     "vote_id": null,
     "member_id": [
         194371,
-        194406,
         77830,
+        194406,
         194376,
         194375,
         194385,
         137276
     ],
     "party_list": [
+        "Partij voor de Dieren",
+        "D66",
         "Volt",
-        "GroenLinks",
         "PvdA",
         "VVD",
-        "D66",
-        "SP",
-        "Partij voor de Dieren"
+        "GroenLinks",
+        "SP"
     ],
     "poho_id": 248564,
     "title": "Een bruisend én een inclusief Eindhoven (Motie M1)",

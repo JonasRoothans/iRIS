@@ -13,7 +13,9 @@
     "result": "aangenomen",
     "date": "28-05-2024",
     "meeting_url": {
-        "1147937": "https://raadsinformatie.eindhoven.nl/vergadering/1147937/Raadsvoorstel%20Kadernota%202025 28-05-2024#voting_8361934"
+        "1147937": "https://raadsinformatie.eindhoven.nl/vergadering/1147937#ai_8361768",
+        "1147929": "https://raadsinformatie.eindhoven.nl/vergadering/1147929#ai_8359601",
+        "1147935": "https://raadsinformatie.eindhoven.nl/vergadering/1147935#ai_8359842"
     },
     "attachment": {
         "https://raadsinformatie.eindhoven.nl/document/14028266/1/24bst00401+Raadsvoorstel+Kadernota+2025?connection_type=17&connection_id=10464115": "Raadsvoorstel Kadernota 2025",
@@ -106,6 +108,10 @@
             "weight": 0.17474946330794583
         },
         {
+            "id": 790697,
+            "weight": 0.17362471274093194
+        },
+        {
             "id": 822740,
             "weight": 0.17168639992904997
         },
@@ -136,10 +142,6 @@
         {
             "id": 884948,
             "weight": 0.11965567395773397
-        },
-        {
-            "id": 790697,
-            "weight": 0.11942861946361079
         },
         {
             "id": 1048223,
@@ -266,6 +268,10 @@
             "weight": 0.056020129479277106
         },
         {
+            "id": 998551,
+            "weight": 0.05598770040897928
+        },
+        {
             "id": 1015984,
             "weight": 0.053580552972024555
         },
@@ -278,8 +284,28 @@
             "weight": 0.0483636520393419
         },
         {
+            "id": 776527,
+            "weight": 0.04740995161388859
+        },
+        {
+            "id": 838678,
+            "weight": 0.046254050779133346
+        },
+        {
             "id": 864025,
             "weight": 0.04567448852127566
+        },
+        {
+            "id": "a_7151094",
+            "weight": 0.044313576543008645
+        },
+        {
+            "id": 794220,
+            "weight": 0.044143683141094105
+        },
+        {
+            "id": 801851,
+            "weight": 0.042605604895624594
         }
     ],
     "videostarttime": {

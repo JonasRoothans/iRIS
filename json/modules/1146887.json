@@ -9,11 +9,10 @@
     "party_list": [
         "Eindhoven voor Elkaar",
         "Volt",
-        "Ouderen Appél Eindhoven",
         " Ouderen Appèl - Hart voor Eindhoven"
     ],
     "poho_id": [],
-    "title": "Beantwoording raadsvragen - Vierlander en KnoopXL (EVE, Volt, OAE)",
+    "title": "Ingekomen raadsvragen - Vierlander en KnoopXL (EVE, Volt, OAE)",
     "url": "https://raadsinformatie.eindhoven.nl/modules/4/Raadsvragen/1146887",
     "type": "Raadsvraag",
     "member": "Tjeerd Ritmeester, Robin Brokmann en Niek Rennenberg",
@@ -23,39 +22,38 @@
     "date": "26-03-2026",
     "meeting_url": null,
     "attachment": {
-        "https://raadsinformatie.eindhoven.nl/document/16758665/1?connection_type=17&connection_id=13148209": "Vraag",
-        "https://raadsinformatie.eindhoven.nl/document/16809382/1?connection_type=17&connection_id=13202126": "Antwoord"
+        "https://raadsinformatie.eindhoven.nl/document/16758665/1?connection_type=17&connection_id=13148209": "Vraag"
     },
     "parent": null,
     "children": [],
     "text": null,
     "pdf_url": "https://raadsinformatie.eindhoven.nl/document/16758665/1?connection_type=17&connection_id=13148209",
     "pdf_text": "    \n \n \nRaadsvragen – Vierlander naar 72%  \nUit een recente bekendmaking over een voorgenomen grondverkoop ten behoeve van de \nVierlander in Fellenoord  blijkt dat deze verkoop wordt gemotiveerd met een bouwplan van \ncirca 306 woningen, waarvan 72% betaalbaar zou zijn.1 Eerder lag voor de Vierlander  een \nplan  voor  82,5% betaalbaarheid. Met deze verandering worden de eerder geuite zorgen \nversterkt dat woontorens boven de 70 meter in de praktijk standaard gebruik gaan maken \nvan de uitzonderingsmogelijkheden in het woonprogramma om af te wijken van hogere \nbetaalbaarhe idsambities. In het geval van de Vierlander is dat extra pijnlijk omdat er al \neerdere afspraken waren, er geen sprake is dat de 82,5% niet haalbaar zou zijn, en omdat de \ngemeente tijdens de behandeling van het woonprogramma had benadrukt dat proje cten niet \nstandaard zouden kunnen afwijken maar per casus gekeken zou worden. De voorgenomen \ngrondverkoop, waarin expliciet wordt gesteld dat de ontwikkelaar aan de gestelde \nvoorwaarden voldoet, wekt de indruk dat de gemeente inmiddels akkoord is met een l ager \naandeel betaalbare woningen in de Vierlander.  Ten slotte versterkt dit de kritiek dat met dit \nsoort afwijkingen de betaalbaarheidsambitie van 85% voor heel KnoopXL ook onhaalbaar \nwordt.  \n \nRaadsvragen  \n1. Begin januari antwoordde het college op technische vragen dat het nog niet bekend \nwas met het voornemen van de Vierlander om de betaalbaarheidsambitie te \nverlagen terwijl de ontwikkelaar dit wel al in de krant had gemeld. Wanneer was het \ncollege wel op de hoogte? Kan het college de desbetreffende communicatie met de \nontwikkelaar van de Vierlander hierover overleggen?  \n2. Hoe reflecteert het college op het veranderde woonprogramma van de Vierlander \ndat niet conform eerdere afspraken is?  \n3. In het besluit staat dat de grondverkoop wordt toegestaan omdat de Vierlander aan \nalle toetsbare criteria voldoet. Het veranderde woonprogramma is niet conform \neerdere afspraken maar kennelijk was dat geen probleem. Hoe reflecteert het college \ndaarop en ho e verhoudt zich dit tot de eerdere toezegging dat per casus gekeken zou \nworden of een project kan afwijken?  \n4. Is het college al akkoord gegaan met hernieuwde woonprogramma van de Vierlander \nmet een betaalbaarheidsambitie van 72%? Zo ja, op basis waarvan?  \n5. Indien het college nog niet akkoord is, waarom heeft het college niet gewacht met de \ngrondverkoop tot er helderheid was over het woonprogramma?  \n6. Deelt het college de zorg van de indieners dat de betaalbaarheidsambitie van 85% \nvoor KnoopXL op deze manier onhaalbaar wordt?  \n7. Wat gaat het college concreet doen om de ambitie  van 85%  voor KnoopXL alsnog te \nhalen?  \n \n \n \n \n1 https://zoek.officielebekendmakingen.nl/gmb -2026-132963.html      \n \n \n \n \n \n \n \n8. Is het college bereid de raad volledig te informeren over de afwegingen, \ncorrespondentie, verzoeken en besluiten die hebben geleid tot het percentage van \n72% betaalbaar voor de Vierlander?  \n \nTjeerd Ritmeester, Eindhoven Voor Elkaar (EVE)  \nRobin Brokmann, VOLT Eindhoven  \nNiek Rennenberg, OAE  ",
-    "bst": "8098450_4.3.1.",
+    "bst": "",
     "related": [
         {
-            "id": 1153243,
-            "weight": 2.4927053433303596
-        },
-        {
             "id": 950071,
-            "weight": 0.6482564055651475
+            "weight": 0.9723846083477213
         },
         {
-            "id": 1151464,
-            "weight": 0.6341377262403185
+            "id": 902042,
+            "weight": 0.44110952619239924
+        },
+        {
+            "id": 884948,
+            "weight": 0.39293919317517495
         },
         {
             "id": 983914,
             "weight": 0.33159597654608924
         },
         {
-            "id": 902042,
-            "weight": 0.2940730174615995
+            "id": 833338,
+            "weight": 0.2986736529091626
         },
         {
-            "id": 884948,
-            "weight": 0.2619594621167833
+            "id": 862085,
+            "weight": 0.20646524003779254
         },
         {
             "id": "a_9831398",
@@ -68,10 +66,6 @@
         {
             "id": "a_9831397",
             "weight": 0.20410805971724266
-        },
-        {
-            "id": 833338,
-            "weight": 0.19911576860610838
         },
         {
             "id": 1062486,
@@ -102,10 +96,6 @@
             "weight": 0.14054524768018908
         },
         {
-            "id": 862085,
-            "weight": 0.13764349335852835
-        },
-        {
             "id": 1085519,
             "weight": 0.11712301974158135
         },
@@ -126,6 +116,10 @@
             "weight": 0.09795729421212115
         },
         {
+            "id": 985709,
+            "weight": 0.09749441632636857
+        },
+        {
             "id": 1057193,
             "weight": 0.09581663528392814
         },
@@ -134,8 +128,20 @@
             "weight": 0.09575737173596231
         },
         {
+            "id": 888194,
+            "weight": 0.0921190518347652
+        },
+        {
             "id": 976801,
             "weight": 0.08980452748619593
+        },
+        {
+            "id": 984947,
+            "weight": 0.08952236586975908
+        },
+        {
+            "id": 1037388,
+            "weight": 0.0872355548712691
         },
         {
             "id": 1091329,
@@ -144,10 +150,6 @@
         {
             "id": 896181,
             "weight": 0.08583478304299957
-        },
-        {
-            "id": 985709,
-            "weight": 0.0853076142855725
         },
         {
             "id": 884204,
@@ -162,24 +164,16 @@
             "weight": 0.080684930923553
         },
         {
-            "id": 888194,
-            "weight": 0.08060417035541954
+            "id": 825029,
+            "weight": 0.0805339397607401
         },
         {
             "id": 861565,
             "weight": 0.0803038281047212
         },
         {
-            "id": 984947,
-            "weight": 0.0783320701360392
-        },
-        {
             "id": 885516,
             "weight": 0.07769738509053413
-        },
-        {
-            "id": 1037388,
-            "weight": 0.07633111051236047
         },
         {
             "id": 1140875,
@@ -190,12 +184,12 @@
             "weight": 0.07194504073394248
         },
         {
-            "id": 16400316,
-            "weight": 0.07080706851317695
+            "id": 989757,
+            "weight": 0.07088672613212015
         },
         {
-            "id": 825029,
-            "weight": 0.07046719729064758
+            "id": 16400316,
+            "weight": 0.07080706851317695
         },
         {
             "id": 999545,
@@ -220,10 +214,6 @@
         {
             "id": 1133414,
             "weight": 0.0630234787465297
-        },
-        {
-            "id": 989757,
-            "weight": 0.062025885365605125
         },
         {
             "id": 1149035,
@@ -310,7 +300,7 @@
     },
     "svz": null,
     "afgedaan": null,
-    "eersteIndiener": 47266,
-    "lastScrapeDate": "04-05-2026",
+    "eersteIndiener": 194370,
+    "lastScrapeDate": "08-04-2026",
     "meeting_id": []
 }

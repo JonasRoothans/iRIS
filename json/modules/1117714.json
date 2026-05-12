@@ -13,7 +13,8 @@
     "result": "aangenomen",
     "date": "10-02-2026",
     "meeting_url": {
-        "1374859": "https://raadsinformatie.eindhoven.nl/vergadering/1374859/Raadsvoorstel%20Grondexploitatie%20Kastelenplein 10-02-2026#voting_401280"
+        "1374859": "https://raadsinformatie.eindhoven.nl/vergadering/1374859#ai_9918195",
+        "1374908": "https://raadsinformatie.eindhoven.nl/vergadering/1374908#ai_9410992"
     },
     "attachment": {
         "https://raadsinformatie.eindhoven.nl/document/16412954/2/8091459_03+Raadsvoorstel+Grondexploitatie+Kastelenplein?connection_type=17&connection_id=12776436": "Raadsvoorstel Grondexploitatie Kastelenplein",
@@ -390,7 +391,7 @@
     "svz": null,
     "afgedaan": null,
     "eersteIndiener": null,
-    "lastScrapeDate": "04-05-2026",
+    "lastScrapeDate": "10-04-2026",
     "meeting_id": [
         1374859
     ]

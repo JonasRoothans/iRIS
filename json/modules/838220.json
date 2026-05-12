@@ -13,7 +13,7 @@
     "result": "aangenomen",
     "date": "09-05-2023",
     "meeting_url": {
-        "1013486": "https://raadsinformatie.eindhoven.nl/vergadering/1013486/Raadsvoorstel%20Verlenging%20ontheffing%20vereiste%20van%20ingezetenschap%20wethouder%20Esselbrugge 09-05-2023#voting_7584422"
+        "1013486": "https://raadsinformatie.eindhoven.nl/vergadering/1013486#ai_7584417"
     },
     "attachment": {
         "https://raadsinformatie.eindhoven.nl/document/12664113/2/23bst00537+Raadsvoorstel+Verlenging+ontheffing+vereiste+van+ingezetenschap+wethouder+Esselbrugge?connection_type=17&connection_id=9292423": "Raadsvoorstel Verlenging ontheffing vereiste van ingezetenschap wethouder Esselbrugge",
@@ -28,19 +28,19 @@
     "related": [
         {
             "id": 941208,
-            "weight": 3.9503683422345808
+            "weight": 3.9923230218889247
         },
         {
             "id": 949316,
-            "weight": 0.9320410795129843
+            "weight": 0.9503043612764377
         },
         {
             "id": 968440,
-            "weight": 0.6132546031891195
+            "weight": 0.6328134670635781
         },
         {
             "id": 949322,
-            "weight": 0.6022416648955836
+            "weight": 0.6194484360390352
         },
         {
             "id": 1117248,
@@ -60,7 +60,7 @@
         },
         {
             "id": 949445,
-            "weight": 0.44347976930215455
+            "weight": 0.4613622697176404
         },
         {
             "id": 1046837,
@@ -71,24 +71,20 @@
             "weight": 0.1804432512234229
         },
         {
+            "id": 1054302,
+            "weight": 0.15345890800320386
+        },
+        {
+            "id": 941360,
+            "weight": 0.15185132977359425
+        },
+        {
             "id": 946355,
             "weight": 0.14831358904759054
         },
         {
-            "id": 1054302,
-            "weight": 0.13811301720288346
-        },
-        {
-            "id": 941360,
-            "weight": 0.13666619679623482
-        },
-        {
             "id": "a_10115066",
-            "weight": 0.12836256721574876
-        },
-        {
-            "id": 1155368,
-            "weight": 0.10812963880984124
+            "weight": 0.1426250746841653
         },
         {
             "id": 777965,

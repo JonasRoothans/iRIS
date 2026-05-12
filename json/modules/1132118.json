@@ -10,11 +10,10 @@
     ],
     "party_list": [
         "Eindhoven voor Elkaar",
-        "Volt",
-        "Ouderen Appél Eindhoven",
-        "SP",
         "Partij voor de Dieren",
-        " Ouderen Appèl - Hart voor Eindhoven"
+        "Volt",
+        " Ouderen Appèl - Hart voor Eindhoven",
+        "SP"
     ],
     "poho_id": [],
     "title": "Beantwoording raadsvragen - Desastreuze Haagse keuzes woningbouw vragen om actie Eindhoven (EVE, OAHvE, PvdD, Volt, SP)",
@@ -39,7 +38,7 @@
     "related": [
         {
             "id": 1054433,
-            "weight": 0.7992203828733633
+            "weight": 1.0327788143113137
         },
         {
             "id": 891783,
@@ -76,10 +75,6 @@
         {
             "id": "a_7983948",
             "weight": 0.17579959362387604
-        },
-        {
-            "id": 1157934,
-            "weight": 0.17299426440887158
         },
         {
             "id": "a_9279992",
@@ -304,7 +299,7 @@
     },
     "svz": null,
     "afgedaan": null,
-    "eersteIndiener": 47266,
-    "lastScrapeDate": "04-05-2026",
+    "eersteIndiener": 194370,
+    "lastScrapeDate": "08-04-2026",
     "meeting_id": []
 }

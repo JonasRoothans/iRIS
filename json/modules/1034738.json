@@ -14,10 +14,10 @@
     "member": "Nicolas Knoester",
     "party": null,
     "poho": "",
-    "result": "verworpen",
+    "result": "Verworpen",
     "date": "15-04-2025",
     "meeting_url": {
-        "1256318": "https://raadsinformatie.eindhoven.nl/vergadering/1256318/Transparant%20bij%20aanbestedingen%20%28Vrije%20Motie%20VM2%29 15-04-2025#voting_9264845"
+        "1256318": "https://raadsinformatie.eindhoven.nl/vergadering/1256318#ai_8588178"
     },
     "attachment": null,
     "parent": null,
@@ -86,10 +86,6 @@
         {
             "id": 870767,
             "weight": 0.16481918890411992
-        },
-        {
-            "id": 1157569,
-            "weight": 0.1645296438278643
         },
         {
             "id": 983297,

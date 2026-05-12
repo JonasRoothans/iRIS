@@ -36,8 +36,8 @@
     },
     "parent": null,
     "children": [
-        "a_10112145",
-        "a_10115165"
+        "a_10115165",
+        "a_10112145"
     ],
     "text": null,
     "pdf_url": "https://raadsinformatie.eindhoven.nl/document/16699913/1?connection_type=17&connection_id=13083184",
@@ -289,7 +289,7 @@
     "svz": null,
     "afgedaan": null,
     "eersteIndiener": null,
-    "lastScrapeDate": "04-05-2026",
+    "lastScrapeDate": "10-04-2026",
     "meeting_id": [
         1374861
     ]

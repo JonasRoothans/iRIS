@@ -4,7 +4,7 @@
     "member_id": [],
     "party_list": [],
     "poho_id": 230023,
-    "title": "Raadsvoorstel Vaststelling bestemmingsplan ‘I Achtse Barrier - Heizoom 2015 (Hartje \r\nBarrier)’",
+    "title": "Raadsvoorstel Vaststelling bestemmingsplan ‘I Achtse Barrier - Heizoom 2015 (Hartje \nBarrier)’",
     "url": "https://raadsinformatie.eindhoven.nl/modules/19/raadsvoorstellen/942826?parent_event=1147967",
     "type": "Raadsvoorstel",
     "member": null,
@@ -13,7 +13,8 @@
     "result": "aangenomen",
     "date": "02-07-2024",
     "meeting_url": {
-        "1147982": "https://raadsinformatie.eindhoven.nl/vergadering/1147982/Raadsvoorstel%20Vaststelling%20bestemmingsplan%20%E2%80%98I%20Achtse%20Barrier%20-%20Heizoom%202015%20%28Hartje%20%0D%0ABarrier%29%E2%80%99 02-07-2024#voting_8466959"
+        "1147982": "https://raadsinformatie.eindhoven.nl/vergadering/1147982#ai_8444104",
+        "1147967": "https://raadsinformatie.eindhoven.nl/vergadering/1147967#ai_8474956"
     },
     "attachment": {
         "https://raadsinformatie.eindhoven.nl/document/14150131/1/24bst00496+Raadsvoorstel+bp+I+Achtse+Barrier+Heizoom+2015+%28Hartje+Barrier%29?connection_type=17&connection_id=10584065": "Raadsvoorstel bp I Achtse Barrier Heizoom 2015 (Hartje Barrier)",

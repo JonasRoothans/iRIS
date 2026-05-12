@@ -2,13 +2,13 @@
     "module_id": 940798,
     "vote_id": null,
     "member_id": [
-        194366,
         194402,
-        159102
+        159102,
+        194366
     ],
     "party_list": [
-        "D66",
-        "GroenLinks"
+        "GroenLinks",
+        "D66"
     ],
     "poho_id": [],
     "title": "Geen 15-, maar 10-minutenstad (Vrije Motie VM7)",

@@ -2,12 +2,10 @@
     "module_id": 16532271,
     "vote_id": null,
     "member_id": [
-        194406,
-        217087
+        194406
     ],
     "party_list": [
-        "GroenLinks",
-        "PRO"
+        "GroenLinks"
     ],
     "poho_id": [],
     "title": "Rondvraag 1 - Er is geen pijl op te trekken (PvdA, GL)",
@@ -260,7 +258,7 @@
     },
     "svz": null,
     "afgedaan": null,
-    "eersteIndiener": 217087,
+    "eersteIndiener": 194406,
     "lastScrapeDate": null,
     "meeting_id": [
         1374915

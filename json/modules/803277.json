@@ -11,12 +11,12 @@
         194495
     ],
     "party_list": [
-        "Volt",
-        "GroenLinks",
-        "PvdA",
+        "Partij voor de Dieren",
         "D66",
-        "SP",
-        "Partij voor de Dieren"
+        "Volt",
+        "PvdA",
+        "GroenLinks",
+        "SP"
     ],
     "poho_id": 231116,
     "title": "Demonstreren, een recht voor iedereen",
@@ -25,10 +25,10 @@
     "member": "Virginia Jonkers, Gisèle Mambre, Jorien Migchielsen, Jonas Roothans, Jacco Rubenkamp, Patrick van Tuijn en Murat Memiş",
     "party": null,
     "poho": "J. Dijsselbloem (Burgemeester)",
-    "result": "aangenomen",
+    "result": "Aangenomen",
     "date": "20-12-2022",
     "meeting_url": {
-        "1013589": "https://raadsinformatie.eindhoven.nl/vergadering/1013589/Demonstreren%2C%20een%20recht%20voor%20iedereen 20-12-2022#voting_7273654"
+        "1013589": "https://raadsinformatie.eindhoven.nl/vergadering/1013589#ai_6965289"
     },
     "attachment": null,
     "parent": "ai_6965289",

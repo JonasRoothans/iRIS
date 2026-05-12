@@ -5,11 +5,10 @@
         47266
     ],
     "party_list": [
-        "Ouderen Appél Eindhoven",
         " Ouderen Appèl - Hart voor Eindhoven"
     ],
     "poho_id": [],
-    "title": "Beantwoording raadsvragen - De problemen met Taxbus (OAE)",
+    "title": "Ingekomen raadsvragen -De problemen met Taxbus (OAE)",
     "url": "https://raadsinformatie.eindhoven.nl/modules/4/Raadsvragen/1150671",
     "type": "Raadsvraag",
     "member": "Niek Rennenberg",
@@ -19,15 +18,14 @@
     "date": "08-04-2026",
     "meeting_url": null,
     "attachment": {
-        "https://raadsinformatie.eindhoven.nl/document/16800434/1?connection_type=17&connection_id=13192824": "Vraag",
-        "https://raadsinformatie.eindhoven.nl/document/16805763/1?connection_type=17&connection_id=13198052": "Antwoord"
+        "https://raadsinformatie.eindhoven.nl/document/16800434/1?connection_type=17&connection_id=13192824": "Vraag"
     },
     "parent": null,
     "children": [],
     "text": null,
     "pdf_url": null,
     "pdf_text": " \n1 \n   \n \nRaads vrage n - De problemen met Taxbus  \n \nEindh oven, 4 april 2026  \n \nGeacht College,  \n \nDe situatie rondom de Taxbus in Eindhoven en de regio is ernstig en onacceptabel. Sinds de \novername door een nieuwe vervoerder per 1 maart zijn er honderden klachten \nbinnengekomen, waarvan circa 700 over deze aanbieder alleen. Kwetsbare inwoners \nworden gec onfronteerd met taxi’s die te laat komen of helemaal niet verschijnen.  \nVoor ouderen en mensen met een beperking is dit geen bijzaak, maar een essentiële \nvoorziening. Het niet kunnen vertrouwen op vervoer betekent dat medische afspraken \nworden gemist, sociale contacten wegvallen en mensen in onzekerheid en stress verkeren. \nDe gemeente heeft juist voor deze groep een bijzondere zorgplicht.  \nDe huidige problemen lijken bovendien niet op zichzelf te staan, maar raken aan bredere \nkeuzes in de aanbesteding en het toezicht. De vraag dringt zich op of hier niet te veel is \ngestuurd op prijs en te weinig op kwaliteit en continuïteit.  \n \nDit leidt tot de volgende vragen:  \n1. Deelt het college de opvatting dat de huidige situatie niet alleen onwenselijk, maar \nonacceptabel is? Zo ja, waarom is niet eerder ingegrepen?  \n2. Hoe kan het dat deze problemen – ondanks eerdere signalen van onder andere \nchauffeurs en vakbond , niet zijn voorkomen?  \n3. Welke concrete kwaliteits - en prestatie -eisen zijn vooraf gesteld aan de vervoerder, \nen op welke punten wordt daar nu aantoonbaar niet aan voldaan?  \n4. Waarom is gekozen voor deze vervoerder, en welke rol heeft de prijs gespeeld in \ndeze keuze ten opzichte van kwaliteit en uitvoerbaarheid?  \n5. Welke signalen heeft het college vóór 1 maart ontvangen over mogelijke risico’s bij \ndeze aanbieder, en wat is met die signalen gedaan?  \n6. Welke sancties zijn contractueel mogelijk en worden deze op dit moment ook \ndaadwerkelijk toegepast? Zo nee, waarom niet?  \n7. Is het college bereid om , indien de situatie niet op zeer korte termijn verbetert , \nzwaardere maatregelen te treffen, zoals (gedeeltelijke) ontbinding van het contract?  \n8. Welke directe noodmaatregelen zijn er getroffen voor inwoners die afhankelijk zijn \nvan vervoer naar ziekenhuis of essentiële zorg, en zijn deze toereikend?  \n9. Hoe wordt voorkomen dat kwetsbare inwoners tussen wal en schip vallen zolang de \nproblemen voortduren?  \n \n2 \n 10. Wat zegt deze situatie volgens het college over het huidige aanbestedingsbeleid, en \nis het college bereid dit beleid te heroverwegen?  \n11. Welke lessen trekt het college hieruit voor toekomstige aanbestedingen binnen het \nsociaal domein?  \n12. Hoe en hoe vaak wordt de gemeenteraad actief geïnformeerd over de voortgang, en \nis het college bereid hierover wekelijks te rapporteren zolang de situatie niet op orde \nis? \n \nIk zie  met belangstelling uw antwoorden tegemoet . \nMet vriendelijke groet,  \n \n     Niek Rennenberg  \n     Fractievoorzitter Ouderen Appel Eindhoven   ",
-    "bst": "8098450_4.8.2.",
+    "bst": "",
     "related": [
         {
             "id": 16688640,
@@ -35,11 +33,19 @@
         },
         {
             "id": 16590308,
-            "weight": 0.7162861304445411
+            "weight": 0.8095038823525305
         },
         {
             "id": 1134427,
-            "weight": 0.7037969151450337
+            "weight": 0.7955116596076018
+        },
+        {
+            "id": 1013595,
+            "weight": 0.6534438225808396
+        },
+        {
+            "id": 1149679,
+            "weight": 0.6507004036593896
         },
         {
             "id": 879394,
@@ -48,18 +54,6 @@
         {
             "id": 839522,
             "weight": 0.5993731203636455
-        },
-        {
-            "id": 1013595,
-            "weight": 0.560094705069291
-        },
-        {
-            "id": 1149679,
-            "weight": 0.5577432031366196
-        },
-        {
-            "id": 1151147,
-            "weight": 0.5429379626817125
         },
         {
             "id": 802993,
@@ -75,7 +69,7 @@
         },
         {
             "id": 1072391,
-            "weight": 0.24303698490493647
+            "weight": 0.27368370777951745
         },
         {
             "id": 780980,
@@ -306,6 +300,6 @@
     "svz": null,
     "afgedaan": null,
     "eersteIndiener": 47266,
-    "lastScrapeDate": "04-05-2026",
+    "lastScrapeDate": "08-04-2026",
     "meeting_id": []
 }

@@ -10,11 +10,11 @@
         194366
     ],
     "party_list": [
-        "GroenLinks",
-        "PvdA",
-        "SP",
+        "Partij voor de Dieren",
         "D66",
-        "Partij voor de Dieren"
+        "PvdA",
+        "GroenLinks",
+        "SP"
     ],
     "poho_id": 230023,
     "title": "Creatieve makers in positie (Motie M3)",
@@ -98,31 +98,27 @@
         },
         {
             "id": 1092907,
-            "weight": 0.0800754262322415
+            "weight": 0.09151477283684742
         },
         {
             "id": 1062472,
-            "weight": 0.07719011277248156
-        },
-        {
-            "id": 1153822,
-            "weight": 0.0706913255419292
+            "weight": 0.08821727173997893
         },
         {
             "id": 975695,
-            "weight": 0.06621488299849494
+            "weight": 0.07567415199827994
         },
         {
             "id": 977654,
-            "weight": 0.06434977798287723
+            "weight": 0.07354260340900255
         },
         {
             "id": 836274,
-            "weight": 0.058378984040896045
+            "weight": 0.0667188389038812
         },
         {
             "id": 1133337,
-            "weight": 0.05806297797313633
+            "weight": 0.06635768911215581
         }
     ],
     "videostarttime": {

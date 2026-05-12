@@ -13,7 +13,9 @@
     "result": "aangenomen",
     "date": "28-11-2023",
     "meeting_url": {
-        "1013527": "https://raadsinformatie.eindhoven.nl/vergadering/1013527/Raadsvoorstel%20Vaststellen%20van%20de%20Verordening%20inwonersparticipatie%20Eindhoven 28-11-2023#voting_8034661"
+        "1013527": "https://raadsinformatie.eindhoven.nl/vergadering/1013527#ai_7790318",
+        "1165167": "https://raadsinformatie.eindhoven.nl/vergadering/1165167#ai_7968136",
+        "1165052": "https://raadsinformatie.eindhoven.nl/vergadering/1165052#ai_7948945"
     },
     "attachment": {
         "https://raadsinformatie.eindhoven.nl/document/12995503/2/23bst00903+Raadsvoorstel+Vaststellen+van+de+Verordening+inwonersparticipatie+Eindhoven?connection_type=17&connection_id=9597603": "Raadsvoorstel Vaststellen van de Verordening inwonersparticipatie Eindhoven",
@@ -81,7 +83,7 @@
         },
         {
             "id": 1122434,
-            "weight": 0.17459156328220637
+            "weight": 0.19641550869248217
         },
         {
             "id": 966406,
@@ -112,8 +114,16 @@
             "weight": 0.10807943089147838
         },
         {
-            "id": 1153822,
-            "weight": 0.09940570046459267
+            "id": 1053138,
+            "weight": 0.10391760631006534
+        },
+        {
+            "id": 926664,
+            "weight": 0.10058392720403607
+        },
+        {
+            "id": 1081558,
+            "weight": 0.09683978871376242
         },
         {
             "id": 16532271,
@@ -124,16 +134,24 @@
             "weight": 0.09561114018472704
         },
         {
+            "id": 978875,
+            "weight": 0.0955813144533763
+        },
+        {
+            "id": 1125940,
+            "weight": 0.09380971851575662
+        },
+        {
             "id": 949003,
             "weight": 0.09322089254920442
         },
         {
-            "id": 1053138,
-            "weight": 0.09237120560894697
+            "id": 785112,
+            "weight": 0.08975679176331007
         },
         {
-            "id": 926664,
-            "weight": 0.08940793529247651
+            "id": 1135733,
+            "weight": 0.0886941980285546
         },
         {
             "id": 776931,
@@ -144,72 +162,48 @@
             "weight": 0.08737821098109735
         },
         {
-            "id": 1081558,
-            "weight": 0.08607981219001104
-        },
-        {
             "id": 833258,
             "weight": 0.08522591852740627
-        },
-        {
-            "id": 978875,
-            "weight": 0.08496116840300115
-        },
-        {
-            "id": 1125940,
-            "weight": 0.08338641645845032
         },
         {
             "id": 1137879,
             "weight": 0.08005611949261617
         },
         {
-            "id": 785112,
-            "weight": 0.07978381490072006
-        },
-        {
             "id": 1109491,
             "weight": 0.07967360022939778
         },
         {
-            "id": 1135733,
-            "weight": 0.07883928713649298
+            "id": 780980,
+            "weight": 0.07923349597627452
+        },
+        {
+            "id": "a_8288822",
+            "weight": 0.07747340262546888
         },
         {
             "id": 876719,
             "weight": 0.07638635975538928
         },
         {
+            "id": "a_8288829",
+            "weight": 0.075650458472642
+        },
+        {
             "id": 856558,
             "weight": 0.07254396865992947
-        },
-        {
-            "id": 780980,
-            "weight": 0.0704297742011329
-        },
-        {
-            "id": "a_8288822",
-            "weight": 0.06886524677819456
-        },
-        {
-            "id": "a_8288829",
-            "weight": 0.06724485197568178
         },
         {
             "id": 952189,
             "weight": 0.06559174919488374
         },
         {
-            "id": 1155677,
-            "weight": 0.06222787937221682
-        },
-        {
             "id": 900723,
-            "weight": 0.05705043184172639
+            "weight": 0.06418173582194218
         },
         {
             "id": 1117280,
-            "weight": 0.053601171704792644
+            "weight": 0.06030131816789173
         }
     ],
     "videostarttime": {

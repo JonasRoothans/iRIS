@@ -6,8 +6,8 @@
         194375
     ],
     "party_list": [
-        "SP",
-        "Partij voor de Dieren"
+        "Partij voor de Dieren",
+        "SP"
     ],
     "poho_id": [],
     "title": "Eindhoven Airport doet mee (BM03)",
@@ -16,10 +16,10 @@
     "member": "Murat Memiş en Jonas Roothans",
     "party": null,
     "poho": "",
-    "result": "verworpen",
+    "result": "Verworpen",
     "date": "08-11-2022",
     "meeting_url": {
-        "1013582": "https://raadsinformatie.eindhoven.nl/vergadering/1013582/Eindhoven%20Airport%20doet%20mee%20%28BM03%29 08-11-2022#voting_7153668"
+        "1013582": "https://raadsinformatie.eindhoven.nl/vergadering/1013582#ai_7066629"
     },
     "attachment": null,
     "parent": 794220,

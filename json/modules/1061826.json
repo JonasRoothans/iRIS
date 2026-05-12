@@ -1,6 +1,6 @@
 {
     "module_id": 1061826,
-    "vote_id": 9578153,
+    "vote_id": 9672307,
     "member_id": [],
     "party_list": [],
     "poho_id": 230023,
@@ -10,10 +10,12 @@
     "member": null,
     "party": null,
     "poho": "M. Verhees (Wethouder)",
-    "result": "aangenomen",
+    "result": "verworpen",
     "date": "30-09-2025",
     "meeting_url": {
-        "1256324": "https://raadsinformatie.eindhoven.nl/vergadering/1256324/Raadsvoorstel%20Concept%20Gebiedskader%20Vaartbroek 30-09-2025#voting_9578153"
+        "1256324": "https://raadsinformatie.eindhoven.nl/vergadering/1256324#ai_9502345",
+        "1256643": "https://raadsinformatie.eindhoven.nl/vergadering/1256643#ai_9608780",
+        "1256648": "https://raadsinformatie.eindhoven.nl/vergadering/1256648#ai_9641684"
     },
     "attachment": {
         "https://raadsinformatie.eindhoven.nl/document/15760283/1/7957920_02+Raadsvoorstel+Concept+Gebiedskader+Vaartbroek?connection_type=17&connection_id=12083378": "Raadsvoorstel Concept Gebiedskader Vaartbroek",

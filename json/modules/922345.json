@@ -13,7 +13,8 @@
     "result": "aangenomen",
     "date": "07-05-2024",
     "meeting_url": {
-        "1147927": "https://raadsinformatie.eindhoven.nl/vergadering/1147927/Raadsvoorstel%20Vaststellen%20facilitaire%20grondexploitatie%20Humperdincklaan 07-05-2024#voting_8342934"
+        "1147927": "https://raadsinformatie.eindhoven.nl/vergadering/1147927#ai_8256063",
+        "1147925": "https://raadsinformatie.eindhoven.nl/vergadering/1147925#ai_8306931"
     },
     "attachment": {
         "https://raadsinformatie.eindhoven.nl/document/13857242/2/23bst01759+Raadsvoorstel+Vaststellen+facilitaire+grondexploitatie+Humperdincklaan?connection_type=17&connection_id=10323107": "Raadsvoorstel Vaststellen facilitaire grondexploitatie Humperdincklaan",
@@ -153,6 +154,10 @@
             "weight": 0.13010659961044627
         },
         {
+            "id": 949477,
+            "weight": 0.125618107609543
+        },
+        {
             "id": 792365,
             "weight": 0.10228627147576652
         },
@@ -209,6 +214,10 @@
             "weight": 0.06786699427382195
         },
         {
+            "id": 1129193,
+            "weight": 0.06309120221921437
+        },
+        {
             "id": 1144351,
             "weight": 0.0618137452959305
         },
@@ -217,12 +226,40 @@
             "weight": 0.05868035311836068
         },
         {
+            "id": 949479,
+            "weight": 0.05485472434176468
+        },
+        {
+            "id": "a_8285576",
+            "weight": 0.05389335734428987
+        },
+        {
+            "id": 1124535,
+            "weight": 0.050916051282650567
+        },
+        {
+            "id": 861372,
+            "weight": 0.050451532870541535
+        },
+        {
             "id": 776958,
             "weight": 0.05032523309540508
         },
         {
             "id": 944422,
             "weight": 0.0492237834434843
+        },
+        {
+            "id": "a_8285028",
+            "weight": 0.04508924849168234
+        },
+        {
+            "id": 868743,
+            "weight": 0.043491697879977094
+        },
+        {
+            "id": 991370,
+            "weight": 0.03344583102029158
         }
     ],
     "videostarttime": {

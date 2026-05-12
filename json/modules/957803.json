@@ -13,7 +13,9 @@
     "result": "aangenomen",
     "date": "10-09-2024",
     "meeting_url": {
-        "1148045": "https://raadsinformatie.eindhoven.nl/vergadering/1148045/Raadsvoorstel%20Koers%20Sociaal%20%282%29040 10-09-2024#voting_8587184"
+        "1148045": "https://raadsinformatie.eindhoven.nl/vergadering/1148045#ai_8587058",
+        "1148044": "https://raadsinformatie.eindhoven.nl/vergadering/1148044#ai_8535869",
+        "1147992": "https://raadsinformatie.eindhoven.nl/vergadering/1147992#ai_8567504"
     },
     "attachment": {
         "https://raadsinformatie.eindhoven.nl/document/14377137/1/24bst00856+Raadsvoorstel+Koers+Sociaal+%282%29040?connection_type=17&connection_id=10782022": "Raadsvoorstel Koers Sociaal (2)040",
@@ -44,12 +46,12 @@
             "weight": 0.8213672760761166
         },
         {
-            "id": 1133034,
-            "weight": 0.35312401761434004
+            "id": 860025,
+            "weight": 0.43089720309116103
         },
         {
-            "id": 860025,
-            "weight": 0.34471776247292885
+            "id": 1133034,
+            "weight": 0.35312401761434004
         },
         {
             "id": 1011191,
@@ -64,12 +66,20 @@
             "weight": 0.25484280608035487
         },
         {
+            "id": 1106072,
+            "weight": 0.21536616345266038
+        },
+        {
             "id": 1028150,
             "weight": 0.2075560229728836
         },
         {
             "id": 776928,
             "weight": 0.20716329858402047
+        },
+        {
+            "id": 16557242,
+            "weight": 0.20512503486871986
         },
         {
             "id": 893560,
@@ -86,18 +96,6 @@
         {
             "id": 839522,
             "weight": 0.1811440489394316
-        },
-        {
-            "id": 1158094,
-            "weight": 0.172321746281458
-        },
-        {
-            "id": 1106072,
-            "weight": 0.17229293076212832
-        },
-        {
-            "id": 16557242,
-            "weight": 0.16410002789497588
         },
         {
             "id": 863894,

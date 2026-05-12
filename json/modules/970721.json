@@ -7,21 +7,21 @@
         194375
     ],
     "party_list": [
-        "D66",
         "Partij voor de Dieren",
-        "GroenLinks"
+        "GroenLinks",
+        "D66"
     ],
     "poho_id": [],
-    "title": "Motie met gestaakte stemmen - Zet het mes in het aantal landbouwdieren",
+    "title": "Zet het mes in het aantal landbouwdieren (Motie M1GS)",
     "url": "https://raadsinformatie.eindhoven.nl/modules/6/moties_en_toezeggingen/970721?parent_event=1148129",
     "type": "Motie",
     "member": "Rutger Rauws, Jonas Roothans en Annelies Becker",
     "party": null,
     "poho": "",
-    "result": "aangenomen",
+    "result": "Aangenomen",
     "date": "01-10-2024",
     "meeting_url": {
-        "1148129": "https://raadsinformatie.eindhoven.nl/vergadering/1148129/Motie%20met%20gestaakte%20stemmen%20-%20Zet%20het%20mes%20in%20het%20aantal%20landbouwdieren 01-10-2024#voting_8677916"
+        "1148129": "https://raadsinformatie.eindhoven.nl/vergadering/1148129#ai_8677883"
     },
     "attachment": null,
     "parent": "ai_8677883",

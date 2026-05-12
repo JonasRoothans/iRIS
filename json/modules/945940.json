@@ -11,13 +11,13 @@
         194424
     ],
     "party_list": [
+        "D66",
+        "PvdA",
+        "VVD",
+        "GroenLinks",
         "LPF ",
         "50PLUS",
-        "GroenLinks",
-        "PvdA",
-        "CDA",
-        "D66",
-        "VVD"
+        "CDA"
     ],
     "poho_id": [],
     "title": "Iedere Eindhovense scholier op bezoek in het stadhuis 2025 (Motie KM18)",
@@ -26,10 +26,10 @@
     "member": "Lex Janssen, Jorien Migchielsen, Rudy Reker, Wil van Haalen, Eva de Bruijn, Sanne Franssen en Ruud van Acquoij",
     "party": null,
     "poho": "",
-    "result": "aangenomen",
+    "result": "Aangenomen",
     "date": "28-05-2024",
     "meeting_url": {
-        "1147937": "https://raadsinformatie.eindhoven.nl/vergadering/1147937/Iedere%20Eindhovense%20scholier%20op%20bezoek%20in%20het%20stadhuis%202025%20%28Motie%20KM18%29 28-05-2024#voting_8469265"
+        "1147937": "https://raadsinformatie.eindhoven.nl/vergadering/1147937#ai_8361768"
     },
     "attachment": null,
     "parent": 933747,
@@ -145,27 +145,27 @@
         },
         {
             "id": "a_7402261",
-            "weight": 0.08100046429531664
+            "weight": 0.09257195919464759
         },
         {
             "id": 932262,
-            "weight": 0.07909723452360803
+            "weight": 0.09039683945555203
         },
         {
-            "id": 1153878,
-            "weight": 0.07800299461279889
+            "id": 834952,
+            "weight": 0.0873031526037348
+        },
+        {
+            "id": "r_7006017",
+            "weight": 0.08382018719146725
         },
         {
             "id": 984847,
             "weight": 0.0777478583140034
         },
         {
-            "id": 834952,
-            "weight": 0.07639025852826795
-        },
-        {
-            "id": "r_7006017",
-            "weight": 0.07334266379253385
+            "id": 827645,
+            "weight": 0.07736015033522843
         },
         {
             "id": 1104264,
@@ -174,10 +174,6 @@
         {
             "id": 974516,
             "weight": 0.07138862658992445
-        },
-        {
-            "id": 827645,
-            "weight": 0.06769013154332487
         },
         {
             "id": 1128291,
@@ -196,6 +192,10 @@
             "weight": 0.06336405308054974
         },
         {
+            "id": 853720,
+            "weight": 0.06077943090147262
+        },
+        {
             "id": 941339,
             "weight": 0.05972065725554608
         },
@@ -210,10 +210,6 @@
         {
             "id": 856435,
             "weight": 0.053945082788675776
-        },
-        {
-            "id": 853720,
-            "weight": 0.05318200203878854
         },
         {
             "id": 980028,

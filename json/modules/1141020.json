@@ -9,10 +9,9 @@
     ],
     "party_list": [
         "Volt",
-        "GroenLinks",
-        "PRO",
         "PvdA",
-        "Partij voor de Dieren"
+        "Partij voor de Dieren",
+        "GroenLinks"
     ],
     "poho_id": 230013,
     "title": "Beperk de veiligheidsrisico’s van Eindhoven Airport (Motie M5)",
@@ -44,15 +43,15 @@
         },
         {
             "id": 1144342,
-            "weight": 0.5386264708288395
+            "weight": 0.6283975493003128
         },
         {
             "id": 1088097,
-            "weight": 0.5275283051020894
+            "weight": 0.6154496892857708
         },
         {
             "id": 1123634,
-            "weight": 0.5185889305520914
+            "weight": 0.60502041897744
         },
         {
             "id": 1036333,
@@ -63,20 +62,16 @@
             "weight": 0.3919875776489747
         },
         {
-            "id": 1153871,
-            "weight": 0.391301424316682
-        },
-        {
             "id": 927018,
             "weight": 0.36771837596856893
         },
         {
             "id": 1140866,
-            "weight": 0.3265749185257391
+            "weight": 0.3627650298202202
         },
         {
             "id": 1140928,
-            "weight": 0.31521992362539497
+            "weight": 0.3501785008461435
         },
         {
             "id": 850367,
@@ -348,6 +343,6 @@
     "svz": "",
     "afgedaan": "",
     "eersteIndiener": 194366,
-    "lastScrapeDate": "04-05-2026",
+    "lastScrapeDate": "08-04-2026",
     "meeting_id": []
 }

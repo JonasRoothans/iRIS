@@ -2,8 +2,8 @@
     "module_id": 1126669,
     "vote_id": null,
     "member_id": [
-        208903,
-        194495
+        194495,
+        208903
     ],
     "party_list": [
         "Partij voor de Dieren"
@@ -420,7 +420,7 @@
     },
     "svz": null,
     "afgedaan": null,
-    "eersteIndiener": 208903,
-    "lastScrapeDate": "04-05-2026",
+    "eersteIndiener": 194495,
+    "lastScrapeDate": "08-04-2026",
     "meeting_id": []
 }

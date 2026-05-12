@@ -2,14 +2,14 @@
     "module_id": 1141268,
     "vote_id": null,
     "member_id": [
-        194495,
-        208903
+        208903,
+        194495
     ],
     "party_list": [
         "Partij voor de Dieren"
     ],
     "poho_id": [],
-    "title": "Beantwoording raadsvragen - Niet mauwen, maar gaan we nog wel bouwen (PvdD)",
+    "title": "Ingekomen raadsvragen - Niet mauwen, maar gaan we nog wel bouwen (PvdD)",
     "url": "https://raadsinformatie.eindhoven.nl/modules/4/Raadsvragen/1141268",
     "type": "Raadsvraag",
     "member": "Virginia Jonkers",
@@ -19,20 +19,15 @@
     "date": "10-03-2026",
     "meeting_url": null,
     "attachment": {
-        "https://raadsinformatie.eindhoven.nl/document/16694649/1?connection_type=17&connection_id=13077289": "Vraag",
-        "https://raadsinformatie.eindhoven.nl/document/16815151/1?connection_type=17&connection_id=13207936": "Antwoord"
+        "https://raadsinformatie.eindhoven.nl/document/16694649/1?connection_type=17&connection_id=13077289": "Vraag"
     },
     "parent": null,
     "children": [],
     "text": null,
     "pdf_url": "https://raadsinformatie.eindhoven.nl/document/16694649/1?connection_type=17&connection_id=13077289",
     "pdf_text": " \n  \n \nRaadsvragen - Niet mauwen, maar gaan we nog wel bouwen?  \n \ndatum:  10 maart 2026  \n \nGeacht college,  \n \nInleiding  \nVlakbij District E hangt een spandoek met daarop “Niet mauwen, \nmaar bouwen”. Echter, n u hebben wij van omwonenden vernomen \ndat District E voor lange tijd stilligt, in ieder geval tot december \n2026. Dit zou te maken hebben met een verandering van de \nvastgoedportefeuille. De ontwikkelaar zou intern ook het \nbouwproject op pauze hebben gezet. Aan gezien wij hier zelf geen \ninformatie of collegebrief over konden terugvinden hebben wij de \nvolgende vragen:  \n \n1. Kan de wethouder aangeven of het klopt dat District E \nstilligt?  \n2. Zo ja, waarom is de raad nog niet geïnformeerd over de ze \nsituatie?  \n3. Indien de bouw is stil gelegd, kan het college precies \naangeven wat hier de reden van is en of het klopt dat dit tot \ndecember 2026 is?  \n4. Wat betekent deze vertraging voor de subsidies in de \nverschillende tranches?  \n5. Wat zijn de verdere consequenties van het stil leggen van \ndit bouwproject ? \n6. De wethouder spreekt zelf over “niet mauwen, maar \nbouwen”, wat gaat de wethouder in het kader van deze \nslogan zelf hieraan doen?  \n \nNamens de fractie(s),  \n \nVirginia Jonkers , raadslid PvdD  \nin samenwerking met Judith Lammers, commissielid  PvdD  \n",
-    "bst": "8098449 1.3.1.",
+    "bst": "",
     "related": [
-        {
-            "id": 1154256,
-            "weight": 0.8152695178357118
-        },
         {
             "id": 1053124,
             "weight": 0.2554868326394437
@@ -165,7 +160,7 @@
     },
     "svz": null,
     "afgedaan": null,
-    "eersteIndiener": 208903,
-    "lastScrapeDate": "04-05-2026",
+    "eersteIndiener": 194495,
+    "lastScrapeDate": "08-04-2026",
     "meeting_id": []
 }

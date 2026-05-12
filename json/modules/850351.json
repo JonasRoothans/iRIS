@@ -11,13 +11,13 @@
         194424
     ],
     "party_list": [
-        "50PLUS",
-        "Volt",
-        "GroenLinks",
-        "PvdA",
-        "CDA",
         "D66",
-        " Ouderen Appèl - Hart voor Eindhoven"
+        "Volt",
+        "PvdA",
+        " Ouderen Appèl - Hart voor Eindhoven",
+        "GroenLinks",
+        "50PLUS",
+        "CDA"
     ],
     "poho_id": 230024,
     "title": "Iedereen heeft recht op gezond en gevarieerd eten! (Motie M5)",
@@ -26,10 +26,10 @@
     "member": "Sanne Franssen, Lotte Meerhoff, Volkan Memiş, Rosa van den Nieuwenhof, Niek Rennenberg en Inge Teklenburg",
     "party": null,
     "poho": "S. Lammers (Wethouder)",
-    "result": "aangenomen",
+    "result": "Aangenomen",
     "date": "30-05-2023",
     "meeting_url": {
-        "1013491": "https://raadsinformatie.eindhoven.nl/vergadering/1013491/Iedereen%20heeft%20recht%20op%20gezond%20en%20gevarieerd%20eten%21%20%28Motie%20M5%29 30-05-2023#voting_7636301"
+        "1013491": "https://raadsinformatie.eindhoven.nl/vergadering/1013491#ai_7555808"
     },
     "attachment": null,
     "parent": 837030,

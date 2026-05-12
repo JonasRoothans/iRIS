@@ -11,9 +11,11 @@
     "party": null,
     "poho": "M. van Lanschot (Wethouder)",
     "result": "aangenomen",
-    "date": "24-01-2023",
+    "date": "10-01-2023",
     "meeting_url": {
-        "1013447": "https://raadsinformatie.eindhoven.nl/vergadering/1013447/Raadsvoorstel%20investeringsbudget%20nieuwbouw%20Tongelreep 24-01-2023#voting_7243551"
+        "1013447": "https://raadsinformatie.eindhoven.nl/vergadering/1013447#ai_7243548",
+        "1047810": "https://raadsinformatie.eindhoven.nl/vergadering/1047810#ai_7154168",
+        "1057550": "https://raadsinformatie.eindhoven.nl/vergadering/1057550#ai_7230257"
     },
     "attachment": {
         "https://raadsinformatie.eindhoven.nl/document/12131180/3/22bst01498+Raadsvoorstel+investeringsbudget+nieuwbouw+Tongelreep+%28Openbaar%29?connection_type=17&connection_id=8868985": "Raadsvoorstel investeringsbudget nieuwbouw Tongelreep (Openbaar)",
@@ -85,6 +87,10 @@
             "weight": 0.26025376868203404
         },
         {
+            "id": 1000389,
+            "weight": 0.243496692680208
+        },
+        {
             "id": 1125656,
             "weight": 0.22165778366742808
         },
@@ -105,6 +111,10 @@
             "weight": 0.17440265645524222
         },
         {
+            "id": 966136,
+            "weight": 0.17249764500137071
+        },
+        {
             "id": 997118,
             "weight": 0.16867127285452707
         },
@@ -113,16 +123,12 @@
             "weight": 0.16487615753976614
         },
         {
-            "id": 1000389,
-            "weight": 0.162331128453472
+            "id": 825926,
+            "weight": 0.16104117999540213
         },
         {
             "id": 777620,
             "weight": 0.14866046844132544
-        },
-        {
-            "id": 1153868,
-            "weight": 0.1469032523665609
         },
         {
             "id": 984254,
@@ -241,12 +247,20 @@
             "weight": 0.07674799456255738
         },
         {
+            "id": 774017,
+            "weight": 0.07674716251349109
+        },
+        {
             "id": 890229,
             "weight": 0.07526197435708655
         },
         {
             "id": 1141629,
             "weight": 0.07436533091707014
+        },
+        {
+            "id": 1001572,
+            "weight": 0.07290123319249951
         },
         {
             "id": 874916,
@@ -265,12 +279,24 @@
             "weight": 0.06859576042770439
         },
         {
+            "id": 792696,
+            "weight": 0.06829387812773678
+        },
+        {
             "id": 980028,
             "weight": 0.06748067799718778
         },
         {
+            "id": 1094248,
+            "weight": 0.06624467833375872
+        },
+        {
             "id": 1125026,
             "weight": 0.06592142471387852
+        },
+        {
+            "id": 776958,
+            "weight": 0.06357459466507218
         },
         {
             "id": 821450,
@@ -279,6 +305,14 @@
         {
             "id": 1013807,
             "weight": 0.06143408437294681
+        },
+        {
+            "id": 817276,
+            "weight": 0.059398725866204025
+        },
+        {
+            "id": 850176,
+            "weight": 0.0569890965980277
         },
         {
             "id": 1125111,

@@ -7,21 +7,21 @@
         194375
     ],
     "party_list": [
-        "SP",
         "Volt",
-        "Partij voor de Dieren"
+        "Partij voor de Dieren",
+        "SP"
     ],
     "poho_id": [],
-    "title": "Motie M1: Luchtkwaliteit WHO (Partij voor de Dieren, SP, Volt)",
+    "title": "M1: Verworpen Motie M1 Luchtkwaliteit WHO (PvdD, SP, Volt)",
     "url": "https://raadsinformatie.eindhoven.nl/modules/6/moties_en_toezeggingen/775144?parent_event=1013339",
     "type": "Motie",
     "member": "Murat Memiş, Jonas Roothans en Jacco Rubenkamp",
     "party": null,
     "poho": "",
-    "result": "verworpen",
+    "result": "Verworpen",
     "date": "14-06-2022",
     "meeting_url": {
-        "1013339": "https://raadsinformatie.eindhoven.nl/vergadering/1013339/Motie%20M1%3A%20Luchtkwaliteit%20WHO%20%28Partij%20voor%20de%20Dieren%2C%20SP%2C%20Volt%29 14-06-2022#voting_7006129"
+        "1013339": "https://raadsinformatie.eindhoven.nl/vergadering/1013339#ai_6963654"
     },
     "attachment": null,
     "parent": "ai_6963654",

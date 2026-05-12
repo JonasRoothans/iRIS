@@ -2,21 +2,20 @@
     "module_id": 1123046,
     "vote_id": null,
     "member_id": [
-        194498,
         47266,
+        194498,
         194370,
         80968,
         42090,
         194495
     ],
     "party_list": [
-        "LPF ",
         "Eindhoven voor Elkaar",
-        "Ouderen Appél Eindhoven",
-        "PvdA",
-        "SP",
         "Partij voor de Dieren",
-        " Ouderen Appèl - Hart voor Eindhoven"
+        "PvdA",
+        " Ouderen Appèl - Hart voor Eindhoven",
+        "LPF ",
+        "SP"
     ],
     "poho_id": [],
     "title": "Beantwoording raadsvragen - Steun de protesten in Iran (EvE, OAEHvE, PvdD, SP, LPF, PvdA, GL)",
@@ -56,8 +55,16 @@
             "weight": 0.32227982268322153
         },
         {
+            "id": 16277042,
+            "weight": 0.22846015789104954
+        },
+        {
             "id": 1130048,
             "weight": 0.22751972655105293
+        },
+        {
+            "id": 16034520,
+            "weight": 0.21924663193090763
         },
         {
             "id": 1052634,
@@ -82,18 +89,6 @@
         {
             "id": 1015055,
             "weight": 0.18343575084456323
-        },
-        {
-            "id": 1155677,
-            "weight": 0.18117808537967953
-        },
-        {
-            "id": 16277042,
-            "weight": 0.17134511841828715
-        },
-        {
-            "id": 16034520,
-            "weight": 0.1644349739481807
         },
         {
             "id": 958683,
@@ -250,7 +245,7 @@
     },
     "svz": null,
     "afgedaan": null,
-    "eersteIndiener": 47266,
-    "lastScrapeDate": "04-05-2026",
+    "eersteIndiener": 194370,
+    "lastScrapeDate": "08-04-2026",
     "meeting_id": []
 }

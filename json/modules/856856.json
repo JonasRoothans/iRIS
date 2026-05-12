@@ -2,8 +2,8 @@
     "module_id": 856856,
     "vote_id": 7691080,
     "member_id": [
-        47266,
         194498,
+        47266,
         80968,
         133674,
         194480,
@@ -11,25 +11,25 @@
         194495
     ],
     "party_list": [
-        "50PLUS",
-        "GroenLinks",
-        "PvdA",
-        "SP",
-        "VVD",
         "Partij voor de Dieren",
-        " Ouderen Appèl - Hart voor Eindhoven"
+        "PvdA",
+        "VVD",
+        " Ouderen Appèl - Hart voor Eindhoven",
+        "GroenLinks",
+        "SP",
+        "50PLUS"
     ],
     "poho_id": 230014,
-    "title": "Uren directeur Cure (Motie M3)",
+    "title": "Uren directeur Cure (Motie M3A)",
     "url": "https://raadsinformatie.eindhoven.nl/modules/6/moties_en_toezeggingen/856856?parent_event=1013498",
     "type": "Motie",
     "member": "Ruud van Acquoij, Marlous Hermans, Lex Janssen, Virginia Jonkers, Murat Karatas, Niek Rennenberg en Jannie Visscher",
     "party": null,
     "poho": "R. Thijs (Wethouder) en M. van Lanschot (Wethouder)",
-    "result": "aangenomen",
+    "result": "Aangenomen",
     "date": "20-06-2023",
     "meeting_url": {
-        "1013498": "https://raadsinformatie.eindhoven.nl/vergadering/1013498/Uren%20directeur%20Cure%20%28Motie%20M3%29 20-06-2023#voting_7691080"
+        "1013498": "https://raadsinformatie.eindhoven.nl/vergadering/1013498#ai_7552607"
     },
     "attachment": null,
     "parent": 836589,
@@ -52,24 +52,20 @@
             "weight": 0.6598662804162125
         },
         {
+            "id": 932261,
+            "weight": 0.6496155208086095
+        },
+        {
+            "id": 1037355,
+            "weight": 0.6488445006970168
+        },
+        {
             "id": 1116386,
             "weight": 0.6446920735213356
         },
         {
             "id": 1045412,
             "weight": 0.4885313262156187
-        },
-        {
-            "id": 932261,
-            "weight": 0.4872116406064571
-        },
-        {
-            "id": 1037355,
-            "weight": 0.4866333755227626
-        },
-        {
-            "id": 1153862,
-            "weight": 0.48390650666504254
         },
         {
             "id": 882987,
@@ -81,19 +77,15 @@
         },
         {
             "id": 900681,
-            "weight": 0.21766160913412
+            "weight": 0.24875612472470857
         },
         {
             "id": 1049629,
-            "weight": 0.21747341941605255
-        },
-        {
-            "id": 1153868,
-            "weight": 0.2172939388781384
+            "weight": 0.24854105076120292
         },
         {
             "id": 1034706,
-            "weight": 0.21704262897422408
+            "weight": 0.24804871882768467
         },
         {
             "id": 15708198,
@@ -132,24 +124,24 @@
             "weight": 0.11741552315746387
         },
         {
+            "id": 979297,
+            "weight": 0.11729997027335362
+        },
+        {
             "id": 13283054,
             "weight": 0.11612165022510239
         },
         {
-            "id": 804898,
-            "weight": 0.10318312514015929
-        },
-        {
-            "id": 979297,
-            "weight": 0.10263747398918442
-        },
-        {
             "id": 1060169,
-            "weight": 0.10046610327634957
+            "weight": 0.11481840374439951
         },
         {
             "id": 787672,
-            "weight": 0.09719365603262697
+            "weight": 0.11107846403728797
+        },
+        {
+            "id": 804898,
+            "weight": 0.10318312514015929
         },
         {
             "id": 888437,

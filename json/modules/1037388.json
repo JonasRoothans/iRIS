@@ -13,7 +13,8 @@
     "result": "aangenomen",
     "date": "10-06-2025",
     "meeting_url": {
-        "1256321": "https://raadsinformatie.eindhoven.nl/vergadering/1256321/Raadsvoorstel%20Leidraad%20voor%20vestiging%20noodzakelijke%20%28opvang%29voorzieningen 10-06-2025#voting_9338751"
+        "1256321": "https://raadsinformatie.eindhoven.nl/vergadering/1256321#ai_9291510",
+        "1256614": "https://raadsinformatie.eindhoven.nl/vergadering/1256614#ai_9330990"
     },
     "attachment": {
         "https://raadsinformatie.eindhoven.nl/document/15439443/1/7914748_02+Raadsvoorstel+Leidraad+voor+vestiging+noodzakelijke+%28opvang%29voorzieningen?connection_type=17&connection_id=11771741": "Raadsvoorstel Leidraad voor vestiging noodzakelijke (opvang)voorzieningen",
@@ -140,20 +141,32 @@
             "weight": 0.1024328538393456
         },
         {
+            "id": 985709,
+            "weight": 0.0951801484990465
+        },
+        {
             "id": 1124827,
             "weight": 0.0929763212677546
+        },
+        {
+            "id": 888194,
+            "weight": 0.08993238139785575
+        },
+        {
+            "id": 984947,
+            "weight": 0.08739733410932889
         },
         {
             "id": 881818,
             "weight": 0.08733109078466371
         },
         {
-            "id": 1137719,
-            "weight": 0.08720758021088436
+            "id": 1146887,
+            "weight": 0.0872355548712691
         },
         {
-            "id": 985709,
-            "weight": 0.08328262993666569
+            "id": 1137719,
+            "weight": 0.08720758021088436
         },
         {
             "id": 923629,
@@ -168,8 +181,8 @@
             "weight": 0.08026503388605524
         },
         {
-            "id": 888194,
-            "weight": 0.07869083372312378
+            "id": 825029,
+            "weight": 0.07862227022294968
         },
         {
             "id": 822641,
@@ -178,18 +191,6 @@
         {
             "id": 824885,
             "weight": 0.07695146657192667
-        },
-        {
-            "id": 984947,
-            "weight": 0.07647266734566277
-        },
-        {
-            "id": 1146887,
-            "weight": 0.07633111051236047
-        },
-        {
-            "id": 1153243,
-            "weight": 0.07627391643707665
         },
         {
             "id": 891691,
@@ -204,8 +205,8 @@
             "weight": 0.07088482698630977
         },
         {
-            "id": 825029,
-            "weight": 0.06879448644508097
+            "id": 989757,
+            "weight": 0.06920405674598232
         },
         {
             "id": 1116686,
@@ -214,10 +215,6 @@
         {
             "id": 1080140,
             "weight": 0.06797276000439262
-        },
-        {
-            "id": 989757,
-            "weight": 0.06055354965273453
         },
         {
             "id": 1031043,

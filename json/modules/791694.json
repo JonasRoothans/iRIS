@@ -9,10 +9,10 @@
     ],
     "party_list": [
         "Eindhoven voor Elkaar",
-        "GroenLinks",
         "PvdA",
-        "SP",
-        " Ouderen Appèl - Hart voor Eindhoven"
+        " Ouderen Appèl - Hart voor Eindhoven",
+        "GroenLinks",
+        "SP"
     ],
     "poho_id": 230024,
     "title": "Duurzaam toekomstperspectief op werk (BM17A)",
@@ -21,10 +21,10 @@
     "member": "Lotte Meerhoff, Niek Rennenberg, Tjeerd Ritmeester en Murat Memiş",
     "party": null,
     "poho": "S. Lammers (Wethouder)",
-    "result": "aangenomen",
+    "result": "Aangenomen en een toezegging",
     "date": "08-11-2022",
     "meeting_url": {
-        "1013582": "https://raadsinformatie.eindhoven.nl/vergadering/1013582/Duurzaam%20toekomstperspectief%20op%20werk%20%28BM17A%29 08-11-2022#voting_7152836"
+        "1013582": "https://raadsinformatie.eindhoven.nl/vergadering/1013582#ai_7066629"
     },
     "attachment": null,
     "parent": 794220,
@@ -59,12 +59,12 @@
             "weight": 0.27159059137062674
         },
         {
-            "id": 16280095,
-            "weight": 0.225501522394245
+            "id": 984494,
+            "weight": 0.24420689216238545
         },
         {
-            "id": 984494,
-            "weight": 0.21707279303323151
+            "id": 16280095,
+            "weight": 0.225501522394245
         },
         {
             "id": "a_8569264",
@@ -87,44 +87,40 @@
             "weight": 0.14046652997708156
         },
         {
+            "id": 1000408,
+            "weight": 0.1208853557131356
+        },
+        {
+            "id": 862742,
+            "weight": 0.11990521846722937
+        },
+        {
+            "id": 1128309,
+            "weight": 0.11838992239555945
+        },
+        {
             "id": 1118645,
             "weight": 0.11678994046779793
+        },
+        {
+            "id": 1117525,
+            "weight": 0.11577359869550577
+        },
+        {
+            "id": 1046801,
+            "weight": 0.11360207433285609
         },
         {
             "id": 901452,
             "weight": 0.10988747403009028
         },
         {
-            "id": 1000408,
-            "weight": 0.1074536495227872
-        },
-        {
-            "id": 862742,
-            "weight": 0.106582416415315
-        },
-        {
-            "id": 1128309,
-            "weight": 0.10523548657383062
-        },
-        {
-            "id": 1117525,
-            "weight": 0.10290986550711624
-        },
-        {
-            "id": 1046801,
-            "weight": 0.10097962162920542
+            "id": 1051257,
+            "weight": 0.10344392822363839
         },
         {
             "id": 829238,
             "weight": 0.09793079946470203
-        },
-        {
-            "id": 1158094,
-            "weight": 0.09684097523701164
-        },
-        {
-            "id": 1051257,
-            "weight": 0.0919501584210119
         },
         {
             "id": 1057058,

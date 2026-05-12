@@ -11,9 +11,11 @@
     "party": null,
     "poho": "S. Steenbakkers (Wethouder)",
     "result": "aangenomen",
-    "date": "24-01-2023",
+    "date": "10-01-2023",
     "meeting_url": {
-        "1013447": "https://raadsinformatie.eindhoven.nl/vergadering/1013447/Raadsvoorstel%20Uitvoering%20gebiedsontwikkeling%20Fellenoord%20%28Hoe%29 24-01-2023#voting_7243591"
+        "1013447": "https://raadsinformatie.eindhoven.nl/vergadering/1013447#ai_7243576",
+        "1058157": "https://raadsinformatie.eindhoven.nl/vergadering/1058157#ai_7220808",
+        "1058161": "https://raadsinformatie.eindhoven.nl/vergadering/1058161#ai_7220778"
     },
     "attachment": {
         "https://raadsinformatie.eindhoven.nl/document/12125922/4/22bst01480+Raadsvoorstel+Uitvoering+gebiedsontwikkeling+Fellenoord+%28Hoe%29?connection_type=17&connection_id=8865986": "22bst01480 Raadsvoorstel Uitvoering gebiedsontwikkeling Fellenoord (Hoe)",
@@ -112,16 +114,28 @@
             "weight": 0.1319918827928574
         },
         {
+            "id": "a_7037807",
+            "weight": 0.12840956526280692
+        },
+        {
             "id": 993459,
             "weight": 0.12582719514875823
+        },
+        {
+            "id": "a_7037808",
+            "weight": 0.12539153432481168
         },
         {
             "id": 833871,
             "weight": 0.12453316842457623
         },
         {
-            "id": 1153822,
-            "weight": 0.12206736641653497
+            "id": "a_7038460",
+            "weight": 0.12379731123953057
+        },
+        {
+            "id": "a_7037805",
+            "weight": 0.1226778762088893
         },
         {
             "id": 1124918,
@@ -132,24 +146,8 @@
             "weight": 0.11377107470201439
         },
         {
-            "id": "a_7037807",
-            "weight": 0.1100653416538345
-        },
-        {
             "id": 971234,
             "weight": 0.10793438185178532
-        },
-        {
-            "id": "a_7037808",
-            "weight": 0.10747845799269573
-        },
-        {
-            "id": "a_7038460",
-            "weight": 0.10611198106245477
-        },
-        {
-            "id": "a_7037805",
-            "weight": 0.10515246532190511
         },
         {
             "id": 1072945,

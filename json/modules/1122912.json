@@ -11,12 +11,11 @@
     ],
     "party_list": [
         "Eindhoven voor Elkaar",
+        "Partij voor de Dieren",
         "Volt",
-        "PRO",
-        "GroenLinks",
         "PvdA",
-        "SP",
-        "Partij voor de Dieren"
+        "GroenLinks",
+        "SP"
     ],
     "poho_id": [],
     "title": "Beantwoording raadsvragen - Een wig in de Genderwig (GroenLinks, PvdA, SP, Volt, EVE, PvdD)",
@@ -41,7 +40,7 @@
     "related": [
         {
             "id": 1125833,
-            "weight": 0.7718712179034399
+            "weight": 0.8163195602154721
         },
         {
             "id": 1046515,
@@ -49,7 +48,7 @@
         },
         {
             "id": 1121677,
-            "weight": 0.4387756860148116
+            "weight": 0.4840733501404147
         },
         {
             "id": 1136745,
@@ -60,8 +59,16 @@
             "weight": 0.3192708130187077
         },
         {
+            "id": 1147320,
+            "weight": 0.31473546085271636
+        },
+        {
             "id": 1141636,
             "weight": 0.31280656648147814
+        },
+        {
+            "id": 1031698,
+            "weight": 0.31278917167833015
         },
         {
             "id": 1042265,
@@ -74,14 +81,6 @@
         {
             "id": 1078521,
             "weight": 0.2715982684613896
-        },
-        {
-            "id": 1147320,
-            "weight": 0.2697732521594712
-        },
-        {
-            "id": 1031698,
-            "weight": 0.26810500429571155
         },
         {
             "id": 858025,
@@ -156,10 +155,6 @@
             "weight": 0.11373034584422985
         },
         {
-            "id": 1153214,
-            "weight": 0.11196978025582671
-        },
-        {
             "id": 783170,
             "weight": 0.11049984618331221
         },
@@ -176,12 +171,12 @@
             "weight": 0.08519348217454492
         },
         {
-            "id": 778928,
-            "weight": 0.0741543307337337
+            "id": 1009558,
+            "weight": 0.08367703924138731
         },
         {
-            "id": 1009558,
-            "weight": 0.0717231764926177
+            "id": 778928,
+            "weight": 0.0741543307337337
         },
         {
             "id": 949263,
@@ -333,6 +328,6 @@
     "svz": null,
     "afgedaan": null,
     "eersteIndiener": 133670,
-    "lastScrapeDate": "04-05-2026",
+    "lastScrapeDate": "08-04-2026",
     "meeting_id": []
 }

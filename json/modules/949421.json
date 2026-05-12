@@ -7,9 +7,9 @@
         131149
     ],
     "party_list": [
-        "CDA",
         "VVD",
-        "50PLUS"
+        "50PLUS",
+        "CDA"
     ],
     "poho_id": [],
     "title": "Een nieuwe directeur, een nieuw geluid (Motie M11)",
@@ -18,10 +18,10 @@
     "member": "Niels Groot, Peter de Roij van Zuijdewijn en Ruud van Acquoij",
     "party": null,
     "poho": "",
-    "result": "verworpen",
+    "result": "Verworpen",
     "date": "11-06-2024",
     "meeting_url": {
-        "1147959": "https://raadsinformatie.eindhoven.nl/vergadering/1147959/Een%20nieuwe%20directeur%2C%20een%20nieuw%20geluid%20%28Motie%20M11%29 11-06-2024#voting_8511150"
+        "1147959": "https://raadsinformatie.eindhoven.nl/vergadering/1147959#ai_8440999"
     },
     "attachment": null,
     "parent": 941339,
@@ -56,6 +56,14 @@
             "weight": 0.27332562854001285
         },
         {
+            "id": "a_10115066",
+            "weight": 0.23187336978721812
+        },
+        {
+            "id": 1141484,
+            "weight": 0.23121024609792973
+        },
+        {
             "id": 783170,
             "weight": 0.21073023299606522
         },
@@ -64,20 +72,40 @@
             "weight": 0.20537441671797077
         },
         {
-            "id": "a_10115066",
-            "weight": 0.18160077907538083
-        },
-        {
-            "id": 1141484,
-            "weight": 0.18113175087730063
-        },
-        {
             "id": 1148686,
             "weight": 0.171622532164653
         },
         {
             "id": 864790,
             "weight": 0.15781586117136595
+        },
+        {
+            "id": 1053653,
+            "weight": 0.06905545546090489
+        },
+        {
+            "id": 796421,
+            "weight": 0.06512880037260195
+        },
+        {
+            "id": 943628,
+            "weight": 0.05037215681043407
+        },
+        {
+            "id": 798449,
+            "weight": 0.0484560748601025
+        },
+        {
+            "id": 890090,
+            "weight": 0.048085571615210924
+        },
+        {
+            "id": 1125914,
+            "weight": 0.04670036191967962
+        },
+        {
+            "id": 970349,
+            "weight": 0.042508499744205716
         }
     ],
     "videostarttime": {

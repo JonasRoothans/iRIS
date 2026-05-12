@@ -7,10 +7,9 @@
         194406
     ],
     "party_list": [
-        "GroenLinks",
         "Volt",
-        "PRO",
-        "PvdA"
+        "PvdA",
+        "GroenLinks"
     ],
     "poho_id": [],
     "title": "Aangekondigd Amendement A1B - Komst Rijksmuseum hoort cultuursector te versterken (Volt)",
@@ -198,7 +197,7 @@
     "svz": null,
     "afgedaan": null,
     "eersteIndiener": 194376,
-    "lastScrapeDate": "04-05-2026",
+    "lastScrapeDate": "08-04-2026",
     "meeting_id": [
         1374861
     ]

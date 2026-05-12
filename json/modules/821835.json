@@ -8,10 +8,10 @@
         194375
     ],
     "party_list": [
-        "D66",
         "Volt",
         "Partij voor de Dieren",
-        "GroenLinks"
+        "GroenLinks",
+        "D66"
     ],
     "poho_id": [],
     "title": "Geen blik op straat bij Kastelenplein (Motie M3)",
@@ -20,10 +20,10 @@
     "member": "Robin Brokmann, Tom  Brouwers, Rutger Rauws en Jonas Roothans",
     "party": null,
     "poho": "",
-    "result": "verworpen",
+    "result": "Verworpen",
     "date": "14-02-2023",
     "meeting_url": {
-        "1013452": "https://raadsinformatie.eindhoven.nl/vergadering/1013452/Geen%20blik%20op%20straat%20bij%20Kastelenplein%20%28Motie%20M3%29 14-02-2023#voting_7404425"
+        "1013452": "https://raadsinformatie.eindhoven.nl/vergadering/1013452#ai_7327552"
     },
     "attachment": null,
     "parent": 806370,

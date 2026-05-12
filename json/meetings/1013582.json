@@ -9592,15 +9592,13 @@
             }
         }
     },
-    "title": {
-        "Raadzaal": "Vergadering Raadsvergadering Begroting  08-11-2022 Gemeente Eindhoven"
-    },
+    "title": "Vergadering Raadsvergadering Begroting  08-11-2022 Gemeente Eindhoven",
     "meeting_url": "https://raadsinformatie.eindhoven.nl/vergadering/1013582/",
     "video_url": {
         "Raadzaal": "http://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_08.11.22_NC_Eindhoven_Raad.mp4/playlist.m3u8"
     },
     "api_url": "api.notubiz.nl/events/1013582",
-    "date": "2022-11-08 16:00:00",
+    "date": "08-11-2022",
     "type": "Raadsvergadering Begroting ",
     "agenda": {
         "Raadzaal": {
@@ -9632,17 +9630,23 @@
             "871": {
                 "title": "Raadsvoorstel aanwijzingsbesluit plaatsvervangend griffier",
                 "id": 7118155,
-                "module_id": []
+                "module_id": [
+                    788357
+                ]
             },
             "852": {
                 "title": "Raadsvoorstel benoeming lid Raadscommissie Knoop XL",
                 "id": 7134008,
-                "module_id": []
+                "module_id": [
+                    789881
+                ]
             },
             "857": {
                 "title": "Raadsvoorstel Herbenoeming voorzitter en vicevoorzitter van de rekenkamer",
                 "id": 7135172,
-                "module_id": []
+                "module_id": [
+                    790022
+                ]
             },
             "971": {
                 "title": "Begroting",
@@ -9652,12 +9656,16 @@
             "22940": {
                 "title": "Raadsvoorstel vaststellen Begroting 2023 ",
                 "id": 7066629,
-                "module_id": []
+                "module_id": [
+                    783516
+                ]
             },
             "22889": {
                 "title": "Raadsvoorstel Tot het vaststellen van de Verordeningen gemeentelijke belastingen, heffingen en rechten 2023",
                 "id": 7060666,
-                "module_id": []
+                "module_id": [
+                    782912
+                ]
             },
             "22671": {
                 "title": "Raadsinformatiebrieven (RIB) ter kennisname",

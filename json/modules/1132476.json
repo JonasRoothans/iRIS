@@ -2,20 +2,19 @@
     "module_id": 1132476,
     "vote_id": null,
     "member_id": [
+        159102,
         194373,
         133670,
         194375,
-        194366,
         194514,
-        159102
+        194366
     ],
     "party_list": [
-        "Volt",
-        "PRO",
-        "GroenLinks",
-        "PvdA",
+        "Partij voor de Dieren",
         "D66",
-        "Partij voor de Dieren"
+        "Volt",
+        "PvdA",
+        "GroenLinks"
     ],
     "poho_id": 230013,
     "title": "Fiets ook op één in 2050! (Motie M4)",
@@ -184,6 +183,6 @@
     "svz": "",
     "afgedaan": "",
     "eersteIndiener": 133670,
-    "lastScrapeDate": "04-05-2026",
+    "lastScrapeDate": "08-04-2026",
     "meeting_id": []
 }

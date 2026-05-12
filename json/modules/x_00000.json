@@ -1,19 +1,19 @@
 {
     "module_id": "x_00000",
-    "vote_id": 6993687,
+    "vote_id": 6992306,
     "member_id": [],
     "party_list": [],
     "poho_id": [],
-    "title": "Vaststellen Verordening op de vertrouwenscommissie die de aanbeveling tot benoeming van de burgemeester voorbereidt",
+    "title": "Vaststelling bestemmingsplan I Woensel buiten de Ring I 2017 (Onze Lieve Vrouwestraat)",
     "url": "https://raadsinformatie.eindhoven.nl/vergadering/509838/Hertelling 27-03-2018#voting_3987561",
     "type": null,
     "member": null,
     "party": null,
     "poho": null,
     "result": "aangenomen",
-    "date": "19-04-2022",
+    "date": "25-01-2022",
     "meeting_url": {
-        "1013456": "https://raadsinformatie.eindhoven.nl/vergadering/1013456/Vaststellen%20Verordening%20op%20de%20vertrouwenscommissie%20die%20de%20aanbeveling%20tot%20benoeming%20van%20de%20burgemeester%20voorbereidt 19-04-2022#voting_6993687"
+        "1013304": "https://raadsinformatie.eindhoven.nl/vergadering/1013304/Vaststelling%20bestemmingsplan%20I%20Woensel%20buiten%20de%20Ring%20I%202017%20%28Onze%20Lieve%20Vrouwestraat%29 25-01-2022#voting_6992306"
     },
     "attachment": null,
     "parent": null,
@@ -35,7 +35,7 @@
     "meeting_id": [
         1013456,
         1013394,
-        1013304,
-        1147927
+        1147927,
+        1013304
     ]
 }

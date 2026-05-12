@@ -1210,15 +1210,13 @@
             }
         }
     },
-    "title": {
-        "Raadzaal": "Vergadering Raadsvergadering 11-10-2022 Gemeente Eindhoven"
-    },
+    "title": "Vergadering Raadsvergadering 11-10-2022 Gemeente Eindhoven",
     "meeting_url": "https://raadsinformatie.eindhoven.nl/vergadering/1013161/",
     "video_url": {
         "Raadzaal": "http://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_11.10.22_Eindhoven_raad.mp4/playlist.m3u8"
     },
     "api_url": "api.notubiz.nl/events/1013161",
-    "date": "2022-10-11 18:00:00",
+    "date": "11-10-2022",
     "type": "Raadsvergadering",
     "agenda": {
         "Raadzaal": {
@@ -1245,12 +1243,16 @@
             "813": {
                 "title": "Raadsvoorstel ontheffen van een commissielid van de fractie PvdA als lid in de Meningsvormende vergadering ",
                 "id": 7090688,
-                "module_id": []
+                "module_id": [
+                    785553
+                ]
             },
             "835": {
                 "title": "Raadsvoorstel ontheffen van commissieleden van de fractie LPF als lid in de Meningsvormende vergadering ",
                 "id": 7092736,
-                "module_id": []
+                "module_id": [
+                    785769
+                ]
             },
             "875": {
                 "title": "Openbare besluitenlijst van de raadsvergadering d.d. 21 september 2022",
@@ -1270,32 +1272,44 @@
             "2703": {
                 "title": "Raadsvoorstel Brownfields en grootschalige logistiek",
                 "id": 7028359,
-                "module_id": []
+                "module_id": [
+                    771656
+                ]
             },
             "2757": {
                 "title": "Raadsvoorstel Verordening bedrijveninvesteringszone De Hurk Eindhoven 2023-2027",
                 "id": 7028361,
-                "module_id": []
+                "module_id": [
+                    778810
+                ]
             },
             "2795": {
                 "title": "Raadsvoorstel Reglement van orde gemeenteraad Eindhoven 2022",
                 "id": 7058190,
-                "module_id": []
+                "module_id": [
+                    782833
+                ]
             },
             "2937": {
                 "title": "Raadsvoorstel benoeming leden agendacommissie",
                 "id": 7092551,
-                "module_id": []
+                "module_id": [
+                    785761
+                ]
             },
             "2711": {
                 "title": "Raadsvoorstel Verordening op de voorbereidende bijeenkomst en de meningsvormende vergadering 2022",
                 "id": 7058185,
-                "module_id": []
+                "module_id": [
+                    782832
+                ]
             },
             "2721": {
                 "title": "Raadsvoorstel Benoemen CRK-lid landschapsarchitectuur",
                 "id": 7082844,
-                "module_id": []
+                "module_id": [
+                    784785
+                ]
             },
             "2966": {
                 "title": "Bespreekstukken",
@@ -1305,12 +1319,16 @@
             "2978": {
                 "title": "Raadsvoorstel corona-ondersteuning tot en met begroting 2024",
                 "id": 7028362,
-                "module_id": []
+                "module_id": [
+                    778226
+                ]
             },
             "4283": {
                 "title": "Raadsvoorstel Regionaal Veiligheidsplan 2023-2026",
                 "id": 7028353,
-                "module_id": []
+                "module_id": [
+                    778194
+                ]
             },
             "5076": {
                 "title": "Vrije moties",

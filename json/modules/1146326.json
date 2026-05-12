@@ -13,8 +13,7 @@
     "result": "",
     "date": "26-05-2026",
     "meeting_url": {
-        "1374866": "https://raadsinformatie.eindhoven.nl/vergadering/1374866#ai_10151823",
-        "1374935": "https://raadsinformatie.eindhoven.nl/vergadering/1374935#ai_10183145"
+        "1374866": "https://raadsinformatie.eindhoven.nl/vergadering/1374866#ai_10151823"
     },
     "attachment": {
         "https://raadsinformatie.eindhoven.nl/document/16754253/1/8145363_02+Raadsvoorstel+Wijziging+omgevingsplan+Woensel+buiten+de+Ring+en+Oude+Gracht?connection_type=17&connection_id=13142062": "Raadsvoorstel Wijziging omgevingsplan Woensel buiten de Ring en Oude Gracht",
@@ -86,11 +85,11 @@
             "weight": 0.2767185950225143
         },
         {
-            "id": 977662,
+            "id": "r_8748211",
             "weight": 0.27478746307396673
         },
         {
-            "id": "r_8748211",
+            "id": 977662,
             "weight": 0.27478746307396673
         },
         {
@@ -337,6 +336,6 @@
     "svz": null,
     "afgedaan": null,
     "eersteIndiener": null,
-    "lastScrapeDate": "04-05-2026",
+    "lastScrapeDate": "10-04-2026",
     "meeting_id": []
 }

@@ -10,12 +10,12 @@
         194495
     ],
     "party_list": [
-        "Volt",
-        "GroenLinks",
-        "PvdA",
-        "D66",
         "Partij voor de Dieren",
-        " Ouderen Appèl - Hart voor Eindhoven"
+        "D66",
+        "Volt",
+        "PvdA",
+        " Ouderen Appèl - Hart voor Eindhoven",
+        "GroenLinks"
     ],
     "poho_id": 230013,
     "title": "Actieve branchering - Duurzaamheid is geen detail (Motie M1)",
@@ -48,10 +48,6 @@
         {
             "id": 991438,
             "weight": 0.36973330126409826
-        },
-        {
-            "id": 1153822,
-            "weight": 0.33696357595642595
         },
         {
             "id": 920652,

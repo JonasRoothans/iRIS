@@ -11,9 +11,10 @@
     "party": null,
     "poho": "M. Esselbrugge (Wethouder)",
     "result": "aangenomen",
-    "date": "07-05-2024",
+    "date": "16-04-2024",
     "meeting_url": {
-        "1147927": "https://raadsinformatie.eindhoven.nl/vergadering/1147927/Raadsvoorstel%20Zienswijze%20consultatieversie%20Regionale%20Mobiliteitsvisie%20MRE%202040 07-05-2024#voting_8347920"
+        "1147927": "https://raadsinformatie.eindhoven.nl/vergadering/1147927#ai_8347815",
+        "1147924": "https://raadsinformatie.eindhoven.nl/vergadering/1147924#ai_8317753"
     },
     "attachment": {
         "https://raadsinformatie.eindhoven.nl/document/13997353/1/24bst00417+Raadsvoorstel+Zienswijze+consultatieversie+Regionale+Mobiliteitsvisie+MRE+2040?connection_type=17&connection_id=10442934": "Raadsvoorstel Zienswijze consultatieversie Regionale Mobiliteitsvisie MRE 2040",
@@ -38,15 +39,15 @@
     "related": [
         {
             "id": 944423,
-            "weight": 4.060175024414965
+            "weight": 4.067175511058146
         },
         {
             "id": 905359,
-            "weight": 0.8657589375062722
+            "weight": 0.8728346978274243
         },
         {
             "id": 938313,
-            "weight": 0.7437621744227518
+            "weight": 0.750588260683738
         },
         {
             "id": 955536,
@@ -54,11 +55,11 @@
         },
         {
             "id": 804112,
-            "weight": 0.265064120163672
+            "weight": 0.27257154827821256
         },
         {
             "id": "r_7006017",
-            "weight": 0.2637734986507025
+            "weight": 0.2719578048657916
         },
         {
             "id": 1142895,
@@ -69,16 +70,16 @@
             "weight": 0.22087756732813157
         },
         {
-            "id": 960621,
-            "weight": 0.18924774840232952
-        },
-        {
             "id": 1037381,
-            "weight": 0.18146574846703817
+            "weight": 0.19016630951515825
         },
         {
             "id": 834952,
-            "weight": 0.18094130637092254
+            "weight": 0.18957749935045387
+        },
+        {
+            "id": 960621,
+            "weight": 0.18924774840232952
         },
         {
             "id": 955392,
@@ -163,10 +164,6 @@
         {
             "id": 983826,
             "weight": 0.06774790635709609
-        },
-        {
-            "id": 1153878,
-            "weight": 0.061303131029640946
         },
         {
             "id": 863851,

@@ -17,20 +17,19 @@
         194495
     ],
     "party_list": [
-        "LPF ",
         "Eindhoven voor Elkaar",
-        "Volt",
-        "50PLUS",
-        "GroenLinks",
-        "PvdA",
-        "CDA",
-        "PRO",
-        "SP",
-        "D66",
-        "VVD",
-        "FVD",
         "Partij voor de Dieren",
-        " Ouderen Appèl - Hart voor Eindhoven"
+        "D66",
+        "Volt",
+        "PvdA",
+        "VVD",
+        " Ouderen Appèl - Hart voor Eindhoven",
+        "GroenLinks",
+        "LPF ",
+        "FVD",
+        "SP",
+        "50PLUS",
+        "CDA"
     ],
     "poho_id": [],
     "title": "Aanvullend onderzoek Herbouw oude stadhuis (Vrije Motie VM12)",
@@ -201,6 +200,10 @@
             "weight": 0.06823984681571016
         },
         {
+            "id": 920288,
+            "weight": 0.06784186976322006
+        },
+        {
             "id": 16211434,
             "weight": 0.06780254261179283
         },
@@ -225,8 +228,40 @@
             "weight": 0.06496945467459712
         },
         {
+            "id": "a_8421782",
+            "weight": 0.06289496855837837
+        },
+        {
             "id": 946826,
             "weight": 0.06107504502434962
+        },
+        {
+            "id": 1142714,
+            "weight": 0.05764730924939297
+        },
+        {
+            "id": 1149150,
+            "weight": 0.05743785074758363
+        },
+        {
+            "id": 1085519,
+            "weight": 0.05689106707903193
+        },
+        {
+            "id": 1129612,
+            "weight": 0.056139613190020296
+        },
+        {
+            "id": 892411,
+            "weight": 0.05552502590028387
+        },
+        {
+            "id": 930054,
+            "weight": 0.053932183920330924
+        },
+        {
+            "id": 938795,
+            "weight": 0.05282813670234652
         },
         {
             "id": 12962388,
@@ -351,7 +386,7 @@
     "svz": "",
     "afgedaan": "",
     "eersteIndiener": 131155,
-    "lastScrapeDate": "04-05-2026",
+    "lastScrapeDate": "08-04-2026",
     "meeting_id": [
         1374861
     ]

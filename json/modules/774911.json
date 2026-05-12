@@ -2,20 +2,20 @@
     "module_id": 774911,
     "vote_id": null,
     "member_id": [
-        194242,
         47266,
+        194242,
         194500,
         77830,
         42090,
         194495
     ],
     "party_list": [
-        "LPF ",
-        "VVD",
-        "SP",
-        "FVD",
         "Partij voor de Dieren",
-        " Ouderen Appèl - Hart voor Eindhoven"
+        "VVD",
+        " Ouderen Appèl - Hart voor Eindhoven",
+        "LPF ",
+        "FVD",
+        "SP"
     ],
     "poho_id": [],
     "title": "JRM04: Verworpen motie JRM04 Afschaffing kostendelersnorm (SP, VVD, OAHvE, PvdD, LPF, FvD)",

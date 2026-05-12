@@ -13,7 +13,9 @@
     "result": "aangenomen",
     "date": "19-12-2023",
     "meeting_url": {
-        "1013531": "https://raadsinformatie.eindhoven.nl/vergadering/1013531/Raadsvoorstel%20Gewijzigde%20vaststelling%20bestemmingsplan%20XI%20Strijp%20binnen%20de%20Ring%202007%20%28Cederlaan%202%29 19-12-2023#voting_8035256"
+        "1013531": "https://raadsinformatie.eindhoven.nl/vergadering/1013531#ai_8007365",
+        "1044903": "https://raadsinformatie.eindhoven.nl/vergadering/1044903#ai_8013742",
+        "1044928": "https://raadsinformatie.eindhoven.nl/vergadering/1044928#ai_8027674"
     },
     "attachment": {
         "https://raadsinformatie.eindhoven.nl/document/13484555/1/23bst01567+Raadsvoorstel+Vaststelling+bestemmingsplan+XI+Strijp+binnen+de+Ring+2007+%28Cederlaan+2%29?connection_type=17&connection_id=9978605": "23bst01567 Raadsvoorstel Vaststelling bestemmingsplan XI Strijp binnen de Ring 2007 (Cederlaan 2)",
@@ -141,11 +143,11 @@
             "weight": 0.07720466733853859
         },
         {
-            "id": 977662,
+            "id": "r_8748211",
             "weight": 0.07699607601320083
         },
         {
-            "id": "r_8748211",
+            "id": 977662,
             "weight": 0.07699607601320083
         },
         {

@@ -4,7 +4,7 @@
     "member_id": [],
     "party_list": [],
     "poho_id": [],
-    "title": "Raadsvoorstel Beslissing op bezwaar gericht tegen het Raadsbesluit inzake de “Uitkoopregeling woonboten bedrijventerrein\r\nDe Hurk”",
+    "title": "Raadsvoorstel Beslissing op bezwaar gericht tegen het Raadsbesluit inzake de “Uitkoopregeling woonboten bedrijventerrein\nDe Hurk”",
     "url": "https://raadsinformatie.eindhoven.nl/modules/19/raadsvoorstellen/889791?parent_event=1013527",
     "type": "Raadsvoorstel",
     "member": null,
@@ -13,7 +13,7 @@
     "result": "aangenomen",
     "date": "28-11-2023",
     "meeting_url": {
-        "1013527": "https://raadsinformatie.eindhoven.nl/vergadering/1013527/Raadsvoorstel%20Beslissing%20op%20bezwaar%20gericht%20tegen%20het%20Raadsbesluit%20inzake%20de%20%E2%80%9CUitkoopregeling%20woonboten%20bedrijventerrein%0D%0ADe%20Hurk%E2%80%9D 28-11-2023#voting_8006126"
+        "1013527": "https://raadsinformatie.eindhoven.nl/vergadering/1013527#ai_7965394"
     },
     "attachment": {
         "https://raadsinformatie.eindhoven.nl/document/13416347/1/Raadsvoorstel+Beslissing+op+bezwaar+gericht+tegen+het+Raadsbesluit+%28RIS%29?connection_type=17&connection_id=9904531": "Raadsvoorstel Beslissing op bezwaar gericht tegen het Raadsbesluit (RIS)",
@@ -49,19 +49,15 @@
         },
         {
             "id": 1060169,
-            "weight": 0.08412251935131003
+            "weight": 0.10515314918913754
         },
         {
             "id": 982976,
-            "weight": 0.08322351685923773
+            "weight": 0.10402939607404717
         },
         {
             "id": 1034706,
-            "weight": 0.08274586058212688
-        },
-        {
-            "id": 1153868,
-            "weight": 0.08220462771002265
+            "weight": 0.10343232572765859
         },
         {
             "id": 792365,

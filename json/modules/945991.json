@@ -7,9 +7,9 @@
         194500
     ],
     "party_list": [
-        "50PLUS",
+        "LPF ",
         "FVD",
-        "LPF "
+        "50PLUS"
     ],
     "poho_id": [],
     "title": "Alleen invoering betaald parkeren bij draagvlak (Motie KM15)",
@@ -18,10 +18,10 @@
     "member": "Nicolas Knoester, Rudy Reker en Ruud van Acquoij",
     "party": null,
     "poho": "",
-    "result": "verworpen",
+    "result": "Verworpen",
     "date": "28-05-2024",
     "meeting_url": {
-        "1147937": "https://raadsinformatie.eindhoven.nl/vergadering/1147937/Alleen%20invoering%20betaald%20parkeren%20bij%20draagvlak%20%28Motie%20KM15%29 28-05-2024#voting_8469946"
+        "1147937": "https://raadsinformatie.eindhoven.nl/vergadering/1147937#ai_8361768"
     },
     "attachment": null,
     "parent": 933747,
@@ -36,12 +36,12 @@
             "weight": 1.322080119335165
         },
         {
-            "id": 1055420,
-            "weight": 1.2915651661778569
+            "id": 945997,
+            "weight": 1.310895372740513
         },
         {
-            "id": 945997,
-            "weight": 1.215091925079683
+            "id": 1055420,
+            "weight": 1.2915651661778569
         },
         {
             "id": "a_8288831",
@@ -62,10 +62,6 @@
         {
             "id": "a_9977806",
             "weight": 0.11827734851177248
-        },
-        {
-            "id": 1157910,
-            "weight": 0.11673086851629794
         },
         {
             "id": 882987,
@@ -96,8 +92,40 @@
             "weight": 0.06269055457015481
         },
         {
+            "id": 998551,
+            "weight": 0.06002331709705973
+        },
+        {
+            "id": 790697,
+            "weight": 0.05810257017958813
+        },
+        {
             "id": 815680,
             "weight": 0.0522590110657656
+        },
+        {
+            "id": 776527,
+            "weight": 0.0508272806078726
+        },
+        {
+            "id": 838678,
+            "weight": 0.04958806196109027
+        },
+        {
+            "id": "a_7151094",
+            "weight": 0.04750771753646182
+        },
+        {
+            "id": 794220,
+            "weight": 0.04732557814760814
+        },
+        {
+            "id": 801851,
+            "weight": 0.04567663458369103
+        },
+        {
+            "id": 933747,
+            "weight": 0.041892049114576266
         }
     ],
     "videostarttime": {

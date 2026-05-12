@@ -8,11 +8,10 @@
         194495
     ],
     "party_list": [
-        "GroenLinks",
-        "PRO",
         "PvdA",
+        " Ouderen Appèl - Hart voor Eindhoven",
         "Partij voor de Dieren",
-        " Ouderen Appèl - Hart voor Eindhoven"
+        "GroenLinks"
     ],
     "poho_id": 230013,
     "title": "Hoe zit het met ons drinkwater (Motie M4)",
@@ -36,27 +35,23 @@
     "related": [
         {
             "id": 1144342,
-            "weight": 0.43348993959263893
+            "weight": 0.5057382628580788
         },
         {
             "id": 1088097,
-            "weight": 0.4261150484759983
+            "weight": 0.49713422322199796
         },
         {
             "id": 1123634,
-            "weight": 0.41970113163341266
+            "weight": 0.4896513202389814
         },
         {
             "id": 1141020,
-            "weight": 0.31521992362539497
-        },
-        {
-            "id": 1153871,
-            "weight": 0.30206979747155194
+            "weight": 0.3501785008461435
         },
         {
             "id": 1140866,
-            "weight": 0.30026049577679265
+            "weight": 0.3298468852887237
         },
         {
             "id": 1060177,
@@ -288,7 +283,7 @@
     },
     "svz": "",
     "afgedaan": "",
-    "eersteIndiener": 131137,
-    "lastScrapeDate": "04-05-2026",
+    "eersteIndiener": 194495,
+    "lastScrapeDate": "08-04-2026",
     "meeting_id": []
 }

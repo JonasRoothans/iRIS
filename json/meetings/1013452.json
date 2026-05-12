@@ -2445,15 +2445,13 @@
             }
         }
     },
-    "title": {
-        "Raadzaal": "Vergadering Raadsvergadering 14-02-2023 Gemeente Eindhoven"
-    },
+    "title": "Vergadering Raadsvergadering 14-02-2023 Gemeente Eindhoven",
     "meeting_url": "https://raadsinformatie.eindhoven.nl/vergadering/1013452/",
     "video_url": {
         "Raadzaal": "http://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_14.02.23_NC_Eindhoven_Raadsvergadering .mp4/playlist.m3u8"
     },
     "api_url": "api.notubiz.nl/events/1013452",
-    "date": "2023-02-14 18:00:00",
+    "date": "14-02-2023",
     "type": "Raadsvergadering",
     "agenda": {
         "Raadzaal": {
@@ -2485,7 +2483,9 @@
             "812": {
                 "title": "Raadsvoorstel ontheffen en benoeming van commissieleden als lid in de Meningsvormende vergadering",
                 "id": 7393455,
-                "module_id": []
+                "module_id": [
+                    820785
+                ]
             },
             "928": {
                 "title": "Openbare besluitenlijst van de raadsvergadering d.d. 24 januari 2023",
@@ -2510,12 +2510,16 @@
             "1985": {
                 "title": "Raadsvoorstel Vaststelling bestemmingsplan Tongelre binnen de Ring (Tapuitstraat-Meerkollaan)",
                 "id": 7354844,
-                "module_id": []
+                "module_id": [
+                    817398
+                ]
             },
             "1994": {
                 "title": "Raadsvoorstel De Groene Zone Isoleren als publieke taak en aanvraag Nationale Isolatieprogramma 2023",
                 "id": 7256332,
-                "module_id": []
+                "module_id": [
+                    801951
+                ]
             },
             "2087": {
                 "title": "Bespreekstukken",
@@ -2525,22 +2529,30 @@
             "2098": {
                 "title": "Raadsvoorstel Startnotitie Pact Woensel Zuid",
                 "id": 7287599,
-                "module_id": []
+                "module_id": [
+                    804895
+                ]
             },
             "5774": {
                 "title": "Raadsvoorstel Zienswijze concept samenwerkingsakkoord Metropoolregio Eindhoven 2023 - 2026 (MRE)",
                 "id": 7285174,
-                "module_id": []
+                "module_id": [
+                    804112
+                ]
             },
             "7978": {
                 "title": "Raadsvoorstel Ontwikkelkader Kastelenplein",
                 "id": 7327552,
-                "module_id": []
+                "module_id": [
+                    806370
+                ]
             },
             "10411": {
                 "title": "Raadsvoorstel Kaders voor samenspraak omgevingsvisie 2.0",
                 "id": 7287585,
-                "module_id": []
+                "module_id": [
+                    804274
+                ]
             },
             "12656": {
                 "title": "Vrije moties",

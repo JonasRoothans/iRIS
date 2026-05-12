@@ -3,17 +3,17 @@
     "vote_id": null,
     "member_id": [
         194242,
-        133688,
         42090,
         131155,
-        194424
+        194424,
+        133688
     ],
     "party_list": [
+        "D66",
+        "VVD",
         "LPF ",
         "50PLUS",
-        "CDA",
-        "VVD",
-        "D66"
+        "CDA"
     ],
     "poho_id": 230024,
     "title": "Focus op kansrijk werk (Vrije Motie VM9)",
@@ -293,7 +293,7 @@
     },
     "svz": "",
     "afgedaan": "",
-    "eersteIndiener": 194424,
-    "lastScrapeDate": "04-05-2026",
+    "eersteIndiener": 194242,
+    "lastScrapeDate": "08-04-2026",
     "meeting_id": []
 }

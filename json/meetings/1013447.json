@@ -5514,15 +5514,13 @@
             }
         }
     },
-    "title": {
-        "Raadzaal": "Vergadering Raadsvergadering 24-01-2023 Gemeente Eindhoven"
-    },
+    "title": "Vergadering Raadsvergadering 24-01-2023 Gemeente Eindhoven",
     "meeting_url": "https://raadsinformatie.eindhoven.nl/vergadering/1013447/",
     "video_url": {
         "Raadzaal": "http://wowza1.notubiz.nl/nbvod/_definst_/Eindhoven/bestanden/S_24.01.23_Eindhoven_NC_Raadsvergadering.mp4/playlist.m3u8"
     },
     "api_url": "api.notubiz.nl/events/1013447",
-    "date": "2023-01-24 18:00:00",
+    "date": "24-01-2023",
     "type": "Raadsvergadering",
     "agenda": {
         "Raadzaal": {
@@ -5554,12 +5552,16 @@
             "1145": {
                 "title": "Bekrachtiging geheimhouding met betrekking tot stukken raadsvoorstel \"Krediet vernieuwbouw Fuutlaan 10” ",
                 "id": 7286543,
-                "module_id": []
+                "module_id": [
+                    804860
+                ]
             },
             "1155": {
                 "title": "Raadsvoorstel Bekrachtiging geheimhouding voor inzage documenten m.b.t. locatiekeuze Fuutlaan 10 ",
                 "id": 7337635,
-                "module_id": []
+                "module_id": [
+                    813324
+                ]
             },
             "1187": {
                 "title": "Benoemingen en ontheffingen",
@@ -5569,7 +5571,9 @@
             "1195": {
                 "title": "Raadsvoorstel ontheffen van een commissielid van de fractie PvdA als lid in de Meningsvormende vergadering ",
                 "id": 7346433,
-                "module_id": []
+                "module_id": [
+                    815434
+                ]
             },
             "1220": {
                 "title": "Openbare besluitenlijst van de raadsvergadering d.d. 20 december 2022",
@@ -5589,42 +5593,58 @@
             "2755": {
                 "title": "Raadsvoorstel Gewijzigde vaststelling bestemmingsplan III Bedrijventerrein GDC-Noord (De Schakel) en exploitatieplan Bedrijventerrein GDC-Noord (De Schakel) en vaststelling beeldkwaliteitsplan GDC-Noord (De Schakel)",
                 "id": 7217712,
-                "module_id": []
+                "module_id": [
+                    798583
+                ]
             },
             "2504": {
                 "title": "Raadsvoorstel Verdeling toegekende middelen voor de Omgevingswet",
                 "id": 7191172,
-                "module_id": []
+                "module_id": [
+                    795415
+                ]
             },
             "2643": {
                 "title": "Raadsvoorstel Gewijzigde vaststelling bestemmingsplan ‘Deelgebieden Woensel-Zuid 2021’",
                 "id": 7201949,
-                "module_id": []
+                "module_id": [
+                    792365
+                ]
             },
             "2510": {
                 "title": "Raadsvoorstel Vaststellen kwaliteitsniveaus en geactualiseerde beheerplannen inclusief actualisatie en demarcatie onderhoudsbudgetten Sportaccommodaties",
                 "id": 7199091,
-                "module_id": []
+                "module_id": [
+                    796438
+                ]
             },
             "2523": {
                 "title": "Raadsvoorstel Vaststellen beheerplan en meerjarenonderhoudsplanning (MJOP) gebruikersonderhoud Van Abbemuseum",
                 "id": 7197680,
-                "module_id": []
+                "module_id": [
+                    796421
+                ]
             },
             "2528": {
                 "title": "Raadsvoorstel Verordening op de raadscommissie Knoop XL gemeente Eindhoven 2023",
                 "id": 7335536,
-                "module_id": []
+                "module_id": [
+                    813293
+                ]
             },
             "2534": {
                 "title": "Raadsvoorstel benoeming plaatsvervangende leden raadscommissie Knoop XL",
                 "id": 7335953,
-                "module_id": []
+                "module_id": [
+                    813416
+                ]
             },
             "2880": {
                 "title": "Raadsvoorstel Beslissing op bezwaar gericht tegen het raadsbesluit waarin het verzoek om opheffing van de geheimhouding van stukken betreffende de “Uitkoopregeling woonboten bedrijventerrein De Hurk” is afgewezen & beslissing op de ingebrekestelling vanwege het niet (tijdig) beslissen op het bezwaar",
                 "id": 7344684,
-                "module_id": []
+                "module_id": [
+                    814889
+                ]
             },
             "2952": {
                 "title": "Bespreekstukken",
@@ -5634,12 +5654,16 @@
             "15132": {
                 "title": "Raadsvoorstel investeringsbudget nieuwbouw Tongelreep",
                 "id": 7243548,
-                "module_id": []
+                "module_id": [
+                    799172
+                ]
             },
             "2962": {
                 "title": "Raadsvoorstel Uitvoering gebiedsontwikkeling Fellenoord (Hoe)",
                 "id": 7243576,
-                "module_id": []
+                "module_id": [
+                    798901
+                ]
             },
             "11675": {
                 "title": "Vrije moties",

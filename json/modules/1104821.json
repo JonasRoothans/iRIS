@@ -11,9 +11,10 @@
     "party": null,
     "poho": "R. van  Dooren (Wethouder)",
     "result": "aangenomen",
-    "date": "20-01-2026",
+    "date": "06-01-2026",
     "meeting_url": {
-        "1374857": "https://raadsinformatie.eindhoven.nl/vergadering/1374857/Raadsvoorstel%20wensen%20en%20bedenkingen%20oprichting%20MRE%20Fondsbeheer%20BV%2C%20Woonfonds%20BV%20en%20Bestuursstichting%20Woonfonds 20-01-2026#voting_401588"
+        "1374857": "https://raadsinformatie.eindhoven.nl/vergadering/1374857#ai_9909633",
+        "1374826": "https://raadsinformatie.eindhoven.nl/vergadering/1374826#ai_9895384"
     },
     "attachment": {
         "https://raadsinformatie.eindhoven.nl/document/16263948/2/8073046_02+Raadsvoorstel+wensen+en+bedenkingen+oprichting+MRE+Fondsbeheer+BV+etc?connection_type=17&connection_id=12622127": "Raadsvoorstel wensen en bedenkingen oprichting MRE Fondsbeheer BV etc",
@@ -38,7 +39,7 @@
     "related": [
         {
             "id": 1118693,
-            "weight": 4.355308493847709
+            "weight": 4.37859084030812
         },
         {
             "id": 884453,
@@ -50,19 +51,15 @@
         },
         {
             "id": 1078957,
-            "weight": 0.47062923433046777
-        },
-        {
-            "id": 1153878,
-            "weight": 0.3934534627894468
-        },
-        {
-            "id": 1081289,
-            "weight": 0.28196545509994025
+            "weight": 0.4931218688368098
         },
         {
             "id": 1104190,
-            "weight": 0.26842159954276845
+            "weight": 0.3783198809315205
+        },
+        {
+            "id": 1081289,
+            "weight": 0.304831338945012
         },
         {
             "id": 776895,
@@ -70,19 +67,23 @@
         },
         {
             "id": 1020447,
-            "weight": 0.1371628894621419
+            "weight": 0.16002337103916556
+        },
+        {
+            "id": 941275,
+            "weight": 0.15627809981766524
+        },
+        {
+            "id": 1118702,
+            "weight": 0.15427194676362072
+        },
+        {
+            "id": "a_9764231",
+            "weight": 0.13908248063476852
         },
         {
             "id": 974101,
             "weight": 0.13615385717946782
-        },
-        {
-            "id": 941275,
-            "weight": 0.13395265698657022
-        },
-        {
-            "id": 1118702,
-            "weight": 0.1322330972259606
         },
         {
             "id": 1090160,
@@ -101,8 +102,8 @@
             "weight": 0.11676962005639824
         },
         {
-            "id": "a_9764231",
-            "weight": 0.11590206719564043
+            "id": 804112,
+            "weight": 0.11416141884918012
         },
         {
             "id": 905359,
@@ -119,10 +120,6 @@
         {
             "id": 932012,
             "weight": 0.11136125390281584
-        },
-        {
-            "id": 804112,
-            "weight": 0.0951345157076501
         },
         {
             "id": 949024,
@@ -291,7 +288,7 @@
     "svz": null,
     "afgedaan": null,
     "eersteIndiener": null,
-    "lastScrapeDate": "04-05-2026",
+    "lastScrapeDate": "10-04-2026",
     "meeting_id": [
         1374857
     ]

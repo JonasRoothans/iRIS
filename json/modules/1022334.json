@@ -4,30 +4,30 @@
     "member_id": [
         47266,
         194370,
-        194375,
-        80968,
         57511,
+        80968,
+        194375,
         42090
     ],
     "party_list": [
-        "LPF ",
-        "50PLUS",
-        "PvdA",
-        "SP",
         "Partij voor de Dieren",
-        " Ouderen Appèl - Hart voor Eindhoven"
+        "PvdA",
+        " Ouderen Appèl - Hart voor Eindhoven",
+        "LPF ",
+        "SP",
+        "50PLUS"
     ],
     "poho_id": [],
-    "title": "Motie (VM3): Tegen huurverhoging (SP, PvdD, LPF, OAHvE)",
+    "title": "Tegen huurverhoging (Vrije Motie VM3)",
     "url": "https://raadsinformatie.eindhoven.nl/modules/6/moties_en_toezeggingen/1022334?parent_event=1256316",
     "type": "Vrije motie",
     "member": "Jannie Visscher, Jonas Roothans, Niek Rennenberg, Rudy Reker, Cor Verbeek en Tjeerd Ritmeester",
     "party": null,
     "poho": "",
-    "result": "aangenomen",
+    "result": "Aangenomen",
     "date": "25-02-2025",
     "meeting_url": {
-        "1256316": "https://raadsinformatie.eindhoven.nl/vergadering/1256316/Motie%20%28VM3%29%3A%20Tegen%20huurverhoging%20%28SP%2C%20PvdD%2C%20LPF%2C%20OAHvE%29 25-02-2025#voting_9119930"
+        "1256316": "https://raadsinformatie.eindhoven.nl/vergadering/1256316#ai_8588145"
     },
     "attachment": null,
     "parent": null,
@@ -78,28 +78,32 @@
             "weight": 0.08342559896916532
         },
         {
+            "id": 917900,
+            "weight": 0.058623986683543405
+        },
+        {
             "id": 16260931,
             "weight": 0.05855103306025132
+        },
+        {
+            "id": 16687924,
+            "weight": 0.05823791495161157
         },
         {
             "id": 847794,
             "weight": 0.05483396256369067
         },
         {
+            "id": 1141043,
+            "weight": 0.05348810994858665
+        },
+        {
             "id": 12503815,
             "weight": 0.053458970996388265
         },
         {
-            "id": 1155677,
-            "weight": 0.05237947305347707
-        },
-        {
-            "id": 917900,
-            "weight": 0.05024913144303721
-        },
-        {
-            "id": 16687924,
-            "weight": 0.04991821281566706
+            "id": 1125029,
+            "weight": 0.04986277267180636
         },
         {
             "id": 1085541,
@@ -112,10 +116,6 @@
         {
             "id": 898910,
             "weight": 0.04629366675452236
-        },
-        {
-            "id": 1141043,
-            "weight": 0.04584695138450284
         },
         {
             "id": 898905,
@@ -134,8 +134,8 @@
             "weight": 0.045152198078558886
         },
         {
-            "id": 1125029,
-            "weight": 0.04273951943297688
+            "id": 1009794,
+            "weight": 0.04461349245064769
         },
         {
             "id": 1046837,
@@ -144,10 +144,6 @@
         {
             "id": 16361107,
             "weight": 0.04014742693091226
-        },
-        {
-            "id": 1009794,
-            "weight": 0.03824013638626945
         },
         {
             "id": 12482207,

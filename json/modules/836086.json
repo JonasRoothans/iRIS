@@ -6,8 +6,8 @@
         57511
     ],
     "party_list": [
-        "50PLUS",
-        " Ouderen Appèl - Hart voor Eindhoven"
+        " Ouderen Appèl - Hart voor Eindhoven",
+        "50PLUS"
     ],
     "poho_id": [],
     "title": "Beantwoording raadsvragen Eindhovense scanauto heeft nog last van beperkingen (OAHvE)",
@@ -48,7 +48,15 @@
         },
         {
             "id": 984122,
-            "weight": 0.36043115348799004
+            "weight": 0.45053894185998755
+        },
+        {
+            "id": 996953,
+            "weight": 0.3742400849691517
+        },
+        {
+            "id": "a_7347945",
+            "weight": 0.36702271064342984
         },
         {
             "id": 901249,
@@ -57,18 +65,6 @@
         {
             "id": 1094247,
             "weight": 0.33962506886264154
-        },
-        {
-            "id": 996953,
-            "weight": 0.29939206797532136
-        },
-        {
-            "id": "a_7347945",
-            "weight": 0.29361816851474387
-        },
-        {
-            "id": 1153182,
-            "weight": 0.2684727258609747
         },
         {
             "id": "a_9764231",

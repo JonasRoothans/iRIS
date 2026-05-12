@@ -13,7 +13,8 @@
     "result": "aangenomen",
     "date": "19-12-2023",
     "meeting_url": {
-        "1013531": "https://raadsinformatie.eindhoven.nl/vergadering/1013531/Raadsvoorstel%20Huisvestingsverordening%202024 19-12-2023#voting_8035233"
+        "1013531": "https://raadsinformatie.eindhoven.nl/vergadering/1013531#ai_7972087",
+        "1044903": "https://raadsinformatie.eindhoven.nl/vergadering/1044903#ai_8005046"
     },
     "attachment": {
         "https://raadsinformatie.eindhoven.nl/document/13420061/1/23bst01431+Raadsvoorstel+Huisvestingsverordening+2024?connection_type=17&connection_id=9908968": "23bst01431 Raadsvoorstel Huisvestingsverordening 2024",
@@ -233,6 +234,10 @@
             "weight": 0.05887206424661483
         },
         {
+            "id": 1053653,
+            "weight": 0.05689619670044146
+        },
+        {
             "id": 1133048,
             "weight": 0.05650354175550017
         },
@@ -243,6 +248,10 @@
         {
             "id": 1037226,
             "weight": 0.05372268850050338
+        },
+        {
+            "id": 796421,
+            "weight": 0.05366094557092924
         },
         {
             "id": 777294,
@@ -279,6 +288,10 @@
         {
             "id": 1009251,
             "weight": 0.0484016705291736
+        },
+        {
+            "id": 949421,
+            "weight": 0.048085571615210924
         },
         {
             "id": 787218,
@@ -321,8 +334,32 @@
             "weight": 0.041908394999731445
         },
         {
+            "id": 943628,
+            "weight": 0.041502646285990964
+        },
+        {
+            "id": "a_10115066",
+            "weight": 0.04142061174878247
+        },
+        {
+            "id": 1141484,
+            "weight": 0.04126069251904541
+        },
+        {
+            "id": 798449,
+            "weight": 0.039923947328571886
+        },
+        {
             "id": 777009,
             "weight": 0.03913252030830283
+        },
+        {
+            "id": 1125914,
+            "weight": 0.03847737966579882
+        },
+        {
+            "id": 970349,
+            "weight": 0.03502361901379748
         },
         {
             "id": 831310,

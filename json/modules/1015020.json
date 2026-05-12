@@ -3,17 +3,17 @@
     "vote_id": null,
     "member_id": [
         194500,
-        57511,
-        194376,
         131143,
+        194376,
+        57511,
         90571
     ],
     "party_list": [
-        "Volt",
-        "50PLUS",
-        "CDA",
         "D66",
-        "FVD"
+        "Volt",
+        "FVD",
+        "50PLUS",
+        "CDA"
     ],
     "poho_id": 231116,
     "title": "De Brabantse vlag hijsen (Vrije Motie VM4)",

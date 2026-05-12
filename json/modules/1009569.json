@@ -11,9 +11,10 @@
     "party": null,
     "poho": "M. Verhees (Wethouder)",
     "result": "aangenomen",
-    "date": "04-02-2025",
+    "date": "28-01-2025",
     "meeting_url": {
-        "1256308": "https://raadsinformatie.eindhoven.nl/vergadering/1256308/Raadsvoorstel%20Bindend%20advies%20ten%20behoeve%20van%20%20aanvraag%20omgevingsvergunning%20Orionstraat%205 04-02-2025#voting_9054064"
+        "1256308": "https://raadsinformatie.eindhoven.nl/vergadering/1256308#ai_9004457",
+        "1256307": "https://raadsinformatie.eindhoven.nl/vergadering/1256307#ai_8953587"
     },
     "attachment": {
         "http://raadsinformatie.eindhoven.nl/document/15115230/4?connection_type=16&connection_id=1009569": " Nadere toelichting bij raadsvoorstel Bindend advies ten behoeve van  aanvraag omgevingsvergunning Orionstraat 5 ",
@@ -42,11 +43,11 @@
     "related": [
         {
             "id": 1015907,
-            "weight": 2.8729983724948593
+            "weight": 2.918971224932855
         },
         {
             "id": 1146335,
-            "weight": 1.6827893188450056
+            "weight": 1.7210084041021185
         },
         {
             "id": 1083889,
@@ -81,6 +82,10 @@
             "weight": 0.22096711585077952
         },
         {
+            "id": 1088097,
+            "weight": 0.20509354885348408
+        },
+        {
             "id": "a_8883154",
             "weight": 0.20259607966041537
         },
@@ -101,16 +106,8 @@
             "weight": 0.18282556155297558
         },
         {
-            "id": 1153871,
-            "weight": 0.17985753069814653
-        },
-        {
             "id": 950248,
             "weight": 0.17850811742005562
-        },
-        {
-            "id": 1088097,
-            "weight": 0.16407483908278725
         },
         {
             "id": 937058,

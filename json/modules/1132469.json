@@ -10,13 +10,12 @@
         194495
     ],
     "party_list": [
-        "Volt",
-        "PRO",
-        "GroenLinks",
-        "PvdA",
-        "SP",
         "Partij voor de Dieren",
-        " Ouderen Appèl - Hart voor Eindhoven"
+        "Volt",
+        "PvdA",
+        " Ouderen Appèl - Hart voor Eindhoven",
+        "GroenLinks",
+        "SP"
     ],
     "poho_id": 230023,
     "title": "Leegstandsverordening (Vrije Motie VM3)",
@@ -356,6 +355,6 @@
     "svz": "",
     "afgedaan": "",
     "eersteIndiener": 194366,
-    "lastScrapeDate": "04-05-2026",
+    "lastScrapeDate": "08-04-2026",
     "meeting_id": []
 }

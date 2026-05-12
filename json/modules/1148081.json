@@ -8,7 +8,7 @@
         "FVD"
     ],
     "poho_id": [],
-    "title": "Beantwoording raadsvragen Gevolgen PowerNext (FvD)",
+    "title": "Ingekomen raadsvragen Gevolgen PowerNext (FvD)",
     "url": "https://raadsinformatie.eindhoven.nl/modules/4/Raadsvragen/1148081",
     "type": "Raadsvraag",
     "member": "Nicolas Knoester",
@@ -18,15 +18,14 @@
     "date": "31-03-2026",
     "meeting_url": null,
     "attachment": {
-        "https://raadsinformatie.eindhoven.nl/document/16774906/1?connection_type=17&connection_id=13162957": "Vraag",
-        "https://raadsinformatie.eindhoven.nl/document/16881876/1?connection_type=17&connection_id=13298448": "Antwoord"
+        "https://raadsinformatie.eindhoven.nl/document/16774906/1?connection_type=17&connection_id=13162957": "Vraag"
     },
     "parent": null,
     "children": [],
     "text": null,
     "pdf_url": "https://raadsinformatie.eindhoven.nl/document/16774906/1?connection_type=17&connection_id=13162957",
     "pdf_text": " \n \n \nRaadsvragen - Gevolgen PowerNext  \n \ndatum:  30 maart 2026  \n \n \nGeacht college,  \n \nEerder heeft Forum voor Democratie, samen met andere partijen, \nmiddels een motie verzocht om af te zien van de plaatsing van de \nPowerNEXT -installatie op de Stadhuistoren. Deze motie is helaas \nverworpen.  Naast de eerder geuite zorgen over kosten, erfgoed en  \nruimtelijke kwaliteit, rijzen er nu ook vragen over de gevolgen voor \nbestaande functies en symboliek van de Stadhuistoren, zoals de \nvuurwerkshow en het voeren van vlaggen.  \n \n1. Heeft de plaatsing van de PowerNEXT -installatie gevolgen voor \nde mogelijkheid om vuurwerkshows vanaf de Stadhuistoren te \norganiseren?  \n2. Kan het college garanderen dat de drie vlaggen op de \nStadhuistoren, zoals die nu structureel worden gevoerd, ook na \nplaatsing van de PowerNEXT -installatie kunnen blijven \nwapperen?  \n \nNamens de fractie  Forum voor Democratie,  \n \nNicolas Knoester , raadslid  \n \n",
-    "bst": "8098450_1.2.1.",
+    "bst": "",
     "related": [
         {
             "id": 793203,
@@ -81,28 +80,20 @@
             "weight": 0.15441734387441122
         },
         {
+            "id": 1078520,
+            "weight": 0.14931046768499975
+        },
+        {
+            "id": 1085070,
+            "weight": 0.13513716935388118
+        },
+        {
             "id": 777622,
             "weight": 0.13184949025405493
         },
         {
-            "id": 1153214,
-            "weight": 0.12599944404123317
-        },
-        {
             "id": 1037784,
             "weight": 0.10504837693972915
-        },
-        {
-            "id": 1153243,
-            "weight": 0.10342463654889818
-        },
-        {
-            "id": 1078520,
-            "weight": 0.08958628061099985
-        },
-        {
-            "id": 1085070,
-            "weight": 0.08108230161232871
         },
         {
             "id": 1061167,
@@ -171,6 +162,6 @@
     "svz": null,
     "afgedaan": null,
     "eersteIndiener": 194500,
-    "lastScrapeDate": "04-05-2026",
+    "lastScrapeDate": "08-04-2026",
     "meeting_id": []
 }

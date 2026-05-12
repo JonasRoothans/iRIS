@@ -13,7 +13,8 @@
     "result": "aangenomen",
     "date": "20-09-2023",
     "meeting_url": {
-        "1013512": "https://raadsinformatie.eindhoven.nl/vergadering/1013512/Raadsvoorstel%20Delegatiebesluit%20Jaarlijkse%20vaststelling%20gemeentelijke%20warmtetarieven 20-09-2023#voting_7815302"
+        "1013512": "https://raadsinformatie.eindhoven.nl/vergadering/1013512#ai_7763301",
+        "1127249": "https://raadsinformatie.eindhoven.nl/vergadering/1127249#ai_7763302"
     },
     "attachment": {
         "https://raadsinformatie.eindhoven.nl/document/13010909/2/23bst01080+Raadsvoorstel+Delegatiebesluit+jaarlijkse+vaststelling+gemeentelijke+warmtetarieven?connection_type=17&connection_id=9617186": "Raadsvoorstel Delegatiebesluit jaarlijkse vaststelling gemeentelijke warmtetarieven",
@@ -29,15 +30,15 @@
     "related": [
         {
             "id": 906661,
-            "weight": 2.0926105065345704
+            "weight": 2.102942692645298
         },
         {
             "id": 804725,
-            "weight": 1.904778846932583
+            "weight": 1.9153111634193964
         },
         {
             "id": 1000447,
-            "weight": 1.6055822631369985
+            "weight": 1.6160610732166263
         },
         {
             "id": 1026190,
@@ -45,11 +46,11 @@
         },
         {
             "id": 944421,
-            "weight": 0.7300051913847069
+            "weight": 0.7398090156135428
         },
         {
             "id": 1026194,
-            "weight": 0.5117037101954598
+            "weight": 0.5329989454937984
         },
         {
             "id": 1058731,
@@ -105,11 +106,15 @@
         },
         {
             "id": 977899,
-            "weight": 0.08727701903850152
+            "weight": 0.09697446559833502
         },
         {
             "id": 856435,
-            "weight": 0.07737560140409631
+            "weight": 0.0859728904489959
+        },
+        {
+            "id": 975678,
+            "weight": 0.08336745919756434
         },
         {
             "id": 1034728,
@@ -118,10 +123,6 @@
         {
             "id": 1141020,
             "weight": 0.07553630969407525
-        },
-        {
-            "id": 975678,
-            "weight": 0.07503071327780791
         },
         {
             "id": 937151,
@@ -142,10 +143,6 @@
         {
             "id": 859252,
             "weight": 0.06554332999371479
-        },
-        {
-            "id": 1154263,
-            "weight": 0.053930953632462655
         }
     ],
     "videostarttime": {

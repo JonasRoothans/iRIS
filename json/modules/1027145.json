@@ -4,16 +4,18 @@
     "member_id": [],
     "party_list": [],
     "poho_id": 230023,
-    "title": "Startnotitie Herziening Woonprogramma: Zoveel mogelijk mensen onder dak",
+    "title": "Raadsvoorstel Startnotitie Herziening Woonprogramma: Zoveel mogelijk mensen onder dak",
     "url": "https://raadsinformatie.eindhoven.nl/modules/19/raadsvoorstellen/1027145?parent_event=1256319",
     "type": "Raadsvoorstel",
     "member": null,
     "party": null,
     "poho": "M. Verhees (Wethouder)",
     "result": "aangenomen",
-    "date": "20-05-2025",
+    "date": "01-04-2025",
     "meeting_url": {
-        "1256319": "https://raadsinformatie.eindhoven.nl/vergadering/1256319/Startnotitie%20Herziening%20Woonprogramma%3A%20Zoveel%20mogelijk%20mensen%20onder%20dak 20-05-2025#voting_9349048"
+        "1256319": "https://raadsinformatie.eindhoven.nl/vergadering/1256319#ai_9349042",
+        "1256345": "https://raadsinformatie.eindhoven.nl/vergadering/1256345#ai_9164935",
+        "1256606": "https://raadsinformatie.eindhoven.nl/vergadering/1256606#ai_9234405"
     },
     "attachment": {
         "http://raadsinformatie.eindhoven.nl/document/15259974/1?connection_type=16&connection_id=1027145": " Bijlage 1 - Collegebrief aan de leden van de raad over Woonbehoeftenonderzoek d.d. 17dec2024 ",
@@ -59,7 +61,7 @@
         },
         {
             "id": 1091329,
-            "weight": 0.5243694565402747
+            "weight": 0.5243694565402746
         },
         {
             "id": 1001572,

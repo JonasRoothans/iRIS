@@ -13,7 +13,8 @@
     "result": "aangenomen",
     "date": "10-09-2024",
     "meeting_url": {
-        "1148045": "https://raadsinformatie.eindhoven.nl/vergadering/1148045/Raadsvoorstel%20Ontwikkelstrategie%20Zuidoost%20Brabant 10-09-2024#voting_8587368"
+        "1148045": "https://raadsinformatie.eindhoven.nl/vergadering/1148045#ai_8581206",
+        "1148042": "https://raadsinformatie.eindhoven.nl/vergadering/1148042#ai_8617191"
     },
     "attachment": {
         "https://raadsinformatie.eindhoven.nl/document/14362366/1/24bst00808+Raadsvoorstel+Ontwikkelstrategie+Zuidoost+Brabant?connection_type=17&connection_id=10766033": "Raadsvoorstel Ontwikkelstrategie Zuidoost Brabant",
@@ -85,12 +86,12 @@
             "weight": 0.2550184660215756
         },
         {
-            "id": 889102,
-            "weight": 0.21806297201473404
+            "id": 1117274,
+            "weight": 0.22053554868766037
         },
         {
-            "id": 1117274,
-            "weight": 0.19296860510170283
+            "id": 889102,
+            "weight": 0.21806297201473404
         },
         {
             "id": 1050622,
@@ -125,6 +126,10 @@
             "weight": 0.10874457433888332
         },
         {
+            "id": 1078957,
+            "weight": 0.10834599256287702
+        },
+        {
             "id": 863926,
             "weight": 0.10830893572011054
         },
@@ -141,20 +146,20 @@
             "weight": 0.10331303499389836
         },
         {
-            "id": 1123955,
-            "weight": 0.09620489990945012
+            "id": 1148686,
+            "weight": 0.09740712086099886
         },
         {
-            "id": 1078957,
-            "weight": 0.0948027434925174
+            "id": 1123955,
+            "weight": 0.09620489990945012
         },
         {
             "id": 1123359,
             "weight": 0.09079021622930496
         },
         {
-            "id": 1148686,
-            "weight": 0.085231230753374
+            "id": 857634,
+            "weight": 0.0887986303211944
         },
         {
             "id": 1001572,
@@ -165,8 +170,12 @@
             "weight": 0.08133256708253185
         },
         {
-            "id": 857634,
-            "weight": 0.0776988015310451
+            "id": "a_9607875",
+            "weight": 0.07979589884523874
+        },
+        {
+            "id": 1000410,
+            "weight": 0.07741033756881259
         },
         {
             "id": 787674,
@@ -193,16 +202,8 @@
             "weight": 0.07105255720174213
         },
         {
-            "id": "a_9607875",
-            "weight": 0.0698214114895839
-        },
-        {
             "id": 15643147,
             "weight": 0.06972045509870696
-        },
-        {
-            "id": 1000410,
-            "weight": 0.06773404537271102
         },
         {
             "id": 1121686,
@@ -219,10 +220,6 @@
         {
             "id": 777002,
             "weight": 0.06295593902381207
-        },
-        {
-            "id": 1153878,
-            "weight": 0.06191740956124105
         },
         {
             "id": 1027870,

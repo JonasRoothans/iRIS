@@ -11,9 +11,11 @@
     "party": null,
     "poho": "R. Thijs (Wethouder)",
     "result": "aangenomen",
-    "date": "30-09-2025",
+    "date": "26-08-2025",
     "meeting_url": {
-        "1256324": "https://raadsinformatie.eindhoven.nl/vergadering/1256324/Raadsvoorstel%20Masterplan%20openbare%20ruimte%20Stadhuisplein%20en%20omgeving 30-09-2025#voting_9578214"
+        "1256324": "https://raadsinformatie.eindhoven.nl/vergadering/1256324#ai_9563231",
+        "1256636": "https://raadsinformatie.eindhoven.nl/vergadering/1256636#ai_9435861",
+        "1256643": "https://raadsinformatie.eindhoven.nl/vergadering/1256643#ai_9572915"
     },
     "attachment": {
         "https://raadsinformatie.eindhoven.nl/document/15718301/1/7950096_02+Raadsvoorstel+Masterplan+openbare+ruimte+Stadhuisplein+en+omgeving?connection_type=17&connection_id=12032147": "Raadsvoorstel Masterplan openbare ruimte Stadhuisplein en omgeving",
@@ -169,6 +171,10 @@
             "weight": 0.12230613158493071
         },
         {
+            "id": 920227,
+            "weight": 0.12173814746018427
+        },
+        {
             "id": 776877,
             "weight": 0.12148260616090281
         },
@@ -185,24 +191,20 @@
             "weight": 0.11773037231506119
         },
         {
+            "id": 1132674,
+            "weight": 0.1173484331787226
+        },
+        {
             "id": 1032099,
             "weight": 0.11703284056219501
         },
         {
-            "id": 920227,
-            "weight": 0.10652087902766123
+            "id": 884474,
+            "weight": 0.11107842753303036
         },
         {
             "id": 968644,
             "weight": 0.1057165249509146
-        },
-        {
-            "id": 1157569,
-            "weight": 0.10547411964247146
-        },
-        {
-            "id": 1132674,
-            "weight": 0.10267987903138227
         },
         {
             "id": "a_8235495",
@@ -211,10 +213,6 @@
         {
             "id": 879558,
             "weight": 0.09869651675079007
-        },
-        {
-            "id": 884474,
-            "weight": 0.09719362409140157
         },
         {
             "id": 974484,
@@ -297,8 +295,16 @@
             "weight": 0.07092458477951649
         },
         {
+            "id": 1042149,
+            "weight": 0.07024497590055388
+        },
+        {
             "id": 1082736,
             "weight": 0.06986831122238235
+        },
+        {
+            "id": 1085534,
+            "weight": 0.0697070507467744
         },
         {
             "id": 1037226,
@@ -325,20 +331,16 @@
             "weight": 0.06608102567876059
         },
         {
+            "id": 1036311,
+            "weight": 0.0645014149472113
+        },
+        {
             "id": 15169776,
             "weight": 0.062120775641881086
         },
         {
             "id": 969980,
             "weight": 0.061840404315308774
-        },
-        {
-            "id": 1042149,
-            "weight": 0.061464353912984646
-        },
-        {
-            "id": 1085534,
-            "weight": 0.060993669403427604
         },
         {
             "id": 1120826,
@@ -351,10 +353,6 @@
         {
             "id": 1103181,
             "weight": 0.05872400853787847
-        },
-        {
-            "id": 1036311,
-            "weight": 0.056438738078809884
         },
         {
             "id": 1031823,
@@ -479,8 +477,8 @@
     "eersteIndiener": null,
     "lastScrapeDate": "10-04-2026",
     "meeting_id": [
-        1256324,
+        1256636,
         1256323,
-        1256636
+        1256324
     ]
 }

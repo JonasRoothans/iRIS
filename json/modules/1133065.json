@@ -73,11 +73,11 @@
             "weight": 0.41629930596831544
         },
         {
-            "id": 977662,
+            "id": "r_8748211",
             "weight": 0.3769642646231508
         },
         {
-            "id": "r_8748211",
+            "id": 977662,
             "weight": 0.3769642646231508
         },
         {
@@ -440,7 +440,7 @@
     "svz": null,
     "afgedaan": null,
     "eersteIndiener": null,
-    "lastScrapeDate": "04-05-2026",
+    "lastScrapeDate": "10-04-2026",
     "meeting_id": [
         1374861
     ]

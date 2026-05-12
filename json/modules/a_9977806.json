@@ -10,10 +10,10 @@
     ],
     "party_list": [
         "Eindhoven voor Elkaar",
-        "Volt",
-        "SP",
         "Partij voor de Dieren",
-        " Ouderen Appèl - Hart voor Eindhoven"
+        "Volt",
+        " Ouderen Appèl - Hart voor Eindhoven",
+        "SP"
     ],
     "poho_id": [],
     "title": "Aangekondigd Amendement A2 - Publieke belangen vragen om publieke sturing (EVE, Volt, SP, PvdD)",
@@ -37,7 +37,7 @@
     "related": [
         {
             "id": 1104821,
-            "weight": 4.13089142675513
+            "weight": 4.151050135725921
         },
         {
             "id": 1118693,
@@ -88,6 +88,14 @@
             "weight": 0.15911569116780333
         },
         {
+            "id": "a_9764231",
+            "weight": 0.13877173162575798
+        },
+        {
+            "id": 1078957,
+            "weight": 0.13465427816751524
+        },
+        {
             "id": 945991,
             "weight": 0.11827734851177248
         },
@@ -96,12 +104,8 @@
             "weight": 0.11596560850362488
         },
         {
-            "id": "a_9764231",
-            "weight": 0.11564310968813164
-        },
-        {
-            "id": 1078957,
-            "weight": 0.11221189847292938
+            "id": 804112,
+            "weight": 0.11390635043500812
         },
         {
             "id": 1117714,
@@ -132,10 +136,6 @@
             "weight": 0.09625160071181811
         },
         {
-            "id": 804112,
-            "weight": 0.0949219586958401
-        },
-        {
             "id": 945997,
             "weight": 0.09461391637885135
         },
@@ -150,10 +150,6 @@
         {
             "id": 920945,
             "weight": 0.09060105952934681
-        },
-        {
-            "id": 1153878,
-            "weight": 0.08766277424873797
         },
         {
             "id": "a_9362726",
@@ -260,8 +256,8 @@
     },
     "svz": null,
     "afgedaan": null,
-    "eersteIndiener": 194376,
-    "lastScrapeDate": "04-05-2026",
+    "eersteIndiener": 194370,
+    "lastScrapeDate": "08-04-2026",
     "meeting_id": [
         1374857
     ]

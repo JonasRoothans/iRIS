@@ -6,8 +6,8 @@
         194500
     ],
     "party_list": [
-        "FVD",
-        "LPF "
+        "LPF ",
+        "FVD"
     ],
     "poho_id": [],
     "title": "Geen verhoging van de parkeertarieven (Motie KM16)",
@@ -16,10 +16,10 @@
     "member": "Nicolas Knoester en Rudy Reker",
     "party": null,
     "poho": "",
-    "result": "verworpen",
+    "result": "Verworpen",
     "date": "28-05-2024",
     "meeting_url": {
-        "1147937": "https://raadsinformatie.eindhoven.nl/vergadering/1147937/Geen%20verhoging%20van%20de%20parkeertarieven%20%28Motie%20KM16%29 28-05-2024#voting_8469949"
+        "1147937": "https://raadsinformatie.eindhoven.nl/vergadering/1147937#ai_8361768"
     },
     "attachment": null,
     "parent": 933747,
@@ -31,7 +31,7 @@
     "related": [
         {
             "id": 945991,
-            "weight": 1.215091925079683
+            "weight": 1.310895372740513
         },
         {
             "id": "a_8288831",
@@ -68,10 +68,6 @@
         {
             "id": "a_9977806",
             "weight": 0.09461391637885135
-        },
-        {
-            "id": 1157910,
-            "weight": 0.09337683649149801
         },
         {
             "id": 882987,
@@ -118,6 +114,10 @@
             "weight": 0.048413010215792376
         },
         {
+            "id": 998551,
+            "weight": 0.04801461290821239
+        },
+        {
             "id": 879979,
             "weight": 0.04733425327260341
         },
@@ -130,8 +130,16 @@
             "weight": 0.04714517122099435
         },
         {
+            "id": 790697,
+            "weight": 0.046478144678908914
+        },
+        {
             "id": 815680,
             "weight": 0.04180369077622399
+        },
+        {
+            "id": 776527,
+            "weight": 0.04065840279399754
         },
         {
             "id": 906504,
@@ -140,6 +148,26 @@
         {
             "id": 13136282,
             "weight": 0.03971573817978805
+        },
+        {
+            "id": 838678,
+            "weight": 0.039667111300765376
+        },
+        {
+            "id": "a_7151094",
+            "weight": 0.03800297580983986
+        },
+        {
+            "id": 794220,
+            "weight": 0.03785727656037975
+        },
+        {
+            "id": 801851,
+            "weight": 0.03653823271611932
+        },
+        {
+            "id": 933747,
+            "weight": 0.03351081911910417
         }
     ],
     "videostarttime": {
