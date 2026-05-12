@@ -23,7 +23,6 @@ var/
 wheels/
 share/python-wheels/
 xmls/
-json/
 private/
 *.egg-info/
 .installed.cfg
@@ -164,7 +163,14 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-*.json
+
 *.html
 /Presentation/htmls/Cyberduck.app
-!/json/members/*.json
+/output/data/htmls/cards/*
+/output/data/cards/*
+/output/Presentation/htmls/cards/*
+/Presentation/htmls/cards/*
+/json/modules_old/*
+/old/*
+/json/votes_old/*
+*.zip
