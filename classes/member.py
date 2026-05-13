@@ -6,6 +6,8 @@ import json
 from functions.support import cwdpath
 from classes.party import Party
 import random
+from datetime import date
+from datetime import datetime
 
 @dataclass
 class Member:
@@ -16,6 +18,7 @@ class Member:
     role: Optional[str] = None
     url: Optional[str] = None
     img: Optional[str] = None
+    lastUpdate: Optional[str] = None
 
     def __init__(self, speaker_id: Optional[int] = None,
                  person_id: Optional[int] = None,
@@ -24,7 +27,8 @@ class Member:
                  role: Optional[str] = None,
                  url: Optional[str] = None,
                  img: Optional[str] = None,
-                 active: Optional[str] = None):
+                 active: Optional[str] = None,
+                 lastUpdate: Optional[str] = None):
         if speaker_id is not None and person_id is None and name is None and party is None and role is None and url is None:
             self.load_from_json(speaker_id)
         else:
@@ -36,6 +40,7 @@ class Member:
             self.url = url
             self.img = img
             self.active = active
+            self.lastUpdate = lastUpdate
 
     def __str__(self):
         return self.name
@@ -62,12 +67,13 @@ class Member:
 
 
     def load_from_json(self, speaker_id):
+
+        #strip .json from id
         if isinstance(speaker_id,str):
             if speaker_id[-5:] == '.json':
                 speaker_id = speaker_id[0:-5]
 
-
-
+        #find id, or return with new unknown member.
         file_path = cwdpath(os.path.join('json','members','speaker',f'{speaker_id}.json'))
         if not os.path.exists(file_path):
             file_path = cwdpath(os.path.join('json','members','person',f'{speaker_id}.json'))
@@ -77,6 +83,8 @@ class Member:
                     self.name = f'Unknown id: {speaker_id}'
                     self.speaker_id = speaker_id
                     return
+
+        #load json to object
         with open(file_path, 'r') as file:
             data = json.load(file)
             self.speaker_id = data['speaker_id']
@@ -89,6 +97,8 @@ class Member:
                 self.img = data['img']
             if 'active' in data:
                 self.active = data['active']
+            if 'lastUpdate' in data:
+                self.lastUpdate = data['lastUpdate']
 
     def print_details(self):
         print(f"Speaker ID: {self.speaker_id}")
@@ -98,9 +108,25 @@ class Member:
         print(f"Role: {self.role}")
         print(f"URL: {self.url}")
 
+    def timestamp(self):
+        self.lastUpdate = date.today().strftime('%d-%m-%Y')
+
+    def daysSinceLastCheck(self):
+        today = date.today()
+        if self.lastUpdate:
+            lastUpdate = datetime.strptime(self.lastUpdate, '%d-%m-%Y').date()
+            d = today-lastUpdate
+            return d.total_seconds()/60/60/24
+        else:
+            return 10000
+
+
+
+
+
     def get_party(self):
         if self.party:
-            return Party(self.party.lower().replace(' ',''))
+            return Party(self.party)
         return None
 
     def save(self):
@@ -115,7 +141,6 @@ class Member:
         os.makedirs(directory_path, exist_ok=True)
 
         #Settings
-
         directory_path_speaker = cwdpath(os.path.join('json','members','speaker'))
         directory_path_person =  cwdpath(os.path.join('json','members','person'))
         os.makedirs(directory_path_speaker, exist_ok=True)

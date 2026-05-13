@@ -49,6 +49,16 @@ def main(driver):
 
             # make a member object
             new_member = Member(member_id)
+            print(new_member.daysSinceLastCheck())
+            new_member.timestamp()
+            new_member.save()
+
+
+            if 'Unknown id' not in new_member.name:
+                #ID already exists.
+                continue
+
+
             try:
                 new_member.img = soup_member.find(id='pasfoto').find('img')['src']
             except:
@@ -56,9 +66,7 @@ def main(driver):
                 new_member.img = soup_member.find(id='pasfoto').find('img')['src']
             new_member.save()
 
-            if 'Unknown id' not in new_member.name:
-                #ID already exists.
-                continue
+
 
 
 
